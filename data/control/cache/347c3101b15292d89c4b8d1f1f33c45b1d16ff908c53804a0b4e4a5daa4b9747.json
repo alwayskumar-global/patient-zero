@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "pkg": "is-generator-function",
+  "source": "https://registry.npmjs.org/is-generator-function",
+  "fetchedAt": "2026-11-16T10:35:06.222Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 15
+  },
+  "sourceSha256": "1ba01d7cf4cd719f762aceac819d6db2957653767b1935da5b22ab1e4fed9d53",
+  "versions": [
+    {
+      "pkg": "is-generator-function",
+      "semver": "1.1.0",
+      "publishedAt": "2025-01-02T18:19:09.453Z",
+      "publisher": "ljharb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 35698,
+      "dependencies": {
+        "get-proto": "^1.0.0",
+        "call-bound": "^1.0.3",
+        "has-tostringtag": "^1.0.2",
+        "safe-regex-test": "^1.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/is-generator-function",
+          "observedAt": "2026-11-16T10:35:06.222Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/is-generator-function",
+          "observedAt": "2026-11-16T10:35:06.222Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/is-generator-function",
+          "observedAt": "2026-11-16T10:35:06.222Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/is-generator-function",
+          "observedAt": "2026-11-16T10:35:06.222Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/is-generator-function",
+          "observedAt": "2026-11-16T10:35:06.222Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/is-generator-function",
+          "observedAt": "2026-11-16T10:35:06.222Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

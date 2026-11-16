@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "pkg": "js-yaml",
+  "source": "https://registry.npmjs.org/js-yaml",
+  "fetchedAt": "2026-11-16T10:35:08.573Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 94
+  },
+  "sourceSha256": "9f358f4e355d927f28cfa18bc16fc3a3811c915c366c9faf42b8419edfab9a0b",
+  "versions": [
+    {
+      "pkg": "js-yaml",
+      "semver": "3.2.0",
+      "publishedAt": "2014-08-24T07:50:32.612Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/js-yaml",
+          "observedAt": "2026-11-16T10:35:08.573Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "js-yaml",
+      "semver": "4.1.0",
+      "publishedAt": "2021-04-14T21:07:09.057Z",
+      "publisher": "vitaly",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 404738,
+      "dependencies": {
+        "argparse": "^2.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/js-yaml",
+          "observedAt": "2026-11-16T10:35:08.573Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/js-yaml",
+          "observedAt": "2026-11-16T10:35:08.573Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/js-yaml",
+          "observedAt": "2026-11-16T10:35:08.573Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/js-yaml",
+          "observedAt": "2026-11-16T10:35:08.573Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/js-yaml",
+          "observedAt": "2026-11-16T10:35:08.573Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/js-yaml",
+          "observedAt": "2026-11-16T10:35:08.573Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

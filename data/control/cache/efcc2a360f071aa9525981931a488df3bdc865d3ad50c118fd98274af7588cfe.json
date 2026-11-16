@@ -1,0 +1,357 @@
+{
+  "schemaVersion": 1,
+  "pkg": "babel-plugin-jest-hoist",
+  "source": "https://registry.npmjs.org/babel-plugin-jest-hoist",
+  "fetchedAt": "2026-11-16T10:34:56.518Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 203
+  },
+  "sourceSha256": "655d912fc0d01a952a3510c33998c4d47fd1420bb6e3e176fe0bd6e55d051cfa",
+  "versions": [
+    {
+      "pkg": "babel-plugin-jest-hoist",
+      "semver": "11.0.2",
+      "publishedAt": "2016-04-18T04:03:22.324Z",
+      "publisher": "kentaromiura",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/babel-plugin-jest-hoist",
+          "observedAt": "2026-11-16T10:34:56.518Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/babel-plugin-jest-hoist",
+          "observedAt": "2026-11-16T10:34:56.518Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/babel-plugin-jest-hoist",
+          "observedAt": "2026-11-16T10:34:56.518Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/babel-plugin-jest-hoist",
+          "observedAt": "2026-11-16T10:34:56.518Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/babel-plugin-jest-hoist",
+          "observedAt": "2026-11-16T10:34:56.518Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "babel-plugin-jest-hoist",
+      "semver": "21.0.0-alpha.2",
+      "publishedAt": "2017-08-21T22:06:46.355Z",
+      "publisher": "aaronabramov",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/babel-plugin-jest-hoist",
+          "observedAt": "2026-11-16T10:34:56.518Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/babel-plugin-jest-hoist",
+          "observedAt": "2026-11-16T10:34:56.518Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/babel-plugin-jest-hoist",
+          "observedAt": "2026-11-16T10:34:56.518Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/babel-plugin-jest-hoist",
+          "observedAt": "2026-11-16T10:34:56.518Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/babel-plugin-jest-hoist",
+          "observedAt": "2026-11-16T10:34:56.518Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "babel-plugin-jest-hoist",
+      "semver": "24.2.0",
+      "publishedAt": "2019-03-05T11:22:43.930Z",
+      "publisher": "mjesun",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 8280,
+      "dependencies": {
+        "@types/babel__traverse": "^7.0.6"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/babel-plugin-jest-hoist",
+          "observedAt": "2026-11-16T10:34:56.518Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/babel-plugin-jest-hoist",
+          "observedAt": "2026-11-16T10:34:56.518Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/babel-plugin-jest-hoist",
+          "observedAt": "2026-11-16T10:34:56.518Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/babel-plugin-jest-hoist",
+          "observedAt": "2026-11-16T10:34:56.518Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/babel-plugin-jest-hoist",
+          "observedAt": "2026-11-16T10:34:56.518Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/babel-plugin-jest-hoist",
+          "observedAt": "2026-11-16T10:34:56.518Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "babel-plugin-jest-hoist",
+      "semver": "24.6.0",
+      "publishedAt": "2019-04-01T22:26:16.818Z",
+      "publisher": "rubennorte",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 164800,
+      "dependencies": {
+        "@types/babel__traverse": "^7.0.6"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/babel-plugin-jest-hoist",
+          "observedAt": "2026-11-16T10:34:56.518Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/babel-plugin-jest-hoist",
+          "observedAt": "2026-11-16T10:34:56.518Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/babel-plugin-jest-hoist",
+          "observedAt": "2026-11-16T10:34:56.518Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/babel-plugin-jest-hoist",
+          "observedAt": "2026-11-16T10:34:56.518Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/babel-plugin-jest-hoist",
+          "observedAt": "2026-11-16T10:34:56.518Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/babel-plugin-jest-hoist",
+          "observedAt": "2026-11-16T10:34:56.518Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "babel-plugin-jest-hoist",
+      "semver": "25.0.0",
+      "publishedAt": "2019-08-22T03:23:44.272Z",
+      "publisher": "scotthovestadt",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7570,
+      "dependencies": {
+        "@types/babel__traverse": "^7.0.6"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/babel-plugin-jest-hoist",
+          "observedAt": "2026-11-16T10:34:56.518Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/babel-plugin-jest-hoist",
+          "observedAt": "2026-11-16T10:34:56.518Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/babel-plugin-jest-hoist",
+          "observedAt": "2026-11-16T10:34:56.518Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/babel-plugin-jest-hoist",
+          "observedAt": "2026-11-16T10:34:56.518Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/babel-plugin-jest-hoist",
+          "observedAt": "2026-11-16T10:34:56.518Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/babel-plugin-jest-hoist",
+          "observedAt": "2026-11-16T10:34:56.518Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "babel-plugin-jest-hoist",
+      "semver": "25.1.0",
+      "publishedAt": "2020-01-22T00:59:44.561Z",
+      "publisher": "davidzilburg",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7890,
+      "dependencies": {
+        "@types/babel__traverse": "^7.0.6"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/babel-plugin-jest-hoist",
+          "observedAt": "2026-11-16T10:34:56.518Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/babel-plugin-jest-hoist",
+          "observedAt": "2026-11-16T10:34:56.518Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/babel-plugin-jest-hoist",
+          "observedAt": "2026-11-16T10:34:56.518Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/babel-plugin-jest-hoist",
+          "observedAt": "2026-11-16T10:34:56.518Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/babel-plugin-jest-hoist",
+          "observedAt": "2026-11-16T10:34:56.518Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/babel-plugin-jest-hoist",
+          "observedAt": "2026-11-16T10:34:56.518Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "babel-plugin-jest-hoist",
+      "semver": "30.0.0-alpha.7",
+      "publishedAt": "2025-01-30T08:28:22.560Z",
+      "publisher": "simenb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 13945,
+      "dependencies": {
+        "@babel/types": "^7.3.3",
+        "@babel/template": "^7.3.3",
+        "@types/babel__core": "^7.1.14"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/babel-plugin-jest-hoist",
+          "observedAt": "2026-11-16T10:34:56.518Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/babel-plugin-jest-hoist",
+          "observedAt": "2026-11-16T10:34:56.518Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/babel-plugin-jest-hoist",
+          "observedAt": "2026-11-16T10:34:56.518Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/babel-plugin-jest-hoist",
+          "observedAt": "2026-11-16T10:34:56.518Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/babel-plugin-jest-hoist",
+          "observedAt": "2026-11-16T10:34:56.518Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/babel-plugin-jest-hoist",
+          "observedAt": "2026-11-16T10:34:56.518Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "babel-plugin-jest-hoist",
+      "semver": "30.0.1",
+      "publishedAt": "2025-06-18T22:31:17.868Z",
+      "publisher": "cpojer",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 13940,
+      "dependencies": {
+        "@babel/types": "^7.27.3",
+        "@babel/template": "^7.27.2",
+        "@types/babel__core": "^7.20.5"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/babel-plugin-jest-hoist",
+          "observedAt": "2026-11-16T10:34:56.518Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/babel-plugin-jest-hoist",
+          "observedAt": "2026-11-16T10:34:56.518Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/babel-plugin-jest-hoist",
+          "observedAt": "2026-11-16T10:34:56.518Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/babel-plugin-jest-hoist",
+          "observedAt": "2026-11-16T10:34:56.518Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/babel-plugin-jest-hoist",
+          "observedAt": "2026-11-16T10:34:56.518Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/babel-plugin-jest-hoist",
+          "observedAt": "2026-11-16T10:34:56.518Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

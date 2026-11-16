@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "regenerate",
+  "source": "https://registry.npmjs.org/regenerate",
+  "fetchedAt": "2026-11-16T10:35:23.869Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 27
+  },
+  "sourceSha256": "ebb6e38e18ff1c8cf35f0929baa4ce059f60baebc07eed4ac95a50766c8510fa",
+  "versions": [
+    {
+      "pkg": "regenerate",
+      "semver": "1.4.2",
+      "publishedAt": "2020-11-01T08:42:12.525Z",
+      "publisher": "mathias",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 49156,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/regenerate",
+          "observedAt": "2026-11-16T10:35:23.869Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/regenerate",
+          "observedAt": "2026-11-16T10:35:23.869Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/regenerate",
+          "observedAt": "2026-11-16T10:35:23.869Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/regenerate",
+          "observedAt": "2026-11-16T10:35:23.869Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/regenerate",
+          "observedAt": "2026-11-16T10:35:23.869Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/regenerate",
+          "observedAt": "2026-11-16T10:35:23.869Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

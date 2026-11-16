@@ -1,0 +1,236 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@radix-ui/react-use-size",
+  "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-size",
+  "fetchedAt": "2026-11-16T10:34:38.410Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 126
+  },
+  "sourceSha256": "07c0b980964cdc1eda839935c6aa37547dd998933eb44aa2f2e852b97c7b8fb3",
+  "versions": [
+    {
+      "pkg": "@radix-ui/react-use-size",
+      "semver": "0.1.1",
+      "publishedAt": "2022-02-24T18:06:30.037Z",
+      "publisher": "jjenzz",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 9338,
+      "dependencies": {
+        "@babel/runtime": "^7.13.10"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-size",
+          "observedAt": "2026-11-16T10:34:38.410Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-size",
+          "observedAt": "2026-11-16T10:34:38.410Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-size",
+          "observedAt": "2026-11-16T10:34:38.410Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-size",
+          "observedAt": "2026-11-16T10:34:38.410Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-size",
+          "observedAt": "2026-11-16T10:34:38.410Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-size",
+          "observedAt": "2026-11-16T10:34:38.410Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@radix-ui/react-use-size",
+      "semver": "1.0.1",
+      "publishedAt": "2023-05-26T11:04:04.856Z",
+      "publisher": "benoitgrelard",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 13961,
+      "dependencies": {
+        "@babel/runtime": "^7.13.10",
+        "@radix-ui/react-use-layout-effect": "1.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-size",
+          "observedAt": "2026-11-16T10:34:38.410Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-size",
+          "observedAt": "2026-11-16T10:34:38.410Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-size",
+          "observedAt": "2026-11-16T10:34:38.410Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-size",
+          "observedAt": "2026-11-16T10:34:38.410Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-size",
+          "observedAt": "2026-11-16T10:34:38.410Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-size",
+          "observedAt": "2026-11-16T10:34:38.410Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@radix-ui/react-use-size",
+      "semver": "1.1.0",
+      "publishedAt": "2024-06-19T19:58:48.268Z",
+      "publisher": "vladmoroz",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 11447,
+      "dependencies": {
+        "@radix-ui/react-use-layout-effect": "1.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-size",
+          "observedAt": "2026-11-16T10:34:38.410Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-size",
+          "observedAt": "2026-11-16T10:34:38.410Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-size",
+          "observedAt": "2026-11-16T10:34:38.410Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-size",
+          "observedAt": "2026-11-16T10:34:38.410Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-size",
+          "observedAt": "2026-11-16T10:34:38.410Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-size",
+          "observedAt": "2026-11-16T10:34:38.410Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@radix-ui/react-use-size",
+      "semver": "1.1.0-rc.7",
+      "publishedAt": "2024-06-19T19:55:01.194Z",
+      "publisher": "stephenhaney",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 11485,
+      "dependencies": {
+        "@radix-ui/react-use-layout-effect": "1.1.0-rc.7"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-size",
+          "observedAt": "2026-11-16T10:34:38.410Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-size",
+          "observedAt": "2026-11-16T10:34:38.410Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-size",
+          "observedAt": "2026-11-16T10:34:38.410Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-size",
+          "observedAt": "2026-11-16T10:34:38.410Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-size",
+          "observedAt": "2026-11-16T10:34:38.410Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-size",
+          "observedAt": "2026-11-16T10:34:38.410Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@radix-ui/react-use-size",
+      "semver": "1.1.1",
+      "publishedAt": "2025-04-08T16:46:20.952Z",
+      "publisher": "chancestrickland",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 12139,
+      "dependencies": {
+        "@radix-ui/react-use-layout-effect": "1.1.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-size",
+          "observedAt": "2026-11-16T10:34:38.410Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-size",
+          "observedAt": "2026-11-16T10:34:38.410Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-size",
+          "observedAt": "2026-11-16T10:34:38.410Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-size",
+          "observedAt": "2026-11-16T10:34:38.410Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-size",
+          "observedAt": "2026-11-16T10:34:38.410Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-size",
+          "observedAt": "2026-11-16T10:34:38.410Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

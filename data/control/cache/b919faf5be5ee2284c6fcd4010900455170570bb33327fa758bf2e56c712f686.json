@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "language-tags",
+  "source": "https://registry.npmjs.org/language-tags",
+  "fetchedAt": "2026-11-16T10:35:09.314Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 17
+  },
+  "sourceSha256": "c304c39eb4f84c4a3ec4db618bbe303471621ce4a6fa9b7df39585a0c5ed5a36",
+  "versions": [
+    {
+      "pkg": "language-tags",
+      "semver": "2.1.0",
+      "publishedAt": "2025-05-13T13:51:34.431Z",
+      "publisher": "mcg",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 25713,
+      "dependencies": {
+        "language-subtag-registry": "^0.3.20"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/language-tags",
+          "observedAt": "2026-11-16T10:35:09.314Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/language-tags",
+          "observedAt": "2026-11-16T10:35:09.314Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/language-tags",
+          "observedAt": "2026-11-16T10:35:09.314Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/language-tags",
+          "observedAt": "2026-11-16T10:35:09.314Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/language-tags",
+          "observedAt": "2026-11-16T10:35:09.314Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/language-tags",
+          "observedAt": "2026-11-16T10:35:09.314Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

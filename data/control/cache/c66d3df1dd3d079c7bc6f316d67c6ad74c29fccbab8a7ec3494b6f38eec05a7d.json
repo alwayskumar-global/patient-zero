@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "source-map-url",
+  "source": "https://registry.npmjs.org/source-map-url",
+  "fetchedAt": "2026-11-16T10:35:26.901Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 5
+  },
+  "sourceSha256": "1154f8400cabe2fade9b8b136633101a1727819f6d56b4cec643a5d0c40bcf15",
+  "versions": [
+    {
+      "pkg": "source-map-url",
+      "semver": "0.4.1",
+      "publishedAt": "2021-02-01T20:14:54.142Z",
+      "publisher": "lydell",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7658,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/source-map-url",
+          "observedAt": "2026-11-16T10:35:26.901Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/source-map-url",
+          "observedAt": "2026-11-16T10:35:26.901Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/source-map-url",
+          "observedAt": "2026-11-16T10:35:26.901Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/source-map-url",
+          "observedAt": "2026-11-16T10:35:26.901Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/source-map-url",
+          "observedAt": "2026-11-16T10:35:26.901Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/source-map-url",
+          "observedAt": "2026-11-16T10:35:26.901Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "pkg": "class-utils",
+  "source": "https://registry.npmjs.org/class-utils",
+  "fetchedAt": "2026-11-16T10:34:57.671Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 14
+  },
+  "sourceSha256": "1cbca1f7c0cfde9800e9bf1e36b787b9102a0a43180da864893485d1e2b61bed",
+  "versions": [
+    {
+      "pkg": "class-utils",
+      "semver": "0.3.1",
+      "publishedAt": "2016-01-27T02:06:47.886Z",
+      "publisher": "doowb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "define-property": "^0.2.5",
+        "isobject": "^2.0.0",
+        "lazy-cache": "^0.2.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/class-utils",
+          "observedAt": "2026-11-16T10:34:57.671Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/class-utils",
+          "observedAt": "2026-11-16T10:34:57.671Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/class-utils",
+          "observedAt": "2026-11-16T10:34:57.671Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/class-utils",
+          "observedAt": "2026-11-16T10:34:57.671Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/class-utils",
+          "observedAt": "2026-11-16T10:34:57.671Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "class-utils",
+      "semver": "0.3.6",
+      "publishedAt": "2018-01-11T14:49:23.288Z",
+      "publisher": "jonschlinkert",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "arr-union": "^3.1.0",
+        "define-property": "^0.2.5",
+        "isobject": "^3.0.0",
+        "static-extend": "^0.1.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/class-utils",
+          "observedAt": "2026-11-16T10:34:57.671Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/class-utils",
+          "observedAt": "2026-11-16T10:34:57.671Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/class-utils",
+          "observedAt": "2026-11-16T10:34:57.671Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/class-utils",
+          "observedAt": "2026-11-16T10:34:57.671Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/class-utils",
+          "observedAt": "2026-11-16T10:34:57.671Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

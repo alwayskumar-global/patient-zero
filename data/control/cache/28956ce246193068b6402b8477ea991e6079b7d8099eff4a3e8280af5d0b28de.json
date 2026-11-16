@@ -1,0 +1,194 @@
+{
+  "schemaVersion": 1,
+  "pkg": "postcss-selector-parser",
+  "source": "https://registry.npmjs.org/postcss-selector-parser",
+  "fetchedAt": "2026-11-16T10:35:20.606Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 75
+  },
+  "sourceSha256": "4ae1eca5cb11db6fde7b7e51c2bb42a1649c918ecbf8821f2eb6e9adcf50c3d7",
+  "versions": [
+    {
+      "pkg": "postcss-selector-parser",
+      "semver": "3.0.0-rc.0",
+      "publishedAt": "2017-07-16T12:14:36.141Z",
+      "publisher": "beneb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "uniq": "^1.0.1",
+        "dot-prop": "^4.1.1",
+        "indexes-of": "^1.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/postcss-selector-parser",
+          "observedAt": "2026-11-16T10:35:20.606Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/postcss-selector-parser",
+          "observedAt": "2026-11-16T10:35:20.606Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/postcss-selector-parser",
+          "observedAt": "2026-11-16T10:35:20.606Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/postcss-selector-parser",
+          "observedAt": "2026-11-16T10:35:20.606Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/postcss-selector-parser",
+          "observedAt": "2026-11-16T10:35:20.606Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "postcss-selector-parser",
+      "semver": "5.0.0-rc.3",
+      "publishedAt": "2018-05-14T21:51:03.326Z",
+      "publisher": "chriseppstein",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 195977,
+      "dependencies": {
+        "uniq": "^1.0.1",
+        "cssesc": "^1.0.1",
+        "indexes-of": "^1.0.1",
+        "babel-eslint": "^8.2.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/postcss-selector-parser",
+          "observedAt": "2026-11-16T10:35:20.606Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/postcss-selector-parser",
+          "observedAt": "2026-11-16T10:35:20.606Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/postcss-selector-parser",
+          "observedAt": "2026-11-16T10:35:20.606Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/postcss-selector-parser",
+          "observedAt": "2026-11-16T10:35:20.606Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/postcss-selector-parser",
+          "observedAt": "2026-11-16T10:35:20.606Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/postcss-selector-parser",
+          "observedAt": "2026-11-16T10:35:20.606Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "postcss-selector-parser",
+      "semver": "6.0.2",
+      "publishedAt": "2019-03-06T17:48:17.952Z",
+      "publisher": "jonathantneal",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 304353,
+      "dependencies": {
+        "uniq": "^1.0.1",
+        "cssesc": "^3.0.0",
+        "indexes-of": "^1.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/postcss-selector-parser",
+          "observedAt": "2026-11-16T10:35:20.606Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/postcss-selector-parser",
+          "observedAt": "2026-11-16T10:35:20.606Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/postcss-selector-parser",
+          "observedAt": "2026-11-16T10:35:20.606Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/postcss-selector-parser",
+          "observedAt": "2026-11-16T10:35:20.606Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/postcss-selector-parser",
+          "observedAt": "2026-11-16T10:35:20.606Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/postcss-selector-parser",
+          "observedAt": "2026-11-16T10:35:20.606Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "postcss-selector-parser",
+      "semver": "7.1.0",
+      "publishedAt": "2025-02-07T14:48:51.617Z",
+      "publisher": "evilebottnawi",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 187187,
+      "dependencies": {
+        "cssesc": "^3.0.0",
+        "util-deprecate": "^1.0.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/postcss-selector-parser",
+          "observedAt": "2026-11-16T10:35:20.606Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/postcss-selector-parser",
+          "observedAt": "2026-11-16T10:35:20.606Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/postcss-selector-parser",
+          "observedAt": "2026-11-16T10:35:20.606Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/postcss-selector-parser",
+          "observedAt": "2026-11-16T10:35:20.606Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/postcss-selector-parser",
+          "observedAt": "2026-11-16T10:35:20.606Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/postcss-selector-parser",
+          "observedAt": "2026-11-16T10:35:20.606Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

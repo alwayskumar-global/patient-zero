@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "pkg": "bluebird",
+  "source": "https://registry.npmjs.org/bluebird",
+  "fetchedAt": "2026-11-16T10:34:56.790Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 228
+  },
+  "sourceSha256": "050f9d6828dc6a474e4e503e3411b357440b709295be9e02331d3e8ae6ec2aca",
+  "versions": [
+    {
+      "pkg": "bluebird",
+      "semver": "2.3.8",
+      "publishedAt": "2014-10-28T09:40:45.915Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/bluebird",
+          "observedAt": "2026-11-16T10:34:56.790Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "bluebird",
+      "semver": "3.7.2",
+      "publishedAt": "2019-11-28T22:55:40.312Z",
+      "publisher": "esailija",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 632380,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/bluebird",
+          "observedAt": "2026-11-16T10:34:56.790Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/bluebird",
+          "observedAt": "2026-11-16T10:34:56.790Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/bluebird",
+          "observedAt": "2026-11-16T10:34:56.790Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/bluebird",
+          "observedAt": "2026-11-16T10:34:56.790Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/bluebird",
+          "observedAt": "2026-11-16T10:34:56.790Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/bluebird",
+          "observedAt": "2026-11-16T10:34:56.790Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

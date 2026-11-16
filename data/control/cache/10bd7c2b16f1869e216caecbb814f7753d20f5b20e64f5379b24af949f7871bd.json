@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "pkg": "lodash.truncate",
+  "source": "https://registry.npmjs.org/lodash.truncate",
+  "fetchedAt": "2026-11-16T10:35:11.634Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 11
+  },
+  "sourceSha256": "d06aedcbd0ff69dc85985dbde54f507fec92b8560746ce35ac9800e7eb346251",
+  "versions": [
+    {
+      "pkg": "lodash.truncate",
+      "semver": "4.4.2",
+      "publishedAt": "2016-08-13T17:46:24.002Z",
+      "publisher": "jdalton",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/lodash.truncate",
+          "observedAt": "2026-11-16T10:35:11.634Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/lodash.truncate",
+          "observedAt": "2026-11-16T10:35:11.634Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/lodash.truncate",
+          "observedAt": "2026-11-16T10:35:11.634Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/lodash.truncate",
+          "observedAt": "2026-11-16T10:35:11.634Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/lodash.truncate",
+          "observedAt": "2026-11-16T10:35:11.634Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

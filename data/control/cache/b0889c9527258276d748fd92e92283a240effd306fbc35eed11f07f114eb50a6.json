@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "pkg": "ts-dedent",
+  "source": "https://registry.npmjs.org/ts-dedent",
+  "fetchedAt": "2026-11-16T10:35:29.918Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 12
+  },
+  "sourceSha256": "0f08406552f77e97acbc1c8f7cada4a763b4273d314f30f0b7096412722eb341",
+  "versions": [
+    {
+      "pkg": "ts-dedent",
+      "semver": "1.0.0",
+      "publishedAt": "2018-06-14T15:17:54.591Z",
+      "publisher": "next-model",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7549,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ts-dedent",
+          "observedAt": "2026-11-16T10:35:29.918Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ts-dedent",
+          "observedAt": "2026-11-16T10:35:29.918Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ts-dedent",
+          "observedAt": "2026-11-16T10:35:29.918Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ts-dedent",
+          "observedAt": "2026-11-16T10:35:29.918Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/ts-dedent",
+          "observedAt": "2026-11-16T10:35:29.918Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ts-dedent",
+          "observedAt": "2026-11-16T10:35:29.918Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ts-dedent",
+      "semver": "2.2.0",
+      "publishedAt": "2021-08-01T15:22:31.863Z",
+      "publisher": "tamino-martinius",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 26646,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ts-dedent",
+          "observedAt": "2026-11-16T10:35:29.918Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ts-dedent",
+          "observedAt": "2026-11-16T10:35:29.918Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ts-dedent",
+          "observedAt": "2026-11-16T10:35:29.918Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ts-dedent",
+          "observedAt": "2026-11-16T10:35:29.918Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/ts-dedent",
+          "observedAt": "2026-11-16T10:35:29.918Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ts-dedent",
+          "observedAt": "2026-11-16T10:35:29.918Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

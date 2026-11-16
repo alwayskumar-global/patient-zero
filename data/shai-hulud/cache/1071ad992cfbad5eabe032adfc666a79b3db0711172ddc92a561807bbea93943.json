@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "pkg": "cordova-plugin-voxeet2",
+  "source": "https://registry.npmjs.org/cordova-plugin-voxeet2",
+  "fetchedAt": "2026-11-16T10:32:16.264Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 7
+  },
+  "sourceSha256": "4af70ca70a702634fba8717f39ea353138b6ad2953f69f2ec335939f2d09cc81",
+  "versions": [
+    {
+      "pkg": "cordova-plugin-voxeet2",
+      "semver": "1.0.23-5",
+      "publishedAt": "2018-12-20T15:56:57.366Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/cordova-plugin-voxeet2",
+          "observedAt": "2026-11-16T10:32:16.264Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "cordova-plugin-voxeet2",
+      "semver": "1.0.24",
+      "publishedAt": "2025-09-15T15:35:31.426Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/cordova-plugin-voxeet2",
+          "observedAt": "2026-11-16T10:32:16.264Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

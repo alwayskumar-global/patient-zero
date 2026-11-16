@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "pkg": "consola",
+  "source": "https://registry.npmjs.org/consola",
+  "fetchedAt": "2026-11-16T10:34:58.248Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 94
+  },
+  "sourceSha256": "92f1855e6adc54aa4311553fd9f169b3b562349df4287cc9f0c6ac7de561dc82",
+  "versions": [
+    {
+      "pkg": "consola",
+      "semver": "1.4.3",
+      "publishedAt": "2018-08-18T19:59:56.315Z",
+      "publisher": "clarkdo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 24133,
+      "dependencies": {
+        "chalk": "^2.3.2",
+        "lodash": "^4.17.5",
+        "figures": "^2.0.0",
+        "std-env": "^1.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/consola",
+          "observedAt": "2026-11-16T10:34:58.248Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/consola",
+          "observedAt": "2026-11-16T10:34:58.248Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/consola",
+          "observedAt": "2026-11-16T10:34:58.248Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/consola",
+          "observedAt": "2026-11-16T10:34:58.248Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/consola",
+          "observedAt": "2026-11-16T10:34:58.248Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/consola",
+          "observedAt": "2026-11-16T10:34:58.248Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "consola",
+      "semver": "2.0.0-1",
+      "publishedAt": "2018-10-31T22:50:14.791Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/consola",
+          "observedAt": "2026-11-16T10:34:58.248Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "consola",
+      "semver": "2.12.0",
+      "publishedAt": "2020-05-07T12:43:03.126Z",
+      "publisher": "atinux",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 119438,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/consola",
+          "observedAt": "2026-11-16T10:34:58.248Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/consola",
+          "observedAt": "2026-11-16T10:34:58.248Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/consola",
+          "observedAt": "2026-11-16T10:34:58.248Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/consola",
+          "observedAt": "2026-11-16T10:34:58.248Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/consola",
+          "observedAt": "2026-11-16T10:34:58.248Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/consola",
+          "observedAt": "2026-11-16T10:34:58.248Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "consola",
+      "semver": "3.4.2",
+      "publishedAt": "2025-03-18T10:17:43.596Z",
+      "publisher": "pi0",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 321586,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/consola",
+          "observedAt": "2026-11-16T10:34:58.248Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/consola",
+          "observedAt": "2026-11-16T10:34:58.248Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/consola",
+          "observedAt": "2026-11-16T10:34:58.248Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/consola",
+          "observedAt": "2026-11-16T10:34:58.248Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/consola",
+          "observedAt": "2026-11-16T10:34:58.248Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/consola",
+          "observedAt": "2026-11-16T10:34:58.248Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

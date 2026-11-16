@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "pkg": "exponential-backoff",
+  "source": "https://registry.npmjs.org/exponential-backoff",
+  "fetchedAt": "2026-11-16T10:35:01.828Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 20
+  },
+  "sourceSha256": "832d46cadc220e3f6470a69ccc03c6e24d3a91b4c91c97ff8940ca070c991935",
+  "versions": [
+    {
+      "pkg": "exponential-backoff",
+      "semver": "1.0.1",
+      "publishedAt": "2015-08-04T08:05:36.562Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/exponential-backoff",
+          "observedAt": "2026-11-16T10:35:01.828Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "exponential-backoff",
+      "semver": "3.0.1",
+      "publishedAt": "2020-06-06T17:02:53.061Z",
+      "publisher": "coveo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 37547,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/exponential-backoff",
+          "observedAt": "2026-11-16T10:35:01.828Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/exponential-backoff",
+          "observedAt": "2026-11-16T10:35:01.828Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/exponential-backoff",
+          "observedAt": "2026-11-16T10:35:01.828Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/exponential-backoff",
+          "observedAt": "2026-11-16T10:35:01.828Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/exponential-backoff",
+          "observedAt": "2026-11-16T10:35:01.828Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/exponential-backoff",
+          "observedAt": "2026-11-16T10:35:01.828Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "exponential-backoff",
+      "semver": "3.1.0",
+      "publishedAt": "2020-08-06T01:37:48.076Z",
+      "publisher": "coveo-organization",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 37690,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/exponential-backoff",
+          "observedAt": "2026-11-16T10:35:01.828Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/exponential-backoff",
+          "observedAt": "2026-11-16T10:35:01.828Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/exponential-backoff",
+          "observedAt": "2026-11-16T10:35:01.828Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/exponential-backoff",
+          "observedAt": "2026-11-16T10:35:01.828Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/exponential-backoff",
+          "observedAt": "2026-11-16T10:35:01.828Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/exponential-backoff",
+          "observedAt": "2026-11-16T10:35:01.828Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "exponential-backoff",
+      "semver": "3.1.2",
+      "publishedAt": "2025-02-06T20:05:56.530Z",
+      "publisher": "sssayegh",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 55183,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/exponential-backoff",
+          "observedAt": "2026-11-16T10:35:01.828Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/exponential-backoff",
+          "observedAt": "2026-11-16T10:35:01.828Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/exponential-backoff",
+          "observedAt": "2026-11-16T10:35:01.828Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/exponential-backoff",
+          "observedAt": "2026-11-16T10:35:01.828Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/exponential-backoff",
+          "observedAt": "2026-11-16T10:35:01.828Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/exponential-backoff",
+          "observedAt": "2026-11-16T10:35:01.828Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

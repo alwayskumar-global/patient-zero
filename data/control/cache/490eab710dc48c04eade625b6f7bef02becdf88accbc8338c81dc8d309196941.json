@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "pkg": "bn.js",
+  "source": "https://registry.npmjs.org/bn.js",
+  "fetchedAt": "2026-11-16T10:34:56.820Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 130
+  },
+  "sourceSha256": "9be9a1ef09c37b368f8b5747d940083fcaa143b4c3a12304bda240e0bbef1741",
+  "versions": [
+    {
+      "pkg": "bn.js",
+      "semver": "1.2.0",
+      "publishedAt": "2015-02-06T16:16:00.709Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/bn.js",
+          "observedAt": "2026-11-16T10:34:56.820Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "bn.js",
+      "semver": "4.11.8",
+      "publishedAt": "2017-08-07T22:21:45.304Z",
+      "publisher": "indutny",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/bn.js",
+          "observedAt": "2026-11-16T10:34:56.820Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/bn.js",
+          "observedAt": "2026-11-16T10:34:56.820Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/bn.js",
+          "observedAt": "2026-11-16T10:34:56.820Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/bn.js",
+          "observedAt": "2026-11-16T10:34:56.820Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/bn.js",
+          "observedAt": "2026-11-16T10:34:56.820Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "bn.js",
+      "semver": "4.12.2",
+      "publishedAt": "2025-04-25T16:18:08.591Z",
+      "publisher": "fanatid",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 99927,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/bn.js",
+          "observedAt": "2026-11-16T10:34:56.820Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/bn.js",
+          "observedAt": "2026-11-16T10:34:56.820Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/bn.js",
+          "observedAt": "2026-11-16T10:34:56.820Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/bn.js",
+          "observedAt": "2026-11-16T10:34:56.820Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/bn.js",
+          "observedAt": "2026-11-16T10:34:56.820Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/bn.js",
+          "observedAt": "2026-11-16T10:34:56.820Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

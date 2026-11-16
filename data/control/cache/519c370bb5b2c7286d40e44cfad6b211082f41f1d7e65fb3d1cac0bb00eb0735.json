@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "upper-case-first",
+  "source": "https://registry.npmjs.org/upper-case-first",
+  "fetchedAt": "2026-11-16T10:35:31.688Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 10
+  },
+  "sourceSha256": "9ca33d5c6b2ab74b1dd5503ae8c6d590a587138b1153e0802e1e871ef5b85fa0",
+  "versions": [
+    {
+      "pkg": "upper-case-first",
+      "semver": "3.0.0",
+      "publishedAt": "2023-09-30T01:33:30.982Z",
+      "publisher": "blakeembrey",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 2186,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/upper-case-first",
+          "observedAt": "2026-11-16T10:35:31.688Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/upper-case-first",
+          "observedAt": "2026-11-16T10:35:31.688Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/upper-case-first",
+          "observedAt": "2026-11-16T10:35:31.688Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/upper-case-first",
+          "observedAt": "2026-11-16T10:35:31.688Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/upper-case-first",
+          "observedAt": "2026-11-16T10:35:31.688Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/upper-case-first",
+          "observedAt": "2026-11-16T10:35:31.688Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

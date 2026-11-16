@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "pkg": "webpack-sources",
+  "source": "https://registry.npmjs.org/webpack-sources",
+  "fetchedAt": "2026-11-16T10:35:34.670Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 63
+  },
+  "sourceSha256": "d8c1c2c6e76ab8e3d01b0a528ff14775a80c969d7ee8876e364a24edbf3514aa",
+  "versions": [
+    {
+      "pkg": "webpack-sources",
+      "semver": "1.0.2",
+      "publishedAt": "2017-11-04T07:20:58.402Z",
+      "publisher": "thelarkinn",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "source-map": "~0.6.1",
+        "source-list-map": "^2.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/webpack-sources",
+          "observedAt": "2026-11-16T10:35:34.670Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/webpack-sources",
+          "observedAt": "2026-11-16T10:35:34.670Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/webpack-sources",
+          "observedAt": "2026-11-16T10:35:34.670Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/webpack-sources",
+          "observedAt": "2026-11-16T10:35:34.670Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/webpack-sources",
+          "observedAt": "2026-11-16T10:35:34.670Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "webpack-sources",
+      "semver": "3.2.3",
+      "publishedAt": "2022-01-11T16:46:47.603Z",
+      "publisher": "sokra",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 91311,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/webpack-sources",
+          "observedAt": "2026-11-16T10:35:34.670Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/webpack-sources",
+          "observedAt": "2026-11-16T10:35:34.670Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/webpack-sources",
+          "observedAt": "2026-11-16T10:35:34.670Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/webpack-sources",
+          "observedAt": "2026-11-16T10:35:34.670Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/webpack-sources",
+          "observedAt": "2026-11-16T10:35:34.670Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/webpack-sources",
+          "observedAt": "2026-11-16T10:35:34.670Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "webpack-sources",
+      "semver": "3.3.3",
+      "publishedAt": "2025-06-20T15:27:01.499Z",
+      "publisher": "evilebottnawi",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 137704,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/webpack-sources",
+          "observedAt": "2026-11-16T10:35:34.670Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/webpack-sources",
+          "observedAt": "2026-11-16T10:35:34.670Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/webpack-sources",
+          "observedAt": "2026-11-16T10:35:34.670Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/webpack-sources",
+          "observedAt": "2026-11-16T10:35:34.670Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/webpack-sources",
+          "observedAt": "2026-11-16T10:35:34.670Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/webpack-sources",
+          "observedAt": "2026-11-16T10:35:34.670Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

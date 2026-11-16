@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "pkg": "call-bind",
+  "source": "https://registry.npmjs.org/call-bind",
+  "fetchedAt": "2026-11-16T10:34:57.326Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 10
+  },
+  "sourceSha256": "7ba8ffddd3341e4f54ec633a7486390d4909dd56916ee3bcea58d7ea6a8e3126",
+  "versions": [
+    {
+      "pkg": "call-bind",
+      "semver": "1.0.8",
+      "publishedAt": "2024-12-06T05:19:14.902Z",
+      "publisher": "ljharb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 22902,
+      "dependencies": {
+        "get-intrinsic": "^1.2.4",
+        "es-define-property": "^1.0.0",
+        "set-function-length": "^1.2.2",
+        "call-bind-apply-helpers": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/call-bind",
+          "observedAt": "2026-11-16T10:34:57.326Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/call-bind",
+          "observedAt": "2026-11-16T10:34:57.326Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/call-bind",
+          "observedAt": "2026-11-16T10:34:57.326Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/call-bind",
+          "observedAt": "2026-11-16T10:34:57.326Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/call-bind",
+          "observedAt": "2026-11-16T10:34:57.326Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/call-bind",
+          "observedAt": "2026-11-16T10:34:57.326Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

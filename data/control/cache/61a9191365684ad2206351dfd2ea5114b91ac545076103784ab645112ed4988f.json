@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@jridgewell/resolve-uri",
+  "source": "https://registry.npmjs.org/%40jridgewell%2Fresolve-uri",
+  "fetchedAt": "2026-11-16T10:34:35.981Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 16
+  },
+  "sourceSha256": "bf78179e5e51b8beedf1fa54594d2729b2d9211d906c8f00ab219f325eb694ed",
+  "versions": [
+    {
+      "pkg": "@jridgewell/resolve-uri",
+      "semver": "3.1.2",
+      "publishedAt": "2024-02-14T19:32:38.143Z",
+      "publisher": "jridgewell",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 53153,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40jridgewell%2Fresolve-uri",
+          "observedAt": "2026-11-16T10:34:35.981Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40jridgewell%2Fresolve-uri",
+          "observedAt": "2026-11-16T10:34:35.981Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40jridgewell%2Fresolve-uri",
+          "observedAt": "2026-11-16T10:34:35.981Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40jridgewell%2Fresolve-uri",
+          "observedAt": "2026-11-16T10:34:35.981Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40jridgewell%2Fresolve-uri",
+          "observedAt": "2026-11-16T10:34:35.981Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40jridgewell%2Fresolve-uri",
+          "observedAt": "2026-11-16T10:34:35.981Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "pkg": "escape-string-regexp",
+  "source": "https://registry.npmjs.org/escape-string-regexp",
+  "fetchedAt": "2026-11-16T10:35:00.996Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 10
+  },
+  "sourceSha256": "028a96bda2890487efff4cc19d1d974687385c7b092343e984c3442201e290b0",
+  "versions": [
+    {
+      "pkg": "escape-string-regexp",
+      "semver": "1.0.5",
+      "publishedAt": "2016-02-21T12:55:17.074Z",
+      "publisher": "jbnicolai",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/escape-string-regexp",
+          "observedAt": "2026-11-16T10:35:00.996Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/escape-string-regexp",
+          "observedAt": "2026-11-16T10:35:00.996Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/escape-string-regexp",
+          "observedAt": "2026-11-16T10:35:00.996Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/escape-string-regexp",
+          "observedAt": "2026-11-16T10:35:00.996Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/escape-string-regexp",
+          "observedAt": "2026-11-16T10:35:00.996Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "escape-string-regexp",
+      "semver": "5.0.0",
+      "publishedAt": "2021-04-17T15:45:50.334Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 3659,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/escape-string-regexp",
+          "observedAt": "2026-11-16T10:35:00.996Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/escape-string-regexp",
+          "observedAt": "2026-11-16T10:35:00.996Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/escape-string-regexp",
+          "observedAt": "2026-11-16T10:35:00.996Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/escape-string-regexp",
+          "observedAt": "2026-11-16T10:35:00.996Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/escape-string-regexp",
+          "observedAt": "2026-11-16T10:35:00.996Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/escape-string-regexp",
+          "observedAt": "2026-11-16T10:35:00.996Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

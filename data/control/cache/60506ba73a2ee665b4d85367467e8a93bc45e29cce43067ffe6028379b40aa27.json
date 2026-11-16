@@ -1,0 +1,124 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@octokit/endpoint",
+  "source": "https://registry.npmjs.org/%40octokit%2Fendpoint",
+  "fetchedAt": "2026-11-16T10:34:36.387Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 97
+  },
+  "sourceSha256": "ffbda09c3fa32c3869f7687b381628ad593c599cbb1b53fb352a8a457a658fc1",
+  "versions": [
+    {
+      "pkg": "@octokit/endpoint",
+      "semver": "11.0.0",
+      "publishedAt": "2025-05-20T06:25:29.758Z",
+      "publisher": "octokitbot",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 59411,
+      "dependencies": {
+        "@octokit/types": "^14.0.0",
+        "universal-user-agent": "^7.0.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40octokit%2Fendpoint",
+          "observedAt": "2026-11-16T10:34:36.387Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40octokit%2Fendpoint",
+          "observedAt": "2026-11-16T10:34:36.387Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40octokit%2Fendpoint",
+          "observedAt": "2026-11-16T10:34:36.387Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40octokit%2Fendpoint",
+          "observedAt": "2026-11-16T10:34:36.387Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40octokit%2Fendpoint",
+          "observedAt": "2026-11-16T10:34:36.387Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40octokit%2Fendpoint",
+          "observedAt": "2026-11-16T10:34:36.387Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@octokit/endpoint",
+      "semver": "4.1.0",
+      "publishedAt": "2019-04-23T20:41:50.299Z",
+      "publisher": "gr2m",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 25615,
+      "dependencies": {
+        "deepmerge": "3.2.0",
+        "url-template": "^2.0.8",
+        "is-plain-object": "^2.0.4",
+        "universal-user-agent": "^2.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40octokit%2Fendpoint",
+          "observedAt": "2026-11-16T10:34:36.387Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40octokit%2Fendpoint",
+          "observedAt": "2026-11-16T10:34:36.387Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40octokit%2Fendpoint",
+          "observedAt": "2026-11-16T10:34:36.387Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40octokit%2Fendpoint",
+          "observedAt": "2026-11-16T10:34:36.387Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40octokit%2Fendpoint",
+          "observedAt": "2026-11-16T10:34:36.387Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40octokit%2Fendpoint",
+          "observedAt": "2026-11-16T10:34:36.387Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@octokit/endpoint",
+      "semver": "4.3.0",
+      "publishedAt": "2019-05-01T20:23:49.379Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40octokit%2Fendpoint",
+          "observedAt": "2026-11-16T10:34:36.387Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

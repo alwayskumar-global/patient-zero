@@ -1,0 +1,307 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@jest/transform",
+  "source": "https://registry.npmjs.org/%40jest%2Ftransform",
+  "fetchedAt": "2026-11-16T10:34:35.915Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 153
+  },
+  "sourceSha256": "a1ba26f60b0055087e9eb926010d2ec159fc54eb097ba55de5abbe348aaa8cee",
+  "versions": [
+    {
+      "pkg": "@jest/transform",
+      "semver": "24.6.0",
+      "publishedAt": "2019-04-01T22:26:56.512Z",
+      "publisher": "rubennorte",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 249250,
+      "dependencies": {
+        "chalk": "^2.0.1",
+        "slash": "^2.0.0",
+        "jest-util": "^24.6.0",
+        "micromatch": "^3.1.10",
+        "source-map": "^0.6.1",
+        "@babel/core": "^7.1.0",
+        "@jest/types": "^24.6.0",
+        "graceful-fs": "^4.1.15",
+        "jest-haste-map": "^24.6.0",
+        "jest-regex-util": "^24.3.0",
+        "realpath-native": "^1.1.0",
+        "write-file-atomic": "2.4.1",
+        "convert-source-map": "^1.4.0",
+        "babel-plugin-istanbul": "^5.1.0",
+        "fast-json-stable-stringify": "^2.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40jest%2Ftransform",
+          "observedAt": "2026-11-16T10:34:35.915Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40jest%2Ftransform",
+          "observedAt": "2026-11-16T10:34:35.915Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40jest%2Ftransform",
+          "observedAt": "2026-11-16T10:34:35.915Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40jest%2Ftransform",
+          "observedAt": "2026-11-16T10:34:35.915Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40jest%2Ftransform",
+          "observedAt": "2026-11-16T10:34:35.915Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40jest%2Ftransform",
+          "observedAt": "2026-11-16T10:34:35.915Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@jest/transform",
+      "semver": "25.0.0",
+      "publishedAt": "2019-08-22T03:24:25.356Z",
+      "publisher": "scotthovestadt",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 37604,
+      "dependencies": {
+        "chalk": "^2.0.1",
+        "slash": "^3.0.0",
+        "pirates": "^4.0.1",
+        "jest-util": "^25.0.0",
+        "micromatch": "^4.0.2",
+        "source-map": "^0.6.1",
+        "@babel/core": "^7.1.0",
+        "@jest/types": "^25.0.0",
+        "graceful-fs": "^4.1.15",
+        "jest-haste-map": "^25.0.0",
+        "jest-regex-util": "^25.0.0",
+        "realpath-native": "^1.1.0",
+        "write-file-atomic": "^3.0.0",
+        "convert-source-map": "^1.4.0",
+        "babel-plugin-istanbul": "^5.1.0",
+        "fast-json-stable-stringify": "^2.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40jest%2Ftransform",
+          "observedAt": "2026-11-16T10:34:35.915Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40jest%2Ftransform",
+          "observedAt": "2026-11-16T10:34:35.915Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40jest%2Ftransform",
+          "observedAt": "2026-11-16T10:34:35.915Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40jest%2Ftransform",
+          "observedAt": "2026-11-16T10:34:35.915Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40jest%2Ftransform",
+          "observedAt": "2026-11-16T10:34:35.915Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40jest%2Ftransform",
+          "observedAt": "2026-11-16T10:34:35.915Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@jest/transform",
+      "semver": "25.1.0",
+      "publishedAt": "2020-01-22T01:00:04.726Z",
+      "publisher": "davidzilburg",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 40834,
+      "dependencies": {
+        "chalk": "^3.0.0",
+        "slash": "^3.0.0",
+        "pirates": "^4.0.1",
+        "jest-util": "^25.1.0",
+        "micromatch": "^4.0.2",
+        "source-map": "^0.6.1",
+        "@babel/core": "^7.1.0",
+        "@jest/types": "^25.1.0",
+        "graceful-fs": "^4.2.3",
+        "jest-haste-map": "^25.1.0",
+        "jest-regex-util": "^25.1.0",
+        "realpath-native": "^1.1.0",
+        "write-file-atomic": "^3.0.0",
+        "convert-source-map": "^1.4.0",
+        "babel-plugin-istanbul": "^6.0.0",
+        "fast-json-stable-stringify": "^2.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40jest%2Ftransform",
+          "observedAt": "2026-11-16T10:34:35.915Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40jest%2Ftransform",
+          "observedAt": "2026-11-16T10:34:35.915Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40jest%2Ftransform",
+          "observedAt": "2026-11-16T10:34:35.915Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40jest%2Ftransform",
+          "observedAt": "2026-11-16T10:34:35.915Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40jest%2Ftransform",
+          "observedAt": "2026-11-16T10:34:35.915Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40jest%2Ftransform",
+          "observedAt": "2026-11-16T10:34:35.915Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@jest/transform",
+      "semver": "30.0.0-alpha.7",
+      "publishedAt": "2025-01-30T08:28:39.423Z",
+      "publisher": "simenb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 53201,
+      "dependencies": {
+        "chalk": "^4.0.0",
+        "slash": "^3.0.0",
+        "pirates": "^4.0.4",
+        "jest-util": "30.0.0-alpha.7",
+        "micromatch": "^4.0.8",
+        "@babel/core": "^7.11.6",
+        "@jest/types": "30.0.0-alpha.7",
+        "graceful-fs": "^4.2.9",
+        "jest-haste-map": "30.0.0-alpha.7",
+        "jest-regex-util": "30.0.0-alpha.7",
+        "write-file-atomic": "^5.0.0",
+        "convert-source-map": "^2.0.0",
+        "babel-plugin-istanbul": "^7.0.0",
+        "@jridgewell/trace-mapping": "^0.3.18",
+        "fast-json-stable-stringify": "^2.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40jest%2Ftransform",
+          "observedAt": "2026-11-16T10:34:35.915Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40jest%2Ftransform",
+          "observedAt": "2026-11-16T10:34:35.915Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40jest%2Ftransform",
+          "observedAt": "2026-11-16T10:34:35.915Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40jest%2Ftransform",
+          "observedAt": "2026-11-16T10:34:35.915Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40jest%2Ftransform",
+          "observedAt": "2026-11-16T10:34:35.915Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40jest%2Ftransform",
+          "observedAt": "2026-11-16T10:34:35.915Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@jest/transform",
+      "semver": "30.0.5",
+      "publishedAt": "2025-07-22T02:28:39.717Z",
+      "publisher": "cpojer",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 60472,
+      "dependencies": {
+        "chalk": "^4.1.2",
+        "slash": "^3.0.0",
+        "pirates": "^4.0.7",
+        "jest-util": "30.0.5",
+        "micromatch": "^4.0.8",
+        "@babel/core": "^7.27.4",
+        "@jest/types": "30.0.5",
+        "graceful-fs": "^4.2.11",
+        "jest-haste-map": "30.0.5",
+        "jest-regex-util": "30.0.1",
+        "write-file-atomic": "^5.0.1",
+        "convert-source-map": "^2.0.0",
+        "babel-plugin-istanbul": "^7.0.0",
+        "@jridgewell/trace-mapping": "^0.3.25",
+        "fast-json-stable-stringify": "^2.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40jest%2Ftransform",
+          "observedAt": "2026-11-16T10:34:35.915Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40jest%2Ftransform",
+          "observedAt": "2026-11-16T10:34:35.915Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40jest%2Ftransform",
+          "observedAt": "2026-11-16T10:34:35.915Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40jest%2Ftransform",
+          "observedAt": "2026-11-16T10:34:35.915Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40jest%2Ftransform",
+          "observedAt": "2026-11-16T10:34:35.915Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40jest%2Ftransform",
+          "observedAt": "2026-11-16T10:34:35.915Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

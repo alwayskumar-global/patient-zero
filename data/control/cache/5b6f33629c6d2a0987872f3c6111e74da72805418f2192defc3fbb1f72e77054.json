@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "pkg": "pend",
+  "source": "https://registry.npmjs.org/pend",
+  "fetchedAt": "2026-11-16T10:35:17.770Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 6
+  },
+  "sourceSha256": "8b1af6ad2911f52a14c5c801126fd5502ae1b738e7eb7e4186ef6675818e40d0",
+  "versions": [
+    {
+      "pkg": "pend",
+      "semver": "1.2.0",
+      "publishedAt": "2014-11-23T21:52:52.675Z",
+      "publisher": "superjoe",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/pend",
+          "observedAt": "2026-11-16T10:35:17.770Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/pend",
+          "observedAt": "2026-11-16T10:35:17.770Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/pend",
+          "observedAt": "2026-11-16T10:35:17.770Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/pend",
+          "observedAt": "2026-11-16T10:35:17.770Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/pend",
+          "observedAt": "2026-11-16T10:35:17.770Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

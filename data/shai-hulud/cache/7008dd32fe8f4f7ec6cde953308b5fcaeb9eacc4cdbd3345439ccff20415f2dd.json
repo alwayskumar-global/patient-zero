@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@hestjs/scalar",
+  "source": "https://registry.npmjs.org/%40hestjs%2Fscalar",
+  "fetchedAt": "2026-11-16T10:31:22.267Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 8
+  },
+  "sourceSha256": "77409f2dc6db0c7f9ff32d6969eb38bc753bd0d506c96a0997b7d48c3deee6b4",
+  "versions": [
+    {
+      "pkg": "@hestjs/scalar",
+      "semver": "0.1.6",
+      "publishedAt": "2025-07-30T08:07:20.018Z",
+      "publisher": "aqz23678",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 82466,
+      "dependencies": {
+        "hono": "^4.8.9",
+        "@hestjs/core": "^0.2.0",
+        "@scalar/themes": "^0.13.11"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40hestjs%2Fscalar",
+          "observedAt": "2026-11-16T10:31:22.267Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40hestjs%2Fscalar",
+          "observedAt": "2026-11-16T10:31:22.267Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40hestjs%2Fscalar",
+          "observedAt": "2026-11-16T10:31:22.267Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40hestjs%2Fscalar",
+          "observedAt": "2026-11-16T10:31:22.267Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40hestjs%2Fscalar",
+          "observedAt": "2026-11-16T10:31:22.267Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40hestjs%2Fscalar",
+          "observedAt": "2026-11-16T10:31:22.267Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@hestjs/scalar",
+      "semver": "0.1.7",
+      "publishedAt": "2025-09-14T20:45:56.386Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40hestjs%2Fscalar",
+          "observedAt": "2026-11-16T10:31:22.267Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

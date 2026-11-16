@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "pkg": "performance-now",
+  "source": "https://registry.npmjs.org/performance-now",
+  "fetchedAt": "2026-11-16T10:35:17.792Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 11
+  },
+  "sourceSha256": "5da0be2569851a79a01562c8e4c66492876f2d145ed97d3ad170a52e62fe67df",
+  "versions": [
+    {
+      "pkg": "performance-now",
+      "semver": "2.1.0",
+      "publishedAt": "2017-02-19T14:28:49.939Z",
+      "publisher": "meryn",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/performance-now",
+          "observedAt": "2026-11-16T10:35:17.792Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/performance-now",
+          "observedAt": "2026-11-16T10:35:17.792Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/performance-now",
+          "observedAt": "2026-11-16T10:35:17.792Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/performance-now",
+          "observedAt": "2026-11-16T10:35:17.792Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/performance-now",
+          "observedAt": "2026-11-16T10:35:17.792Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

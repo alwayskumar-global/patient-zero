@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "pkg": "has-unicode",
+  "source": "https://registry.npmjs.org/has-unicode",
+  "fetchedAt": "2026-11-16T10:35:03.556Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 4
+  },
+  "sourceSha256": "c18ad9ecf4a6532f00dea62fd781568a73888eb834c90e2ed0acda82891f48d6",
+  "versions": [
+    {
+      "pkg": "has-unicode",
+      "semver": "2.0.1",
+      "publishedAt": "2016-06-23T22:10:28.872Z",
+      "publisher": "iarna",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/has-unicode",
+          "observedAt": "2026-11-16T10:35:03.556Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/has-unicode",
+          "observedAt": "2026-11-16T10:35:03.556Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/has-unicode",
+          "observedAt": "2026-11-16T10:35:03.556Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/has-unicode",
+          "observedAt": "2026-11-16T10:35:03.556Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/has-unicode",
+          "observedAt": "2026-11-16T10:35:03.556Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

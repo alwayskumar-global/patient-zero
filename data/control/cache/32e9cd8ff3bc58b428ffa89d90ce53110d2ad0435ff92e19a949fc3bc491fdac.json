@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@babel/plugin-syntax-optional-catch-binding",
+  "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-optional-catch-binding",
+  "fetchedAt": "2026-11-16T10:34:32.160Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 38
+  },
+  "sourceSha256": "33ec9162584f0536cf9abae1f1f5626306184c5e3e39e6b71d89bb5ec44a5518",
+  "versions": [
+    {
+      "pkg": "@babel/plugin-syntax-optional-catch-binding",
+      "semver": "7.0.0",
+      "publishedAt": "2018-08-27T21:42:51.273Z",
+      "publisher": "hzoo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 2575,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "^7.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-optional-catch-binding",
+          "observedAt": "2026-11-16T10:34:32.160Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-optional-catch-binding",
+          "observedAt": "2026-11-16T10:34:32.160Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-optional-catch-binding",
+          "observedAt": "2026-11-16T10:34:32.160Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-optional-catch-binding",
+          "observedAt": "2026-11-16T10:34:32.160Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-optional-catch-binding",
+          "observedAt": "2026-11-16T10:34:32.160Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-optional-catch-binding",
+          "observedAt": "2026-11-16T10:34:32.160Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/plugin-syntax-optional-catch-binding",
+      "semver": "7.0.0-beta.49",
+      "publishedAt": "2018-05-25T16:01:33.829Z",
+      "publisher": "loganfsmyth",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 1924,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "7.0.0-beta.49"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-optional-catch-binding",
+          "observedAt": "2026-11-16T10:34:32.160Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-optional-catch-binding",
+          "observedAt": "2026-11-16T10:34:32.160Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-optional-catch-binding",
+          "observedAt": "2026-11-16T10:34:32.160Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-optional-catch-binding",
+          "observedAt": "2026-11-16T10:34:32.160Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-optional-catch-binding",
+          "observedAt": "2026-11-16T10:34:32.160Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-optional-catch-binding",
+          "observedAt": "2026-11-16T10:34:32.160Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/plugin-syntax-optional-catch-binding",
+      "semver": "7.8.3",
+      "publishedAt": "2020-01-13T21:14:30.870Z",
+      "publisher": "nicolo-ribaudo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 2573,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "^7.8.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-optional-catch-binding",
+          "observedAt": "2026-11-16T10:34:32.160Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-optional-catch-binding",
+          "observedAt": "2026-11-16T10:34:32.160Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-optional-catch-binding",
+          "observedAt": "2026-11-16T10:34:32.160Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-optional-catch-binding",
+          "observedAt": "2026-11-16T10:34:32.160Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-optional-catch-binding",
+          "observedAt": "2026-11-16T10:34:32.160Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-optional-catch-binding",
+          "observedAt": "2026-11-16T10:34:32.160Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

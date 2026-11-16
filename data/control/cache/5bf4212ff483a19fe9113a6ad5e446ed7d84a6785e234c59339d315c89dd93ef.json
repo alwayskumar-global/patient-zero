@@ -1,0 +1,429 @@
+{
+  "schemaVersion": 1,
+  "pkg": "babel-jest",
+  "source": "https://registry.npmjs.org/babel-jest",
+  "fetchedAt": "2026-11-16T10:34:56.385Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 304
+  },
+  "sourceSha256": "7e3ca66276abe9c58b491a5bc27a462632abcf0be65ccc1e9ff0d8c5f1331a49",
+  "versions": [
+    {
+      "pkg": "babel-jest",
+      "semver": "11.0.2",
+      "publishedAt": "2016-04-18T04:03:20.668Z",
+      "publisher": "kentaromiura",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "babel-core": "^6.0.0",
+        "babel-preset-jest": "^11.0.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/babel-jest",
+          "observedAt": "2026-11-16T10:34:56.385Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/babel-jest",
+          "observedAt": "2026-11-16T10:34:56.385Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/babel-jest",
+          "observedAt": "2026-11-16T10:34:56.385Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/babel-jest",
+          "observedAt": "2026-11-16T10:34:56.385Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/babel-jest",
+          "observedAt": "2026-11-16T10:34:56.385Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "babel-jest",
+      "semver": "21.0.0-alpha.2",
+      "publishedAt": "2017-08-21T22:06:52.266Z",
+      "publisher": "aaronabramov",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "babel-preset-jest": "21.0.0-alpha.2",
+        "babel-plugin-istanbul": "^4.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/babel-jest",
+          "observedAt": "2026-11-16T10:34:56.385Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/babel-jest",
+          "observedAt": "2026-11-16T10:34:56.385Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/babel-jest",
+          "observedAt": "2026-11-16T10:34:56.385Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/babel-jest",
+          "observedAt": "2026-11-16T10:34:56.385Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/babel-jest",
+          "observedAt": "2026-11-16T10:34:56.385Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "babel-jest",
+      "semver": "24.0.0-alpha.7",
+      "publishedAt": "2018-12-11T16:16:35.968Z",
+      "publisher": "mjesun",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 2606,
+      "dependencies": {
+        "babel-preset-jest": "^24.0.0-alpha.7",
+        "babel-plugin-istanbul": "^4.1.6"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/babel-jest",
+          "observedAt": "2026-11-16T10:34:56.385Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/babel-jest",
+          "observedAt": "2026-11-16T10:34:56.385Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/babel-jest",
+          "observedAt": "2026-11-16T10:34:56.385Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/babel-jest",
+          "observedAt": "2026-11-16T10:34:56.385Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/babel-jest",
+          "observedAt": "2026-11-16T10:34:56.385Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/babel-jest",
+          "observedAt": "2026-11-16T10:34:56.385Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "babel-jest",
+      "semver": "24.6.0",
+      "publishedAt": "2019-04-01T22:26:59.947Z",
+      "publisher": "rubennorte",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 176287,
+      "dependencies": {
+        "chalk": "^2.4.2",
+        "slash": "^2.0.0",
+        "@jest/types": "^24.6.0",
+        "@jest/transform": "^24.6.0",
+        "babel-preset-jest": "^24.6.0",
+        "@types/babel__core": "^7.1.0",
+        "babel-plugin-istanbul": "^5.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/babel-jest",
+          "observedAt": "2026-11-16T10:34:56.385Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/babel-jest",
+          "observedAt": "2026-11-16T10:34:56.385Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/babel-jest",
+          "observedAt": "2026-11-16T10:34:56.385Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/babel-jest",
+          "observedAt": "2026-11-16T10:34:56.385Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/babel-jest",
+          "observedAt": "2026-11-16T10:34:56.385Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/babel-jest",
+          "observedAt": "2026-11-16T10:34:56.385Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "babel-jest",
+      "semver": "25.0.0",
+      "publishedAt": "2019-08-22T03:24:29.319Z",
+      "publisher": "scotthovestadt",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 9930,
+      "dependencies": {
+        "chalk": "^2.4.2",
+        "slash": "^3.0.0",
+        "@jest/types": "^25.0.0",
+        "@jest/transform": "^25.0.0",
+        "babel-preset-jest": "^25.0.0",
+        "@types/babel__core": "^7.1.0",
+        "babel-plugin-istanbul": "^5.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/babel-jest",
+          "observedAt": "2026-11-16T10:34:56.385Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/babel-jest",
+          "observedAt": "2026-11-16T10:34:56.385Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/babel-jest",
+          "observedAt": "2026-11-16T10:34:56.385Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/babel-jest",
+          "observedAt": "2026-11-16T10:34:56.385Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/babel-jest",
+          "observedAt": "2026-11-16T10:34:56.385Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/babel-jest",
+          "observedAt": "2026-11-16T10:34:56.385Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "babel-jest",
+      "semver": "25.1.0",
+      "publishedAt": "2020-01-22T01:00:07.617Z",
+      "publisher": "davidzilburg",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 10367,
+      "dependencies": {
+        "chalk": "^3.0.0",
+        "slash": "^3.0.0",
+        "@jest/types": "^25.1.0",
+        "@jest/transform": "^25.1.0",
+        "babel-preset-jest": "^25.1.0",
+        "@types/babel__core": "^7.1.0",
+        "babel-plugin-istanbul": "^6.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/babel-jest",
+          "observedAt": "2026-11-16T10:34:56.385Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/babel-jest",
+          "observedAt": "2026-11-16T10:34:56.385Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/babel-jest",
+          "observedAt": "2026-11-16T10:34:56.385Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/babel-jest",
+          "observedAt": "2026-11-16T10:34:56.385Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/babel-jest",
+          "observedAt": "2026-11-16T10:34:56.385Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/babel-jest",
+          "observedAt": "2026-11-16T10:34:56.385Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "babel-jest",
+      "semver": "30.0.0-alpha.7",
+      "publishedAt": "2025-01-30T08:28:41.660Z",
+      "publisher": "simenb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 15252,
+      "dependencies": {
+        "chalk": "^4.0.0",
+        "slash": "^3.0.0",
+        "graceful-fs": "^4.2.9",
+        "@jest/transform": "30.0.0-alpha.7",
+        "babel-preset-jest": "30.0.0-alpha.7",
+        "@types/babel__core": "^7.1.14",
+        "babel-plugin-istanbul": "^7.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/babel-jest",
+          "observedAt": "2026-11-16T10:34:56.385Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/babel-jest",
+          "observedAt": "2026-11-16T10:34:56.385Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/babel-jest",
+          "observedAt": "2026-11-16T10:34:56.385Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/babel-jest",
+          "observedAt": "2026-11-16T10:34:56.385Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/babel-jest",
+          "observedAt": "2026-11-16T10:34:56.385Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/babel-jest",
+          "observedAt": "2026-11-16T10:34:56.385Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "babel-jest",
+      "semver": "30.0.5",
+      "publishedAt": "2025-07-22T02:28:41.721Z",
+      "publisher": "cpojer",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 15611,
+      "dependencies": {
+        "chalk": "^4.1.2",
+        "slash": "^3.0.0",
+        "graceful-fs": "^4.2.11",
+        "@jest/transform": "30.0.5",
+        "babel-preset-jest": "30.0.1",
+        "@types/babel__core": "^7.20.5",
+        "babel-plugin-istanbul": "^7.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/babel-jest",
+          "observedAt": "2026-11-16T10:34:56.385Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/babel-jest",
+          "observedAt": "2026-11-16T10:34:56.385Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/babel-jest",
+          "observedAt": "2026-11-16T10:34:56.385Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/babel-jest",
+          "observedAt": "2026-11-16T10:34:56.385Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/babel-jest",
+          "observedAt": "2026-11-16T10:34:56.385Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/babel-jest",
+          "observedAt": "2026-11-16T10:34:56.385Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "babel-jest",
+      "semver": "6.0.1",
+      "publishedAt": "2015-11-08T13:38:02.569Z",
+      "publisher": "sebmck",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "babel-core": "^6.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/babel-jest",
+          "observedAt": "2026-11-16T10:34:56.385Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/babel-jest",
+          "observedAt": "2026-11-16T10:34:56.385Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/babel-jest",
+          "observedAt": "2026-11-16T10:34:56.385Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/babel-jest",
+          "observedAt": "2026-11-16T10:34:56.385Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/babel-jest",
+          "observedAt": "2026-11-16T10:34:56.385Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

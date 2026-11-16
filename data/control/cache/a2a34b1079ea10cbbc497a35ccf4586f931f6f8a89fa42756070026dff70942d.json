@@ -1,0 +1,199 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@babel/plugin-transform-async-to-generator",
+  "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-async-to-generator",
+  "fetchedAt": "2026-11-16T10:34:32.265Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 103
+  },
+  "sourceSha256": "187496398a618aa39d856a69d383969386bcc6ee983a90cac5e0118b5af54fa9",
+  "versions": [
+    {
+      "pkg": "@babel/plugin-transform-async-to-generator",
+      "semver": "7.0.0-beta.49",
+      "publishedAt": "2018-05-25T16:05:13.354Z",
+      "publisher": "loganfsmyth",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 3956,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "7.0.0-beta.49",
+        "@babel/helper-module-imports": "7.0.0-beta.49",
+        "@babel/helper-remap-async-to-generator": "7.0.0-beta.49"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-async-to-generator",
+          "observedAt": "2026-11-16T10:34:32.265Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-async-to-generator",
+          "observedAt": "2026-11-16T10:34:32.265Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-async-to-generator",
+          "observedAt": "2026-11-16T10:34:32.265Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-async-to-generator",
+          "observedAt": "2026-11-16T10:34:32.265Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-async-to-generator",
+          "observedAt": "2026-11-16T10:34:32.265Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-async-to-generator",
+          "observedAt": "2026-11-16T10:34:32.265Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/plugin-transform-async-to-generator",
+      "semver": "7.1.0",
+      "publishedAt": "2018-09-17T19:31:46.232Z",
+      "publisher": "hzoo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 4151,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "^7.0.0",
+        "@babel/helper-module-imports": "^7.0.0",
+        "@babel/helper-remap-async-to-generator": "^7.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-async-to-generator",
+          "observedAt": "2026-11-16T10:34:32.265Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-async-to-generator",
+          "observedAt": "2026-11-16T10:34:32.265Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-async-to-generator",
+          "observedAt": "2026-11-16T10:34:32.265Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-async-to-generator",
+          "observedAt": "2026-11-16T10:34:32.265Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-async-to-generator",
+          "observedAt": "2026-11-16T10:34:32.265Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-async-to-generator",
+          "observedAt": "2026-11-16T10:34:32.265Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/plugin-transform-async-to-generator",
+      "semver": "7.10.4",
+      "publishedAt": "2020-06-30T13:13:36.848Z",
+      "publisher": "jlhwung",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 3942,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "^7.10.4",
+        "@babel/helper-module-imports": "^7.10.4",
+        "@babel/helper-remap-async-to-generator": "^7.10.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-async-to-generator",
+          "observedAt": "2026-11-16T10:34:32.265Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-async-to-generator",
+          "observedAt": "2026-11-16T10:34:32.265Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-async-to-generator",
+          "observedAt": "2026-11-16T10:34:32.265Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-async-to-generator",
+          "observedAt": "2026-11-16T10:34:32.265Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-async-to-generator",
+          "observedAt": "2026-11-16T10:34:32.265Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-async-to-generator",
+          "observedAt": "2026-11-16T10:34:32.265Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/plugin-transform-async-to-generator",
+      "semver": "8.0.0-beta.1",
+      "publishedAt": "2025-07-02T09:04:47.164Z",
+      "publisher": "nicolo-ribaudo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 8049,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "^8.0.0-beta.1",
+        "@babel/helper-module-imports": "^8.0.0-beta.1",
+        "@babel/helper-remap-async-to-generator": "^8.0.0-beta.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-async-to-generator",
+          "observedAt": "2026-11-16T10:34:32.265Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-async-to-generator",
+          "observedAt": "2026-11-16T10:34:32.265Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-async-to-generator",
+          "observedAt": "2026-11-16T10:34:32.265Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-async-to-generator",
+          "observedAt": "2026-11-16T10:34:32.265Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-async-to-generator",
+          "observedAt": "2026-11-16T10:34:32.265Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-async-to-generator",
+          "observedAt": "2026-11-16T10:34:32.265Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "pkg": "string-width",
+  "source": "https://registry.npmjs.org/string-width",
+  "fetchedAt": "2026-11-16T10:35:27.460Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 32
+  },
+  "sourceSha256": "1ddc052ba6ff8f1471bb090c0978e4b73fd8d5a7b4fadfd34d1a6c08dea7e026",
+  "versions": [
+    {
+      "pkg": "string-width",
+      "semver": "7.2.0",
+      "publishedAt": "2024-06-30T14:48:16.656Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7773,
+      "dependencies": {
+        "strip-ansi": "^7.1.0",
+        "emoji-regex": "^10.3.0",
+        "get-east-asian-width": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/string-width",
+          "observedAt": "2026-11-16T10:35:27.460Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/string-width",
+          "observedAt": "2026-11-16T10:35:27.460Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/string-width",
+          "observedAt": "2026-11-16T10:35:27.460Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/string-width",
+          "observedAt": "2026-11-16T10:35:27.460Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/string-width",
+          "observedAt": "2026-11-16T10:35:27.460Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/string-width",
+          "observedAt": "2026-11-16T10:35:27.460Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

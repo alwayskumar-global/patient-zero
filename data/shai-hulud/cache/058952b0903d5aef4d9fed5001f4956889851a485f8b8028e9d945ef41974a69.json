@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "pkg": "ember-velcro",
+  "source": "https://registry.npmjs.org/ember-velcro",
+  "fetchedAt": "2026-11-16T10:32:19.176Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 12
+  },
+  "sourceSha256": "d304d1872dd8dde238146bcf75d5d85c9ade171a52c41938ca1c0d815321702c",
+  "versions": [
+    {
+      "pkg": "ember-velcro",
+      "semver": "2.2.0",
+      "publishedAt": "2024-04-09T14:19:01.193Z",
+      "publisher": "crowdstrike-publisher",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 37318,
+      "dependencies": {
+        "@floating-ui/dom": "^1.0.1",
+        "@embroider/addon-shim": "^1.0.0",
+        "ember-functions-as-helper-polyfill": "^2.1.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ember-velcro",
+          "observedAt": "2026-11-16T10:32:19.176Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ember-velcro",
+          "observedAt": "2026-11-16T10:32:19.176Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ember-velcro",
+          "observedAt": "2026-11-16T10:32:19.176Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ember-velcro",
+          "observedAt": "2026-11-16T10:32:19.176Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/ember-velcro",
+          "observedAt": "2026-11-16T10:32:19.176Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ember-velcro",
+          "observedAt": "2026-11-16T10:32:19.176Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ember-velcro",
+      "semver": "2.2.1",
+      "publishedAt": "2025-09-16T01:14:31.590Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ember-velcro",
+          "observedAt": "2026-11-16T10:32:19.176Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ember-velcro",
+      "semver": "2.2.2",
+      "publishedAt": "2025-09-16T01:22:11.811Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ember-velcro",
+          "observedAt": "2026-11-16T10:32:19.176Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "simple-concat",
+  "source": "https://registry.npmjs.org/simple-concat",
+  "fetchedAt": "2026-11-16T10:35:26.487Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 2
+  },
+  "sourceSha256": "6997a923d765f632bc3957c700e1058e567f48c9c698616cd852cc8f1bf7beac",
+  "versions": [
+    {
+      "pkg": "simple-concat",
+      "semver": "1.0.1",
+      "publishedAt": "2020-07-17T04:36:24.584Z",
+      "publisher": "feross",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 4624,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/simple-concat",
+          "observedAt": "2026-11-16T10:35:26.487Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/simple-concat",
+          "observedAt": "2026-11-16T10:35:26.487Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/simple-concat",
+          "observedAt": "2026-11-16T10:35:26.487Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/simple-concat",
+          "observedAt": "2026-11-16T10:35:26.487Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/simple-concat",
+          "observedAt": "2026-11-16T10:35:26.487Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/simple-concat",
+          "observedAt": "2026-11-16T10:35:26.487Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,340 @@
+{
+  "schemaVersion": 1,
+  "pkg": "jest-diff",
+  "source": "https://registry.npmjs.org/jest-diff",
+  "fetchedAt": "2026-11-16T10:35:07.709Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 255
+  },
+  "sourceSha256": "5753dd519370ab007ad143b9e5a6296f2e4548ee7b3baf46eb24f8a6af0b2d55",
+  "versions": [
+    {
+      "pkg": "jest-diff",
+      "semver": "21.0.0-alpha.2",
+      "publishedAt": "2017-08-21T22:06:52.222Z",
+      "publisher": "aaronabramov",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "diff": "^3.2.0",
+        "chalk": "^2.0.1",
+        "jest-get-type": "21.0.0-alpha.2",
+        "pretty-format": "21.0.0-alpha.2",
+        "jest-matcher-utils": "21.0.0-alpha.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-diff",
+          "observedAt": "2026-11-16T10:35:07.709Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-diff",
+          "observedAt": "2026-11-16T10:35:07.709Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-diff",
+          "observedAt": "2026-11-16T10:35:07.709Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-diff",
+          "observedAt": "2026-11-16T10:35:07.709Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-diff",
+          "observedAt": "2026-11-16T10:35:07.709Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jest-diff",
+      "semver": "24.0.0-alpha.8",
+      "publishedAt": "2018-12-13T19:47:58.625Z",
+      "publisher": "mjesun",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 19668,
+      "dependencies": {
+        "diff": "^3.2.0",
+        "chalk": "^2.0.1",
+        "jest-get-type": "^22.1.0",
+        "pretty-format": "^24.0.0-alpha.8"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-diff",
+          "observedAt": "2026-11-16T10:35:07.709Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-diff",
+          "observedAt": "2026-11-16T10:35:07.709Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-diff",
+          "observedAt": "2026-11-16T10:35:07.709Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-diff",
+          "observedAt": "2026-11-16T10:35:07.709Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jest-diff",
+          "observedAt": "2026-11-16T10:35:07.709Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-diff",
+          "observedAt": "2026-11-16T10:35:07.709Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jest-diff",
+      "semver": "24.6.0",
+      "publishedAt": "2019-04-01T22:26:32.291Z",
+      "publisher": "rubennorte",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 184961,
+      "dependencies": {
+        "chalk": "^2.0.1",
+        "jest-get-type": "^24.3.0",
+        "pretty-format": "^24.6.0",
+        "diff-sequences": "^24.3.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-diff",
+          "observedAt": "2026-11-16T10:35:07.709Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-diff",
+          "observedAt": "2026-11-16T10:35:07.709Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-diff",
+          "observedAt": "2026-11-16T10:35:07.709Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-diff",
+          "observedAt": "2026-11-16T10:35:07.709Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jest-diff",
+          "observedAt": "2026-11-16T10:35:07.709Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-diff",
+          "observedAt": "2026-11-16T10:35:07.709Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jest-diff",
+      "semver": "25.0.0",
+      "publishedAt": "2019-08-22T03:24:08.921Z",
+      "publisher": "scotthovestadt",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 70039,
+      "dependencies": {
+        "chalk": "^2.0.1",
+        "jest-get-type": "^25.0.0",
+        "pretty-format": "^25.0.0",
+        "diff-sequences": "^25.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-diff",
+          "observedAt": "2026-11-16T10:35:07.709Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-diff",
+          "observedAt": "2026-11-16T10:35:07.709Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-diff",
+          "observedAt": "2026-11-16T10:35:07.709Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-diff",
+          "observedAt": "2026-11-16T10:35:07.709Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jest-diff",
+          "observedAt": "2026-11-16T10:35:07.709Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-diff",
+          "observedAt": "2026-11-16T10:35:07.709Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jest-diff",
+      "semver": "25.1.0",
+      "publishedAt": "2020-01-22T01:00:01.625Z",
+      "publisher": "davidzilburg",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 92700,
+      "dependencies": {
+        "chalk": "^3.0.0",
+        "jest-get-type": "^25.1.0",
+        "pretty-format": "^25.1.0",
+        "diff-sequences": "^25.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-diff",
+          "observedAt": "2026-11-16T10:35:07.709Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-diff",
+          "observedAt": "2026-11-16T10:35:07.709Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-diff",
+          "observedAt": "2026-11-16T10:35:07.709Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-diff",
+          "observedAt": "2026-11-16T10:35:07.709Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jest-diff",
+          "observedAt": "2026-11-16T10:35:07.709Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-diff",
+          "observedAt": "2026-11-16T10:35:07.709Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jest-diff",
+      "semver": "30.0.0-alpha.7",
+      "publishedAt": "2025-01-30T08:28:32.412Z",
+      "publisher": "simenb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 80078,
+      "dependencies": {
+        "chalk": "^4.0.0",
+        "jest-get-type": "30.0.0-alpha.7",
+        "pretty-format": "30.0.0-alpha.7",
+        "diff-sequences": "30.0.0-alpha.7"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-diff",
+          "observedAt": "2026-11-16T10:35:07.709Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-diff",
+          "observedAt": "2026-11-16T10:35:07.709Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-diff",
+          "observedAt": "2026-11-16T10:35:07.709Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-diff",
+          "observedAt": "2026-11-16T10:35:07.709Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jest-diff",
+          "observedAt": "2026-11-16T10:35:07.709Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-diff",
+          "observedAt": "2026-11-16T10:35:07.709Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jest-diff",
+      "semver": "30.0.5",
+      "publishedAt": "2025-07-22T02:28:33.474Z",
+      "publisher": "cpojer",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 84693,
+      "dependencies": {
+        "chalk": "^4.1.2",
+        "pretty-format": "30.0.5",
+        "@jest/get-type": "30.0.1",
+        "@jest/diff-sequences": "30.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-diff",
+          "observedAt": "2026-11-16T10:35:07.709Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-diff",
+          "observedAt": "2026-11-16T10:35:07.709Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-diff",
+          "observedAt": "2026-11-16T10:35:07.709Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-diff",
+          "observedAt": "2026-11-16T10:35:07.709Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jest-diff",
+          "observedAt": "2026-11-16T10:35:07.709Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-diff",
+          "observedAt": "2026-11-16T10:35:07.709Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

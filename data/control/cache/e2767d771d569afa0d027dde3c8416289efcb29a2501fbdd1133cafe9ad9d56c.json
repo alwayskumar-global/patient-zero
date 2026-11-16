@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@aws-sdk/types",
+  "source": "https://registry.npmjs.org/%40aws-sdk%2Ftypes",
+  "fetchedAt": "2026-11-16T10:34:29.928Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 205
+  },
+  "sourceSha256": "e1c786e81cc86391d4582487a6f38aacc944a713a7fca1951e45d43df5fcc740",
+  "versions": [
+    {
+      "pkg": "@aws-sdk/types",
+      "semver": "3.840.0",
+      "publishedAt": "2025-06-30T19:21:54.830Z",
+      "publisher": "aws-sdk-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 55771,
+      "dependencies": {
+        "tslib": "^2.6.2",
+        "@smithy/types": "^4.3.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Ftypes",
+          "observedAt": "2026-11-16T10:34:29.928Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Ftypes",
+          "observedAt": "2026-11-16T10:34:29.928Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Ftypes",
+          "observedAt": "2026-11-16T10:34:29.928Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Ftypes",
+          "observedAt": "2026-11-16T10:34:29.928Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Ftypes",
+          "observedAt": "2026-11-16T10:34:29.928Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Ftypes",
+          "observedAt": "2026-11-16T10:34:29.928Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@aws-sdk/types",
+      "semver": "3.862.0",
+      "publishedAt": "2025-08-06T19:09:06.849Z",
+      "publisher": "aws-sdk-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 55771,
+      "dependencies": {
+        "tslib": "^2.6.2",
+        "@smithy/types": "^4.3.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Ftypes",
+          "observedAt": "2026-11-16T10:34:29.928Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Ftypes",
+          "observedAt": "2026-11-16T10:34:29.928Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Ftypes",
+          "observedAt": "2026-11-16T10:34:29.928Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Ftypes",
+          "observedAt": "2026-11-16T10:34:29.928Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Ftypes",
+          "observedAt": "2026-11-16T10:34:29.928Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Ftypes",
+          "observedAt": "2026-11-16T10:34:29.928Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

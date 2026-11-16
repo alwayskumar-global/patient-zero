@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "pkg": "spdy-transport",
+  "source": "https://registry.npmjs.org/spdy-transport",
+  "fetchedAt": "2026-11-16T10:35:27.043Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 50
+  },
+  "sourceSha256": "975a8764d6d0f584b259dba3eab5e0b145c4b38879daa9afce83e3ef32044c08",
+  "versions": [
+    {
+      "pkg": "spdy-transport",
+      "semver": "2.0.18",
+      "publishedAt": "2016-11-23T20:34:42.153Z",
+      "publisher": "indutny",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "debug": "^2.2.0",
+        "hpack.js": "^2.1.6",
+        "obuf": "^1.1.0",
+        "readable-stream": "^2.0.1",
+        "wbuf": "^1.4.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/spdy-transport",
+          "observedAt": "2026-11-16T10:35:27.043Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/spdy-transport",
+          "observedAt": "2026-11-16T10:35:27.043Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/spdy-transport",
+          "observedAt": "2026-11-16T10:35:27.043Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/spdy-transport",
+          "observedAt": "2026-11-16T10:35:27.043Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/spdy-transport",
+          "observedAt": "2026-11-16T10:35:27.043Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "spdy-transport",
+      "semver": "3.0.0",
+      "publishedAt": "2018-11-08T07:08:53.372Z",
+      "publisher": "daviddias",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 136272,
+      "dependencies": {
+        "debug": "^4.1.0",
+        "detect-node": "^2.0.4",
+        "hpack.js": "^2.1.6",
+        "obuf": "^1.1.2",
+        "readable-stream": "^3.0.6",
+        "wbuf": "^1.7.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/spdy-transport",
+          "observedAt": "2026-11-16T10:35:27.043Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/spdy-transport",
+          "observedAt": "2026-11-16T10:35:27.043Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/spdy-transport",
+          "observedAt": "2026-11-16T10:35:27.043Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/spdy-transport",
+          "observedAt": "2026-11-16T10:35:27.043Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/spdy-transport",
+          "observedAt": "2026-11-16T10:35:27.043Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/spdy-transport",
+          "observedAt": "2026-11-16T10:35:27.043Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

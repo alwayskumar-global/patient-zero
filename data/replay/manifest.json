@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "incident": "chalk-debug-2025-09",
+  "incidentSha256": "7a5f6afa4af5dfd98891a30057761f9caaee8b4452fe41ef3d1066cd98625055",
+  "packages": [
+    {
+      "pkg": "ansi-regex",
+      "file": "d01b079d7290694aa78b65c1d4c73ab826ea9b14ec0f57b7e124711af62d655b.json",
+      "sha256": "d01b079d7290694aa78b65c1d4c73ab826ea9b14ec0f57b7e124711af62d655b"
+    },
+    {
+      "pkg": "ansi-styles",
+      "file": "729c7c1591e23ff2431d4a391e22c0f6020e824b9a915446210c5c6db9edd379.json",
+      "sha256": "729c7c1591e23ff2431d4a391e22c0f6020e824b9a915446210c5c6db9edd379"
+    },
+    {
+      "pkg": "backslash",
+      "file": "746f5a29cd3d6a68cbd8077ffa18b7b1e1cfc1b40d5ff5b12eb845a9db5970b7.json",
+      "sha256": "746f5a29cd3d6a68cbd8077ffa18b7b1e1cfc1b40d5ff5b12eb845a9db5970b7"
+    },
+    {
+      "pkg": "chalk",
+      "file": "a9614338a07c91cc382b7abe3dc0523d898655edfd45b0ac7a9b1d78033df5cb.json",
+      "sha256": "a9614338a07c91cc382b7abe3dc0523d898655edfd45b0ac7a9b1d78033df5cb"
+    },
+    {
+      "pkg": "chalk-template",
+      "file": "e957a1c21b702a0339752d57ebd29e9e29a682501587edab266c67613bafd6c3.json",
+      "sha256": "e957a1c21b702a0339752d57ebd29e9e29a682501587edab266c67613bafd6c3"
+    },
+    {
+      "pkg": "color-convert",
+      "file": "284e8563f5266bb127be1396436ecca4061ba675ea5bc8e2674b2dd7e1d87f48.json",
+      "sha256": "284e8563f5266bb127be1396436ecca4061ba675ea5bc8e2674b2dd7e1d87f48"
+    },
+    {
+      "pkg": "color-name",
+      "file": "db77c072585dd1a6ef088d0ddd2c7e5f54928eb8ab3b7d0a6ef17b1e53eb1ad4.json",
+      "sha256": "db77c072585dd1a6ef088d0ddd2c7e5f54928eb8ab3b7d0a6ef17b1e53eb1ad4"
+    },
+    {
+      "pkg": "color-string",
+      "file": "02b59f422c25d3168dd2ff587613da7b068e40fd842c8aa444c1dd35fd926a08.json",
+      "sha256": "02b59f422c25d3168dd2ff587613da7b068e40fd842c8aa444c1dd35fd926a08"
+    },
+    {
+      "pkg": "debug",
+      "file": "cb753490dbcb09575946fe9a112f103eb93cb5ae80e3048a20488249055dea56.json",
+      "sha256": "cb753490dbcb09575946fe9a112f103eb93cb5ae80e3048a20488249055dea56"
+    },
+    {
+      "pkg": "error-ex",
+      "file": "63ab68f581ee1be06ec61591f04f2edadf0e4bba3860c3c41217f807c43e56ed.json",
+      "sha256": "63ab68f581ee1be06ec61591f04f2edadf0e4bba3860c3c41217f807c43e56ed"
+    },
+    {
+      "pkg": "has-ansi",
+      "file": "8a9893046831b7887616bf37883cb4e09b7c0e6e8210dc5cc085f5487b495598.json",
+      "sha256": "8a9893046831b7887616bf37883cb4e09b7c0e6e8210dc5cc085f5487b495598"
+    },
+    {
+      "pkg": "is-arrayish",
+      "file": "e613a82964e9d5ebfcfd3faf4a47c587549192183efa12ecad077743fab078e6.json",
+      "sha256": "e613a82964e9d5ebfcfd3faf4a47c587549192183efa12ecad077743fab078e6"
+    },
+    {
+      "pkg": "simple-swizzle",
+      "file": "a77b8135c309e46992f19138c4e55b2af3385bd17bdb9c799553c817e474aa47.json",
+      "sha256": "a77b8135c309e46992f19138c4e55b2af3385bd17bdb9c799553c817e474aa47"
+    },
+    {
+      "pkg": "slice-ansi",
+      "file": "88aefc1efc3ad2286ffb5266049e0e74e7ff28aa6c8bd3fc95c37db30ceb3632.json",
+      "sha256": "88aefc1efc3ad2286ffb5266049e0e74e7ff28aa6c8bd3fc95c37db30ceb3632"
+    },
+    {
+      "pkg": "strip-ansi",
+      "file": "b509e0da4ca71a0c5b258a5dc88c847850b4043e7f242624d0d232292097340f.json",
+      "sha256": "b509e0da4ca71a0c5b258a5dc88c847850b4043e7f242624d0d232292097340f"
+    },
+    {
+      "pkg": "supports-color",
+      "file": "fc425b31465820e01f9f44d0fde7883c92d49ddf5a41676851f566509d3ef3cf.json",
+      "sha256": "fc425b31465820e01f9f44d0fde7883c92d49ddf5a41676851f566509d3ef3cf"
+    },
+    {
+      "pkg": "supports-hyperlinks",
+      "file": "7dd1302db5986b0f311622f6366082cc64a0ecb561319062ebddec8fb68a379c.json",
+      "sha256": "7dd1302db5986b0f311622f6366082cc64a0ecb561319062ebddec8fb68a379c"
+    },
+    {
+      "pkg": "wrap-ansi",
+      "file": "e21c2ef2c30ce99bd2a8bdfd34543a666f7bda4b39b88d086e31f084bdd8ecf4.json",
+      "sha256": "e21c2ef2c30ce99bd2a8bdfd34543a666f7bda4b39b88d086e31f084bdd8ecf4"
+    }
+  ]
+}

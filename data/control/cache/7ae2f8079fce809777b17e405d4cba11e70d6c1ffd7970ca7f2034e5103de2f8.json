@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "cli-spinners",
+  "source": "https://registry.npmjs.org/cli-spinners",
+  "fetchedAt": "2026-11-16T10:34:57.747Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 30
+  },
+  "sourceSha256": "1a46f471c7c0fbd5253a97609fd91c7296b4b28c6aa5d06f17eb37b2aaa8bb3a",
+  "versions": [
+    {
+      "pkg": "cli-spinners",
+      "semver": "3.2.0",
+      "publishedAt": "2024-09-07T13:13:34.661Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 32768,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/cli-spinners",
+          "observedAt": "2026-11-16T10:34:57.747Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/cli-spinners",
+          "observedAt": "2026-11-16T10:34:57.747Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/cli-spinners",
+          "observedAt": "2026-11-16T10:34:57.747Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/cli-spinners",
+          "observedAt": "2026-11-16T10:34:57.747Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/cli-spinners",
+          "observedAt": "2026-11-16T10:34:57.747Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/cli-spinners",
+          "observedAt": "2026-11-16T10:34:57.747Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

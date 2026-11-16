@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@webassemblyjs/ast",
+  "source": "https://registry.npmjs.org/%40webassemblyjs%2Fast",
+  "fetchedAt": "2026-11-16T10:34:54.929Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 89
+  },
+  "sourceSha256": "3d4401d0f5b41a513d9f6c514c003b87e34ddfd131a90ec557051f4a62c8f41e",
+  "versions": [
+    {
+      "pkg": "@webassemblyjs/ast",
+      "semver": "1.14.1",
+      "publishedAt": "2024-11-06T21:53:36.253Z",
+      "publisher": "xtuc",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 207436,
+      "dependencies": {
+        "@webassemblyjs/helper-numbers": "1.13.2",
+        "@webassemblyjs/helper-wasm-bytecode": "1.13.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40webassemblyjs%2Fast",
+          "observedAt": "2026-11-16T10:34:54.929Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40webassemblyjs%2Fast",
+          "observedAt": "2026-11-16T10:34:54.929Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40webassemblyjs%2Fast",
+          "observedAt": "2026-11-16T10:34:54.929Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40webassemblyjs%2Fast",
+          "observedAt": "2026-11-16T10:34:54.929Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40webassemblyjs%2Fast",
+          "observedAt": "2026-11-16T10:34:54.929Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40webassemblyjs%2Fast",
+          "observedAt": "2026-11-16T10:34:54.929Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

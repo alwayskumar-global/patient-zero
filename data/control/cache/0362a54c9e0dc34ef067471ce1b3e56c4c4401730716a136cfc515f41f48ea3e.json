@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "pkg": "functional-red-black-tree",
+  "source": "https://registry.npmjs.org/functional-red-black-tree",
+  "fetchedAt": "2026-11-16T10:35:02.891Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 3
+  },
+  "sourceSha256": "6b9297b3095d86789ca2ed4f936f2dc0201ba32e4b1c5c147fd76605c9b28c79",
+  "versions": [
+    {
+      "pkg": "functional-red-black-tree",
+      "semver": "1.0.1",
+      "publishedAt": "2014-09-29T16:05:12.335Z",
+      "publisher": "mikolalysenko",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/functional-red-black-tree",
+          "observedAt": "2026-11-16T10:35:02.891Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/functional-red-black-tree",
+          "observedAt": "2026-11-16T10:35:02.891Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/functional-red-black-tree",
+          "observedAt": "2026-11-16T10:35:02.891Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/functional-red-black-tree",
+          "observedAt": "2026-11-16T10:35:02.891Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/functional-red-black-tree",
+          "observedAt": "2026-11-16T10:35:02.891Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

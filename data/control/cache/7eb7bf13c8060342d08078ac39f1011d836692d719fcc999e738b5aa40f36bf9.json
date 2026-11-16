@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "filter-obj",
+  "source": "https://registry.npmjs.org/filter-obj",
+  "fetchedAt": "2026-11-16T10:35:02.667Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 11
+  },
+  "sourceSha256": "1a2b01e19bc0dc1e2e5e451e74d40faa56232fb25d76e0c95f66114a847b611b",
+  "versions": [
+    {
+      "pkg": "filter-obj",
+      "semver": "6.1.0",
+      "publishedAt": "2024-05-27T10:48:42.084Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 6608,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/filter-obj",
+          "observedAt": "2026-11-16T10:35:02.667Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/filter-obj",
+          "observedAt": "2026-11-16T10:35:02.667Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/filter-obj",
+          "observedAt": "2026-11-16T10:35:02.667Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/filter-obj",
+          "observedAt": "2026-11-16T10:35:02.667Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/filter-obj",
+          "observedAt": "2026-11-16T10:35:02.667Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/filter-obj",
+          "observedAt": "2026-11-16T10:35:02.667Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

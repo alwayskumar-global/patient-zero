@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "pkg": "loglevel",
+  "source": "https://registry.npmjs.org/loglevel",
+  "fetchedAt": "2026-11-16T10:35:11.683Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 32
+  },
+  "sourceSha256": "47ece602b219ccbe4048f1ca2ab88a37af44776654366e3783b4c86629fef963",
+  "versions": [
+    {
+      "pkg": "loglevel",
+      "semver": "1.6.5",
+      "publishedAt": "2019-11-07T14:40:57.345Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/loglevel",
+          "observedAt": "2026-11-16T10:35:11.683Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "loglevel",
+      "semver": "1.9.2",
+      "publishedAt": "2024-09-06T15:09:48.596Z",
+      "publisher": "pimterry",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 86169,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/loglevel",
+          "observedAt": "2026-11-16T10:35:11.683Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/loglevel",
+          "observedAt": "2026-11-16T10:35:11.683Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/loglevel",
+          "observedAt": "2026-11-16T10:35:11.683Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/loglevel",
+          "observedAt": "2026-11-16T10:35:11.683Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/loglevel",
+          "observedAt": "2026-11-16T10:35:11.683Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/loglevel",
+          "observedAt": "2026-11-16T10:35:11.683Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

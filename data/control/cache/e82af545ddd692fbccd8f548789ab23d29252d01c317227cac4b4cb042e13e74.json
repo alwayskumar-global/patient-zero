@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "ast-types-flow",
+  "source": "https://registry.npmjs.org/ast-types-flow",
+  "fetchedAt": "2026-11-16T10:34:55.989Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 8
+  },
+  "sourceSha256": "2b94753f9a2cb03b76c8183f68c89787defd9d324f97876eca06df0bbd29ea5c",
+  "versions": [
+    {
+      "pkg": "ast-types-flow",
+      "semver": "0.0.8",
+      "publishedAt": "2023-04-15T00:34:00.324Z",
+      "publisher": "kyldvs",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 125975,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ast-types-flow",
+          "observedAt": "2026-11-16T10:34:55.989Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ast-types-flow",
+          "observedAt": "2026-11-16T10:34:55.989Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ast-types-flow",
+          "observedAt": "2026-11-16T10:34:55.989Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ast-types-flow",
+          "observedAt": "2026-11-16T10:34:55.989Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/ast-types-flow",
+          "observedAt": "2026-11-16T10:34:55.989Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ast-types-flow",
+          "observedAt": "2026-11-16T10:34:55.989Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

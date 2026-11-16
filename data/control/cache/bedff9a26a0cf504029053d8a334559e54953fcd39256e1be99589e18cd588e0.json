@@ -1,0 +1,233 @@
+{
+  "schemaVersion": 1,
+  "pkg": "postcss-normalize-whitespace",
+  "source": "https://registry.npmjs.org/postcss-normalize-whitespace",
+  "fetchedAt": "2026-11-16T10:35:20.505Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 54
+  },
+  "sourceSha256": "bfef5bea01e8a58ed18261ba6862b486e35809816c4b0c5493c9faa3910f40c5",
+  "versions": [
+    {
+      "pkg": "postcss-normalize-whitespace",
+      "semver": "4.0.0-nightly.2020.2.6",
+      "publishedAt": "2021-02-06T17:26:24.797Z",
+      "publisher": "cssnano-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 5657,
+      "dependencies": {
+        "postcss-value-parser": "^4.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/postcss-normalize-whitespace",
+          "observedAt": "2026-11-16T10:35:20.505Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/postcss-normalize-whitespace",
+          "observedAt": "2026-11-16T10:35:20.505Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/postcss-normalize-whitespace",
+          "observedAt": "2026-11-16T10:35:20.505Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/postcss-normalize-whitespace",
+          "observedAt": "2026-11-16T10:35:20.505Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/postcss-normalize-whitespace",
+          "observedAt": "2026-11-16T10:35:20.505Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/postcss-normalize-whitespace",
+          "observedAt": "2026-11-16T10:35:20.505Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "postcss-normalize-whitespace",
+      "semver": "4.0.0-rc.2",
+      "publishedAt": "2017-08-06T19:53:27.219Z",
+      "publisher": "beneb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "postcss": "^6.0.0",
+        "postcss-value-parser": "^3.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/postcss-normalize-whitespace",
+          "observedAt": "2026-11-16T10:35:20.505Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/postcss-normalize-whitespace",
+          "observedAt": "2026-11-16T10:35:20.505Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/postcss-normalize-whitespace",
+          "observedAt": "2026-11-16T10:35:20.505Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/postcss-normalize-whitespace",
+          "observedAt": "2026-11-16T10:35:20.505Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/postcss-normalize-whitespace",
+          "observedAt": "2026-11-16T10:35:20.505Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "postcss-normalize-whitespace",
+      "semver": "4.0.1",
+      "publishedAt": "2018-09-24T21:01:29.326Z",
+      "publisher": "ai",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 5265,
+      "dependencies": {
+        "postcss": "^7.0.0",
+        "postcss-value-parser": "^3.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/postcss-normalize-whitespace",
+          "observedAt": "2026-11-16T10:35:20.505Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/postcss-normalize-whitespace",
+          "observedAt": "2026-11-16T10:35:20.505Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/postcss-normalize-whitespace",
+          "observedAt": "2026-11-16T10:35:20.505Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/postcss-normalize-whitespace",
+          "observedAt": "2026-11-16T10:35:20.505Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/postcss-normalize-whitespace",
+          "observedAt": "2026-11-16T10:35:20.505Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/postcss-normalize-whitespace",
+          "observedAt": "2026-11-16T10:35:20.505Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "postcss-normalize-whitespace",
+      "semver": "4.0.2",
+      "publishedAt": "2019-02-12T17:52:22.750Z",
+      "publisher": "evilebottnawi",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 5659,
+      "dependencies": {
+        "postcss": "^7.0.0",
+        "postcss-value-parser": "^3.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/postcss-normalize-whitespace",
+          "observedAt": "2026-11-16T10:35:20.505Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/postcss-normalize-whitespace",
+          "observedAt": "2026-11-16T10:35:20.505Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/postcss-normalize-whitespace",
+          "observedAt": "2026-11-16T10:35:20.505Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/postcss-normalize-whitespace",
+          "observedAt": "2026-11-16T10:35:20.505Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/postcss-normalize-whitespace",
+          "observedAt": "2026-11-16T10:35:20.505Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/postcss-normalize-whitespace",
+          "observedAt": "2026-11-16T10:35:20.505Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "postcss-normalize-whitespace",
+      "semver": "7.0.1",
+      "publishedAt": "2025-05-06T13:54:24.101Z",
+      "publisher": "ludovicofischer",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 6023,
+      "dependencies": {
+        "postcss-value-parser": "^4.2.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/postcss-normalize-whitespace",
+          "observedAt": "2026-11-16T10:35:20.505Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/postcss-normalize-whitespace",
+          "observedAt": "2026-11-16T10:35:20.505Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/postcss-normalize-whitespace",
+          "observedAt": "2026-11-16T10:35:20.505Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/postcss-normalize-whitespace",
+          "observedAt": "2026-11-16T10:35:20.505Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/postcss-normalize-whitespace",
+          "observedAt": "2026-11-16T10:35:20.505Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/postcss-normalize-whitespace",
+          "observedAt": "2026-11-16T10:35:20.505Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "cli-boxes",
+  "source": "https://registry.npmjs.org/cli-boxes",
+  "fetchedAt": "2026-11-16T10:34:57.732Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 8
+  },
+  "sourceSha256": "c58e7992abcfc7169898275fcd256d58321e715677d29eae087b20df6ba8f1d5",
+  "versions": [
+    {
+      "pkg": "cli-boxes",
+      "semver": "4.0.1",
+      "publishedAt": "2024-08-04T17:57:54.988Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 6092,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/cli-boxes",
+          "observedAt": "2026-11-16T10:34:57.732Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/cli-boxes",
+          "observedAt": "2026-11-16T10:34:57.732Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/cli-boxes",
+          "observedAt": "2026-11-16T10:34:57.732Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/cli-boxes",
+          "observedAt": "2026-11-16T10:34:57.732Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/cli-boxes",
+          "observedAt": "2026-11-16T10:34:57.732Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/cli-boxes",
+          "observedAt": "2026-11-16T10:34:57.732Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "schemaVersion": 1,
+  "pkg": "react-jsonschema-form-conditionals",
+  "source": "https://registry.npmjs.org/react-jsonschema-form-conditionals",
+  "fetchedAt": "2026-11-16T10:32:27.228Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 40
+  },
+  "sourceSha256": "716c80ebd4d79e4ca65a0593cd84bbf3c12054bf163703e59a36e8fcd6a0ed85",
+  "versions": [
+    {
+      "pkg": "react-jsonschema-form-conditionals",
+      "semver": "0.3.13",
+      "publishedAt": "2019-05-28T17:44:51.232Z",
+      "publisher": "mavarazy",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 1745463,
+      "dependencies": {
+        "selectn": "^1.1.2",
+        "deepcopy": "^0.6.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/react-jsonschema-form-conditionals",
+          "observedAt": "2026-11-16T10:32:27.228Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/react-jsonschema-form-conditionals",
+          "observedAt": "2026-11-16T10:32:27.228Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/react-jsonschema-form-conditionals",
+          "observedAt": "2026-11-16T10:32:27.228Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/react-jsonschema-form-conditionals",
+          "observedAt": "2026-11-16T10:32:27.228Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/react-jsonschema-form-conditionals",
+          "observedAt": "2026-11-16T10:32:27.228Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/react-jsonschema-form-conditionals",
+          "observedAt": "2026-11-16T10:32:27.228Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "react-jsonschema-form-conditionals",
+      "semver": "0.3.15",
+      "publishedAt": "2019-09-13T19:57:03.689Z",
+      "publisher": "sneu012",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 2280655,
+      "dependencies": {
+        "selectn": "^1.1.2",
+        "deepcopy": "^0.6.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/react-jsonschema-form-conditionals",
+          "observedAt": "2026-11-16T10:32:27.228Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/react-jsonschema-form-conditionals",
+          "observedAt": "2026-11-16T10:32:27.228Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/react-jsonschema-form-conditionals",
+          "observedAt": "2026-11-16T10:32:27.228Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/react-jsonschema-form-conditionals",
+          "observedAt": "2026-11-16T10:32:27.228Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/react-jsonschema-form-conditionals",
+          "observedAt": "2026-11-16T10:32:27.228Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/react-jsonschema-form-conditionals",
+          "observedAt": "2026-11-16T10:32:27.228Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "react-jsonschema-form-conditionals",
+      "semver": "0.3.17",
+      "publishedAt": "2023-04-13T21:10:14.863Z",
+      "publisher": "techsupportrxnt",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 2393933,
+      "dependencies": {
+        "selectn": "^1.1.2",
+        "deepcopy": "^0.6.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/react-jsonschema-form-conditionals",
+          "observedAt": "2026-11-16T10:32:27.228Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/react-jsonschema-form-conditionals",
+          "observedAt": "2026-11-16T10:32:27.228Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/react-jsonschema-form-conditionals",
+          "observedAt": "2026-11-16T10:32:27.228Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/react-jsonschema-form-conditionals",
+          "observedAt": "2026-11-16T10:32:27.228Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/react-jsonschema-form-conditionals",
+          "observedAt": "2026-11-16T10:32:27.228Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/react-jsonschema-form-conditionals",
+          "observedAt": "2026-11-16T10:32:27.228Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "react-jsonschema-form-conditionals",
+      "semver": "0.3.18",
+      "publishedAt": "2025-09-14T17:58:52.453Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/react-jsonschema-form-conditionals",
+          "observedAt": "2026-11-16T10:32:27.228Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "react-jsonschema-form-conditionals",
+      "semver": "0.3.19",
+      "publishedAt": "2025-09-14T20:43:43.017Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/react-jsonschema-form-conditionals",
+          "observedAt": "2026-11-16T10:32:27.228Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "react-jsonschema-form-conditionals",
+      "semver": "0.3.20",
+      "publishedAt": "2025-09-14T21:03:22.158Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/react-jsonschema-form-conditionals",
+          "observedAt": "2026-11-16T10:32:27.228Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "react-jsonschema-form-conditionals",
+      "semver": "0.3.21",
+      "publishedAt": "2025-09-15T15:45:45.937Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/react-jsonschema-form-conditionals",
+          "observedAt": "2026-11-16T10:32:27.228Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

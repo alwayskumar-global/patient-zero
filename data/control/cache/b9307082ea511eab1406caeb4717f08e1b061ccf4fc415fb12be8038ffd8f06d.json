@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "pkg": "symbol-tree",
+  "source": "https://registry.npmjs.org/symbol-tree",
+  "fetchedAt": "2026-11-16T10:35:28.292Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 19
+  },
+  "sourceSha256": "f88dbb9667b7ac171b4acbd42dbfbf125e74bc6b37aaaffa616611651e6a8bfe",
+  "versions": [
+    {
+      "pkg": "symbol-tree",
+      "semver": "1.0.0",
+      "publishedAt": "2015-07-14T12:03:12.855Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/symbol-tree",
+          "observedAt": "2026-11-16T10:35:28.292Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "symbol-tree",
+      "semver": "3.2.4",
+      "publishedAt": "2019-06-12T18:10:21.305Z",
+      "publisher": "joris-van-der-wel",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 57073,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/symbol-tree",
+          "observedAt": "2026-11-16T10:35:28.292Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/symbol-tree",
+          "observedAt": "2026-11-16T10:35:28.292Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/symbol-tree",
+          "observedAt": "2026-11-16T10:35:28.292Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/symbol-tree",
+          "observedAt": "2026-11-16T10:35:28.292Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/symbol-tree",
+          "observedAt": "2026-11-16T10:35:28.292Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/symbol-tree",
+          "observedAt": "2026-11-16T10:35:28.292Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

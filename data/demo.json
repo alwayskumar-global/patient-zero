@@ -1,0 +1,4 @@
+[
+  {"manifest":"data/replay/manifest.json","incident":"bench/incidents/chalk-debug-2025-09.json"},
+  {"manifest":"data/shai-hulud/manifest.json","incident":"bench/incidents/shai-hulud-2025-09.json"}
+]

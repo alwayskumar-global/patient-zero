@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "timers-browserify",
+  "source": "https://registry.npmjs.org/timers-browserify",
+  "fetchedAt": "2026-11-16T10:35:29.127Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 24
+  },
+  "sourceSha256": "659ab33d612228b21c659c2c326f40d004de8ab19853a43b135b75d1a2710590",
+  "versions": [
+    {
+      "pkg": "timers-browserify",
+      "semver": "2.0.12",
+      "publishedAt": "2020-10-27T10:44:21.049Z",
+      "publisher": "jryans",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 10382,
+      "dependencies": {
+        "setimmediate": "^1.0.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/timers-browserify",
+          "observedAt": "2026-11-16T10:35:29.127Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/timers-browserify",
+          "observedAt": "2026-11-16T10:35:29.127Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/timers-browserify",
+          "observedAt": "2026-11-16T10:35:29.127Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/timers-browserify",
+          "observedAt": "2026-11-16T10:35:29.127Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/timers-browserify",
+          "observedAt": "2026-11-16T10:35:29.127Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/timers-browserify",
+          "observedAt": "2026-11-16T10:35:29.127Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

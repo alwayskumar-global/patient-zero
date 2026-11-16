@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@teselagen/bio-parsers",
+  "source": "https://registry.npmjs.org/%40teselagen%2Fbio-parsers",
+  "fetchedAt": "2026-11-16T10:31:56.786Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 78
+  },
+  "sourceSha256": "674ac5fc06ca334c0511b071d19f490d4fcebe8d791f967bda0ef0ee7f4da662",
+  "versions": [
+    {
+      "pkg": "@teselagen/bio-parsers",
+      "semver": "0.4.29",
+      "publishedAt": "2025-09-14T21:01:47.635Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40teselagen%2Fbio-parsers",
+          "observedAt": "2026-11-16T10:31:56.786Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@teselagen/bio-parsers",
+      "semver": "0.4.29-beta.1",
+      "publishedAt": "2025-06-10T19:13:23.483Z",
+      "publisher": "teselagen-admin",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 2764986,
+      "dependencies": {
+        "color": "3.2.1",
+        "fflate": "^0.8.0",
+        "@gmod/gff": "^1.2.1",
+        "lodash-es": "^4.17.21",
+        "bufferpack": "^0.0.6",
+        "fast-xml-parser": "^4.2.5",
+        "@teselagen/range-utils": "0.3.14-beta.1",
+        "@teselagen/sequence-utils": "0.3.32-beta.1",
+        "validate.io-nonnegative-integer-array": "^1.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40teselagen%2Fbio-parsers",
+          "observedAt": "2026-11-16T10:31:56.786Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40teselagen%2Fbio-parsers",
+          "observedAt": "2026-11-16T10:31:56.786Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40teselagen%2Fbio-parsers",
+          "observedAt": "2026-11-16T10:31:56.786Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40teselagen%2Fbio-parsers",
+          "observedAt": "2026-11-16T10:31:56.786Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40teselagen%2Fbio-parsers",
+          "observedAt": "2026-11-16T10:31:56.786Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40teselagen%2Fbio-parsers",
+          "observedAt": "2026-11-16T10:31:56.786Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@teselagen/bio-parsers",
+      "semver": "0.4.30",
+      "publishedAt": "2025-09-16T02:33:00.720Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40teselagen%2Fbio-parsers",
+          "observedAt": "2026-11-16T10:31:56.786Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

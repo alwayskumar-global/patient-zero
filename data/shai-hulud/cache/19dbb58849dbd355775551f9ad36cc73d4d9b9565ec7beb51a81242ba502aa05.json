@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "pkg": "ember-headless-table",
+  "source": "https://registry.npmjs.org/ember-headless-table",
+  "fetchedAt": "2026-11-16T10:32:18.521Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 20
+  },
+  "sourceSha256": "14ae59110f5bd5cdb5c7911e2fe6a27481f0ebcdbfaccb3ba349cec361913fd5",
+  "versions": [
+    {
+      "pkg": "ember-headless-table",
+      "semver": "1.4.5",
+      "publishedAt": "2023-04-25T18:22:17.445Z",
+      "publisher": "nullvoxpopuli",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 465879,
+      "dependencies": {
+        "@ember/string": "^3.0.0",
+        "@babel/runtime": "^7.17.8",
+        "ember-modifier": "^3.2.7",
+        "ember-resources": "^5.4.0",
+        "@embroider/macros": "1.10.0",
+        "tracked-built-ins": "^3.1.0",
+        "@embroider/addon-shim": "^1.0.0",
+        "ember-tracked-storage-polyfill": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ember-headless-table",
+          "observedAt": "2026-11-16T10:32:18.521Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ember-headless-table",
+          "observedAt": "2026-11-16T10:32:18.521Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ember-headless-table",
+          "observedAt": "2026-11-16T10:32:18.521Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ember-headless-table",
+          "observedAt": "2026-11-16T10:32:18.521Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/ember-headless-table",
+          "observedAt": "2026-11-16T10:32:18.521Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ember-headless-table",
+          "observedAt": "2026-11-16T10:32:18.521Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ember-headless-table",
+      "semver": "2.1.4",
+      "publishedAt": "2023-09-26T16:43:30.359Z",
+      "publisher": "crowdstrike-publisher",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 475240,
+      "dependencies": {
+        "@ember/string": "^3.0.0",
+        "@babel/runtime": "^7.17.8",
+        "ember-modifier": "^3.2.7",
+        "ember-resources": "^5.4.0",
+        "@embroider/macros": "1.10.0",
+        "tracked-built-ins": "^3.1.0",
+        "@embroider/addon-shim": "^1.0.0",
+        "ember-tracked-storage-polyfill": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ember-headless-table",
+          "observedAt": "2026-11-16T10:32:18.521Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ember-headless-table",
+          "observedAt": "2026-11-16T10:32:18.521Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ember-headless-table",
+          "observedAt": "2026-11-16T10:32:18.521Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ember-headless-table",
+          "observedAt": "2026-11-16T10:32:18.521Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/ember-headless-table",
+          "observedAt": "2026-11-16T10:32:18.521Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ember-headless-table",
+          "observedAt": "2026-11-16T10:32:18.521Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ember-headless-table",
+      "semver": "2.1.5",
+      "publishedAt": "2025-09-16T01:14:33.720Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ember-headless-table",
+          "observedAt": "2026-11-16T10:32:18.521Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ember-headless-table",
+      "semver": "2.1.6",
+      "publishedAt": "2025-09-16T01:22:11.061Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ember-headless-table",
+          "observedAt": "2026-11-16T10:32:18.521Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

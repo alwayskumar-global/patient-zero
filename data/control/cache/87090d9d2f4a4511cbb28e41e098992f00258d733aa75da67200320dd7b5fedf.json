@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "acorn-import-attributes",
+  "source": "https://registry.npmjs.org/acorn-import-attributes",
+  "fetchedAt": "2026-11-16T10:34:55.267Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 6
+  },
+  "sourceSha256": "9649ec529764733fb73696efd7a0f6bd530b0c76f265a8c41641c86b48b30920",
+  "versions": [
+    {
+      "pkg": "acorn-import-attributes",
+      "semver": "1.9.5",
+      "publishedAt": "2024-03-29T09:47:27.508Z",
+      "publisher": "xtuc",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 32011,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/acorn-import-attributes",
+          "observedAt": "2026-11-16T10:34:55.267Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/acorn-import-attributes",
+          "observedAt": "2026-11-16T10:34:55.267Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/acorn-import-attributes",
+          "observedAt": "2026-11-16T10:34:55.267Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/acorn-import-attributes",
+          "observedAt": "2026-11-16T10:34:55.267Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/acorn-import-attributes",
+          "observedAt": "2026-11-16T10:34:55.267Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/acorn-import-attributes",
+          "observedAt": "2026-11-16T10:34:55.267Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "pkg": "mdast-util-from-markdown",
+  "source": "https://registry.npmjs.org/mdast-util-from-markdown",
+  "fetchedAt": "2026-11-16T10:35:12.191Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 33
+  },
+  "sourceSha256": "6522103fc8d31ddc5fff41f62235cc58fc102e4ede25ec07fabcaebfcf01545f",
+  "versions": [
+    {
+      "pkg": "mdast-util-from-markdown",
+      "semver": "2.0.2",
+      "publishedAt": "2024-10-25T15:03:17.078Z",
+      "publisher": "wooorm",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 97828,
+      "dependencies": {
+        "devlop": "^1.0.0",
+        "micromark": "^4.0.0",
+        "@types/mdast": "^4.0.0",
+        "@types/unist": "^3.0.0",
+        "mdast-util-to-string": "^4.0.0",
+        "micromark-util-types": "^2.0.0",
+        "micromark-util-symbol": "^2.0.0",
+        "micromark-util-decode-string": "^2.0.0",
+        "unist-util-stringify-position": "^4.0.0",
+        "decode-named-character-reference": "^1.0.0",
+        "micromark-util-normalize-identifier": "^2.0.0",
+        "micromark-util-decode-numeric-character-reference": "^2.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/mdast-util-from-markdown",
+          "observedAt": "2026-11-16T10:35:12.191Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/mdast-util-from-markdown",
+          "observedAt": "2026-11-16T10:35:12.191Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/mdast-util-from-markdown",
+          "observedAt": "2026-11-16T10:35:12.191Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/mdast-util-from-markdown",
+          "observedAt": "2026-11-16T10:35:12.191Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/mdast-util-from-markdown",
+          "observedAt": "2026-11-16T10:35:12.191Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/mdast-util-from-markdown",
+          "observedAt": "2026-11-16T10:35:12.191Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

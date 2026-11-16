@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "pkg": "estraverse",
+  "source": "https://registry.npmjs.org/estraverse",
+  "fetchedAt": "2026-11-16T10:35:01.615Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 35
+  },
+  "sourceSha256": "0a4b62c31e053c088a14e926525c3d9b39742feaa391df9ba2d44e56238ea941",
+  "versions": [
+    {
+      "pkg": "estraverse",
+      "semver": "1.1.2",
+      "publishedAt": "2013-06-14T16:03:02.586Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/estraverse",
+          "observedAt": "2026-11-16T10:35:01.615Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "estraverse",
+      "semver": "4.1.1",
+      "publishedAt": "2015-10-18T13:33:21.529Z",
+      "publisher": "constellation",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/estraverse",
+          "observedAt": "2026-11-16T10:35:01.615Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/estraverse",
+          "observedAt": "2026-11-16T10:35:01.615Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/estraverse",
+          "observedAt": "2026-11-16T10:35:01.615Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/estraverse",
+          "observedAt": "2026-11-16T10:35:01.615Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/estraverse",
+          "observedAt": "2026-11-16T10:35:01.615Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "estraverse",
+      "semver": "4.2.0",
+      "publishedAt": "2016-03-10T21:52:19.346Z",
+      "publisher": "nzakas",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/estraverse",
+          "observedAt": "2026-11-16T10:35:01.615Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/estraverse",
+          "observedAt": "2026-11-16T10:35:01.615Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/estraverse",
+          "observedAt": "2026-11-16T10:35:01.615Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/estraverse",
+          "observedAt": "2026-11-16T10:35:01.615Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/estraverse",
+          "observedAt": "2026-11-16T10:35:01.615Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "estraverse",
+      "semver": "5.3.0",
+      "publishedAt": "2021-10-25T12:18:17.722Z",
+      "publisher": "michaelficarra",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 37094,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/estraverse",
+          "observedAt": "2026-11-16T10:35:01.615Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/estraverse",
+          "observedAt": "2026-11-16T10:35:01.615Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/estraverse",
+          "observedAt": "2026-11-16T10:35:01.615Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/estraverse",
+          "observedAt": "2026-11-16T10:35:01.615Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/estraverse",
+          "observedAt": "2026-11-16T10:35:01.615Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/estraverse",
+          "observedAt": "2026-11-16T10:35:01.615Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

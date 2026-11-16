@@ -1,0 +1,156 @@
+{
+  "schemaVersion": 1,
+  "pkg": "doctrine",
+  "source": "https://registry.npmjs.org/doctrine",
+  "fetchedAt": "2026-11-16T10:34:59.933Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 34
+  },
+  "sourceSha256": "0cd33599409d9ca2632480b26df81b1c8827545f74bc1dea5ad05b2e4d3c1d79",
+  "versions": [
+    {
+      "pkg": "doctrine",
+      "semver": "0.6.4",
+      "publishedAt": "2015-02-23T17:28:57.383Z",
+      "publisher": "constellation",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "esutils": "^1.1.6",
+        "isarray": "0.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/doctrine",
+          "observedAt": "2026-11-16T10:34:59.933Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/doctrine",
+          "observedAt": "2026-11-16T10:34:59.933Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/doctrine",
+          "observedAt": "2026-11-16T10:34:59.933Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/doctrine",
+          "observedAt": "2026-11-16T10:34:59.933Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/doctrine",
+          "observedAt": "2026-11-16T10:34:59.933Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "doctrine",
+      "semver": "0.6.5",
+      "publishedAt": "2015-09-21T19:38:13.481Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/doctrine",
+          "observedAt": "2026-11-16T10:34:59.933Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "doctrine",
+      "semver": "2.0.0",
+      "publishedAt": "2016-11-15T17:58:48.561Z",
+      "publisher": "nzakas",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "esutils": "^2.0.2",
+        "isarray": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/doctrine",
+          "observedAt": "2026-11-16T10:34:59.933Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/doctrine",
+          "observedAt": "2026-11-16T10:34:59.933Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/doctrine",
+          "observedAt": "2026-11-16T10:34:59.933Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/doctrine",
+          "observedAt": "2026-11-16T10:34:59.933Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/doctrine",
+          "observedAt": "2026-11-16T10:34:59.933Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "doctrine",
+      "semver": "3.0.0",
+      "publishedAt": "2018-11-10T02:38:01.125Z",
+      "publisher": "eslint",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 106364,
+      "dependencies": {
+        "esutils": "^2.0.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/doctrine",
+          "observedAt": "2026-11-16T10:34:59.933Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/doctrine",
+          "observedAt": "2026-11-16T10:34:59.933Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/doctrine",
+          "observedAt": "2026-11-16T10:34:59.933Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/doctrine",
+          "observedAt": "2026-11-16T10:34:59.933Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/doctrine",
+          "observedAt": "2026-11-16T10:34:59.933Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/doctrine",
+          "observedAt": "2026-11-16T10:34:59.933Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

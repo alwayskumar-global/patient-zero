@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "leven",
+  "source": "https://registry.npmjs.org/leven",
+  "fetchedAt": "2026-11-16T10:35:09.378Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 9
+  },
+  "sourceSha256": "b5aad531d31e232172eccf75ae67ea7d57a8a481f895bf7f33461750820de9c7",
+  "versions": [
+    {
+      "pkg": "leven",
+      "semver": "4.0.0",
+      "publishedAt": "2021-08-10T12:17:03.365Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 5138,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/leven",
+          "observedAt": "2026-11-16T10:35:09.378Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/leven",
+          "observedAt": "2026-11-16T10:35:09.378Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/leven",
+          "observedAt": "2026-11-16T10:35:09.378Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/leven",
+          "observedAt": "2026-11-16T10:35:09.378Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/leven",
+          "observedAt": "2026-11-16T10:35:09.378Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/leven",
+          "observedAt": "2026-11-16T10:35:09.378Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

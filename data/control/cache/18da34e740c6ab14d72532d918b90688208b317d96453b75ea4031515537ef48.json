@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "pkg": "map-cache",
+  "source": "https://registry.npmjs.org/map-cache",
+  "fetchedAt": "2026-11-16T10:35:12.006Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 5
+  },
+  "sourceSha256": "05b7d3547dcaf6bbc679bdb8fa5432ac0141d35a468c5e53ffd7dcead42942aa",
+  "versions": [
+    {
+      "pkg": "map-cache",
+      "semver": "0.2.2",
+      "publishedAt": "2016-05-10T10:51:16.518Z",
+      "publisher": "jonschlinkert",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/map-cache",
+          "observedAt": "2026-11-16T10:35:12.006Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/map-cache",
+          "observedAt": "2026-11-16T10:35:12.006Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/map-cache",
+          "observedAt": "2026-11-16T10:35:12.006Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/map-cache",
+          "observedAt": "2026-11-16T10:35:12.006Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/map-cache",
+          "observedAt": "2026-11-16T10:35:12.006Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

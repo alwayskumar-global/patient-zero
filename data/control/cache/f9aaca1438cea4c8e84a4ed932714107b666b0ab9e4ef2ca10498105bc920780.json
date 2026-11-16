@@ -1,0 +1,270 @@
+{
+  "schemaVersion": 1,
+  "pkg": "dateformat",
+  "source": "https://registry.npmjs.org/dateformat",
+  "fetchedAt": "2026-11-16T10:34:59.172Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 45
+  },
+  "sourceSha256": "6f06f161a55bd1e7732d584541edd3149988069f48a487c99294bc812e1e3a68",
+  "versions": [
+    {
+      "pkg": "dateformat",
+      "semver": "1.0.11",
+      "publishedAt": "2014-11-28T18:47:24.164Z",
+      "publisher": "ctavan",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "meow": "*",
+        "get-stdin": "*"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/dateformat",
+          "observedAt": "2026-11-16T10:34:59.172Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/dateformat",
+          "observedAt": "2026-11-16T10:34:59.172Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/dateformat",
+          "observedAt": "2026-11-16T10:34:59.172Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/dateformat",
+          "observedAt": "2026-11-16T10:34:59.172Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/dateformat",
+          "observedAt": "2026-11-16T10:34:59.172Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "dateformat",
+      "semver": "1.0.12",
+      "publishedAt": "2015-11-19T06:40:26.966Z",
+      "publisher": "felixge",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "meow": "^3.3.0",
+        "get-stdin": "^4.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/dateformat",
+          "observedAt": "2026-11-16T10:34:59.172Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/dateformat",
+          "observedAt": "2026-11-16T10:34:59.172Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/dateformat",
+          "observedAt": "2026-11-16T10:34:59.172Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/dateformat",
+          "observedAt": "2026-11-16T10:34:59.172Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/dateformat",
+          "observedAt": "2026-11-16T10:34:59.172Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "dateformat",
+      "semver": "2.0.0",
+      "publishedAt": "2016-11-25T06:15:25.073Z",
+      "publisher": "jonschlinkert",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/dateformat",
+          "observedAt": "2026-11-16T10:34:59.172Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/dateformat",
+          "observedAt": "2026-11-16T10:34:59.172Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/dateformat",
+          "observedAt": "2026-11-16T10:34:59.172Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/dateformat",
+          "observedAt": "2026-11-16T10:34:59.172Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/dateformat",
+          "observedAt": "2026-11-16T10:34:59.172Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "dateformat",
+      "semver": "2.1.0",
+      "publishedAt": "2017-09-19T21:15:55.382Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/dateformat",
+          "observedAt": "2026-11-16T10:34:59.172Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "dateformat",
+      "semver": "3.0.2",
+      "publishedAt": "2017-09-21T08:24:05.341Z",
+      "publisher": "fpintos",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/dateformat",
+          "observedAt": "2026-11-16T10:34:59.172Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/dateformat",
+          "observedAt": "2026-11-16T10:34:59.172Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/dateformat",
+          "observedAt": "2026-11-16T10:34:59.172Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/dateformat",
+          "observedAt": "2026-11-16T10:34:59.172Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/dateformat",
+          "observedAt": "2026-11-16T10:34:59.172Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "dateformat",
+      "semver": "3.0.3",
+      "publishedAt": "2018-02-09T20:05:42.054Z",
+      "publisher": "doowb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 15045,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/dateformat",
+          "observedAt": "2026-11-16T10:34:59.172Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/dateformat",
+          "observedAt": "2026-11-16T10:34:59.172Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/dateformat",
+          "observedAt": "2026-11-16T10:34:59.172Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/dateformat",
+          "observedAt": "2026-11-16T10:34:59.172Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/dateformat",
+          "observedAt": "2026-11-16T10:34:59.172Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/dateformat",
+          "observedAt": "2026-11-16T10:34:59.172Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "dateformat",
+      "semver": "5.0.3",
+      "publishedAt": "2022-02-19T13:03:42.510Z",
+      "publisher": "chase-manning",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 19692,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/dateformat",
+          "observedAt": "2026-11-16T10:34:59.172Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/dateformat",
+          "observedAt": "2026-11-16T10:34:59.172Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/dateformat",
+          "observedAt": "2026-11-16T10:34:59.172Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/dateformat",
+          "observedAt": "2026-11-16T10:34:59.172Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/dateformat",
+          "observedAt": "2026-11-16T10:34:59.172Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/dateformat",
+          "observedAt": "2026-11-16T10:34:59.172Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

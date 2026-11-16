@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@hestjs/demo",
+  "source": "https://registry.npmjs.org/%40hestjs%2Fdemo",
+  "fetchedAt": "2026-11-16T10:31:20.064Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 3
+  },
+  "sourceSha256": "306825466963cf3412c875cfe832fc664776487141a094ca205c70a2f9a0c0aa",
+  "versions": [
+    {
+      "pkg": "@hestjs/demo",
+      "semver": "0.1.1",
+      "publishedAt": "2025-07-28T01:53:21.465Z",
+      "publisher": "aqz23678",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 8878,
+      "dependencies": {
+        "hono": "^4.8.9",
+        "@hestjs/core": "^0.1.2",
+        "reflect-metadata": "^0.2.2",
+        "@hestjs/validation": "^0.1.5"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40hestjs%2Fdemo",
+          "observedAt": "2026-11-16T10:31:20.064Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40hestjs%2Fdemo",
+          "observedAt": "2026-11-16T10:31:20.064Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40hestjs%2Fdemo",
+          "observedAt": "2026-11-16T10:31:20.064Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40hestjs%2Fdemo",
+          "observedAt": "2026-11-16T10:31:20.064Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40hestjs%2Fdemo",
+          "observedAt": "2026-11-16T10:31:20.064Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40hestjs%2Fdemo",
+          "observedAt": "2026-11-16T10:31:20.064Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@hestjs/demo",
+      "semver": "0.1.2",
+      "publishedAt": "2025-09-14T20:45:52.348Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40hestjs%2Fdemo",
+          "observedAt": "2026-11-16T10:31:20.064Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

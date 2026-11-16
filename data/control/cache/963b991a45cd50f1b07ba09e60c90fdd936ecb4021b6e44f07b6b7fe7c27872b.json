@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "media-typer",
+  "source": "https://registry.npmjs.org/media-typer",
+  "fetchedAt": "2026-11-16T10:35:12.316Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 10
+  },
+  "sourceSha256": "9a6920c4f074a0f345d8f43715b362d027b40fef795ab8747aeeb79a70d2f80d",
+  "versions": [
+    {
+      "pkg": "media-typer",
+      "semver": "1.1.0",
+      "publishedAt": "2019-04-25T03:16:05.379Z",
+      "publisher": "dougwilson",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 9256,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/media-typer",
+          "observedAt": "2026-11-16T10:35:12.316Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/media-typer",
+          "observedAt": "2026-11-16T10:35:12.316Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/media-typer",
+          "observedAt": "2026-11-16T10:35:12.316Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/media-typer",
+          "observedAt": "2026-11-16T10:35:12.316Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/media-typer",
+          "observedAt": "2026-11-16T10:35:12.316Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/media-typer",
+          "observedAt": "2026-11-16T10:35:12.316Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

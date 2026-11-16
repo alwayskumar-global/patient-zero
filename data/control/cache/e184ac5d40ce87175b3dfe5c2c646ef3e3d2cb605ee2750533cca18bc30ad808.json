@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "default-gateway",
+  "source": "https://registry.npmjs.org/default-gateway",
+  "fetchedAt": "2026-11-16T10:34:59.517Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 54
+  },
+  "sourceSha256": "a48a0eb29b19a2b00b2a0231f68193c1de96da04abd75f9a3fbdbe49853b5c27",
+  "versions": [
+    {
+      "pkg": "default-gateway",
+      "semver": "7.2.2",
+      "publishedAt": "2023-06-10T12:16:02.159Z",
+      "publisher": "silverwind",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 12270,
+      "dependencies": {
+        "execa": "^7.1.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/default-gateway",
+          "observedAt": "2026-11-16T10:34:59.517Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/default-gateway",
+          "observedAt": "2026-11-16T10:34:59.517Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/default-gateway",
+          "observedAt": "2026-11-16T10:34:59.517Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/default-gateway",
+          "observedAt": "2026-11-16T10:34:59.517Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/default-gateway",
+          "observedAt": "2026-11-16T10:34:59.517Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/default-gateway",
+          "observedAt": "2026-11-16T10:34:59.517Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

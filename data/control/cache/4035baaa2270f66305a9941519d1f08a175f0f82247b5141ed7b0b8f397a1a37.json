@@ -1,0 +1,215 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@aws-sdk/token-providers",
+  "source": "https://registry.npmjs.org/%40aws-sdk%2Ftoken-providers",
+  "fetchedAt": "2026-11-16T10:34:29.919Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 498
+  },
+  "sourceSha256": "48dc01e677a1d3f01d02ffe5350b94ce07768e7446f8448b1a2227fa10cac1ca",
+  "versions": [
+    {
+      "pkg": "@aws-sdk/token-providers",
+      "semver": "3.858.0",
+      "publishedAt": "2025-07-31T18:56:22.031Z",
+      "publisher": "aws-sdk-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 39746,
+      "dependencies": {
+        "tslib": "^2.6.2",
+        "@aws-sdk/core": "3.858.0",
+        "@smithy/types": "^4.3.1",
+        "@aws-sdk/types": "3.840.0",
+        "@aws-sdk/nested-clients": "3.858.0",
+        "@smithy/property-provider": "^4.0.4",
+        "@smithy/shared-ini-file-loader": "^4.0.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Ftoken-providers",
+          "observedAt": "2026-11-16T10:34:29.919Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Ftoken-providers",
+          "observedAt": "2026-11-16T10:34:29.919Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Ftoken-providers",
+          "observedAt": "2026-11-16T10:34:29.919Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Ftoken-providers",
+          "observedAt": "2026-11-16T10:34:29.919Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Ftoken-providers",
+          "observedAt": "2026-11-16T10:34:29.919Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Ftoken-providers",
+          "observedAt": "2026-11-16T10:34:29.919Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@aws-sdk/token-providers",
+      "semver": "3.859.0",
+      "publishedAt": "2025-08-01T18:54:54.856Z",
+      "publisher": "aws-sdk-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 39896,
+      "dependencies": {
+        "tslib": "^2.6.2",
+        "@aws-sdk/core": "3.858.0",
+        "@smithy/types": "^4.3.1",
+        "@aws-sdk/types": "3.840.0",
+        "@aws-sdk/nested-clients": "3.858.0",
+        "@smithy/property-provider": "^4.0.4",
+        "@smithy/shared-ini-file-loader": "^4.0.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Ftoken-providers",
+          "observedAt": "2026-11-16T10:34:29.919Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Ftoken-providers",
+          "observedAt": "2026-11-16T10:34:29.919Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Ftoken-providers",
+          "observedAt": "2026-11-16T10:34:29.919Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Ftoken-providers",
+          "observedAt": "2026-11-16T10:34:29.919Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Ftoken-providers",
+          "observedAt": "2026-11-16T10:34:29.919Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Ftoken-providers",
+          "observedAt": "2026-11-16T10:34:29.919Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@aws-sdk/token-providers",
+      "semver": "3.862.0",
+      "publishedAt": "2025-08-06T19:09:54.595Z",
+      "publisher": "aws-sdk-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 39896,
+      "dependencies": {
+        "tslib": "^2.6.2",
+        "@aws-sdk/core": "3.862.0",
+        "@smithy/types": "^4.3.2",
+        "@aws-sdk/types": "3.862.0",
+        "@aws-sdk/nested-clients": "3.862.0",
+        "@smithy/property-provider": "^4.0.5",
+        "@smithy/shared-ini-file-loader": "^4.0.5"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Ftoken-providers",
+          "observedAt": "2026-11-16T10:34:29.919Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Ftoken-providers",
+          "observedAt": "2026-11-16T10:34:29.919Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Ftoken-providers",
+          "observedAt": "2026-11-16T10:34:29.919Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Ftoken-providers",
+          "observedAt": "2026-11-16T10:34:29.919Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Ftoken-providers",
+          "observedAt": "2026-11-16T10:34:29.919Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Ftoken-providers",
+          "observedAt": "2026-11-16T10:34:29.919Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@aws-sdk/token-providers",
+      "semver": "3.863.0",
+      "publishedAt": "2025-08-07T19:09:22.720Z",
+      "publisher": "aws-sdk-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 39896,
+      "dependencies": {
+        "tslib": "^2.6.2",
+        "@aws-sdk/core": "3.863.0",
+        "@smithy/types": "^4.3.2",
+        "@aws-sdk/types": "3.862.0",
+        "@aws-sdk/nested-clients": "3.863.0",
+        "@smithy/property-provider": "^4.0.5",
+        "@smithy/shared-ini-file-loader": "^4.0.5"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Ftoken-providers",
+          "observedAt": "2026-11-16T10:34:29.919Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Ftoken-providers",
+          "observedAt": "2026-11-16T10:34:29.919Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Ftoken-providers",
+          "observedAt": "2026-11-16T10:34:29.919Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Ftoken-providers",
+          "observedAt": "2026-11-16T10:34:29.919Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Ftoken-providers",
+          "observedAt": "2026-11-16T10:34:29.919Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Ftoken-providers",
+          "observedAt": "2026-11-16T10:34:29.919Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

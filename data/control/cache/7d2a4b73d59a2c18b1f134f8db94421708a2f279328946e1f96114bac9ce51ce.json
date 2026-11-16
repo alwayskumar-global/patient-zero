@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "pkg": "own-keys",
+  "source": "https://registry.npmjs.org/own-keys",
+  "fetchedAt": "2026-11-16T10:35:16.448Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 5
+  },
+  "sourceSha256": "67b518632695ba03daf85cad6488c329198ae60320aedba7db3a8e594152f374",
+  "versions": [
+    {
+      "pkg": "own-keys",
+      "semver": "1.0.1",
+      "publishedAt": "2024-12-29T23:18:26.201Z",
+      "publisher": "ljharb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 9797,
+      "dependencies": {
+        "object-keys": "^1.1.1",
+        "get-intrinsic": "^1.2.6",
+        "safe-push-apply": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/own-keys",
+          "observedAt": "2026-11-16T10:35:16.448Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/own-keys",
+          "observedAt": "2026-11-16T10:35:16.448Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/own-keys",
+          "observedAt": "2026-11-16T10:35:16.448Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/own-keys",
+          "observedAt": "2026-11-16T10:35:16.448Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/own-keys",
+          "observedAt": "2026-11-16T10:35:16.448Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/own-keys",
+          "observedAt": "2026-11-16T10:35:16.448Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "own-keys",
+      "semver": "99.10.13",
+      "publishedAt": "2022-03-27T22:32:00.533Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/own-keys",
+          "observedAt": "2026-11-16T10:35:16.448Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

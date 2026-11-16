@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "pkg": "react-style-singleton",
+  "source": "https://registry.npmjs.org/react-style-singleton",
+  "fetchedAt": "2026-11-16T10:35:23.559Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 10
+  },
+  "sourceSha256": "5865e0d2f99d1909f2a1f5a2de5201085e4a282c15f975b21c9723c35494c4b6",
+  "versions": [
+    {
+      "pkg": "react-style-singleton",
+      "semver": "2.2.3",
+      "publishedAt": "2024-12-15T02:27:37.493Z",
+      "publisher": "kashey",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 19433,
+      "dependencies": {
+        "tslib": "^2.0.0",
+        "get-nonce": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/react-style-singleton",
+          "observedAt": "2026-11-16T10:35:23.559Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/react-style-singleton",
+          "observedAt": "2026-11-16T10:35:23.559Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/react-style-singleton",
+          "observedAt": "2026-11-16T10:35:23.559Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/react-style-singleton",
+          "observedAt": "2026-11-16T10:35:23.559Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/react-style-singleton",
+          "observedAt": "2026-11-16T10:35:23.559Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/react-style-singleton",
+          "observedAt": "2026-11-16T10:35:23.559Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,300 @@
+{
+  "schemaVersion": 1,
+  "pkg": "vite-node",
+  "source": "https://registry.npmjs.org/vite-node",
+  "fetchedAt": "2026-11-16T10:35:33.883Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 318
+  },
+  "sourceSha256": "c53fe030e18f3430d7c420f2d09e59ce83049f06a95f183713bcfef9bab3eab0",
+  "versions": [
+    {
+      "pkg": "vite-node",
+      "semver": "0.0.0-alpha.0",
+      "publishedAt": "2021-04-01T09:37:58.925Z",
+      "publisher": "brillout",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 144,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/vite-node",
+          "observedAt": "2026-11-16T10:35:33.883Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/vite-node",
+          "observedAt": "2026-11-16T10:35:33.883Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/vite-node",
+          "observedAt": "2026-11-16T10:35:33.883Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/vite-node",
+          "observedAt": "2026-11-16T10:35:33.883Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/vite-node",
+          "observedAt": "2026-11-16T10:35:33.883Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/vite-node",
+          "observedAt": "2026-11-16T10:35:33.883Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "vite-node",
+      "semver": "0.2.7",
+      "publishedAt": "2022-02-04T06:16:34.696Z",
+      "publisher": "patak",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 71847,
+      "dependencies": {
+        "mlly": "^0.4.1",
+        "vite": "^2.7.13",
+        "pathe": "^0.2.0",
+        "kolorist": "^1.5.1",
+        "minimist": "^1.2.5"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/vite-node",
+          "observedAt": "2026-11-16T10:35:33.883Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/vite-node",
+          "observedAt": "2026-11-16T10:35:33.883Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/vite-node",
+          "observedAt": "2026-11-16T10:35:33.883Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/vite-node",
+          "observedAt": "2026-11-16T10:35:33.883Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/vite-node",
+          "observedAt": "2026-11-16T10:35:33.883Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/vite-node",
+          "observedAt": "2026-11-16T10:35:33.883Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "vite-node",
+      "semver": "0.28.2",
+      "publishedAt": "2023-01-25T11:20:57.067Z",
+      "publisher": "antfu",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 102041,
+      "dependencies": {
+        "cac": "^6.7.14",
+        "mlly": "^1.1.0",
+        "vite": "^3.0.0 || ^4.0.0",
+        "debug": "^4.3.4",
+        "pathe": "^1.1.0",
+        "picocolors": "^1.0.0",
+        "source-map": "^0.6.1",
+        "source-map-support": "^0.5.21"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/vite-node",
+          "observedAt": "2026-11-16T10:35:33.883Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/vite-node",
+          "observedAt": "2026-11-16T10:35:33.883Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/vite-node",
+          "observedAt": "2026-11-16T10:35:33.883Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/vite-node",
+          "observedAt": "2026-11-16T10:35:33.883Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/vite-node",
+          "observedAt": "2026-11-16T10:35:33.883Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/vite-node",
+          "observedAt": "2026-11-16T10:35:33.883Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "vite-node",
+      "semver": "1.2.2",
+      "publishedAt": "2024-01-26T16:25:43.266Z",
+      "publisher": "oreanno",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 190827,
+      "dependencies": {
+        "cac": "^6.7.14",
+        "vite": "^5.0.0",
+        "debug": "^4.3.4",
+        "pathe": "^1.1.1",
+        "picocolors": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/vite-node",
+          "observedAt": "2026-11-16T10:35:33.883Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/vite-node",
+          "observedAt": "2026-11-16T10:35:33.883Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/vite-node",
+          "observedAt": "2026-11-16T10:35:33.883Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/vite-node",
+          "observedAt": "2026-11-16T10:35:33.883Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/vite-node",
+          "observedAt": "2026-11-16T10:35:33.883Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/vite-node",
+          "observedAt": "2026-11-16T10:35:33.883Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "vite-node",
+      "semver": "4.0.0-beta.5",
+      "publishedAt": "2025-07-28T17:44:58.547Z",
+      "publisher": "vitestbot",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 220331,
+      "dependencies": {
+        "cac": "^6.7.14",
+        "vite": "^5.0.0 || ^6.0.0 || ^7.0.0-0",
+        "debug": "^4.4.1",
+        "pathe": "^2.0.3",
+        "es-module-lexer": "^1.7.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/vite-node",
+          "observedAt": "2026-11-16T10:35:33.883Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/vite-node",
+          "observedAt": "2026-11-16T10:35:33.883Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/vite-node",
+          "observedAt": "2026-11-16T10:35:33.883Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/vite-node",
+          "observedAt": "2026-11-16T10:35:33.883Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/vite-node",
+          "observedAt": "2026-11-16T10:35:33.883Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/vite-node",
+          "observedAt": "2026-11-16T10:35:33.883Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "vite-node",
+      "semver": "4.0.0-beta.6",
+      "publishedAt": "2025-08-04T12:32:23.429Z",
+      "publisher": "vitestbot",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 215747,
+      "dependencies": {
+        "cac": "^6.7.14",
+        "vite": "^5.0.0 || ^6.0.0 || ^7.0.0-0",
+        "debug": "^4.4.1",
+        "pathe": "^2.0.3",
+        "es-module-lexer": "^1.7.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/vite-node",
+          "observedAt": "2026-11-16T10:35:33.883Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/vite-node",
+          "observedAt": "2026-11-16T10:35:33.883Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/vite-node",
+          "observedAt": "2026-11-16T10:35:33.883Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/vite-node",
+          "observedAt": "2026-11-16T10:35:33.883Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/vite-node",
+          "observedAt": "2026-11-16T10:35:33.883Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/vite-node",
+          "observedAt": "2026-11-16T10:35:33.883Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "pkg": "micromark-factory-title",
+  "source": "https://registry.npmjs.org/micromark-factory-title",
+  "fetchedAt": "2026-11-16T10:35:12.807Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 10
+  },
+  "sourceSha256": "ed245fe0dc9a42355271c9d0e9a1e061b3c202d19853376b4495c18988d80943",
+  "versions": [
+    {
+      "pkg": "micromark-factory-title",
+      "semver": "2.0.1",
+      "publishedAt": "2024-11-12T11:17:06.622Z",
+      "publisher": "wooorm",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 16527,
+      "dependencies": {
+        "micromark-factory-space": "^2.0.0",
+        "micromark-util-character": "^2.0.0",
+        "micromark-util-symbol": "^2.0.0",
+        "micromark-util-types": "^2.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/micromark-factory-title",
+          "observedAt": "2026-11-16T10:35:12.807Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/micromark-factory-title",
+          "observedAt": "2026-11-16T10:35:12.807Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/micromark-factory-title",
+          "observedAt": "2026-11-16T10:35:12.807Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/micromark-factory-title",
+          "observedAt": "2026-11-16T10:35:12.807Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/micromark-factory-title",
+          "observedAt": "2026-11-16T10:35:12.807Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/micromark-factory-title",
+          "observedAt": "2026-11-16T10:35:12.807Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "pkg": "husky",
+  "source": "https://registry.npmjs.org/husky",
+  "fetchedAt": "2026-11-16T10:35:04.296Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 228
+  },
+  "sourceSha256": "81e62349d4439b4f39b9e87b861d3656f06f4e2ad5574833bd597697a38c72b6",
+  "versions": [
+    {
+      "pkg": "husky",
+      "semver": "0.3.3",
+      "publishedAt": "2014-06-23T12:06:41.985Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/husky",
+          "observedAt": "2026-11-16T10:35:04.296Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "husky",
+      "semver": "9.1.7",
+      "publishedAt": "2024-11-18T15:28:26.026Z",
+      "publisher": "typicode",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 4041,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/husky",
+          "observedAt": "2026-11-16T10:35:04.296Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/husky",
+          "observedAt": "2026-11-16T10:35:04.296Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/husky",
+          "observedAt": "2026-11-16T10:35:04.296Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/husky",
+          "observedAt": "2026-11-16T10:35:04.296Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/husky",
+          "observedAt": "2026-11-16T10:35:04.296Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/husky",
+          "observedAt": "2026-11-16T10:35:04.296Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

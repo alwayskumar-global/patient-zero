@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "form-data-encoder",
+  "source": "https://registry.npmjs.org/form-data-encoder",
+  "fetchedAt": "2026-11-16T10:35:02.756Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 40
+  },
+  "sourceSha256": "90c640af8b20e4635c5607b97da440221da4f7a77435fb1be32b92375982ad97",
+  "versions": [
+    {
+      "pkg": "form-data-encoder",
+      "semver": "4.1.0",
+      "publishedAt": "2025-06-04T22:18:24.319Z",
+      "publisher": "octetstream",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 59380,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/form-data-encoder",
+          "observedAt": "2026-11-16T10:35:02.756Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/form-data-encoder",
+          "observedAt": "2026-11-16T10:35:02.756Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/form-data-encoder",
+          "observedAt": "2026-11-16T10:35:02.756Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/form-data-encoder",
+          "observedAt": "2026-11-16T10:35:02.756Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/form-data-encoder",
+          "observedAt": "2026-11-16T10:35:02.756Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/form-data-encoder",
+          "observedAt": "2026-11-16T10:35:02.756Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

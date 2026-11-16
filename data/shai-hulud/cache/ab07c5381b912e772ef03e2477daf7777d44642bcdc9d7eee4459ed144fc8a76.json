@@ -1,0 +1,686 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@things-factory/env",
+  "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+  "fetchedAt": "2026-11-16T10:32:07.395Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 600
+  },
+  "sourceSha256": "6d567a5590321180fe355085847d5ff932e83a77e5542aa3fcfe31b5babac979",
+  "versions": [
+    {
+      "pkg": "@things-factory/env",
+      "semver": "2.0.4",
+      "publishedAt": "2020-07-14T08:29:05.540Z",
+      "publisher": "stellan.gil",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 14938,
+      "dependencies": {
+        "winston": "^3.2.1",
+        "fs-extra": "^8.0.1",
+        "loader-utils": "^1.2.3",
+        "schema-utils": "^1.0.0",
+        "app-root-path": "^2.2.1",
+        "dependency-solver": "^1.0.6",
+        "winston-daily-rotate-file": "^4.2.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@things-factory/env",
+      "semver": "3.0.0-beta.149",
+      "publishedAt": "2021-02-19T02:50:40.331Z",
+      "publisher": "chayeongrong",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 9480,
+      "dependencies": {
+        "debug": "^4.1.1",
+        "winston": "^3.2.1",
+        "fs-extra": "^9.0.1",
+        "loader-utils": "^1.2.3",
+        "schema-utils": "^1.0.0",
+        "dependency-solver": "^1.0.6",
+        "winston-daily-rotate-file": "^4.2.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@things-factory/env",
+      "semver": "3.3.41",
+      "publishedAt": "2021-06-30T08:45:51.014Z",
+      "publisher": "jay_lee",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 9143,
+      "dependencies": {
+        "debug": "^4.1.1",
+        "winston": "^3.2.1",
+        "fs-extra": "^9.0.1",
+        "loader-utils": "^1.2.3",
+        "schema-utils": "^1.0.0",
+        "dependency-solver": "^1.0.6",
+        "winston-daily-rotate-file": "^4.2.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@things-factory/env",
+      "semver": "4.0.22",
+      "publishedAt": "2021-12-16T04:13:59.061Z",
+      "publisher": "jyp220",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 9682,
+      "dependencies": {
+        "debug": "^4.1.1",
+        "winston": "^3.2.1",
+        "fs-extra": "^9.0.1",
+        "loader-utils": "^1.2.3",
+        "schema-utils": "^1.0.0",
+        "dependency-solver": "^1.0.6",
+        "winston-daily-rotate-file": "^4.2.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@things-factory/env",
+      "semver": "4.1.2",
+      "publishedAt": "2022-02-10T01:27:10.694Z",
+      "publisher": "lyonghwan",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 9681,
+      "dependencies": {
+        "debug": "^4.1.1",
+        "winston": "^3.2.1",
+        "fs-extra": "^9.0.1",
+        "loader-utils": "^1.2.3",
+        "schema-utils": "^1.0.0",
+        "dependency-solver": "^1.0.6",
+        "winston-daily-rotate-file": "^4.2.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@things-factory/env",
+      "semver": "4.3.591",
+      "publishedAt": "2025-02-13T02:18:18.732Z",
+      "publisher": "horwengliang95",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 8899,
+      "dependencies": {
+        "debug": "^4.1.1",
+        "winston": "^3.2.1",
+        "fs-extra": "^9.0.1",
+        "loader-utils": "^1.2.3",
+        "schema-utils": "^1.0.0",
+        "moment-timezone": "^0.5.27",
+        "dependency-solver": "^1.0.6",
+        "winston-daily-rotate-file": "^4.2.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@things-factory/env",
+      "semver": "6.1.46",
+      "publishedAt": "2023-07-14T09:35:51.798Z",
+      "publisher": "woo_ram",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 9846,
+      "dependencies": {
+        "debug": "^4.1.1",
+        "raygun": "^0.13.2",
+        "winston": "^3.2.1",
+        "fs-extra": "^9.0.1",
+        "loader-utils": "^1.2.3",
+        "schema-utils": "^1.0.0",
+        "moment-timezone": "^0.5.40",
+        "dependency-solver": "^1.0.6",
+        "winston-daily-rotate-file": "^4.2.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@things-factory/env",
+      "semver": "6.2.115",
+      "publishedAt": "2024-02-15T06:07:58.076Z",
+      "publisher": "jinwon",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 9847,
+      "dependencies": {
+        "debug": "^4.1.1",
+        "raygun": "^0.13.2",
+        "winston": "^3.2.1",
+        "fs-extra": "^9.0.1",
+        "loader-utils": "^1.2.3",
+        "schema-utils": "^1.0.0",
+        "moment-timezone": "^0.5.40",
+        "dependency-solver": "^1.0.6",
+        "winston-daily-rotate-file": "^4.2.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@things-factory/env",
+      "semver": "8.0.15",
+      "publishedAt": "2025-02-24T06:27:17.758Z",
+      "publisher": "nalshya113",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 71650,
+      "dependencies": {
+        "debug": "^4.1.1",
+        "winston": "^3.2.1",
+        "fs-extra": "^9.0.1",
+        "loader-utils": "^1.2.3",
+        "schema-utils": "^1.0.0",
+        "moment-timezone": "^0.5.40",
+        "dependency-solver": "^1.0.6",
+        "winston-daily-rotate-file": "^4.2.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@things-factory/env",
+      "semver": "9.0.20",
+      "publishedAt": "2025-07-23T11:03:20.472Z",
+      "publisher": "heartyoh",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 107235,
+      "dependencies": {
+        "debug": "^4.1.1",
+        "winston": "^3.2.1",
+        "schema-utils": "^1.0.0",
+        "moment-timezone": "^0.5.40",
+        "dependency-solver": "^1.0.6",
+        "winston-daily-rotate-file": "^4.2.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@things-factory/env",
+      "semver": "9.0.41",
+      "publishedAt": "2025-09-14T07:35:19.380Z",
+      "publisher": "heartyoh",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 108465,
+      "dependencies": {
+        "debug": "^4.1.1",
+        "winston": "^3.2.1",
+        "schema-utils": "^1.0.0",
+        "moment-timezone": "^0.5.40",
+        "dependency-solver": "^1.0.6",
+        "winston-daily-rotate-file": "^4.2.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@things-factory/env",
+      "semver": "9.0.42",
+      "publishedAt": "2025-09-15T22:36:26.269Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@things-factory/env",
+      "semver": "9.0.43",
+      "publishedAt": "2025-09-15T23:44:32.181Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@things-factory/env",
+      "semver": "9.0.44",
+      "publishedAt": "2025-09-16T01:25:41.599Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@things-factory/env",
+      "semver": "9.0.45",
+      "publishedAt": "2025-09-16T01:30:37.159Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@things-factory/env",
+      "semver": "9.1.0",
+      "publishedAt": "2025-09-16T12:16:01.242Z",
+      "publisher": "heartyoh",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 76203,
+      "dependencies": {
+        "debug": "^4.1.1",
+        "winston": "^3.2.1",
+        "schema-utils": "^1.0.0",
+        "moment-timezone": "^0.5.40",
+        "dependency-solver": "^1.0.6",
+        "winston-daily-rotate-file": "^4.2.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fenv",
+          "observedAt": "2026-11-16T10:32:07.395Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 1,
+  "pkg": "picomatch",
+  "source": "https://registry.npmjs.org/picomatch",
+  "fetchedAt": "2026-11-16T10:35:17.921Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 35
+  },
+  "sourceSha256": "9a8e64f1208fef4d18c27f48267e00c639b65743484cf3f5e788d018195b6fbb",
+  "versions": [
+    {
+      "pkg": "picomatch",
+      "semver": "2.1.1",
+      "publishedAt": "2019-11-06T22:23:26.115Z",
+      "publisher": "doowb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 77265,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/picomatch",
+          "observedAt": "2026-11-16T10:35:17.921Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/picomatch",
+          "observedAt": "2026-11-16T10:35:17.921Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/picomatch",
+          "observedAt": "2026-11-16T10:35:17.921Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/picomatch",
+          "observedAt": "2026-11-16T10:35:17.921Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/picomatch",
+          "observedAt": "2026-11-16T10:35:17.921Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/picomatch",
+          "observedAt": "2026-11-16T10:35:17.921Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "picomatch",
+      "semver": "2.2.3",
+      "publishedAt": "2021-04-10T10:14:40.929Z",
+      "publisher": "danez",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 86981,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/picomatch",
+          "observedAt": "2026-11-16T10:35:17.921Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/picomatch",
+          "observedAt": "2026-11-16T10:35:17.921Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/picomatch",
+          "observedAt": "2026-11-16T10:35:17.921Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/picomatch",
+          "observedAt": "2026-11-16T10:35:17.921Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/picomatch",
+          "observedAt": "2026-11-16T10:35:17.921Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/picomatch",
+          "observedAt": "2026-11-16T10:35:17.921Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "picomatch",
+      "semver": "2.3.1",
+      "publishedAt": "2022-01-02T17:18:24.430Z",
+      "publisher": "mrmlnc",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 89952,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/picomatch",
+          "observedAt": "2026-11-16T10:35:17.921Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/picomatch",
+          "observedAt": "2026-11-16T10:35:17.921Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/picomatch",
+          "observedAt": "2026-11-16T10:35:17.921Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/picomatch",
+          "observedAt": "2026-11-16T10:35:17.921Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/picomatch",
+          "observedAt": "2026-11-16T10:35:17.921Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/picomatch",
+          "observedAt": "2026-11-16T10:35:17.921Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "picomatch",
+      "semver": "4.0.3",
+      "publishedAt": "2025-07-15T19:39:26.492Z",
+      "publisher": "jonschlinkert",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 85257,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/picomatch",
+          "observedAt": "2026-11-16T10:35:17.921Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/picomatch",
+          "observedAt": "2026-11-16T10:35:17.921Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/picomatch",
+          "observedAt": "2026-11-16T10:35:17.921Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/picomatch",
+          "observedAt": "2026-11-16T10:35:17.921Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/picomatch",
+          "observedAt": "2026-11-16T10:35:17.921Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/picomatch",
+          "observedAt": "2026-11-16T10:35:17.921Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

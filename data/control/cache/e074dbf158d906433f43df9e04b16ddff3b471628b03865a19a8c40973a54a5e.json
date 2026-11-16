@@ -1,0 +1,116 @@
+{
+  "schemaVersion": 1,
+  "pkg": "through2",
+  "source": "https://registry.npmjs.org/through2",
+  "fetchedAt": "2026-11-16T10:35:29.088Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 52
+  },
+  "sourceSha256": "ea0321b5f0c15eb704143d236dbeaead4a095dec07089a93133c7913ea44bb6b",
+  "versions": [
+    {
+      "pkg": "through2",
+      "semver": "0.6.5",
+      "publishedAt": "2015-04-09T17:42:07.435Z",
+      "publisher": "bryce",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "xtend": ">=4.0.0 <4.1.0-0",
+        "readable-stream": ">=1.0.33-1 <1.1.0-0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/through2",
+          "observedAt": "2026-11-16T10:35:29.088Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/through2",
+          "observedAt": "2026-11-16T10:35:29.088Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/through2",
+          "observedAt": "2026-11-16T10:35:29.088Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/through2",
+          "observedAt": "2026-11-16T10:35:29.088Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/through2",
+          "observedAt": "2026-11-16T10:35:29.088Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "through2",
+      "semver": "1.0.1",
+      "publishedAt": "2014-08-08T09:42:29.558Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/through2",
+          "observedAt": "2026-11-16T10:35:29.088Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "through2",
+      "semver": "4.0.2",
+      "publishedAt": "2020-06-30T01:24:55.820Z",
+      "publisher": "rvagg",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 9346,
+      "dependencies": {
+        "readable-stream": "3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/through2",
+          "observedAt": "2026-11-16T10:35:29.088Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/through2",
+          "observedAt": "2026-11-16T10:35:29.088Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/through2",
+          "observedAt": "2026-11-16T10:35:29.088Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/through2",
+          "observedAt": "2026-11-16T10:35:29.088Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/through2",
+          "observedAt": "2026-11-16T10:35:29.088Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/through2",
+          "observedAt": "2026-11-16T10:35:29.088Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

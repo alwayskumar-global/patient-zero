@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "pkg": "asynckit",
+  "source": "https://registry.npmjs.org/asynckit",
+  "fetchedAt": "2026-11-16T10:34:56.118Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 5
+  },
+  "sourceSha256": "506bf66e17b143439216d8f3907797e65f5b3d9a88eac9d689e7520eef7dff82",
+  "versions": [
+    {
+      "pkg": "asynckit",
+      "semver": "0.4.0",
+      "publishedAt": "2016-06-14T18:29:05.418Z",
+      "publisher": "alexindigo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/asynckit",
+          "observedAt": "2026-11-16T10:34:56.118Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/asynckit",
+          "observedAt": "2026-11-16T10:34:56.118Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/asynckit",
+          "observedAt": "2026-11-16T10:34:56.118Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/asynckit",
+          "observedAt": "2026-11-16T10:34:56.118Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/asynckit",
+          "observedAt": "2026-11-16T10:34:56.118Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

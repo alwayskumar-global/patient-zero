@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@jridgewell/trace-mapping",
+  "source": "https://registry.npmjs.org/%40jridgewell%2Ftrace-mapping",
+  "fetchedAt": "2026-11-16T10:34:36.030Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 43
+  },
+  "sourceSha256": "3eaa5d807579a6894cdd366f1c010c6a9d70ff7b3fad59c9d895f9ea6d97107e",
+  "versions": [
+    {
+      "pkg": "@jridgewell/trace-mapping",
+      "semver": "0.3.29",
+      "publishedAt": "2025-07-01T18:16:52.074Z",
+      "publisher": "jridgewell",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 148655,
+      "dependencies": {
+        "@jridgewell/resolve-uri": "^3.1.0",
+        "@jridgewell/sourcemap-codec": "^1.4.14"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40jridgewell%2Ftrace-mapping",
+          "observedAt": "2026-11-16T10:34:36.030Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40jridgewell%2Ftrace-mapping",
+          "observedAt": "2026-11-16T10:34:36.030Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40jridgewell%2Ftrace-mapping",
+          "observedAt": "2026-11-16T10:34:36.030Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40jridgewell%2Ftrace-mapping",
+          "observedAt": "2026-11-16T10:34:36.030Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40jridgewell%2Ftrace-mapping",
+          "observedAt": "2026-11-16T10:34:36.030Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40jridgewell%2Ftrace-mapping",
+          "observedAt": "2026-11-16T10:34:36.030Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@nativescript-community/ui-material-bottomsheet",
+  "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-bottomsheet",
+  "fetchedAt": "2026-11-16T10:31:31.894Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 267
+  },
+  "sourceSha256": "04b0de06673f65b49adf20c7a734fb9cea0022cd3e90c3e2a88c3651a5403f8a",
+  "versions": [
+    {
+      "pkg": "@nativescript-community/ui-material-bottomsheet",
+      "semver": "4.0.9",
+      "publishedAt": "2020-08-15T03:24:56.973Z",
+      "publisher": "walkerrunpdx",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 222319,
+      "dependencies": {
+        "@nativescript-community/ui-material-core": "^4.0.8"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-bottomsheet",
+          "observedAt": "2026-11-16T10:31:31.894Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-bottomsheet",
+          "observedAt": "2026-11-16T10:31:31.894Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-bottomsheet",
+          "observedAt": "2026-11-16T10:31:31.894Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-bottomsheet",
+          "observedAt": "2026-11-16T10:31:31.894Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-bottomsheet",
+          "observedAt": "2026-11-16T10:31:31.894Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-bottomsheet",
+          "observedAt": "2026-11-16T10:31:31.894Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nativescript-community/ui-material-bottomsheet",
+      "semver": "6.2.1",
+      "publishedAt": "2021-10-25T21:09:53.167Z",
+      "publisher": "keerl",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 266311,
+      "dependencies": {
+        "@nativescript-community/ui-material-core": "^6.2.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-bottomsheet",
+          "observedAt": "2026-11-16T10:31:31.894Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-bottomsheet",
+          "observedAt": "2026-11-16T10:31:31.894Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-bottomsheet",
+          "observedAt": "2026-11-16T10:31:31.894Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-bottomsheet",
+          "observedAt": "2026-11-16T10:31:31.894Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-bottomsheet",
+          "observedAt": "2026-11-16T10:31:31.894Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-bottomsheet",
+          "observedAt": "2026-11-16T10:31:31.894Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nativescript-community/ui-material-bottomsheet",
+      "semver": "6.2.23",
+      "publishedAt": "2022-03-07T12:30:32.061Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-bottomsheet",
+          "observedAt": "2026-11-16T10:31:31.894Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nativescript-community/ui-material-bottomsheet",
+      "semver": "7.0.28",
+      "publishedAt": "2022-09-16T19:51:56.836Z",
+      "publisher": "edusperoni",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 208451,
+      "dependencies": {
+        "@nativescript-community/ui-material-core": "^7.0.28"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-bottomsheet",
+          "observedAt": "2026-11-16T10:31:31.894Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-bottomsheet",
+          "observedAt": "2026-11-16T10:31:31.894Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-bottomsheet",
+          "observedAt": "2026-11-16T10:31:31.894Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-bottomsheet",
+          "observedAt": "2026-11-16T10:31:31.894Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-bottomsheet",
+          "observedAt": "2026-11-16T10:31:31.894Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-bottomsheet",
+          "observedAt": "2026-11-16T10:31:31.894Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nativescript-community/ui-material-bottomsheet",
+      "semver": "7.2.71",
+      "publishedAt": "2025-02-20T15:32:29.320Z",
+      "publisher": "farfromrefuge",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 155114,
+      "dependencies": {
+        "@nativescript-community/ui-material-core": "^7.2.71"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-bottomsheet",
+          "observedAt": "2026-11-16T10:31:31.894Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-bottomsheet",
+          "observedAt": "2026-11-16T10:31:31.894Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-bottomsheet",
+          "observedAt": "2026-11-16T10:31:31.894Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-bottomsheet",
+          "observedAt": "2026-11-16T10:31:31.894Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-bottomsheet",
+          "observedAt": "2026-11-16T10:31:31.894Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-bottomsheet",
+          "observedAt": "2026-11-16T10:31:31.894Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nativescript-community/ui-material-bottomsheet",
+      "semver": "7.2.72",
+      "publishedAt": "2025-09-15T19:58:41.800Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-bottomsheet",
+          "observedAt": "2026-11-16T10:31:31.894Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

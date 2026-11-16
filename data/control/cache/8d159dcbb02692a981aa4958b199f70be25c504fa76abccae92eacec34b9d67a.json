@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "async-limiter",
+  "source": "https://registry.npmjs.org/async-limiter",
+  "fetchedAt": "2026-11-16T10:34:56.072Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 3
+  },
+  "sourceSha256": "2c8fbd69b707853526481c98d08a758e366b993157a30b5e338c7d1527ce8182",
+  "versions": [
+    {
+      "pkg": "async-limiter",
+      "semver": "2.0.0",
+      "publishedAt": "2019-11-20T17:39:05.353Z",
+      "publisher": "strml",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 8589,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/async-limiter",
+          "observedAt": "2026-11-16T10:34:56.072Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/async-limiter",
+          "observedAt": "2026-11-16T10:34:56.072Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/async-limiter",
+          "observedAt": "2026-11-16T10:34:56.072Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/async-limiter",
+          "observedAt": "2026-11-16T10:34:56.072Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/async-limiter",
+          "observedAt": "2026-11-16T10:34:56.072Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/async-limiter",
+          "observedAt": "2026-11-16T10:34:56.072Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@ctrl/tinycolor",
+  "source": "https://registry.npmjs.org/%40ctrl%2Ftinycolor",
+  "fetchedAt": "2026-11-16T10:31:16.375Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 55
+  },
+  "sourceSha256": "88816ca532b20792d1fa07996ed0039982bfa9fafe317a91129889c1a2a6b45c",
+  "versions": [
+    {
+      "pkg": "@ctrl/tinycolor",
+      "semver": "4.1.0",
+      "publishedAt": "2024-04-13T19:04:45.788Z",
+      "publisher": "scttcper",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 244065,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Ftinycolor",
+          "observedAt": "2026-11-16T10:31:16.375Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Ftinycolor",
+          "observedAt": "2026-11-16T10:31:16.375Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Ftinycolor",
+          "observedAt": "2026-11-16T10:31:16.375Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Ftinycolor",
+          "observedAt": "2026-11-16T10:31:16.375Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Ftinycolor",
+          "observedAt": "2026-11-16T10:31:16.375Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Ftinycolor",
+          "observedAt": "2026-11-16T10:31:16.375Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@ctrl/tinycolor",
+      "semver": "4.1.1",
+      "publishedAt": "2025-09-15T19:52:46.624Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Ftinycolor",
+          "observedAt": "2026-11-16T10:31:16.375Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@ctrl/tinycolor",
+      "semver": "4.1.2",
+      "publishedAt": "2025-09-15T20:13:43.540Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Ftinycolor",
+          "observedAt": "2026-11-16T10:31:16.375Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@ctrl/tinycolor",
+      "semver": "4.2.0",
+      "publishedAt": "2025-09-16T03:17:48.101Z",
+      "publisher": "scttcper",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 244090,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Ftinycolor",
+          "observedAt": "2026-11-16T10:31:16.375Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Ftinycolor",
+          "observedAt": "2026-11-16T10:31:16.375Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Ftinycolor",
+          "observedAt": "2026-11-16T10:31:16.375Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Ftinycolor",
+          "observedAt": "2026-11-16T10:31:16.375Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Ftinycolor",
+          "observedAt": "2026-11-16T10:31:16.375Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Ftinycolor",
+          "observedAt": "2026-11-16T10:31:16.375Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

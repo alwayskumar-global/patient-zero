@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "pkg": "micromark-factory-space",
+  "source": "https://registry.npmjs.org/micromark-factory-space",
+  "fetchedAt": "2026-11-16T10:35:12.790Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 9
+  },
+  "sourceSha256": "ea478b01701325e82a6106390ec01d8db9572304894fcfbc9eb21de01d81f699",
+  "versions": [
+    {
+      "pkg": "micromark-factory-space",
+      "semver": "2.0.1",
+      "publishedAt": "2024-11-12T11:17:03.021Z",
+      "publisher": "wooorm",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 13753,
+      "dependencies": {
+        "micromark-util-types": "^2.0.0",
+        "micromark-util-character": "^2.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/micromark-factory-space",
+          "observedAt": "2026-11-16T10:35:12.790Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/micromark-factory-space",
+          "observedAt": "2026-11-16T10:35:12.790Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/micromark-factory-space",
+          "observedAt": "2026-11-16T10:35:12.790Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/micromark-factory-space",
+          "observedAt": "2026-11-16T10:35:12.790Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/micromark-factory-space",
+          "observedAt": "2026-11-16T10:35:12.790Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/micromark-factory-space",
+          "observedAt": "2026-11-16T10:35:12.790Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

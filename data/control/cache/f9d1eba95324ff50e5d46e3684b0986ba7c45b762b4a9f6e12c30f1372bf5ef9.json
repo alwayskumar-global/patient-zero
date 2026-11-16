@@ -1,0 +1,311 @@
+{
+  "schemaVersion": 1,
+  "pkg": "jsdom",
+  "source": "https://registry.npmjs.org/jsdom",
+  "fetchedAt": "2026-11-16T10:35:08.637Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 292
+  },
+  "sourceSha256": "4e28921a5f1b7fb558c5e7f67640f43e57d9e167002356b603cbd6512eded61b",
+  "versions": [
+    {
+      "pkg": "jsdom",
+      "semver": "0.2.15",
+      "publishedAt": "2012-07-12T20:10:34.689Z",
+      "publisher": "tmpvar",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "cssom": "0.2.x",
+        "request": "2.x",
+        "contextify": "0.1.x",
+        "htmlparser": "1.x"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jsdom",
+          "observedAt": "2026-11-16T10:35:08.637Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jsdom",
+          "observedAt": "2026-11-16T10:35:08.637Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jsdom",
+          "observedAt": "2026-11-16T10:35:08.637Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jsdom",
+          "observedAt": "2026-11-16T10:35:08.637Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jsdom",
+          "observedAt": "2026-11-16T10:35:08.637Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jsdom",
+      "semver": "0.2.18",
+      "publishedAt": "2012-10-13T03:26:31.436Z",
+      "publisher": "domenicdenicola",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "cssom": "0.2.x",
+        "request": "2.x",
+        "cssstyle": ">=0.2.3",
+        "contextify": "0.1.x",
+        "htmlparser": "1.x"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jsdom",
+          "observedAt": "2026-11-16T10:35:08.637Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jsdom",
+          "observedAt": "2026-11-16T10:35:08.637Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jsdom",
+          "observedAt": "2026-11-16T10:35:08.637Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jsdom",
+          "observedAt": "2026-11-16T10:35:08.637Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jsdom",
+          "observedAt": "2026-11-16T10:35:08.637Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jsdom",
+      "semver": "11.5.0",
+      "publishedAt": "2017-11-26T22:26:37.644Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jsdom",
+          "observedAt": "2026-11-16T10:35:08.637Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jsdom",
+      "semver": "11.5.1",
+      "publishedAt": "2017-11-26T22:29:14.817Z",
+      "publisher": "sebmaster",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "pn": "^1.0.0",
+        "sax": "^1.2.1",
+        "abab": "^1.0.3",
+        "acorn": "^5.1.2",
+        "cssom": ">= 0.3.2 < 0.4.0",
+        "parse5": "^3.0.2",
+        "request": "^2.83.0",
+        "cssstyle": ">= 0.2.37 < 0.3.0",
+        "left-pad": "^1.2.0",
+        "escodegen": "^1.9.0",
+        "nwmatcher": "^1.4.3",
+        "whatwg-url": "^6.3.0",
+        "array-equal": "^1.0.0",
+        "symbol-tree": "^3.2.1",
+        "domexception": "^1.0.0",
+        "tough-cookie": "^2.3.3",
+        "acorn-globals": "^4.0.0",
+        "whatwg-encoding": "^1.0.1",
+        "webidl-conversions": "^4.0.2",
+        "xml-name-validator": "^2.0.1",
+        "content-type-parser": "^1.0.1",
+        "html-encoding-sniffer": "^1.0.1",
+        "browser-process-hrtime": "^0.1.2",
+        "request-promise-native": "^1.0.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jsdom",
+          "observedAt": "2026-11-16T10:35:08.637Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jsdom",
+          "observedAt": "2026-11-16T10:35:08.637Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jsdom",
+          "observedAt": "2026-11-16T10:35:08.637Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jsdom",
+          "observedAt": "2026-11-16T10:35:08.637Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jsdom",
+          "observedAt": "2026-11-16T10:35:08.637Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jsdom",
+      "semver": "16.2.1",
+      "publishedAt": "2020-03-09T22:36:29.004Z",
+      "publisher": "timothygu",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 2495858,
+      "dependencies": {
+        "ws": "^7.2.1",
+        "abab": "^2.0.3",
+        "acorn": "^7.1.1",
+        "cssom": "^0.4.4",
+        "saxes": "^5.0.0",
+        "nwsapi": "^2.2.0",
+        "parse5": "5.1.1",
+        "request": "^2.88.2",
+        "cssstyle": "^2.2.0",
+        "data-urls": "^2.0.0",
+        "escodegen": "^1.14.1",
+        "decimal.js": "^10.2.0",
+        "whatwg-url": "^8.0.0",
+        "symbol-tree": "^3.2.4",
+        "w3c-hr-time": "^1.0.2",
+        "domexception": "^2.0.1",
+        "tough-cookie": "^3.0.1",
+        "acorn-globals": "^6.0.0",
+        "whatwg-encoding": "^1.0.5",
+        "whatwg-mimetype": "^2.3.0",
+        "w3c-xmlserializer": "^2.0.0",
+        "webidl-conversions": "^5.0.0",
+        "xml-name-validator": "^3.0.0",
+        "html-encoding-sniffer": "^2.0.1",
+        "request-promise-native": "^1.0.8",
+        "is-potential-custom-element-name": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jsdom",
+          "observedAt": "2026-11-16T10:35:08.637Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jsdom",
+          "observedAt": "2026-11-16T10:35:08.637Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jsdom",
+          "observedAt": "2026-11-16T10:35:08.637Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jsdom",
+          "observedAt": "2026-11-16T10:35:08.637Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jsdom",
+          "observedAt": "2026-11-16T10:35:08.637Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jsdom",
+          "observedAt": "2026-11-16T10:35:08.637Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jsdom",
+      "semver": "27.0.0-beta.2",
+      "publishedAt": "2025-06-08T12:19:06.824Z",
+      "publisher": "domenic",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 3275307,
+      "dependencies": {
+        "ws": "^8.18.2",
+        "saxes": "^6.0.0",
+        "parse5": "^7.3.0",
+        "cssstyle": "^4.4.0",
+        "data-urls": "^5.0.0",
+        "decimal.js": "^10.5.0",
+        "whatwg-url": "^14.2.0",
+        "rrweb-cssom": "^0.8.0",
+        "symbol-tree": "^3.2.4",
+        "tough-cookie": "^5.1.2",
+        "whatwg-encoding": "^3.1.1",
+        "whatwg-mimetype": "^4.0.0",
+        "http-proxy-agent": "^7.0.2",
+        "https-proxy-agent": "^7.0.6",
+        "w3c-xmlserializer": "^5.0.0",
+        "webidl-conversions": "^7.0.0",
+        "xml-name-validator": "^5.0.0",
+        "html-encoding-sniffer": "^4.0.0",
+        "@asamuzakjp/dom-selector": "^6.5.0",
+        "is-potential-custom-element-name": "^1.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jsdom",
+          "observedAt": "2026-11-16T10:35:08.637Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jsdom",
+          "observedAt": "2026-11-16T10:35:08.637Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jsdom",
+          "observedAt": "2026-11-16T10:35:08.637Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jsdom",
+          "observedAt": "2026-11-16T10:35:08.637Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jsdom",
+          "observedAt": "2026-11-16T10:35:08.637Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jsdom",
+          "observedAt": "2026-11-16T10:35:08.637Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

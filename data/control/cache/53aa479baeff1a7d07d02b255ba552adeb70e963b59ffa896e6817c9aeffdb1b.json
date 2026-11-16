@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "pkg": "d3-timer",
+  "source": "https://registry.npmjs.org/d3-timer",
+  "fetchedAt": "2026-11-16T10:34:59.093Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 36
+  },
+  "sourceSha256": "00996a5dae78d1864149d6a8f4d4efcf9cc33ee36a9efbe7508e52121b670575",
+  "versions": [
+    {
+      "pkg": "d3-timer",
+      "semver": "2.0.0",
+      "publishedAt": "2020-08-23T13:58:25.886Z",
+      "publisher": "recifs",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 18933,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/d3-timer",
+          "observedAt": "2026-11-16T10:34:59.093Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/d3-timer",
+          "observedAt": "2026-11-16T10:34:59.093Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/d3-timer",
+          "observedAt": "2026-11-16T10:34:59.093Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/d3-timer",
+          "observedAt": "2026-11-16T10:34:59.093Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/d3-timer",
+          "observedAt": "2026-11-16T10:34:59.093Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/d3-timer",
+          "observedAt": "2026-11-16T10:34:59.093Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "d3-timer",
+      "semver": "3.0.1",
+      "publishedAt": "2021-06-05T18:43:06.805Z",
+      "publisher": "mbostock",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 18405,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/d3-timer",
+          "observedAt": "2026-11-16T10:34:59.093Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/d3-timer",
+          "observedAt": "2026-11-16T10:34:59.093Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/d3-timer",
+          "observedAt": "2026-11-16T10:34:59.093Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/d3-timer",
+          "observedAt": "2026-11-16T10:34:59.093Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/d3-timer",
+          "observedAt": "2026-11-16T10:34:59.093Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/d3-timer",
+          "observedAt": "2026-11-16T10:34:59.093Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

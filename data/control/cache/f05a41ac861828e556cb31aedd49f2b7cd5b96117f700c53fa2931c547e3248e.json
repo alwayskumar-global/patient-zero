@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@szmarczak/http-timer",
+  "source": "https://registry.npmjs.org/%40szmarczak%2Fhttp-timer",
+  "fetchedAt": "2026-11-16T10:34:43.457Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 20
+  },
+  "sourceSha256": "a5086cb96d55e2eb959641145615c3d8462b24e5c46695eedf4c1b0a481cb2e1",
+  "versions": [
+    {
+      "pkg": "@szmarczak/http-timer",
+      "semver": "5.0.1",
+      "publishedAt": "2021-08-20T23:26:11.251Z",
+      "publisher": "szmarczak",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 10201,
+      "dependencies": {
+        "defer-to-connect": "^2.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40szmarczak%2Fhttp-timer",
+          "observedAt": "2026-11-16T10:34:43.457Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40szmarczak%2Fhttp-timer",
+          "observedAt": "2026-11-16T10:34:43.457Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40szmarczak%2Fhttp-timer",
+          "observedAt": "2026-11-16T10:34:43.457Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40szmarczak%2Fhttp-timer",
+          "observedAt": "2026-11-16T10:34:43.457Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40szmarczak%2Fhttp-timer",
+          "observedAt": "2026-11-16T10:34:43.457Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40szmarczak%2Fhttp-timer",
+          "observedAt": "2026-11-16T10:34:43.457Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

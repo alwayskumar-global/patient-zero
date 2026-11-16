@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@crowdstrike/glide-core",
+  "source": "https://registry.npmjs.org/%40crowdstrike%2Fglide-core",
+  "fetchedAt": "2026-11-16T10:31:06.849Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 77
+  },
+  "sourceSha256": "ce33a15a865f10b00289909124a27594c13c094ff6d8e964b5d9d9b6008a4411",
+  "versions": [
+    {
+      "pkg": "@crowdstrike/glide-core",
+      "semver": "0.34.1",
+      "publishedAt": "2025-09-09T13:54:50.525Z",
+      "publisher": "crowdstrike-publisher",
+      "hasInstallScript": true,
+      "provenance": true,
+      "unpackedSize": 965742,
+      "dependencies": {
+        "@floating-ui/dom": "^1.6.12",
+        "@shoelace-style/localize": "^3.2.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40crowdstrike%2Fglide-core",
+          "observedAt": "2026-11-16T10:31:06.849Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40crowdstrike%2Fglide-core",
+          "observedAt": "2026-11-16T10:31:06.849Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40crowdstrike%2Fglide-core",
+          "observedAt": "2026-11-16T10:31:06.849Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40crowdstrike%2Fglide-core",
+          "observedAt": "2026-11-16T10:31:06.849Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40crowdstrike%2Fglide-core",
+          "observedAt": "2026-11-16T10:31:06.849Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40crowdstrike%2Fglide-core",
+          "observedAt": "2026-11-16T10:31:06.849Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@crowdstrike/glide-core",
+      "semver": "0.34.2",
+      "publishedAt": "2025-09-16T01:14:33.107Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40crowdstrike%2Fglide-core",
+          "observedAt": "2026-11-16T10:31:06.849Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@crowdstrike/glide-core",
+      "semver": "0.34.3",
+      "publishedAt": "2025-09-16T01:22:19.089Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40crowdstrike%2Fglide-core",
+          "observedAt": "2026-11-16T10:31:06.849Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

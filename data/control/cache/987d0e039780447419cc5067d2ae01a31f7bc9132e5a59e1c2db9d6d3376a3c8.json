@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@svgr/plugin-jsx",
+  "source": "https://registry.npmjs.org/%40svgr%2Fplugin-jsx",
+  "fetchedAt": "2026-11-16T10:34:42.833Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 36
+  },
+  "sourceSha256": "e6d5794a97b88c6a319400239a872306820d20f2058dc921f2458ee154c7cc77",
+  "versions": [
+    {
+      "pkg": "@svgr/plugin-jsx",
+      "semver": "8.1.0",
+      "publishedAt": "2023-08-15T06:46:22.572Z",
+      "publisher": "neoziro",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 12846,
+      "dependencies": {
+        "@babel/core": "^7.21.3",
+        "@svgr/babel-preset": "8.1.0",
+        "@svgr/hast-util-to-babel-ast": "8.0.0",
+        "svg-parser": "^2.0.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40svgr%2Fplugin-jsx",
+          "observedAt": "2026-11-16T10:34:42.833Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40svgr%2Fplugin-jsx",
+          "observedAt": "2026-11-16T10:34:42.833Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40svgr%2Fplugin-jsx",
+          "observedAt": "2026-11-16T10:34:42.833Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40svgr%2Fplugin-jsx",
+          "observedAt": "2026-11-16T10:34:42.833Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40svgr%2Fplugin-jsx",
+          "observedAt": "2026-11-16T10:34:42.833Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40svgr%2Fplugin-jsx",
+          "observedAt": "2026-11-16T10:34:42.833Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

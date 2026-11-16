@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@jridgewell/source-map",
+  "source": "https://registry.npmjs.org/%40jridgewell%2Fsource-map",
+  "fetchedAt": "2026-11-16T10:34:36.007Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 12
+  },
+  "sourceSha256": "bf50bf9782ff424e969f86a9d542f0f2e0cbdb47dac99baebeb66eed927a74a0",
+  "versions": [
+    {
+      "pkg": "@jridgewell/source-map",
+      "semver": "0.3.10",
+      "publishedAt": "2025-07-01T18:18:29.538Z",
+      "publisher": "jridgewell",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 33319,
+      "dependencies": {
+        "@jridgewell/gen-mapping": "^0.3.5",
+        "@jridgewell/trace-mapping": "^0.3.25"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40jridgewell%2Fsource-map",
+          "observedAt": "2026-11-16T10:34:36.007Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40jridgewell%2Fsource-map",
+          "observedAt": "2026-11-16T10:34:36.007Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40jridgewell%2Fsource-map",
+          "observedAt": "2026-11-16T10:34:36.007Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40jridgewell%2Fsource-map",
+          "observedAt": "2026-11-16T10:34:36.007Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40jridgewell%2Fsource-map",
+          "observedAt": "2026-11-16T10:34:36.007Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40jridgewell%2Fsource-map",
+          "observedAt": "2026-11-16T10:34:36.007Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

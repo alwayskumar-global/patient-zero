@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "pkg": "eslint-import-resolver-typescript",
+  "source": "https://registry.npmjs.org/eslint-import-resolver-typescript",
+  "fetchedAt": "2026-11-16T10:35:01.156Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 80
+  },
+  "sourceSha256": "f0efa662b12011b845b3a9b52dd78a1c67af4037594b73dc58395ea73a4485c9",
+  "versions": [
+    {
+      "pkg": "eslint-import-resolver-typescript",
+      "semver": "1.1.1",
+      "publishedAt": "2018-10-26T16:03:52.135Z",
+      "publisher": "bradzacher",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 4287,
+      "dependencies": {
+        "debug": "^4.0.1",
+        "resolve": "^1.4.0",
+        "tsconfig-paths": "^3.6.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/eslint-import-resolver-typescript",
+          "observedAt": "2026-11-16T10:35:01.156Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/eslint-import-resolver-typescript",
+          "observedAt": "2026-11-16T10:35:01.156Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/eslint-import-resolver-typescript",
+          "observedAt": "2026-11-16T10:35:01.156Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/eslint-import-resolver-typescript",
+          "observedAt": "2026-11-16T10:35:01.156Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/eslint-import-resolver-typescript",
+          "observedAt": "2026-11-16T10:35:01.156Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/eslint-import-resolver-typescript",
+          "observedAt": "2026-11-16T10:35:01.156Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "eslint-import-resolver-typescript",
+      "semver": "2.0.0",
+      "publishedAt": "2019-10-08T17:41:13.898Z",
+      "publisher": "alexgorbatchev",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 113499,
+      "dependencies": {
+        "debug": "^4.1.1",
+        "is-glob": "^4.0.1",
+        "resolve": "^1.12.0",
+        "tiny-glob": "^0.2.6",
+        "tsconfig-paths": "^3.9.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/eslint-import-resolver-typescript",
+          "observedAt": "2026-11-16T10:35:01.156Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/eslint-import-resolver-typescript",
+          "observedAt": "2026-11-16T10:35:01.156Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/eslint-import-resolver-typescript",
+          "observedAt": "2026-11-16T10:35:01.156Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/eslint-import-resolver-typescript",
+          "observedAt": "2026-11-16T10:35:01.156Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/eslint-import-resolver-typescript",
+          "observedAt": "2026-11-16T10:35:01.156Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/eslint-import-resolver-typescript",
+          "observedAt": "2026-11-16T10:35:01.156Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "eslint-import-resolver-typescript",
+      "semver": "4.4.4",
+      "publishedAt": "2025-06-25T17:46:33.021Z",
+      "publisher": "jounqin",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 59971,
+      "dependencies": {
+        "debug": "^4.4.1",
+        "tinyglobby": "^0.2.14",
+        "get-tsconfig": "^4.10.1",
+        "is-bun-module": "^2.0.0",
+        "stable-hash-x": "^0.2.0",
+        "unrs-resolver": "^1.7.11",
+        "eslint-import-context": "^0.1.8"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/eslint-import-resolver-typescript",
+          "observedAt": "2026-11-16T10:35:01.156Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/eslint-import-resolver-typescript",
+          "observedAt": "2026-11-16T10:35:01.156Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/eslint-import-resolver-typescript",
+          "observedAt": "2026-11-16T10:35:01.156Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/eslint-import-resolver-typescript",
+          "observedAt": "2026-11-16T10:35:01.156Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/eslint-import-resolver-typescript",
+          "observedAt": "2026-11-16T10:35:01.156Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/eslint-import-resolver-typescript",
+          "observedAt": "2026-11-16T10:35:01.156Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

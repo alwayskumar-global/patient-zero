@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@types/react-transition-group",
+  "source": "https://registry.npmjs.org/%40types%2Freact-transition-group",
+  "fetchedAt": "2026-11-16T10:34:51.409Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 51
+  },
+  "sourceSha256": "082c0c2f224d2c29d19b7662f06c872b1c1cfe325b8883a28aaa2fcfe3303bea",
+  "versions": [
+    {
+      "pkg": "@types/react-transition-group",
+      "semver": "4.4.12",
+      "publishedAt": "2024-12-11T14:37:22.024Z",
+      "publisher": "types",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 18574,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40types%2Freact-transition-group",
+          "observedAt": "2026-11-16T10:34:51.409Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40types%2Freact-transition-group",
+          "observedAt": "2026-11-16T10:34:51.409Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40types%2Freact-transition-group",
+          "observedAt": "2026-11-16T10:34:51.409Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40types%2Freact-transition-group",
+          "observedAt": "2026-11-16T10:34:51.409Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40types%2Freact-transition-group",
+          "observedAt": "2026-11-16T10:34:51.409Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40types%2Freact-transition-group",
+          "observedAt": "2026-11-16T10:34:51.409Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

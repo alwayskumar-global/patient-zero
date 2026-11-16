@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "pkg": "err-code",
+  "source": "https://registry.npmjs.org/err-code",
+  "fetchedAt": "2026-11-16T10:35:00.711Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 13
+  },
+  "sourceSha256": "8d456cb2e2e9363ebe7654f7387a6625d186dc4aba64e38d8b4a70f1824f4ab7",
+  "versions": [
+    {
+      "pkg": "err-code",
+      "semver": "1.1.2",
+      "publishedAt": "2017-04-03T22:22:46.839Z",
+      "publisher": "satazor",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/err-code",
+          "observedAt": "2026-11-16T10:35:00.711Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/err-code",
+          "observedAt": "2026-11-16T10:35:00.711Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/err-code",
+          "observedAt": "2026-11-16T10:35:00.711Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/err-code",
+          "observedAt": "2026-11-16T10:35:00.711Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/err-code",
+          "observedAt": "2026-11-16T10:35:00.711Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "err-code",
+      "semver": "3.0.1",
+      "publishedAt": "2021-02-05T15:55:03.335Z",
+      "publisher": "achingbrain",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7757,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/err-code",
+          "observedAt": "2026-11-16T10:35:00.711Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/err-code",
+          "observedAt": "2026-11-16T10:35:00.711Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/err-code",
+          "observedAt": "2026-11-16T10:35:00.711Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/err-code",
+          "observedAt": "2026-11-16T10:35:00.711Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/err-code",
+          "observedAt": "2026-11-16T10:35:00.711Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/err-code",
+          "observedAt": "2026-11-16T10:35:00.711Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

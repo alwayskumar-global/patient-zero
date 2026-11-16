@@ -1,0 +1,267 @@
+{
+  "schemaVersion": 1,
+  "pkg": "fast-uri",
+  "source": "https://registry.npmjs.org/fast-uri",
+  "fetchedAt": "2026-11-16T10:35:02.136Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 47
+  },
+  "sourceSha256": "eda5f08b96d803ad7fd132935709a3ecec0c3c9c2be4a967efa8782c3d140f15",
+  "versions": [
+    {
+      "pkg": "fast-uri",
+      "semver": "1.0.1",
+      "publishedAt": "2022-02-05T12:32:14.731Z",
+      "publisher": "zekth",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 65978,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/fast-uri",
+          "observedAt": "2026-11-16T10:35:02.136Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/fast-uri",
+          "observedAt": "2026-11-16T10:35:02.136Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/fast-uri",
+          "observedAt": "2026-11-16T10:35:02.136Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/fast-uri",
+          "observedAt": "2026-11-16T10:35:02.136Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/fast-uri",
+          "observedAt": "2026-11-16T10:35:02.136Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/fast-uri",
+          "observedAt": "2026-11-16T10:35:02.136Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "fast-uri",
+      "semver": "2.3.0",
+      "publishedAt": "2023-10-30T19:32:59.669Z",
+      "publisher": "eomm",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 64395,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/fast-uri",
+          "observedAt": "2026-11-16T10:35:02.136Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/fast-uri",
+          "observedAt": "2026-11-16T10:35:02.136Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/fast-uri",
+          "observedAt": "2026-11-16T10:35:02.136Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/fast-uri",
+          "observedAt": "2026-11-16T10:35:02.136Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/fast-uri",
+          "observedAt": "2026-11-16T10:35:02.136Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/fast-uri",
+          "observedAt": "2026-11-16T10:35:02.136Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "fast-uri",
+      "semver": "3.0.0",
+      "publishedAt": "2024-06-23T15:59:23.534Z",
+      "publisher": "jsumners",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 110398,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/fast-uri",
+          "observedAt": "2026-11-16T10:35:02.136Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/fast-uri",
+          "observedAt": "2026-11-16T10:35:02.136Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/fast-uri",
+          "observedAt": "2026-11-16T10:35:02.136Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/fast-uri",
+          "observedAt": "2026-11-16T10:35:02.136Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/fast-uri",
+          "observedAt": "2026-11-16T10:35:02.136Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/fast-uri",
+          "observedAt": "2026-11-16T10:35:02.136Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "fast-uri",
+      "semver": "3.0.3",
+      "publishedAt": "2024-10-15T17:17:10.613Z",
+      "publisher": "matteo.collina",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 107798,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/fast-uri",
+          "observedAt": "2026-11-16T10:35:02.136Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/fast-uri",
+          "observedAt": "2026-11-16T10:35:02.136Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/fast-uri",
+          "observedAt": "2026-11-16T10:35:02.136Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/fast-uri",
+          "observedAt": "2026-11-16T10:35:02.136Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/fast-uri",
+          "observedAt": "2026-11-16T10:35:02.136Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/fast-uri",
+          "observedAt": "2026-11-16T10:35:02.136Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "fast-uri",
+      "semver": "3.0.5",
+      "publishedAt": "2025-01-06T10:09:31.031Z",
+      "publisher": "fdawgs",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 109457,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/fast-uri",
+          "observedAt": "2026-11-16T10:35:02.136Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/fast-uri",
+          "observedAt": "2026-11-16T10:35:02.136Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/fast-uri",
+          "observedAt": "2026-11-16T10:35:02.136Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/fast-uri",
+          "observedAt": "2026-11-16T10:35:02.136Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/fast-uri",
+          "observedAt": "2026-11-16T10:35:02.136Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/fast-uri",
+          "observedAt": "2026-11-16T10:35:02.136Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "fast-uri",
+      "semver": "3.0.6",
+      "publishedAt": "2025-01-20T20:22:54.617Z",
+      "publisher": "gurgunday",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 109402,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/fast-uri",
+          "observedAt": "2026-11-16T10:35:02.136Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/fast-uri",
+          "observedAt": "2026-11-16T10:35:02.136Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/fast-uri",
+          "observedAt": "2026-11-16T10:35:02.136Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/fast-uri",
+          "observedAt": "2026-11-16T10:35:02.136Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/fast-uri",
+          "observedAt": "2026-11-16T10:35:02.136Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/fast-uri",
+          "observedAt": "2026-11-16T10:35:02.136Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

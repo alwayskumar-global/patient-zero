@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@opentelemetry/instrumentation",
+  "source": "https://registry.npmjs.org/%40opentelemetry%2Finstrumentation",
+  "fetchedAt": "2026-11-16T10:34:36.846Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 171
+  },
+  "sourceSha256": "8e6c985285d33c4e3b1714c28c6315c41c57a5124adf193763b5cc56bbcc7991",
+  "versions": [
+    {
+      "pkg": "@opentelemetry/instrumentation",
+      "semver": "0.16.0",
+      "publishedAt": "2021-02-01T22:33:27.303Z",
+      "publisher": "obecny",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 103873,
+      "dependencies": {
+        "semver": "^7.3.2",
+        "shimmer": "^1.2.1",
+        "@opentelemetry/api": "^0.16.0",
+        "require-in-the-middle": "^5.0.3",
+        "@opentelemetry/api-metrics": "^0.16.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40opentelemetry%2Finstrumentation",
+          "observedAt": "2026-11-16T10:34:36.846Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40opentelemetry%2Finstrumentation",
+          "observedAt": "2026-11-16T10:34:36.846Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40opentelemetry%2Finstrumentation",
+          "observedAt": "2026-11-16T10:34:36.846Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40opentelemetry%2Finstrumentation",
+          "observedAt": "2026-11-16T10:34:36.846Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40opentelemetry%2Finstrumentation",
+          "observedAt": "2026-11-16T10:34:36.846Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40opentelemetry%2Finstrumentation",
+          "observedAt": "2026-11-16T10:34:36.846Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@opentelemetry/instrumentation",
+      "semver": "0.203.0",
+      "publishedAt": "2025-07-09T13:31:46.864Z",
+      "publisher": "dyladan",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 655215,
+      "dependencies": {
+        "import-in-the-middle": "^1.8.1",
+        "require-in-the-middle": "^7.1.1",
+        "@opentelemetry/api-logs": "0.203.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40opentelemetry%2Finstrumentation",
+          "observedAt": "2026-11-16T10:34:36.846Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40opentelemetry%2Finstrumentation",
+          "observedAt": "2026-11-16T10:34:36.846Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40opentelemetry%2Finstrumentation",
+          "observedAt": "2026-11-16T10:34:36.846Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40opentelemetry%2Finstrumentation",
+          "observedAt": "2026-11-16T10:34:36.846Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40opentelemetry%2Finstrumentation",
+          "observedAt": "2026-11-16T10:34:36.846Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40opentelemetry%2Finstrumentation",
+          "observedAt": "2026-11-16T10:34:36.846Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@opentelemetry/instrumentation",
+      "semver": "0.53.0",
+      "publishedAt": "2024-08-28T09:17:43.150Z",
+      "publisher": "pichlermarc",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 432029,
+      "dependencies": {
+        "semver": "^7.5.2",
+        "shimmer": "^1.2.1",
+        "@types/shimmer": "^1.2.0",
+        "import-in-the-middle": "^1.8.1",
+        "require-in-the-middle": "^7.1.1",
+        "@opentelemetry/api-logs": "0.53.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40opentelemetry%2Finstrumentation",
+          "observedAt": "2026-11-16T10:34:36.846Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40opentelemetry%2Finstrumentation",
+          "observedAt": "2026-11-16T10:34:36.846Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40opentelemetry%2Finstrumentation",
+          "observedAt": "2026-11-16T10:34:36.846Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40opentelemetry%2Finstrumentation",
+          "observedAt": "2026-11-16T10:34:36.846Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40opentelemetry%2Finstrumentation",
+          "observedAt": "2026-11-16T10:34:36.846Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40opentelemetry%2Finstrumentation",
+          "observedAt": "2026-11-16T10:34:36.846Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "burstPackages": 5,
+  "windowMinutes": 60,
+  "dormantDays": 180,
+  "medium": 3,
+  "high": 5,
+  "decay": 0.7,
+  "maxHops": 4,
+  "weights": { "R1": 3, "R2": 2, "R3": 1, "R4": 2 }
+}

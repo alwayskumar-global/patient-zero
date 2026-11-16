@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "pkg": "isstream",
+  "source": "https://registry.npmjs.org/isstream",
+  "fetchedAt": "2026-11-16T10:35:07.189Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 4
+  },
+  "sourceSha256": "337c78ebd6a47bbc5df0de7eab31ae0ccc9968bb0dd387706a5cca367f905e57",
+  "versions": [
+    {
+      "pkg": "isstream",
+      "semver": "0.1.2",
+      "publishedAt": "2015-03-07T00:15:15.512Z",
+      "publisher": "rvagg",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/isstream",
+          "observedAt": "2026-11-16T10:35:07.189Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/isstream",
+          "observedAt": "2026-11-16T10:35:07.189Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/isstream",
+          "observedAt": "2026-11-16T10:35:07.189Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/isstream",
+          "observedAt": "2026-11-16T10:35:07.189Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/isstream",
+          "observedAt": "2026-11-16T10:35:07.189Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

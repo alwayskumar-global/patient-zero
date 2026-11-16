@@ -1,0 +1,162 @@
+{
+  "schemaVersion": 1,
+  "pkg": "sha.js",
+  "source": "https://registry.npmjs.org/sha.js",
+  "fetchedAt": "2026-11-16T10:35:26.162Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 41
+  },
+  "sourceSha256": "b300437ba4ed24a890668aedbaa167c138d42442595bfbfd23f702599e478221",
+  "versions": [
+    {
+      "pkg": "sha.js",
+      "semver": "2.4.11",
+      "publishedAt": "2018-03-20T00:35:26.208Z",
+      "publisher": "dcousens",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 31084,
+      "dependencies": {
+        "inherits": "^2.0.1",
+        "safe-buffer": "^5.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/sha.js",
+          "observedAt": "2026-11-16T10:35:26.162Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/sha.js",
+          "observedAt": "2026-11-16T10:35:26.162Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/sha.js",
+          "observedAt": "2026-11-16T10:35:26.162Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/sha.js",
+          "observedAt": "2026-11-16T10:35:26.162Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/sha.js",
+          "observedAt": "2026-11-16T10:35:26.162Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/sha.js",
+          "observedAt": "2026-11-16T10:35:26.162Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "sha.js",
+      "semver": "2.4.12",
+      "publishedAt": "2025-07-01T17:46:33.039Z",
+      "publisher": "ljharb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 66073,
+      "dependencies": {
+        "inherits": "^2.0.4",
+        "safe-buffer": "^5.2.1",
+        "to-buffer": "^1.2.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/sha.js",
+          "observedAt": "2026-11-16T10:35:26.162Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/sha.js",
+          "observedAt": "2026-11-16T10:35:26.162Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/sha.js",
+          "observedAt": "2026-11-16T10:35:26.162Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/sha.js",
+          "observedAt": "2026-11-16T10:35:26.162Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/sha.js",
+          "observedAt": "2026-11-16T10:35:26.162Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/sha.js",
+          "observedAt": "2026-11-16T10:35:26.162Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "sha.js",
+      "semver": "2.4.4",
+      "publishedAt": "2015-09-18T21:28:14.515Z",
+      "publisher": "dominictarr",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "inherits": "^2.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/sha.js",
+          "observedAt": "2026-11-16T10:35:26.162Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/sha.js",
+          "observedAt": "2026-11-16T10:35:26.162Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/sha.js",
+          "observedAt": "2026-11-16T10:35:26.162Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/sha.js",
+          "observedAt": "2026-11-16T10:35:26.162Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/sha.js",
+          "observedAt": "2026-11-16T10:35:26.162Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "sha.js",
+      "semver": "2.4.6",
+      "publishedAt": "2016-11-10T01:48:15.798Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/sha.js",
+          "observedAt": "2026-11-16T10:35:26.162Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

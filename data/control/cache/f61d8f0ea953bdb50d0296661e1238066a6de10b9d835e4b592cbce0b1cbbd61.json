@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "connect-history-api-fallback",
+  "source": "https://registry.npmjs.org/connect-history-api-fallback",
+  "fetchedAt": "2026-11-16T10:34:58.251Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 13
+  },
+  "sourceSha256": "4f163b9e6151cd56a4281f69574cdc210ea6e4dcd5c85e5ef378e30135d37bca",
+  "versions": [
+    {
+      "pkg": "connect-history-api-fallback",
+      "semver": "2.0.0",
+      "publishedAt": "2022-06-27T06:53:06.538Z",
+      "publisher": "bripkens",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 10215,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/connect-history-api-fallback",
+          "observedAt": "2026-11-16T10:34:58.251Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/connect-history-api-fallback",
+          "observedAt": "2026-11-16T10:34:58.251Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/connect-history-api-fallback",
+          "observedAt": "2026-11-16T10:34:58.251Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/connect-history-api-fallback",
+          "observedAt": "2026-11-16T10:34:58.251Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/connect-history-api-fallback",
+          "observedAt": "2026-11-16T10:34:58.251Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/connect-history-api-fallback",
+          "observedAt": "2026-11-16T10:34:58.251Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

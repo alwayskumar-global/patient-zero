@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "pkg": "rimraf",
+  "source": "https://registry.npmjs.org/rimraf",
+  "fetchedAt": "2026-11-16T10:35:25.022Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 88
+  },
+  "sourceSha256": "4a9089b10e9a368aa47566a87b0fa0bde1dbc11d6363637fbc0f39dac6ca1389",
+  "versions": [
+    {
+      "pkg": "rimraf",
+      "semver": "2.2.7",
+      "publishedAt": "2014-05-05T22:17:46.141Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/rimraf",
+          "observedAt": "2026-11-16T10:35:25.022Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "rimraf",
+      "semver": "5.0.10",
+      "publishedAt": "2024-07-31T19:25:53.666Z",
+      "publisher": "isaacs",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 281343,
+      "dependencies": {
+        "glob": "^10.3.7"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/rimraf",
+          "observedAt": "2026-11-16T10:35:25.022Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/rimraf",
+          "observedAt": "2026-11-16T10:35:25.022Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/rimraf",
+          "observedAt": "2026-11-16T10:35:25.022Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/rimraf",
+          "observedAt": "2026-11-16T10:35:25.022Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/rimraf",
+          "observedAt": "2026-11-16T10:35:25.022Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/rimraf",
+          "observedAt": "2026-11-16T10:35:25.022Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

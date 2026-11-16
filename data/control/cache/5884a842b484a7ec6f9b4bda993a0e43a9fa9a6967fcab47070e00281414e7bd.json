@@ -1,0 +1,198 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@babel/plugin-transform-modules-systemjs",
+  "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-modules-systemjs",
+  "fetchedAt": "2026-11-16T10:34:32.958Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 126
+  },
+  "sourceSha256": "1c61b4b7ec87736675b0fc3b763fd083a52a51c76f3905869cae6f2d8c88d754",
+  "versions": [
+    {
+      "pkg": "@babel/plugin-transform-modules-systemjs",
+      "semver": "7.0.0-beta.49",
+      "publishedAt": "2018-05-25T16:03:15.544Z",
+      "publisher": "loganfsmyth",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 14198,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "7.0.0-beta.49",
+        "@babel/helper-hoist-variables": "7.0.0-beta.49"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-modules-systemjs",
+          "observedAt": "2026-11-16T10:34:32.958Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-modules-systemjs",
+          "observedAt": "2026-11-16T10:34:32.958Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-modules-systemjs",
+          "observedAt": "2026-11-16T10:34:32.958Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-modules-systemjs",
+          "observedAt": "2026-11-16T10:34:32.958Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-modules-systemjs",
+          "observedAt": "2026-11-16T10:34:32.958Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-modules-systemjs",
+          "observedAt": "2026-11-16T10:34:32.958Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/plugin-transform-modules-systemjs",
+      "semver": "7.1.3",
+      "publishedAt": "2018-10-11T15:52:21.408Z",
+      "publisher": "hzoo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 17124,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "^7.0.0",
+        "@babel/helper-hoist-variables": "^7.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-modules-systemjs",
+          "observedAt": "2026-11-16T10:34:32.958Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-modules-systemjs",
+          "observedAt": "2026-11-16T10:34:32.958Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-modules-systemjs",
+          "observedAt": "2026-11-16T10:34:32.958Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-modules-systemjs",
+          "observedAt": "2026-11-16T10:34:32.958Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-modules-systemjs",
+          "observedAt": "2026-11-16T10:34:32.958Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-modules-systemjs",
+          "observedAt": "2026-11-16T10:34:32.958Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/plugin-transform-modules-systemjs",
+      "semver": "7.10.5",
+      "publishedAt": "2020-07-14T18:18:13.965Z",
+      "publisher": "jlhwung",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 18749,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "^7.10.4",
+        "@babel/helper-hoist-variables": "^7.10.4",
+        "@babel/helper-module-transforms": "^7.10.5",
+        "babel-plugin-dynamic-import-node": "^2.3.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-modules-systemjs",
+          "observedAt": "2026-11-16T10:34:32.958Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-modules-systemjs",
+          "observedAt": "2026-11-16T10:34:32.958Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-modules-systemjs",
+          "observedAt": "2026-11-16T10:34:32.958Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-modules-systemjs",
+          "observedAt": "2026-11-16T10:34:32.958Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-modules-systemjs",
+          "observedAt": "2026-11-16T10:34:32.958Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-modules-systemjs",
+          "observedAt": "2026-11-16T10:34:32.958Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/plugin-transform-modules-systemjs",
+      "semver": "8.0.0-beta.1",
+      "publishedAt": "2025-07-02T09:04:48.969Z",
+      "publisher": "nicolo-ribaudo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 67272,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "^8.0.0-beta.1",
+        "@babel/helper-module-transforms": "^8.0.0-beta.1",
+        "@babel/helper-validator-identifier": "^8.0.0-beta.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-modules-systemjs",
+          "observedAt": "2026-11-16T10:34:32.958Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-modules-systemjs",
+          "observedAt": "2026-11-16T10:34:32.958Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-modules-systemjs",
+          "observedAt": "2026-11-16T10:34:32.958Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-modules-systemjs",
+          "observedAt": "2026-11-16T10:34:32.958Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-modules-systemjs",
+          "observedAt": "2026-11-16T10:34:32.958Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-modules-systemjs",
+          "observedAt": "2026-11-16T10:34:32.958Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

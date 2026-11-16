@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "pkg": "arr-union",
+  "source": "https://registry.npmjs.org/arr-union",
+  "fetchedAt": "2026-11-16T10:34:55.549Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 6
+  },
+  "sourceSha256": "b38f461b8237247c86443a18875fc8fa89188b621cc99be0b406c90403471ea1",
+  "versions": [
+    {
+      "pkg": "arr-union",
+      "semver": "3.1.0",
+      "publishedAt": "2016-02-23T12:54:40.819Z",
+      "publisher": "jonschlinkert",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/arr-union",
+          "observedAt": "2026-11-16T10:34:55.549Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/arr-union",
+          "observedAt": "2026-11-16T10:34:55.549Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/arr-union",
+          "observedAt": "2026-11-16T10:34:55.549Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/arr-union",
+          "observedAt": "2026-11-16T10:34:55.549Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/arr-union",
+          "observedAt": "2026-11-16T10:34:55.549Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

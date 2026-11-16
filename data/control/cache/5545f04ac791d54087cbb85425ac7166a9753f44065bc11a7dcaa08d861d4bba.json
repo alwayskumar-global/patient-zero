@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "pkg": "log-update",
+  "source": "https://registry.npmjs.org/log-update",
+  "fetchedAt": "2026-11-16T10:35:11.936Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 24
+  },
+  "sourceSha256": "b64579cbbb4164103a8a9d69589d3b01b9f89e89cbd9f6b72c217c7366e34c92",
+  "versions": [
+    {
+      "pkg": "log-update",
+      "semver": "6.1.0",
+      "publishedAt": "2024-07-26T14:04:33.571Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7576,
+      "dependencies": {
+        "wrap-ansi": "^9.0.0",
+        "cli-cursor": "^5.0.0",
+        "slice-ansi": "^7.1.0",
+        "strip-ansi": "^7.1.0",
+        "ansi-escapes": "^7.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/log-update",
+          "observedAt": "2026-11-16T10:35:11.936Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/log-update",
+          "observedAt": "2026-11-16T10:35:11.936Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/log-update",
+          "observedAt": "2026-11-16T10:35:11.936Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/log-update",
+          "observedAt": "2026-11-16T10:35:11.936Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/log-update",
+          "observedAt": "2026-11-16T10:35:11.936Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/log-update",
+          "observedAt": "2026-11-16T10:35:11.936Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

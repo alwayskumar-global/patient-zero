@@ -1,0 +1,145 @@
+{
+  "schemaVersion": 1,
+  "pkg": "remark-preset-lint-crowdstrike",
+  "source": "https://registry.npmjs.org/remark-preset-lint-crowdstrike",
+  "fetchedAt": "2026-11-16T10:32:27.946Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 8
+  },
+  "sourceSha256": "f0174e623ae6010177cc886a9b7494bcae4340f150f7e3d2dfc1818c3ec16c29",
+  "versions": [
+    {
+      "pkg": "remark-preset-lint-crowdstrike",
+      "semver": "2.0.0",
+      "publishedAt": "2020-10-19T15:59:33.142Z",
+      "publisher": "kellyselden",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 4392,
+      "dependencies": {
+        "remark-validate-links": "^10.0.0",
+        "remark-preset-lint-consistent": "^4.0.0",
+        "remark-lint-heading-whitespace": "^1.0.0",
+        "remark-preset-lint-recommended": "^5.0.0",
+        "remark-lint-no-url-trailing-slash": "^3.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/remark-preset-lint-crowdstrike",
+          "observedAt": "2026-11-16T10:32:27.946Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/remark-preset-lint-crowdstrike",
+          "observedAt": "2026-11-16T10:32:27.946Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/remark-preset-lint-crowdstrike",
+          "observedAt": "2026-11-16T10:32:27.946Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/remark-preset-lint-crowdstrike",
+          "observedAt": "2026-11-16T10:32:27.946Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/remark-preset-lint-crowdstrike",
+          "observedAt": "2026-11-16T10:32:27.946Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/remark-preset-lint-crowdstrike",
+          "observedAt": "2026-11-16T10:32:27.946Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "remark-preset-lint-crowdstrike",
+      "semver": "4.0.0",
+      "publishedAt": "2023-11-09T19:55:46.976Z",
+      "publisher": "crowdstrike-publisher",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 3377,
+      "dependencies": {
+        "remark-validate-links": "^13.0.0",
+        "remark-preset-lint-consistent": "^5.0.0",
+        "remark-lint-heading-whitespace": "^1.0.0",
+        "remark-preset-lint-recommended": "^6.0.0",
+        "remark-lint-no-url-trailing-slash": "^3.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/remark-preset-lint-crowdstrike",
+          "observedAt": "2026-11-16T10:32:27.946Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/remark-preset-lint-crowdstrike",
+          "observedAt": "2026-11-16T10:32:27.946Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/remark-preset-lint-crowdstrike",
+          "observedAt": "2026-11-16T10:32:27.946Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/remark-preset-lint-crowdstrike",
+          "observedAt": "2026-11-16T10:32:27.946Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/remark-preset-lint-crowdstrike",
+          "observedAt": "2026-11-16T10:32:27.946Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/remark-preset-lint-crowdstrike",
+          "observedAt": "2026-11-16T10:32:27.946Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "remark-preset-lint-crowdstrike",
+      "semver": "4.0.1",
+      "publishedAt": "2025-09-16T01:14:32.212Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/remark-preset-lint-crowdstrike",
+          "observedAt": "2026-11-16T10:32:27.946Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "remark-preset-lint-crowdstrike",
+      "semver": "4.0.2",
+      "publishedAt": "2025-09-16T01:22:11.817Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/remark-preset-lint-crowdstrike",
+          "observedAt": "2026-11-16T10:32:27.946Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

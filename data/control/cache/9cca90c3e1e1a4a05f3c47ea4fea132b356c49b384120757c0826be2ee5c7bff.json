@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "pkg": "crc32-stream",
+  "source": "https://registry.npmjs.org/crc32-stream",
+  "fetchedAt": "2026-11-16T10:34:58.781Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 26
+  },
+  "sourceSha256": "ad30d30b81586c76b8c5e3e1001d91f616b6128e8238719728c2952e786141ac",
+  "versions": [
+    {
+      "pkg": "crc32-stream",
+      "semver": "7.0.1",
+      "publishedAt": "2024-10-14T00:19:54.808Z",
+      "publisher": "ctalkington",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 6148,
+      "dependencies": {
+        "crc-32": "^1.2.0",
+        "readable-stream": "^4.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/crc32-stream",
+          "observedAt": "2026-11-16T10:34:58.781Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/crc32-stream",
+          "observedAt": "2026-11-16T10:34:58.781Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/crc32-stream",
+          "observedAt": "2026-11-16T10:34:58.781Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/crc32-stream",
+          "observedAt": "2026-11-16T10:34:58.781Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/crc32-stream",
+          "observedAt": "2026-11-16T10:34:58.781Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/crc32-stream",
+          "observedAt": "2026-11-16T10:34:58.781Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

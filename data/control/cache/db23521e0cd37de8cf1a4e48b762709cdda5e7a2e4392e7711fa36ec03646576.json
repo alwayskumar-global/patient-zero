@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@colors/colors",
+  "source": "https://registry.npmjs.org/%40colors%2Fcolors",
+  "fetchedAt": "2026-11-16T10:34:33.886Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 4
+  },
+  "sourceSha256": "fe30cb89f7226e37939a56f19b734bbce01ef3669cdace3379c48633181a44ae",
+  "versions": [
+    {
+      "pkg": "@colors/colors",
+      "semver": "1.6.0",
+      "publishedAt": "2023-07-10T05:16:15.097Z",
+      "publisher": "dabh",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 41466,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40colors%2Fcolors",
+          "observedAt": "2026-11-16T10:34:33.886Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40colors%2Fcolors",
+          "observedAt": "2026-11-16T10:34:33.886Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40colors%2Fcolors",
+          "observedAt": "2026-11-16T10:34:33.886Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40colors%2Fcolors",
+          "observedAt": "2026-11-16T10:34:33.886Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40colors%2Fcolors",
+          "observedAt": "2026-11-16T10:34:33.886Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40colors%2Fcolors",
+          "observedAt": "2026-11-16T10:34:33.886Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

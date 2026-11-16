@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "pkg": "eslint-visitor-keys",
+  "source": "https://registry.npmjs.org/eslint-visitor-keys",
+  "fetchedAt": "2026-11-16T10:35:01.501Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 21
+  },
+  "sourceSha256": "0d29d3eccf047db130630920f46ee303a7d5c3262ae87325862b2e511dd6bbb8",
+  "versions": [
+    {
+      "pkg": "eslint-visitor-keys",
+      "semver": "1.1.0",
+      "publishedAt": "2019-08-13T14:11:08.272Z",
+      "publisher": "eslint",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 23254,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/eslint-visitor-keys",
+          "observedAt": "2026-11-16T10:35:01.501Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/eslint-visitor-keys",
+          "observedAt": "2026-11-16T10:35:01.501Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/eslint-visitor-keys",
+          "observedAt": "2026-11-16T10:35:01.501Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/eslint-visitor-keys",
+          "observedAt": "2026-11-16T10:35:01.501Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/eslint-visitor-keys",
+          "observedAt": "2026-11-16T10:35:01.501Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/eslint-visitor-keys",
+          "observedAt": "2026-11-16T10:35:01.501Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "eslint-visitor-keys",
+      "semver": "4.2.1",
+      "publishedAt": "2025-06-09T15:45:52.557Z",
+      "publisher": "eslintbot",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 37151,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/eslint-visitor-keys",
+          "observedAt": "2026-11-16T10:35:01.501Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/eslint-visitor-keys",
+          "observedAt": "2026-11-16T10:35:01.501Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/eslint-visitor-keys",
+          "observedAt": "2026-11-16T10:35:01.501Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/eslint-visitor-keys",
+          "observedAt": "2026-11-16T10:35:01.501Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/eslint-visitor-keys",
+          "observedAt": "2026-11-16T10:35:01.501Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/eslint-visitor-keys",
+          "observedAt": "2026-11-16T10:35:01.501Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

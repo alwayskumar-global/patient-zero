@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@jest/expect-utils",
+  "source": "https://registry.npmjs.org/%40jest%2Fexpect-utils",
+  "fetchedAt": "2026-11-16T10:34:35.659Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 73
+  },
+  "sourceSha256": "bf6788ab4a2230a19afe5e526c6cedfd1abfb591d1ea33cb1d3f4eae0a39015a",
+  "versions": [
+    {
+      "pkg": "@jest/expect-utils",
+      "semver": "30.0.0-alpha.7",
+      "publishedAt": "2025-01-30T08:28:37.606Z",
+      "publisher": "simenb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 31241,
+      "dependencies": {
+        "jest-get-type": "30.0.0-alpha.7"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40jest%2Fexpect-utils",
+          "observedAt": "2026-11-16T10:34:35.659Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40jest%2Fexpect-utils",
+          "observedAt": "2026-11-16T10:34:35.659Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40jest%2Fexpect-utils",
+          "observedAt": "2026-11-16T10:34:35.659Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40jest%2Fexpect-utils",
+          "observedAt": "2026-11-16T10:34:35.659Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40jest%2Fexpect-utils",
+          "observedAt": "2026-11-16T10:34:35.659Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40jest%2Fexpect-utils",
+          "observedAt": "2026-11-16T10:34:35.659Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@jest/expect-utils",
+      "semver": "30.0.5",
+      "publishedAt": "2025-07-22T02:28:37.304Z",
+      "publisher": "cpojer",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 33338,
+      "dependencies": {
+        "@jest/get-type": "30.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40jest%2Fexpect-utils",
+          "observedAt": "2026-11-16T10:34:35.659Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40jest%2Fexpect-utils",
+          "observedAt": "2026-11-16T10:34:35.659Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40jest%2Fexpect-utils",
+          "observedAt": "2026-11-16T10:34:35.659Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40jest%2Fexpect-utils",
+          "observedAt": "2026-11-16T10:34:35.659Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40jest%2Fexpect-utils",
+          "observedAt": "2026-11-16T10:34:35.659Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40jest%2Fexpect-utils",
+          "observedAt": "2026-11-16T10:34:35.659Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

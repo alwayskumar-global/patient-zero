@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "pkg": "rechoir",
+  "source": "https://registry.npmjs.org/rechoir",
+  "fetchedAt": "2026-11-16T10:35:23.765Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 14
+  },
+  "sourceSha256": "3e8976238669ca75a2c8b628346d87e9bb1f5e7156f86928f64fc998d85eb34b",
+  "versions": [
+    {
+      "pkg": "rechoir",
+      "semver": "0.6.2",
+      "publishedAt": "2015-07-22T14:42:26.370Z",
+      "publisher": "tkellen",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "resolve": "^1.1.6"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/rechoir",
+          "observedAt": "2026-11-16T10:35:23.765Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/rechoir",
+          "observedAt": "2026-11-16T10:35:23.765Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/rechoir",
+          "observedAt": "2026-11-16T10:35:23.765Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/rechoir",
+          "observedAt": "2026-11-16T10:35:23.765Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/rechoir",
+          "observedAt": "2026-11-16T10:35:23.765Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "rechoir",
+      "semver": "0.8.0",
+      "publishedAt": "2021-07-24T04:39:25.084Z",
+      "publisher": "phated",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 8639,
+      "dependencies": {
+        "resolve": "^1.20.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/rechoir",
+          "observedAt": "2026-11-16T10:35:23.765Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/rechoir",
+          "observedAt": "2026-11-16T10:35:23.765Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/rechoir",
+          "observedAt": "2026-11-16T10:35:23.765Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/rechoir",
+          "observedAt": "2026-11-16T10:35:23.765Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/rechoir",
+          "observedAt": "2026-11-16T10:35:23.765Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/rechoir",
+          "observedAt": "2026-11-16T10:35:23.765Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

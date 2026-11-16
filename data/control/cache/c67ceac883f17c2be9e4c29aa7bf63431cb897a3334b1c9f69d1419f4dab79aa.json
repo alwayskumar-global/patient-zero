@@ -1,0 +1,467 @@
+{
+  "schemaVersion": 1,
+  "pkg": "cacache",
+  "source": "https://registry.npmjs.org/cacache",
+  "fetchedAt": "2026-11-16T10:34:57.275Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 111
+  },
+  "sourceSha256": "8bdd137f644a4dd15c5505faf120cf1525a51db6c569bbe2f65fefafbd34ba7e",
+  "versions": [
+    {
+      "pkg": "cacache",
+      "semver": "11.3.3",
+      "publishedAt": "2019-06-17T16:14:40.006Z",
+      "publisher": "zkat",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 112357,
+      "dependencies": {
+        "glob": "^7.1.4",
+        "ssri": "^6.0.1",
+        "y18n": "^4.0.0",
+        "chownr": "^1.1.1",
+        "mkdirp": "^0.5.1",
+        "rimraf": "^2.6.3",
+        "bluebird": "^3.5.5",
+        "lru-cache": "^5.1.1",
+        "graceful-fs": "^4.1.15",
+        "mississippi": "^3.0.0",
+        "figgy-pudding": "^3.5.1",
+        "unique-filename": "^1.1.1",
+        "promise-inflight": "^1.0.1",
+        "move-concurrently": "^1.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/cacache",
+          "observedAt": "2026-11-16T10:34:57.275Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/cacache",
+          "observedAt": "2026-11-16T10:34:57.275Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/cacache",
+          "observedAt": "2026-11-16T10:34:57.275Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/cacache",
+          "observedAt": "2026-11-16T10:34:57.275Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/cacache",
+          "observedAt": "2026-11-16T10:34:57.275Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/cacache",
+          "observedAt": "2026-11-16T10:34:57.275Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "cacache",
+      "semver": "13.0.0",
+      "publishedAt": "2019-09-25T19:03:36.816Z",
+      "publisher": "ruyadorno",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 98894,
+      "dependencies": {
+        "glob": "^7.1.4",
+        "ssri": "^7.0.0",
+        "p-map": "^3.0.0",
+        "chownr": "^1.1.2",
+        "mkdirp": "^0.5.1",
+        "rimraf": "^2.7.1",
+        "minipass": "^2.6.5",
+        "lru-cache": "^5.1.1",
+        "fs-minipass": "^1.2.7",
+        "graceful-fs": "^4.2.2",
+        "infer-owner": "^1.0.4",
+        "figgy-pudding": "^3.5.1",
+        "minipass-flush": "^1.0.3",
+        "unique-filename": "^1.1.1",
+        "minipass-collect": "^1.0.1",
+        "promise-inflight": "^1.0.1",
+        "minipass-pipeline": "^1.1.2",
+        "move-concurrently": "^1.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/cacache",
+          "observedAt": "2026-11-16T10:34:57.275Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/cacache",
+          "observedAt": "2026-11-16T10:34:57.275Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/cacache",
+          "observedAt": "2026-11-16T10:34:57.275Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/cacache",
+          "observedAt": "2026-11-16T10:34:57.275Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/cacache",
+          "observedAt": "2026-11-16T10:34:57.275Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/cacache",
+          "observedAt": "2026-11-16T10:34:57.275Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "cacache",
+      "semver": "15.2.0",
+      "publishedAt": "2021-05-25T13:26:27.490Z",
+      "publisher": "isaacs",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 76631,
+      "dependencies": {
+        "tar": "^6.0.2",
+        "glob": "^7.1.4",
+        "ssri": "^8.0.1",
+        "p-map": "^4.0.0",
+        "chownr": "^2.0.0",
+        "mkdirp": "^1.0.3",
+        "rimraf": "^3.0.2",
+        "minipass": "^3.1.1",
+        "lru-cache": "^6.0.0",
+        "fs-minipass": "^2.0.0",
+        "infer-owner": "^1.0.4",
+        "minipass-flush": "^1.0.5",
+        "unique-filename": "^1.1.1",
+        "minipass-collect": "^1.0.2",
+        "promise-inflight": "^1.0.1",
+        "@npmcli/move-file": "^1.0.1",
+        "minipass-pipeline": "^1.2.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/cacache",
+          "observedAt": "2026-11-16T10:34:57.275Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/cacache",
+          "observedAt": "2026-11-16T10:34:57.275Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/cacache",
+          "observedAt": "2026-11-16T10:34:57.275Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/cacache",
+          "observedAt": "2026-11-16T10:34:57.275Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/cacache",
+          "observedAt": "2026-11-16T10:34:57.275Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/cacache",
+          "observedAt": "2026-11-16T10:34:57.275Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "cacache",
+      "semver": "17.0.0",
+      "publishedAt": "2022-10-13T18:42:32.034Z",
+      "publisher": "nlf",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 64953,
+      "dependencies": {
+        "tar": "^6.1.11",
+        "glob": "^8.0.1",
+        "ssri": "^9.0.0",
+        "p-map": "^4.0.0",
+        "minipass": "^3.1.6",
+        "lru-cache": "^7.7.1",
+        "@npmcli/fs": "^3.0.0",
+        "fs-minipass": "^2.1.0",
+        "minipass-flush": "^1.0.5",
+        "unique-filename": "^2.0.0",
+        "minipass-collect": "^1.0.2",
+        "promise-inflight": "^1.0.1",
+        "@npmcli/move-file": "^2.0.0",
+        "minipass-pipeline": "^1.2.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/cacache",
+          "observedAt": "2026-11-16T10:34:57.275Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/cacache",
+          "observedAt": "2026-11-16T10:34:57.275Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/cacache",
+          "observedAt": "2026-11-16T10:34:57.275Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/cacache",
+          "observedAt": "2026-11-16T10:34:57.275Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/cacache",
+          "observedAt": "2026-11-16T10:34:57.275Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/cacache",
+          "observedAt": "2026-11-16T10:34:57.275Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "cacache",
+      "semver": "17.0.4",
+      "publishedAt": "2022-12-15T19:49:40.439Z",
+      "publisher": "lukekarrys",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 64925,
+      "dependencies": {
+        "tar": "^6.1.11",
+        "glob": "^8.0.1",
+        "ssri": "^10.0.0",
+        "p-map": "^4.0.0",
+        "minipass": "^4.0.0",
+        "lru-cache": "^7.7.1",
+        "@npmcli/fs": "^3.1.0",
+        "fs-minipass": "^3.0.0",
+        "minipass-flush": "^1.0.5",
+        "unique-filename": "^3.0.0",
+        "minipass-collect": "^1.0.2",
+        "promise-inflight": "^1.0.1",
+        "minipass-pipeline": "^1.2.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/cacache",
+          "observedAt": "2026-11-16T10:34:57.275Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/cacache",
+          "observedAt": "2026-11-16T10:34:57.275Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/cacache",
+          "observedAt": "2026-11-16T10:34:57.275Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/cacache",
+          "observedAt": "2026-11-16T10:34:57.275Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/cacache",
+          "observedAt": "2026-11-16T10:34:57.275Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/cacache",
+          "observedAt": "2026-11-16T10:34:57.275Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "cacache",
+      "semver": "17.0.5",
+      "publishedAt": "2023-03-21T17:35:21.422Z",
+      "publisher": "gar",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 64876,
+      "dependencies": {
+        "tar": "^6.1.11",
+        "glob": "^9.3.1",
+        "ssri": "^10.0.0",
+        "p-map": "^4.0.0",
+        "minipass": "^4.0.0",
+        "lru-cache": "^7.7.1",
+        "@npmcli/fs": "^3.1.0",
+        "fs-minipass": "^3.0.0",
+        "minipass-flush": "^1.0.5",
+        "unique-filename": "^3.0.0",
+        "minipass-collect": "^1.0.2",
+        "promise-inflight": "^1.0.1",
+        "minipass-pipeline": "^1.2.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/cacache",
+          "observedAt": "2026-11-16T10:34:57.275Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/cacache",
+          "observedAt": "2026-11-16T10:34:57.275Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/cacache",
+          "observedAt": "2026-11-16T10:34:57.275Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/cacache",
+          "observedAt": "2026-11-16T10:34:57.275Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/cacache",
+          "observedAt": "2026-11-16T10:34:57.275Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/cacache",
+          "observedAt": "2026-11-16T10:34:57.275Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "cacache",
+      "semver": "20.0.0",
+      "publishedAt": "2025-07-24T15:40:41.357Z",
+      "publisher": "npm-cli-ops",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 63801,
+      "dependencies": {
+        "tar": "^7.4.3",
+        "glob": "^11.0.3",
+        "ssri": "^12.0.0",
+        "p-map": "^7.0.2",
+        "minipass": "^7.0.3",
+        "lru-cache": "^11.1.0",
+        "@npmcli/fs": "^4.0.0",
+        "fs-minipass": "^3.0.0",
+        "minipass-flush": "^1.0.5",
+        "unique-filename": "^4.0.0",
+        "minipass-collect": "^2.0.1",
+        "minipass-pipeline": "^1.2.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/cacache",
+          "observedAt": "2026-11-16T10:34:57.275Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/cacache",
+          "observedAt": "2026-11-16T10:34:57.275Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/cacache",
+          "observedAt": "2026-11-16T10:34:57.275Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/cacache",
+          "observedAt": "2026-11-16T10:34:57.275Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/cacache",
+          "observedAt": "2026-11-16T10:34:57.275Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/cacache",
+          "observedAt": "2026-11-16T10:34:57.275Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "cacache",
+      "semver": "5.0.1",
+      "publishedAt": "2017-02-18T07:47:56.870Z",
+      "publisher": "charlotteis",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "once": "^1.4.0",
+        "slide": "^1.1.6",
+        "split": "^1.0.0",
+        "chownr": "^1.0.1",
+        "mkdirp": "^0.5.1",
+        "rimraf": "^2.5.4",
+        "dezalgo": "^1.0.3",
+        "inflight": "^1.0.6",
+        "lockfile": "^1.0.2",
+        "graceful-fs": "^4.1.10",
+        "mississippi": "^1.2.0",
+        "unique-filename": "^1.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/cacache",
+          "observedAt": "2026-11-16T10:34:57.275Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/cacache",
+          "observedAt": "2026-11-16T10:34:57.275Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/cacache",
+          "observedAt": "2026-11-16T10:34:57.275Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/cacache",
+          "observedAt": "2026-11-16T10:34:57.275Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/cacache",
+          "observedAt": "2026-11-16T10:34:57.275Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

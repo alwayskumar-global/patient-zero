@@ -1,0 +1,774 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@typescript-eslint/typescript-estree",
+  "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+  "fetchedAt": "2026-11-16T10:34:53.759Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 4988
+  },
+  "sourceSha256": "f06fa384044710bf153238d95a46a7678a575e3760c68b4936c0e819e9148a89",
+  "versions": [
+    {
+      "pkg": "@typescript-eslint/typescript-estree",
+      "semver": "1.13.1-alpha.2",
+      "publishedAt": "2019-07-21T23:06:14.358Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@typescript-eslint/typescript-estree",
+      "semver": "8.38.0",
+      "publishedAt": "2025-07-21T17:21:59.571Z",
+      "publisher": "jameshenry",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 404483,
+      "dependencies": {
+        "debug": "^4.3.4",
+        "semver": "^7.6.0",
+        "is-glob": "^4.0.3",
+        "fast-glob": "^3.3.2",
+        "minimatch": "^9.0.4",
+        "ts-api-utils": "^2.1.0",
+        "@typescript-eslint/types": "8.38.0",
+        "@typescript-eslint/visitor-keys": "8.38.0",
+        "@typescript-eslint/tsconfig-utils": "8.38.0",
+        "@typescript-eslint/project-service": "8.38.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@typescript-eslint/typescript-estree",
+      "semver": "8.38.1-alpha.0",
+      "publishedAt": "2025-08-01T22:27:51.719Z",
+      "publisher": "jameshenry",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 404523,
+      "dependencies": {
+        "debug": "^4.3.4",
+        "semver": "^7.6.0",
+        "is-glob": "^4.0.3",
+        "fast-glob": "^3.3.2",
+        "minimatch": "^9.0.4",
+        "ts-api-utils": "^2.1.0",
+        "@typescript-eslint/types": "8.38.1-alpha.0",
+        "@typescript-eslint/visitor-keys": "8.38.1-alpha.0",
+        "@typescript-eslint/tsconfig-utils": "8.38.1-alpha.0",
+        "@typescript-eslint/project-service": "8.38.1-alpha.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@typescript-eslint/typescript-estree",
+      "semver": "8.38.1-alpha.1",
+      "publishedAt": "2025-08-01T22:48:36.349Z",
+      "publisher": "jameshenry",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 404523,
+      "dependencies": {
+        "debug": "^4.3.4",
+        "semver": "^7.6.0",
+        "is-glob": "^4.0.3",
+        "fast-glob": "^3.3.2",
+        "minimatch": "^9.0.4",
+        "ts-api-utils": "^2.1.0",
+        "@typescript-eslint/types": "8.38.1-alpha.1",
+        "@typescript-eslint/visitor-keys": "8.38.1-alpha.1",
+        "@typescript-eslint/tsconfig-utils": "8.38.1-alpha.1",
+        "@typescript-eslint/project-service": "8.38.1-alpha.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@typescript-eslint/typescript-estree",
+      "semver": "8.38.1-alpha.2",
+      "publishedAt": "2025-08-01T23:07:18.422Z",
+      "publisher": "jameshenry",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 404523,
+      "dependencies": {
+        "debug": "^4.3.4",
+        "semver": "^7.6.0",
+        "is-glob": "^4.0.3",
+        "fast-glob": "^3.3.2",
+        "minimatch": "^9.0.4",
+        "ts-api-utils": "^2.1.0",
+        "@typescript-eslint/types": "8.38.1-alpha.2",
+        "@typescript-eslint/visitor-keys": "8.38.1-alpha.2",
+        "@typescript-eslint/tsconfig-utils": "8.38.1-alpha.2",
+        "@typescript-eslint/project-service": "8.38.1-alpha.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@typescript-eslint/typescript-estree",
+      "semver": "8.38.1-alpha.3",
+      "publishedAt": "2025-08-01T23:31:10.439Z",
+      "publisher": "jameshenry",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 404523,
+      "dependencies": {
+        "debug": "^4.3.4",
+        "semver": "^7.6.0",
+        "is-glob": "^4.0.3",
+        "fast-glob": "^3.3.2",
+        "minimatch": "^9.0.4",
+        "ts-api-utils": "^2.1.0",
+        "@typescript-eslint/types": "8.38.1-alpha.3",
+        "@typescript-eslint/visitor-keys": "8.38.1-alpha.3",
+        "@typescript-eslint/tsconfig-utils": "8.38.1-alpha.3",
+        "@typescript-eslint/project-service": "8.38.1-alpha.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@typescript-eslint/typescript-estree",
+      "semver": "8.38.1-alpha.4",
+      "publishedAt": "2025-08-03T00:42:17.308Z",
+      "publisher": "jameshenry",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 404774,
+      "dependencies": {
+        "debug": "^4.3.4",
+        "semver": "^7.6.0",
+        "is-glob": "^4.0.3",
+        "fast-glob": "^3.3.2",
+        "minimatch": "^9.0.4",
+        "ts-api-utils": "^2.1.0",
+        "@typescript-eslint/types": "8.38.1-alpha.4",
+        "@typescript-eslint/visitor-keys": "8.38.1-alpha.4",
+        "@typescript-eslint/tsconfig-utils": "8.38.1-alpha.4",
+        "@typescript-eslint/project-service": "8.38.1-alpha.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@typescript-eslint/typescript-estree",
+      "semver": "8.38.1-alpha.5",
+      "publishedAt": "2025-08-03T17:44:23.663Z",
+      "publisher": "jameshenry",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 404774,
+      "dependencies": {
+        "debug": "^4.3.4",
+        "semver": "^7.6.0",
+        "is-glob": "^4.0.3",
+        "fast-glob": "^3.3.2",
+        "minimatch": "^9.0.4",
+        "ts-api-utils": "^2.1.0",
+        "@typescript-eslint/types": "8.38.1-alpha.5",
+        "@typescript-eslint/visitor-keys": "8.38.1-alpha.5",
+        "@typescript-eslint/tsconfig-utils": "8.38.1-alpha.5",
+        "@typescript-eslint/project-service": "8.38.1-alpha.5"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@typescript-eslint/typescript-estree",
+      "semver": "8.38.1-alpha.6",
+      "publishedAt": "2025-08-03T19:05:41.526Z",
+      "publisher": "jameshenry",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 404774,
+      "dependencies": {
+        "debug": "^4.3.4",
+        "semver": "^7.6.0",
+        "is-glob": "^4.0.3",
+        "fast-glob": "^3.3.2",
+        "minimatch": "^9.0.4",
+        "ts-api-utils": "^2.1.0",
+        "@typescript-eslint/types": "8.38.1-alpha.6",
+        "@typescript-eslint/visitor-keys": "8.38.1-alpha.6",
+        "@typescript-eslint/tsconfig-utils": "8.38.1-alpha.6",
+        "@typescript-eslint/project-service": "8.38.1-alpha.6"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@typescript-eslint/typescript-estree",
+      "semver": "8.38.1-alpha.7",
+      "publishedAt": "2025-08-04T02:52:25.962Z",
+      "publisher": "jameshenry",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 404774,
+      "dependencies": {
+        "debug": "^4.3.4",
+        "semver": "^7.6.0",
+        "is-glob": "^4.0.3",
+        "fast-glob": "^3.3.2",
+        "minimatch": "^9.0.4",
+        "ts-api-utils": "^2.1.0",
+        "@typescript-eslint/types": "8.38.1-alpha.7",
+        "@typescript-eslint/visitor-keys": "8.38.1-alpha.7",
+        "@typescript-eslint/tsconfig-utils": "8.38.1-alpha.7",
+        "@typescript-eslint/project-service": "8.38.1-alpha.7"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@typescript-eslint/typescript-estree",
+      "semver": "8.38.1-alpha.8",
+      "publishedAt": "2025-08-04T14:57:03.772Z",
+      "publisher": "jameshenry",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 404774,
+      "dependencies": {
+        "debug": "^4.3.4",
+        "semver": "^7.6.0",
+        "is-glob": "^4.0.3",
+        "fast-glob": "^3.3.2",
+        "minimatch": "^9.0.4",
+        "ts-api-utils": "^2.1.0",
+        "@typescript-eslint/types": "8.38.1-alpha.8",
+        "@typescript-eslint/visitor-keys": "8.38.1-alpha.8",
+        "@typescript-eslint/tsconfig-utils": "8.38.1-alpha.8",
+        "@typescript-eslint/project-service": "8.38.1-alpha.8"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@typescript-eslint/typescript-estree",
+      "semver": "8.39.0",
+      "publishedAt": "2025-08-04T17:26:18.031Z",
+      "publisher": "jameshenry",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 404734,
+      "dependencies": {
+        "debug": "^4.3.4",
+        "semver": "^7.6.0",
+        "is-glob": "^4.0.3",
+        "fast-glob": "^3.3.2",
+        "minimatch": "^9.0.4",
+        "ts-api-utils": "^2.1.0",
+        "@typescript-eslint/types": "8.39.0",
+        "@typescript-eslint/visitor-keys": "8.39.0",
+        "@typescript-eslint/tsconfig-utils": "8.39.0",
+        "@typescript-eslint/project-service": "8.39.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@typescript-eslint/typescript-estree",
+      "semver": "8.39.1-alpha.0",
+      "publishedAt": "2025-08-04T17:39:27.762Z",
+      "publisher": "jameshenry",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 404774,
+      "dependencies": {
+        "debug": "^4.3.4",
+        "semver": "^7.6.0",
+        "is-glob": "^4.0.3",
+        "fast-glob": "^3.3.2",
+        "minimatch": "^9.0.4",
+        "ts-api-utils": "^2.1.0",
+        "@typescript-eslint/types": "8.39.1-alpha.0",
+        "@typescript-eslint/visitor-keys": "8.39.1-alpha.0",
+        "@typescript-eslint/tsconfig-utils": "8.39.1-alpha.0",
+        "@typescript-eslint/project-service": "8.39.1-alpha.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@typescript-eslint/typescript-estree",
+      "semver": "8.39.1-alpha.1",
+      "publishedAt": "2025-08-05T00:13:59.047Z",
+      "publisher": "jameshenry",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 404774,
+      "dependencies": {
+        "debug": "^4.3.4",
+        "semver": "^7.6.0",
+        "is-glob": "^4.0.3",
+        "fast-glob": "^3.3.2",
+        "minimatch": "^9.0.4",
+        "ts-api-utils": "^2.1.0",
+        "@typescript-eslint/types": "8.39.1-alpha.1",
+        "@typescript-eslint/visitor-keys": "8.39.1-alpha.1",
+        "@typescript-eslint/tsconfig-utils": "8.39.1-alpha.1",
+        "@typescript-eslint/project-service": "8.39.1-alpha.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@typescript-eslint/typescript-estree",
+      "semver": "8.39.1-alpha.2",
+      "publishedAt": "2025-08-05T00:24:31.763Z",
+      "publisher": "jameshenry",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 404774,
+      "dependencies": {
+        "debug": "^4.3.4",
+        "semver": "^7.6.0",
+        "is-glob": "^4.0.3",
+        "fast-glob": "^3.3.2",
+        "minimatch": "^9.0.4",
+        "ts-api-utils": "^2.1.0",
+        "@typescript-eslint/types": "8.39.1-alpha.2",
+        "@typescript-eslint/visitor-keys": "8.39.1-alpha.2",
+        "@typescript-eslint/tsconfig-utils": "8.39.1-alpha.2",
+        "@typescript-eslint/project-service": "8.39.1-alpha.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Ftypescript-estree",
+          "observedAt": "2026-11-16T10:34:53.759Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

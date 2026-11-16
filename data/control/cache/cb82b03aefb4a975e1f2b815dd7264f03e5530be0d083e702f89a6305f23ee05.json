@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@emotion/sheet",
+  "source": "https://registry.npmjs.org/%40emotion%2Fsheet",
+  "fetchedAt": "2026-11-16T10:34:34.089Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 40
+  },
+  "sourceSha256": "59ecc87537b624acd888aba642b8543019997d26cfe4be437f4b44588e5a3a86",
+  "versions": [
+    {
+      "pkg": "@emotion/sheet",
+      "semver": "0.9.3",
+      "publishedAt": "2019-06-25T23:08:44.141Z",
+      "publisher": "mitchellhamilton",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 28453,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40emotion%2Fsheet",
+          "observedAt": "2026-11-16T10:34:34.089Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40emotion%2Fsheet",
+          "observedAt": "2026-11-16T10:34:34.089Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40emotion%2Fsheet",
+          "observedAt": "2026-11-16T10:34:34.089Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40emotion%2Fsheet",
+          "observedAt": "2026-11-16T10:34:34.089Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40emotion%2Fsheet",
+          "observedAt": "2026-11-16T10:34:34.089Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40emotion%2Fsheet",
+          "observedAt": "2026-11-16T10:34:34.089Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@emotion/sheet",
+      "semver": "1.4.0",
+      "publishedAt": "2024-07-20T07:37:30.114Z",
+      "publisher": "emotion-release-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 29483,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40emotion%2Fsheet",
+          "observedAt": "2026-11-16T10:34:34.089Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40emotion%2Fsheet",
+          "observedAt": "2026-11-16T10:34:34.089Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40emotion%2Fsheet",
+          "observedAt": "2026-11-16T10:34:34.089Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40emotion%2Fsheet",
+          "observedAt": "2026-11-16T10:34:34.089Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40emotion%2Fsheet",
+          "observedAt": "2026-11-16T10:34:34.089Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40emotion%2Fsheet",
+          "observedAt": "2026-11-16T10:34:34.089Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

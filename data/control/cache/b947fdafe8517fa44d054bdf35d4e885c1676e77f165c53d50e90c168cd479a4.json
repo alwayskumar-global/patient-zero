@@ -1,0 +1,168 @@
+{
+  "schemaVersion": 1,
+  "pkg": "cookie",
+  "source": "https://registry.npmjs.org/cookie",
+  "fetchedAt": "2026-11-16T10:34:58.412Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 36
+  },
+  "sourceSha256": "7e3c1e9a815a3b82f4c5c9e4d42eac59f02954a3a621570811606399d68d5720",
+  "versions": [
+    {
+      "pkg": "cookie",
+      "semver": "0.0.5",
+      "publishedAt": "2012-10-29T17:26:30.049Z",
+      "publisher": null,
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/cookie",
+          "observedAt": "2026-11-16T10:34:58.412Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/cookie",
+          "observedAt": "2026-11-16T10:34:58.412Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/cookie",
+          "observedAt": "2026-11-16T10:34:58.412Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/cookie",
+          "observedAt": "2026-11-16T10:34:58.412Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "cookie",
+      "semver": "0.1.2",
+      "publishedAt": "2014-04-16T23:00:21.566Z",
+      "publisher": "shtylman",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/cookie",
+          "observedAt": "2026-11-16T10:34:58.412Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/cookie",
+          "observedAt": "2026-11-16T10:34:58.412Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/cookie",
+          "observedAt": "2026-11-16T10:34:58.412Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/cookie",
+          "observedAt": "2026-11-16T10:34:58.412Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/cookie",
+          "observedAt": "2026-11-16T10:34:58.412Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "cookie",
+      "semver": "0.6.0",
+      "publishedAt": "2023-11-07T05:01:09.857Z",
+      "publisher": "dougwilson",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 23736,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/cookie",
+          "observedAt": "2026-11-16T10:34:58.412Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/cookie",
+          "observedAt": "2026-11-16T10:34:58.412Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/cookie",
+          "observedAt": "2026-11-16T10:34:58.412Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/cookie",
+          "observedAt": "2026-11-16T10:34:58.412Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/cookie",
+          "observedAt": "2026-11-16T10:34:58.412Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/cookie",
+          "observedAt": "2026-11-16T10:34:58.412Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "cookie",
+      "semver": "1.0.2",
+      "publishedAt": "2024-11-20T17:39:47.758Z",
+      "publisher": "blakeembrey",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 46521,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/cookie",
+          "observedAt": "2026-11-16T10:34:58.412Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/cookie",
+          "observedAt": "2026-11-16T10:34:58.412Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/cookie",
+          "observedAt": "2026-11-16T10:34:58.412Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/cookie",
+          "observedAt": "2026-11-16T10:34:58.412Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/cookie",
+          "observedAt": "2026-11-16T10:34:58.412Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/cookie",
+          "observedAt": "2026-11-16T10:34:58.412Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

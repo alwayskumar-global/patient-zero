@@ -1,0 +1,278 @@
+{
+  "schemaVersion": 1,
+  "pkg": "handlebars",
+  "source": "https://registry.npmjs.org/handlebars",
+  "fetchedAt": "2026-11-16T10:35:03.452Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 82
+  },
+  "sourceSha256": "e51d95c9d896496c031a6ab138c2b6c0ecbc9419686a3cb21beb3d2f6fadd19b",
+  "versions": [
+    {
+      "pkg": "handlebars",
+      "semver": "1.0.2-beta",
+      "publishedAt": "2011-08-22T07:43:36.484Z",
+      "publisher": null,
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "optimist": "~0.2",
+        "uglify-js": "~1.0"
+      },
+      "evidence": {
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/handlebars",
+          "observedAt": "2026-11-16T10:35:03.452Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/handlebars",
+          "observedAt": "2026-11-16T10:35:03.452Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/handlebars",
+          "observedAt": "2026-11-16T10:35:03.452Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/handlebars",
+          "observedAt": "2026-11-16T10:35:03.452Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "handlebars",
+      "semver": "4.0.5",
+      "publishedAt": "2015-11-20T05:07:09.574Z",
+      "publisher": "kpdecker",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "async": "^1.4.0",
+        "optimist": "^0.6.1",
+        "uglify-js": "^2.6",
+        "source-map": "^0.4.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/handlebars",
+          "observedAt": "2026-11-16T10:35:03.452Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/handlebars",
+          "observedAt": "2026-11-16T10:35:03.452Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/handlebars",
+          "observedAt": "2026-11-16T10:35:03.452Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/handlebars",
+          "observedAt": "2026-11-16T10:35:03.452Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/handlebars",
+          "observedAt": "2026-11-16T10:35:03.452Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "handlebars",
+      "semver": "4.0.6",
+      "publishedAt": "2016-11-13T01:27:44.012Z",
+      "publisher": "lawnsea",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "async": "^1.4.0",
+        "optimist": "^0.6.1",
+        "uglify-js": "^2.6",
+        "source-map": "^0.4.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/handlebars",
+          "observedAt": "2026-11-16T10:35:03.452Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/handlebars",
+          "observedAt": "2026-11-16T10:35:03.452Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/handlebars",
+          "observedAt": "2026-11-16T10:35:03.452Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/handlebars",
+          "observedAt": "2026-11-16T10:35:03.452Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/handlebars",
+          "observedAt": "2026-11-16T10:35:03.452Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "handlebars",
+      "semver": "4.7.6",
+      "publishedAt": "2020-04-03T17:59:55.566Z",
+      "publisher": "erisds",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 2716186,
+      "dependencies": {
+        "minimist": "^1.2.5",
+        "wordwrap": "^1.0.0",
+        "neo-async": "^2.6.0",
+        "uglify-js": "^3.1.4",
+        "source-map": "^0.6.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/handlebars",
+          "observedAt": "2026-11-16T10:35:03.452Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/handlebars",
+          "observedAt": "2026-11-16T10:35:03.452Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/handlebars",
+          "observedAt": "2026-11-16T10:35:03.452Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/handlebars",
+          "observedAt": "2026-11-16T10:35:03.452Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/handlebars",
+          "observedAt": "2026-11-16T10:35:03.452Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/handlebars",
+          "observedAt": "2026-11-16T10:35:03.452Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "handlebars",
+      "semver": "4.7.7",
+      "publishedAt": "2021-02-15T09:39:02.858Z",
+      "publisher": "knappi",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 2718268,
+      "dependencies": {
+        "minimist": "^1.2.5",
+        "wordwrap": "^1.0.0",
+        "neo-async": "^2.6.0",
+        "uglify-js": "^3.1.4",
+        "source-map": "^0.6.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/handlebars",
+          "observedAt": "2026-11-16T10:35:03.452Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/handlebars",
+          "observedAt": "2026-11-16T10:35:03.452Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/handlebars",
+          "observedAt": "2026-11-16T10:35:03.452Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/handlebars",
+          "observedAt": "2026-11-16T10:35:03.452Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/handlebars",
+          "observedAt": "2026-11-16T10:35:03.452Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/handlebars",
+          "observedAt": "2026-11-16T10:35:03.452Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "handlebars",
+      "semver": "4.7.8",
+      "publishedAt": "2023-08-01T21:19:12.508Z",
+      "publisher": "jaylinski",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 2783601,
+      "dependencies": {
+        "minimist": "^1.2.5",
+        "wordwrap": "^1.0.0",
+        "neo-async": "^2.6.2",
+        "uglify-js": "^3.1.4",
+        "source-map": "^0.6.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/handlebars",
+          "observedAt": "2026-11-16T10:35:03.452Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/handlebars",
+          "observedAt": "2026-11-16T10:35:03.452Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/handlebars",
+          "observedAt": "2026-11-16T10:35:03.452Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/handlebars",
+          "observedAt": "2026-11-16T10:35:03.452Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/handlebars",
+          "observedAt": "2026-11-16T10:35:03.452Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/handlebars",
+          "observedAt": "2026-11-16T10:35:03.452Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "pkg": "sirv",
+  "source": "https://registry.npmjs.org/sirv",
+  "fetchedAt": "2026-11-16T10:35:26.542Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 50
+  },
+  "sourceSha256": "b45428f28e6b15eb3844cbfa484873f49e20ad178c9c1a785ede953cc291d178",
+  "versions": [
+    {
+      "pkg": "sirv",
+      "semver": "3.0.1",
+      "publishedAt": "2025-02-17T17:53:46.703Z",
+      "publisher": "lukeed",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 21845,
+      "dependencies": {
+        "mrmime": "^2.0.0",
+        "totalist": "^3.0.0",
+        "@polka/url": "^1.0.0-next.24"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/sirv",
+          "observedAt": "2026-11-16T10:35:26.542Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/sirv",
+          "observedAt": "2026-11-16T10:35:26.542Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/sirv",
+          "observedAt": "2026-11-16T10:35:26.542Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/sirv",
+          "observedAt": "2026-11-16T10:35:26.542Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/sirv",
+          "observedAt": "2026-11-16T10:35:26.542Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/sirv",
+          "observedAt": "2026-11-16T10:35:26.542Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

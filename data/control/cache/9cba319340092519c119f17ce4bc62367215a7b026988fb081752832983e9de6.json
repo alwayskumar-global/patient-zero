@@ -1,0 +1,221 @@
+{
+  "schemaVersion": 1,
+  "pkg": "postcss-normalize-charset",
+  "source": "https://registry.npmjs.org/postcss-normalize-charset",
+  "fetchedAt": "2026-11-16T10:35:20.088Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 52
+  },
+  "sourceSha256": "47540394186b72920c40f3a021b5a65b4af1ecb01175bb8b26802be77ce86c1f",
+  "versions": [
+    {
+      "pkg": "postcss-normalize-charset",
+      "semver": "1.1.0",
+      "publishedAt": "2015-09-19T00:06:01.013Z",
+      "publisher": "trysound",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "postcss": "^5.0.5"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/postcss-normalize-charset",
+          "observedAt": "2026-11-16T10:35:20.088Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/postcss-normalize-charset",
+          "observedAt": "2026-11-16T10:35:20.088Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/postcss-normalize-charset",
+          "observedAt": "2026-11-16T10:35:20.088Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/postcss-normalize-charset",
+          "observedAt": "2026-11-16T10:35:20.088Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/postcss-normalize-charset",
+          "observedAt": "2026-11-16T10:35:20.088Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "postcss-normalize-charset",
+      "semver": "4.0.0-nightly.2020.2.6",
+      "publishedAt": "2021-02-06T17:25:56.382Z",
+      "publisher": "cssnano-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 3863,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/postcss-normalize-charset",
+          "observedAt": "2026-11-16T10:35:20.088Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/postcss-normalize-charset",
+          "observedAt": "2026-11-16T10:35:20.088Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/postcss-normalize-charset",
+          "observedAt": "2026-11-16T10:35:20.088Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/postcss-normalize-charset",
+          "observedAt": "2026-11-16T10:35:20.088Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/postcss-normalize-charset",
+          "observedAt": "2026-11-16T10:35:20.088Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/postcss-normalize-charset",
+          "observedAt": "2026-11-16T10:35:20.088Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "postcss-normalize-charset",
+      "semver": "4.0.0-rc.2",
+      "publishedAt": "2017-08-06T19:53:20.926Z",
+      "publisher": "beneb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "postcss": "^6.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/postcss-normalize-charset",
+          "observedAt": "2026-11-16T10:35:20.088Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/postcss-normalize-charset",
+          "observedAt": "2026-11-16T10:35:20.088Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/postcss-normalize-charset",
+          "observedAt": "2026-11-16T10:35:20.088Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/postcss-normalize-charset",
+          "observedAt": "2026-11-16T10:35:20.088Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/postcss-normalize-charset",
+          "observedAt": "2026-11-16T10:35:20.088Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "postcss-normalize-charset",
+      "semver": "4.0.1",
+      "publishedAt": "2018-09-25T10:21:49.058Z",
+      "publisher": "evilebottnawi",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 4371,
+      "dependencies": {
+        "postcss": "^7.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/postcss-normalize-charset",
+          "observedAt": "2026-11-16T10:35:20.088Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/postcss-normalize-charset",
+          "observedAt": "2026-11-16T10:35:20.088Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/postcss-normalize-charset",
+          "observedAt": "2026-11-16T10:35:20.088Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/postcss-normalize-charset",
+          "observedAt": "2026-11-16T10:35:20.088Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/postcss-normalize-charset",
+          "observedAt": "2026-11-16T10:35:20.088Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/postcss-normalize-charset",
+          "observedAt": "2026-11-16T10:35:20.088Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "postcss-normalize-charset",
+      "semver": "7.0.1",
+      "publishedAt": "2025-05-06T13:54:19.040Z",
+      "publisher": "ludovicofischer",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 4552,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/postcss-normalize-charset",
+          "observedAt": "2026-11-16T10:35:20.088Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/postcss-normalize-charset",
+          "observedAt": "2026-11-16T10:35:20.088Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/postcss-normalize-charset",
+          "observedAt": "2026-11-16T10:35:20.088Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/postcss-normalize-charset",
+          "observedAt": "2026-11-16T10:35:20.088Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/postcss-normalize-charset",
+          "observedAt": "2026-11-16T10:35:20.088Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/postcss-normalize-charset",
+          "observedAt": "2026-11-16T10:35:20.088Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

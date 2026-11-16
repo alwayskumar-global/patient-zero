@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@teselagen/ui",
+  "source": "https://registry.npmjs.org/%40teselagen%2Fui",
+  "fetchedAt": "2026-11-16T10:32:03.604Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 310
+  },
+  "sourceSha256": "6337d283916143cb6ba84fe8f912a32c8d6cee8d15213b47aed6f36757929783",
+  "versions": [
+    {
+      "pkg": "@teselagen/ui",
+      "semver": "0.9.10",
+      "publishedAt": "2025-09-16T02:33:03.537Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40teselagen%2Fui",
+          "observedAt": "2026-11-16T10:32:03.604Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@teselagen/ui",
+      "semver": "0.9.8",
+      "publishedAt": "2025-08-25T13:03:30.526Z",
+      "publisher": "teselagen-admin",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 8887515,
+      "dependencies": {
+        "qs": "^6.9.6",
+        "mobx": "^6.10.2",
+        "dayjs": "^1.10.4",
+        "immer": "^9.0.15",
+        "react": "^18.3.1",
+        "redux": "^4.1.2",
+        "chance": "1.1.11",
+        "nanoid": "^4.0.0",
+        "fuse.js": "^6.6.2",
+        "tippy.js": "^6.3.7",
+        "url-join": "^4.0.1",
+        "lodash-es": "^4.17.21",
+        "papaparse": "5.3.2",
+        "react-dom": "^18.3.1",
+        "react-rnd": "^10.2.4",
+        "recompose": "npm:react-recompose@0.31.1",
+        "classnames": "^2.3.2",
+        "downloadjs": "^1.4.7",
+        "redux-form": "^8.3.10",
+        "remark-gfm": "^4.0.0",
+        "fuzzysearch": "^1.0.3",
+        "react-color": "^2.19.3",
+        "react-redux": "^8.0.5",
+        "redux-thunk": "2.4.1",
+        "@dnd-kit/core": "^6.1.0",
+        "react-dropzone": "^11.4.2",
+        "react-markdown": "9.0.1",
+        "react-router-dom": "5",
+        "write-excel-file": "^1.4.25",
+        "@blueprintjs/core": "3.54.0",
+        "@dnd-kit/sortable": "^8.0.0",
+        "copy-to-clipboard": "^3.3.1",
+        "@blueprintjs/icons": "3.33.0",
+        "@dnd-kit/modifiers": "^7.0.0",
+        "@dnd-kit/utilities": "3.2.2",
+        "@blueprintjs/select": "3.18.11",
+        "dom-scroll-into-view": "^2.0.1",
+        "@blueprintjs/datetime": "^3.24.1",
+        "@teselagen/file-utils": "0.3.20",
+        "@teselagen/react-table": "6.10.18",
+        "react-transition-group": "^2.4.0",
+        "use-deep-compare-effect": "^1.6.1",
+        "math-expression-evaluator": "^1.3.7"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40teselagen%2Fui",
+          "observedAt": "2026-11-16T10:32:03.604Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40teselagen%2Fui",
+          "observedAt": "2026-11-16T10:32:03.604Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40teselagen%2Fui",
+          "observedAt": "2026-11-16T10:32:03.604Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40teselagen%2Fui",
+          "observedAt": "2026-11-16T10:32:03.604Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40teselagen%2Fui",
+          "observedAt": "2026-11-16T10:32:03.604Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40teselagen%2Fui",
+          "observedAt": "2026-11-16T10:32:03.604Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@teselagen/ui",
+      "semver": "0.9.9",
+      "publishedAt": "2025-09-14T21:01:50.211Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40teselagen%2Fui",
+          "observedAt": "2026-11-16T10:32:03.604Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

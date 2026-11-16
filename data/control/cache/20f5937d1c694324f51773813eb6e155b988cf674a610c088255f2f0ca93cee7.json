@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "pkg": "moment",
+  "source": "https://registry.npmjs.org/moment",
+  "fetchedAt": "2026-11-16T10:35:14.054Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 80
+  },
+  "sourceSha256": "771c5ec50c193686f7eefd58012a0041b32fe61b11fc21d715e609a474001fc4",
+  "versions": [
+    {
+      "pkg": "moment",
+      "semver": "2.1.0",
+      "publishedAt": "2013-07-07T20:33:23.042Z",
+      "publisher": "timrwood",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/moment",
+          "observedAt": "2026-11-16T10:35:14.054Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/moment",
+          "observedAt": "2026-11-16T10:35:14.054Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/moment",
+          "observedAt": "2026-11-16T10:35:14.054Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/moment",
+          "observedAt": "2026-11-16T10:35:14.054Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/moment",
+          "observedAt": "2026-11-16T10:35:14.054Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "moment",
+      "semver": "2.10.1",
+      "publishedAt": "2015-04-09T04:35:40.706Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/moment",
+          "observedAt": "2026-11-16T10:35:14.054Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "moment",
+      "semver": "2.29.1",
+      "publishedAt": "2020-10-06T11:21:28.627Z",
+      "publisher": "marwahaha",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 4209955,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/moment",
+          "observedAt": "2026-11-16T10:35:14.054Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/moment",
+          "observedAt": "2026-11-16T10:35:14.054Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/moment",
+          "observedAt": "2026-11-16T10:35:14.054Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/moment",
+          "observedAt": "2026-11-16T10:35:14.054Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/moment",
+          "observedAt": "2026-11-16T10:35:14.054Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/moment",
+          "observedAt": "2026-11-16T10:35:14.054Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "moment",
+      "semver": "2.30.1",
+      "publishedAt": "2023-12-27T10:38:43.272Z",
+      "publisher": "ichernev",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 4350323,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/moment",
+          "observedAt": "2026-11-16T10:35:14.054Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/moment",
+          "observedAt": "2026-11-16T10:35:14.054Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/moment",
+          "observedAt": "2026-11-16T10:35:14.054Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/moment",
+          "observedAt": "2026-11-16T10:35:14.054Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/moment",
+          "observedAt": "2026-11-16T10:35:14.054Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/moment",
+          "observedAt": "2026-11-16T10:35:14.054Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

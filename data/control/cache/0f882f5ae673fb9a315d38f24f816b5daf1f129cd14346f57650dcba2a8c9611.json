@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "pkg": "vfile-message",
+  "source": "https://registry.npmjs.org/vfile-message",
+  "fetchedAt": "2026-11-16T10:35:33.086Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 23
+  },
+  "sourceSha256": "b2bf9fed88c76e7d38ccc486de21b0ed3b54c4b40802e103e49f73d54d1aa992",
+  "versions": [
+    {
+      "pkg": "vfile-message",
+      "semver": "4.0.3",
+      "publishedAt": "2025-07-26T15:08:12.656Z",
+      "publisher": "wooorm",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 34220,
+      "dependencies": {
+        "@types/unist": "^3.0.0",
+        "unist-util-stringify-position": "^4.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/vfile-message",
+          "observedAt": "2026-11-16T10:35:33.086Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/vfile-message",
+          "observedAt": "2026-11-16T10:35:33.086Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/vfile-message",
+          "observedAt": "2026-11-16T10:35:33.086Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/vfile-message",
+          "observedAt": "2026-11-16T10:35:33.086Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/vfile-message",
+          "observedAt": "2026-11-16T10:35:33.086Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/vfile-message",
+          "observedAt": "2026-11-16T10:35:33.086Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

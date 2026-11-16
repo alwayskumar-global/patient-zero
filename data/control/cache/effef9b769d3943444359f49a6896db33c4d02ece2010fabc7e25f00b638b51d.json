@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@svgr/hast-util-to-babel-ast",
+  "source": "https://registry.npmjs.org/%40svgr%2Fhast-util-to-babel-ast",
+  "fetchedAt": "2026-11-16T10:34:42.802Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 24
+  },
+  "sourceSha256": "40927f2567cfc2f39ef62a9f800e8da23cb24888a36d904a971ecc98f5545d23",
+  "versions": [
+    {
+      "pkg": "@svgr/hast-util-to-babel-ast",
+      "semver": "8.0.0",
+      "publishedAt": "2023-05-09T07:03:16.913Z",
+      "publisher": "neoziro",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 73033,
+      "dependencies": {
+        "@babel/types": "^7.21.3",
+        "entities": "^4.4.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40svgr%2Fhast-util-to-babel-ast",
+          "observedAt": "2026-11-16T10:34:42.802Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40svgr%2Fhast-util-to-babel-ast",
+          "observedAt": "2026-11-16T10:34:42.802Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40svgr%2Fhast-util-to-babel-ast",
+          "observedAt": "2026-11-16T10:34:42.802Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40svgr%2Fhast-util-to-babel-ast",
+          "observedAt": "2026-11-16T10:34:42.802Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40svgr%2Fhast-util-to-babel-ast",
+          "observedAt": "2026-11-16T10:34:42.802Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40svgr%2Fhast-util-to-babel-ast",
+          "observedAt": "2026-11-16T10:34:42.802Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

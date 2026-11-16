@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 1,
+  "pkg": "querystringify",
+  "source": "https://registry.npmjs.org/querystringify",
+  "fetchedAt": "2026-11-16T10:35:21.832Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 10
+  },
+  "sourceSha256": "c07859f9f8d1e9f960c889e3fdd710113c8efc06666ddd309f034037537f984e",
+  "versions": [
+    {
+      "pkg": "querystringify",
+      "semver": "0.0.2",
+      "publishedAt": "2014-12-16T12:39:56.903Z",
+      "publisher": "V1",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/querystringify",
+          "observedAt": "2026-11-16T10:35:21.832Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/querystringify",
+          "observedAt": "2026-11-16T10:35:21.832Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/querystringify",
+          "observedAt": "2026-11-16T10:35:21.832Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/querystringify",
+          "observedAt": "2026-11-16T10:35:21.832Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/querystringify",
+          "observedAt": "2026-11-16T10:35:21.832Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "querystringify",
+      "semver": "2.1.1",
+      "publishedAt": "2019-03-20T16:43:05.099Z",
+      "publisher": "3rdeden",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7250,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/querystringify",
+          "observedAt": "2026-11-16T10:35:21.832Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/querystringify",
+          "observedAt": "2026-11-16T10:35:21.832Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/querystringify",
+          "observedAt": "2026-11-16T10:35:21.832Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/querystringify",
+          "observedAt": "2026-11-16T10:35:21.832Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/querystringify",
+          "observedAt": "2026-11-16T10:35:21.832Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/querystringify",
+          "observedAt": "2026-11-16T10:35:21.832Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "querystringify",
+      "semver": "2.2.0",
+      "publishedAt": "2020-08-17T18:18:46.969Z",
+      "publisher": "lpinca",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 6959,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/querystringify",
+          "observedAt": "2026-11-16T10:35:21.832Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/querystringify",
+          "observedAt": "2026-11-16T10:35:21.832Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/querystringify",
+          "observedAt": "2026-11-16T10:35:21.832Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/querystringify",
+          "observedAt": "2026-11-16T10:35:21.832Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/querystringify",
+          "observedAt": "2026-11-16T10:35:21.832Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/querystringify",
+          "observedAt": "2026-11-16T10:35:21.832Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

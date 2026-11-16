@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "style-to-object",
+  "source": "https://registry.npmjs.org/style-to-object",
+  "fetchedAt": "2026-11-16T10:35:27.804Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 29
+  },
+  "sourceSha256": "1dc75f2453c9f31d73721db5c6e5f9d8b038ed4ce761f87f133504ca3d9ea060",
+  "versions": [
+    {
+      "pkg": "style-to-object",
+      "semver": "1.0.9",
+      "publishedAt": "2025-06-06T17:15:07.389Z",
+      "publisher": "remarkablemark",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 41917,
+      "dependencies": {
+        "inline-style-parser": "0.2.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/style-to-object",
+          "observedAt": "2026-11-16T10:35:27.804Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/style-to-object",
+          "observedAt": "2026-11-16T10:35:27.804Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/style-to-object",
+          "observedAt": "2026-11-16T10:35:27.804Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/style-to-object",
+          "observedAt": "2026-11-16T10:35:27.804Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/style-to-object",
+          "observedAt": "2026-11-16T10:35:27.804Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/style-to-object",
+          "observedAt": "2026-11-16T10:35:27.804Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

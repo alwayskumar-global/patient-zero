@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@swc/helpers",
+  "source": "https://registry.npmjs.org/%40swc%2Fhelpers",
+  "fetchedAt": "2026-11-16T10:34:43.161Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 83
+  },
+  "sourceSha256": "10da555c27af30674f30268cee849efb2e4d6477785ad66cb73ea633d70d269a",
+  "versions": [
+    {
+      "pkg": "@swc/helpers",
+      "semver": "0.1.0",
+      "publishedAt": "2019-02-16T13:32:37.141Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40swc%2Fhelpers",
+          "observedAt": "2026-11-16T10:34:43.161Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@swc/helpers",
+      "semver": "0.5.17",
+      "publishedAt": "2025-04-11T06:43:37.576Z",
+      "publisher": "kdy1",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 248378,
+      "dependencies": {
+        "tslib": "^2.8.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40swc%2Fhelpers",
+          "observedAt": "2026-11-16T10:34:43.161Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40swc%2Fhelpers",
+          "observedAt": "2026-11-16T10:34:43.161Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40swc%2Fhelpers",
+          "observedAt": "2026-11-16T10:34:43.161Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40swc%2Fhelpers",
+          "observedAt": "2026-11-16T10:34:43.161Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40swc%2Fhelpers",
+          "observedAt": "2026-11-16T10:34:43.161Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40swc%2Fhelpers",
+          "observedAt": "2026-11-16T10:34:43.161Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

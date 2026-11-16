@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "depd",
+  "source": "https://registry.npmjs.org/depd",
+  "fetchedAt": "2026-11-16T10:34:59.622Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 17
+  },
+  "sourceSha256": "d0dfd103d875ddcc20f599326ebf4ba9fd81f1c9f4acde7b6be7e5f1f8bb7bf7",
+  "versions": [
+    {
+      "pkg": "depd",
+      "semver": "2.0.0",
+      "publishedAt": "2018-10-26T17:52:55.936Z",
+      "publisher": "dougwilson",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 27117,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/depd",
+          "observedAt": "2026-11-16T10:34:59.622Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/depd",
+          "observedAt": "2026-11-16T10:34:59.622Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/depd",
+          "observedAt": "2026-11-16T10:34:59.622Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/depd",
+          "observedAt": "2026-11-16T10:34:59.622Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/depd",
+          "observedAt": "2026-11-16T10:34:59.622Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/depd",
+          "observedAt": "2026-11-16T10:34:59.622Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

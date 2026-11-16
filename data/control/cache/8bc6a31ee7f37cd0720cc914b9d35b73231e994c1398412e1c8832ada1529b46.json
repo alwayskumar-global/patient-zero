@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "pkg": "select-hose",
+  "source": "https://registry.npmjs.org/select-hose",
+  "fetchedAt": "2026-11-16T10:35:25.619Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 2
+  },
+  "sourceSha256": "287aecaa908fc01cd71a923de88c0ed1e107e82b244ac789234272dac6464b39",
+  "versions": [
+    {
+      "pkg": "select-hose",
+      "semver": "2.0.0",
+      "publishedAt": "2015-07-14T18:02:25.026Z",
+      "publisher": "indutny",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/select-hose",
+          "observedAt": "2026-11-16T10:35:25.619Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/select-hose",
+          "observedAt": "2026-11-16T10:35:25.619Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/select-hose",
+          "observedAt": "2026-11-16T10:35:25.619Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/select-hose",
+          "observedAt": "2026-11-16T10:35:25.619Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/select-hose",
+          "observedAt": "2026-11-16T10:35:25.619Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

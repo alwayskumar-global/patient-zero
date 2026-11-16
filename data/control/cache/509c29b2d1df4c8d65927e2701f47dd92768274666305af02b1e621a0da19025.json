@@ -1,0 +1,251 @@
+{
+  "schemaVersion": 1,
+  "pkg": "eslint-plugin-prettier",
+  "source": "https://registry.npmjs.org/eslint-plugin-prettier",
+  "fetchedAt": "2026-11-16T10:35:01.250Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 62
+  },
+  "sourceSha256": "87861dec5f5ec117d6438e8599089058c3301bd4d3382dca65f9af873c26c180",
+  "versions": [
+    {
+      "pkg": "eslint-plugin-prettier",
+      "semver": "2.1.1",
+      "publishedAt": "2017-05-19T11:17:29.750Z",
+      "publisher": "zertosh",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "fast-diff": "^1.1.1",
+        "jest-docblock": "^20.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/eslint-plugin-prettier",
+          "observedAt": "2026-11-16T10:35:01.250Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/eslint-plugin-prettier",
+          "observedAt": "2026-11-16T10:35:01.250Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/eslint-plugin-prettier",
+          "observedAt": "2026-11-16T10:35:01.250Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/eslint-plugin-prettier",
+          "observedAt": "2026-11-16T10:35:01.250Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/eslint-plugin-prettier",
+          "observedAt": "2026-11-16T10:35:01.250Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "eslint-plugin-prettier",
+      "semver": "3.1.0",
+      "publishedAt": "2019-05-11T14:55:45.018Z",
+      "publisher": "not-an-aardvark",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 37857,
+      "dependencies": {
+        "prettier-linter-helpers": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/eslint-plugin-prettier",
+          "observedAt": "2026-11-16T10:35:01.250Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/eslint-plugin-prettier",
+          "observedAt": "2026-11-16T10:35:01.250Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/eslint-plugin-prettier",
+          "observedAt": "2026-11-16T10:35:01.250Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/eslint-plugin-prettier",
+          "observedAt": "2026-11-16T10:35:01.250Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/eslint-plugin-prettier",
+          "observedAt": "2026-11-16T10:35:01.250Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/eslint-plugin-prettier",
+          "observedAt": "2026-11-16T10:35:01.250Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "eslint-plugin-prettier",
+      "semver": "4.2.3",
+      "publishedAt": "2025-07-18T16:23:49.681Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/eslint-plugin-prettier",
+          "observedAt": "2026-11-16T10:35:01.250Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "eslint-plugin-prettier",
+      "semver": "5.1.0",
+      "publishedAt": "2023-12-19T21:12:11.477Z",
+      "publisher": "bpscott",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 26805,
+      "dependencies": {
+        "synckit": "^0.8.5",
+        "prettier-linter-helpers": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/eslint-plugin-prettier",
+          "observedAt": "2026-11-16T10:35:01.250Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/eslint-plugin-prettier",
+          "observedAt": "2026-11-16T10:35:01.250Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/eslint-plugin-prettier",
+          "observedAt": "2026-11-16T10:35:01.250Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/eslint-plugin-prettier",
+          "observedAt": "2026-11-16T10:35:01.250Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/eslint-plugin-prettier",
+          "observedAt": "2026-11-16T10:35:01.250Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/eslint-plugin-prettier",
+          "observedAt": "2026-11-16T10:35:01.250Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "eslint-plugin-prettier",
+      "semver": "5.5.3",
+      "publishedAt": "2025-07-18T19:35:49.688Z",
+      "publisher": "jounqin",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 34105,
+      "dependencies": {
+        "synckit": "^0.11.7",
+        "prettier-linter-helpers": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/eslint-plugin-prettier",
+          "observedAt": "2026-11-16T10:35:01.250Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/eslint-plugin-prettier",
+          "observedAt": "2026-11-16T10:35:01.250Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/eslint-plugin-prettier",
+          "observedAt": "2026-11-16T10:35:01.250Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/eslint-plugin-prettier",
+          "observedAt": "2026-11-16T10:35:01.250Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/eslint-plugin-prettier",
+          "observedAt": "2026-11-16T10:35:01.250Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/eslint-plugin-prettier",
+          "observedAt": "2026-11-16T10:35:01.250Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "eslint-plugin-prettier",
+      "semver": "5.5.4",
+      "publishedAt": "2025-08-06T09:09:26.872Z",
+      "publisher": "jounqin",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 34157,
+      "dependencies": {
+        "synckit": "^0.11.7",
+        "prettier-linter-helpers": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/eslint-plugin-prettier",
+          "observedAt": "2026-11-16T10:35:01.250Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/eslint-plugin-prettier",
+          "observedAt": "2026-11-16T10:35:01.250Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/eslint-plugin-prettier",
+          "observedAt": "2026-11-16T10:35:01.250Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/eslint-plugin-prettier",
+          "observedAt": "2026-11-16T10:35:01.250Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/eslint-plugin-prettier",
+          "observedAt": "2026-11-16T10:35:01.250Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/eslint-plugin-prettier",
+          "observedAt": "2026-11-16T10:35:01.250Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@aws-sdk/credential-provider-node",
+  "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-node",
+  "fetchedAt": "2026-11-16T10:34:28.542Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 601
+  },
+  "sourceSha256": "2e76313ee6097cc3f48f13370b160e54e63b285bbe1cf5fdb8090d0557e3a871",
+  "versions": [
+    {
+      "pkg": "@aws-sdk/credential-provider-node",
+      "semver": "3.858.0",
+      "publishedAt": "2025-07-31T18:56:22.137Z",
+      "publisher": "aws-sdk-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 36036,
+      "dependencies": {
+        "tslib": "^2.6.2",
+        "@smithy/types": "^4.3.1",
+        "@aws-sdk/types": "3.840.0",
+        "@smithy/property-provider": "^4.0.4",
+        "@smithy/shared-ini-file-loader": "^4.0.4",
+        "@aws-sdk/credential-provider-env": "3.858.0",
+        "@aws-sdk/credential-provider-ini": "3.858.0",
+        "@aws-sdk/credential-provider-sso": "3.858.0",
+        "@smithy/credential-provider-imds": "^4.0.6",
+        "@aws-sdk/credential-provider-http": "3.858.0",
+        "@aws-sdk/credential-provider-process": "3.858.0",
+        "@aws-sdk/credential-provider-web-identity": "3.858.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-node",
+          "observedAt": "2026-11-16T10:34:28.542Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-node",
+          "observedAt": "2026-11-16T10:34:28.542Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-node",
+          "observedAt": "2026-11-16T10:34:28.542Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-node",
+          "observedAt": "2026-11-16T10:34:28.542Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-node",
+          "observedAt": "2026-11-16T10:34:28.542Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-node",
+          "observedAt": "2026-11-16T10:34:28.542Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@aws-sdk/credential-provider-node",
+      "semver": "3.859.0",
+      "publishedAt": "2025-08-01T18:54:54.907Z",
+      "publisher": "aws-sdk-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 36036,
+      "dependencies": {
+        "tslib": "^2.6.2",
+        "@smithy/types": "^4.3.1",
+        "@aws-sdk/types": "3.840.0",
+        "@smithy/property-provider": "^4.0.4",
+        "@smithy/shared-ini-file-loader": "^4.0.4",
+        "@aws-sdk/credential-provider-env": "3.858.0",
+        "@aws-sdk/credential-provider-ini": "3.859.0",
+        "@aws-sdk/credential-provider-sso": "3.859.0",
+        "@smithy/credential-provider-imds": "^4.0.6",
+        "@aws-sdk/credential-provider-http": "3.858.0",
+        "@aws-sdk/credential-provider-process": "3.858.0",
+        "@aws-sdk/credential-provider-web-identity": "3.858.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-node",
+          "observedAt": "2026-11-16T10:34:28.542Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-node",
+          "observedAt": "2026-11-16T10:34:28.542Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-node",
+          "observedAt": "2026-11-16T10:34:28.542Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-node",
+          "observedAt": "2026-11-16T10:34:28.542Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-node",
+          "observedAt": "2026-11-16T10:34:28.542Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-node",
+          "observedAt": "2026-11-16T10:34:28.542Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@aws-sdk/credential-provider-node",
+      "semver": "3.862.0",
+      "publishedAt": "2025-08-06T19:10:02.888Z",
+      "publisher": "aws-sdk-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 36036,
+      "dependencies": {
+        "tslib": "^2.6.2",
+        "@smithy/types": "^4.3.2",
+        "@aws-sdk/types": "3.862.0",
+        "@smithy/property-provider": "^4.0.5",
+        "@smithy/shared-ini-file-loader": "^4.0.5",
+        "@aws-sdk/credential-provider-env": "3.862.0",
+        "@aws-sdk/credential-provider-ini": "3.862.0",
+        "@aws-sdk/credential-provider-sso": "3.862.0",
+        "@smithy/credential-provider-imds": "^4.0.7",
+        "@aws-sdk/credential-provider-http": "3.862.0",
+        "@aws-sdk/credential-provider-process": "3.862.0",
+        "@aws-sdk/credential-provider-web-identity": "3.862.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-node",
+          "observedAt": "2026-11-16T10:34:28.542Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-node",
+          "observedAt": "2026-11-16T10:34:28.542Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-node",
+          "observedAt": "2026-11-16T10:34:28.542Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-node",
+          "observedAt": "2026-11-16T10:34:28.542Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-node",
+          "observedAt": "2026-11-16T10:34:28.542Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-node",
+          "observedAt": "2026-11-16T10:34:28.542Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@aws-sdk/credential-provider-node",
+      "semver": "3.863.0",
+      "publishedAt": "2025-08-07T19:09:31.083Z",
+      "publisher": "aws-sdk-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 36036,
+      "dependencies": {
+        "tslib": "^2.6.2",
+        "@smithy/types": "^4.3.2",
+        "@aws-sdk/types": "3.862.0",
+        "@smithy/property-provider": "^4.0.5",
+        "@smithy/shared-ini-file-loader": "^4.0.5",
+        "@aws-sdk/credential-provider-env": "3.863.0",
+        "@aws-sdk/credential-provider-ini": "3.863.0",
+        "@aws-sdk/credential-provider-sso": "3.863.0",
+        "@smithy/credential-provider-imds": "^4.0.7",
+        "@aws-sdk/credential-provider-http": "3.863.0",
+        "@aws-sdk/credential-provider-process": "3.863.0",
+        "@aws-sdk/credential-provider-web-identity": "3.863.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-node",
+          "observedAt": "2026-11-16T10:34:28.542Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-node",
+          "observedAt": "2026-11-16T10:34:28.542Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-node",
+          "observedAt": "2026-11-16T10:34:28.542Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-node",
+          "observedAt": "2026-11-16T10:34:28.542Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-node",
+          "observedAt": "2026-11-16T10:34:28.542Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-node",
+          "observedAt": "2026-11-16T10:34:28.542Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

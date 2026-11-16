@@ -1,0 +1,359 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@art-ws/di-node",
+  "source": "https://registry.npmjs.org/%40art-ws%2Fdi-node",
+  "fetchedAt": "2026-11-16T10:30:59.643Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 18
+  },
+  "sourceSha256": "ef0a35a78052d6ea8463331abbcc4e2783edb340822acc379159c2f883c793f2",
+  "versions": [
+    {
+      "pkg": "@art-ws/di-node",
+      "semver": "2.0.10",
+      "publishedAt": "2025-09-14T06:38:05.710Z",
+      "publisher": "art-ws",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 23610,
+      "dependencies": {
+        "tslib": "^2.8.1",
+        "injection-js": "^2.5.0",
+        "reflect-metadata": "^0.2.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdi-node",
+          "observedAt": "2026-11-16T10:30:59.643Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdi-node",
+          "observedAt": "2026-11-16T10:30:59.643Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdi-node",
+          "observedAt": "2026-11-16T10:30:59.643Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdi-node",
+          "observedAt": "2026-11-16T10:30:59.643Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdi-node",
+          "observedAt": "2026-11-16T10:30:59.643Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdi-node",
+          "observedAt": "2026-11-16T10:30:59.643Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@art-ws/di-node",
+      "semver": "2.0.11",
+      "publishedAt": "2025-09-14T08:33:21.047Z",
+      "publisher": "art-ws",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 23610,
+      "dependencies": {
+        "tslib": "^2.8.1",
+        "injection-js": "^2.5.0",
+        "reflect-metadata": "^0.2.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdi-node",
+          "observedAt": "2026-11-16T10:30:59.643Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdi-node",
+          "observedAt": "2026-11-16T10:30:59.643Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdi-node",
+          "observedAt": "2026-11-16T10:30:59.643Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdi-node",
+          "observedAt": "2026-11-16T10:30:59.643Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdi-node",
+          "observedAt": "2026-11-16T10:30:59.643Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdi-node",
+          "observedAt": "2026-11-16T10:30:59.643Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@art-ws/di-node",
+      "semver": "2.0.12",
+      "publishedAt": "2025-09-15T05:13:50.211Z",
+      "publisher": "art-ws",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 23610,
+      "dependencies": {
+        "tslib": "^2.8.1",
+        "injection-js": "^2.5.0",
+        "reflect-metadata": "^0.2.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdi-node",
+          "observedAt": "2026-11-16T10:30:59.643Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdi-node",
+          "observedAt": "2026-11-16T10:30:59.643Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdi-node",
+          "observedAt": "2026-11-16T10:30:59.643Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdi-node",
+          "observedAt": "2026-11-16T10:30:59.643Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdi-node",
+          "observedAt": "2026-11-16T10:30:59.643Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdi-node",
+          "observedAt": "2026-11-16T10:30:59.643Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@art-ws/di-node",
+      "semver": "2.0.13",
+      "publishedAt": "2025-09-15T05:21:18.849Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdi-node",
+          "observedAt": "2026-11-16T10:30:59.643Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@art-ws/di-node",
+      "semver": "2.0.14",
+      "publishedAt": "2025-09-15T08:52:01.024Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdi-node",
+          "observedAt": "2026-11-16T10:30:59.643Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@art-ws/di-node",
+      "semver": "2.0.15",
+      "publishedAt": "2025-09-15T08:54:34.506Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdi-node",
+          "observedAt": "2026-11-16T10:30:59.643Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@art-ws/di-node",
+      "semver": "2.0.18",
+      "publishedAt": "2025-09-15T08:56:13.561Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdi-node",
+          "observedAt": "2026-11-16T10:30:59.643Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@art-ws/di-node",
+      "semver": "2.0.7",
+      "publishedAt": "2025-09-01T09:11:28.499Z",
+      "publisher": "art-ws",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 23609,
+      "dependencies": {
+        "tslib": "^2.8.1",
+        "injection-js": "^2.5.0",
+        "reflect-metadata": "^0.2.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdi-node",
+          "observedAt": "2026-11-16T10:30:59.643Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdi-node",
+          "observedAt": "2026-11-16T10:30:59.643Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdi-node",
+          "observedAt": "2026-11-16T10:30:59.643Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdi-node",
+          "observedAt": "2026-11-16T10:30:59.643Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdi-node",
+          "observedAt": "2026-11-16T10:30:59.643Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdi-node",
+          "observedAt": "2026-11-16T10:30:59.643Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@art-ws/di-node",
+      "semver": "2.0.8",
+      "publishedAt": "2025-09-13T19:29:29.677Z",
+      "publisher": "art-ws",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 23609,
+      "dependencies": {
+        "tslib": "^2.8.1",
+        "injection-js": "^2.5.0",
+        "reflect-metadata": "^0.2.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdi-node",
+          "observedAt": "2026-11-16T10:30:59.643Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdi-node",
+          "observedAt": "2026-11-16T10:30:59.643Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdi-node",
+          "observedAt": "2026-11-16T10:30:59.643Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdi-node",
+          "observedAt": "2026-11-16T10:30:59.643Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdi-node",
+          "observedAt": "2026-11-16T10:30:59.643Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdi-node",
+          "observedAt": "2026-11-16T10:30:59.643Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@art-ws/di-node",
+      "semver": "2.0.9",
+      "publishedAt": "2025-09-14T06:14:55.678Z",
+      "publisher": "art-ws",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 23609,
+      "dependencies": {
+        "tslib": "^2.8.1",
+        "injection-js": "^2.5.0",
+        "reflect-metadata": "^0.2.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdi-node",
+          "observedAt": "2026-11-16T10:30:59.643Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdi-node",
+          "observedAt": "2026-11-16T10:30:59.643Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdi-node",
+          "observedAt": "2026-11-16T10:30:59.643Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdi-node",
+          "observedAt": "2026-11-16T10:30:59.643Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdi-node",
+          "observedAt": "2026-11-16T10:30:59.643Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdi-node",
+          "observedAt": "2026-11-16T10:30:59.643Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

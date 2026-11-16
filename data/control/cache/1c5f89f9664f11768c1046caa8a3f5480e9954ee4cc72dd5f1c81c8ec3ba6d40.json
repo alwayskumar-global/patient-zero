@@ -1,0 +1,236 @@
+{
+  "schemaVersion": 1,
+  "pkg": "postcss-normalize-string",
+  "source": "https://registry.npmjs.org/postcss-normalize-string",
+  "fetchedAt": "2026-11-16T10:35:20.180Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 51
+  },
+  "sourceSha256": "ba37d65c3b1c555161149eea81bbcea518c8c3cb43eb3e290c268366c2ac1447",
+  "versions": [
+    {
+      "pkg": "postcss-normalize-string",
+      "semver": "4.0.0-nightly.2020.2.6",
+      "publishedAt": "2021-02-06T17:26:10.544Z",
+      "publisher": "cssnano-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 9213,
+      "dependencies": {
+        "postcss-value-parser": "^4.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/postcss-normalize-string",
+          "observedAt": "2026-11-16T10:35:20.180Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/postcss-normalize-string",
+          "observedAt": "2026-11-16T10:35:20.180Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/postcss-normalize-string",
+          "observedAt": "2026-11-16T10:35:20.180Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/postcss-normalize-string",
+          "observedAt": "2026-11-16T10:35:20.180Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/postcss-normalize-string",
+          "observedAt": "2026-11-16T10:35:20.180Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/postcss-normalize-string",
+          "observedAt": "2026-11-16T10:35:20.180Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "postcss-normalize-string",
+      "semver": "4.0.0-rc.2",
+      "publishedAt": "2017-08-06T19:53:21.072Z",
+      "publisher": "beneb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "has": "^1.0.0",
+        "postcss": "^6.0.0",
+        "postcss-value-parser": "^3.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/postcss-normalize-string",
+          "observedAt": "2026-11-16T10:35:20.180Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/postcss-normalize-string",
+          "observedAt": "2026-11-16T10:35:20.180Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/postcss-normalize-string",
+          "observedAt": "2026-11-16T10:35:20.180Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/postcss-normalize-string",
+          "observedAt": "2026-11-16T10:35:20.180Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/postcss-normalize-string",
+          "observedAt": "2026-11-16T10:35:20.180Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "postcss-normalize-string",
+      "semver": "4.0.1",
+      "publishedAt": "2018-09-24T21:00:45.417Z",
+      "publisher": "ai",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 9793,
+      "dependencies": {
+        "has": "^1.0.0",
+        "postcss": "^7.0.0",
+        "postcss-value-parser": "^3.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/postcss-normalize-string",
+          "observedAt": "2026-11-16T10:35:20.180Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/postcss-normalize-string",
+          "observedAt": "2026-11-16T10:35:20.180Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/postcss-normalize-string",
+          "observedAt": "2026-11-16T10:35:20.180Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/postcss-normalize-string",
+          "observedAt": "2026-11-16T10:35:20.180Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/postcss-normalize-string",
+          "observedAt": "2026-11-16T10:35:20.180Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/postcss-normalize-string",
+          "observedAt": "2026-11-16T10:35:20.180Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "postcss-normalize-string",
+      "semver": "4.0.2",
+      "publishedAt": "2019-02-12T17:53:51.376Z",
+      "publisher": "evilebottnawi",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 9983,
+      "dependencies": {
+        "has": "^1.0.0",
+        "postcss": "^7.0.0",
+        "postcss-value-parser": "^3.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/postcss-normalize-string",
+          "observedAt": "2026-11-16T10:35:20.180Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/postcss-normalize-string",
+          "observedAt": "2026-11-16T10:35:20.180Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/postcss-normalize-string",
+          "observedAt": "2026-11-16T10:35:20.180Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/postcss-normalize-string",
+          "observedAt": "2026-11-16T10:35:20.180Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/postcss-normalize-string",
+          "observedAt": "2026-11-16T10:35:20.180Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/postcss-normalize-string",
+          "observedAt": "2026-11-16T10:35:20.180Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "postcss-normalize-string",
+      "semver": "7.0.1",
+      "publishedAt": "2025-05-06T13:54:22.522Z",
+      "publisher": "ludovicofischer",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 11683,
+      "dependencies": {
+        "postcss-value-parser": "^4.2.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/postcss-normalize-string",
+          "observedAt": "2026-11-16T10:35:20.180Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/postcss-normalize-string",
+          "observedAt": "2026-11-16T10:35:20.180Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/postcss-normalize-string",
+          "observedAt": "2026-11-16T10:35:20.180Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/postcss-normalize-string",
+          "observedAt": "2026-11-16T10:35:20.180Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/postcss-normalize-string",
+          "observedAt": "2026-11-16T10:35:20.180Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/postcss-normalize-string",
+          "observedAt": "2026-11-16T10:35:20.180Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

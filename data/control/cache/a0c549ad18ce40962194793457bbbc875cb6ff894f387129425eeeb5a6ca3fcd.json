@@ -1,0 +1,229 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@radix-ui/react-use-layout-effect",
+  "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-layout-effect",
+  "fetchedAt": "2026-11-16T10:34:37.873Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 96
+  },
+  "sourceSha256": "4bb37250c02ade5a18f285b9422204df6a4676ea90a7590346e58ac9a11a5c9b",
+  "versions": [
+    {
+      "pkg": "@radix-ui/react-use-layout-effect",
+      "semver": "0.0.4",
+      "publishedAt": "2021-03-24T17:51:02.512Z",
+      "publisher": "jjenzz",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 5230,
+      "dependencies": {
+        "@babel/runtime": "^7.13.10"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-layout-effect",
+          "observedAt": "2026-11-16T10:34:37.873Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-layout-effect",
+          "observedAt": "2026-11-16T10:34:37.873Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-layout-effect",
+          "observedAt": "2026-11-16T10:34:37.873Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-layout-effect",
+          "observedAt": "2026-11-16T10:34:37.873Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-layout-effect",
+          "observedAt": "2026-11-16T10:34:37.873Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-layout-effect",
+          "observedAt": "2026-11-16T10:34:37.873Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@radix-ui/react-use-layout-effect",
+      "semver": "1.0.1",
+      "publishedAt": "2023-05-26T11:04:02.262Z",
+      "publisher": "benoitgrelard",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 6135,
+      "dependencies": {
+        "@babel/runtime": "^7.13.10"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-layout-effect",
+          "observedAt": "2026-11-16T10:34:37.873Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-layout-effect",
+          "observedAt": "2026-11-16T10:34:37.873Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-layout-effect",
+          "observedAt": "2026-11-16T10:34:37.873Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-layout-effect",
+          "observedAt": "2026-11-16T10:34:37.873Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-layout-effect",
+          "observedAt": "2026-11-16T10:34:37.873Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-layout-effect",
+          "observedAt": "2026-11-16T10:34:37.873Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@radix-ui/react-use-layout-effect",
+      "semver": "1.1.0",
+      "publishedAt": "2024-06-19T19:58:48.276Z",
+      "publisher": "vladmoroz",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 5815,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-layout-effect",
+          "observedAt": "2026-11-16T10:34:37.873Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-layout-effect",
+          "observedAt": "2026-11-16T10:34:37.873Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-layout-effect",
+          "observedAt": "2026-11-16T10:34:37.873Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-layout-effect",
+          "observedAt": "2026-11-16T10:34:37.873Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-layout-effect",
+          "observedAt": "2026-11-16T10:34:37.873Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-layout-effect",
+          "observedAt": "2026-11-16T10:34:37.873Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@radix-ui/react-use-layout-effect",
+      "semver": "1.1.0-rc.7",
+      "publishedAt": "2024-06-19T19:54:59.289Z",
+      "publisher": "stephenhaney",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 5848,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-layout-effect",
+          "observedAt": "2026-11-16T10:34:37.873Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-layout-effect",
+          "observedAt": "2026-11-16T10:34:37.873Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-layout-effect",
+          "observedAt": "2026-11-16T10:34:37.873Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-layout-effect",
+          "observedAt": "2026-11-16T10:34:37.873Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-layout-effect",
+          "observedAt": "2026-11-16T10:34:37.873Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-layout-effect",
+          "observedAt": "2026-11-16T10:34:37.873Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@radix-ui/react-use-layout-effect",
+      "semver": "1.1.1",
+      "publishedAt": "2025-04-08T16:46:19.768Z",
+      "publisher": "chancestrickland",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 6485,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-layout-effect",
+          "observedAt": "2026-11-16T10:34:37.873Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-layout-effect",
+          "observedAt": "2026-11-16T10:34:37.873Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-layout-effect",
+          "observedAt": "2026-11-16T10:34:37.873Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-layout-effect",
+          "observedAt": "2026-11-16T10:34:37.873Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-layout-effect",
+          "observedAt": "2026-11-16T10:34:37.873Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-layout-effect",
+          "observedAt": "2026-11-16T10:34:37.873Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

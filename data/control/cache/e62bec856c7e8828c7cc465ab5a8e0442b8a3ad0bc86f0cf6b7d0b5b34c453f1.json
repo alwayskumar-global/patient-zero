@@ -1,0 +1,215 @@
+{
+  "schemaVersion": 1,
+  "pkg": "ms",
+  "source": "https://registry.npmjs.org/ms",
+  "fetchedAt": "2026-11-16T10:35:14.240Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 32
+  },
+  "sourceSha256": "a594a3e5b5e1adc7c4453ea84815f1d2c275de380ac24303000c439f55aabb60",
+  "versions": [
+    {
+      "pkg": "ms",
+      "semver": "0.7.1",
+      "publishedAt": "2015-04-20T23:38:57.957Z",
+      "publisher": "rauchg",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ms",
+          "observedAt": "2026-11-16T10:35:14.240Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ms",
+          "observedAt": "2026-11-16T10:35:14.240Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ms",
+          "observedAt": "2026-11-16T10:35:14.240Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ms",
+          "observedAt": "2026-11-16T10:35:14.240Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ms",
+          "observedAt": "2026-11-16T10:35:14.240Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ms",
+      "semver": "2.1.1",
+      "publishedAt": "2017-11-30T18:30:16.876Z",
+      "publisher": "leo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ms",
+          "observedAt": "2026-11-16T10:35:14.240Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ms",
+          "observedAt": "2026-11-16T10:35:14.240Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ms",
+          "observedAt": "2026-11-16T10:35:14.240Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ms",
+          "observedAt": "2026-11-16T10:35:14.240Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ms",
+          "observedAt": "2026-11-16T10:35:14.240Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ms",
+      "semver": "2.1.3",
+      "publishedAt": "2020-12-08T13:54:35.223Z",
+      "publisher": "styfle",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 6721,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ms",
+          "observedAt": "2026-11-16T10:35:14.240Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ms",
+          "observedAt": "2026-11-16T10:35:14.240Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ms",
+          "observedAt": "2026-11-16T10:35:14.240Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ms",
+          "observedAt": "2026-11-16T10:35:14.240Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/ms",
+          "observedAt": "2026-11-16T10:35:14.240Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ms",
+          "observedAt": "2026-11-16T10:35:14.240Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ms",
+      "semver": "3.0.0-beta.2",
+      "publishedAt": "2021-08-25T16:55:32.842Z",
+      "publisher": "mrmckeb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 14286,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ms",
+          "observedAt": "2026-11-16T10:35:14.240Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ms",
+          "observedAt": "2026-11-16T10:35:14.240Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ms",
+          "observedAt": "2026-11-16T10:35:14.240Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ms",
+          "observedAt": "2026-11-16T10:35:14.240Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/ms",
+          "observedAt": "2026-11-16T10:35:14.240Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ms",
+          "observedAt": "2026-11-16T10:35:14.240Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ms",
+      "semver": "3.0.0-canary.1",
+      "publishedAt": "2021-09-15T15:40:43.956Z",
+      "publisher": "leerobinson",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 14294,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ms",
+          "observedAt": "2026-11-16T10:35:14.240Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ms",
+          "observedAt": "2026-11-16T10:35:14.240Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ms",
+          "observedAt": "2026-11-16T10:35:14.240Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ms",
+          "observedAt": "2026-11-16T10:35:14.240Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/ms",
+          "observedAt": "2026-11-16T10:35:14.240Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ms",
+          "observedAt": "2026-11-16T10:35:14.240Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

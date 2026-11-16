@@ -1,0 +1,253 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@jest/fake-timers",
+  "source": "https://registry.npmjs.org/%40jest%2Ffake-timers",
+  "fetchedAt": "2026-11-16T10:34:35.873Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 141
+  },
+  "sourceSha256": "2086d114a46f85e1cb2535790a33a4806af54e6b2313306b0543d7cc42008bc9",
+  "versions": [
+    {
+      "pkg": "@jest/fake-timers",
+      "semver": "24.6.0",
+      "publishedAt": "2019-04-01T22:26:39.122Z",
+      "publisher": "rubennorte",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 203037,
+      "dependencies": {
+        "jest-mock": "^24.6.0",
+        "@jest/types": "^24.6.0",
+        "jest-message-util": "^24.6.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40jest%2Ffake-timers",
+          "observedAt": "2026-11-16T10:34:35.873Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40jest%2Ffake-timers",
+          "observedAt": "2026-11-16T10:34:35.873Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40jest%2Ffake-timers",
+          "observedAt": "2026-11-16T10:34:35.873Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40jest%2Ffake-timers",
+          "observedAt": "2026-11-16T10:34:35.873Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40jest%2Ffake-timers",
+          "observedAt": "2026-11-16T10:34:35.873Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40jest%2Ffake-timers",
+          "observedAt": "2026-11-16T10:34:35.873Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@jest/fake-timers",
+      "semver": "25.0.0",
+      "publishedAt": "2019-08-22T03:24:09.283Z",
+      "publisher": "scotthovestadt",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 19875,
+      "dependencies": {
+        "jest-mock": "^25.0.0",
+        "@jest/types": "^25.0.0",
+        "jest-message-util": "^25.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40jest%2Ffake-timers",
+          "observedAt": "2026-11-16T10:34:35.873Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40jest%2Ffake-timers",
+          "observedAt": "2026-11-16T10:34:35.873Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40jest%2Ffake-timers",
+          "observedAt": "2026-11-16T10:34:35.873Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40jest%2Ffake-timers",
+          "observedAt": "2026-11-16T10:34:35.873Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40jest%2Ffake-timers",
+          "observedAt": "2026-11-16T10:34:35.873Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40jest%2Ffake-timers",
+          "observedAt": "2026-11-16T10:34:35.873Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@jest/fake-timers",
+      "semver": "25.1.0",
+      "publishedAt": "2020-01-22T01:00:17.257Z",
+      "publisher": "davidzilburg",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 26630,
+      "dependencies": {
+        "lolex": "^5.0.0",
+        "jest-mock": "^25.1.0",
+        "jest-util": "^25.1.0",
+        "@jest/types": "^25.1.0",
+        "jest-message-util": "^25.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40jest%2Ffake-timers",
+          "observedAt": "2026-11-16T10:34:35.873Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40jest%2Ffake-timers",
+          "observedAt": "2026-11-16T10:34:35.873Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40jest%2Ffake-timers",
+          "observedAt": "2026-11-16T10:34:35.873Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40jest%2Ffake-timers",
+          "observedAt": "2026-11-16T10:34:35.873Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40jest%2Ffake-timers",
+          "observedAt": "2026-11-16T10:34:35.873Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40jest%2Ffake-timers",
+          "observedAt": "2026-11-16T10:34:35.873Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@jest/fake-timers",
+      "semver": "30.0.0-alpha.7",
+      "publishedAt": "2025-01-30T08:28:34.556Z",
+      "publisher": "simenb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 28065,
+      "dependencies": {
+        "jest-mock": "30.0.0-alpha.7",
+        "jest-util": "30.0.0-alpha.7",
+        "@jest/types": "30.0.0-alpha.7",
+        "@types/node": "*",
+        "jest-message-util": "30.0.0-alpha.7",
+        "@sinonjs/fake-timers": "^13.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40jest%2Ffake-timers",
+          "observedAt": "2026-11-16T10:34:35.873Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40jest%2Ffake-timers",
+          "observedAt": "2026-11-16T10:34:35.873Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40jest%2Ffake-timers",
+          "observedAt": "2026-11-16T10:34:35.873Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40jest%2Ffake-timers",
+          "observedAt": "2026-11-16T10:34:35.873Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40jest%2Ffake-timers",
+          "observedAt": "2026-11-16T10:34:35.873Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40jest%2Ffake-timers",
+          "observedAt": "2026-11-16T10:34:35.873Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@jest/fake-timers",
+      "semver": "30.0.5",
+      "publishedAt": "2025-07-22T02:28:34.918Z",
+      "publisher": "cpojer",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 30970,
+      "dependencies": {
+        "jest-mock": "30.0.5",
+        "jest-util": "30.0.5",
+        "@jest/types": "30.0.5",
+        "@types/node": "*",
+        "jest-message-util": "30.0.5",
+        "@sinonjs/fake-timers": "^13.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40jest%2Ffake-timers",
+          "observedAt": "2026-11-16T10:34:35.873Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40jest%2Ffake-timers",
+          "observedAt": "2026-11-16T10:34:35.873Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40jest%2Ffake-timers",
+          "observedAt": "2026-11-16T10:34:35.873Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40jest%2Ffake-timers",
+          "observedAt": "2026-11-16T10:34:35.873Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40jest%2Ffake-timers",
+          "observedAt": "2026-11-16T10:34:35.873Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40jest%2Ffake-timers",
+          "observedAt": "2026-11-16T10:34:35.873Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

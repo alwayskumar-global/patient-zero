@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "pkg": "tinypool",
+  "source": "https://registry.npmjs.org/tinypool",
+  "fetchedAt": "2026-11-16T10:35:29.468Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 40
+  },
+  "sourceSha256": "90a36d45ddcf3d1fe2e687ac9ad31f65a544b323e4790ab9eb31c2fbb5b4205d",
+  "versions": [
+    {
+      "pkg": "tinypool",
+      "semver": "0.0.6",
+      "publishedAt": "2021-12-24T09:43:15.757Z",
+      "publisher": "antfu",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 24328,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/tinypool",
+          "observedAt": "2026-11-16T10:35:29.468Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/tinypool",
+          "observedAt": "2026-11-16T10:35:29.468Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/tinypool",
+          "observedAt": "2026-11-16T10:35:29.468Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/tinypool",
+          "observedAt": "2026-11-16T10:35:29.468Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/tinypool",
+          "observedAt": "2026-11-16T10:35:29.468Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/tinypool",
+          "observedAt": "2026-11-16T10:35:29.468Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "tinypool",
+      "semver": "0.8.1",
+      "publishedAt": "2023-09-11T02:32:03.947Z",
+      "publisher": "aslemammad",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 51485,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/tinypool",
+          "observedAt": "2026-11-16T10:35:29.468Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/tinypool",
+          "observedAt": "2026-11-16T10:35:29.468Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/tinypool",
+          "observedAt": "2026-11-16T10:35:29.468Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/tinypool",
+          "observedAt": "2026-11-16T10:35:29.468Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/tinypool",
+          "observedAt": "2026-11-16T10:35:29.468Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/tinypool",
+          "observedAt": "2026-11-16T10:35:29.468Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "tinypool",
+      "semver": "1.1.1",
+      "publishedAt": "2025-06-16T17:17:44.588Z",
+      "publisher": "ariperkkio",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 44149,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/tinypool",
+          "observedAt": "2026-11-16T10:35:29.468Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/tinypool",
+          "observedAt": "2026-11-16T10:35:29.468Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/tinypool",
+          "observedAt": "2026-11-16T10:35:29.468Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/tinypool",
+          "observedAt": "2026-11-16T10:35:29.468Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/tinypool",
+          "observedAt": "2026-11-16T10:35:29.468Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/tinypool",
+          "observedAt": "2026-11-16T10:35:29.468Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

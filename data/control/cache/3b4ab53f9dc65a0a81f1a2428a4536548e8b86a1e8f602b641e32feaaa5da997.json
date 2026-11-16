@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "didyoumean",
+  "source": "https://registry.npmjs.org/didyoumean",
+  "fetchedAt": "2026-11-16T10:34:59.840Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 4
+  },
+  "sourceSha256": "0528d78db61a35a0886055512cce62f9a5ad4b56c9ddec224d4081ba688f02e9",
+  "versions": [
+    {
+      "pkg": "didyoumean",
+      "semver": "1.2.2",
+      "publishedAt": "2021-06-24T14:00:09.748Z",
+      "publisher": "dcporter",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 17255,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/didyoumean",
+          "observedAt": "2026-11-16T10:34:59.840Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/didyoumean",
+          "observedAt": "2026-11-16T10:34:59.840Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/didyoumean",
+          "observedAt": "2026-11-16T10:34:59.840Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/didyoumean",
+          "observedAt": "2026-11-16T10:34:59.840Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/didyoumean",
+          "observedAt": "2026-11-16T10:34:59.840Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/didyoumean",
+          "observedAt": "2026-11-16T10:34:59.840Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

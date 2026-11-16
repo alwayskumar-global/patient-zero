@@ -1,0 +1,278 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@nativescript-community/ui-material-tabs",
+  "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-tabs",
+  "fetchedAt": "2026-11-16T10:31:33.102Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 263
+  },
+  "sourceSha256": "606b9eb99a34f27496e016e40447d6594c13ce8dfbb7278c622ab58de872f41d",
+  "versions": [
+    {
+      "pkg": "@nativescript-community/ui-material-tabs",
+      "semver": "5.3.17-sap.0",
+      "publishedAt": "2021-08-15T18:52:41.640Z",
+      "publisher": "walkerrunpdx",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 201687,
+      "dependencies": {
+        "@nativescript-community/ui-material-core": "^5.3.17"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-tabs",
+          "observedAt": "2026-11-16T10:31:33.102Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-tabs",
+          "observedAt": "2026-11-16T10:31:33.102Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-tabs",
+          "observedAt": "2026-11-16T10:31:33.102Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-tabs",
+          "observedAt": "2026-11-16T10:31:33.102Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-tabs",
+          "observedAt": "2026-11-16T10:31:33.102Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-tabs",
+          "observedAt": "2026-11-16T10:31:33.102Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nativescript-community/ui-material-tabs",
+      "semver": "6.2.1",
+      "publishedAt": "2021-10-25T21:09:54.564Z",
+      "publisher": "keerl",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 217798,
+      "dependencies": {
+        "@nativescript-community/ui-material-core": "^6.2.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-tabs",
+          "observedAt": "2026-11-16T10:31:33.102Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-tabs",
+          "observedAt": "2026-11-16T10:31:33.102Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-tabs",
+          "observedAt": "2026-11-16T10:31:33.102Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-tabs",
+          "observedAt": "2026-11-16T10:31:33.102Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-tabs",
+          "observedAt": "2026-11-16T10:31:33.102Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-tabs",
+          "observedAt": "2026-11-16T10:31:33.102Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nativescript-community/ui-material-tabs",
+      "semver": "6.2.23",
+      "publishedAt": "2022-03-07T12:30:34.280Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-tabs",
+          "observedAt": "2026-11-16T10:31:33.102Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nativescript-community/ui-material-tabs",
+      "semver": "7.0.28",
+      "publishedAt": "2022-09-16T19:51:58.445Z",
+      "publisher": "edusperoni",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 116494,
+      "dependencies": {
+        "@nativescript-community/ui-material-core": "^7.0.28",
+        "@nativescript-community/ui-material-core-tabs": "^7.0.28"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-tabs",
+          "observedAt": "2026-11-16T10:31:33.102Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-tabs",
+          "observedAt": "2026-11-16T10:31:33.102Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-tabs",
+          "observedAt": "2026-11-16T10:31:33.102Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-tabs",
+          "observedAt": "2026-11-16T10:31:33.102Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-tabs",
+          "observedAt": "2026-11-16T10:31:33.102Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-tabs",
+          "observedAt": "2026-11-16T10:31:33.102Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nativescript-community/ui-material-tabs",
+      "semver": "7.2.71",
+      "publishedAt": "2025-02-20T15:32:36.423Z",
+      "publisher": "farfromrefuge",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 73677,
+      "dependencies": {
+        "@nativescript-community/ui-material-core": "^7.2.71",
+        "@nativescript-community/ui-material-core-tabs": "^7.2.71"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-tabs",
+          "observedAt": "2026-11-16T10:31:33.102Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-tabs",
+          "observedAt": "2026-11-16T10:31:33.102Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-tabs",
+          "observedAt": "2026-11-16T10:31:33.102Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-tabs",
+          "observedAt": "2026-11-16T10:31:33.102Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-tabs",
+          "observedAt": "2026-11-16T10:31:33.102Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-tabs",
+          "observedAt": "2026-11-16T10:31:33.102Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nativescript-community/ui-material-tabs",
+      "semver": "7.2.72",
+      "publishedAt": "2025-09-15T09:16:48.501Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-tabs",
+          "observedAt": "2026-11-16T10:31:33.102Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nativescript-community/ui-material-tabs",
+      "semver": "7.2.73",
+      "publishedAt": "2025-09-15T10:41:49.193Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-tabs",
+          "observedAt": "2026-11-16T10:31:33.102Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nativescript-community/ui-material-tabs",
+      "semver": "7.2.74",
+      "publishedAt": "2025-09-15T10:47:46.589Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-tabs",
+          "observedAt": "2026-11-16T10:31:33.102Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nativescript-community/ui-material-tabs",
+      "semver": "7.2.75",
+      "publishedAt": "2025-09-15T13:14:59.296Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-tabs",
+          "observedAt": "2026-11-16T10:31:33.102Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "pkg": "promise-inflight",
+  "source": "https://registry.npmjs.org/promise-inflight",
+  "fetchedAt": "2026-11-16T10:35:21.341Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 2
+  },
+  "sourceSha256": "61e82e48b0e4d802ca9d72a5da4ae6e0d3fb42926bf185c95c4135f7179e9672",
+  "versions": [
+    {
+      "pkg": "promise-inflight",
+      "semver": "1.0.1",
+      "publishedAt": "2017-02-26T02:48:59.798Z",
+      "publisher": "iarna",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/promise-inflight",
+          "observedAt": "2026-11-16T10:35:21.341Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/promise-inflight",
+          "observedAt": "2026-11-16T10:35:21.341Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/promise-inflight",
+          "observedAt": "2026-11-16T10:35:21.341Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/promise-inflight",
+          "observedAt": "2026-11-16T10:35:21.341Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/promise-inflight",
+          "observedAt": "2026-11-16T10:35:21.341Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

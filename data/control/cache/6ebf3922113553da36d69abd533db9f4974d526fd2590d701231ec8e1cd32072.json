@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@aws-sdk/middleware-flexible-checksums",
+  "source": "https://registry.npmjs.org/%40aws-sdk%2Fmiddleware-flexible-checksums",
+  "fetchedAt": "2026-11-16T10:34:29.290Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 315
+  },
+  "sourceSha256": "7a9c98226b02b443182819c24598c840330c20c67cf8b4a958c449fd4dc7b770",
+  "versions": [
+    {
+      "pkg": "@aws-sdk/middleware-flexible-checksums",
+      "semver": "3.858.0",
+      "publishedAt": "2025-07-31T18:56:07.416Z",
+      "publisher": "aws-sdk-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 87760,
+      "dependencies": {
+        "tslib": "^2.6.2",
+        "@aws-sdk/core": "3.858.0",
+        "@smithy/types": "^4.3.1",
+        "@aws-sdk/types": "3.840.0",
+        "@aws-crypto/util": "5.2.0",
+        "@aws-crypto/crc32": "5.2.0",
+        "@smithy/util-utf8": "^4.0.0",
+        "@aws-crypto/crc32c": "5.2.0",
+        "@smithy/util-stream": "^4.2.3",
+        "@smithy/protocol-http": "^5.1.2",
+        "@smithy/is-array-buffer": "^4.0.0",
+        "@smithy/util-middleware": "^4.0.4",
+        "@smithy/node-config-provider": "^4.1.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fmiddleware-flexible-checksums",
+          "observedAt": "2026-11-16T10:34:29.290Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fmiddleware-flexible-checksums",
+          "observedAt": "2026-11-16T10:34:29.290Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fmiddleware-flexible-checksums",
+          "observedAt": "2026-11-16T10:34:29.290Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fmiddleware-flexible-checksums",
+          "observedAt": "2026-11-16T10:34:29.290Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fmiddleware-flexible-checksums",
+          "observedAt": "2026-11-16T10:34:29.290Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fmiddleware-flexible-checksums",
+          "observedAt": "2026-11-16T10:34:29.290Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@aws-sdk/middleware-flexible-checksums",
+      "semver": "3.862.0",
+      "publishedAt": "2025-08-06T19:09:38.226Z",
+      "publisher": "aws-sdk-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 87760,
+      "dependencies": {
+        "tslib": "^2.6.2",
+        "@aws-sdk/core": "3.862.0",
+        "@smithy/types": "^4.3.2",
+        "@aws-sdk/types": "3.862.0",
+        "@aws-crypto/util": "5.2.0",
+        "@aws-crypto/crc32": "5.2.0",
+        "@smithy/util-utf8": "^4.0.0",
+        "@aws-crypto/crc32c": "5.2.0",
+        "@smithy/util-stream": "^4.2.4",
+        "@smithy/protocol-http": "^5.1.3",
+        "@smithy/is-array-buffer": "^4.0.0",
+        "@smithy/util-middleware": "^4.0.5",
+        "@smithy/node-config-provider": "^4.1.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fmiddleware-flexible-checksums",
+          "observedAt": "2026-11-16T10:34:29.290Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fmiddleware-flexible-checksums",
+          "observedAt": "2026-11-16T10:34:29.290Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fmiddleware-flexible-checksums",
+          "observedAt": "2026-11-16T10:34:29.290Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fmiddleware-flexible-checksums",
+          "observedAt": "2026-11-16T10:34:29.290Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fmiddleware-flexible-checksums",
+          "observedAt": "2026-11-16T10:34:29.290Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fmiddleware-flexible-checksums",
+          "observedAt": "2026-11-16T10:34:29.290Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@aws-sdk/middleware-flexible-checksums",
+      "semver": "3.863.0",
+      "publishedAt": "2025-08-07T19:09:14.499Z",
+      "publisher": "aws-sdk-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 87760,
+      "dependencies": {
+        "tslib": "^2.6.2",
+        "@aws-sdk/core": "3.863.0",
+        "@smithy/types": "^4.3.2",
+        "@aws-sdk/types": "3.862.0",
+        "@aws-crypto/util": "5.2.0",
+        "@aws-crypto/crc32": "5.2.0",
+        "@smithy/util-utf8": "^4.0.0",
+        "@aws-crypto/crc32c": "5.2.0",
+        "@smithy/util-stream": "^4.2.4",
+        "@smithy/protocol-http": "^5.1.3",
+        "@smithy/is-array-buffer": "^4.0.0",
+        "@smithy/util-middleware": "^4.0.5",
+        "@smithy/node-config-provider": "^4.1.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fmiddleware-flexible-checksums",
+          "observedAt": "2026-11-16T10:34:29.290Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fmiddleware-flexible-checksums",
+          "observedAt": "2026-11-16T10:34:29.290Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fmiddleware-flexible-checksums",
+          "observedAt": "2026-11-16T10:34:29.290Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fmiddleware-flexible-checksums",
+          "observedAt": "2026-11-16T10:34:29.290Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fmiddleware-flexible-checksums",
+          "observedAt": "2026-11-16T10:34:29.290Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fmiddleware-flexible-checksums",
+          "observedAt": "2026-11-16T10:34:29.290Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "pkg": "lodash.memoize",
+  "source": "https://registry.npmjs.org/lodash.memoize",
+  "fetchedAt": "2026-11-16T10:35:11.579Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 21
+  },
+  "sourceSha256": "de1d14776b5acd3c6ee059fdd4db8dadc6bbda482c348f27232a799101311b1a",
+  "versions": [
+    {
+      "pkg": "lodash.memoize",
+      "semver": "4.1.2",
+      "publishedAt": "2016-08-13T17:42:08.922Z",
+      "publisher": "jdalton",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/lodash.memoize",
+          "observedAt": "2026-11-16T10:35:11.579Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/lodash.memoize",
+          "observedAt": "2026-11-16T10:35:11.579Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/lodash.memoize",
+          "observedAt": "2026-11-16T10:35:11.579Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/lodash.memoize",
+          "observedAt": "2026-11-16T10:35:11.579Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/lodash.memoize",
+          "observedAt": "2026-11-16T10:35:11.579Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

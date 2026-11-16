@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@aws-sdk/xml-builder",
+  "source": "https://registry.npmjs.org/%40aws-sdk%2Fxml-builder",
+  "fetchedAt": "2026-11-16T10:34:30.190Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 147
+  },
+  "sourceSha256": "c83e767ad9393f9d709063a0bc8ae0c4eccb363b3e8a54703094116c821e7943",
+  "versions": [
+    {
+      "pkg": "@aws-sdk/xml-builder",
+      "semver": "3.821.0",
+      "publishedAt": "2025-05-30T19:02:10.918Z",
+      "publisher": "aws-sdk-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 24671,
+      "dependencies": {
+        "tslib": "^2.6.2",
+        "@smithy/types": "^4.3.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fxml-builder",
+          "observedAt": "2026-11-16T10:34:30.190Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fxml-builder",
+          "observedAt": "2026-11-16T10:34:30.190Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fxml-builder",
+          "observedAt": "2026-11-16T10:34:30.190Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fxml-builder",
+          "observedAt": "2026-11-16T10:34:30.190Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fxml-builder",
+          "observedAt": "2026-11-16T10:34:30.190Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fxml-builder",
+          "observedAt": "2026-11-16T10:34:30.190Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@aws-sdk/xml-builder",
+      "semver": "3.862.0",
+      "publishedAt": "2025-08-06T19:09:06.523Z",
+      "publisher": "aws-sdk-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 24671,
+      "dependencies": {
+        "tslib": "^2.6.2",
+        "@smithy/types": "^4.3.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fxml-builder",
+          "observedAt": "2026-11-16T10:34:30.190Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fxml-builder",
+          "observedAt": "2026-11-16T10:34:30.190Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fxml-builder",
+          "observedAt": "2026-11-16T10:34:30.190Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fxml-builder",
+          "observedAt": "2026-11-16T10:34:30.190Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fxml-builder",
+          "observedAt": "2026-11-16T10:34:30.190Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fxml-builder",
+          "observedAt": "2026-11-16T10:34:30.190Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

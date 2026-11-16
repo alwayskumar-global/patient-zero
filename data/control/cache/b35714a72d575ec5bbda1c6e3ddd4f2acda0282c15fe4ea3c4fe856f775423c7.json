@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "pkg": "utila",
+  "source": "https://registry.npmjs.org/utila",
+  "fetchedAt": "2026-11-16T10:35:32.895Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 10
+  },
+  "sourceSha256": "895822b022385fb3899388fad582cad8ce15403fb15d040fc7ca259595d5c563",
+  "versions": [
+    {
+      "pkg": "utila",
+      "semver": "0.5.0-dev.1",
+      "publishedAt": "2014-12-21T08:08:55.786Z",
+      "publisher": "ariaminaei",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/utila",
+          "observedAt": "2026-11-16T10:35:32.895Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/utila",
+          "observedAt": "2026-11-16T10:35:32.895Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/utila",
+          "observedAt": "2026-11-16T10:35:32.895Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/utila",
+          "observedAt": "2026-11-16T10:35:32.895Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/utila",
+          "observedAt": "2026-11-16T10:35:32.895Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

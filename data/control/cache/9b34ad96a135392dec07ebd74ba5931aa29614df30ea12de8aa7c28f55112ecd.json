@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@sinonjs/commons",
+  "source": "https://registry.npmjs.org/%40sinonjs%2Fcommons",
+  "fetchedAt": "2026-11-16T10:34:38.949Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 25
+  },
+  "sourceSha256": "ed0cbb3a4678e99374aee13e325c2e7668b6cea85d01a3084aad5114326c0585",
+  "versions": [
+    {
+      "pkg": "@sinonjs/commons",
+      "semver": "1.7.0",
+      "publishedAt": "2019-12-18T15:34:56.360Z",
+      "publisher": "mantoni",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 34579,
+      "dependencies": {
+        "type-detect": "4.0.8"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40sinonjs%2Fcommons",
+          "observedAt": "2026-11-16T10:34:38.949Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40sinonjs%2Fcommons",
+          "observedAt": "2026-11-16T10:34:38.949Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40sinonjs%2Fcommons",
+          "observedAt": "2026-11-16T10:34:38.949Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40sinonjs%2Fcommons",
+          "observedAt": "2026-11-16T10:34:38.949Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40sinonjs%2Fcommons",
+          "observedAt": "2026-11-16T10:34:38.949Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40sinonjs%2Fcommons",
+          "observedAt": "2026-11-16T10:34:38.949Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@sinonjs/commons",
+      "semver": "4.0.0-alpha.0",
+      "publishedAt": "2024-01-20T15:20:51.832Z",
+      "publisher": "mrgnrdrck",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 63987,
+      "dependencies": {
+        "type-detect": "4.0.8"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40sinonjs%2Fcommons",
+          "observedAt": "2026-11-16T10:34:38.949Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40sinonjs%2Fcommons",
+          "observedAt": "2026-11-16T10:34:38.949Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40sinonjs%2Fcommons",
+          "observedAt": "2026-11-16T10:34:38.949Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40sinonjs%2Fcommons",
+          "observedAt": "2026-11-16T10:34:38.949Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40sinonjs%2Fcommons",
+          "observedAt": "2026-11-16T10:34:38.949Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40sinonjs%2Fcommons",
+          "observedAt": "2026-11-16T10:34:38.949Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

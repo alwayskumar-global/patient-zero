@@ -1,0 +1,2199 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-16T12:48:01.199Z",
+  "configHash": "fd8fca19302cd275389b6b03d97e8b700dbdb28e2fa1e98403da228fcc72ccd8",
+  "codeHash": "0edfba0bb4a38e139d6502a61dd46336b4866767e3d4201e8df5bcab9566b7ce",
+  "cohortHash": "e27933b2de94a5aa579cef258f03da29cac08fd43c8bb0bc301677d863f9bcfc",
+  "cohortSource": "https://github.com/wooorm/npm-high-impact/blob/c62676810a600382f74b391ef1d0d4db72ebfa44/lib/top-download.js",
+  "cohortSnapshotAt": "2025-06-05T06:32:03.000Z",
+  "frozenConfig": "bench/frozen-config.json",
+  "rows": [
+    {
+      "slug": "chalk-debug-2025-09",
+      "role": "tuning",
+      "datasetHash": "f6267e21a1ce644ab9b56b178da1d3b7451bb04b7544fe54876465ebd4647786",
+      "mode": "retrospective",
+      "start": "2025-09-08T13:00:00.000Z",
+      "end": "2025-09-08T16:00:00.000Z",
+      "stepMinutes": 15,
+      "tickCount": 17,
+      "referenceVersions": 18,
+      "referenceWithKnownPublication": 18,
+      "referenceWithPublisher": 18,
+      "referenceWithScriptState": 0,
+      "referenceOutsideWindow": 0,
+      "knownWindowPublishes": 28,
+      "flaggedWindowVersions": 28,
+      "truePositiveVersions": 18,
+      "unlabelledFlaggedVersions": 10,
+      "recallAtEnd": 1,
+      "referencePrecision": 0.6428571428571429,
+      "recallAtFirstPublicAdvisory": null,
+      "firstPublicLeadMinutes": null,
+      "osvCutoffVersions": 18,
+      "recallBeforeOsvPublication": 1,
+      "osvLeadMinutes": 231.45833333333334,
+      "osvLeadCount": 18,
+      "controlFlagsPer1000Publishes": null,
+      "evidenceTimeVisibleVersions": 0,
+      "unknownPublicationVersions": 0,
+      "notFoundPackages": [],
+      "normalizationWarnings": 0,
+      "firstDetections": [
+        {
+          "version": "ansi-regex@6.2.1",
+          "tick": "2025-09-08T13:15:00.000Z"
+        },
+        {
+          "version": "ansi-styles@6.2.2",
+          "tick": "2025-09-08T13:15:00.000Z"
+        },
+        {
+          "version": "chalk@5.6.1",
+          "tick": "2025-09-08T13:15:00.000Z"
+        },
+        {
+          "version": "color-convert@3.1.1",
+          "tick": "2025-09-08T13:15:00.000Z"
+        },
+        {
+          "version": "debug@4.4.2",
+          "tick": "2025-09-08T13:15:00.000Z"
+        },
+        {
+          "version": "strip-ansi@7.1.1",
+          "tick": "2025-09-08T13:15:00.000Z"
+        },
+        {
+          "version": "supports-color@10.2.1",
+          "tick": "2025-09-08T13:15:00.000Z"
+        },
+        {
+          "version": "wrap-ansi@9.0.1",
+          "tick": "2025-09-08T13:15:00.000Z"
+        },
+        {
+          "version": "backslash@0.2.1",
+          "tick": "2025-09-08T13:30:00.000Z"
+        },
+        {
+          "version": "chalk-template@1.1.1",
+          "tick": "2025-09-08T13:30:00.000Z"
+        },
+        {
+          "version": "color-name@2.0.1",
+          "tick": "2025-09-08T13:30:00.000Z"
+        },
+        {
+          "version": "color-string@2.1.1",
+          "tick": "2025-09-08T13:30:00.000Z"
+        },
+        {
+          "version": "error-ex@1.3.3",
+          "tick": "2025-09-08T13:30:00.000Z"
+        },
+        {
+          "version": "has-ansi@6.0.1",
+          "tick": "2025-09-08T13:30:00.000Z"
+        },
+        {
+          "version": "is-arrayish@0.3.3",
+          "tick": "2025-09-08T13:30:00.000Z"
+        },
+        {
+          "version": "simple-swizzle@0.2.3",
+          "tick": "2025-09-08T13:30:00.000Z"
+        },
+        {
+          "version": "slice-ansi@7.1.1",
+          "tick": "2025-09-08T13:30:00.000Z"
+        },
+        {
+          "version": "supports-hyperlinks@4.1.1",
+          "tick": "2025-09-08T13:30:00.000Z"
+        },
+        {
+          "version": "ansi-regex@6.2.2",
+          "tick": "2025-09-08T15:15:00.000Z"
+        },
+        {
+          "version": "ansi-styles@6.2.3",
+          "tick": "2025-09-08T15:15:00.000Z"
+        },
+        {
+          "version": "chalk-template@1.1.2",
+          "tick": "2025-09-08T15:15:00.000Z"
+        },
+        {
+          "version": "chalk@5.6.2",
+          "tick": "2025-09-08T15:15:00.000Z"
+        },
+        {
+          "version": "has-ansi@6.0.2",
+          "tick": "2025-09-08T15:15:00.000Z"
+        },
+        {
+          "version": "slice-ansi@7.1.2",
+          "tick": "2025-09-08T15:15:00.000Z"
+        },
+        {
+          "version": "strip-ansi@7.1.2",
+          "tick": "2025-09-08T15:15:00.000Z"
+        },
+        {
+          "version": "supports-color@10.2.2",
+          "tick": "2025-09-08T15:15:00.000Z"
+        },
+        {
+          "version": "supports-hyperlinks@4.1.2",
+          "tick": "2025-09-08T15:15:00.000Z"
+        },
+        {
+          "version": "wrap-ansi@9.0.2",
+          "tick": "2025-09-08T15:15:00.000Z"
+        }
+      ],
+      "unlabelledFlags": [
+        "ansi-regex@6.2.2",
+        "ansi-styles@6.2.3",
+        "chalk-template@1.1.2",
+        "chalk@5.6.2",
+        "has-ansi@6.0.2",
+        "slice-ansi@7.1.2",
+        "strip-ansi@7.1.2",
+        "supports-color@10.2.2",
+        "supports-hyperlinks@4.1.2",
+        "wrap-ansi@9.0.2"
+      ]
+    },
+    {
+      "slug": "shai-hulud-2025-09",
+      "role": "held-out",
+      "datasetHash": "8d16085c3a23e98cc91c861ff7bfab06cb656088bfb13b08a04801b8b047340a",
+      "mode": "retrospective",
+      "start": "2025-09-14T00:00:00.000Z",
+      "end": "2025-09-20T00:00:00.000Z",
+      "stepMinutes": 15,
+      "tickCount": 581,
+      "referenceVersions": 516,
+      "referenceWithKnownPublication": 513,
+      "referenceWithPublisher": 0,
+      "referenceWithScriptState": 0,
+      "referenceOutsideWindow": 1,
+      "knownWindowPublishes": 696,
+      "flaggedWindowVersions": 100,
+      "truePositiveVersions": 0,
+      "unlabelledFlaggedVersions": 100,
+      "recallAtEnd": 0,
+      "referencePrecision": 0,
+      "recallAtFirstPublicAdvisory": null,
+      "firstPublicLeadMinutes": null,
+      "osvCutoffVersions": 515,
+      "recallBeforeOsvPublication": 0,
+      "osvLeadMinutes": null,
+      "osvLeadCount": 0,
+      "controlFlagsPer1000Publishes": null,
+      "evidenceTimeVisibleVersions": 0,
+      "unknownPublicationVersions": 3,
+      "notFoundPackages": [
+        "@yoobic/design-system",
+        "@yoobic/jpeg-camera-es6",
+        "@yoobic/yobi"
+      ],
+      "normalizationWarnings": 0,
+      "firstDetections": [
+        {
+          "version": "@art-ws/common@2.0.18",
+          "tick": "2025-09-14T06:30:00.000Z"
+        },
+        {
+          "version": "@art-ws/db-context@2.0.17",
+          "tick": "2025-09-14T06:30:00.000Z"
+        },
+        {
+          "version": "@art-ws/di-node@2.0.9",
+          "tick": "2025-09-14T06:30:00.000Z"
+        },
+        {
+          "version": "@art-ws/di@2.0.24",
+          "tick": "2025-09-14T06:30:00.000Z"
+        },
+        {
+          "version": "@art-ws/fastify-http-server@2.0.20",
+          "tick": "2025-09-14T06:30:00.000Z"
+        },
+        {
+          "version": "@art-ws/http-server@2.0.17",
+          "tick": "2025-09-14T06:30:00.000Z"
+        },
+        {
+          "version": "@art-ws/openapi@0.1.5",
+          "tick": "2025-09-14T06:30:00.000Z"
+        },
+        {
+          "version": "@art-ws/slf@2.0.11",
+          "tick": "2025-09-14T06:30:00.000Z"
+        },
+        {
+          "version": "@art-ws/common@2.0.19",
+          "tick": "2025-09-14T06:45:00.000Z"
+        },
+        {
+          "version": "@art-ws/db-context@2.0.18",
+          "tick": "2025-09-14T06:45:00.000Z"
+        },
+        {
+          "version": "@art-ws/di-node@2.0.10",
+          "tick": "2025-09-14T06:45:00.000Z"
+        },
+        {
+          "version": "@art-ws/di@2.0.25",
+          "tick": "2025-09-14T06:45:00.000Z"
+        },
+        {
+          "version": "@art-ws/fastify-http-server@2.0.21",
+          "tick": "2025-09-14T06:45:00.000Z"
+        },
+        {
+          "version": "@art-ws/http-server@2.0.18",
+          "tick": "2025-09-14T06:45:00.000Z"
+        },
+        {
+          "version": "@art-ws/openapi@0.1.6",
+          "tick": "2025-09-14T06:45:00.000Z"
+        },
+        {
+          "version": "@art-ws/slf@2.0.12",
+          "tick": "2025-09-14T06:45:00.000Z"
+        },
+        {
+          "version": "@operato/board@9.0.31",
+          "tick": "2025-09-14T07:45:00.000Z"
+        },
+        {
+          "version": "@operato/board@9.0.32",
+          "tick": "2025-09-14T07:45:00.000Z"
+        },
+        {
+          "version": "@operato/help@9.0.31",
+          "tick": "2025-09-14T07:45:00.000Z"
+        },
+        {
+          "version": "@operato/help@9.0.32",
+          "tick": "2025-09-14T07:45:00.000Z"
+        },
+        {
+          "version": "@operato/layout@9.0.31",
+          "tick": "2025-09-14T07:45:00.000Z"
+        },
+        {
+          "version": "@operato/layout@9.0.32",
+          "tick": "2025-09-14T07:45:00.000Z"
+        },
+        {
+          "version": "@things-factory/attachment-base@9.0.41",
+          "tick": "2025-09-14T07:45:00.000Z"
+        },
+        {
+          "version": "@things-factory/auth-base@9.0.41",
+          "tick": "2025-09-14T07:45:00.000Z"
+        },
+        {
+          "version": "@things-factory/email-base@9.0.41",
+          "tick": "2025-09-14T07:45:00.000Z"
+        },
+        {
+          "version": "@things-factory/env@9.0.41",
+          "tick": "2025-09-14T07:45:00.000Z"
+        },
+        {
+          "version": "@things-factory/integration-base@9.0.41",
+          "tick": "2025-09-14T07:45:00.000Z"
+        },
+        {
+          "version": "@things-factory/integration-marketplace@9.0.41",
+          "tick": "2025-09-14T07:45:00.000Z"
+        },
+        {
+          "version": "@things-factory/shell@9.0.41",
+          "tick": "2025-09-14T07:45:00.000Z"
+        },
+        {
+          "version": "@art-ws/common@2.0.20",
+          "tick": "2025-09-14T08:45:00.000Z"
+        },
+        {
+          "version": "@art-ws/db-context@2.0.19",
+          "tick": "2025-09-14T08:45:00.000Z"
+        },
+        {
+          "version": "@art-ws/di-node@2.0.11",
+          "tick": "2025-09-14T08:45:00.000Z"
+        },
+        {
+          "version": "@art-ws/di@2.0.26",
+          "tick": "2025-09-14T08:45:00.000Z"
+        },
+        {
+          "version": "@art-ws/fastify-http-server@2.0.22",
+          "tick": "2025-09-14T08:45:00.000Z"
+        },
+        {
+          "version": "@art-ws/http-server@2.0.19",
+          "tick": "2025-09-14T08:45:00.000Z"
+        },
+        {
+          "version": "@art-ws/openapi@0.1.7",
+          "tick": "2025-09-14T08:45:00.000Z"
+        },
+        {
+          "version": "@art-ws/slf@2.0.13",
+          "tick": "2025-09-14T08:45:00.000Z"
+        },
+        {
+          "version": "@art-ws/common@2.0.21",
+          "tick": "2025-09-15T05:15:00.000Z"
+        },
+        {
+          "version": "@art-ws/db-context@2.0.20",
+          "tick": "2025-09-15T05:15:00.000Z"
+        },
+        {
+          "version": "@art-ws/di-node@2.0.12",
+          "tick": "2025-09-15T05:15:00.000Z"
+        },
+        {
+          "version": "@art-ws/di@2.0.27",
+          "tick": "2025-09-15T05:15:00.000Z"
+        },
+        {
+          "version": "@art-ws/fastify-http-server@2.0.23",
+          "tick": "2025-09-15T05:15:00.000Z"
+        },
+        {
+          "version": "@art-ws/http-server@2.0.20",
+          "tick": "2025-09-15T05:15:00.000Z"
+        },
+        {
+          "version": "@art-ws/openapi@0.1.8",
+          "tick": "2025-09-15T05:15:00.000Z"
+        },
+        {
+          "version": "@art-ws/slf@2.0.14",
+          "tick": "2025-09-15T05:15:00.000Z"
+        },
+        {
+          "version": "@operato/board@9.0.33",
+          "tick": "2025-09-15T23:45:00.000Z"
+        },
+        {
+          "version": "@operato/board@9.0.34",
+          "tick": "2025-09-15T23:45:00.000Z"
+        },
+        {
+          "version": "@operato/data-grist@9.0.33",
+          "tick": "2025-09-15T23:45:00.000Z"
+        },
+        {
+          "version": "@operato/data-grist@9.0.34",
+          "tick": "2025-09-15T23:45:00.000Z"
+        },
+        {
+          "version": "@operato/graphql@9.0.34",
+          "tick": "2025-09-15T23:45:00.000Z"
+        },
+        {
+          "version": "@operato/headroom@9.0.34",
+          "tick": "2025-09-15T23:45:00.000Z"
+        },
+        {
+          "version": "@operato/help@9.0.33",
+          "tick": "2025-09-15T23:45:00.000Z"
+        },
+        {
+          "version": "@operato/help@9.0.34",
+          "tick": "2025-09-15T23:45:00.000Z"
+        },
+        {
+          "version": "@operato/i18n@9.0.34",
+          "tick": "2025-09-15T23:45:00.000Z"
+        },
+        {
+          "version": "@operato/input@9.0.33",
+          "tick": "2025-09-15T23:45:00.000Z"
+        },
+        {
+          "version": "@operato/input@9.0.34",
+          "tick": "2025-09-15T23:45:00.000Z"
+        },
+        {
+          "version": "@operato/layout@9.0.34",
+          "tick": "2025-09-15T23:45:00.000Z"
+        },
+        {
+          "version": "@operato/popup@9.0.34",
+          "tick": "2025-09-15T23:45:00.000Z"
+        },
+        {
+          "version": "@operato/pull-to-refresh@9.0.34",
+          "tick": "2025-09-15T23:45:00.000Z"
+        },
+        {
+          "version": "@operato/shell@9.0.34",
+          "tick": "2025-09-15T23:45:00.000Z"
+        },
+        {
+          "version": "@operato/styles@9.0.34",
+          "tick": "2025-09-15T23:45:00.000Z"
+        },
+        {
+          "version": "@operato/utils@9.0.34",
+          "tick": "2025-09-15T23:45:00.000Z"
+        },
+        {
+          "version": "@ctrl/magnet-link@4.1.0",
+          "tick": "2025-09-16T06:30:00.000Z"
+        },
+        {
+          "version": "@ctrl/torrent-file@4.2.0",
+          "tick": "2025-09-16T06:30:00.000Z"
+        },
+        {
+          "version": "@ctrl/transmission@7.4.0",
+          "tick": "2025-09-16T06:30:00.000Z"
+        },
+        {
+          "version": "@ctrl/ts-base32@4.1.0",
+          "tick": "2025-09-16T06:30:00.000Z"
+        },
+        {
+          "version": "ngx-toastr@19.1.0",
+          "tick": "2025-09-16T06:30:00.000Z"
+        },
+        {
+          "version": "@ctrl/deluge@7.3.0",
+          "tick": "2025-09-16T08:00:00.000Z"
+        },
+        {
+          "version": "@ctrl/ngx-emoji-mart@9.3.0",
+          "tick": "2025-09-16T08:00:00.000Z"
+        },
+        {
+          "version": "@ctrl/react-adsense@2.1.0",
+          "tick": "2025-09-16T08:00:00.000Z"
+        },
+        {
+          "version": "koa2-swagger-ui@5.12.0",
+          "tick": "2025-09-16T08:00:00.000Z"
+        },
+        {
+          "version": "ngx-color@10.1.0",
+          "tick": "2025-09-16T08:00:00.000Z"
+        },
+        {
+          "version": "swc-plugin-component-annotate@1.10.0",
+          "tick": "2025-09-16T08:00:00.000Z"
+        },
+        {
+          "version": "ts-gaussian@3.1.0",
+          "tick": "2025-09-16T08:15:00.000Z"
+        },
+        {
+          "version": "@ctrl/golang-template@1.5.0",
+          "tick": "2025-09-16T08:45:00.000Z"
+        },
+        {
+          "version": "@operato/board@9.1.0",
+          "tick": "2025-09-16T12:15:00.000Z"
+        },
+        {
+          "version": "@operato/data-grist@9.1.0",
+          "tick": "2025-09-16T12:15:00.000Z"
+        },
+        {
+          "version": "@operato/graphql@9.1.0",
+          "tick": "2025-09-16T12:15:00.000Z"
+        },
+        {
+          "version": "@operato/headroom@9.1.0",
+          "tick": "2025-09-16T12:15:00.000Z"
+        },
+        {
+          "version": "@operato/help@9.1.0",
+          "tick": "2025-09-16T12:15:00.000Z"
+        },
+        {
+          "version": "@operato/i18n@9.1.0",
+          "tick": "2025-09-16T12:15:00.000Z"
+        },
+        {
+          "version": "@operato/input@9.1.0",
+          "tick": "2025-09-16T12:15:00.000Z"
+        },
+        {
+          "version": "@operato/layout@9.1.0",
+          "tick": "2025-09-16T12:15:00.000Z"
+        },
+        {
+          "version": "@operato/popup@9.1.0",
+          "tick": "2025-09-16T12:15:00.000Z"
+        },
+        {
+          "version": "@operato/pull-to-refresh@9.1.0",
+          "tick": "2025-09-16T12:15:00.000Z"
+        },
+        {
+          "version": "@operato/shell@9.1.0",
+          "tick": "2025-09-16T12:15:00.000Z"
+        },
+        {
+          "version": "@operato/styles@9.1.0",
+          "tick": "2025-09-16T12:15:00.000Z"
+        },
+        {
+          "version": "@operato/utils@9.1.0",
+          "tick": "2025-09-16T12:15:00.000Z"
+        },
+        {
+          "version": "@things-factory/attachment-base@9.1.0",
+          "tick": "2025-09-16T12:30:00.000Z"
+        },
+        {
+          "version": "@things-factory/auth-base@9.1.0",
+          "tick": "2025-09-16T12:30:00.000Z"
+        },
+        {
+          "version": "@things-factory/email-base@9.1.0",
+          "tick": "2025-09-16T12:30:00.000Z"
+        },
+        {
+          "version": "@things-factory/env@9.1.0",
+          "tick": "2025-09-16T12:30:00.000Z"
+        },
+        {
+          "version": "@things-factory/integration-base@9.1.0",
+          "tick": "2025-09-16T12:30:00.000Z"
+        },
+        {
+          "version": "@things-factory/integration-marketplace@9.1.0",
+          "tick": "2025-09-16T12:30:00.000Z"
+        },
+        {
+          "version": "@things-factory/shell@9.1.0",
+          "tick": "2025-09-16T12:30:00.000Z"
+        },
+        {
+          "version": "@things-factory/attachment-base@4.3.677",
+          "tick": "2025-09-18T10:15:00.000Z"
+        },
+        {
+          "version": "@things-factory/auth-base@4.3.677",
+          "tick": "2025-09-18T10:15:00.000Z"
+        },
+        {
+          "version": "@things-factory/email-base@4.3.677",
+          "tick": "2025-09-18T10:15:00.000Z"
+        },
+        {
+          "version": "@things-factory/integration-base@4.3.677",
+          "tick": "2025-09-18T10:15:00.000Z"
+        },
+        {
+          "version": "@things-factory/integration-marketplace@4.3.677",
+          "tick": "2025-09-18T10:15:00.000Z"
+        }
+      ],
+      "unlabelledFlags": [
+        "@art-ws/common@2.0.18",
+        "@art-ws/common@2.0.19",
+        "@art-ws/common@2.0.20",
+        "@art-ws/common@2.0.21",
+        "@art-ws/db-context@2.0.17",
+        "@art-ws/db-context@2.0.18",
+        "@art-ws/db-context@2.0.19",
+        "@art-ws/db-context@2.0.20",
+        "@art-ws/di-node@2.0.10",
+        "@art-ws/di-node@2.0.11",
+        "@art-ws/di-node@2.0.12",
+        "@art-ws/di-node@2.0.9",
+        "@art-ws/di@2.0.24",
+        "@art-ws/di@2.0.25",
+        "@art-ws/di@2.0.26",
+        "@art-ws/di@2.0.27",
+        "@art-ws/fastify-http-server@2.0.20",
+        "@art-ws/fastify-http-server@2.0.21",
+        "@art-ws/fastify-http-server@2.0.22",
+        "@art-ws/fastify-http-server@2.0.23",
+        "@art-ws/http-server@2.0.17",
+        "@art-ws/http-server@2.0.18",
+        "@art-ws/http-server@2.0.19",
+        "@art-ws/http-server@2.0.20",
+        "@art-ws/openapi@0.1.5",
+        "@art-ws/openapi@0.1.6",
+        "@art-ws/openapi@0.1.7",
+        "@art-ws/openapi@0.1.8",
+        "@art-ws/slf@2.0.11",
+        "@art-ws/slf@2.0.12",
+        "@art-ws/slf@2.0.13",
+        "@art-ws/slf@2.0.14",
+        "@ctrl/deluge@7.3.0",
+        "@ctrl/golang-template@1.5.0",
+        "@ctrl/magnet-link@4.1.0",
+        "@ctrl/ngx-emoji-mart@9.3.0",
+        "@ctrl/react-adsense@2.1.0",
+        "@ctrl/torrent-file@4.2.0",
+        "@ctrl/transmission@7.4.0",
+        "@ctrl/ts-base32@4.1.0",
+        "@operato/board@9.0.31",
+        "@operato/board@9.0.32",
+        "@operato/board@9.0.33",
+        "@operato/board@9.0.34",
+        "@operato/board@9.1.0",
+        "@operato/data-grist@9.0.33",
+        "@operato/data-grist@9.0.34",
+        "@operato/data-grist@9.1.0",
+        "@operato/graphql@9.0.34",
+        "@operato/graphql@9.1.0",
+        "@operato/headroom@9.0.34",
+        "@operato/headroom@9.1.0",
+        "@operato/help@9.0.31",
+        "@operato/help@9.0.32",
+        "@operato/help@9.0.33",
+        "@operato/help@9.0.34",
+        "@operato/help@9.1.0",
+        "@operato/i18n@9.0.34",
+        "@operato/i18n@9.1.0",
+        "@operato/input@9.0.33",
+        "@operato/input@9.0.34",
+        "@operato/input@9.1.0",
+        "@operato/layout@9.0.31",
+        "@operato/layout@9.0.32",
+        "@operato/layout@9.0.34",
+        "@operato/layout@9.1.0",
+        "@operato/popup@9.0.34",
+        "@operato/popup@9.1.0",
+        "@operato/pull-to-refresh@9.0.34",
+        "@operato/pull-to-refresh@9.1.0",
+        "@operato/shell@9.0.34",
+        "@operato/shell@9.1.0",
+        "@operato/styles@9.0.34",
+        "@operato/styles@9.1.0",
+        "@operato/utils@9.0.34",
+        "@operato/utils@9.1.0",
+        "@things-factory/attachment-base@4.3.677",
+        "@things-factory/attachment-base@9.0.41",
+        "@things-factory/attachment-base@9.1.0",
+        "@things-factory/auth-base@4.3.677",
+        "@things-factory/auth-base@9.0.41",
+        "@things-factory/auth-base@9.1.0",
+        "@things-factory/email-base@4.3.677",
+        "@things-factory/email-base@9.0.41",
+        "@things-factory/email-base@9.1.0",
+        "@things-factory/env@9.0.41",
+        "@things-factory/env@9.1.0",
+        "@things-factory/integration-base@4.3.677",
+        "@things-factory/integration-base@9.0.41",
+        "@things-factory/integration-base@9.1.0",
+        "@things-factory/integration-marketplace@4.3.677",
+        "@things-factory/integration-marketplace@9.0.41",
+        "@things-factory/integration-marketplace@9.1.0",
+        "@things-factory/shell@9.0.41",
+        "@things-factory/shell@9.1.0",
+        "koa2-swagger-ui@5.12.0",
+        "ngx-color@10.1.0",
+        "ngx-toastr@19.1.0",
+        "swc-plugin-component-annotate@1.10.0",
+        "ts-gaussian@3.1.0"
+      ]
+    },
+    {
+      "slug": "quiet-week-2025-08",
+      "role": "held-out",
+      "datasetHash": "fdaf4397f9af1780a345c1f3f707ae8f1f8759520326d78335d9e91801702467",
+      "mode": "retrospective",
+      "start": "2025-08-01T00:00:00.000Z",
+      "end": "2025-08-08T00:00:00.000Z",
+      "stepMinutes": 15,
+      "tickCount": 677,
+      "referenceVersions": 0,
+      "referenceWithKnownPublication": 0,
+      "referenceWithPublisher": 0,
+      "referenceWithScriptState": 0,
+      "referenceOutsideWindow": 0,
+      "knownWindowPublishes": 438,
+      "flaggedWindowVersions": 289,
+      "truePositiveVersions": 0,
+      "unlabelledFlaggedVersions": 289,
+      "recallAtEnd": null,
+      "referencePrecision": 0,
+      "recallAtFirstPublicAdvisory": null,
+      "firstPublicLeadMinutes": null,
+      "osvCutoffVersions": 0,
+      "recallBeforeOsvPublication": null,
+      "osvLeadMinutes": null,
+      "osvLeadCount": 0,
+      "controlFlagsPer1000Publishes": 659.8173515981736,
+      "evidenceTimeVisibleVersions": 0,
+      "unknownPublicationVersions": 0,
+      "notFoundPackages": [],
+      "normalizationWarnings": 14,
+      "firstDetections": [
+        {
+          "version": "eslint-plugin-react-hooks@0.0.0-experimental-bdb4a96f-20250801",
+          "tick": "2025-08-01T16:30:00.000Z"
+        },
+        {
+          "version": "eslint-plugin-react-hooks@6.1.0-canary-bdb4a96f-20250801",
+          "tick": "2025-08-01T16:30:00.000Z"
+        },
+        {
+          "version": "react-dom@0.0.0-experimental-bdb4a96f-20250801",
+          "tick": "2025-08-01T16:30:00.000Z"
+        },
+        {
+          "version": "react-dom@19.2.0-canary-bdb4a96f-20250801",
+          "tick": "2025-08-01T16:30:00.000Z"
+        },
+        {
+          "version": "react-is@0.0.0-experimental-bdb4a96f-20250801",
+          "tick": "2025-08-01T16:30:00.000Z"
+        },
+        {
+          "version": "react-is@19.2.0-canary-bdb4a96f-20250801",
+          "tick": "2025-08-01T16:30:00.000Z"
+        },
+        {
+          "version": "react-refresh@0.0.0-experimental-bdb4a96f-20250801",
+          "tick": "2025-08-01T16:30:00.000Z"
+        },
+        {
+          "version": "react-refresh@0.18.0-canary-bdb4a96f-20250801",
+          "tick": "2025-08-01T16:30:00.000Z"
+        },
+        {
+          "version": "react@0.0.0-experimental-bdb4a96f-20250801",
+          "tick": "2025-08-01T16:30:00.000Z"
+        },
+        {
+          "version": "react@19.2.0-canary-bdb4a96f-20250801",
+          "tick": "2025-08-01T16:30:00.000Z"
+        },
+        {
+          "version": "scheduler@0.0.0-experimental-bdb4a96f-20250801",
+          "tick": "2025-08-01T16:30:00.000Z"
+        },
+        {
+          "version": "scheduler@0.27.0-canary-bdb4a96f-20250801",
+          "tick": "2025-08-01T16:30:00.000Z"
+        },
+        {
+          "version": "use-sync-external-store@0.0.0-experimental-bdb4a96f-20250801",
+          "tick": "2025-08-01T16:30:00.000Z"
+        },
+        {
+          "version": "use-sync-external-store@1.6.0-canary-bdb4a96f-20250801",
+          "tick": "2025-08-01T16:30:00.000Z"
+        },
+        {
+          "version": "@aws-sdk/client-s3@3.859.0",
+          "tick": "2025-08-01T19:15:00.000Z"
+        },
+        {
+          "version": "@aws-sdk/client-sso-oidc@3.859.0",
+          "tick": "2025-08-01T19:15:00.000Z"
+        },
+        {
+          "version": "@aws-sdk/client-sts@3.859.0",
+          "tick": "2025-08-01T19:15:00.000Z"
+        },
+        {
+          "version": "@aws-sdk/credential-provider-ini@3.859.0",
+          "tick": "2025-08-01T19:15:00.000Z"
+        },
+        {
+          "version": "@aws-sdk/credential-provider-node@3.859.0",
+          "tick": "2025-08-01T19:15:00.000Z"
+        },
+        {
+          "version": "@aws-sdk/credential-provider-sso@3.859.0",
+          "tick": "2025-08-01T19:15:00.000Z"
+        },
+        {
+          "version": "@aws-sdk/token-providers@3.859.0",
+          "tick": "2025-08-01T19:15:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/eslint-plugin@8.38.1-alpha.0",
+          "tick": "2025-08-01T22:30:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/parser@8.38.1-alpha.0",
+          "tick": "2025-08-01T22:30:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/scope-manager@8.38.1-alpha.0",
+          "tick": "2025-08-01T22:30:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/type-utils@8.38.1-alpha.0",
+          "tick": "2025-08-01T22:30:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/types@8.38.1-alpha.0",
+          "tick": "2025-08-01T22:30:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/typescript-estree@8.38.1-alpha.0",
+          "tick": "2025-08-01T22:30:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/utils@8.38.1-alpha.0",
+          "tick": "2025-08-01T22:30:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/visitor-keys@8.38.1-alpha.0",
+          "tick": "2025-08-01T22:30:00.000Z"
+        },
+        {
+          "version": "typescript-eslint@8.38.1-alpha.0",
+          "tick": "2025-08-01T22:30:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/eslint-plugin@8.38.1-alpha.1",
+          "tick": "2025-08-01T23:00:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/parser@8.38.1-alpha.1",
+          "tick": "2025-08-01T23:00:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/scope-manager@8.38.1-alpha.1",
+          "tick": "2025-08-01T23:00:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/type-utils@8.38.1-alpha.1",
+          "tick": "2025-08-01T23:00:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/types@8.38.1-alpha.1",
+          "tick": "2025-08-01T23:00:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/typescript-estree@8.38.1-alpha.1",
+          "tick": "2025-08-01T23:00:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/utils@8.38.1-alpha.1",
+          "tick": "2025-08-01T23:00:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/visitor-keys@8.38.1-alpha.1",
+          "tick": "2025-08-01T23:00:00.000Z"
+        },
+        {
+          "version": "typescript-eslint@8.38.1-alpha.1",
+          "tick": "2025-08-01T23:00:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/eslint-plugin@8.38.1-alpha.2",
+          "tick": "2025-08-01T23:15:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/parser@8.38.1-alpha.2",
+          "tick": "2025-08-01T23:15:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/scope-manager@8.38.1-alpha.2",
+          "tick": "2025-08-01T23:15:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/type-utils@8.38.1-alpha.2",
+          "tick": "2025-08-01T23:15:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/types@8.38.1-alpha.2",
+          "tick": "2025-08-01T23:15:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/typescript-estree@8.38.1-alpha.2",
+          "tick": "2025-08-01T23:15:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/utils@8.38.1-alpha.2",
+          "tick": "2025-08-01T23:15:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/visitor-keys@8.38.1-alpha.2",
+          "tick": "2025-08-01T23:15:00.000Z"
+        },
+        {
+          "version": "typescript-eslint@8.38.1-alpha.2",
+          "tick": "2025-08-01T23:15:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/eslint-plugin@8.38.1-alpha.3",
+          "tick": "2025-08-01T23:45:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/parser@8.38.1-alpha.3",
+          "tick": "2025-08-01T23:45:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/scope-manager@8.38.1-alpha.3",
+          "tick": "2025-08-01T23:45:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/type-utils@8.38.1-alpha.3",
+          "tick": "2025-08-01T23:45:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/types@8.38.1-alpha.3",
+          "tick": "2025-08-01T23:45:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/typescript-estree@8.38.1-alpha.3",
+          "tick": "2025-08-01T23:45:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/utils@8.38.1-alpha.3",
+          "tick": "2025-08-01T23:45:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/visitor-keys@8.38.1-alpha.3",
+          "tick": "2025-08-01T23:45:00.000Z"
+        },
+        {
+          "version": "typescript-eslint@8.38.1-alpha.3",
+          "tick": "2025-08-01T23:45:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/eslint-plugin@8.38.1-alpha.4",
+          "tick": "2025-08-03T00:45:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/parser@8.38.1-alpha.4",
+          "tick": "2025-08-03T00:45:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/scope-manager@8.38.1-alpha.4",
+          "tick": "2025-08-03T00:45:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/type-utils@8.38.1-alpha.4",
+          "tick": "2025-08-03T00:45:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/types@8.38.1-alpha.4",
+          "tick": "2025-08-03T00:45:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/typescript-estree@8.38.1-alpha.4",
+          "tick": "2025-08-03T00:45:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/utils@8.38.1-alpha.4",
+          "tick": "2025-08-03T00:45:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/visitor-keys@8.38.1-alpha.4",
+          "tick": "2025-08-03T00:45:00.000Z"
+        },
+        {
+          "version": "typescript-eslint@8.38.1-alpha.4",
+          "tick": "2025-08-03T00:45:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/eslint-plugin@8.38.1-alpha.5",
+          "tick": "2025-08-03T17:45:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/parser@8.38.1-alpha.5",
+          "tick": "2025-08-03T17:45:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/scope-manager@8.38.1-alpha.5",
+          "tick": "2025-08-03T17:45:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/type-utils@8.38.1-alpha.5",
+          "tick": "2025-08-03T17:45:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/types@8.38.1-alpha.5",
+          "tick": "2025-08-03T17:45:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/typescript-estree@8.38.1-alpha.5",
+          "tick": "2025-08-03T17:45:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/utils@8.38.1-alpha.5",
+          "tick": "2025-08-03T17:45:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/visitor-keys@8.38.1-alpha.5",
+          "tick": "2025-08-03T17:45:00.000Z"
+        },
+        {
+          "version": "typescript-eslint@8.38.1-alpha.5",
+          "tick": "2025-08-03T17:45:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/eslint-plugin@8.38.1-alpha.6",
+          "tick": "2025-08-03T19:15:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/parser@8.38.1-alpha.6",
+          "tick": "2025-08-03T19:15:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/scope-manager@8.38.1-alpha.6",
+          "tick": "2025-08-03T19:15:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/type-utils@8.38.1-alpha.6",
+          "tick": "2025-08-03T19:15:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/types@8.38.1-alpha.6",
+          "tick": "2025-08-03T19:15:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/typescript-estree@8.38.1-alpha.6",
+          "tick": "2025-08-03T19:15:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/utils@8.38.1-alpha.6",
+          "tick": "2025-08-03T19:15:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/visitor-keys@8.38.1-alpha.6",
+          "tick": "2025-08-03T19:15:00.000Z"
+        },
+        {
+          "version": "typescript-eslint@8.38.1-alpha.6",
+          "tick": "2025-08-03T19:15:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/eslint-plugin@8.38.1-alpha.7",
+          "tick": "2025-08-04T03:00:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/parser@8.38.1-alpha.7",
+          "tick": "2025-08-04T03:00:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/scope-manager@8.38.1-alpha.7",
+          "tick": "2025-08-04T03:00:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/type-utils@8.38.1-alpha.7",
+          "tick": "2025-08-04T03:00:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/types@8.38.1-alpha.7",
+          "tick": "2025-08-04T03:00:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/typescript-estree@8.38.1-alpha.7",
+          "tick": "2025-08-04T03:00:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/utils@8.38.1-alpha.7",
+          "tick": "2025-08-04T03:00:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/visitor-keys@8.38.1-alpha.7",
+          "tick": "2025-08-04T03:00:00.000Z"
+        },
+        {
+          "version": "typescript-eslint@8.38.1-alpha.7",
+          "tick": "2025-08-04T03:00:00.000Z"
+        },
+        {
+          "version": "@vitest/expect@4.0.0-beta.6",
+          "tick": "2025-08-04T12:45:00.000Z"
+        },
+        {
+          "version": "@vitest/pretty-format@4.0.0-beta.6",
+          "tick": "2025-08-04T12:45:00.000Z"
+        },
+        {
+          "version": "@vitest/runner@4.0.0-beta.6",
+          "tick": "2025-08-04T12:45:00.000Z"
+        },
+        {
+          "version": "@vitest/snapshot@4.0.0-beta.6",
+          "tick": "2025-08-04T12:45:00.000Z"
+        },
+        {
+          "version": "@vitest/spy@4.0.0-beta.6",
+          "tick": "2025-08-04T12:45:00.000Z"
+        },
+        {
+          "version": "@vitest/utils@4.0.0-beta.6",
+          "tick": "2025-08-04T12:45:00.000Z"
+        },
+        {
+          "version": "vite-node@4.0.0-beta.6",
+          "tick": "2025-08-04T12:45:00.000Z"
+        },
+        {
+          "version": "vitest@4.0.0-beta.6",
+          "tick": "2025-08-04T12:45:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/eslint-plugin@8.38.1-alpha.8",
+          "tick": "2025-08-04T15:00:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/parser@8.38.1-alpha.8",
+          "tick": "2025-08-04T15:00:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/scope-manager@8.38.1-alpha.8",
+          "tick": "2025-08-04T15:00:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/type-utils@8.38.1-alpha.8",
+          "tick": "2025-08-04T15:00:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/types@8.38.1-alpha.8",
+          "tick": "2025-08-04T15:00:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/typescript-estree@8.38.1-alpha.8",
+          "tick": "2025-08-04T15:00:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/utils@8.38.1-alpha.8",
+          "tick": "2025-08-04T15:00:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/visitor-keys@8.38.1-alpha.8",
+          "tick": "2025-08-04T15:00:00.000Z"
+        },
+        {
+          "version": "typescript-eslint@8.38.1-alpha.8",
+          "tick": "2025-08-04T15:00:00.000Z"
+        },
+        {
+          "version": "eslint-plugin-react-hooks@0.0.0-experimental-be11cb5c-20250804",
+          "tick": "2025-08-04T16:30:00.000Z"
+        },
+        {
+          "version": "eslint-plugin-react-hooks@6.1.0-canary-be11cb5c-20250804",
+          "tick": "2025-08-04T16:30:00.000Z"
+        },
+        {
+          "version": "react-dom@0.0.0-experimental-be11cb5c-20250804",
+          "tick": "2025-08-04T16:30:00.000Z"
+        },
+        {
+          "version": "react-dom@19.2.0-canary-be11cb5c-20250804",
+          "tick": "2025-08-04T16:30:00.000Z"
+        },
+        {
+          "version": "react-is@0.0.0-experimental-be11cb5c-20250804",
+          "tick": "2025-08-04T16:30:00.000Z"
+        },
+        {
+          "version": "react-is@19.2.0-canary-be11cb5c-20250804",
+          "tick": "2025-08-04T16:30:00.000Z"
+        },
+        {
+          "version": "react-refresh@0.0.0-experimental-be11cb5c-20250804",
+          "tick": "2025-08-04T16:30:00.000Z"
+        },
+        {
+          "version": "react-refresh@0.18.0-canary-be11cb5c-20250804",
+          "tick": "2025-08-04T16:30:00.000Z"
+        },
+        {
+          "version": "react@0.0.0-experimental-be11cb5c-20250804",
+          "tick": "2025-08-04T16:30:00.000Z"
+        },
+        {
+          "version": "react@19.2.0-canary-be11cb5c-20250804",
+          "tick": "2025-08-04T16:30:00.000Z"
+        },
+        {
+          "version": "scheduler@0.0.0-experimental-be11cb5c-20250804",
+          "tick": "2025-08-04T16:30:00.000Z"
+        },
+        {
+          "version": "scheduler@0.27.0-canary-be11cb5c-20250804",
+          "tick": "2025-08-04T16:30:00.000Z"
+        },
+        {
+          "version": "use-sync-external-store@0.0.0-experimental-be11cb5c-20250804",
+          "tick": "2025-08-04T16:30:00.000Z"
+        },
+        {
+          "version": "use-sync-external-store@1.6.0-canary-be11cb5c-20250804",
+          "tick": "2025-08-04T16:30:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/eslint-plugin@8.39.0",
+          "tick": "2025-08-04T17:30:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/parser@8.39.0",
+          "tick": "2025-08-04T17:30:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/scope-manager@8.39.0",
+          "tick": "2025-08-04T17:30:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/type-utils@8.39.0",
+          "tick": "2025-08-04T17:30:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/types@8.39.0",
+          "tick": "2025-08-04T17:30:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/typescript-estree@8.39.0",
+          "tick": "2025-08-04T17:30:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/utils@8.39.0",
+          "tick": "2025-08-04T17:30:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/visitor-keys@8.39.0",
+          "tick": "2025-08-04T17:30:00.000Z"
+        },
+        {
+          "version": "typescript-eslint@8.39.0",
+          "tick": "2025-08-04T17:30:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/eslint-plugin@8.39.1-alpha.0",
+          "tick": "2025-08-04T17:45:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/parser@8.39.1-alpha.0",
+          "tick": "2025-08-04T17:45:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/scope-manager@8.39.1-alpha.0",
+          "tick": "2025-08-04T17:45:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/type-utils@8.39.1-alpha.0",
+          "tick": "2025-08-04T17:45:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/types@8.39.1-alpha.0",
+          "tick": "2025-08-04T17:45:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/typescript-estree@8.39.1-alpha.0",
+          "tick": "2025-08-04T17:45:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/utils@8.39.1-alpha.0",
+          "tick": "2025-08-04T17:45:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/visitor-keys@8.39.1-alpha.0",
+          "tick": "2025-08-04T17:45:00.000Z"
+        },
+        {
+          "version": "typescript-eslint@8.39.1-alpha.0",
+          "tick": "2025-08-04T17:45:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/eslint-plugin@8.39.1-alpha.1",
+          "tick": "2025-08-05T00:15:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/parser@8.39.1-alpha.1",
+          "tick": "2025-08-05T00:15:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/scope-manager@8.39.1-alpha.1",
+          "tick": "2025-08-05T00:15:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/type-utils@8.39.1-alpha.1",
+          "tick": "2025-08-05T00:15:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/types@8.39.1-alpha.1",
+          "tick": "2025-08-05T00:15:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/typescript-estree@8.39.1-alpha.1",
+          "tick": "2025-08-05T00:15:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/utils@8.39.1-alpha.1",
+          "tick": "2025-08-05T00:15:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/visitor-keys@8.39.1-alpha.1",
+          "tick": "2025-08-05T00:15:00.000Z"
+        },
+        {
+          "version": "typescript-eslint@8.39.1-alpha.1",
+          "tick": "2025-08-05T00:15:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/eslint-plugin@8.39.1-alpha.2",
+          "tick": "2025-08-05T00:30:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/parser@8.39.1-alpha.2",
+          "tick": "2025-08-05T00:30:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/scope-manager@8.39.1-alpha.2",
+          "tick": "2025-08-05T00:30:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/type-utils@8.39.1-alpha.2",
+          "tick": "2025-08-05T00:30:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/types@8.39.1-alpha.2",
+          "tick": "2025-08-05T00:30:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/typescript-estree@8.39.1-alpha.2",
+          "tick": "2025-08-05T00:30:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/utils@8.39.1-alpha.2",
+          "tick": "2025-08-05T00:30:00.000Z"
+        },
+        {
+          "version": "@typescript-eslint/visitor-keys@8.39.1-alpha.2",
+          "tick": "2025-08-05T00:30:00.000Z"
+        },
+        {
+          "version": "typescript-eslint@8.39.1-alpha.2",
+          "tick": "2025-08-05T00:30:00.000Z"
+        },
+        {
+          "version": "eslint-plugin-react-hooks@0.0.0-experimental-7deda941-20250804",
+          "tick": "2025-08-05T16:30:00.000Z"
+        },
+        {
+          "version": "eslint-plugin-react-hooks@6.1.0-canary-7deda941-20250804",
+          "tick": "2025-08-05T16:30:00.000Z"
+        },
+        {
+          "version": "react-dom@0.0.0-experimental-7deda941-20250804",
+          "tick": "2025-08-05T16:30:00.000Z"
+        },
+        {
+          "version": "react-dom@19.2.0-canary-7deda941-20250804",
+          "tick": "2025-08-05T16:30:00.000Z"
+        },
+        {
+          "version": "react-is@0.0.0-experimental-7deda941-20250804",
+          "tick": "2025-08-05T16:30:00.000Z"
+        },
+        {
+          "version": "react-is@19.2.0-canary-7deda941-20250804",
+          "tick": "2025-08-05T16:30:00.000Z"
+        },
+        {
+          "version": "react-refresh@0.0.0-experimental-7deda941-20250804",
+          "tick": "2025-08-05T16:30:00.000Z"
+        },
+        {
+          "version": "react-refresh@0.18.0-canary-7deda941-20250804",
+          "tick": "2025-08-05T16:30:00.000Z"
+        },
+        {
+          "version": "react@0.0.0-experimental-7deda941-20250804",
+          "tick": "2025-08-05T16:30:00.000Z"
+        },
+        {
+          "version": "react@19.2.0-canary-7deda941-20250804",
+          "tick": "2025-08-05T16:30:00.000Z"
+        },
+        {
+          "version": "scheduler@0.0.0-experimental-7deda941-20250804",
+          "tick": "2025-08-05T16:30:00.000Z"
+        },
+        {
+          "version": "scheduler@0.27.0-canary-7deda941-20250804",
+          "tick": "2025-08-05T16:30:00.000Z"
+        },
+        {
+          "version": "use-sync-external-store@0.0.0-experimental-7deda941-20250804",
+          "tick": "2025-08-05T16:30:00.000Z"
+        },
+        {
+          "version": "use-sync-external-store@1.6.0-canary-7deda941-20250804",
+          "tick": "2025-08-05T16:30:00.000Z"
+        },
+        {
+          "version": "eslint-plugin-react-hooks@0.0.0-experimental-66f09bd0-20250806",
+          "tick": "2025-08-06T16:30:00.000Z"
+        },
+        {
+          "version": "eslint-plugin-react-hooks@6.1.0-canary-66f09bd0-20250806",
+          "tick": "2025-08-06T16:30:00.000Z"
+        },
+        {
+          "version": "react-dom@0.0.0-experimental-66f09bd0-20250806",
+          "tick": "2025-08-06T16:30:00.000Z"
+        },
+        {
+          "version": "react-dom@19.2.0-canary-66f09bd0-20250806",
+          "tick": "2025-08-06T16:30:00.000Z"
+        },
+        {
+          "version": "react-is@0.0.0-experimental-66f09bd0-20250806",
+          "tick": "2025-08-06T16:30:00.000Z"
+        },
+        {
+          "version": "react-is@19.2.0-canary-66f09bd0-20250806",
+          "tick": "2025-08-06T16:30:00.000Z"
+        },
+        {
+          "version": "react-refresh@0.0.0-experimental-66f09bd0-20250806",
+          "tick": "2025-08-06T16:30:00.000Z"
+        },
+        {
+          "version": "react-refresh@0.18.0-canary-66f09bd0-20250806",
+          "tick": "2025-08-06T16:30:00.000Z"
+        },
+        {
+          "version": "react@0.0.0-experimental-66f09bd0-20250806",
+          "tick": "2025-08-06T16:30:00.000Z"
+        },
+        {
+          "version": "react@19.2.0-canary-66f09bd0-20250806",
+          "tick": "2025-08-06T16:30:00.000Z"
+        },
+        {
+          "version": "scheduler@0.0.0-experimental-66f09bd0-20250806",
+          "tick": "2025-08-06T16:30:00.000Z"
+        },
+        {
+          "version": "scheduler@0.27.0-canary-66f09bd0-20250806",
+          "tick": "2025-08-06T16:30:00.000Z"
+        },
+        {
+          "version": "use-sync-external-store@0.0.0-experimental-66f09bd0-20250806",
+          "tick": "2025-08-06T16:30:00.000Z"
+        },
+        {
+          "version": "use-sync-external-store@1.6.0-canary-66f09bd0-20250806",
+          "tick": "2025-08-06T16:30:00.000Z"
+        },
+        {
+          "version": "@smithy/abort-controller@4.0.5",
+          "tick": "2025-08-06T17:00:00.000Z"
+        },
+        {
+          "version": "@smithy/config-resolver@4.1.5",
+          "tick": "2025-08-06T17:00:00.000Z"
+        },
+        {
+          "version": "@smithy/core@3.8.0",
+          "tick": "2025-08-06T17:00:00.000Z"
+        },
+        {
+          "version": "@smithy/credential-provider-imds@4.0.7",
+          "tick": "2025-08-06T17:00:00.000Z"
+        },
+        {
+          "version": "@smithy/eventstream-codec@4.0.5",
+          "tick": "2025-08-06T17:00:00.000Z"
+        },
+        {
+          "version": "@smithy/eventstream-serde-browser@4.0.5",
+          "tick": "2025-08-06T17:00:00.000Z"
+        },
+        {
+          "version": "@smithy/eventstream-serde-config-resolver@4.1.3",
+          "tick": "2025-08-06T17:00:00.000Z"
+        },
+        {
+          "version": "@smithy/eventstream-serde-node@4.0.5",
+          "tick": "2025-08-06T17:00:00.000Z"
+        },
+        {
+          "version": "@smithy/eventstream-serde-universal@4.0.5",
+          "tick": "2025-08-06T17:00:00.000Z"
+        },
+        {
+          "version": "@smithy/fetch-http-handler@5.1.1",
+          "tick": "2025-08-06T17:00:00.000Z"
+        },
+        {
+          "version": "@smithy/hash-node@4.0.5",
+          "tick": "2025-08-06T17:00:00.000Z"
+        },
+        {
+          "version": "@smithy/invalid-dependency@4.0.5",
+          "tick": "2025-08-06T17:00:00.000Z"
+        },
+        {
+          "version": "@smithy/md5-js@4.0.5",
+          "tick": "2025-08-06T17:00:00.000Z"
+        },
+        {
+          "version": "@smithy/middleware-content-length@4.0.5",
+          "tick": "2025-08-06T17:00:00.000Z"
+        },
+        {
+          "version": "@smithy/middleware-endpoint@4.1.18",
+          "tick": "2025-08-06T17:00:00.000Z"
+        },
+        {
+          "version": "@smithy/middleware-retry@4.1.19",
+          "tick": "2025-08-06T17:00:00.000Z"
+        },
+        {
+          "version": "@smithy/middleware-serde@4.0.9",
+          "tick": "2025-08-06T17:00:00.000Z"
+        },
+        {
+          "version": "@smithy/middleware-stack@4.0.5",
+          "tick": "2025-08-06T17:00:00.000Z"
+        },
+        {
+          "version": "@smithy/node-config-provider@4.1.4",
+          "tick": "2025-08-06T17:00:00.000Z"
+        },
+        {
+          "version": "@smithy/node-http-handler@4.1.1",
+          "tick": "2025-08-06T17:00:00.000Z"
+        },
+        {
+          "version": "@smithy/property-provider@4.0.5",
+          "tick": "2025-08-06T17:00:00.000Z"
+        },
+        {
+          "version": "@smithy/protocol-http@5.1.3",
+          "tick": "2025-08-06T17:00:00.000Z"
+        },
+        {
+          "version": "@smithy/querystring-builder@4.0.5",
+          "tick": "2025-08-06T17:00:00.000Z"
+        },
+        {
+          "version": "@smithy/querystring-parser@4.0.5",
+          "tick": "2025-08-06T17:00:00.000Z"
+        },
+        {
+          "version": "@smithy/service-error-classification@4.0.7",
+          "tick": "2025-08-06T17:00:00.000Z"
+        },
+        {
+          "version": "@smithy/shared-ini-file-loader@4.0.5",
+          "tick": "2025-08-06T17:00:00.000Z"
+        },
+        {
+          "version": "@smithy/signature-v4@5.1.3",
+          "tick": "2025-08-06T17:00:00.000Z"
+        },
+        {
+          "version": "@smithy/smithy-client@4.4.10",
+          "tick": "2025-08-06T17:00:00.000Z"
+        },
+        {
+          "version": "@smithy/types@4.3.2",
+          "tick": "2025-08-06T17:00:00.000Z"
+        },
+        {
+          "version": "@smithy/url-parser@4.0.5",
+          "tick": "2025-08-06T17:00:00.000Z"
+        },
+        {
+          "version": "@smithy/util-defaults-mode-browser@4.0.26",
+          "tick": "2025-08-06T17:00:00.000Z"
+        },
+        {
+          "version": "@smithy/util-defaults-mode-node@4.0.26",
+          "tick": "2025-08-06T17:00:00.000Z"
+        },
+        {
+          "version": "@smithy/util-endpoints@3.0.7",
+          "tick": "2025-08-06T17:00:00.000Z"
+        },
+        {
+          "version": "@smithy/util-middleware@4.0.5",
+          "tick": "2025-08-06T17:00:00.000Z"
+        },
+        {
+          "version": "@smithy/util-retry@4.0.7",
+          "tick": "2025-08-06T17:00:00.000Z"
+        },
+        {
+          "version": "@smithy/util-stream@4.2.4",
+          "tick": "2025-08-06T17:00:00.000Z"
+        },
+        {
+          "version": "@smithy/util-waiter@4.0.7",
+          "tick": "2025-08-06T17:00:00.000Z"
+        },
+        {
+          "version": "@aws-sdk/client-sso@3.862.0",
+          "tick": "2025-08-06T19:15:00.000Z"
+        },
+        {
+          "version": "@aws-sdk/core@3.862.0",
+          "tick": "2025-08-06T19:15:00.000Z"
+        },
+        {
+          "version": "@aws-sdk/credential-provider-env@3.862.0",
+          "tick": "2025-08-06T19:15:00.000Z"
+        },
+        {
+          "version": "@aws-sdk/credential-provider-http@3.862.0",
+          "tick": "2025-08-06T19:15:00.000Z"
+        },
+        {
+          "version": "@aws-sdk/credential-provider-ini@3.862.0",
+          "tick": "2025-08-06T19:15:00.000Z"
+        },
+        {
+          "version": "@aws-sdk/credential-provider-node@3.862.0",
+          "tick": "2025-08-06T19:15:00.000Z"
+        },
+        {
+          "version": "@aws-sdk/credential-provider-process@3.862.0",
+          "tick": "2025-08-06T19:15:00.000Z"
+        },
+        {
+          "version": "@aws-sdk/credential-provider-sso@3.862.0",
+          "tick": "2025-08-06T19:15:00.000Z"
+        },
+        {
+          "version": "@aws-sdk/credential-provider-web-identity@3.862.0",
+          "tick": "2025-08-06T19:15:00.000Z"
+        },
+        {
+          "version": "@aws-sdk/middleware-bucket-endpoint@3.862.0",
+          "tick": "2025-08-06T19:15:00.000Z"
+        },
+        {
+          "version": "@aws-sdk/middleware-expect-continue@3.862.0",
+          "tick": "2025-08-06T19:15:00.000Z"
+        },
+        {
+          "version": "@aws-sdk/middleware-flexible-checksums@3.862.0",
+          "tick": "2025-08-06T19:15:00.000Z"
+        },
+        {
+          "version": "@aws-sdk/middleware-host-header@3.862.0",
+          "tick": "2025-08-06T19:15:00.000Z"
+        },
+        {
+          "version": "@aws-sdk/middleware-location-constraint@3.862.0",
+          "tick": "2025-08-06T19:15:00.000Z"
+        },
+        {
+          "version": "@aws-sdk/middleware-logger@3.862.0",
+          "tick": "2025-08-06T19:15:00.000Z"
+        },
+        {
+          "version": "@aws-sdk/middleware-recursion-detection@3.862.0",
+          "tick": "2025-08-06T19:15:00.000Z"
+        },
+        {
+          "version": "@aws-sdk/middleware-sdk-s3@3.862.0",
+          "tick": "2025-08-06T19:15:00.000Z"
+        },
+        {
+          "version": "@aws-sdk/middleware-ssec@3.862.0",
+          "tick": "2025-08-06T19:15:00.000Z"
+        },
+        {
+          "version": "@aws-sdk/middleware-user-agent@3.862.0",
+          "tick": "2025-08-06T19:15:00.000Z"
+        },
+        {
+          "version": "@aws-sdk/nested-clients@3.862.0",
+          "tick": "2025-08-06T19:15:00.000Z"
+        },
+        {
+          "version": "@aws-sdk/region-config-resolver@3.862.0",
+          "tick": "2025-08-06T19:15:00.000Z"
+        },
+        {
+          "version": "@aws-sdk/signature-v4-multi-region@3.862.0",
+          "tick": "2025-08-06T19:15:00.000Z"
+        },
+        {
+          "version": "@aws-sdk/token-providers@3.862.0",
+          "tick": "2025-08-06T19:15:00.000Z"
+        },
+        {
+          "version": "@aws-sdk/types@3.862.0",
+          "tick": "2025-08-06T19:15:00.000Z"
+        },
+        {
+          "version": "@aws-sdk/util-endpoints@3.862.0",
+          "tick": "2025-08-06T19:15:00.000Z"
+        },
+        {
+          "version": "@aws-sdk/util-user-agent-browser@3.862.0",
+          "tick": "2025-08-06T19:15:00.000Z"
+        },
+        {
+          "version": "@aws-sdk/util-user-agent-node@3.862.0",
+          "tick": "2025-08-06T19:15:00.000Z"
+        },
+        {
+          "version": "@aws-sdk/xml-builder@3.862.0",
+          "tick": "2025-08-06T19:15:00.000Z"
+        },
+        {
+          "version": "@aws-sdk/client-s3@3.862.0",
+          "tick": "2025-08-06T19:30:00.000Z"
+        },
+        {
+          "version": "@aws-sdk/client-sso-oidc@3.862.0",
+          "tick": "2025-08-06T19:30:00.000Z"
+        },
+        {
+          "version": "@aws-sdk/client-sts@3.862.0",
+          "tick": "2025-08-06T19:30:00.000Z"
+        },
+        {
+          "version": "eslint-plugin-react-hooks@0.0.0-experimental-3958d5d8-20250807",
+          "tick": "2025-08-07T16:30:00.000Z"
+        },
+        {
+          "version": "eslint-plugin-react-hooks@6.1.0-canary-3958d5d8-20250807",
+          "tick": "2025-08-07T16:30:00.000Z"
+        },
+        {
+          "version": "react-dom@0.0.0-experimental-3958d5d8-20250807",
+          "tick": "2025-08-07T16:30:00.000Z"
+        },
+        {
+          "version": "react-dom@19.2.0-canary-3958d5d8-20250807",
+          "tick": "2025-08-07T16:30:00.000Z"
+        },
+        {
+          "version": "react-is@0.0.0-experimental-3958d5d8-20250807",
+          "tick": "2025-08-07T16:30:00.000Z"
+        },
+        {
+          "version": "react-is@19.2.0-canary-3958d5d8-20250807",
+          "tick": "2025-08-07T16:30:00.000Z"
+        },
+        {
+          "version": "react-refresh@0.0.0-experimental-3958d5d8-20250807",
+          "tick": "2025-08-07T16:30:00.000Z"
+        },
+        {
+          "version": "react-refresh@0.18.0-canary-3958d5d8-20250807",
+          "tick": "2025-08-07T16:30:00.000Z"
+        },
+        {
+          "version": "react@0.0.0-experimental-3958d5d8-20250807",
+          "tick": "2025-08-07T16:30:00.000Z"
+        },
+        {
+          "version": "react@19.2.0-canary-3958d5d8-20250807",
+          "tick": "2025-08-07T16:30:00.000Z"
+        },
+        {
+          "version": "scheduler@0.0.0-experimental-3958d5d8-20250807",
+          "tick": "2025-08-07T16:30:00.000Z"
+        },
+        {
+          "version": "scheduler@0.27.0-canary-3958d5d8-20250807",
+          "tick": "2025-08-07T16:30:00.000Z"
+        },
+        {
+          "version": "use-sync-external-store@0.0.0-experimental-3958d5d8-20250807",
+          "tick": "2025-08-07T16:30:00.000Z"
+        },
+        {
+          "version": "use-sync-external-store@1.6.0-canary-3958d5d8-20250807",
+          "tick": "2025-08-07T16:30:00.000Z"
+        },
+        {
+          "version": "@aws-sdk/client-sso@3.863.0",
+          "tick": "2025-08-07T19:15:00.000Z"
+        },
+        {
+          "version": "@aws-sdk/core@3.863.0",
+          "tick": "2025-08-07T19:15:00.000Z"
+        },
+        {
+          "version": "@aws-sdk/credential-provider-env@3.863.0",
+          "tick": "2025-08-07T19:15:00.000Z"
+        },
+        {
+          "version": "@aws-sdk/credential-provider-http@3.863.0",
+          "tick": "2025-08-07T19:15:00.000Z"
+        },
+        {
+          "version": "@aws-sdk/credential-provider-ini@3.863.0",
+          "tick": "2025-08-07T19:15:00.000Z"
+        },
+        {
+          "version": "@aws-sdk/credential-provider-node@3.863.0",
+          "tick": "2025-08-07T19:15:00.000Z"
+        },
+        {
+          "version": "@aws-sdk/credential-provider-process@3.863.0",
+          "tick": "2025-08-07T19:15:00.000Z"
+        },
+        {
+          "version": "@aws-sdk/credential-provider-sso@3.863.0",
+          "tick": "2025-08-07T19:15:00.000Z"
+        },
+        {
+          "version": "@aws-sdk/credential-provider-web-identity@3.863.0",
+          "tick": "2025-08-07T19:15:00.000Z"
+        },
+        {
+          "version": "@aws-sdk/middleware-flexible-checksums@3.863.0",
+          "tick": "2025-08-07T19:15:00.000Z"
+        },
+        {
+          "version": "@aws-sdk/middleware-sdk-s3@3.863.0",
+          "tick": "2025-08-07T19:15:00.000Z"
+        },
+        {
+          "version": "@aws-sdk/middleware-user-agent@3.863.0",
+          "tick": "2025-08-07T19:15:00.000Z"
+        },
+        {
+          "version": "@aws-sdk/nested-clients@3.863.0",
+          "tick": "2025-08-07T19:15:00.000Z"
+        },
+        {
+          "version": "@aws-sdk/signature-v4-multi-region@3.863.0",
+          "tick": "2025-08-07T19:15:00.000Z"
+        },
+        {
+          "version": "@aws-sdk/token-providers@3.863.0",
+          "tick": "2025-08-07T19:15:00.000Z"
+        },
+        {
+          "version": "@aws-sdk/util-user-agent-node@3.863.0",
+          "tick": "2025-08-07T19:15:00.000Z"
+        },
+        {
+          "version": "@aws-sdk/client-s3@3.863.0",
+          "tick": "2025-08-07T19:30:00.000Z"
+        },
+        {
+          "version": "@aws-sdk/client-sso-oidc@3.863.0",
+          "tick": "2025-08-07T19:30:00.000Z"
+        },
+        {
+          "version": "@aws-sdk/client-sts@3.863.0",
+          "tick": "2025-08-07T19:30:00.000Z"
+        }
+      ],
+      "unlabelledFlags": [
+        "@aws-sdk/client-s3@3.859.0",
+        "@aws-sdk/client-s3@3.862.0",
+        "@aws-sdk/client-s3@3.863.0",
+        "@aws-sdk/client-sso-oidc@3.859.0",
+        "@aws-sdk/client-sso-oidc@3.862.0",
+        "@aws-sdk/client-sso-oidc@3.863.0",
+        "@aws-sdk/client-sso@3.862.0",
+        "@aws-sdk/client-sso@3.863.0",
+        "@aws-sdk/client-sts@3.859.0",
+        "@aws-sdk/client-sts@3.862.0",
+        "@aws-sdk/client-sts@3.863.0",
+        "@aws-sdk/core@3.862.0",
+        "@aws-sdk/core@3.863.0",
+        "@aws-sdk/credential-provider-env@3.862.0",
+        "@aws-sdk/credential-provider-env@3.863.0",
+        "@aws-sdk/credential-provider-http@3.862.0",
+        "@aws-sdk/credential-provider-http@3.863.0",
+        "@aws-sdk/credential-provider-ini@3.859.0",
+        "@aws-sdk/credential-provider-ini@3.862.0",
+        "@aws-sdk/credential-provider-ini@3.863.0",
+        "@aws-sdk/credential-provider-node@3.859.0",
+        "@aws-sdk/credential-provider-node@3.862.0",
+        "@aws-sdk/credential-provider-node@3.863.0",
+        "@aws-sdk/credential-provider-process@3.862.0",
+        "@aws-sdk/credential-provider-process@3.863.0",
+        "@aws-sdk/credential-provider-sso@3.859.0",
+        "@aws-sdk/credential-provider-sso@3.862.0",
+        "@aws-sdk/credential-provider-sso@3.863.0",
+        "@aws-sdk/credential-provider-web-identity@3.862.0",
+        "@aws-sdk/credential-provider-web-identity@3.863.0",
+        "@aws-sdk/middleware-bucket-endpoint@3.862.0",
+        "@aws-sdk/middleware-expect-continue@3.862.0",
+        "@aws-sdk/middleware-flexible-checksums@3.862.0",
+        "@aws-sdk/middleware-flexible-checksums@3.863.0",
+        "@aws-sdk/middleware-host-header@3.862.0",
+        "@aws-sdk/middleware-location-constraint@3.862.0",
+        "@aws-sdk/middleware-logger@3.862.0",
+        "@aws-sdk/middleware-recursion-detection@3.862.0",
+        "@aws-sdk/middleware-sdk-s3@3.862.0",
+        "@aws-sdk/middleware-sdk-s3@3.863.0",
+        "@aws-sdk/middleware-ssec@3.862.0",
+        "@aws-sdk/middleware-user-agent@3.862.0",
+        "@aws-sdk/middleware-user-agent@3.863.0",
+        "@aws-sdk/nested-clients@3.862.0",
+        "@aws-sdk/nested-clients@3.863.0",
+        "@aws-sdk/region-config-resolver@3.862.0",
+        "@aws-sdk/signature-v4-multi-region@3.862.0",
+        "@aws-sdk/signature-v4-multi-region@3.863.0",
+        "@aws-sdk/token-providers@3.859.0",
+        "@aws-sdk/token-providers@3.862.0",
+        "@aws-sdk/token-providers@3.863.0",
+        "@aws-sdk/types@3.862.0",
+        "@aws-sdk/util-endpoints@3.862.0",
+        "@aws-sdk/util-user-agent-browser@3.862.0",
+        "@aws-sdk/util-user-agent-node@3.862.0",
+        "@aws-sdk/util-user-agent-node@3.863.0",
+        "@aws-sdk/xml-builder@3.862.0",
+        "@smithy/abort-controller@4.0.5",
+        "@smithy/config-resolver@4.1.5",
+        "@smithy/core@3.8.0",
+        "@smithy/credential-provider-imds@4.0.7",
+        "@smithy/eventstream-codec@4.0.5",
+        "@smithy/eventstream-serde-browser@4.0.5",
+        "@smithy/eventstream-serde-config-resolver@4.1.3",
+        "@smithy/eventstream-serde-node@4.0.5",
+        "@smithy/eventstream-serde-universal@4.0.5",
+        "@smithy/fetch-http-handler@5.1.1",
+        "@smithy/hash-node@4.0.5",
+        "@smithy/invalid-dependency@4.0.5",
+        "@smithy/md5-js@4.0.5",
+        "@smithy/middleware-content-length@4.0.5",
+        "@smithy/middleware-endpoint@4.1.18",
+        "@smithy/middleware-retry@4.1.19",
+        "@smithy/middleware-serde@4.0.9",
+        "@smithy/middleware-stack@4.0.5",
+        "@smithy/node-config-provider@4.1.4",
+        "@smithy/node-http-handler@4.1.1",
+        "@smithy/property-provider@4.0.5",
+        "@smithy/protocol-http@5.1.3",
+        "@smithy/querystring-builder@4.0.5",
+        "@smithy/querystring-parser@4.0.5",
+        "@smithy/service-error-classification@4.0.7",
+        "@smithy/shared-ini-file-loader@4.0.5",
+        "@smithy/signature-v4@5.1.3",
+        "@smithy/smithy-client@4.4.10",
+        "@smithy/types@4.3.2",
+        "@smithy/url-parser@4.0.5",
+        "@smithy/util-defaults-mode-browser@4.0.26",
+        "@smithy/util-defaults-mode-node@4.0.26",
+        "@smithy/util-endpoints@3.0.7",
+        "@smithy/util-middleware@4.0.5",
+        "@smithy/util-retry@4.0.7",
+        "@smithy/util-stream@4.2.4",
+        "@smithy/util-waiter@4.0.7",
+        "@typescript-eslint/eslint-plugin@8.38.1-alpha.0",
+        "@typescript-eslint/eslint-plugin@8.38.1-alpha.1",
+        "@typescript-eslint/eslint-plugin@8.38.1-alpha.2",
+        "@typescript-eslint/eslint-plugin@8.38.1-alpha.3",
+        "@typescript-eslint/eslint-plugin@8.38.1-alpha.4",
+        "@typescript-eslint/eslint-plugin@8.38.1-alpha.5",
+        "@typescript-eslint/eslint-plugin@8.38.1-alpha.6",
+        "@typescript-eslint/eslint-plugin@8.38.1-alpha.7",
+        "@typescript-eslint/eslint-plugin@8.38.1-alpha.8",
+        "@typescript-eslint/eslint-plugin@8.39.0",
+        "@typescript-eslint/eslint-plugin@8.39.1-alpha.0",
+        "@typescript-eslint/eslint-plugin@8.39.1-alpha.1",
+        "@typescript-eslint/eslint-plugin@8.39.1-alpha.2",
+        "@typescript-eslint/parser@8.38.1-alpha.0",
+        "@typescript-eslint/parser@8.38.1-alpha.1",
+        "@typescript-eslint/parser@8.38.1-alpha.2",
+        "@typescript-eslint/parser@8.38.1-alpha.3",
+        "@typescript-eslint/parser@8.38.1-alpha.4",
+        "@typescript-eslint/parser@8.38.1-alpha.5",
+        "@typescript-eslint/parser@8.38.1-alpha.6",
+        "@typescript-eslint/parser@8.38.1-alpha.7",
+        "@typescript-eslint/parser@8.38.1-alpha.8",
+        "@typescript-eslint/parser@8.39.0",
+        "@typescript-eslint/parser@8.39.1-alpha.0",
+        "@typescript-eslint/parser@8.39.1-alpha.1",
+        "@typescript-eslint/parser@8.39.1-alpha.2",
+        "@typescript-eslint/scope-manager@8.38.1-alpha.0",
+        "@typescript-eslint/scope-manager@8.38.1-alpha.1",
+        "@typescript-eslint/scope-manager@8.38.1-alpha.2",
+        "@typescript-eslint/scope-manager@8.38.1-alpha.3",
+        "@typescript-eslint/scope-manager@8.38.1-alpha.4",
+        "@typescript-eslint/scope-manager@8.38.1-alpha.5",
+        "@typescript-eslint/scope-manager@8.38.1-alpha.6",
+        "@typescript-eslint/scope-manager@8.38.1-alpha.7",
+        "@typescript-eslint/scope-manager@8.38.1-alpha.8",
+        "@typescript-eslint/scope-manager@8.39.0",
+        "@typescript-eslint/scope-manager@8.39.1-alpha.0",
+        "@typescript-eslint/scope-manager@8.39.1-alpha.1",
+        "@typescript-eslint/scope-manager@8.39.1-alpha.2",
+        "@typescript-eslint/type-utils@8.38.1-alpha.0",
+        "@typescript-eslint/type-utils@8.38.1-alpha.1",
+        "@typescript-eslint/type-utils@8.38.1-alpha.2",
+        "@typescript-eslint/type-utils@8.38.1-alpha.3",
+        "@typescript-eslint/type-utils@8.38.1-alpha.4",
+        "@typescript-eslint/type-utils@8.38.1-alpha.5",
+        "@typescript-eslint/type-utils@8.38.1-alpha.6",
+        "@typescript-eslint/type-utils@8.38.1-alpha.7",
+        "@typescript-eslint/type-utils@8.38.1-alpha.8",
+        "@typescript-eslint/type-utils@8.39.0",
+        "@typescript-eslint/type-utils@8.39.1-alpha.0",
+        "@typescript-eslint/type-utils@8.39.1-alpha.1",
+        "@typescript-eslint/type-utils@8.39.1-alpha.2",
+        "@typescript-eslint/types@8.38.1-alpha.0",
+        "@typescript-eslint/types@8.38.1-alpha.1",
+        "@typescript-eslint/types@8.38.1-alpha.2",
+        "@typescript-eslint/types@8.38.1-alpha.3",
+        "@typescript-eslint/types@8.38.1-alpha.4",
+        "@typescript-eslint/types@8.38.1-alpha.5",
+        "@typescript-eslint/types@8.38.1-alpha.6",
+        "@typescript-eslint/types@8.38.1-alpha.7",
+        "@typescript-eslint/types@8.38.1-alpha.8",
+        "@typescript-eslint/types@8.39.0",
+        "@typescript-eslint/types@8.39.1-alpha.0",
+        "@typescript-eslint/types@8.39.1-alpha.1",
+        "@typescript-eslint/types@8.39.1-alpha.2",
+        "@typescript-eslint/typescript-estree@8.38.1-alpha.0",
+        "@typescript-eslint/typescript-estree@8.38.1-alpha.1",
+        "@typescript-eslint/typescript-estree@8.38.1-alpha.2",
+        "@typescript-eslint/typescript-estree@8.38.1-alpha.3",
+        "@typescript-eslint/typescript-estree@8.38.1-alpha.4",
+        "@typescript-eslint/typescript-estree@8.38.1-alpha.5",
+        "@typescript-eslint/typescript-estree@8.38.1-alpha.6",
+        "@typescript-eslint/typescript-estree@8.38.1-alpha.7",
+        "@typescript-eslint/typescript-estree@8.38.1-alpha.8",
+        "@typescript-eslint/typescript-estree@8.39.0",
+        "@typescript-eslint/typescript-estree@8.39.1-alpha.0",
+        "@typescript-eslint/typescript-estree@8.39.1-alpha.1",
+        "@typescript-eslint/typescript-estree@8.39.1-alpha.2",
+        "@typescript-eslint/utils@8.38.1-alpha.0",
+        "@typescript-eslint/utils@8.38.1-alpha.1",
+        "@typescript-eslint/utils@8.38.1-alpha.2",
+        "@typescript-eslint/utils@8.38.1-alpha.3",
+        "@typescript-eslint/utils@8.38.1-alpha.4",
+        "@typescript-eslint/utils@8.38.1-alpha.5",
+        "@typescript-eslint/utils@8.38.1-alpha.6",
+        "@typescript-eslint/utils@8.38.1-alpha.7",
+        "@typescript-eslint/utils@8.38.1-alpha.8",
+        "@typescript-eslint/utils@8.39.0",
+        "@typescript-eslint/utils@8.39.1-alpha.0",
+        "@typescript-eslint/utils@8.39.1-alpha.1",
+        "@typescript-eslint/utils@8.39.1-alpha.2",
+        "@typescript-eslint/visitor-keys@8.38.1-alpha.0",
+        "@typescript-eslint/visitor-keys@8.38.1-alpha.1",
+        "@typescript-eslint/visitor-keys@8.38.1-alpha.2",
+        "@typescript-eslint/visitor-keys@8.38.1-alpha.3",
+        "@typescript-eslint/visitor-keys@8.38.1-alpha.4",
+        "@typescript-eslint/visitor-keys@8.38.1-alpha.5",
+        "@typescript-eslint/visitor-keys@8.38.1-alpha.6",
+        "@typescript-eslint/visitor-keys@8.38.1-alpha.7",
+        "@typescript-eslint/visitor-keys@8.38.1-alpha.8",
+        "@typescript-eslint/visitor-keys@8.39.0",
+        "@typescript-eslint/visitor-keys@8.39.1-alpha.0",
+        "@typescript-eslint/visitor-keys@8.39.1-alpha.1",
+        "@typescript-eslint/visitor-keys@8.39.1-alpha.2",
+        "@vitest/expect@4.0.0-beta.6",
+        "@vitest/pretty-format@4.0.0-beta.6",
+        "@vitest/runner@4.0.0-beta.6",
+        "@vitest/snapshot@4.0.0-beta.6",
+        "@vitest/spy@4.0.0-beta.6",
+        "@vitest/utils@4.0.0-beta.6",
+        "eslint-plugin-react-hooks@0.0.0-experimental-3958d5d8-20250807",
+        "eslint-plugin-react-hooks@0.0.0-experimental-66f09bd0-20250806",
+        "eslint-plugin-react-hooks@0.0.0-experimental-7deda941-20250804",
+        "eslint-plugin-react-hooks@0.0.0-experimental-bdb4a96f-20250801",
+        "eslint-plugin-react-hooks@0.0.0-experimental-be11cb5c-20250804",
+        "eslint-plugin-react-hooks@6.1.0-canary-3958d5d8-20250807",
+        "eslint-plugin-react-hooks@6.1.0-canary-66f09bd0-20250806",
+        "eslint-plugin-react-hooks@6.1.0-canary-7deda941-20250804",
+        "eslint-plugin-react-hooks@6.1.0-canary-bdb4a96f-20250801",
+        "eslint-plugin-react-hooks@6.1.0-canary-be11cb5c-20250804",
+        "react-dom@0.0.0-experimental-3958d5d8-20250807",
+        "react-dom@0.0.0-experimental-66f09bd0-20250806",
+        "react-dom@0.0.0-experimental-7deda941-20250804",
+        "react-dom@0.0.0-experimental-bdb4a96f-20250801",
+        "react-dom@0.0.0-experimental-be11cb5c-20250804",
+        "react-dom@19.2.0-canary-3958d5d8-20250807",
+        "react-dom@19.2.0-canary-66f09bd0-20250806",
+        "react-dom@19.2.0-canary-7deda941-20250804",
+        "react-dom@19.2.0-canary-bdb4a96f-20250801",
+        "react-dom@19.2.0-canary-be11cb5c-20250804",
+        "react-is@0.0.0-experimental-3958d5d8-20250807",
+        "react-is@0.0.0-experimental-66f09bd0-20250806",
+        "react-is@0.0.0-experimental-7deda941-20250804",
+        "react-is@0.0.0-experimental-bdb4a96f-20250801",
+        "react-is@0.0.0-experimental-be11cb5c-20250804",
+        "react-is@19.2.0-canary-3958d5d8-20250807",
+        "react-is@19.2.0-canary-66f09bd0-20250806",
+        "react-is@19.2.0-canary-7deda941-20250804",
+        "react-is@19.2.0-canary-bdb4a96f-20250801",
+        "react-is@19.2.0-canary-be11cb5c-20250804",
+        "react-refresh@0.0.0-experimental-3958d5d8-20250807",
+        "react-refresh@0.0.0-experimental-66f09bd0-20250806",
+        "react-refresh@0.0.0-experimental-7deda941-20250804",
+        "react-refresh@0.0.0-experimental-bdb4a96f-20250801",
+        "react-refresh@0.0.0-experimental-be11cb5c-20250804",
+        "react-refresh@0.18.0-canary-3958d5d8-20250807",
+        "react-refresh@0.18.0-canary-66f09bd0-20250806",
+        "react-refresh@0.18.0-canary-7deda941-20250804",
+        "react-refresh@0.18.0-canary-bdb4a96f-20250801",
+        "react-refresh@0.18.0-canary-be11cb5c-20250804",
+        "react@0.0.0-experimental-3958d5d8-20250807",
+        "react@0.0.0-experimental-66f09bd0-20250806",
+        "react@0.0.0-experimental-7deda941-20250804",
+        "react@0.0.0-experimental-bdb4a96f-20250801",
+        "react@0.0.0-experimental-be11cb5c-20250804",
+        "react@19.2.0-canary-3958d5d8-20250807",
+        "react@19.2.0-canary-66f09bd0-20250806",
+        "react@19.2.0-canary-7deda941-20250804",
+        "react@19.2.0-canary-bdb4a96f-20250801",
+        "react@19.2.0-canary-be11cb5c-20250804",
+        "scheduler@0.0.0-experimental-3958d5d8-20250807",
+        "scheduler@0.0.0-experimental-66f09bd0-20250806",
+        "scheduler@0.0.0-experimental-7deda941-20250804",
+        "scheduler@0.0.0-experimental-bdb4a96f-20250801",
+        "scheduler@0.0.0-experimental-be11cb5c-20250804",
+        "scheduler@0.27.0-canary-3958d5d8-20250807",
+        "scheduler@0.27.0-canary-66f09bd0-20250806",
+        "scheduler@0.27.0-canary-7deda941-20250804",
+        "scheduler@0.27.0-canary-bdb4a96f-20250801",
+        "scheduler@0.27.0-canary-be11cb5c-20250804",
+        "typescript-eslint@8.38.1-alpha.0",
+        "typescript-eslint@8.38.1-alpha.1",
+        "typescript-eslint@8.38.1-alpha.2",
+        "typescript-eslint@8.38.1-alpha.3",
+        "typescript-eslint@8.38.1-alpha.4",
+        "typescript-eslint@8.38.1-alpha.5",
+        "typescript-eslint@8.38.1-alpha.6",
+        "typescript-eslint@8.38.1-alpha.7",
+        "typescript-eslint@8.38.1-alpha.8",
+        "typescript-eslint@8.39.0",
+        "typescript-eslint@8.39.1-alpha.0",
+        "typescript-eslint@8.39.1-alpha.1",
+        "typescript-eslint@8.39.1-alpha.2",
+        "use-sync-external-store@0.0.0-experimental-3958d5d8-20250807",
+        "use-sync-external-store@0.0.0-experimental-66f09bd0-20250806",
+        "use-sync-external-store@0.0.0-experimental-7deda941-20250804",
+        "use-sync-external-store@0.0.0-experimental-bdb4a96f-20250801",
+        "use-sync-external-store@0.0.0-experimental-be11cb5c-20250804",
+        "use-sync-external-store@1.6.0-canary-3958d5d8-20250807",
+        "use-sync-external-store@1.6.0-canary-66f09bd0-20250806",
+        "use-sync-external-store@1.6.0-canary-7deda941-20250804",
+        "use-sync-external-store@1.6.0-canary-bdb4a96f-20250801",
+        "use-sync-external-store@1.6.0-canary-be11cb5c-20250804",
+        "vite-node@4.0.0-beta.6",
+        "vitest@4.0.0-beta.6"
+      ]
+    }
+  ],
+  "limitations": [
+    "All historical metrics are retrospective and use later-observed metadata. They do not establish real pre-advisory detection.",
+    "First public advisory cutoffs remain unverified unless supplied explicitly; those recall/lead metrics are null. OSV publication is a separately named reference cutoff.",
+    "Shai-Hulud coverage means the pinned primary IOC union, not proof that every compromised package globally is listed. Missing facts count against all-reference recall.",
+    "Reference precision treats unlabelled flags as negatives against the supplied IOC set; it does not independently prove those releases benign.",
+    "Quiet-week flags per 1000 publishes assume the selected week is benign. The 2000-package cohort is pre-control download-ranked, not a verified exact August global ranking.",
+    "Event-time detection is sampled onto 15-minute replay ticks; equivalence to literal tick replay is tested. No lockfile dependency graph is included in this ecosystem benchmark."
+  ]
+}

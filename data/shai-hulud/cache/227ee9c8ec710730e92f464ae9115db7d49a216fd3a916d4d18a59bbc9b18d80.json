@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "pkg": "globalize-rpk",
+  "source": "https://registry.npmjs.org/globalize-rpk",
+  "fetchedAt": "2026-11-16T10:32:20.590Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 5
+  },
+  "sourceSha256": "d66d6042e6c2b3c361a5c9a88aa48b10476cdc454ff7250b1b5962c2a5103de7",
+  "versions": [
+    {
+      "pkg": "globalize-rpk",
+      "semver": "1.7.3",
+      "publishedAt": "2022-01-24T10:02:32.081Z",
+      "publisher": "hlobo96",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 516299,
+      "dependencies": {
+        "cldrjs": "^0.5.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/globalize-rpk",
+          "observedAt": "2026-11-16T10:32:20.590Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/globalize-rpk",
+          "observedAt": "2026-11-16T10:32:20.590Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/globalize-rpk",
+          "observedAt": "2026-11-16T10:32:20.590Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/globalize-rpk",
+          "observedAt": "2026-11-16T10:32:20.590Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/globalize-rpk",
+          "observedAt": "2026-11-16T10:32:20.590Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/globalize-rpk",
+          "observedAt": "2026-11-16T10:32:20.590Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "globalize-rpk",
+      "semver": "1.7.4",
+      "publishedAt": "2025-09-15T07:43:24.782Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/globalize-rpk",
+          "observedAt": "2026-11-16T10:32:20.590Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

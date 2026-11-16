@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@ctrl/golang-template",
+  "source": "https://registry.npmjs.org/%40ctrl%2Fgolang-template",
+  "fetchedAt": "2026-11-16T10:31:12.150Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 25
+  },
+  "sourceSha256": "8f83a2fbbf49357e059a0e74788161cdfe88e7ed0b8f999b482e991294c1cfba",
+  "versions": [
+    {
+      "pkg": "@ctrl/golang-template",
+      "semver": "1.4.1",
+      "publishedAt": "2022-09-05T15:08:42.019Z",
+      "publisher": "scttcper",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 20831,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fgolang-template",
+          "observedAt": "2026-11-16T10:31:12.150Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fgolang-template",
+          "observedAt": "2026-11-16T10:31:12.150Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fgolang-template",
+          "observedAt": "2026-11-16T10:31:12.150Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fgolang-template",
+          "observedAt": "2026-11-16T10:31:12.150Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fgolang-template",
+          "observedAt": "2026-11-16T10:31:12.150Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fgolang-template",
+          "observedAt": "2026-11-16T10:31:12.150Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@ctrl/golang-template",
+      "semver": "1.4.2",
+      "publishedAt": "2025-09-15T19:52:43.216Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fgolang-template",
+          "observedAt": "2026-11-16T10:31:12.150Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@ctrl/golang-template",
+      "semver": "1.4.3",
+      "publishedAt": "2025-09-15T20:13:44.472Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fgolang-template",
+          "observedAt": "2026-11-16T10:31:12.150Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@ctrl/golang-template",
+      "semver": "1.5.0",
+      "publishedAt": "2025-09-16T08:31:36.040Z",
+      "publisher": "scttcper",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 20919,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fgolang-template",
+          "observedAt": "2026-11-16T10:31:12.150Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fgolang-template",
+          "observedAt": "2026-11-16T10:31:12.150Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fgolang-template",
+          "observedAt": "2026-11-16T10:31:12.150Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fgolang-template",
+          "observedAt": "2026-11-16T10:31:12.150Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fgolang-template",
+          "observedAt": "2026-11-16T10:31:12.150Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fgolang-template",
+          "observedAt": "2026-11-16T10:31:12.150Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

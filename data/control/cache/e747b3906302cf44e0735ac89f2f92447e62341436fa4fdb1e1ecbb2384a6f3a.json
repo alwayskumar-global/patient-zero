@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "deep-extend",
+  "source": "https://registry.npmjs.org/deep-extend",
+  "fetchedAt": "2026-11-16T10:34:59.460Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 21
+  },
+  "sourceSha256": "fd3597fa8b7d02871984b86424ee78247bff9df9b17e7f2a39bed7faf96c6cd9",
+  "versions": [
+    {
+      "pkg": "deep-extend",
+      "semver": "0.6.0",
+      "publishedAt": "2018-05-22T18:13:17.476Z",
+      "publisher": "unclechu",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 9190,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/deep-extend",
+          "observedAt": "2026-11-16T10:34:59.460Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/deep-extend",
+          "observedAt": "2026-11-16T10:34:59.460Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/deep-extend",
+          "observedAt": "2026-11-16T10:34:59.460Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/deep-extend",
+          "observedAt": "2026-11-16T10:34:59.460Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/deep-extend",
+          "observedAt": "2026-11-16T10:34:59.460Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/deep-extend",
+          "observedAt": "2026-11-16T10:34:59.460Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

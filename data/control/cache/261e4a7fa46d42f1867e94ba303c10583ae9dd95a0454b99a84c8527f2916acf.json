@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "fast-json-stable-stringify",
+  "source": "https://registry.npmjs.org/fast-json-stable-stringify",
+  "fetchedAt": "2026-11-16T10:35:02.079Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 3
+  },
+  "sourceSha256": "7ce437491b9a8c7cce11cadc23f35d9d052490e5aa121c7ab64a3429a76921c1",
+  "versions": [
+    {
+      "pkg": "fast-json-stable-stringify",
+      "semver": "2.1.0",
+      "publishedAt": "2019-12-14T16:17:57.583Z",
+      "publisher": "esp",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 16959,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/fast-json-stable-stringify",
+          "observedAt": "2026-11-16T10:35:02.079Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/fast-json-stable-stringify",
+          "observedAt": "2026-11-16T10:35:02.079Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/fast-json-stable-stringify",
+          "observedAt": "2026-11-16T10:35:02.079Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/fast-json-stable-stringify",
+          "observedAt": "2026-11-16T10:35:02.079Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/fast-json-stable-stringify",
+          "observedAt": "2026-11-16T10:35:02.079Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/fast-json-stable-stringify",
+          "observedAt": "2026-11-16T10:35:02.079Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

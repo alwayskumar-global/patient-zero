@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@babel/preset-modules",
+  "source": "https://registry.npmjs.org/%40babel%2Fpreset-modules",
+  "fetchedAt": "2026-11-16T10:34:33.606Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 10
+  },
+  "sourceSha256": "9c0723103cfb389f1a6a9af4a3def94f2f88efbee13d37f8f0b6ab61291826c3",
+  "versions": [
+    {
+      "pkg": "@babel/preset-modules",
+      "semver": "0.0.1",
+      "publishedAt": "2019-11-08T16:17:56.773Z",
+      "publisher": "hzoo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 344,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fpreset-modules",
+          "observedAt": "2026-11-16T10:34:33.606Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fpreset-modules",
+          "observedAt": "2026-11-16T10:34:33.606Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fpreset-modules",
+          "observedAt": "2026-11-16T10:34:33.606Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fpreset-modules",
+          "observedAt": "2026-11-16T10:34:33.606Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fpreset-modules",
+          "observedAt": "2026-11-16T10:34:33.606Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fpreset-modules",
+          "observedAt": "2026-11-16T10:34:33.606Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/preset-modules",
+      "semver": "0.1.5",
+      "publishedAt": "2021-10-21T17:05:53.643Z",
+      "publisher": "developit",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 38809,
+      "dependencies": {
+        "esutils": "^2.0.2",
+        "@babel/types": "^7.4.4",
+        "@babel/helper-plugin-utils": "^7.0.0",
+        "@babel/plugin-transform-dotall-regex": "^7.4.4",
+        "@babel/plugin-proposal-unicode-property-regex": "^7.4.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fpreset-modules",
+          "observedAt": "2026-11-16T10:34:33.606Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fpreset-modules",
+          "observedAt": "2026-11-16T10:34:33.606Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fpreset-modules",
+          "observedAt": "2026-11-16T10:34:33.606Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fpreset-modules",
+          "observedAt": "2026-11-16T10:34:33.606Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fpreset-modules",
+          "observedAt": "2026-11-16T10:34:33.606Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fpreset-modules",
+          "observedAt": "2026-11-16T10:34:33.606Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/preset-modules",
+      "semver": "0.1.6-no-external-plugins",
+      "publishedAt": "2023-07-21T17:36:24.876Z",
+      "publisher": "nicolo-ribaudo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 38576,
+      "dependencies": {
+        "esutils": "^2.0.2",
+        "@babel/types": "^7.4.4",
+        "@babel/helper-plugin-utils": "^7.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fpreset-modules",
+          "observedAt": "2026-11-16T10:34:33.606Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fpreset-modules",
+          "observedAt": "2026-11-16T10:34:33.606Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fpreset-modules",
+          "observedAt": "2026-11-16T10:34:33.606Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fpreset-modules",
+          "observedAt": "2026-11-16T10:34:33.606Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fpreset-modules",
+          "observedAt": "2026-11-16T10:34:33.606Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fpreset-modules",
+          "observedAt": "2026-11-16T10:34:33.606Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

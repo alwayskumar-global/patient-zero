@@ -1,0 +1,510 @@
+{
+  "schemaVersion": 1,
+  "pkg": "webpack-dev-server",
+  "source": "https://registry.npmjs.org/webpack-dev-server",
+  "fetchedAt": "2026-11-16T10:35:34.613Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 229
+  },
+  "sourceSha256": "c6154957ae48109fb276534ba4748f4e60dd34971c1bff453f766f3e6a5d4443",
+  "versions": [
+    {
+      "pkg": "webpack-dev-server",
+      "semver": "2.10.1",
+      "publishedAt": "2018-01-09T13:52:49.848Z",
+      "publisher": "shellscape",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "ip": "^1.1.5",
+        "del": "^3.0.0",
+        "opn": "^5.1.0",
+        "spdy": "^3.4.1",
+        "debug": "^3.1.0",
+        "yargs": "6.6.0",
+        "sockjs": "0.3.19",
+        "bonjour": "^3.5.0",
+        "express": "^4.16.2",
+        "chokidar": "^2.0.0",
+        "killable": "^1.0.0",
+        "loglevel": "^1.4.1",
+        "ansi-html": "0.0.7",
+        "portfinder": "^1.0.9",
+        "selfsigned": "^1.9.1",
+        "strip-ansi": "^4.0.0",
+        "compression": "^1.5.2",
+        "internal-ip": "1.2.0",
+        "serve-index": "^1.7.2",
+        "import-local": "^1.0.0",
+        "html-entities": "^1.2.0",
+        "sockjs-client": "1.1.4",
+        "array-includes": "^3.0.3",
+        "supports-color": "^5.1.0",
+        "http-proxy-middleware": "~0.17.4",
+        "webpack-dev-middleware": "1.12.2",
+        "connect-history-api-fallback": "^1.3.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/webpack-dev-server",
+          "observedAt": "2026-11-16T10:35:34.613Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/webpack-dev-server",
+          "observedAt": "2026-11-16T10:35:34.613Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/webpack-dev-server",
+          "observedAt": "2026-11-16T10:35:34.613Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/webpack-dev-server",
+          "observedAt": "2026-11-16T10:35:34.613Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/webpack-dev-server",
+          "observedAt": "2026-11-16T10:35:34.613Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "webpack-dev-server",
+      "semver": "2.11.0",
+      "publishedAt": "2018-01-14T11:25:14.442Z",
+      "publisher": "sokra",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "ip": "^1.1.5",
+        "del": "^3.0.0",
+        "opn": "^5.1.0",
+        "spdy": "^3.4.1",
+        "debug": "^3.1.0",
+        "yargs": "6.6.0",
+        "sockjs": "0.3.19",
+        "bonjour": "^3.5.0",
+        "express": "^4.16.2",
+        "chokidar": "^2.0.0",
+        "killable": "^1.0.0",
+        "loglevel": "^1.4.1",
+        "ansi-html": "0.0.7",
+        "portfinder": "^1.0.9",
+        "selfsigned": "^1.9.1",
+        "strip-ansi": "^4.0.0",
+        "compression": "^1.5.2",
+        "internal-ip": "1.2.0",
+        "serve-index": "^1.7.2",
+        "import-local": "^1.0.0",
+        "html-entities": "^1.2.0",
+        "sockjs-client": "1.1.4",
+        "array-includes": "^3.0.3",
+        "supports-color": "^5.1.0",
+        "http-proxy-middleware": "~0.17.4",
+        "webpack-dev-middleware": "1.12.2",
+        "connect-history-api-fallback": "^1.3.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/webpack-dev-server",
+          "observedAt": "2026-11-16T10:35:34.613Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/webpack-dev-server",
+          "observedAt": "2026-11-16T10:35:34.613Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/webpack-dev-server",
+          "observedAt": "2026-11-16T10:35:34.613Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/webpack-dev-server",
+          "observedAt": "2026-11-16T10:35:34.613Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/webpack-dev-server",
+          "observedAt": "2026-11-16T10:35:34.613Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "webpack-dev-server",
+      "semver": "2.5.1",
+      "publishedAt": "2017-07-07T05:55:38.042Z",
+      "publisher": "thelarkinn",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "del": "^3.0.0",
+        "opn": "4.0.2",
+        "spdy": "^3.4.1",
+        "yargs": "^6.0.0",
+        "sockjs": "0.3.18",
+        "bonjour": "^3.5.0",
+        "express": "^4.13.3",
+        "chokidar": "^1.6.0",
+        "ansi-html": "0.0.7",
+        "portfinder": "^1.0.9",
+        "selfsigned": "^1.9.1",
+        "strip-ansi": "^3.0.0",
+        "compression": "^1.5.2",
+        "internal-ip": "^1.2.0",
+        "serve-index": "^1.7.2",
+        "html-entities": "^1.2.0",
+        "sockjs-client": "1.1.2",
+        "supports-color": "^3.1.1",
+        "http-proxy-middleware": "~0.17.4",
+        "webpack-dev-middleware": "^1.11.0",
+        "connect-history-api-fallback": "^1.3.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/webpack-dev-server",
+          "observedAt": "2026-11-16T10:35:34.613Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/webpack-dev-server",
+          "observedAt": "2026-11-16T10:35:34.613Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/webpack-dev-server",
+          "observedAt": "2026-11-16T10:35:34.613Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/webpack-dev-server",
+          "observedAt": "2026-11-16T10:35:34.613Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/webpack-dev-server",
+          "observedAt": "2026-11-16T10:35:34.613Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "webpack-dev-server",
+      "semver": "2.7.0",
+      "publishedAt": "2017-08-08T12:19:57.400Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/webpack-dev-server",
+          "observedAt": "2026-11-16T10:35:34.613Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "webpack-dev-server",
+      "semver": "3.1.10",
+      "publishedAt": "2018-10-23T02:57:41.343Z",
+      "publisher": "michael-ciniawsky",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 448536,
+      "dependencies": {
+        "ip": "^1.1.5",
+        "del": "^3.0.0",
+        "opn": "^5.1.0",
+        "spdy": "^3.4.1",
+        "debug": "^3.1.0",
+        "yargs": "12.0.2",
+        "sockjs": "0.3.19",
+        "bonjour": "^3.5.0",
+        "express": "^4.16.2",
+        "chokidar": "^2.0.0",
+        "killable": "^1.0.0",
+        "loglevel": "^1.4.1",
+        "ansi-html": "0.0.7",
+        "portfinder": "^1.0.9",
+        "selfsigned": "^1.9.1",
+        "strip-ansi": "^3.0.0",
+        "compression": "^1.5.2",
+        "internal-ip": "^3.0.1",
+        "serve-index": "^1.7.2",
+        "webpack-log": "^2.0.0",
+        "import-local": "^2.0.0",
+        "schema-utils": "^1.0.0",
+        "html-entities": "^1.2.0",
+        "sockjs-client": "1.3.0",
+        "supports-color": "^5.1.0",
+        "http-proxy-middleware": "~0.18.0",
+        "webpack-dev-middleware": "3.4.0",
+        "connect-history-api-fallback": "^1.3.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/webpack-dev-server",
+          "observedAt": "2026-11-16T10:35:34.613Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/webpack-dev-server",
+          "observedAt": "2026-11-16T10:35:34.613Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/webpack-dev-server",
+          "observedAt": "2026-11-16T10:35:34.613Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/webpack-dev-server",
+          "observedAt": "2026-11-16T10:35:34.613Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/webpack-dev-server",
+          "observedAt": "2026-11-16T10:35:34.613Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/webpack-dev-server",
+          "observedAt": "2026-11-16T10:35:34.613Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "webpack-dev-server",
+      "semver": "3.1.9",
+      "publishedAt": "2018-09-24T19:19:05.610Z",
+      "publisher": "spacek33z",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 449779,
+      "dependencies": {
+        "ip": "^1.1.5",
+        "del": "^3.0.0",
+        "opn": "^5.1.0",
+        "spdy": "^3.4.1",
+        "debug": "^3.1.0",
+        "yargs": "12.0.2",
+        "sockjs": "0.3.19",
+        "bonjour": "^3.5.0",
+        "express": "^4.16.2",
+        "chokidar": "^2.0.0",
+        "killable": "^1.0.0",
+        "loglevel": "^1.4.1",
+        "ansi-html": "0.0.7",
+        "portfinder": "^1.0.9",
+        "selfsigned": "^1.9.1",
+        "strip-ansi": "^3.0.0",
+        "compression": "^1.5.2",
+        "internal-ip": "^3.0.1",
+        "serve-index": "^1.7.2",
+        "webpack-log": "^2.0.0",
+        "import-local": "^2.0.0",
+        "schema-utils": "^1.0.0",
+        "html-entities": "^1.2.0",
+        "sockjs-client": "1.1.5",
+        "supports-color": "^5.1.0",
+        "http-proxy-middleware": "~0.18.0",
+        "webpack-dev-middleware": "3.4.0",
+        "connect-history-api-fallback": "^1.3.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/webpack-dev-server",
+          "observedAt": "2026-11-16T10:35:34.613Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/webpack-dev-server",
+          "observedAt": "2026-11-16T10:35:34.613Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/webpack-dev-server",
+          "observedAt": "2026-11-16T10:35:34.613Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/webpack-dev-server",
+          "observedAt": "2026-11-16T10:35:34.613Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/webpack-dev-server",
+          "observedAt": "2026-11-16T10:35:34.613Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/webpack-dev-server",
+          "observedAt": "2026-11-16T10:35:34.613Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "webpack-dev-server",
+      "semver": "3.8.0",
+      "publishedAt": "2019-08-09T17:12:17.117Z",
+      "publisher": "hiroppy",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 510709,
+      "dependencies": {
+        "ip": "^1.1.5",
+        "ws": "^6.2.1",
+        "del": "^4.1.1",
+        "opn": "^5.5.0",
+        "url": "^0.11.0",
+        "spdy": "^4.0.1",
+        "debug": "^4.1.1",
+        "yargs": "12.0.5",
+        "semver": "^6.3.0",
+        "sockjs": "0.3.19",
+        "bonjour": "^3.5.0",
+        "express": "^4.17.1",
+        "p-retry": "^3.0.1",
+        "chokidar": "^2.1.6",
+        "killable": "^1.0.1",
+        "loglevel": "^1.6.3",
+        "ansi-html": "0.0.7",
+        "portfinder": "^1.0.21",
+        "selfsigned": "^1.10.4",
+        "strip-ansi": "^3.0.1",
+        "compression": "^1.7.4",
+        "internal-ip": "^4.3.0",
+        "serve-index": "^1.9.1",
+        "webpack-log": "^2.0.0",
+        "import-local": "^2.0.0",
+        "schema-utils": "^1.0.0",
+        "html-entities": "^1.2.1",
+        "sockjs-client": "1.3.0",
+        "supports-color": "^6.1.0",
+        "is-absolute-url": "^3.0.0",
+        "http-proxy-middleware": "^0.19.1",
+        "webpack-dev-middleware": "^3.7.0",
+        "connect-history-api-fallback": "^1.6.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/webpack-dev-server",
+          "observedAt": "2026-11-16T10:35:34.613Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/webpack-dev-server",
+          "observedAt": "2026-11-16T10:35:34.613Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/webpack-dev-server",
+          "observedAt": "2026-11-16T10:35:34.613Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/webpack-dev-server",
+          "observedAt": "2026-11-16T10:35:34.613Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/webpack-dev-server",
+          "observedAt": "2026-11-16T10:35:34.613Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/webpack-dev-server",
+          "observedAt": "2026-11-16T10:35:34.613Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "webpack-dev-server",
+      "semver": "5.2.2",
+      "publishedAt": "2025-06-03T15:54:06.578Z",
+      "publisher": "evilebottnawi",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 548807,
+      "dependencies": {
+        "ws": "^8.18.0",
+        "open": "^10.0.3",
+        "spdy": "^4.0.2",
+        "sockjs": "^0.3.24",
+        "express": "^4.21.2",
+        "p-retry": "^6.2.0",
+        "chokidar": "^3.6.0",
+        "@types/ws": "^8.5.10",
+        "colorette": "^2.0.10",
+        "ipaddr.js": "^2.1.0",
+        "selfsigned": "^2.4.1",
+        "compression": "^1.7.4",
+        "graceful-fs": "^4.2.6",
+        "serve-index": "^1.9.1",
+        "schema-utils": "^4.2.0",
+        "@types/sockjs": "^0.3.36",
+        "launch-editor": "^2.6.1",
+        "@types/bonjour": "^3.5.13",
+        "@types/express": "^4.17.21",
+        "bonjour-service": "^1.2.1",
+        "@types/serve-index": "^1.9.4",
+        "@types/serve-static": "^1.15.5",
+        "ansi-html-community": "^0.0.8",
+        "http-proxy-middleware": "^2.0.9",
+        "webpack-dev-middleware": "^7.4.2",
+        "connect-history-api-fallback": "^2.0.0",
+        "@types/express-serve-static-core": "^4.17.21",
+        "@types/connect-history-api-fallback": "^1.5.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/webpack-dev-server",
+          "observedAt": "2026-11-16T10:35:34.613Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/webpack-dev-server",
+          "observedAt": "2026-11-16T10:35:34.613Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/webpack-dev-server",
+          "observedAt": "2026-11-16T10:35:34.613Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/webpack-dev-server",
+          "observedAt": "2026-11-16T10:35:34.613Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/webpack-dev-server",
+          "observedAt": "2026-11-16T10:35:34.613Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/webpack-dev-server",
+          "observedAt": "2026-11-16T10:35:34.613Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

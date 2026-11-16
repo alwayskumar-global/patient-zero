@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@smithy/util-stream",
+  "source": "https://registry.npmjs.org/%40smithy%2Futil-stream",
+  "fetchedAt": "2026-11-16T10:34:41.970Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 130
+  },
+  "sourceSha256": "c872747c164f8071e2d26e62d193203c9e33b1000360b33af10ea2529778590f",
+  "versions": [
+    {
+      "pkg": "@smithy/util-stream",
+      "semver": "4.2.3",
+      "publishedAt": "2025-07-09T14:46:31.451Z",
+      "publisher": "smithy-team",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 88409,
+      "dependencies": {
+        "tslib": "^2.6.2",
+        "@smithy/types": "^4.3.1",
+        "@smithy/util-utf8": "^4.0.0",
+        "@smithy/util-base64": "^4.0.0",
+        "@smithy/util-buffer-from": "^4.0.0",
+        "@smithy/node-http-handler": "^4.1.0",
+        "@smithy/util-hex-encoding": "^4.0.0",
+        "@smithy/fetch-http-handler": "^5.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40smithy%2Futil-stream",
+          "observedAt": "2026-11-16T10:34:41.970Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40smithy%2Futil-stream",
+          "observedAt": "2026-11-16T10:34:41.970Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40smithy%2Futil-stream",
+          "observedAt": "2026-11-16T10:34:41.970Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40smithy%2Futil-stream",
+          "observedAt": "2026-11-16T10:34:41.970Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40smithy%2Futil-stream",
+          "observedAt": "2026-11-16T10:34:41.970Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40smithy%2Futil-stream",
+          "observedAt": "2026-11-16T10:34:41.970Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@smithy/util-stream",
+      "semver": "4.2.4",
+      "publishedAt": "2025-08-06T16:59:38.595Z",
+      "publisher": "smithy-team",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 88409,
+      "dependencies": {
+        "tslib": "^2.6.2",
+        "@smithy/types": "^4.3.2",
+        "@smithy/util-utf8": "^4.0.0",
+        "@smithy/util-base64": "^4.0.0",
+        "@smithy/util-buffer-from": "^4.0.0",
+        "@smithy/node-http-handler": "^4.1.1",
+        "@smithy/util-hex-encoding": "^4.0.0",
+        "@smithy/fetch-http-handler": "^5.1.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40smithy%2Futil-stream",
+          "observedAt": "2026-11-16T10:34:41.970Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40smithy%2Futil-stream",
+          "observedAt": "2026-11-16T10:34:41.970Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40smithy%2Futil-stream",
+          "observedAt": "2026-11-16T10:34:41.970Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40smithy%2Futil-stream",
+          "observedAt": "2026-11-16T10:34:41.970Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40smithy%2Futil-stream",
+          "observedAt": "2026-11-16T10:34:41.970Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40smithy%2Futil-stream",
+          "observedAt": "2026-11-16T10:34:41.970Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

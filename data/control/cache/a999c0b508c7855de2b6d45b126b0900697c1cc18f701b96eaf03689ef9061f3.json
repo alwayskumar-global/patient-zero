@@ -1,0 +1,116 @@
+{
+  "schemaVersion": 1,
+  "pkg": "rfdc",
+  "source": "https://registry.npmjs.org/rfdc",
+  "fetchedAt": "2026-11-16T10:35:25.028Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 15
+  },
+  "sourceSha256": "5776fa4cacba3ea1aca98b341cd1e02403ba745b34ca4379cbbe68bf7f85dbc2",
+  "versions": [
+    {
+      "pkg": "rfdc",
+      "semver": "1.1.0",
+      "publishedAt": "2018-05-19T20:40:48.640Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/rfdc",
+          "observedAt": "2026-11-16T10:35:25.028Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "rfdc",
+      "semver": "1.3.0",
+      "publishedAt": "2021-03-14T19:11:21.973Z",
+      "publisher": "davidmarkclements",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 24045,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/rfdc",
+          "observedAt": "2026-11-16T10:35:25.028Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/rfdc",
+          "observedAt": "2026-11-16T10:35:25.028Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/rfdc",
+          "observedAt": "2026-11-16T10:35:25.028Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/rfdc",
+          "observedAt": "2026-11-16T10:35:25.028Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/rfdc",
+          "observedAt": "2026-11-16T10:35:25.028Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/rfdc",
+          "observedAt": "2026-11-16T10:35:25.028Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "rfdc",
+      "semver": "1.4.1",
+      "publishedAt": "2024-06-12T10:18:29.594Z",
+      "publisher": "matteo.collina",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 27150,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/rfdc",
+          "observedAt": "2026-11-16T10:35:25.028Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/rfdc",
+          "observedAt": "2026-11-16T10:35:25.028Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/rfdc",
+          "observedAt": "2026-11-16T10:35:25.028Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/rfdc",
+          "observedAt": "2026-11-16T10:35:25.028Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/rfdc",
+          "observedAt": "2026-11-16T10:35:25.028Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/rfdc",
+          "observedAt": "2026-11-16T10:35:25.028Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

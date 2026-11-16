@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "pkg": "is-binary-path",
+  "source": "https://registry.npmjs.org/is-binary-path",
+  "fetchedAt": "2026-11-16T10:35:05.430Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 6
+  },
+  "sourceSha256": "c7b1311907237aee8d3287c9c7832a038c1efc0cd4df74859c9892f6a916d1d7",
+  "versions": [
+    {
+      "pkg": "is-binary-path",
+      "semver": "2.0.1",
+      "publishedAt": "2019-03-27T12:14:17.036Z",
+      "publisher": "paulmillr",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 2825,
+      "dependencies": {
+        "binary-extensions": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/is-binary-path",
+          "observedAt": "2026-11-16T10:35:05.430Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/is-binary-path",
+          "observedAt": "2026-11-16T10:35:05.430Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/is-binary-path",
+          "observedAt": "2026-11-16T10:35:05.430Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/is-binary-path",
+          "observedAt": "2026-11-16T10:35:05.430Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/is-binary-path",
+          "observedAt": "2026-11-16T10:35:05.430Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/is-binary-path",
+          "observedAt": "2026-11-16T10:35:05.430Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "is-binary-path",
+      "semver": "3.0.0",
+      "publishedAt": "2024-04-30T16:50:25.858Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 2982,
+      "dependencies": {
+        "binary-extensions": "^3.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/is-binary-path",
+          "observedAt": "2026-11-16T10:35:05.430Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/is-binary-path",
+          "observedAt": "2026-11-16T10:35:05.430Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/is-binary-path",
+          "observedAt": "2026-11-16T10:35:05.430Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/is-binary-path",
+          "observedAt": "2026-11-16T10:35:05.430Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/is-binary-path",
+          "observedAt": "2026-11-16T10:35:05.430Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/is-binary-path",
+          "observedAt": "2026-11-16T10:35:05.430Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

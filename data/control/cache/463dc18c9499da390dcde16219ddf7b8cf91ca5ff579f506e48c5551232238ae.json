@@ -1,0 +1,194 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@babel/plugin-transform-react-jsx-self",
+  "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-react-jsx-self",
+  "fetchedAt": "2026-11-16T10:34:33.207Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 88
+  },
+  "sourceSha256": "34fe11c1f8cfc5df91a1ea715b68cd6bff421b7010f5a892a09d5ada089508fa",
+  "versions": [
+    {
+      "pkg": "@babel/plugin-transform-react-jsx-self",
+      "semver": "7.0.0",
+      "publishedAt": "2018-08-27T21:44:08.727Z",
+      "publisher": "hzoo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 2977,
+      "dependencies": {
+        "@babel/plugin-syntax-jsx": "^7.0.0",
+        "@babel/helper-plugin-utils": "^7.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-react-jsx-self",
+          "observedAt": "2026-11-16T10:34:33.207Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-react-jsx-self",
+          "observedAt": "2026-11-16T10:34:33.207Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-react-jsx-self",
+          "observedAt": "2026-11-16T10:34:33.207Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-react-jsx-self",
+          "observedAt": "2026-11-16T10:34:33.207Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-react-jsx-self",
+          "observedAt": "2026-11-16T10:34:33.207Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-react-jsx-self",
+          "observedAt": "2026-11-16T10:34:33.207Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/plugin-transform-react-jsx-self",
+      "semver": "7.0.0-beta.49",
+      "publishedAt": "2018-05-25T16:03:22.906Z",
+      "publisher": "loganfsmyth",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 2246,
+      "dependencies": {
+        "@babel/plugin-syntax-jsx": "7.0.0-beta.49",
+        "@babel/helper-plugin-utils": "7.0.0-beta.49"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-react-jsx-self",
+          "observedAt": "2026-11-16T10:34:33.207Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-react-jsx-self",
+          "observedAt": "2026-11-16T10:34:33.207Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-react-jsx-self",
+          "observedAt": "2026-11-16T10:34:33.207Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-react-jsx-self",
+          "observedAt": "2026-11-16T10:34:33.207Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-react-jsx-self",
+          "observedAt": "2026-11-16T10:34:33.207Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-react-jsx-self",
+          "observedAt": "2026-11-16T10:34:33.207Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/plugin-transform-react-jsx-self",
+      "semver": "7.10.4",
+      "publishedAt": "2020-06-30T13:12:24.143Z",
+      "publisher": "jlhwung",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 3056,
+      "dependencies": {
+        "@babel/plugin-syntax-jsx": "^7.10.4",
+        "@babel/helper-plugin-utils": "^7.10.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-react-jsx-self",
+          "observedAt": "2026-11-16T10:34:33.207Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-react-jsx-self",
+          "observedAt": "2026-11-16T10:34:33.207Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-react-jsx-self",
+          "observedAt": "2026-11-16T10:34:33.207Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-react-jsx-self",
+          "observedAt": "2026-11-16T10:34:33.207Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-react-jsx-self",
+          "observedAt": "2026-11-16T10:34:33.207Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-react-jsx-self",
+          "observedAt": "2026-11-16T10:34:33.207Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/plugin-transform-react-jsx-self",
+      "semver": "8.0.0-beta.1",
+      "publishedAt": "2025-07-02T09:04:19.346Z",
+      "publisher": "nicolo-ribaudo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 9436,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "^8.0.0-beta.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-react-jsx-self",
+          "observedAt": "2026-11-16T10:34:33.207Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-react-jsx-self",
+          "observedAt": "2026-11-16T10:34:33.207Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-react-jsx-self",
+          "observedAt": "2026-11-16T10:34:33.207Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-react-jsx-self",
+          "observedAt": "2026-11-16T10:34:33.207Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-react-jsx-self",
+          "observedAt": "2026-11-16T10:34:33.207Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-react-jsx-self",
+          "observedAt": "2026-11-16T10:34:33.207Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

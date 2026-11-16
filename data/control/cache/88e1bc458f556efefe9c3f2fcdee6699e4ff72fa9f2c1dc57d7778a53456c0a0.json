@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "pkg": "babel-plugin-macros",
+  "source": "https://registry.npmjs.org/babel-plugin-macros",
+  "fetchedAt": "2026-11-16T10:34:56.543Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 37
+  },
+  "sourceSha256": "3c27d3abe62761682f2f4112ae3fd2c689d0a1deb20deb08eaa930868a063a06",
+  "versions": [
+    {
+      "pkg": "babel-plugin-macros",
+      "semver": "1.0.1",
+      "publishedAt": "2016-01-21T01:39:47.845Z",
+      "publisher": "codemix",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "lodash": "^4.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/babel-plugin-macros",
+          "observedAt": "2026-11-16T10:34:56.543Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/babel-plugin-macros",
+          "observedAt": "2026-11-16T10:34:56.543Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/babel-plugin-macros",
+          "observedAt": "2026-11-16T10:34:56.543Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/babel-plugin-macros",
+          "observedAt": "2026-11-16T10:34:56.543Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/babel-plugin-macros",
+          "observedAt": "2026-11-16T10:34:56.543Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "babel-plugin-macros",
+      "semver": "1.0.15",
+      "publishedAt": "2016-02-21T23:34:50.750Z",
+      "publisher": "gvozd",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "babel-traverse": "^6.5.0",
+        "babel-types": "^6.5.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/babel-plugin-macros",
+          "observedAt": "2026-11-16T10:34:56.543Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/babel-plugin-macros",
+          "observedAt": "2026-11-16T10:34:56.543Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/babel-plugin-macros",
+          "observedAt": "2026-11-16T10:34:56.543Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/babel-plugin-macros",
+          "observedAt": "2026-11-16T10:34:56.543Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/babel-plugin-macros",
+          "observedAt": "2026-11-16T10:34:56.543Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "babel-plugin-macros",
+      "semver": "3.1.0",
+      "publishedAt": "2021-05-05T16:49:39.264Z",
+      "publisher": "kentcdodds",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 37983,
+      "dependencies": {
+        "@babel/runtime": "^7.12.5",
+        "cosmiconfig": "^7.0.0",
+        "resolve": "^1.19.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/babel-plugin-macros",
+          "observedAt": "2026-11-16T10:34:56.543Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/babel-plugin-macros",
+          "observedAt": "2026-11-16T10:34:56.543Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/babel-plugin-macros",
+          "observedAt": "2026-11-16T10:34:56.543Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/babel-plugin-macros",
+          "observedAt": "2026-11-16T10:34:56.543Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/babel-plugin-macros",
+          "observedAt": "2026-11-16T10:34:56.543Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/babel-plugin-macros",
+          "observedAt": "2026-11-16T10:34:56.543Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

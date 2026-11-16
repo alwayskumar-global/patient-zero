@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "pkg": "browserify-des",
+  "source": "https://registry.npmjs.org/browserify-des",
+  "fetchedAt": "2026-11-16T10:34:56.967Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 3
+  },
+  "sourceSha256": "946d5e40deb02ba7cf487699f507a443939ac4e461bb778015a0993037aff6fe",
+  "versions": [
+    {
+      "pkg": "browserify-des",
+      "semver": "1.0.2",
+      "publishedAt": "2018-07-10T15:06:46.481Z",
+      "publisher": "cwmma",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 6267,
+      "dependencies": {
+        "cipher-base": "^1.0.1",
+        "des.js": "^1.0.0",
+        "inherits": "^2.0.1",
+        "safe-buffer": "^5.1.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/browserify-des",
+          "observedAt": "2026-11-16T10:34:56.967Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/browserify-des",
+          "observedAt": "2026-11-16T10:34:56.967Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/browserify-des",
+          "observedAt": "2026-11-16T10:34:56.967Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/browserify-des",
+          "observedAt": "2026-11-16T10:34:56.967Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/browserify-des",
+          "observedAt": "2026-11-16T10:34:56.967Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/browserify-des",
+          "observedAt": "2026-11-16T10:34:56.967Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

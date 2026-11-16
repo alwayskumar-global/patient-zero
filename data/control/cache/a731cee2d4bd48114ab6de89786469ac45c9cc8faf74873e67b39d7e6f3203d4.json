@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "pkg": "pg-int8",
+  "source": "https://registry.npmjs.org/pg-int8",
+  "fetchedAt": "2026-11-16T10:35:17.844Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 2
+  },
+  "sourceSha256": "fc24b7443ee7d686733deda83b1d65e5d40171721b20d314e7ef68cc77431dec",
+  "versions": [
+    {
+      "pkg": "pg-int8",
+      "semver": "1.0.1",
+      "publishedAt": "2017-11-14T22:39:49.993Z",
+      "publisher": "charmander",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/pg-int8",
+          "observedAt": "2026-11-16T10:35:17.844Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/pg-int8",
+          "observedAt": "2026-11-16T10:35:17.844Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/pg-int8",
+          "observedAt": "2026-11-16T10:35:17.844Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/pg-int8",
+          "observedAt": "2026-11-16T10:35:17.844Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/pg-int8",
+          "observedAt": "2026-11-16T10:35:17.844Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

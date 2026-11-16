@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "pkg": "css-select",
+  "source": "https://registry.npmjs.org/css-select",
+  "fetchedAt": "2026-11-16T10:34:58.823Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 31
+  },
+  "sourceSha256": "111128a0fd371a8a24cdd2c3abcfd6a46fce4eeb2ef9dbb14fc934dc05714f32",
+  "versions": [
+    {
+      "pkg": "css-select",
+      "semver": "6.0.0",
+      "publishedAt": "2025-06-29T17:21:03.629Z",
+      "publisher": "feedic",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 328078,
+      "dependencies": {
+        "boolbase": "^1.0.0",
+        "css-what": "^7.0.0",
+        "domutils": "^3.2.2",
+        "nth-check": "^2.1.1",
+        "domhandler": "^5.0.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/css-select",
+          "observedAt": "2026-11-16T10:34:58.823Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/css-select",
+          "observedAt": "2026-11-16T10:34:58.823Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/css-select",
+          "observedAt": "2026-11-16T10:34:58.823Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/css-select",
+          "observedAt": "2026-11-16T10:34:58.823Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/css-select",
+          "observedAt": "2026-11-16T10:34:58.823Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/css-select",
+          "observedAt": "2026-11-16T10:34:58.823Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "is-weakref",
+  "source": "https://registry.npmjs.org/is-weakref",
+  "fetchedAt": "2026-11-16T10:35:07.028Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 5
+  },
+  "sourceSha256": "ec883b20bd367202f443d269009905d22a2b7da051dea771f519f62d2dc26d2f",
+  "versions": [
+    {
+      "pkg": "is-weakref",
+      "semver": "1.1.1",
+      "publishedAt": "2025-02-03T23:37:46.871Z",
+      "publisher": "ljharb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 15872,
+      "dependencies": {
+        "call-bound": "^1.0.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/is-weakref",
+          "observedAt": "2026-11-16T10:35:07.028Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/is-weakref",
+          "observedAt": "2026-11-16T10:35:07.028Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/is-weakref",
+          "observedAt": "2026-11-16T10:35:07.028Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/is-weakref",
+          "observedAt": "2026-11-16T10:35:07.028Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/is-weakref",
+          "observedAt": "2026-11-16T10:35:07.028Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/is-weakref",
+          "observedAt": "2026-11-16T10:35:07.028Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

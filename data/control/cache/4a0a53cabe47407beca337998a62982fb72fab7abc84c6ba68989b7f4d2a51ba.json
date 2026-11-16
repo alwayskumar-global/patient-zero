@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "chardet",
+  "source": "https://registry.npmjs.org/chardet",
+  "fetchedAt": "2026-11-16T10:34:57.581Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 30
+  },
+  "sourceSha256": "bbf9cf581c7e9b291e4aab8bde5b32dd1f89d51890bab7db16fd3fe08a6e9ef2",
+  "versions": [
+    {
+      "pkg": "chardet",
+      "semver": "2.1.0",
+      "publishedAt": "2025-02-24T22:26:28.483Z",
+      "publisher": "runk",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 161783,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/chardet",
+          "observedAt": "2026-11-16T10:34:57.581Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/chardet",
+          "observedAt": "2026-11-16T10:34:57.581Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/chardet",
+          "observedAt": "2026-11-16T10:34:57.581Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/chardet",
+          "observedAt": "2026-11-16T10:34:57.581Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/chardet",
+          "observedAt": "2026-11-16T10:34:57.581Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/chardet",
+          "observedAt": "2026-11-16T10:34:57.581Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

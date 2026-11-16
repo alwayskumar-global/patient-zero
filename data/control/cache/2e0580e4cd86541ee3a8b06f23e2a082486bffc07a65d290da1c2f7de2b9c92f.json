@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "pkg": "react-remove-scroll-bar",
+  "source": "https://registry.npmjs.org/react-remove-scroll-bar",
+  "fetchedAt": "2026-11-16T10:35:23.392Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 20
+  },
+  "sourceSha256": "7682738ac0d8ee945ef9463e263549c9bc60049c650790a0a2fd8500e4f080ba",
+  "versions": [
+    {
+      "pkg": "react-remove-scroll-bar",
+      "semver": "2.3.8",
+      "publishedAt": "2024-12-15T02:08:28.658Z",
+      "publisher": "kashey",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 24936,
+      "dependencies": {
+        "react-style-singleton": "^2.2.2",
+        "tslib": "^2.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/react-remove-scroll-bar",
+          "observedAt": "2026-11-16T10:35:23.392Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/react-remove-scroll-bar",
+          "observedAt": "2026-11-16T10:35:23.392Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/react-remove-scroll-bar",
+          "observedAt": "2026-11-16T10:35:23.392Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/react-remove-scroll-bar",
+          "observedAt": "2026-11-16T10:35:23.392Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/react-remove-scroll-bar",
+          "observedAt": "2026-11-16T10:35:23.392Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/react-remove-scroll-bar",
+          "observedAt": "2026-11-16T10:35:23.392Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

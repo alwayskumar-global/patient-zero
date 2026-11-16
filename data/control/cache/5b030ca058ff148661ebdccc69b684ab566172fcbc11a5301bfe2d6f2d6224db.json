@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "mimic-function",
+  "source": "https://registry.npmjs.org/mimic-function",
+  "fetchedAt": "2026-11-16T10:35:13.181Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 2
+  },
+  "sourceSha256": "d8baa3fa6492be5607dcdab2d3ab816c20acc1a6e9ba4f7e2289369dbca267e4",
+  "versions": [
+    {
+      "pkg": "mimic-function",
+      "semver": "5.0.1",
+      "publishedAt": "2024-03-14T08:37:42.297Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 8096,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/mimic-function",
+          "observedAt": "2026-11-16T10:35:13.181Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/mimic-function",
+          "observedAt": "2026-11-16T10:35:13.181Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/mimic-function",
+          "observedAt": "2026-11-16T10:35:13.181Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/mimic-function",
+          "observedAt": "2026-11-16T10:35:13.181Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/mimic-function",
+          "observedAt": "2026-11-16T10:35:13.181Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/mimic-function",
+          "observedAt": "2026-11-16T10:35:13.181Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

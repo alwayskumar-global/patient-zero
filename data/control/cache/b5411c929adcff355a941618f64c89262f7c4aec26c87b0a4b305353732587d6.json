@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "fs-monkey",
+  "source": "https://registry.npmjs.org/fs-monkey",
+  "fetchedAt": "2026-11-16T10:35:02.856Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 20
+  },
+  "sourceSha256": "832c0a688c2b63b9810f84115939c1d0489b9bf31c7c35f8d91c9de74b62afe9",
+  "versions": [
+    {
+      "pkg": "fs-monkey",
+      "semver": "1.1.0",
+      "publishedAt": "2025-07-18T19:02:32.313Z",
+      "publisher": "streamich",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 21334,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/fs-monkey",
+          "observedAt": "2026-11-16T10:35:02.856Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/fs-monkey",
+          "observedAt": "2026-11-16T10:35:02.856Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/fs-monkey",
+          "observedAt": "2026-11-16T10:35:02.856Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/fs-monkey",
+          "observedAt": "2026-11-16T10:35:02.856Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/fs-monkey",
+          "observedAt": "2026-11-16T10:35:02.856Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/fs-monkey",
+          "observedAt": "2026-11-16T10:35:02.856Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

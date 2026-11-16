@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "which-module",
+  "source": "https://registry.npmjs.org/which-module",
+  "fetchedAt": "2026-11-16T10:35:34.814Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 4
+  },
+  "sourceSha256": "8ab32a2ce227a948b6f297381b2ca0f3b6414345d1fe181ff5b500f167649d51",
+  "versions": [
+    {
+      "pkg": "which-module",
+      "semver": "2.0.1",
+      "publishedAt": "2023-04-21T14:39:08.508Z",
+      "publisher": "nexdrew",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 4036,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/which-module",
+          "observedAt": "2026-11-16T10:35:34.814Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/which-module",
+          "observedAt": "2026-11-16T10:35:34.814Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/which-module",
+          "observedAt": "2026-11-16T10:35:34.814Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/which-module",
+          "observedAt": "2026-11-16T10:35:34.814Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/which-module",
+          "observedAt": "2026-11-16T10:35:34.814Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/which-module",
+          "observedAt": "2026-11-16T10:35:34.814Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

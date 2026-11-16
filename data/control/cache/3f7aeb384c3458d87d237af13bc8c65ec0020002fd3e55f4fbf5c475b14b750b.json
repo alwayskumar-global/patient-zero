@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "pkg": "css-declaration-sorter",
+  "source": "https://registry.npmjs.org/css-declaration-sorter",
+  "fetchedAt": "2026-11-16T10:34:58.801Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 50
+  },
+  "sourceSha256": "3574ade23abd8484d4492a9c503d775e86883acedfa06b4ab2b2026fede3bf48",
+  "versions": [
+    {
+      "pkg": "css-declaration-sorter",
+      "semver": "0.0.0",
+      "publishedAt": "2016-03-28T13:53:08.400Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/css-declaration-sorter",
+          "observedAt": "2026-11-16T10:34:58.801Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "css-declaration-sorter",
+      "semver": "7.2.0",
+      "publishedAt": "2024-03-25T18:42:53.218Z",
+      "publisher": "siilwyn",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 96297,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/css-declaration-sorter",
+          "observedAt": "2026-11-16T10:34:58.801Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/css-declaration-sorter",
+          "observedAt": "2026-11-16T10:34:58.801Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/css-declaration-sorter",
+          "observedAt": "2026-11-16T10:34:58.801Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/css-declaration-sorter",
+          "observedAt": "2026-11-16T10:34:58.801Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/css-declaration-sorter",
+          "observedAt": "2026-11-16T10:34:58.801Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/css-declaration-sorter",
+          "observedAt": "2026-11-16T10:34:58.801Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

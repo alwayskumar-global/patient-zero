@@ -1,0 +1,168 @@
+{
+  "schemaVersion": 1,
+  "pkg": "sass",
+  "source": "https://registry.npmjs.org/sass",
+  "fetchedAt": "2026-11-16T10:35:25.460Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 336
+  },
+  "sourceSha256": "0856604c42f895b80e5acf24a05deb21088c6869836cd03e469e71bb9177c9b2",
+  "versions": [
+    {
+      "pkg": "sass",
+      "semver": "1.22.8",
+      "publishedAt": "2019-07-24T23:36:07.624Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/sass",
+          "observedAt": "2026-11-16T10:35:25.460Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "sass",
+      "semver": "1.23.0-module.beta.1",
+      "publishedAt": "2019-09-03T20:04:57.112Z",
+      "publisher": "nex3",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 2232487,
+      "dependencies": {
+        "chokidar": ">=2.0.0 <4.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/sass",
+          "observedAt": "2026-11-16T10:35:25.460Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/sass",
+          "observedAt": "2026-11-16T10:35:25.460Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/sass",
+          "observedAt": "2026-11-16T10:35:25.460Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/sass",
+          "observedAt": "2026-11-16T10:35:25.460Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/sass",
+          "observedAt": "2026-11-16T10:35:25.460Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/sass",
+          "observedAt": "2026-11-16T10:35:25.460Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "sass",
+      "semver": "1.89.2",
+      "publishedAt": "2025-06-09T19:19:19.001Z",
+      "publisher": "sassbot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 5701294,
+      "dependencies": {
+        "chokidar": "^4.0.0",
+        "immutable": "^5.0.2",
+        "source-map-js": ">=0.6.2 <2.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/sass",
+          "observedAt": "2026-11-16T10:35:25.460Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/sass",
+          "observedAt": "2026-11-16T10:35:25.460Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/sass",
+          "observedAt": "2026-11-16T10:35:25.460Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/sass",
+          "observedAt": "2026-11-16T10:35:25.460Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/sass",
+          "observedAt": "2026-11-16T10:35:25.460Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/sass",
+          "observedAt": "2026-11-16T10:35:25.460Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "sass",
+      "semver": "1.90.0",
+      "publishedAt": "2025-08-05T22:09:21.665Z",
+      "publisher": "sassbot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 5714411,
+      "dependencies": {
+        "chokidar": "^4.0.0",
+        "immutable": "^5.0.2",
+        "source-map-js": ">=0.6.2 <2.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/sass",
+          "observedAt": "2026-11-16T10:35:25.460Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/sass",
+          "observedAt": "2026-11-16T10:35:25.460Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/sass",
+          "observedAt": "2026-11-16T10:35:25.460Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/sass",
+          "observedAt": "2026-11-16T10:35:25.460Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/sass",
+          "observedAt": "2026-11-16T10:35:25.460Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/sass",
+          "observedAt": "2026-11-16T10:35:25.460Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

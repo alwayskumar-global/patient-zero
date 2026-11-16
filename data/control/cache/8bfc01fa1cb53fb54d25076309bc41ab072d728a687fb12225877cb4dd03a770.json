@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@babel/helper-environment-visitor",
+  "source": "https://registry.npmjs.org/%40babel%2Fhelper-environment-visitor",
+  "fetchedAt": "2026-11-16T10:34:30.488Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 28
+  },
+  "sourceSha256": "7d7fb34945f3c2fbca192c9240989b0707c2537d82594c22517596aa59cf0894",
+  "versions": [
+    {
+      "pkg": "@babel/helper-environment-visitor",
+      "semver": "8.0.0-alpha.11",
+      "publishedAt": "2024-06-07T09:15:40.536Z",
+      "publisher": "nicolo-ribaudo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 6450,
+      "dependencies": {
+        "@babel/types": "^8.0.0-alpha.11"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-environment-visitor",
+          "observedAt": "2026-11-16T10:34:30.488Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-environment-visitor",
+          "observedAt": "2026-11-16T10:34:30.488Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-environment-visitor",
+          "observedAt": "2026-11-16T10:34:30.488Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-environment-visitor",
+          "observedAt": "2026-11-16T10:34:30.488Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-environment-visitor",
+          "observedAt": "2026-11-16T10:34:30.488Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-environment-visitor",
+          "observedAt": "2026-11-16T10:34:30.488Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

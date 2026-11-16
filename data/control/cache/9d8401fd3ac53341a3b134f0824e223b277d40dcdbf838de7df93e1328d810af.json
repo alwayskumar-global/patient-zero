@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "pkg": "walker",
+  "source": "https://registry.npmjs.org/walker",
+  "fetchedAt": "2026-11-16T10:35:34.301Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 11
+  },
+  "sourceSha256": "bc2ae9e2a17dab4a3b5d61c939fabd87ac15557eeec82d2330990683ec385e4c",
+  "versions": [
+    {
+      "pkg": "walker",
+      "semver": "1.0.3",
+      "publishedAt": "2011-08-17T21:07:44.294Z",
+      "publisher": null,
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "makeerror": ">= 1.0.0"
+      },
+      "evidence": {
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/walker",
+          "observedAt": "2026-11-16T10:35:34.301Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/walker",
+          "observedAt": "2026-11-16T10:35:34.301Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/walker",
+          "observedAt": "2026-11-16T10:35:34.301Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/walker",
+          "observedAt": "2026-11-16T10:35:34.301Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "walker",
+      "semver": "1.0.8",
+      "publishedAt": "2021-10-23T14:03:34.682Z",
+      "publisher": "daaku",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 5799,
+      "dependencies": {
+        "makeerror": "1.0.12"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/walker",
+          "observedAt": "2026-11-16T10:35:34.301Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/walker",
+          "observedAt": "2026-11-16T10:35:34.301Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/walker",
+          "observedAt": "2026-11-16T10:35:34.301Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/walker",
+          "observedAt": "2026-11-16T10:35:34.301Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/walker",
+          "observedAt": "2026-11-16T10:35:34.301Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/walker",
+          "observedAt": "2026-11-16T10:35:34.301Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

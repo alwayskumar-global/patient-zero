@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@art-ws/config-ts",
+  "source": "https://registry.npmjs.org/%40art-ws%2Fconfig-ts",
+  "fetchedAt": "2026-11-16T10:30:58.461Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 8
+  },
+  "sourceSha256": "fcec529a030f8dfadebfca3f560994fb20ed8009c35132304f363db8f1e33cc5",
+  "versions": [
+    {
+      "pkg": "@art-ws/config-ts",
+      "semver": "2.0.6",
+      "publishedAt": "2025-08-22T16:20:31.104Z",
+      "publisher": "art-ws",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 917,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fconfig-ts",
+          "observedAt": "2026-11-16T10:30:58.461Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fconfig-ts",
+          "observedAt": "2026-11-16T10:30:58.461Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fconfig-ts",
+          "observedAt": "2026-11-16T10:30:58.461Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fconfig-ts",
+          "observedAt": "2026-11-16T10:30:58.461Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fconfig-ts",
+          "observedAt": "2026-11-16T10:30:58.461Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fconfig-ts",
+          "observedAt": "2026-11-16T10:30:58.461Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@art-ws/config-ts",
+      "semver": "2.0.7",
+      "publishedAt": "2025-09-15T05:21:19.408Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fconfig-ts",
+          "observedAt": "2026-11-16T10:30:58.461Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@art-ws/config-ts",
+      "semver": "2.0.8",
+      "publishedAt": "2025-09-15T08:58:44.254Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fconfig-ts",
+          "observedAt": "2026-11-16T10:30:58.461Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

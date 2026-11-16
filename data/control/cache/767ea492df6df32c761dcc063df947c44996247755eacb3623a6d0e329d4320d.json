@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "pkg": "thenify",
+  "source": "https://registry.npmjs.org/thenify",
+  "fetchedAt": "2026-11-16T10:35:29.018Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 9
+  },
+  "sourceSha256": "7e143e2485c4720a9a5aae589c2a39cd4283daf5c5ffc85bf670a46a60f0d774",
+  "versions": [
+    {
+      "pkg": "thenify",
+      "semver": "3.2.0",
+      "publishedAt": "2016-02-01T20:29:26.986Z",
+      "publisher": "jongleberry",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "any-promise": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/thenify",
+          "observedAt": "2026-11-16T10:35:29.018Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/thenify",
+          "observedAt": "2026-11-16T10:35:29.018Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/thenify",
+          "observedAt": "2026-11-16T10:35:29.018Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/thenify",
+          "observedAt": "2026-11-16T10:35:29.018Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/thenify",
+          "observedAt": "2026-11-16T10:35:29.018Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "thenify",
+      "semver": "3.3.1",
+      "publishedAt": "2020-06-17T17:30:57.152Z",
+      "publisher": "dead_horse",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7920,
+      "dependencies": {
+        "any-promise": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/thenify",
+          "observedAt": "2026-11-16T10:35:29.018Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/thenify",
+          "observedAt": "2026-11-16T10:35:29.018Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/thenify",
+          "observedAt": "2026-11-16T10:35:29.018Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/thenify",
+          "observedAt": "2026-11-16T10:35:29.018Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/thenify",
+          "observedAt": "2026-11-16T10:35:29.018Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/thenify",
+          "observedAt": "2026-11-16T10:35:29.018Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

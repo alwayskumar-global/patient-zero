@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "loose-envify",
+  "source": "https://registry.npmjs.org/loose-envify",
+  "fetchedAt": "2026-11-16T10:35:11.726Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 6
+  },
+  "sourceSha256": "276d4217e8d27eedcca596c7d21bc11986cbecbc9e92a3e9e7b5f3e69223cc54",
+  "versions": [
+    {
+      "pkg": "loose-envify",
+      "semver": "1.4.0",
+      "publishedAt": "2018-07-10T11:09:45.917Z",
+      "publisher": "zertosh",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 5814,
+      "dependencies": {
+        "js-tokens": "^3.0.0 || ^4.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/loose-envify",
+          "observedAt": "2026-11-16T10:35:11.726Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/loose-envify",
+          "observedAt": "2026-11-16T10:35:11.726Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/loose-envify",
+          "observedAt": "2026-11-16T10:35:11.726Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/loose-envify",
+          "observedAt": "2026-11-16T10:35:11.726Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/loose-envify",
+          "observedAt": "2026-11-16T10:35:11.726Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/loose-envify",
+          "observedAt": "2026-11-16T10:35:11.726Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

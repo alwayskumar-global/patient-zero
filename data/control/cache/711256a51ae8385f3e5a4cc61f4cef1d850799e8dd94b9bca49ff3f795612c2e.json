@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "pkg": "htmlparser2",
+  "source": "https://registry.npmjs.org/htmlparser2",
+  "fetchedAt": "2026-11-16T10:35:04.098Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 83
+  },
+  "sourceSha256": "4c8c0a488eefea8e3815865c4f9d7adb454f2b556735d1cfe8bf5f084ff8d966",
+  "versions": [
+    {
+      "pkg": "htmlparser2",
+      "semver": "10.0.0",
+      "publishedAt": "2024-12-24T10:48:38.846Z",
+      "publisher": "feedic",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 488506,
+      "dependencies": {
+        "domutils": "^3.2.1",
+        "entities": "^6.0.0",
+        "domhandler": "^5.0.3",
+        "domelementtype": "^2.3.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/htmlparser2",
+          "observedAt": "2026-11-16T10:35:04.098Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/htmlparser2",
+          "observedAt": "2026-11-16T10:35:04.098Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/htmlparser2",
+          "observedAt": "2026-11-16T10:35:04.098Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/htmlparser2",
+          "observedAt": "2026-11-16T10:35:04.098Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/htmlparser2",
+          "observedAt": "2026-11-16T10:35:04.098Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/htmlparser2",
+          "observedAt": "2026-11-16T10:35:04.098Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "htmlparser2",
+      "semver": "3.4.1",
+      "publishedAt": "2014-02-14T20:02:54.272Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/htmlparser2",
+          "observedAt": "2026-11-16T10:35:04.098Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

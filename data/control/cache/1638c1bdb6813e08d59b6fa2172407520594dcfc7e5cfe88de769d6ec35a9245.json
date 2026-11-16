@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "pkg": "brorand",
+  "source": "https://registry.npmjs.org/brorand",
+  "fetchedAt": "2026-11-16T10:34:56.921Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 10
+  },
+  "sourceSha256": "d4d5ae8d598584d6c1c8be56f86bb5a405230c5f9ac07fcc27b7a118ff7c1028",
+  "versions": [
+    {
+      "pkg": "brorand",
+      "semver": "1.1.0",
+      "publishedAt": "2017-02-22T21:39:22.072Z",
+      "publisher": "indutny",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/brorand",
+          "observedAt": "2026-11-16T10:34:56.921Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/brorand",
+          "observedAt": "2026-11-16T10:34:56.921Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/brorand",
+          "observedAt": "2026-11-16T10:34:56.921Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/brorand",
+          "observedAt": "2026-11-16T10:34:56.921Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/brorand",
+          "observedAt": "2026-11-16T10:34:56.921Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

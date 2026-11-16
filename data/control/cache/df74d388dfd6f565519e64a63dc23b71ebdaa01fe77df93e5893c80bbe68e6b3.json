@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "shimmer",
+  "source": "https://registry.npmjs.org/shimmer",
+  "fetchedAt": "2026-11-16T10:35:26.361Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 14
+  },
+  "sourceSha256": "c37646c02e64b24b49656ffed652f921950b4c872131da37486b0c583ec0d0e6",
+  "versions": [
+    {
+      "pkg": "shimmer",
+      "semver": "1.2.1",
+      "publishedAt": "2019-01-17T23:46:27.682Z",
+      "publisher": "othiym23",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 24729,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/shimmer",
+          "observedAt": "2026-11-16T10:35:26.361Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/shimmer",
+          "observedAt": "2026-11-16T10:35:26.361Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/shimmer",
+          "observedAt": "2026-11-16T10:35:26.361Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/shimmer",
+          "observedAt": "2026-11-16T10:35:26.361Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/shimmer",
+          "observedAt": "2026-11-16T10:35:26.361Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/shimmer",
+          "observedAt": "2026-11-16T10:35:26.361Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "fflate",
+  "source": "https://registry.npmjs.org/fflate",
+  "fetchedAt": "2026-11-16T10:35:02.257Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 58
+  },
+  "sourceSha256": "878a45a7c25a8cb0e5cb11cb417990e9306a0c7a4f1dfdf8b647f10e4b414044",
+  "versions": [
+    {
+      "pkg": "fflate",
+      "semver": "0.8.2",
+      "publishedAt": "2024-02-07T00:36:56.045Z",
+      "publisher": "101arrowz",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 773398,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/fflate",
+          "observedAt": "2026-11-16T10:35:02.257Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/fflate",
+          "observedAt": "2026-11-16T10:35:02.257Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/fflate",
+          "observedAt": "2026-11-16T10:35:02.257Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/fflate",
+          "observedAt": "2026-11-16T10:35:02.257Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/fflate",
+          "observedAt": "2026-11-16T10:35:02.257Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/fflate",
+          "observedAt": "2026-11-16T10:35:02.257Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@types/react-dom",
+  "source": "https://registry.npmjs.org/%40types%2Freact-dom",
+  "fetchedAt": "2026-11-16T10:34:51.378Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 187
+  },
+  "sourceSha256": "8a72e8b6bbaaed672a276acc45e10400f73d9aefb2769c1d32a8b9051a7e3c0e",
+  "versions": [
+    {
+      "pkg": "@types/react-dom",
+      "semver": "19.1.7",
+      "publishedAt": "2025-07-29T09:40:02.690Z",
+      "publisher": "types",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 24378,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40types%2Freact-dom",
+          "observedAt": "2026-11-16T10:34:51.378Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40types%2Freact-dom",
+          "observedAt": "2026-11-16T10:34:51.378Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40types%2Freact-dom",
+          "observedAt": "2026-11-16T10:34:51.378Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40types%2Freact-dom",
+          "observedAt": "2026-11-16T10:34:51.378Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40types%2Freact-dom",
+          "observedAt": "2026-11-16T10:34:51.378Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40types%2Freact-dom",
+          "observedAt": "2026-11-16T10:34:51.378Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

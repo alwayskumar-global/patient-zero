@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "dom-accessibility-api",
+  "source": "https://registry.npmjs.org/dom-accessibility-api",
+  "fetchedAt": "2026-11-16T10:34:59.955Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 35
+  },
+  "sourceSha256": "704f5a547a4f3290746d617a49344891e7af50933970d1498fdb2189a155a91c",
+  "versions": [
+    {
+      "pkg": "dom-accessibility-api",
+      "semver": "0.7.0",
+      "publishedAt": "2024-07-24T18:33:26.115Z",
+      "publisher": "eps1lon",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 282447,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/dom-accessibility-api",
+          "observedAt": "2026-11-16T10:34:59.955Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/dom-accessibility-api",
+          "observedAt": "2026-11-16T10:34:59.955Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/dom-accessibility-api",
+          "observedAt": "2026-11-16T10:34:59.955Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/dom-accessibility-api",
+          "observedAt": "2026-11-16T10:34:59.955Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/dom-accessibility-api",
+          "observedAt": "2026-11-16T10:34:59.955Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/dom-accessibility-api",
+          "observedAt": "2026-11-16T10:34:59.955Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

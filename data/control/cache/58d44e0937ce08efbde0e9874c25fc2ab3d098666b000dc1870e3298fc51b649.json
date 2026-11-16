@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "w3c-hr-time",
+  "source": "https://registry.npmjs.org/w3c-hr-time",
+  "fetchedAt": "2026-11-16T10:35:34.268Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 3
+  },
+  "sourceSha256": "b79e9f2d11a21991167a84365e1e4fa050a811ffedf1c0f8386878cb6c65de26",
+  "versions": [
+    {
+      "pkg": "w3c-hr-time",
+      "semver": "1.0.2",
+      "publishedAt": "2020-03-06T00:45:09.083Z",
+      "publisher": "timothygu",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 16806,
+      "dependencies": {
+        "browser-process-hrtime": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/w3c-hr-time",
+          "observedAt": "2026-11-16T10:35:34.268Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/w3c-hr-time",
+          "observedAt": "2026-11-16T10:35:34.268Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/w3c-hr-time",
+          "observedAt": "2026-11-16T10:35:34.268Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/w3c-hr-time",
+          "observedAt": "2026-11-16T10:35:34.268Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/w3c-hr-time",
+          "observedAt": "2026-11-16T10:35:34.268Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/w3c-hr-time",
+          "observedAt": "2026-11-16T10:35:34.268Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

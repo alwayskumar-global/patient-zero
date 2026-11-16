@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "pkg": "clone",
+  "source": "https://registry.npmjs.org/clone",
+  "fetchedAt": "2026-11-16T10:34:57.797Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 38
+  },
+  "sourceSha256": "e3e5a08525b261a807f969099d8204238852748b68b47f2ff370fe6e78e9b700",
+  "versions": [
+    {
+      "pkg": "clone",
+      "semver": "0.1.0",
+      "publishedAt": "2012-08-07T23:56:46.654Z",
+      "publisher": null,
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/clone",
+          "observedAt": "2026-11-16T10:34:57.797Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/clone",
+          "observedAt": "2026-11-16T10:34:57.797Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/clone",
+          "observedAt": "2026-11-16T10:34:57.797Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/clone",
+          "observedAt": "2026-11-16T10:34:57.797Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "clone",
+      "semver": "1.0.4",
+      "publishedAt": "2018-03-21T21:21:25.570Z",
+      "publisher": "pvorb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 11132,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/clone",
+          "observedAt": "2026-11-16T10:34:57.797Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/clone",
+          "observedAt": "2026-11-16T10:34:57.797Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/clone",
+          "observedAt": "2026-11-16T10:34:57.797Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/clone",
+          "observedAt": "2026-11-16T10:34:57.797Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/clone",
+          "observedAt": "2026-11-16T10:34:57.797Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/clone",
+          "observedAt": "2026-11-16T10:34:57.797Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

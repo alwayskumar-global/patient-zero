@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@humanwhocodes/config-array",
+  "source": "https://registry.npmjs.org/%40humanwhocodes%2Fconfig-array",
+  "fetchedAt": "2026-11-16T10:34:35.318Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 44
+  },
+  "sourceSha256": "2a8cc490391be7f101e6313ca73f0835dbb8c68e2c89759e021794cf3b57214f",
+  "versions": [
+    {
+      "pkg": "@humanwhocodes/config-array",
+      "semver": "0.13.0",
+      "publishedAt": "2024-04-17T18:23:32.678Z",
+      "publisher": "nzakas",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 58381,
+      "dependencies": {
+        "debug": "^4.3.1",
+        "minimatch": "^3.0.5",
+        "@humanwhocodes/object-schema": "^2.0.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40humanwhocodes%2Fconfig-array",
+          "observedAt": "2026-11-16T10:34:35.318Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40humanwhocodes%2Fconfig-array",
+          "observedAt": "2026-11-16T10:34:35.318Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40humanwhocodes%2Fconfig-array",
+          "observedAt": "2026-11-16T10:34:35.318Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40humanwhocodes%2Fconfig-array",
+          "observedAt": "2026-11-16T10:34:35.318Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40humanwhocodes%2Fconfig-array",
+          "observedAt": "2026-11-16T10:34:35.318Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40humanwhocodes%2Fconfig-array",
+          "observedAt": "2026-11-16T10:34:35.318Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "resolve-cwd",
+  "source": "https://registry.npmjs.org/resolve-cwd",
+  "fetchedAt": "2026-11-16T10:35:24.954Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 3
+  },
+  "sourceSha256": "69b048d1dd65e95f3a5f5de5b94c8627a737ece4f27bf69378f1658eec828398",
+  "versions": [
+    {
+      "pkg": "resolve-cwd",
+      "semver": "3.0.0",
+      "publishedAt": "2019-04-30T12:53:23.953Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 4984,
+      "dependencies": {
+        "resolve-from": "^5.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/resolve-cwd",
+          "observedAt": "2026-11-16T10:35:24.954Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/resolve-cwd",
+          "observedAt": "2026-11-16T10:35:24.954Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/resolve-cwd",
+          "observedAt": "2026-11-16T10:35:24.954Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/resolve-cwd",
+          "observedAt": "2026-11-16T10:35:24.954Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/resolve-cwd",
+          "observedAt": "2026-11-16T10:35:24.954Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/resolve-cwd",
+          "observedAt": "2026-11-16T10:35:24.954Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@babel/plugin-transform-typescript",
+  "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-typescript",
+  "fetchedAt": "2026-11-16T10:34:33.502Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 165
+  },
+  "sourceSha256": "194cdc06875125ae05049ca31e0eed8293581a3ec302a98e64da2e1534667755",
+  "versions": [
+    {
+      "pkg": "@babel/plugin-transform-typescript",
+      "semver": "7.0.0-beta.49",
+      "publishedAt": "2018-05-25T16:03:38.142Z",
+      "publisher": "loganfsmyth",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 15386,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "7.0.0-beta.49",
+        "@babel/plugin-syntax-typescript": "7.0.0-beta.49"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-typescript",
+          "observedAt": "2026-11-16T10:34:33.502Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-typescript",
+          "observedAt": "2026-11-16T10:34:33.502Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-typescript",
+          "observedAt": "2026-11-16T10:34:33.502Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-typescript",
+          "observedAt": "2026-11-16T10:34:33.502Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-typescript",
+          "observedAt": "2026-11-16T10:34:33.502Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-typescript",
+          "observedAt": "2026-11-16T10:34:33.502Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/plugin-transform-typescript",
+      "semver": "7.1.0",
+      "publishedAt": "2018-09-17T19:30:17.648Z",
+      "publisher": "hzoo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 16020,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "^7.0.0",
+        "@babel/plugin-syntax-typescript": "^7.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-typescript",
+          "observedAt": "2026-11-16T10:34:33.502Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-typescript",
+          "observedAt": "2026-11-16T10:34:33.502Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-typescript",
+          "observedAt": "2026-11-16T10:34:33.502Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-typescript",
+          "observedAt": "2026-11-16T10:34:33.502Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-typescript",
+          "observedAt": "2026-11-16T10:34:33.502Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-typescript",
+          "observedAt": "2026-11-16T10:34:33.502Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/plugin-transform-typescript",
+      "semver": "7.11.0",
+      "publishedAt": "2020-07-30T21:28:16.000Z",
+      "publisher": "jlhwung",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 24313,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "^7.10.4",
+        "@babel/plugin-syntax-typescript": "^7.10.4",
+        "@babel/helper-create-class-features-plugin": "^7.10.5"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-typescript",
+          "observedAt": "2026-11-16T10:34:33.502Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-typescript",
+          "observedAt": "2026-11-16T10:34:33.502Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-typescript",
+          "observedAt": "2026-11-16T10:34:33.502Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-typescript",
+          "observedAt": "2026-11-16T10:34:33.502Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-typescript",
+          "observedAt": "2026-11-16T10:34:33.502Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-typescript",
+          "observedAt": "2026-11-16T10:34:33.502Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/plugin-transform-typescript",
+      "semver": "8.0.0-beta.1",
+      "publishedAt": "2025-07-02T09:04:53.464Z",
+      "publisher": "nicolo-ribaudo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 143997,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "^8.0.0-beta.1",
+        "@babel/helper-annotate-as-pure": "^8.0.0-beta.1",
+        "@babel/plugin-syntax-typescript": "^8.0.0-beta.1",
+        "@babel/helper-create-class-features-plugin": "^8.0.0-beta.1",
+        "@babel/helper-skip-transparent-expression-wrappers": "^8.0.0-beta.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-typescript",
+          "observedAt": "2026-11-16T10:34:33.502Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-typescript",
+          "observedAt": "2026-11-16T10:34:33.502Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-typescript",
+          "observedAt": "2026-11-16T10:34:33.502Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-typescript",
+          "observedAt": "2026-11-16T10:34:33.502Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-typescript",
+          "observedAt": "2026-11-16T10:34:33.502Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-typescript",
+          "observedAt": "2026-11-16T10:34:33.502Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

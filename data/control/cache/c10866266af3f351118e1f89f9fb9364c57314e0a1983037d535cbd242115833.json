@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@fastify/busboy",
+  "source": "https://registry.npmjs.org/%40fastify%2Fbusboy",
+  "fetchedAt": "2026-11-16T10:34:34.415Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 19
+  },
+  "sourceSha256": "d8189be903df6ab350753efb57043557223841bd97f5e0571e4a9d9f4fb8b3ab",
+  "versions": [
+    {
+      "pkg": "@fastify/busboy",
+      "semver": "2.0.0",
+      "publishedAt": "2023-09-28T13:27:00.533Z",
+      "publisher": "kibertoad",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 70738,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40fastify%2Fbusboy",
+          "observedAt": "2026-11-16T10:34:34.415Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40fastify%2Fbusboy",
+          "observedAt": "2026-11-16T10:34:34.415Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40fastify%2Fbusboy",
+          "observedAt": "2026-11-16T10:34:34.415Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40fastify%2Fbusboy",
+          "observedAt": "2026-11-16T10:34:34.415Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40fastify%2Fbusboy",
+          "observedAt": "2026-11-16T10:34:34.415Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40fastify%2Fbusboy",
+          "observedAt": "2026-11-16T10:34:34.415Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@fastify/busboy",
+      "semver": "2.1.0",
+      "publishedAt": "2023-11-12T11:19:50.196Z",
+      "publisher": "eomm",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 80110,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40fastify%2Fbusboy",
+          "observedAt": "2026-11-16T10:34:34.415Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40fastify%2Fbusboy",
+          "observedAt": "2026-11-16T10:34:34.415Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40fastify%2Fbusboy",
+          "observedAt": "2026-11-16T10:34:34.415Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40fastify%2Fbusboy",
+          "observedAt": "2026-11-16T10:34:34.415Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40fastify%2Fbusboy",
+          "observedAt": "2026-11-16T10:34:34.415Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40fastify%2Fbusboy",
+          "observedAt": "2026-11-16T10:34:34.415Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@fastify/busboy",
+      "semver": "3.0.0",
+      "publishedAt": "2024-07-09T20:11:33.367Z",
+      "publisher": "jsumners",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 80045,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40fastify%2Fbusboy",
+          "observedAt": "2026-11-16T10:34:34.415Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40fastify%2Fbusboy",
+          "observedAt": "2026-11-16T10:34:34.415Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40fastify%2Fbusboy",
+          "observedAt": "2026-11-16T10:34:34.415Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40fastify%2Fbusboy",
+          "observedAt": "2026-11-16T10:34:34.415Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40fastify%2Fbusboy",
+          "observedAt": "2026-11-16T10:34:34.415Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40fastify%2Fbusboy",
+          "observedAt": "2026-11-16T10:34:34.415Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@fastify/busboy",
+      "semver": "3.1.1",
+      "publishedAt": "2024-12-22T14:07:03.534Z",
+      "publisher": "gurgunday",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 80126,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40fastify%2Fbusboy",
+          "observedAt": "2026-11-16T10:34:34.415Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40fastify%2Fbusboy",
+          "observedAt": "2026-11-16T10:34:34.415Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40fastify%2Fbusboy",
+          "observedAt": "2026-11-16T10:34:34.415Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40fastify%2Fbusboy",
+          "observedAt": "2026-11-16T10:34:34.415Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40fastify%2Fbusboy",
+          "observedAt": "2026-11-16T10:34:34.415Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40fastify%2Fbusboy",
+          "observedAt": "2026-11-16T10:34:34.415Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

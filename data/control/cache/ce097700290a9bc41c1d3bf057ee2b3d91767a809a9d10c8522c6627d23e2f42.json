@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "graphemer",
+  "source": "https://registry.npmjs.org/graphemer",
+  "fetchedAt": "2026-11-16T10:35:03.386Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 6
+  },
+  "sourceSha256": "c3f1f553e467a75f66c0a8fca2b3b2cb8bd6951f55dafc718da61ab5a8583cda",
+  "versions": [
+    {
+      "pkg": "graphemer",
+      "semver": "1.4.0",
+      "publishedAt": "2022-09-19T10:19:34.014Z",
+      "publisher": "mattpauldavies",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 811810,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/graphemer",
+          "observedAt": "2026-11-16T10:35:03.386Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/graphemer",
+          "observedAt": "2026-11-16T10:35:03.386Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/graphemer",
+          "observedAt": "2026-11-16T10:35:03.386Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/graphemer",
+          "observedAt": "2026-11-16T10:35:03.386Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/graphemer",
+          "observedAt": "2026-11-16T10:35:03.386Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/graphemer",
+          "observedAt": "2026-11-16T10:35:03.386Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

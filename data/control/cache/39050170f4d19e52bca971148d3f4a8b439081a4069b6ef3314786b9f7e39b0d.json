@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "get-caller-file",
+  "source": "https://registry.npmjs.org/get-caller-file",
+  "fetchedAt": "2026-11-16T10:35:02.968Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 10
+  },
+  "sourceSha256": "d75d6e394d827f181d5c10eca820dd5d6b5407a4036757d7f01638f9da96a6d1",
+  "versions": [
+    {
+      "pkg": "get-caller-file",
+      "semver": "2.0.5",
+      "publishedAt": "2019-03-09T21:48:30.527Z",
+      "publisher": "stefanpenner",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 4719,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/get-caller-file",
+          "observedAt": "2026-11-16T10:35:02.968Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/get-caller-file",
+          "observedAt": "2026-11-16T10:35:02.968Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/get-caller-file",
+          "observedAt": "2026-11-16T10:35:02.968Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/get-caller-file",
+          "observedAt": "2026-11-16T10:35:02.968Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/get-caller-file",
+          "observedAt": "2026-11-16T10:35:02.968Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/get-caller-file",
+          "observedAt": "2026-11-16T10:35:02.968Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

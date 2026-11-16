@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "pkg": "pirates",
+  "source": "https://registry.npmjs.org/pirates",
+  "fetchedAt": "2026-11-16T10:35:18.122Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 20
+  },
+  "sourceSha256": "8ec5c2abfc0ddcf99a67f06158b11427eb95924ded433a0d6091b84d1bcc3497",
+  "versions": [
+    {
+      "pkg": "pirates",
+      "semver": "2.1.2",
+      "publishedAt": "2016-09-18T03:27:12.751Z",
+      "publisher": "ariporad",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "node-modules-regexp": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/pirates",
+          "observedAt": "2026-11-16T10:35:18.122Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/pirates",
+          "observedAt": "2026-11-16T10:35:18.122Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/pirates",
+          "observedAt": "2026-11-16T10:35:18.122Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/pirates",
+          "observedAt": "2026-11-16T10:35:18.122Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/pirates",
+          "observedAt": "2026-11-16T10:35:18.122Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "pirates",
+      "semver": "4.0.7",
+      "publishedAt": "2025-03-27T11:21:58.481Z",
+      "publisher": "danez",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 12564,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/pirates",
+          "observedAt": "2026-11-16T10:35:18.122Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/pirates",
+          "observedAt": "2026-11-16T10:35:18.122Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/pirates",
+          "observedAt": "2026-11-16T10:35:18.122Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/pirates",
+          "observedAt": "2026-11-16T10:35:18.122Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/pirates",
+          "observedAt": "2026-11-16T10:35:18.122Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/pirates",
+          "observedAt": "2026-11-16T10:35:18.122Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

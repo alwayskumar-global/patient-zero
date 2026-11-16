@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "pkg": "static-extend",
+  "source": "https://registry.npmjs.org/static-extend",
+  "fetchedAt": "2026-11-16T10:35:27.197Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 3
+  },
+  "sourceSha256": "01e5517002ccc143e68cce7fe855708962fa150f09ce03100f7248b8cde6043a",
+  "versions": [
+    {
+      "pkg": "static-extend",
+      "semver": "0.1.2",
+      "publishedAt": "2016-06-09T18:45:37.095Z",
+      "publisher": "jonschlinkert",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "define-property": "^0.2.5",
+        "object-copy": "^0.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/static-extend",
+          "observedAt": "2026-11-16T10:35:27.197Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/static-extend",
+          "observedAt": "2026-11-16T10:35:27.197Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/static-extend",
+          "observedAt": "2026-11-16T10:35:27.197Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/static-extend",
+          "observedAt": "2026-11-16T10:35:27.197Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/static-extend",
+          "observedAt": "2026-11-16T10:35:27.197Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

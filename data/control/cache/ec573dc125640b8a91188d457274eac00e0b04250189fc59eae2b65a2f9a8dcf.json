@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 1,
+  "pkg": "bowser",
+  "source": "https://registry.npmjs.org/bowser",
+  "fetchedAt": "2026-11-16T10:34:56.872Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 88
+  },
+  "sourceSha256": "5ef08894a3dca0bbfe41e8066cc40730e9bba6a3fb2113fd8de5adfbee8c713a",
+  "versions": [
+    {
+      "pkg": "bowser",
+      "semver": "0.0.8",
+      "publishedAt": "2011-10-11T08:03:24.648Z",
+      "publisher": null,
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/bowser",
+          "observedAt": "2026-11-16T10:34:56.872Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/bowser",
+          "observedAt": "2026-11-16T10:34:56.872Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/bowser",
+          "observedAt": "2026-11-16T10:34:56.872Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/bowser",
+          "observedAt": "2026-11-16T10:34:56.872Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "bowser",
+      "semver": "1.0.0",
+      "publishedAt": "2015-07-26T02:18:57.798Z",
+      "publisher": "ded",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/bowser",
+          "observedAt": "2026-11-16T10:34:56.872Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/bowser",
+          "observedAt": "2026-11-16T10:34:56.872Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/bowser",
+          "observedAt": "2026-11-16T10:34:56.872Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/bowser",
+          "observedAt": "2026-11-16T10:34:56.872Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/bowser",
+          "observedAt": "2026-11-16T10:34:56.872Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "bowser",
+      "semver": "2.11.0",
+      "publishedAt": "2020-09-12T08:25:10.987Z",
+      "publisher": "lancedikson",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 216913,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/bowser",
+          "observedAt": "2026-11-16T10:34:56.872Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/bowser",
+          "observedAt": "2026-11-16T10:34:56.872Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/bowser",
+          "observedAt": "2026-11-16T10:34:56.872Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/bowser",
+          "observedAt": "2026-11-16T10:34:56.872Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/bowser",
+          "observedAt": "2026-11-16T10:34:56.872Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/bowser",
+          "observedAt": "2026-11-16T10:34:56.872Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

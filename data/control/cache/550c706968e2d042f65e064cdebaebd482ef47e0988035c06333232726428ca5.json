@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "pkg": "signal-exit",
+  "source": "https://registry.npmjs.org/signal-exit",
+  "fetchedAt": "2026-11-16T10:35:26.461Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 24
+  },
+  "sourceSha256": "d8da5f5cb427ce5d795631efcd4a366b4188d6fcf0ef68c1ccebc0bd9b5ce6dd",
+  "versions": [
+    {
+      "pkg": "signal-exit",
+      "semver": "3.0.3",
+      "publishedAt": "2020-03-26T19:32:54.645Z",
+      "publisher": "bcoe",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 9874,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/signal-exit",
+          "observedAt": "2026-11-16T10:35:26.461Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/signal-exit",
+          "observedAt": "2026-11-16T10:35:26.461Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/signal-exit",
+          "observedAt": "2026-11-16T10:35:26.461Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/signal-exit",
+          "observedAt": "2026-11-16T10:35:26.461Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/signal-exit",
+          "observedAt": "2026-11-16T10:35:26.461Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/signal-exit",
+          "observedAt": "2026-11-16T10:35:26.461Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "signal-exit",
+      "semver": "4.1.0",
+      "publishedAt": "2023-07-29T05:44:56.721Z",
+      "publisher": "isaacs",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 76966,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/signal-exit",
+          "observedAt": "2026-11-16T10:35:26.461Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/signal-exit",
+          "observedAt": "2026-11-16T10:35:26.461Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/signal-exit",
+          "observedAt": "2026-11-16T10:35:26.461Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/signal-exit",
+          "observedAt": "2026-11-16T10:35:26.461Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/signal-exit",
+          "observedAt": "2026-11-16T10:35:26.461Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/signal-exit",
+          "observedAt": "2026-11-16T10:35:26.461Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

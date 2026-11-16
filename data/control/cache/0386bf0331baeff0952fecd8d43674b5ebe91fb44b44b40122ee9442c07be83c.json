@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@types/lodash",
+  "source": "https://registry.npmjs.org/%40types%2Flodash",
+  "fetchedAt": "2026-11-16T10:34:50.904Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 225
+  },
+  "sourceSha256": "0d3f203a39e335ee51a1d17d7a4441718f04e49e9f32ccb7878a41251882a716",
+  "versions": [
+    {
+      "pkg": "@types/lodash",
+      "semver": "4.17.20",
+      "publishedAt": "2025-07-01T20:02:53.216Z",
+      "publisher": "types",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 869050,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40types%2Flodash",
+          "observedAt": "2026-11-16T10:34:50.904Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40types%2Flodash",
+          "observedAt": "2026-11-16T10:34:50.904Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40types%2Flodash",
+          "observedAt": "2026-11-16T10:34:50.904Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40types%2Flodash",
+          "observedAt": "2026-11-16T10:34:50.904Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40types%2Flodash",
+          "observedAt": "2026-11-16T10:34:50.904Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40types%2Flodash",
+          "observedAt": "2026-11-16T10:34:50.904Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "pkg": "esrecurse",
+  "source": "https://registry.npmjs.org/esrecurse",
+  "fetchedAt": "2026-11-16T10:35:01.598Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 13
+  },
+  "sourceSha256": "b9bcc22faf9a8e2ba8ec173cb9d0d4c7b43abe0841c687dd6a48a8e95299d275",
+  "versions": [
+    {
+      "pkg": "esrecurse",
+      "semver": "4.1.0",
+      "publishedAt": "2016-03-11T16:13:02.631Z",
+      "publisher": "nzakas",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "estraverse": "~4.1.0",
+        "object-assign": "^4.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/esrecurse",
+          "observedAt": "2026-11-16T10:35:01.598Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/esrecurse",
+          "observedAt": "2026-11-16T10:35:01.598Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/esrecurse",
+          "observedAt": "2026-11-16T10:35:01.598Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/esrecurse",
+          "observedAt": "2026-11-16T10:35:01.598Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/esrecurse",
+          "observedAt": "2026-11-16T10:35:01.598Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "esrecurse",
+      "semver": "4.2.0",
+      "publishedAt": "2017-06-20T01:58:41.693Z",
+      "publisher": "constellation",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "estraverse": "^4.1.0",
+        "object-assign": "^4.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/esrecurse",
+          "observedAt": "2026-11-16T10:35:01.598Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/esrecurse",
+          "observedAt": "2026-11-16T10:35:01.598Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/esrecurse",
+          "observedAt": "2026-11-16T10:35:01.598Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/esrecurse",
+          "observedAt": "2026-11-16T10:35:01.598Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/esrecurse",
+          "observedAt": "2026-11-16T10:35:01.598Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "esrecurse",
+      "semver": "4.3.0",
+      "publishedAt": "2020-08-31T18:21:44.794Z",
+      "publisher": "michaelficarra",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 13527,
+      "dependencies": {
+        "estraverse": "^5.2.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/esrecurse",
+          "observedAt": "2026-11-16T10:35:01.598Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/esrecurse",
+          "observedAt": "2026-11-16T10:35:01.598Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/esrecurse",
+          "observedAt": "2026-11-16T10:35:01.598Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/esrecurse",
+          "observedAt": "2026-11-16T10:35:01.598Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/esrecurse",
+          "observedAt": "2026-11-16T10:35:01.598Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/esrecurse",
+          "observedAt": "2026-11-16T10:35:01.598Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

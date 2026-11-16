@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "pkg": "buffer-xor",
+  "source": "https://registry.npmjs.org/buffer-xor",
+  "fetchedAt": "2026-11-16T10:34:57.187Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 7
+  },
+  "sourceSha256": "7dd6eff3735aaca6c161ae0d9835e31b3cbefd29e947a404580a63955622e38a",
+  "versions": [
+    {
+      "pkg": "buffer-xor",
+      "semver": "2.0.2",
+      "publishedAt": "2017-08-21T13:46:38.904Z",
+      "publisher": "dcousens",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "safe-buffer": "^5.1.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/buffer-xor",
+          "observedAt": "2026-11-16T10:34:57.187Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/buffer-xor",
+          "observedAt": "2026-11-16T10:34:57.187Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/buffer-xor",
+          "observedAt": "2026-11-16T10:34:57.187Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/buffer-xor",
+          "observedAt": "2026-11-16T10:34:57.187Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/buffer-xor",
+          "observedAt": "2026-11-16T10:34:57.187Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

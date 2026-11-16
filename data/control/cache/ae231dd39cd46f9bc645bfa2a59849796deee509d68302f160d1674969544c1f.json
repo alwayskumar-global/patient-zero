@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "pkg": "camelcase",
+  "source": "https://registry.npmjs.org/camelcase",
+  "fetchedAt": "2026-11-16T10:34:57.385Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 29
+  },
+  "sourceSha256": "e315edb99c166d3622ff685fefb95ea9deb0689f952bc854a7ed54c4f33fc348",
+  "versions": [
+    {
+      "pkg": "camelcase",
+      "semver": "0.0.0",
+      "publishedAt": "2013-10-30T20:39:50.719Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/camelcase",
+          "observedAt": "2026-11-16T10:34:57.385Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "camelcase",
+      "semver": "8.0.0",
+      "publishedAt": "2023-08-09T16:37:55.548Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 11163,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/camelcase",
+          "observedAt": "2026-11-16T10:34:57.385Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/camelcase",
+          "observedAt": "2026-11-16T10:34:57.385Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/camelcase",
+          "observedAt": "2026-11-16T10:34:57.385Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/camelcase",
+          "observedAt": "2026-11-16T10:34:57.385Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/camelcase",
+          "observedAt": "2026-11-16T10:34:57.385Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/camelcase",
+          "observedAt": "2026-11-16T10:34:57.385Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "pkg": "asap",
+  "source": "https://registry.npmjs.org/asap",
+  "fetchedAt": "2026-11-16T10:34:55.889Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 9
+  },
+  "sourceSha256": "8c73b3a73859050261e88008881c095627e181c22b2ce47dde0373fe57984671",
+  "versions": [
+    {
+      "pkg": "asap",
+      "semver": "2.0.6",
+      "publishedAt": "2017-07-10T15:21:36.791Z",
+      "publisher": "kriskowal",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/asap",
+          "observedAt": "2026-11-16T10:34:55.889Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/asap",
+          "observedAt": "2026-11-16T10:34:55.889Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/asap",
+          "observedAt": "2026-11-16T10:34:55.889Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/asap",
+          "observedAt": "2026-11-16T10:34:55.889Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/asap",
+          "observedAt": "2026-11-16T10:34:55.889Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

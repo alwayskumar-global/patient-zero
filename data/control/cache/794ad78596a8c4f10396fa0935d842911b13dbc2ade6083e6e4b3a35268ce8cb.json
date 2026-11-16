@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "jsesc",
+  "source": "https://registry.npmjs.org/jsesc",
+  "fetchedAt": "2026-11-16T10:35:08.689Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 23
+  },
+  "sourceSha256": "20951d496d267a853487611ec145ec9ce3783844ca40a3f9dcb4da3eff943624",
+  "versions": [
+    {
+      "pkg": "jsesc",
+      "semver": "3.1.0",
+      "publishedAt": "2024-12-11T08:24:34.551Z",
+      "publisher": "mathias",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 32280,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jsesc",
+          "observedAt": "2026-11-16T10:35:08.689Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jsesc",
+          "observedAt": "2026-11-16T10:35:08.689Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jsesc",
+          "observedAt": "2026-11-16T10:35:08.689Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jsesc",
+          "observedAt": "2026-11-16T10:35:08.689Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jsesc",
+          "observedAt": "2026-11-16T10:35:08.689Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jsesc",
+          "observedAt": "2026-11-16T10:35:08.689Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

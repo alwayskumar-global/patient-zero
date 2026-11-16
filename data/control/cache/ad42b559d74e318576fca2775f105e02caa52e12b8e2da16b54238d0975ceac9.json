@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "human-signals",
+  "source": "https://registry.npmjs.org/human-signals",
+  "fetchedAt": "2026-11-16T10:35:04.251Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 16
+  },
+  "sourceSha256": "22298c157fff93200354d8ec5ea22432a5c77a4354ff020fb985cf09caabc072",
+  "versions": [
+    {
+      "pkg": "human-signals",
+      "semver": "8.0.1",
+      "publishedAt": "2025-03-29T02:43:46.398Z",
+      "publisher": "ehmicky",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 28040,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/human-signals",
+          "observedAt": "2026-11-16T10:35:04.251Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/human-signals",
+          "observedAt": "2026-11-16T10:35:04.251Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/human-signals",
+          "observedAt": "2026-11-16T10:35:04.251Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/human-signals",
+          "observedAt": "2026-11-16T10:35:04.251Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/human-signals",
+          "observedAt": "2026-11-16T10:35:04.251Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/human-signals",
+          "observedAt": "2026-11-16T10:35:04.251Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

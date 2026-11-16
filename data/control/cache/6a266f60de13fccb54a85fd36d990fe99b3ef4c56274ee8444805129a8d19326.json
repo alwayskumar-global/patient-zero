@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@jridgewell/gen-mapping",
+  "source": "https://registry.npmjs.org/%40jridgewell%2Fgen-mapping",
+  "fetchedAt": "2026-11-16T10:34:35.958Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 23
+  },
+  "sourceSha256": "c59fda872d23710b92f9ec3b5e978b3e880f19fe182b416266e442f2cff0253c",
+  "versions": [
+    {
+      "pkg": "@jridgewell/gen-mapping",
+      "semver": "0.3.12",
+      "publishedAt": "2025-07-01T18:18:54.284Z",
+      "publisher": "jridgewell",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 87114,
+      "dependencies": {
+        "@jridgewell/trace-mapping": "^0.3.24",
+        "@jridgewell/sourcemap-codec": "^1.5.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40jridgewell%2Fgen-mapping",
+          "observedAt": "2026-11-16T10:34:35.958Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40jridgewell%2Fgen-mapping",
+          "observedAt": "2026-11-16T10:34:35.958Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40jridgewell%2Fgen-mapping",
+          "observedAt": "2026-11-16T10:34:35.958Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40jridgewell%2Fgen-mapping",
+          "observedAt": "2026-11-16T10:34:35.958Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40jridgewell%2Fgen-mapping",
+          "observedAt": "2026-11-16T10:34:35.958Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40jridgewell%2Fgen-mapping",
+          "observedAt": "2026-11-16T10:34:35.958Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

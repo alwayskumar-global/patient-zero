@@ -1,0 +1,169 @@
+{
+  "schemaVersion": 1,
+  "pkg": "gcp-metadata",
+  "source": "https://registry.npmjs.org/gcp-metadata",
+  "fetchedAt": "2026-11-16T10:35:02.939Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 68
+  },
+  "sourceSha256": "d585a631beabbc87e669788fec486f046aa798d1ea7f82e9eea5e3a60f3a9fe3",
+  "versions": [
+    {
+      "pkg": "gcp-metadata",
+      "semver": "0.6.3",
+      "publishedAt": "2018-03-10T19:04:55.601Z",
+      "publisher": "stephenplusplus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 14396,
+      "dependencies": {
+        "axios": "^0.18.0",
+        "extend": "^3.0.1",
+        "retry-axios": "0.3.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/gcp-metadata",
+          "observedAt": "2026-11-16T10:35:02.939Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/gcp-metadata",
+          "observedAt": "2026-11-16T10:35:02.939Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/gcp-metadata",
+          "observedAt": "2026-11-16T10:35:02.939Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/gcp-metadata",
+          "observedAt": "2026-11-16T10:35:02.939Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/gcp-metadata",
+          "observedAt": "2026-11-16T10:35:02.939Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/gcp-metadata",
+          "observedAt": "2026-11-16T10:35:02.939Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "gcp-metadata",
+      "semver": "0.6.5",
+      "publishedAt": "2018-06-29T00:13:35.640Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/gcp-metadata",
+          "observedAt": "2026-11-16T10:35:02.939Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "gcp-metadata",
+      "semver": "1.0.0",
+      "publishedAt": "2019-02-15T16:50:44.485Z",
+      "publisher": "google-node-team",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 35230,
+      "dependencies": {
+        "gaxios": "^1.0.2",
+        "json-bigint": "^0.3.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/gcp-metadata",
+          "observedAt": "2026-11-16T10:35:02.939Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/gcp-metadata",
+          "observedAt": "2026-11-16T10:35:02.939Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/gcp-metadata",
+          "observedAt": "2026-11-16T10:35:02.939Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/gcp-metadata",
+          "observedAt": "2026-11-16T10:35:02.939Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/gcp-metadata",
+          "observedAt": "2026-11-16T10:35:02.939Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/gcp-metadata",
+          "observedAt": "2026-11-16T10:35:02.939Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "gcp-metadata",
+      "semver": "7.0.1",
+      "publishedAt": "2025-06-25T18:10:53.516Z",
+      "publisher": "google-wombot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 57146,
+      "dependencies": {
+        "gaxios": "^7.0.0",
+        "json-bigint": "^1.0.0",
+        "google-logging-utils": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/gcp-metadata",
+          "observedAt": "2026-11-16T10:35:02.939Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/gcp-metadata",
+          "observedAt": "2026-11-16T10:35:02.939Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/gcp-metadata",
+          "observedAt": "2026-11-16T10:35:02.939Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/gcp-metadata",
+          "observedAt": "2026-11-16T10:35:02.939Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/gcp-metadata",
+          "observedAt": "2026-11-16T10:35:02.939Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/gcp-metadata",
+          "observedAt": "2026-11-16T10:35:02.939Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

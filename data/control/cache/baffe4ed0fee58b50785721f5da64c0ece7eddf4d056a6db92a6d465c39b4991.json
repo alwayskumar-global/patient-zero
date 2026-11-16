@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@types/glob",
+  "source": "https://registry.npmjs.org/%40types%2Fglob",
+  "fetchedAt": "2026-11-16T10:39:49.759Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 29
+  },
+  "normalizationWarnings": [
+    {
+      "version": "5.0.15-alpha",
+      "field": "dependencies",
+      "reason": "Malformed historical dependency map preserved as unknown"
+    },
+    {
+      "version": "5.0.16-alpha",
+      "field": "dependencies",
+      "reason": "Malformed historical dependency map preserved as unknown"
+    }
+  ],
+  "sourceSha256": "0a62aee2163f3ca5b8b7fcf7d0eb97a6a8dae0a5e5630d3aa8ca10ffb9c87a90",
+  "versions": [
+    {
+      "pkg": "@types/glob",
+      "semver": "9.0.0",
+      "publishedAt": "2025-07-01T19:03:15.594Z",
+      "publisher": "types",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 1711,
+      "dependencies": {
+        "glob": "*"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40types%2Fglob",
+          "observedAt": "2026-11-16T10:39:49.759Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40types%2Fglob",
+          "observedAt": "2026-11-16T10:39:49.759Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40types%2Fglob",
+          "observedAt": "2026-11-16T10:39:49.759Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40types%2Fglob",
+          "observedAt": "2026-11-16T10:39:49.759Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40types%2Fglob",
+          "observedAt": "2026-11-16T10:39:49.759Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40types%2Fglob",
+          "observedAt": "2026-11-16T10:39:49.759Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

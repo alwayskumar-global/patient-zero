@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "pkg": "clone-deep",
+  "source": "https://registry.npmjs.org/clone-deep",
+  "fetchedAt": "2026-11-16T10:34:57.804Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 16
+  },
+  "sourceSha256": "f4a6334122047b12734675213ee6174691aa4e66050ba67044a012ebda0f4394",
+  "versions": [
+    {
+      "pkg": "clone-deep",
+      "semver": "2.0.2",
+      "publishedAt": "2018-01-19T23:34:03.299Z",
+      "publisher": "doowb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "for-own": "^1.0.0",
+        "is-plain-object": "^2.0.4",
+        "kind-of": "^6.0.0",
+        "shallow-clone": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/clone-deep",
+          "observedAt": "2026-11-16T10:34:57.804Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/clone-deep",
+          "observedAt": "2026-11-16T10:34:57.804Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/clone-deep",
+          "observedAt": "2026-11-16T10:34:57.804Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/clone-deep",
+          "observedAt": "2026-11-16T10:34:57.804Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/clone-deep",
+          "observedAt": "2026-11-16T10:34:57.804Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "clone-deep",
+      "semver": "4.0.1",
+      "publishedAt": "2018-11-22T00:00:24.930Z",
+      "publisher": "jonschlinkert",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 8000,
+      "dependencies": {
+        "is-plain-object": "^2.0.4",
+        "kind-of": "^6.0.2",
+        "shallow-clone": "^3.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/clone-deep",
+          "observedAt": "2026-11-16T10:34:57.804Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/clone-deep",
+          "observedAt": "2026-11-16T10:34:57.804Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/clone-deep",
+          "observedAt": "2026-11-16T10:34:57.804Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/clone-deep",
+          "observedAt": "2026-11-16T10:34:57.804Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/clone-deep",
+          "observedAt": "2026-11-16T10:34:57.804Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/clone-deep",
+          "observedAt": "2026-11-16T10:34:57.804Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

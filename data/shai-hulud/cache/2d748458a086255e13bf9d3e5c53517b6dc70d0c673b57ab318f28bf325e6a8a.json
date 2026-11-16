@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "pkg": "tg-seq-gen",
+  "source": "https://registry.npmjs.org/tg-seq-gen",
+  "fetchedAt": "2026-11-16T10:32:29.983Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 16
+  },
+  "sourceSha256": "489abf4e190874433cc7378f74c6734df41987353ca2d6ed343439387c9223f5",
+  "versions": [
+    {
+      "pkg": "tg-seq-gen",
+      "semver": "1.0.10",
+      "publishedAt": "2025-09-16T02:33:16.516Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/tg-seq-gen",
+          "observedAt": "2026-11-16T10:32:29.983Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "tg-seq-gen",
+      "semver": "1.0.8",
+      "publishedAt": "2025-06-19T20:58:12.716Z",
+      "publisher": "teselagen-admin",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 10903,
+      "dependencies": {
+        "commander": "^2.19.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/tg-seq-gen",
+          "observedAt": "2026-11-16T10:32:29.983Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/tg-seq-gen",
+          "observedAt": "2026-11-16T10:32:29.983Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/tg-seq-gen",
+          "observedAt": "2026-11-16T10:32:29.983Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/tg-seq-gen",
+          "observedAt": "2026-11-16T10:32:29.983Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/tg-seq-gen",
+          "observedAt": "2026-11-16T10:32:29.983Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/tg-seq-gen",
+          "observedAt": "2026-11-16T10:32:29.983Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "tg-seq-gen",
+      "semver": "1.0.9",
+      "publishedAt": "2025-09-14T21:01:42.487Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/tg-seq-gen",
+          "observedAt": "2026-11-16T10:32:29.983Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

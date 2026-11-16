@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "pkg": "elliptic",
+  "source": "https://registry.npmjs.org/elliptic",
+  "fetchedAt": "2026-11-16T10:35:00.392Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 88
+  },
+  "sourceSha256": "b4ae12bff24b75b15ee1bd8d346a4d0b015679a7398831a7737446f7a2b80e13",
+  "versions": [
+    {
+      "pkg": "elliptic",
+      "semver": "3.0.0",
+      "publishedAt": "2015-02-09T20:44:23.489Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/elliptic",
+          "observedAt": "2026-11-16T10:35:00.392Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "elliptic",
+      "semver": "6.6.1",
+      "publishedAt": "2024-11-13T03:39:50.967Z",
+      "publisher": "indutny",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 120131,
+      "dependencies": {
+        "bn.js": "^4.11.9",
+        "brorand": "^1.1.0",
+        "hash.js": "^1.0.0",
+        "hmac-drbg": "^1.0.1",
+        "inherits": "^2.0.4",
+        "minimalistic-assert": "^1.0.1",
+        "minimalistic-crypto-utils": "^1.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/elliptic",
+          "observedAt": "2026-11-16T10:35:00.392Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/elliptic",
+          "observedAt": "2026-11-16T10:35:00.392Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/elliptic",
+          "observedAt": "2026-11-16T10:35:00.392Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/elliptic",
+          "observedAt": "2026-11-16T10:35:00.392Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/elliptic",
+          "observedAt": "2026-11-16T10:35:00.392Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/elliptic",
+          "observedAt": "2026-11-16T10:35:00.392Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

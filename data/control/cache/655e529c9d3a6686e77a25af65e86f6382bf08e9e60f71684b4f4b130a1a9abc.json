@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "pkg": "micromark-core-commonmark",
+  "source": "https://registry.npmjs.org/micromark-core-commonmark",
+  "fetchedAt": "2026-11-16T10:35:12.739Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 17
+  },
+  "sourceSha256": "f0d3ffb63f81fbdf4bb03608778894ac82b7baae996209adf8aec6020b0ca3b2",
+  "versions": [
+    {
+      "pkg": "micromark-core-commonmark",
+      "semver": "2.0.3",
+      "publishedAt": "2025-02-27T13:49:35.477Z",
+      "publisher": "wooorm",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 266840,
+      "dependencies": {
+        "devlop": "^1.0.0",
+        "micromark-util-types": "^2.0.0",
+        "micromark-util-symbol": "^2.0.0",
+        "micromark-util-chunked": "^2.0.0",
+        "micromark-factory-label": "^2.0.0",
+        "micromark-factory-space": "^2.0.0",
+        "micromark-factory-title": "^2.0.0",
+        "micromark-util-character": "^2.0.0",
+        "micromark-util-resolve-all": "^2.0.0",
+        "micromark-util-subtokenize": "^2.0.0",
+        "micromark-factory-whitespace": "^2.0.0",
+        "micromark-util-html-tag-name": "^2.0.0",
+        "micromark-factory-destination": "^2.0.0",
+        "decode-named-character-reference": "^1.0.0",
+        "micromark-util-classify-character": "^2.0.0",
+        "micromark-util-normalize-identifier": "^2.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/micromark-core-commonmark",
+          "observedAt": "2026-11-16T10:35:12.739Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/micromark-core-commonmark",
+          "observedAt": "2026-11-16T10:35:12.739Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/micromark-core-commonmark",
+          "observedAt": "2026-11-16T10:35:12.739Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/micromark-core-commonmark",
+          "observedAt": "2026-11-16T10:35:12.739Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/micromark-core-commonmark",
+          "observedAt": "2026-11-16T10:35:12.739Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/micromark-core-commonmark",
+          "observedAt": "2026-11-16T10:35:12.739Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

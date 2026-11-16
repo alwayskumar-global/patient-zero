@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@csstools/css-tokenizer",
+  "source": "https://registry.npmjs.org/%40csstools%2Fcss-tokenizer",
+  "fetchedAt": "2026-11-16T10:34:33.912Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 25
+  },
+  "sourceSha256": "870535fd7588b6f4966b2fcf3149e0f74bd4af6f63b769d7dde50ed8cd464c91",
+  "versions": [
+    {
+      "pkg": "@csstools/css-tokenizer",
+      "semver": "2.1.1",
+      "publishedAt": "2023-04-10T10:48:02.169Z",
+      "publisher": "alaguna",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 59024,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40csstools%2Fcss-tokenizer",
+          "observedAt": "2026-11-16T10:34:33.912Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40csstools%2Fcss-tokenizer",
+          "observedAt": "2026-11-16T10:34:33.912Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40csstools%2Fcss-tokenizer",
+          "observedAt": "2026-11-16T10:34:33.912Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40csstools%2Fcss-tokenizer",
+          "observedAt": "2026-11-16T10:34:33.912Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40csstools%2Fcss-tokenizer",
+          "observedAt": "2026-11-16T10:34:33.912Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40csstools%2Fcss-tokenizer",
+          "observedAt": "2026-11-16T10:34:33.912Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@csstools/css-tokenizer",
+      "semver": "3.0.4",
+      "publishedAt": "2025-05-27T10:45:29.932Z",
+      "publisher": "romainmenke",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 72983,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40csstools%2Fcss-tokenizer",
+          "observedAt": "2026-11-16T10:34:33.912Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40csstools%2Fcss-tokenizer",
+          "observedAt": "2026-11-16T10:34:33.912Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40csstools%2Fcss-tokenizer",
+          "observedAt": "2026-11-16T10:34:33.912Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40csstools%2Fcss-tokenizer",
+          "observedAt": "2026-11-16T10:34:33.912Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40csstools%2Fcss-tokenizer",
+          "observedAt": "2026-11-16T10:34:33.912Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40csstools%2Fcss-tokenizer",
+          "observedAt": "2026-11-16T10:34:33.912Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

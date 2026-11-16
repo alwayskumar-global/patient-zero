@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "comma-separated-tokens",
+  "source": "https://registry.npmjs.org/comma-separated-tokens",
+  "fetchedAt": "2026-11-16T10:34:57.973Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 13
+  },
+  "sourceSha256": "dcffa15295497cc5d2928fc57695447bb475b9e8bcd1a16041bcbdd9eacf08b2",
+  "versions": [
+    {
+      "pkg": "comma-separated-tokens",
+      "semver": "2.0.3",
+      "publishedAt": "2022-11-14T09:09:04.761Z",
+      "publisher": "wooorm",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 9971,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/comma-separated-tokens",
+          "observedAt": "2026-11-16T10:34:57.973Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/comma-separated-tokens",
+          "observedAt": "2026-11-16T10:34:57.973Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/comma-separated-tokens",
+          "observedAt": "2026-11-16T10:34:57.973Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/comma-separated-tokens",
+          "observedAt": "2026-11-16T10:34:57.973Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/comma-separated-tokens",
+          "observedAt": "2026-11-16T10:34:57.973Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/comma-separated-tokens",
+          "observedAt": "2026-11-16T10:34:57.973Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

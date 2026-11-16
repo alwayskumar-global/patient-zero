@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@hestjs/cqrs",
+  "source": "https://registry.npmjs.org/%40hestjs%2Fcqrs",
+  "fetchedAt": "2026-11-16T10:31:19.323Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 7
+  },
+  "sourceSha256": "92ee918d3355098acb4560271de4993674e115ecb44ff895481b6de61dc19b2e",
+  "versions": [
+    {
+      "pkg": "@hestjs/cqrs",
+      "semver": "0.1.5",
+      "publishedAt": "2025-07-30T08:05:38.058Z",
+      "publisher": "aqz23678",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 115136,
+      "dependencies": {
+        "rxjs": "^7.8.1",
+        "tsyringe": "^4.10.0",
+        "@hestjs/core": "^0.2.0",
+        "reflect-metadata": "^0.2.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40hestjs%2Fcqrs",
+          "observedAt": "2026-11-16T10:31:19.323Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40hestjs%2Fcqrs",
+          "observedAt": "2026-11-16T10:31:19.323Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40hestjs%2Fcqrs",
+          "observedAt": "2026-11-16T10:31:19.323Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40hestjs%2Fcqrs",
+          "observedAt": "2026-11-16T10:31:19.323Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40hestjs%2Fcqrs",
+          "observedAt": "2026-11-16T10:31:19.323Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40hestjs%2Fcqrs",
+          "observedAt": "2026-11-16T10:31:19.323Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@hestjs/cqrs",
+      "semver": "0.1.6",
+      "publishedAt": "2025-09-14T20:45:55.966Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40hestjs%2Fcqrs",
+          "observedAt": "2026-11-16T10:31:19.323Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "schemaVersion": 1,
+  "pkg": "type-is",
+  "source": "https://registry.npmjs.org/type-is",
+  "fetchedAt": "2026-11-16T10:35:30.313Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 41
+  },
+  "sourceSha256": "9aae7a845ce9473a1e5498ae20398097e4185536b75f51c3bebc68154e629567",
+  "versions": [
+    {
+      "pkg": "type-is",
+      "semver": "1.4.0",
+      "publishedAt": "2014-09-02T08:46:55.515Z",
+      "publisher": "jongleberry",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "mime-types": "~2.0.0",
+        "media-typer": "0.2.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/type-is",
+          "observedAt": "2026-11-16T10:35:30.313Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/type-is",
+          "observedAt": "2026-11-16T10:35:30.313Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/type-is",
+          "observedAt": "2026-11-16T10:35:30.313Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/type-is",
+          "observedAt": "2026-11-16T10:35:30.313Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/type-is",
+          "observedAt": "2026-11-16T10:35:30.313Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "type-is",
+      "semver": "1.6.18",
+      "publishedAt": "2019-04-26T13:59:49.224Z",
+      "publisher": "dougwilson",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 18497,
+      "dependencies": {
+        "mime-types": "~2.1.24",
+        "media-typer": "0.3.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/type-is",
+          "observedAt": "2026-11-16T10:35:30.313Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/type-is",
+          "observedAt": "2026-11-16T10:35:30.313Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/type-is",
+          "observedAt": "2026-11-16T10:35:30.313Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/type-is",
+          "observedAt": "2026-11-16T10:35:30.313Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/type-is",
+          "observedAt": "2026-11-16T10:35:30.313Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/type-is",
+          "observedAt": "2026-11-16T10:35:30.313Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "type-is",
+      "semver": "2.0.0",
+      "publishedAt": "2024-08-31T17:28:08.399Z",
+      "publisher": "wesleytodd",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 21348,
+      "dependencies": {
+        "mime-types": "^3.0.0",
+        "media-typer": "^1.1.0",
+        "content-type": "^1.0.5"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/type-is",
+          "observedAt": "2026-11-16T10:35:30.313Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/type-is",
+          "observedAt": "2026-11-16T10:35:30.313Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/type-is",
+          "observedAt": "2026-11-16T10:35:30.313Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/type-is",
+          "observedAt": "2026-11-16T10:35:30.313Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/type-is",
+          "observedAt": "2026-11-16T10:35:30.313Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/type-is",
+          "observedAt": "2026-11-16T10:35:30.313Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "type-is",
+      "semver": "2.0.1",
+      "publishedAt": "2025-03-27T01:20:01.576Z",
+      "publisher": "ulisesgascon",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 21269,
+      "dependencies": {
+        "mime-types": "^3.0.0",
+        "media-typer": "^1.1.0",
+        "content-type": "^1.0.5"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/type-is",
+          "observedAt": "2026-11-16T10:35:30.313Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/type-is",
+          "observedAt": "2026-11-16T10:35:30.313Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/type-is",
+          "observedAt": "2026-11-16T10:35:30.313Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/type-is",
+          "observedAt": "2026-11-16T10:35:30.313Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/type-is",
+          "observedAt": "2026-11-16T10:35:30.313Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/type-is",
+          "observedAt": "2026-11-16T10:35:30.313Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "pkg": "acorn",
+  "source": "https://registry.npmjs.org/acorn",
+  "fetchedAt": "2026-11-16T10:34:55.240Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 142
+  },
+  "sourceSha256": "cc1130ea76d12c9ceb6636ee8e933e2bd157773b4f4714fee38383d6da7048b2",
+  "versions": [
+    {
+      "pkg": "acorn",
+      "semver": "4.0.12",
+      "publishedAt": "2017-03-28T10:13:42.527Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/acorn",
+          "observedAt": "2026-11-16T10:34:55.240Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "acorn",
+      "semver": "8.15.0",
+      "publishedAt": "2025-06-08T16:23:04.888Z",
+      "publisher": "marijn",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 554942,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/acorn",
+          "observedAt": "2026-11-16T10:34:55.240Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/acorn",
+          "observedAt": "2026-11-16T10:34:55.240Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/acorn",
+          "observedAt": "2026-11-16T10:34:55.240Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/acorn",
+          "observedAt": "2026-11-16T10:34:55.240Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/acorn",
+          "observedAt": "2026-11-16T10:34:55.240Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/acorn",
+          "observedAt": "2026-11-16T10:34:55.240Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

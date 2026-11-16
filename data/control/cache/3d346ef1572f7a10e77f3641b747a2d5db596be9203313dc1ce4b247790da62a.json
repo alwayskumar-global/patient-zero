@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "pkg": "typed-array-byte-length",
+  "source": "https://registry.npmjs.org/typed-array-byte-length",
+  "fetchedAt": "2026-11-16T10:35:30.349Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 4
+  },
+  "sourceSha256": "d36daf878ebe9ec8a32f6f84e0c65469da931f857106e629d0e5e31c942037d8",
+  "versions": [
+    {
+      "pkg": "typed-array-byte-length",
+      "semver": "1.0.3",
+      "publishedAt": "2024-12-17T22:33:13.006Z",
+      "publisher": "ljharb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 18443,
+      "dependencies": {
+        "call-bind": "^1.0.8",
+        "for-each": "^0.3.3",
+        "gopd": "^1.2.0",
+        "has-proto": "^1.2.0",
+        "is-typed-array": "^1.1.14"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/typed-array-byte-length",
+          "observedAt": "2026-11-16T10:35:30.349Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/typed-array-byte-length",
+          "observedAt": "2026-11-16T10:35:30.349Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/typed-array-byte-length",
+          "observedAt": "2026-11-16T10:35:30.349Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/typed-array-byte-length",
+          "observedAt": "2026-11-16T10:35:30.349Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/typed-array-byte-length",
+          "observedAt": "2026-11-16T10:35:30.349Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/typed-array-byte-length",
+          "observedAt": "2026-11-16T10:35:30.349Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@webassemblyjs/floating-point-hex-parser",
+  "source": "https://registry.npmjs.org/%40webassemblyjs%2Ffloating-point-hex-parser",
+  "fetchedAt": "2026-11-16T10:34:54.943Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 72
+  },
+  "sourceSha256": "db7a5ed271e2726d3df2ce0a2d0f7fda419f26d0b2b67c79da5d524e6a46d6a5",
+  "versions": [
+    {
+      "pkg": "@webassemblyjs/floating-point-hex-parser",
+      "semver": "1.14.1",
+      "publishedAt": "2024-11-06T21:53:36.067Z",
+      "publisher": "xtuc",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 6373,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40webassemblyjs%2Ffloating-point-hex-parser",
+          "observedAt": "2026-11-16T10:34:54.943Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40webassemblyjs%2Ffloating-point-hex-parser",
+          "observedAt": "2026-11-16T10:34:54.943Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40webassemblyjs%2Ffloating-point-hex-parser",
+          "observedAt": "2026-11-16T10:34:54.943Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40webassemblyjs%2Ffloating-point-hex-parser",
+          "observedAt": "2026-11-16T10:34:54.943Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40webassemblyjs%2Ffloating-point-hex-parser",
+          "observedAt": "2026-11-16T10:34:54.943Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40webassemblyjs%2Ffloating-point-hex-parser",
+          "observedAt": "2026-11-16T10:34:54.943Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

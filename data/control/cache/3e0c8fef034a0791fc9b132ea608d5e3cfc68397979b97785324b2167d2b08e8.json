@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "camelcase-css",
+  "source": "https://registry.npmjs.org/camelcase-css",
+  "fetchedAt": "2026-11-16T10:34:57.382Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 4
+  },
+  "sourceSha256": "f1f7c49f45bef851f2f50ccd5b109246544106d810697936952652e4b7b34959",
+  "versions": [
+    {
+      "pkg": "camelcase-css",
+      "semver": "2.0.1",
+      "publishedAt": "2018-08-11T00:59:21.455Z",
+      "publisher": "stevenvachon",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 4051,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/camelcase-css",
+          "observedAt": "2026-11-16T10:34:57.382Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/camelcase-css",
+          "observedAt": "2026-11-16T10:34:57.382Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/camelcase-css",
+          "observedAt": "2026-11-16T10:34:57.382Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/camelcase-css",
+          "observedAt": "2026-11-16T10:34:57.382Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/camelcase-css",
+          "observedAt": "2026-11-16T10:34:57.382Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/camelcase-css",
+          "observedAt": "2026-11-16T10:34:57.382Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "pkg": "urix",
+  "source": "https://registry.npmjs.org/urix",
+  "fetchedAt": "2026-11-16T10:35:31.727Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 1
+  },
+  "sourceSha256": "e554a991abad554a41f34ab092f5b82e91546c1071ac7e66271a5d0d61b5f940",
+  "versions": [
+    {
+      "pkg": "urix",
+      "semver": "0.1.0",
+      "publishedAt": "2014-03-01T21:02:32.481Z",
+      "publisher": "lydell",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/urix",
+          "observedAt": "2026-11-16T10:35:31.727Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/urix",
+          "observedAt": "2026-11-16T10:35:31.727Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/urix",
+          "observedAt": "2026-11-16T10:35:31.727Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/urix",
+          "observedAt": "2026-11-16T10:35:31.727Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/urix",
+          "observedAt": "2026-11-16T10:35:31.727Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

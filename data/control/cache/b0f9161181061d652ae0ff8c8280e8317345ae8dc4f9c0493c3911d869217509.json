@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "pkg": "webpack-virtual-modules",
+  "source": "https://registry.npmjs.org/webpack-virtual-modules",
+  "fetchedAt": "2026-11-16T10:35:34.662Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 28
+  },
+  "sourceSha256": "8346abf0ef4fe6993c3f15ca8cbf4edcabc0b1f94950da8715a7a97b27d2acdc",
+  "versions": [
+    {
+      "pkg": "webpack-virtual-modules",
+      "semver": "0.1.6",
+      "publishedAt": "2017-07-24T19:36:17.090Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/webpack-virtual-modules",
+          "observedAt": "2026-11-16T10:35:34.662Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "webpack-virtual-modules",
+      "semver": "0.6.2",
+      "publishedAt": "2024-06-04T15:49:39.434Z",
+      "publisher": "vicvlas",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 46451,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/webpack-virtual-modules",
+          "observedAt": "2026-11-16T10:35:34.662Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/webpack-virtual-modules",
+          "observedAt": "2026-11-16T10:35:34.662Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/webpack-virtual-modules",
+          "observedAt": "2026-11-16T10:35:34.662Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/webpack-virtual-modules",
+          "observedAt": "2026-11-16T10:35:34.662Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/webpack-virtual-modules",
+          "observedAt": "2026-11-16T10:35:34.662Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/webpack-virtual-modules",
+          "observedAt": "2026-11-16T10:35:34.662Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

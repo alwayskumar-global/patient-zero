@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "pkg": "collection-visit",
+  "source": "https://registry.npmjs.org/collection-visit",
+  "fetchedAt": "2026-11-16T10:34:57.855Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 7
+  },
+  "sourceSha256": "209c46455fd540065a29c0bebe26e93a91b01ac2e209f6c73939edf1649a1067",
+  "versions": [
+    {
+      "pkg": "collection-visit",
+      "semver": "0.2.2",
+      "publishedAt": "2015-11-08T19:13:43.260Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/collection-visit",
+          "observedAt": "2026-11-16T10:34:57.855Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "collection-visit",
+      "semver": "0.2.3",
+      "publishedAt": "2016-08-05T22:04:33.762Z",
+      "publisher": "doowb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "lazy-cache": "^2.0.1",
+        "map-visit": "^0.1.5",
+        "object-visit": "^0.3.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/collection-visit",
+          "observedAt": "2026-11-16T10:34:57.855Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/collection-visit",
+          "observedAt": "2026-11-16T10:34:57.855Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/collection-visit",
+          "observedAt": "2026-11-16T10:34:57.855Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/collection-visit",
+          "observedAt": "2026-11-16T10:34:57.855Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/collection-visit",
+          "observedAt": "2026-11-16T10:34:57.855Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "collection-visit",
+      "semver": "1.0.0",
+      "publishedAt": "2017-04-09T22:00:31.200Z",
+      "publisher": "jonschlinkert",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "map-visit": "^1.0.0",
+        "object-visit": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/collection-visit",
+          "observedAt": "2026-11-16T10:34:57.855Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/collection-visit",
+          "observedAt": "2026-11-16T10:34:57.855Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/collection-visit",
+          "observedAt": "2026-11-16T10:34:57.855Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/collection-visit",
+          "observedAt": "2026-11-16T10:34:57.855Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/collection-visit",
+          "observedAt": "2026-11-16T10:34:57.855Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

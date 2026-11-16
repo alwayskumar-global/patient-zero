@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "pkg": "tar-fs",
+  "source": "https://registry.npmjs.org/tar-fs",
+  "fetchedAt": "2026-11-16T10:35:28.714Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 77
+  },
+  "sourceSha256": "6056ad10ec701591bec5bfbfbfb183e712537701536b1b5597bbbf76208d9415",
+  "versions": [
+    {
+      "pkg": "tar-fs",
+      "semver": "1.5.1",
+      "publishedAt": "2015-05-14T23:56:37.777Z",
+      "publisher": "maxogden",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "pump": "^1.0.0",
+        "mkdirp": "^0.5.0",
+        "tar-stream": "^1.1.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/tar-fs",
+          "observedAt": "2026-11-16T10:35:28.714Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/tar-fs",
+          "observedAt": "2026-11-16T10:35:28.714Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/tar-fs",
+          "observedAt": "2026-11-16T10:35:28.714Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/tar-fs",
+          "observedAt": "2026-11-16T10:35:28.714Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/tar-fs",
+          "observedAt": "2026-11-16T10:35:28.714Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "tar-fs",
+      "semver": "3.1.0",
+      "publishedAt": "2025-06-30T07:53:57.882Z",
+      "publisher": "mafintosh",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 17508,
+      "dependencies": {
+        "pump": "^3.0.0",
+        "tar-stream": "^3.1.5"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/tar-fs",
+          "observedAt": "2026-11-16T10:35:28.714Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/tar-fs",
+          "observedAt": "2026-11-16T10:35:28.714Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/tar-fs",
+          "observedAt": "2026-11-16T10:35:28.714Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/tar-fs",
+          "observedAt": "2026-11-16T10:35:28.714Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/tar-fs",
+          "observedAt": "2026-11-16T10:35:28.714Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/tar-fs",
+          "observedAt": "2026-11-16T10:35:28.714Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

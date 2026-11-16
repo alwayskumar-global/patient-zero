@@ -1,0 +1,291 @@
+{
+  "schemaVersion": 1,
+  "pkg": "formidable",
+  "source": "https://registry.npmjs.org/formidable",
+  "fetchedAt": "2026-11-16T10:35:02.768Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 90
+  },
+  "sourceSha256": "e03f11d0f217ff0ee697bcd7cd0504f63f5d397ec2b01b289628651ee2f1638c",
+  "versions": [
+    {
+      "pkg": "formidable",
+      "semver": "1.0.13",
+      "publishedAt": "2013-03-16T19:41:26.120Z",
+      "publisher": "svnlto",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/formidable",
+          "observedAt": "2026-11-16T10:35:02.768Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/formidable",
+          "observedAt": "2026-11-16T10:35:02.768Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/formidable",
+          "observedAt": "2026-11-16T10:35:02.768Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/formidable",
+          "observedAt": "2026-11-16T10:35:02.768Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/formidable",
+          "observedAt": "2026-11-16T10:35:02.768Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "formidable",
+      "semver": "1.0.14",
+      "publishedAt": "2013-05-02T21:10:20.666Z",
+      "publisher": "tim-smart",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/formidable",
+          "observedAt": "2026-11-16T10:35:02.768Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/formidable",
+          "observedAt": "2026-11-16T10:35:02.768Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/formidable",
+          "observedAt": "2026-11-16T10:35:02.768Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/formidable",
+          "observedAt": "2026-11-16T10:35:02.768Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/formidable",
+          "observedAt": "2026-11-16T10:35:02.768Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "formidable",
+      "semver": "1.0.17",
+      "publishedAt": "2015-02-12T08:44:50.814Z",
+      "publisher": "felixge",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/formidable",
+          "observedAt": "2026-11-16T10:35:02.768Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/formidable",
+          "observedAt": "2026-11-16T10:35:02.768Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/formidable",
+          "observedAt": "2026-11-16T10:35:02.768Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/formidable",
+          "observedAt": "2026-11-16T10:35:02.768Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/formidable",
+          "observedAt": "2026-11-16T10:35:02.768Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "formidable",
+      "semver": "1.0.6",
+      "publishedAt": "2011-09-21T06:17:40.012Z",
+      "publisher": null,
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/formidable",
+          "observedAt": "2026-11-16T10:35:02.768Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/formidable",
+          "observedAt": "2026-11-16T10:35:02.768Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/formidable",
+          "observedAt": "2026-11-16T10:35:02.768Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/formidable",
+          "observedAt": "2026-11-16T10:35:02.768Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "formidable",
+      "semver": "1.2.1",
+      "publishedAt": "2018-03-20T15:30:05.677Z",
+      "publisher": "kornel",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 143711,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/formidable",
+          "observedAt": "2026-11-16T10:35:02.768Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/formidable",
+          "observedAt": "2026-11-16T10:35:02.768Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/formidable",
+          "observedAt": "2026-11-16T10:35:02.768Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/formidable",
+          "observedAt": "2026-11-16T10:35:02.768Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/formidable",
+          "observedAt": "2026-11-16T10:35:02.768Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/formidable",
+          "observedAt": "2026-11-16T10:35:02.768Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "formidable",
+      "semver": "3.5.2",
+      "publishedAt": "2024-10-18T20:59:01.646Z",
+      "publisher": "grossacasacs",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 203465,
+      "dependencies": {
+        "once": "^1.4.0",
+        "hexoid": "^2.0.0",
+        "dezalgo": "^1.0.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/formidable",
+          "observedAt": "2026-11-16T10:35:02.768Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/formidable",
+          "observedAt": "2026-11-16T10:35:02.768Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/formidable",
+          "observedAt": "2026-11-16T10:35:02.768Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/formidable",
+          "observedAt": "2026-11-16T10:35:02.768Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/formidable",
+          "observedAt": "2026-11-16T10:35:02.768Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/formidable",
+          "observedAt": "2026-11-16T10:35:02.768Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "formidable",
+      "semver": "4.0.0-rc.6",
+      "publishedAt": "2025-05-12T18:13:21.043Z",
+      "publisher": "tunnckocore",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 244677,
+      "dependencies": {
+        "headers-polyfill": "^4.0.3",
+        "@mjackson/headers": "^0.10.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/formidable",
+          "observedAt": "2026-11-16T10:35:02.768Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/formidable",
+          "observedAt": "2026-11-16T10:35:02.768Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/formidable",
+          "observedAt": "2026-11-16T10:35:02.768Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/formidable",
+          "observedAt": "2026-11-16T10:35:02.768Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/formidable",
+          "observedAt": "2026-11-16T10:35:02.768Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/formidable",
+          "observedAt": "2026-11-16T10:35:02.768Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

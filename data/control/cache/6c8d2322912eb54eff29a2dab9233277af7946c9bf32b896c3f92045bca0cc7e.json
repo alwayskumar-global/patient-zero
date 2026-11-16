@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "pkg": "d3-path",
+  "source": "https://registry.npmjs.org/d3-path",
+  "fetchedAt": "2026-11-16T10:34:59.046Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 25
+  },
+  "sourceSha256": "5589b051d9c1a7c487cb1c7e7234b20fc0010eb5c83d2a760f9bb3ea966d57d6",
+  "versions": [
+    {
+      "pkg": "d3-path",
+      "semver": "2.0.0",
+      "publishedAt": "2020-08-19T11:59:40.115Z",
+      "publisher": "recifs",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 20237,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/d3-path",
+          "observedAt": "2026-11-16T10:34:59.046Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/d3-path",
+          "observedAt": "2026-11-16T10:34:59.046Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/d3-path",
+          "observedAt": "2026-11-16T10:34:59.046Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/d3-path",
+          "observedAt": "2026-11-16T10:34:59.046Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/d3-path",
+          "observedAt": "2026-11-16T10:34:59.046Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/d3-path",
+          "observedAt": "2026-11-16T10:34:59.046Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "d3-path",
+      "semver": "3.1.0",
+      "publishedAt": "2022-12-19T21:50:21.362Z",
+      "publisher": "mbostock",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 20858,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/d3-path",
+          "observedAt": "2026-11-16T10:34:59.046Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/d3-path",
+          "observedAt": "2026-11-16T10:34:59.046Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/d3-path",
+          "observedAt": "2026-11-16T10:34:59.046Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/d3-path",
+          "observedAt": "2026-11-16T10:34:59.046Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/d3-path",
+          "observedAt": "2026-11-16T10:34:59.046Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/d3-path",
+          "observedAt": "2026-11-16T10:34:59.046Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

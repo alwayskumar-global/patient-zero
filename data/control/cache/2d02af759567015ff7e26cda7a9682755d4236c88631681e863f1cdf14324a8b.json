@@ -1,0 +1,191 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@babel/plugin-syntax-decorators",
+  "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-decorators",
+  "fetchedAt": "2026-11-16T10:34:31.967Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 102
+  },
+  "sourceSha256": "4288fbb16aad383f728ab57c4a21d136c60e382423f49777f0c93bb602826ad7",
+  "versions": [
+    {
+      "pkg": "@babel/plugin-syntax-decorators",
+      "semver": "7.0.0-beta.49",
+      "publishedAt": "2018-05-25T16:01:04.568Z",
+      "publisher": "loganfsmyth",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 1798,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "7.0.0-beta.49"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-decorators",
+          "observedAt": "2026-11-16T10:34:31.967Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-decorators",
+          "observedAt": "2026-11-16T10:34:31.967Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-decorators",
+          "observedAt": "2026-11-16T10:34:31.967Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-decorators",
+          "observedAt": "2026-11-16T10:34:31.967Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-decorators",
+          "observedAt": "2026-11-16T10:34:31.967Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-decorators",
+          "observedAt": "2026-11-16T10:34:31.967Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/plugin-syntax-decorators",
+      "semver": "7.1.0",
+      "publishedAt": "2018-09-17T19:30:12.450Z",
+      "publisher": "hzoo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 3370,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "^7.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-decorators",
+          "observedAt": "2026-11-16T10:34:31.967Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-decorators",
+          "observedAt": "2026-11-16T10:34:31.967Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-decorators",
+          "observedAt": "2026-11-16T10:34:31.967Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-decorators",
+          "observedAt": "2026-11-16T10:34:31.967Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-decorators",
+          "observedAt": "2026-11-16T10:34:31.967Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-decorators",
+          "observedAt": "2026-11-16T10:34:31.967Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/plugin-syntax-decorators",
+      "semver": "7.10.4",
+      "publishedAt": "2020-06-30T13:11:39.733Z",
+      "publisher": "jlhwung",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 3411,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "^7.10.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-decorators",
+          "observedAt": "2026-11-16T10:34:31.967Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-decorators",
+          "observedAt": "2026-11-16T10:34:31.967Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-decorators",
+          "observedAt": "2026-11-16T10:34:31.967Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-decorators",
+          "observedAt": "2026-11-16T10:34:31.967Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-decorators",
+          "observedAt": "2026-11-16T10:34:31.967Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-decorators",
+          "observedAt": "2026-11-16T10:34:31.967Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/plugin-syntax-decorators",
+      "semver": "8.0.0-beta.1",
+      "publishedAt": "2025-07-02T09:04:03.828Z",
+      "publisher": "nicolo-ribaudo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 10555,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "^8.0.0-beta.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-decorators",
+          "observedAt": "2026-11-16T10:34:31.967Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-decorators",
+          "observedAt": "2026-11-16T10:34:31.967Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-decorators",
+          "observedAt": "2026-11-16T10:34:31.967Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-decorators",
+          "observedAt": "2026-11-16T10:34:31.967Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-decorators",
+          "observedAt": "2026-11-16T10:34:31.967Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-decorators",
+          "observedAt": "2026-11-16T10:34:31.967Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

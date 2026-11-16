@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "minipass-sized",
+  "source": "https://registry.npmjs.org/minipass-sized",
+  "fetchedAt": "2026-11-16T10:35:13.653Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 5
+  },
+  "sourceSha256": "e6ece905a47caf7a17a38eb6a2df275318e2a53a67e279ac37230c914b426588",
+  "versions": [
+    {
+      "pkg": "minipass-sized",
+      "semver": "1.0.3",
+      "publishedAt": "2019-09-30T20:32:04.488Z",
+      "publisher": "isaacs",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 123865,
+      "dependencies": {
+        "minipass": "^3.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/minipass-sized",
+          "observedAt": "2026-11-16T10:35:13.653Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/minipass-sized",
+          "observedAt": "2026-11-16T10:35:13.653Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/minipass-sized",
+          "observedAt": "2026-11-16T10:35:13.653Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/minipass-sized",
+          "observedAt": "2026-11-16T10:35:13.653Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/minipass-sized",
+          "observedAt": "2026-11-16T10:35:13.653Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/minipass-sized",
+          "observedAt": "2026-11-16T10:35:13.653Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

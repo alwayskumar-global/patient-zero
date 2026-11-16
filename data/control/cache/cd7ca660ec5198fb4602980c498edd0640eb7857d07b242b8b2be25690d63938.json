@@ -1,0 +1,547 @@
+{
+  "schemaVersion": 1,
+  "pkg": "eslint",
+  "source": "https://registry.npmjs.org/eslint",
+  "fetchedAt": "2026-11-16T10:35:01.063Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 435
+  },
+  "sourceSha256": "b907ca3a99086b4f1c88b352caa7f49a0b8556ab99009b1ff7c8ad9d89df66ac",
+  "versions": [
+    {
+      "pkg": "eslint",
+      "semver": "0.7.0",
+      "publishedAt": "2014-05-23T21:21:04.170Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/eslint",
+          "observedAt": "2026-11-16T10:35:01.063Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "eslint",
+      "semver": "3.2.2",
+      "publishedAt": "2016-08-01T18:58:16.290Z",
+      "publisher": "nzakas",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "glob": "^7.0.3",
+        "levn": "^0.3.0",
+        "chalk": "^1.1.3",
+        "debug": "^2.1.1",
+        "table": "^3.7.8",
+        "escope": "^3.6.0",
+        "espree": "^3.1.6",
+        "ignore": "^3.1.2",
+        "lodash": "^4.0.0",
+        "mkdirp": "^0.5.0",
+        "esutils": "^2.0.2",
+        "globals": "^9.2.0",
+        "js-yaml": "^3.5.1",
+        "shelljs": "^0.6.0",
+        "doctrine": "^1.2.2",
+        "inquirer": "^0.12.0",
+        "progress": "^1.1.8",
+        "pluralize": "^1.2.1",
+        "strip-bom": "^3.0.0",
+        "user-home": "^2.0.0",
+        "estraverse": "^4.2.0",
+        "optionator": "^0.8.1",
+        "text-table": "~0.2.0",
+        "imurmurhash": "^0.1.4",
+        "concat-stream": "^1.4.6",
+        "is-resolvable": "^1.0.0",
+        "path-is-inside": "^1.0.1",
+        "file-entry-cache": "^1.3.1",
+        "is-my-json-valid": "^2.10.0",
+        "require-uncached": "^1.0.2",
+        "strip-json-comments": "~1.0.1",
+        "json-stable-stringify": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/eslint",
+          "observedAt": "2026-11-16T10:35:01.063Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/eslint",
+          "observedAt": "2026-11-16T10:35:01.063Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/eslint",
+          "observedAt": "2026-11-16T10:35:01.063Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/eslint",
+          "observedAt": "2026-11-16T10:35:01.063Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/eslint",
+          "observedAt": "2026-11-16T10:35:01.063Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "eslint",
+      "semver": "4.0.0-alpha.1",
+      "publishedAt": "2017-04-21T20:27:14.966Z",
+      "publisher": "kaicataldo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "glob": "^7.1.1",
+        "levn": "^0.3.0",
+        "chalk": "^1.1.3",
+        "debug": "^2.6.3",
+        "table": "^4.0.1",
+        "espree": "^3.4.0",
+        "ignore": "^3.2.6",
+        "lodash": "^4.17.4",
+        "mkdirp": "^0.5.1",
+        "esquery": "^1.0.0",
+        "esutils": "^2.0.2",
+        "globals": "^9.16.0",
+        "js-yaml": "^3.8.2",
+        "shelljs": "^0.7.7",
+        "doctrine": "^2.0.0",
+        "inquirer": "^3.0.6",
+        "progress": "^1.1.8",
+        "pluralize": "^4.0.0",
+        "strip-bom": "^3.0.0",
+        "user-home": "^2.0.0",
+        "estraverse": "^4.2.0",
+        "optionator": "^0.8.2",
+        "text-table": "~0.2.0",
+        "imurmurhash": "^0.1.4",
+        "eslint-scope": "^3.6.0",
+        "concat-stream": "^1.6.0",
+        "is-resolvable": "^1.0.0",
+        "path-is-inside": "^1.0.2",
+        "natural-compare": "^1.4.0",
+        "babel-code-frame": "^6.22.0",
+        "file-entry-cache": "^2.0.0",
+        "is-my-json-valid": "^2.16.0",
+        "require-uncached": "^1.0.3",
+        "strip-json-comments": "~2.0.1",
+        "json-stable-stringify": "^1.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/eslint",
+          "observedAt": "2026-11-16T10:35:01.063Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/eslint",
+          "observedAt": "2026-11-16T10:35:01.063Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/eslint",
+          "observedAt": "2026-11-16T10:35:01.063Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/eslint",
+          "observedAt": "2026-11-16T10:35:01.063Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/eslint",
+          "observedAt": "2026-11-16T10:35:01.063Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "eslint",
+      "semver": "4.0.0-alpha.2",
+      "publishedAt": "2017-05-05T21:02:33.718Z",
+      "publisher": "ivolodin",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "glob": "^7.1.1",
+        "levn": "^0.3.0",
+        "chalk": "^1.1.3",
+        "debug": "^2.6.3",
+        "table": "^4.0.1",
+        "espree": "^3.4.2",
+        "ignore": "^3.2.6",
+        "lodash": "^4.17.4",
+        "mkdirp": "^0.5.1",
+        "esquery": "^1.0.0",
+        "esutils": "^2.0.2",
+        "globals": "^9.16.0",
+        "js-yaml": "^3.8.2",
+        "shelljs": "^0.7.7",
+        "doctrine": "^2.0.0",
+        "inquirer": "^3.0.6",
+        "progress": "^1.1.8",
+        "pluralize": "^4.0.0",
+        "strip-bom": "^3.0.0",
+        "user-home": "^2.0.0",
+        "estraverse": "^4.2.0",
+        "optionator": "^0.8.2",
+        "text-table": "~0.2.0",
+        "imurmurhash": "^0.1.4",
+        "eslint-scope": "^3.6.0",
+        "concat-stream": "^1.6.0",
+        "is-resolvable": "^1.0.0",
+        "path-is-inside": "^1.0.2",
+        "natural-compare": "^1.4.0",
+        "babel-code-frame": "^6.22.0",
+        "file-entry-cache": "^2.0.0",
+        "is-my-json-valid": "^2.16.0",
+        "require-uncached": "^1.0.3",
+        "strip-json-comments": "~2.0.1",
+        "json-stable-stringify": "^1.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/eslint",
+          "observedAt": "2026-11-16T10:35:01.063Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/eslint",
+          "observedAt": "2026-11-16T10:35:01.063Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/eslint",
+          "observedAt": "2026-11-16T10:35:01.063Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/eslint",
+          "observedAt": "2026-11-16T10:35:01.063Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/eslint",
+          "observedAt": "2026-11-16T10:35:01.063Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "eslint",
+      "semver": "4.0.0-beta.0",
+      "publishedAt": "2017-05-19T18:39:19.098Z",
+      "publisher": "not-an-aardvark",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "glob": "^7.1.1",
+        "levn": "^0.3.0",
+        "chalk": "^1.1.3",
+        "debug": "^2.6.3",
+        "table": "^4.0.1",
+        "espree": "^3.4.2",
+        "ignore": "^3.2.6",
+        "lodash": "^4.17.4",
+        "mkdirp": "^0.5.1",
+        "esquery": "^1.0.0",
+        "esutils": "^2.0.2",
+        "globals": "^9.16.0",
+        "js-yaml": "^3.8.2",
+        "doctrine": "^2.0.0",
+        "inquirer": "^3.0.6",
+        "progress": "^1.1.8",
+        "pluralize": "^4.0.0",
+        "user-home": "^2.0.0",
+        "estraverse": "^4.2.0",
+        "optionator": "^0.8.2",
+        "text-table": "~0.2.0",
+        "imurmurhash": "^0.1.4",
+        "eslint-scope": "^3.6.0",
+        "concat-stream": "^1.6.0",
+        "is-resolvable": "^1.0.0",
+        "path-is-inside": "^1.0.2",
+        "natural-compare": "^1.4.0",
+        "babel-code-frame": "^6.22.0",
+        "file-entry-cache": "^2.0.0",
+        "is-my-json-valid": "^2.16.0",
+        "require-uncached": "^1.0.3",
+        "strip-json-comments": "~2.0.1",
+        "json-stable-stringify": "^1.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/eslint",
+          "observedAt": "2026-11-16T10:35:01.063Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/eslint",
+          "observedAt": "2026-11-16T10:35:01.063Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/eslint",
+          "observedAt": "2026-11-16T10:35:01.063Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/eslint",
+          "observedAt": "2026-11-16T10:35:01.063Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/eslint",
+          "observedAt": "2026-11-16T10:35:01.063Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "eslint",
+      "semver": "4.0.0-rc.0",
+      "publishedAt": "2017-06-02T21:22:13.800Z",
+      "publisher": "btmills",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "glob": "^7.1.1",
+        "levn": "^0.3.0",
+        "chalk": "^1.1.3",
+        "debug": "^2.6.3",
+        "table": "^4.0.1",
+        "espree": "^3.4.2",
+        "ignore": "^3.2.6",
+        "lodash": "^4.17.4",
+        "mkdirp": "^0.5.1",
+        "esquery": "^1.0.0",
+        "esutils": "^2.0.2",
+        "globals": "^9.16.0",
+        "js-yaml": "^3.8.2",
+        "doctrine": "^2.0.0",
+        "inquirer": "^3.0.6",
+        "progress": "^1.1.8",
+        "pluralize": "^4.0.0",
+        "estraverse": "^4.2.0",
+        "optionator": "^0.8.2",
+        "text-table": "~0.2.0",
+        "imurmurhash": "^0.1.4",
+        "eslint-scope": "^3.6.0",
+        "concat-stream": "^1.6.0",
+        "is-resolvable": "^1.0.0",
+        "path-is-inside": "^1.0.2",
+        "natural-compare": "^1.4.0",
+        "babel-code-frame": "^6.22.0",
+        "file-entry-cache": "^2.0.0",
+        "is-my-json-valid": "^2.16.0",
+        "require-uncached": "^1.0.3",
+        "strip-json-comments": "~2.0.1",
+        "json-stable-stringify": "^1.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/eslint",
+          "observedAt": "2026-11-16T10:35:01.063Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/eslint",
+          "observedAt": "2026-11-16T10:35:01.063Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/eslint",
+          "observedAt": "2026-11-16T10:35:01.063Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/eslint",
+          "observedAt": "2026-11-16T10:35:01.063Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/eslint",
+          "observedAt": "2026-11-16T10:35:01.063Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "eslint",
+      "semver": "6.5.1",
+      "publishedAt": "2019-10-01T01:51:06.635Z",
+      "publisher": "eslint",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 2810330,
+      "dependencies": {
+        "ajv": "^6.10.0",
+        "levn": "^0.3.0",
+        "chalk": "^2.1.0",
+        "debug": "^4.0.1",
+        "table": "^5.2.3",
+        "espree": "^6.1.1",
+        "ignore": "^4.0.6",
+        "lodash": "^4.17.14",
+        "mkdirp": "^0.5.1",
+        "semver": "^6.1.2",
+        "esquery": "^1.0.1",
+        "esutils": "^2.0.2",
+        "globals": "^11.7.0",
+        "is-glob": "^4.0.0",
+        "js-yaml": "^3.13.1",
+        "regexpp": "^2.0.1",
+        "doctrine": "^3.0.0",
+        "inquirer": "^6.4.1",
+        "progress": "^2.0.0",
+        "minimatch": "^3.0.4",
+        "optionator": "^0.8.2",
+        "strip-ansi": "^5.2.0",
+        "text-table": "^0.2.0",
+        "cross-spawn": "^6.0.5",
+        "glob-parent": "^5.0.0",
+        "imurmurhash": "^0.1.4",
+        "eslint-scope": "^5.0.0",
+        "eslint-utils": "^1.4.2",
+        "import-fresh": "^3.0.0",
+        "natural-compare": "^1.4.0",
+        "file-entry-cache": "^5.0.1",
+        "v8-compile-cache": "^2.0.3",
+        "@babel/code-frame": "^7.0.0",
+        "eslint-visitor-keys": "^1.1.0",
+        "strip-json-comments": "^3.0.1",
+        "functional-red-black-tree": "^1.0.1",
+        "json-stable-stringify-without-jsonify": "^1.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/eslint",
+          "observedAt": "2026-11-16T10:35:01.063Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/eslint",
+          "observedAt": "2026-11-16T10:35:01.063Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/eslint",
+          "observedAt": "2026-11-16T10:35:01.063Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/eslint",
+          "observedAt": "2026-11-16T10:35:01.063Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/eslint",
+          "observedAt": "2026-11-16T10:35:01.063Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/eslint",
+          "observedAt": "2026-11-16T10:35:01.063Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "eslint",
+      "semver": "9.32.0",
+      "publishedAt": "2025-07-25T14:46:05.624Z",
+      "publisher": "eslintbot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 2957501,
+      "dependencies": {
+        "ajv": "^6.12.4",
+        "chalk": "^4.0.0",
+        "debug": "^4.3.2",
+        "espree": "^10.4.0",
+        "ignore": "^5.2.0",
+        "esquery": "^1.5.0",
+        "esutils": "^2.0.2",
+        "find-up": "^5.0.0",
+        "is-glob": "^4.0.0",
+        "minimatch": "^3.1.2",
+        "@eslint/js": "9.32.0",
+        "optionator": "^0.9.3",
+        "cross-spawn": "^7.0.6",
+        "glob-parent": "^6.0.2",
+        "imurmurhash": "^0.1.4",
+        "@eslint/core": "^0.15.0",
+        "eslint-scope": "^8.4.0",
+        "lodash.merge": "^4.6.2",
+        "@humanfs/node": "^0.16.6",
+        "@types/estree": "^1.0.6",
+        "fast-deep-equal": "^3.1.3",
+        "natural-compare": "^1.4.0",
+        "@eslint/eslintrc": "^3.3.1",
+        "file-entry-cache": "^8.0.0",
+        "@eslint/plugin-kit": "^0.3.4",
+        "@types/json-schema": "^7.0.15",
+        "eslint-visitor-keys": "^4.2.1",
+        "@eslint/config-array": "^0.21.0",
+        "@humanwhocodes/retry": "^0.4.2",
+        "escape-string-regexp": "^4.0.0",
+        "@eslint/config-helpers": "^0.3.0",
+        "@eslint-community/regexpp": "^4.12.1",
+        "@eslint-community/eslint-utils": "^4.2.0",
+        "@humanwhocodes/module-importer": "^1.0.1",
+        "json-stable-stringify-without-jsonify": "^1.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/eslint",
+          "observedAt": "2026-11-16T10:35:01.063Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/eslint",
+          "observedAt": "2026-11-16T10:35:01.063Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/eslint",
+          "observedAt": "2026-11-16T10:35:01.063Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/eslint",
+          "observedAt": "2026-11-16T10:35:01.063Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/eslint",
+          "observedAt": "2026-11-16T10:35:01.063Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/eslint",
+          "observedAt": "2026-11-16T10:35:01.063Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

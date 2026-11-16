@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@types/istanbul-lib-coverage",
+  "source": "https://registry.npmjs.org/%40types%2Fistanbul-lib-coverage",
+  "fetchedAt": "2026-11-16T10:34:50.769Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 8
+  },
+  "sourceSha256": "d1b024c1d3afe6f6c88d414c6837735f3afd1e4acf0cf6046ea65280eb34f2ce",
+  "versions": [
+    {
+      "pkg": "@types/istanbul-lib-coverage",
+      "semver": "2.0.6",
+      "publishedAt": "2023-11-07T08:10:49.131Z",
+      "publisher": "types",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 5445,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40types%2Fistanbul-lib-coverage",
+          "observedAt": "2026-11-16T10:34:50.769Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40types%2Fistanbul-lib-coverage",
+          "observedAt": "2026-11-16T10:34:50.769Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40types%2Fistanbul-lib-coverage",
+          "observedAt": "2026-11-16T10:34:50.769Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40types%2Fistanbul-lib-coverage",
+          "observedAt": "2026-11-16T10:34:50.769Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40types%2Fistanbul-lib-coverage",
+          "observedAt": "2026-11-16T10:34:50.769Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40types%2Fistanbul-lib-coverage",
+          "observedAt": "2026-11-16T10:34:50.769Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

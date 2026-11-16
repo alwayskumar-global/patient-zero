@@ -1,0 +1,673 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@typescript-eslint/utils",
+  "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+  "fetchedAt": "2026-11-16T10:34:54.092Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 3275
+  },
+  "sourceSha256": "6ec955d98475de67aa5856e8562e531909ad8ce3e78c2e3d01b14b60c1dde9ae",
+  "versions": [
+    {
+      "pkg": "@typescript-eslint/utils",
+      "semver": "8.38.0",
+      "publishedAt": "2025-07-21T17:22:11.031Z",
+      "publisher": "jameshenry",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 267903,
+      "dependencies": {
+        "@typescript-eslint/types": "8.38.0",
+        "@eslint-community/eslint-utils": "^4.7.0",
+        "@typescript-eslint/scope-manager": "8.38.0",
+        "@typescript-eslint/typescript-estree": "8.38.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@typescript-eslint/utils",
+      "semver": "8.38.1-alpha.0",
+      "publishedAt": "2025-08-01T22:28:02.869Z",
+      "publisher": "jameshenry",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 267935,
+      "dependencies": {
+        "@typescript-eslint/types": "8.38.1-alpha.0",
+        "@eslint-community/eslint-utils": "^4.7.0",
+        "@typescript-eslint/scope-manager": "8.38.1-alpha.0",
+        "@typescript-eslint/typescript-estree": "8.38.1-alpha.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@typescript-eslint/utils",
+      "semver": "8.38.1-alpha.1",
+      "publishedAt": "2025-08-01T22:48:47.874Z",
+      "publisher": "jameshenry",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 267935,
+      "dependencies": {
+        "@typescript-eslint/types": "8.38.1-alpha.1",
+        "@eslint-community/eslint-utils": "^4.7.0",
+        "@typescript-eslint/scope-manager": "8.38.1-alpha.1",
+        "@typescript-eslint/typescript-estree": "8.38.1-alpha.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@typescript-eslint/utils",
+      "semver": "8.38.1-alpha.2",
+      "publishedAt": "2025-08-01T23:07:29.748Z",
+      "publisher": "jameshenry",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 267935,
+      "dependencies": {
+        "@typescript-eslint/types": "8.38.1-alpha.2",
+        "@eslint-community/eslint-utils": "^4.7.0",
+        "@typescript-eslint/scope-manager": "8.38.1-alpha.2",
+        "@typescript-eslint/typescript-estree": "8.38.1-alpha.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@typescript-eslint/utils",
+      "semver": "8.38.1-alpha.3",
+      "publishedAt": "2025-08-01T23:31:22.117Z",
+      "publisher": "jameshenry",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 267935,
+      "dependencies": {
+        "@typescript-eslint/types": "8.38.1-alpha.3",
+        "@eslint-community/eslint-utils": "^4.7.0",
+        "@typescript-eslint/scope-manager": "8.38.1-alpha.3",
+        "@typescript-eslint/typescript-estree": "8.38.1-alpha.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@typescript-eslint/utils",
+      "semver": "8.38.1-alpha.4",
+      "publishedAt": "2025-08-03T00:42:29.085Z",
+      "publisher": "jameshenry",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 267567,
+      "dependencies": {
+        "@typescript-eslint/types": "8.38.1-alpha.4",
+        "@eslint-community/eslint-utils": "^4.7.0",
+        "@typescript-eslint/scope-manager": "8.38.1-alpha.4",
+        "@typescript-eslint/typescript-estree": "8.38.1-alpha.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@typescript-eslint/utils",
+      "semver": "8.38.1-alpha.5",
+      "publishedAt": "2025-08-03T17:44:34.845Z",
+      "publisher": "jameshenry",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 267567,
+      "dependencies": {
+        "@typescript-eslint/types": "8.38.1-alpha.5",
+        "@eslint-community/eslint-utils": "^4.7.0",
+        "@typescript-eslint/scope-manager": "8.38.1-alpha.5",
+        "@typescript-eslint/typescript-estree": "8.38.1-alpha.5"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@typescript-eslint/utils",
+      "semver": "8.38.1-alpha.6",
+      "publishedAt": "2025-08-03T19:05:53.060Z",
+      "publisher": "jameshenry",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 267567,
+      "dependencies": {
+        "@typescript-eslint/types": "8.38.1-alpha.6",
+        "@eslint-community/eslint-utils": "^4.7.0",
+        "@typescript-eslint/scope-manager": "8.38.1-alpha.6",
+        "@typescript-eslint/typescript-estree": "8.38.1-alpha.6"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@typescript-eslint/utils",
+      "semver": "8.38.1-alpha.7",
+      "publishedAt": "2025-08-04T02:52:38.043Z",
+      "publisher": "jameshenry",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 267567,
+      "dependencies": {
+        "@typescript-eslint/types": "8.38.1-alpha.7",
+        "@eslint-community/eslint-utils": "^4.7.0",
+        "@typescript-eslint/scope-manager": "8.38.1-alpha.7",
+        "@typescript-eslint/typescript-estree": "8.38.1-alpha.7"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@typescript-eslint/utils",
+      "semver": "8.38.1-alpha.8",
+      "publishedAt": "2025-08-04T14:57:15.900Z",
+      "publisher": "jameshenry",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 267567,
+      "dependencies": {
+        "@typescript-eslint/types": "8.38.1-alpha.8",
+        "@eslint-community/eslint-utils": "^4.7.0",
+        "@typescript-eslint/scope-manager": "8.38.1-alpha.8",
+        "@typescript-eslint/typescript-estree": "8.38.1-alpha.8"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@typescript-eslint/utils",
+      "semver": "8.39.0",
+      "publishedAt": "2025-08-04T17:26:29.799Z",
+      "publisher": "jameshenry",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 267535,
+      "dependencies": {
+        "@typescript-eslint/types": "8.39.0",
+        "@eslint-community/eslint-utils": "^4.7.0",
+        "@typescript-eslint/scope-manager": "8.39.0",
+        "@typescript-eslint/typescript-estree": "8.39.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@typescript-eslint/utils",
+      "semver": "8.39.1-alpha.0",
+      "publishedAt": "2025-08-04T17:39:39.525Z",
+      "publisher": "jameshenry",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 267567,
+      "dependencies": {
+        "@typescript-eslint/types": "8.39.1-alpha.0",
+        "@eslint-community/eslint-utils": "^4.7.0",
+        "@typescript-eslint/scope-manager": "8.39.1-alpha.0",
+        "@typescript-eslint/typescript-estree": "8.39.1-alpha.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@typescript-eslint/utils",
+      "semver": "8.39.1-alpha.1",
+      "publishedAt": "2025-08-05T00:14:12.178Z",
+      "publisher": "jameshenry",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 267567,
+      "dependencies": {
+        "@typescript-eslint/types": "8.39.1-alpha.1",
+        "@eslint-community/eslint-utils": "^4.7.0",
+        "@typescript-eslint/scope-manager": "8.39.1-alpha.1",
+        "@typescript-eslint/typescript-estree": "8.39.1-alpha.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@typescript-eslint/utils",
+      "semver": "8.39.1-alpha.2",
+      "publishedAt": "2025-08-05T00:24:43.209Z",
+      "publisher": "jameshenry",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 267567,
+      "dependencies": {
+        "@typescript-eslint/types": "8.39.1-alpha.2",
+        "@eslint-community/eslint-utils": "^4.7.0",
+        "@typescript-eslint/scope-manager": "8.39.1-alpha.2",
+        "@typescript-eslint/typescript-estree": "8.39.1-alpha.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Futils",
+          "observedAt": "2026-11-16T10:34:54.092Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

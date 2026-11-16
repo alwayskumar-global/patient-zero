@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@babel/plugin-syntax-import-assertions",
+  "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-import-assertions",
+  "fetchedAt": "2026-11-16T10:34:32.048Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 50
+  },
+  "sourceSha256": "6eee4abfa092a0a233a2a7306698d5fc58b6c6cbb156cb56f135ee0356aee40d",
+  "versions": [
+    {
+      "pkg": "@babel/plugin-syntax-import-assertions",
+      "semver": "8.0.0-beta.1",
+      "publishedAt": "2025-07-02T09:04:06.207Z",
+      "publisher": "nicolo-ribaudo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 6071,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "^8.0.0-beta.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-import-assertions",
+          "observedAt": "2026-11-16T10:34:32.048Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-import-assertions",
+          "observedAt": "2026-11-16T10:34:32.048Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-import-assertions",
+          "observedAt": "2026-11-16T10:34:32.048Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-import-assertions",
+          "observedAt": "2026-11-16T10:34:32.048Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-import-assertions",
+          "observedAt": "2026-11-16T10:34:32.048Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-import-assertions",
+          "observedAt": "2026-11-16T10:34:32.048Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

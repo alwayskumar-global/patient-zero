@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "pkg": "http2-wrapper",
+  "source": "https://registry.npmjs.org/http2-wrapper",
+  "fetchedAt": "2026-11-16T10:35:04.212Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 62
+  },
+  "sourceSha256": "dfd1f94d60723f060334cf14eaf4e4a617a026bc7a25baa4998516eeac09502d",
+  "versions": [
+    {
+      "pkg": "http2-wrapper",
+      "semver": "2.2.1",
+      "publishedAt": "2023-11-10T16:11:05.951Z",
+      "publisher": "szmarczak",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 75884,
+      "dependencies": {
+        "quick-lru": "^5.1.1",
+        "resolve-alpn": "^1.2.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/http2-wrapper",
+          "observedAt": "2026-11-16T10:35:04.212Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/http2-wrapper",
+          "observedAt": "2026-11-16T10:35:04.212Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/http2-wrapper",
+          "observedAt": "2026-11-16T10:35:04.212Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/http2-wrapper",
+          "observedAt": "2026-11-16T10:35:04.212Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/http2-wrapper",
+          "observedAt": "2026-11-16T10:35:04.212Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/http2-wrapper",
+          "observedAt": "2026-11-16T10:35:04.212Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

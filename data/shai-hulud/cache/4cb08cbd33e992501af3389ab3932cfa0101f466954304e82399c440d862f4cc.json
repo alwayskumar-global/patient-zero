@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "pkg": "airchief",
+  "source": "https://registry.npmjs.org/airchief",
+  "fetchedAt": "2026-11-16T10:32:14.298Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 6
+  },
+  "sourceSha256": "76bc0cc218730609458c0b5a09fb363d060cc4f6bc3a5d8b8f71f219a74f9cf3",
+  "versions": [
+    {
+      "pkg": "airchief",
+      "semver": "0.0.1",
+      "publishedAt": "2025-06-20T22:12:40.159Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/airchief",
+          "observedAt": "2026-11-16T10:32:14.298Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "airchief",
+      "semver": "0.3.0",
+      "publishedAt": "2025-06-22T07:56:12.984Z",
+      "publisher": "shaneholloman",
+      "hasInstallScript": true,
+      "provenance": false,
+      "unpackedSize": 4273,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/airchief",
+          "observedAt": "2026-11-16T10:32:14.298Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/airchief",
+          "observedAt": "2026-11-16T10:32:14.298Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/airchief",
+          "observedAt": "2026-11-16T10:32:14.298Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/airchief",
+          "observedAt": "2026-11-16T10:32:14.298Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/airchief",
+          "observedAt": "2026-11-16T10:32:14.298Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/airchief",
+          "observedAt": "2026-11-16T10:32:14.298Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "airchief",
+      "semver": "0.3.1",
+      "publishedAt": "2025-09-14T18:35:09.521Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/airchief",
+          "observedAt": "2026-11-16T10:32:14.298Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

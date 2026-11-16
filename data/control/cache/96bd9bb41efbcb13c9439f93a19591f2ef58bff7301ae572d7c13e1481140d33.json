@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@types/node",
+  "source": "https://registry.npmjs.org/%40types%2Fnode",
+  "fetchedAt": "2026-11-16T10:34:51.076Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 2382
+  },
+  "sourceSha256": "5ae26f5df775df3faccd44a5e97093e8b5633be610c6b0282b19392b13682494",
+  "versions": [
+    {
+      "pkg": "@types/node",
+      "semver": "22.17.0",
+      "publishedAt": "2025-07-29T15:04:25.941Z",
+      "publisher": "types",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 2394825,
+      "dependencies": {
+        "undici-types": "~6.21.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40types%2Fnode",
+          "observedAt": "2026-11-16T10:34:51.076Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40types%2Fnode",
+          "observedAt": "2026-11-16T10:34:51.076Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40types%2Fnode",
+          "observedAt": "2026-11-16T10:34:51.076Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40types%2Fnode",
+          "observedAt": "2026-11-16T10:34:51.076Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40types%2Fnode",
+          "observedAt": "2026-11-16T10:34:51.076Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40types%2Fnode",
+          "observedAt": "2026-11-16T10:34:51.076Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@types/node",
+      "semver": "24.2.0",
+      "publishedAt": "2025-08-04T10:03:42.006Z",
+      "publisher": "types",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 2408413,
+      "dependencies": {
+        "undici-types": "~7.10.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40types%2Fnode",
+          "observedAt": "2026-11-16T10:34:51.076Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40types%2Fnode",
+          "observedAt": "2026-11-16T10:34:51.076Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40types%2Fnode",
+          "observedAt": "2026-11-16T10:34:51.076Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40types%2Fnode",
+          "observedAt": "2026-11-16T10:34:51.076Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40types%2Fnode",
+          "observedAt": "2026-11-16T10:34:51.076Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40types%2Fnode",
+          "observedAt": "2026-11-16T10:34:51.076Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "pkg": "bindings",
+  "source": "https://registry.npmjs.org/bindings",
+  "fetchedAt": "2026-11-16T10:34:56.766Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 19
+  },
+  "sourceSha256": "bcd2501d39408c7ebc1caacc5fa568f96bf61edb4af93647aff7ac3a537532ef",
+  "versions": [
+    {
+      "pkg": "bindings",
+      "semver": "0.3.0",
+      "publishedAt": "2012-02-28T19:39:05.034Z",
+      "publisher": "TooTallNate",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/bindings",
+          "observedAt": "2026-11-16T10:34:56.766Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/bindings",
+          "observedAt": "2026-11-16T10:34:56.766Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/bindings",
+          "observedAt": "2026-11-16T10:34:56.766Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/bindings",
+          "observedAt": "2026-11-16T10:34:56.766Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/bindings",
+          "observedAt": "2026-11-16T10:34:56.766Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "bindings",
+      "semver": "1.0.0",
+      "publishedAt": "2012-07-18T18:49:12.866Z",
+      "publisher": null,
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/bindings",
+          "observedAt": "2026-11-16T10:34:56.766Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/bindings",
+          "observedAt": "2026-11-16T10:34:56.766Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/bindings",
+          "observedAt": "2026-11-16T10:34:56.766Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/bindings",
+          "observedAt": "2026-11-16T10:34:56.766Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "bindings",
+      "semver": "1.5.0",
+      "publishedAt": "2019-02-27T22:54:44.325Z",
+      "publisher": "tootallnate",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 11230,
+      "dependencies": {
+        "file-uri-to-path": "1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/bindings",
+          "observedAt": "2026-11-16T10:34:56.766Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/bindings",
+          "observedAt": "2026-11-16T10:34:56.766Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/bindings",
+          "observedAt": "2026-11-16T10:34:56.766Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/bindings",
+          "observedAt": "2026-11-16T10:34:56.766Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/bindings",
+          "observedAt": "2026-11-16T10:34:56.766Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/bindings",
+          "observedAt": "2026-11-16T10:34:56.766Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

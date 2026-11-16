@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "pkg": "icss-utils",
+  "source": "https://registry.npmjs.org/icss-utils",
+  "fetchedAt": "2026-11-16T10:35:04.357Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 10
+  },
+  "sourceSha256": "3a75f3c6938f20e02cafb205958abb79cfb8918ac3c9eb42147d9935914646c2",
+  "versions": [
+    {
+      "pkg": "icss-utils",
+      "semver": "3.0.1",
+      "publishedAt": "2017-06-14T23:05:31.065Z",
+      "publisher": "trysound",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "postcss": "^6.0.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/icss-utils",
+          "observedAt": "2026-11-16T10:35:04.357Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/icss-utils",
+          "observedAt": "2026-11-16T10:35:04.357Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/icss-utils",
+          "observedAt": "2026-11-16T10:35:04.357Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/icss-utils",
+          "observedAt": "2026-11-16T10:35:04.357Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/icss-utils",
+          "observedAt": "2026-11-16T10:35:04.357Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "icss-utils",
+      "semver": "4.0.0",
+      "publishedAt": "2018-11-01T10:17:55.040Z",
+      "publisher": "sullenor",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 8746,
+      "dependencies": {
+        "postcss": "^7.0.5"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/icss-utils",
+          "observedAt": "2026-11-16T10:35:04.357Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/icss-utils",
+          "observedAt": "2026-11-16T10:35:04.357Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/icss-utils",
+          "observedAt": "2026-11-16T10:35:04.357Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/icss-utils",
+          "observedAt": "2026-11-16T10:35:04.357Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/icss-utils",
+          "observedAt": "2026-11-16T10:35:04.357Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/icss-utils",
+          "observedAt": "2026-11-16T10:35:04.357Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "icss-utils",
+      "semver": "5.1.0",
+      "publishedAt": "2020-11-19T16:23:11.564Z",
+      "publisher": "evilebottnawi",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 9998,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/icss-utils",
+          "observedAt": "2026-11-16T10:35:04.357Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/icss-utils",
+          "observedAt": "2026-11-16T10:35:04.357Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/icss-utils",
+          "observedAt": "2026-11-16T10:35:04.357Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/icss-utils",
+          "observedAt": "2026-11-16T10:35:04.357Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/icss-utils",
+          "observedAt": "2026-11-16T10:35:04.357Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/icss-utils",
+          "observedAt": "2026-11-16T10:35:04.357Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

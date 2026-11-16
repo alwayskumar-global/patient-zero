@@ -1,0 +1,437 @@
+{
+  "schemaVersion": 1,
+  "pkg": "jest-config",
+  "source": "https://registry.npmjs.org/jest-config",
+  "fetchedAt": "2026-11-16T10:35:07.658Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 335
+  },
+  "sourceSha256": "dc12d6328fbdbb5542530985caf8f203dbfc6c6b196eb1247993e7ef8a7465a6",
+  "versions": [
+    {
+      "pkg": "jest-config",
+      "semver": "21.0.0-alpha.2",
+      "publishedAt": "2017-08-21T22:06:57.137Z",
+      "publisher": "aaronabramov",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "glob": "^7.1.1",
+        "chalk": "^2.0.1",
+        "jest-util": "21.0.0-alpha.2",
+        "jest-resolve": "21.0.0-alpha.2",
+        "jest-get-type": "21.0.0-alpha.2",
+        "jest-jasmine2": "21.0.0-alpha.2",
+        "jest-validate": "21.0.0-alpha.2",
+        "pretty-format": "21.0.0-alpha.2",
+        "jest-regex-util": "21.0.0-alpha.2",
+        "jest-matcher-utils": "21.0.0-alpha.2",
+        "jest-environment-node": "21.0.0-alpha.2",
+        "jest-environment-jsdom": "21.0.0-alpha.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-config",
+          "observedAt": "2026-11-16T10:35:07.658Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-config",
+          "observedAt": "2026-11-16T10:35:07.658Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-config",
+          "observedAt": "2026-11-16T10:35:07.658Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-config",
+          "observedAt": "2026-11-16T10:35:07.658Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-config",
+          "observedAt": "2026-11-16T10:35:07.658Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jest-config",
+      "semver": "24.0.0-alpha.14",
+      "publishedAt": "2019-01-24T16:29:36.573Z",
+      "publisher": "mjesun",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 100332,
+      "dependencies": {
+        "glob": "^7.1.1",
+        "uuid": "^3.3.2",
+        "chalk": "^2.0.1",
+        "jest-util": "^23.4.0",
+        "babel-jest": "^23.6.0",
+        "micromatch": "^3.1.10",
+        "@babel/core": "^7.1.0",
+        "jest-resolve": "^24.0.0-alpha.14",
+        "jest-get-type": "^22.1.0",
+        "jest-jasmine2": "^24.0.0-alpha.14",
+        "jest-validate": "^23.6.0",
+        "pretty-format": "^23.6.0",
+        "jest-regex-util": "^23.3.0",
+        "realpath-native": "^1.0.2",
+        "jest-environment-node": "^23.4.0",
+        "jest-environment-jsdom": "^23.4.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-config",
+          "observedAt": "2026-11-16T10:35:07.658Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-config",
+          "observedAt": "2026-11-16T10:35:07.658Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-config",
+          "observedAt": "2026-11-16T10:35:07.658Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-config",
+          "observedAt": "2026-11-16T10:35:07.658Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jest-config",
+          "observedAt": "2026-11-16T10:35:07.658Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-config",
+          "observedAt": "2026-11-16T10:35:07.658Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jest-config",
+      "semver": "24.6.0",
+      "publishedAt": "2019-04-01T22:27:15.800Z",
+      "publisher": "rubennorte",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 359533,
+      "dependencies": {
+        "glob": "^7.1.1",
+        "chalk": "^2.0.1",
+        "jest-util": "^24.6.0",
+        "babel-jest": "^24.6.0",
+        "micromatch": "^3.1.10",
+        "@babel/core": "^7.1.0",
+        "@jest/types": "^24.6.0",
+        "jest-resolve": "^24.6.0",
+        "jest-get-type": "^24.3.0",
+        "jest-jasmine2": "^24.6.0",
+        "jest-validate": "^24.6.0",
+        "pretty-format": "^24.6.0",
+        "jest-regex-util": "^24.3.0",
+        "realpath-native": "^1.1.0",
+        "jest-environment-node": "^24.6.0",
+        "jest-environment-jsdom": "^24.6.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-config",
+          "observedAt": "2026-11-16T10:35:07.658Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-config",
+          "observedAt": "2026-11-16T10:35:07.658Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-config",
+          "observedAt": "2026-11-16T10:35:07.658Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-config",
+          "observedAt": "2026-11-16T10:35:07.658Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jest-config",
+          "observedAt": "2026-11-16T10:35:07.658Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-config",
+          "observedAt": "2026-11-16T10:35:07.658Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jest-config",
+      "semver": "25.0.0",
+      "publishedAt": "2019-08-22T03:24:42.669Z",
+      "publisher": "scotthovestadt",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 125316,
+      "dependencies": {
+        "glob": "^7.1.1",
+        "chalk": "^2.0.1",
+        "jest-util": "^25.0.0",
+        "babel-jest": "^25.0.0",
+        "micromatch": "^4.0.2",
+        "@babel/core": "^7.1.0",
+        "@jest/types": "^25.0.0",
+        "jest-resolve": "^25.0.0",
+        "jest-get-type": "^25.0.0",
+        "jest-jasmine2": "^25.0.0",
+        "jest-validate": "^25.0.0",
+        "pretty-format": "^25.0.0",
+        "jest-regex-util": "^25.0.0",
+        "realpath-native": "^1.1.0",
+        "@jest/test-sequencer": "^25.0.0",
+        "jest-environment-node": "^25.0.0",
+        "jest-environment-jsdom": "^25.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-config",
+          "observedAt": "2026-11-16T10:35:07.658Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-config",
+          "observedAt": "2026-11-16T10:35:07.658Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-config",
+          "observedAt": "2026-11-16T10:35:07.658Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-config",
+          "observedAt": "2026-11-16T10:35:07.658Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jest-config",
+          "observedAt": "2026-11-16T10:35:07.658Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-config",
+          "observedAt": "2026-11-16T10:35:07.658Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jest-config",
+      "semver": "25.1.0",
+      "publishedAt": "2020-01-22T01:00:28.425Z",
+      "publisher": "davidzilburg",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 136365,
+      "dependencies": {
+        "glob": "^7.1.1",
+        "chalk": "^3.0.0",
+        "jest-util": "^25.1.0",
+        "babel-jest": "^25.1.0",
+        "micromatch": "^4.0.2",
+        "@babel/core": "^7.1.0",
+        "@jest/types": "^25.1.0",
+        "jest-resolve": "^25.1.0",
+        "jest-get-type": "^25.1.0",
+        "jest-jasmine2": "^25.1.0",
+        "jest-validate": "^25.1.0",
+        "pretty-format": "^25.1.0",
+        "jest-regex-util": "^25.1.0",
+        "realpath-native": "^1.1.0",
+        "@jest/test-sequencer": "^25.1.0",
+        "jest-environment-node": "^25.1.0",
+        "jest-environment-jsdom": "^25.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-config",
+          "observedAt": "2026-11-16T10:35:07.658Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-config",
+          "observedAt": "2026-11-16T10:35:07.658Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-config",
+          "observedAt": "2026-11-16T10:35:07.658Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-config",
+          "observedAt": "2026-11-16T10:35:07.658Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jest-config",
+          "observedAt": "2026-11-16T10:35:07.658Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-config",
+          "observedAt": "2026-11-16T10:35:07.658Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jest-config",
+      "semver": "30.0.0-alpha.7",
+      "publishedAt": "2025-01-30T08:28:53.388Z",
+      "publisher": "simenb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 115160,
+      "dependencies": {
+        "glob": "^10.3.10",
+        "chalk": "^4.0.0",
+        "slash": "^3.0.0",
+        "ci-info": "^4.0.0",
+        "deepmerge": "^4.2.2",
+        "jest-util": "30.0.0-alpha.7",
+        "babel-jest": "30.0.0-alpha.7",
+        "micromatch": "^4.0.8",
+        "parse-json": "^5.2.0",
+        "@babel/core": "^7.11.6",
+        "@jest/types": "30.0.0-alpha.7",
+        "graceful-fs": "^4.2.9",
+        "jest-circus": "30.0.0-alpha.7",
+        "jest-runner": "30.0.0-alpha.7",
+        "jest-resolve": "30.0.0-alpha.7",
+        "@jest/pattern": "30.0.0-alpha.7",
+        "jest-docblock": "30.0.0-alpha.7",
+        "jest-get-type": "30.0.0-alpha.7",
+        "jest-validate": "30.0.0-alpha.7",
+        "pretty-format": "30.0.0-alpha.7",
+        "jest-regex-util": "30.0.0-alpha.7",
+        "strip-json-comments": "^3.1.1",
+        "@jest/test-sequencer": "30.0.0-alpha.7",
+        "jest-environment-node": "30.0.0-alpha.7"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-config",
+          "observedAt": "2026-11-16T10:35:07.658Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-config",
+          "observedAt": "2026-11-16T10:35:07.658Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-config",
+          "observedAt": "2026-11-16T10:35:07.658Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-config",
+          "observedAt": "2026-11-16T10:35:07.658Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jest-config",
+          "observedAt": "2026-11-16T10:35:07.658Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-config",
+          "observedAt": "2026-11-16T10:35:07.658Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jest-config",
+      "semver": "30.0.5",
+      "publishedAt": "2025-07-22T02:28:53.292Z",
+      "publisher": "cpojer",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 119668,
+      "dependencies": {
+        "glob": "^10.3.10",
+        "chalk": "^4.1.2",
+        "slash": "^3.0.0",
+        "ci-info": "^4.2.0",
+        "deepmerge": "^4.3.1",
+        "jest-util": "30.0.5",
+        "babel-jest": "30.0.5",
+        "micromatch": "^4.0.8",
+        "parse-json": "^5.2.0",
+        "@babel/core": "^7.27.4",
+        "@jest/types": "30.0.5",
+        "graceful-fs": "^4.2.11",
+        "jest-circus": "30.0.5",
+        "jest-runner": "30.0.5",
+        "jest-resolve": "30.0.5",
+        "@jest/pattern": "30.0.1",
+        "jest-docblock": "30.0.1",
+        "jest-validate": "30.0.5",
+        "pretty-format": "30.0.5",
+        "@jest/get-type": "30.0.1",
+        "jest-regex-util": "30.0.1",
+        "strip-json-comments": "^3.1.1",
+        "@jest/test-sequencer": "30.0.5",
+        "jest-environment-node": "30.0.5"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-config",
+          "observedAt": "2026-11-16T10:35:07.658Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-config",
+          "observedAt": "2026-11-16T10:35:07.658Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-config",
+          "observedAt": "2026-11-16T10:35:07.658Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-config",
+          "observedAt": "2026-11-16T10:35:07.658Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jest-config",
+          "observedAt": "2026-11-16T10:35:07.658Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-config",
+          "observedAt": "2026-11-16T10:35:07.658Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

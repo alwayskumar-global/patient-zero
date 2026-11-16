@@ -1,0 +1,399 @@
+{
+  "schemaVersion": 1,
+  "pkg": "node-gyp",
+  "source": "https://registry.npmjs.org/node-gyp",
+  "fetchedAt": "2026-11-16T10:35:15.341Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 166
+  },
+  "sourceSha256": "b7d9a183a92148682e9b049ef6d97aeecdd37a05103f391ed6ea7f432483e904",
+  "versions": [
+    {
+      "pkg": "node-gyp",
+      "semver": "0.3.0",
+      "publishedAt": "2012-03-07T20:26:05.725Z",
+      "publisher": "TooTallNate",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "tar": "~0.1.12",
+        "ansi": "0.0.x",
+        "glob": "3",
+        "nopt": "1",
+        "which": "1",
+        "mkdirp": "0.3.0",
+        "rimraf": "2",
+        "semver": "1",
+        "fstream": "~0.1.13",
+        "request": "2.9.x",
+        "minimatch": "~0.1.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/node-gyp",
+          "observedAt": "2026-11-16T10:35:15.341Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/node-gyp",
+          "observedAt": "2026-11-16T10:35:15.341Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/node-gyp",
+          "observedAt": "2026-11-16T10:35:15.341Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/node-gyp",
+          "observedAt": "2026-11-16T10:35:15.341Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/node-gyp",
+          "observedAt": "2026-11-16T10:35:15.341Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "node-gyp",
+      "semver": "0.9.7",
+      "publishedAt": "2013-06-05T22:54:09.331Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/node-gyp",
+          "observedAt": "2026-11-16T10:35:15.341Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "node-gyp",
+      "semver": "1.0.2",
+      "publishedAt": "2014-09-11T07:09:32.146Z",
+      "publisher": "isaacs",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "tar": "^1.0.0",
+        "glob": "3 || 4",
+        "nopt": "2 || 3",
+        "osenv": "0",
+        "which": "1",
+        "mkdirp": "^0.5.0",
+        "npmlog": "0",
+        "rimraf": "2",
+        "semver": "2.x || 3.x || 4",
+        "fstream": "^1.0.0",
+        "request": "2",
+        "minimatch": "1",
+        "graceful-fs": "3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/node-gyp",
+          "observedAt": "2026-11-16T10:35:15.341Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/node-gyp",
+          "observedAt": "2026-11-16T10:35:15.341Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/node-gyp",
+          "observedAt": "2026-11-16T10:35:15.341Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/node-gyp",
+          "observedAt": "2026-11-16T10:35:15.341Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/node-gyp",
+          "observedAt": "2026-11-16T10:35:15.341Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "node-gyp",
+      "semver": "10.3.0",
+      "publishedAt": "2024-12-02T21:09:28.580Z",
+      "publisher": "lukekarrys",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 1851099,
+      "dependencies": {
+        "tar": "^6.2.1",
+        "glob": "^10.3.10",
+        "nopt": "^7.0.0",
+        "which": "^4.0.0",
+        "semver": "^7.3.5",
+        "proc-log": "^4.1.0",
+        "env-paths": "^2.2.0",
+        "graceful-fs": "^4.2.6",
+        "make-fetch-happen": "^13.0.0",
+        "exponential-backoff": "^3.1.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/node-gyp",
+          "observedAt": "2026-11-16T10:35:15.341Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/node-gyp",
+          "observedAt": "2026-11-16T10:35:15.341Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/node-gyp",
+          "observedAt": "2026-11-16T10:35:15.341Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/node-gyp",
+          "observedAt": "2026-11-16T10:35:15.341Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/node-gyp",
+          "observedAt": "2026-11-16T10:35:15.341Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/node-gyp",
+          "observedAt": "2026-11-16T10:35:15.341Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "node-gyp",
+      "semver": "11.3.0",
+      "publishedAt": "2025-07-30T02:18:18.173Z",
+      "publisher": "nodejs-foundation",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 1858388,
+      "dependencies": {
+        "tar": "^7.4.3",
+        "nopt": "^8.0.0",
+        "which": "^5.0.0",
+        "semver": "^7.3.5",
+        "proc-log": "^5.0.0",
+        "env-paths": "^2.2.0",
+        "tinyglobby": "^0.2.12",
+        "graceful-fs": "^4.2.6",
+        "make-fetch-happen": "^14.0.3",
+        "exponential-backoff": "^3.1.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/node-gyp",
+          "observedAt": "2026-11-16T10:35:15.341Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/node-gyp",
+          "observedAt": "2026-11-16T10:35:15.341Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/node-gyp",
+          "observedAt": "2026-11-16T10:35:15.341Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/node-gyp",
+          "observedAt": "2026-11-16T10:35:15.341Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/node-gyp",
+          "observedAt": "2026-11-16T10:35:15.341Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/node-gyp",
+          "observedAt": "2026-11-16T10:35:15.341Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "node-gyp",
+      "semver": "2.0.2",
+      "publishedAt": "2015-07-14T19:30:53.975Z",
+      "publisher": "tootallnate",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "tar": "^1.0.0",
+        "glob": "3 || 4",
+        "nopt": "2 || 3",
+        "osenv": "0",
+        "which": "1",
+        "mkdirp": "^0.5.0",
+        "npmlog": "0 || 1",
+        "rimraf": "2",
+        "semver": "2.x || 3.x || 4",
+        "fstream": "^1.0.0",
+        "request": "2",
+        "minimatch": "1",
+        "path-array": "^1.0.0",
+        "graceful-fs": "3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/node-gyp",
+          "observedAt": "2026-11-16T10:35:15.341Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/node-gyp",
+          "observedAt": "2026-11-16T10:35:15.341Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/node-gyp",
+          "observedAt": "2026-11-16T10:35:15.341Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/node-gyp",
+          "observedAt": "2026-11-16T10:35:15.341Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/node-gyp",
+          "observedAt": "2026-11-16T10:35:15.341Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "node-gyp",
+      "semver": "3.7.0",
+      "publishedAt": "2018-06-08T15:32:22.008Z",
+      "publisher": "bnoordhuis",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 1595931,
+      "dependencies": {
+        "tar": "^2.0.0",
+        "glob": "^7.0.3",
+        "nopt": "2 || 3",
+        "osenv": "0",
+        "which": "1",
+        "mkdirp": "^0.5.0",
+        "npmlog": "0 || 1 || 2 || 3 || 4",
+        "rimraf": "2",
+        "semver": "~5.3.0",
+        "fstream": "^1.0.0",
+        "request": ">=2.9.0 <2.82.0",
+        "graceful-fs": "^4.1.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/node-gyp",
+          "observedAt": "2026-11-16T10:35:15.341Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/node-gyp",
+          "observedAt": "2026-11-16T10:35:15.341Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/node-gyp",
+          "observedAt": "2026-11-16T10:35:15.341Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/node-gyp",
+          "observedAt": "2026-11-16T10:35:15.341Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/node-gyp",
+          "observedAt": "2026-11-16T10:35:15.341Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/node-gyp",
+          "observedAt": "2026-11-16T10:35:15.341Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "node-gyp",
+      "semver": "9.4.0",
+      "publishedAt": "2023-06-13T04:49:57.782Z",
+      "publisher": "rvagg",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 2059107,
+      "dependencies": {
+        "tar": "^6.1.2",
+        "glob": "^7.1.4",
+        "nopt": "^6.0.0",
+        "which": "^2.0.2",
+        "npmlog": "^6.0.0",
+        "rimraf": "^3.0.2",
+        "semver": "^7.3.5",
+        "env-paths": "^2.2.0",
+        "graceful-fs": "^4.2.6",
+        "make-fetch-happen": "^11.0.3",
+        "exponential-backoff": "^3.1.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/node-gyp",
+          "observedAt": "2026-11-16T10:35:15.341Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/node-gyp",
+          "observedAt": "2026-11-16T10:35:15.341Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/node-gyp",
+          "observedAt": "2026-11-16T10:35:15.341Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/node-gyp",
+          "observedAt": "2026-11-16T10:35:15.341Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/node-gyp",
+          "observedAt": "2026-11-16T10:35:15.341Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/node-gyp",
+          "observedAt": "2026-11-16T10:35:15.341Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

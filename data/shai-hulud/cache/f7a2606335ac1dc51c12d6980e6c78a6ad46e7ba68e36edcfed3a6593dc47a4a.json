@@ -1,0 +1,914 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@things-factory/email-base",
+  "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+  "fetchedAt": "2026-11-16T10:32:06.704Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 954
+  },
+  "sourceSha256": "6d7b5ebdf77b4df8812c1e1a9d5309c25974cdd182ee9a6de03a3b7a803f2668",
+  "versions": [
+    {
+      "pkg": "@things-factory/email-base",
+      "semver": "2.0.0",
+      "publishedAt": "2020-01-06T06:35:12.623Z",
+      "publisher": "stellan.gil",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 27065,
+      "dependencies": {
+        "nodemailer": "^6.3.1",
+        "@things-factory/shell": "^2.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@things-factory/email-base",
+      "semver": "3.0.0-beta.149",
+      "publishedAt": "2021-02-19T02:51:45.487Z",
+      "publisher": "chayeongrong",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7832,
+      "dependencies": {
+        "nodemailer": "^6.3.1",
+        "@things-factory/shell": "^3.0.0-beta.149"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@things-factory/email-base",
+      "semver": "4.0.0",
+      "publishedAt": "2021-11-15T03:08:06.211Z",
+      "publisher": "jay_lee",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7859,
+      "dependencies": {
+        "nodemailer": "^6.3.1",
+        "@things-factory/shell": "^4.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@things-factory/email-base",
+      "semver": "4.0.22",
+      "publishedAt": "2021-12-16T04:14:46.500Z",
+      "publisher": "jyp220",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7861,
+      "dependencies": {
+        "nodemailer": "^6.3.1",
+        "@things-factory/shell": "^4.0.22"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@things-factory/email-base",
+      "semver": "4.1.2",
+      "publishedAt": "2022-02-10T01:27:31.439Z",
+      "publisher": "lyonghwan",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7859,
+      "dependencies": {
+        "nodemailer": "^6.3.1",
+        "@things-factory/shell": "^4.1.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@things-factory/email-base",
+      "semver": "4.3.675",
+      "publishedAt": "2025-08-27T10:19:47.371Z",
+      "publisher": "horwengliang95",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 46183,
+      "dependencies": {
+        "xlsx": "^0.16.8",
+        "aws-sdk": "^2.1276.0",
+        "exceljs": "4.2.0",
+        "loadash": "^1.0.0",
+        "nodemailer": "^6.3.1",
+        "@things-factory/shell": "^4.3.675"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@things-factory/email-base",
+      "semver": "4.3.677",
+      "publishedAt": "2025-09-18T10:11:25.954Z",
+      "publisher": "horwengliang95",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 46148,
+      "dependencies": {
+        "xlsx": "^0.16.8",
+        "aws-sdk": "^2.1276.0",
+        "exceljs": "4.2.0",
+        "loadash": "^1.0.0",
+        "nodemailer": "^6.3.1",
+        "@things-factory/shell": "^4.3.675"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@things-factory/email-base",
+      "semver": "6.1.46",
+      "publishedAt": "2023-07-14T09:36:02.176Z",
+      "publisher": "woo_ram",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 28600,
+      "dependencies": {
+        "nodemailer": "^6.7.5",
+        "@things-factory/shell": "^6.1.46"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@things-factory/email-base",
+      "semver": "6.2.167",
+      "publishedAt": "2024-08-25T10:05:56.725Z",
+      "publisher": "jinwon",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 34502,
+      "dependencies": {
+        "nodemailer": "^6.9.13",
+        "@things-factory/shell": "^6.2.167"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@things-factory/email-base",
+      "semver": "8.0.55",
+      "publishedAt": "2025-07-14T03:10:26.009Z",
+      "publisher": "nalshya113",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 41874,
+      "dependencies": {
+        "nodemailer": "^6.9.13",
+        "@things-factory/shell": "^8.0.55"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@things-factory/email-base",
+      "semver": "9.0.34",
+      "publishedAt": "2025-09-01T03:04:43.079Z",
+      "publisher": "heartyoh",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 124865,
+      "dependencies": {
+        "nodemailer": "^6.9.13",
+        "@things-factory/shell": "^9.0.34"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@things-factory/email-base",
+      "semver": "9.0.41",
+      "publishedAt": "2025-09-14T07:35:27.749Z",
+      "publisher": "heartyoh",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 125868,
+      "dependencies": {
+        "nodemailer": "^6.9.13",
+        "@things-factory/shell": "^9.0.41"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@things-factory/email-base",
+      "semver": "9.0.42",
+      "publishedAt": "2025-09-15T22:35:47.687Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@things-factory/email-base",
+      "semver": "9.0.43",
+      "publishedAt": "2025-09-15T23:44:30.916Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@things-factory/email-base",
+      "semver": "9.0.44",
+      "publishedAt": "2025-09-16T01:25:27.421Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@things-factory/email-base",
+      "semver": "9.0.45",
+      "publishedAt": "2025-09-16T01:30:40.617Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@things-factory/email-base",
+      "semver": "9.0.46",
+      "publishedAt": "2025-09-16T03:18:34.369Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@things-factory/email-base",
+      "semver": "9.0.47",
+      "publishedAt": "2025-09-16T03:25:21.355Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@things-factory/email-base",
+      "semver": "9.0.48",
+      "publishedAt": "2025-09-16T05:32:29.882Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@things-factory/email-base",
+      "semver": "9.0.49",
+      "publishedAt": "2025-09-16T06:18:01.687Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@things-factory/email-base",
+      "semver": "9.0.50",
+      "publishedAt": "2025-09-16T06:24:59.396Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@things-factory/email-base",
+      "semver": "9.0.51",
+      "publishedAt": "2025-09-16T06:32:51.133Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@things-factory/email-base",
+      "semver": "9.0.52",
+      "publishedAt": "2025-09-16T06:38:52.433Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@things-factory/email-base",
+      "semver": "9.0.53",
+      "publishedAt": "2025-09-16T07:05:59.138Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@things-factory/email-base",
+      "semver": "9.0.54",
+      "publishedAt": "2025-09-16T07:11:35.541Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@things-factory/email-base",
+      "semver": "9.0.55",
+      "publishedAt": "2025-09-16T10:57:27.703Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@things-factory/email-base",
+      "semver": "9.0.56",
+      "publishedAt": "2025-09-16T11:02:33.656Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@things-factory/email-base",
+      "semver": "9.0.57",
+      "publishedAt": "2025-09-16T11:09:11.328Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@things-factory/email-base",
+      "semver": "9.0.58",
+      "publishedAt": "2025-09-16T11:39:24.484Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@things-factory/email-base",
+      "semver": "9.0.59",
+      "publishedAt": "2025-09-16T11:44:04.279Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@things-factory/email-base",
+      "semver": "9.1.0",
+      "publishedAt": "2025-09-16T12:16:09.412Z",
+      "publisher": "heartyoh",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 128443,
+      "dependencies": {
+        "nodemailer": "^6.9.13",
+        "@things-factory/shell": "^9.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Femail-base",
+          "observedAt": "2026-11-16T10:32:06.704Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@humanwhocodes/module-importer",
+  "source": "https://registry.npmjs.org/%40humanwhocodes%2Fmodule-importer",
+  "fetchedAt": "2026-11-16T10:34:35.330Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 2
+  },
+  "sourceSha256": "a25e59a870f08c24eca521130e2ee2ff609acedf39ad2925c5efc703673efb44",
+  "versions": [
+    {
+      "pkg": "@humanwhocodes/module-importer",
+      "semver": "1.0.1",
+      "publishedAt": "2022-08-18T17:55:51.038Z",
+      "publisher": "nzakas",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 21177,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40humanwhocodes%2Fmodule-importer",
+          "observedAt": "2026-11-16T10:34:35.330Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40humanwhocodes%2Fmodule-importer",
+          "observedAt": "2026-11-16T10:34:35.330Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40humanwhocodes%2Fmodule-importer",
+          "observedAt": "2026-11-16T10:34:35.330Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40humanwhocodes%2Fmodule-importer",
+          "observedAt": "2026-11-16T10:34:35.330Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40humanwhocodes%2Fmodule-importer",
+          "observedAt": "2026-11-16T10:34:35.330Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40humanwhocodes%2Fmodule-importer",
+          "observedAt": "2026-11-16T10:34:35.330Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

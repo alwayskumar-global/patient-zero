@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@types/unist",
+  "source": "https://registry.npmjs.org/%40types%2Funist",
+  "fetchedAt": "2026-11-16T10:34:52.030Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 17
+  },
+  "sourceSha256": "1ce0d1ed44b4246c8a2697ef45fccf18e7901c6483ed1ab4388bd22b8aac6369",
+  "versions": [
+    {
+      "pkg": "@types/unist",
+      "semver": "2.0.11",
+      "publishedAt": "2024-08-15T02:19:24.090Z",
+      "publisher": "types",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 8543,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40types%2Funist",
+          "observedAt": "2026-11-16T10:34:52.030Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40types%2Funist",
+          "observedAt": "2026-11-16T10:34:52.030Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40types%2Funist",
+          "observedAt": "2026-11-16T10:34:52.030Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40types%2Funist",
+          "observedAt": "2026-11-16T10:34:52.030Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40types%2Funist",
+          "observedAt": "2026-11-16T10:34:52.030Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40types%2Funist",
+          "observedAt": "2026-11-16T10:34:52.030Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

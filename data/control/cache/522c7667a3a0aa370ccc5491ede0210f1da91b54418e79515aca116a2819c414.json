@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@radix-ui/react-slot",
+  "source": "https://registry.npmjs.org/%40radix-ui%2Freact-slot",
+  "fetchedAt": "2026-11-16T10:34:37.769Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 207
+  },
+  "sourceSha256": "25d68aa81667acaec2480a5f3fe541147b08cb6d180a92ee13f31a6e9468b53b",
+  "versions": [
+    {
+      "pkg": "@radix-ui/react-slot",
+      "semver": "0.1.2",
+      "publishedAt": "2021-12-09T14:21:43.840Z",
+      "publisher": "jjenzz",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 16192,
+      "dependencies": {
+        "@babel/runtime": "^7.13.10",
+        "@radix-ui/react-compose-refs": "0.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-slot",
+          "observedAt": "2026-11-16T10:34:37.769Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-slot",
+          "observedAt": "2026-11-16T10:34:37.769Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-slot",
+          "observedAt": "2026-11-16T10:34:37.769Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-slot",
+          "observedAt": "2026-11-16T10:34:37.769Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-slot",
+          "observedAt": "2026-11-16T10:34:37.769Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-slot",
+          "observedAt": "2026-11-16T10:34:37.769Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@radix-ui/react-slot",
+      "semver": "1.0.2",
+      "publishedAt": "2023-05-26T11:03:56.240Z",
+      "publisher": "benoitgrelard",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 29203,
+      "dependencies": {
+        "@babel/runtime": "^7.13.10",
+        "@radix-ui/react-compose-refs": "1.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-slot",
+          "observedAt": "2026-11-16T10:34:37.769Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-slot",
+          "observedAt": "2026-11-16T10:34:37.769Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-slot",
+          "observedAt": "2026-11-16T10:34:37.769Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-slot",
+          "observedAt": "2026-11-16T10:34:37.769Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-slot",
+          "observedAt": "2026-11-16T10:34:37.769Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-slot",
+          "observedAt": "2026-11-16T10:34:37.769Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@radix-ui/react-slot",
+      "semver": "1.1.0",
+      "publishedAt": "2024-06-19T19:58:33.730Z",
+      "publisher": "vladmoroz",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 25407,
+      "dependencies": {
+        "@radix-ui/react-compose-refs": "1.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-slot",
+          "observedAt": "2026-11-16T10:34:37.769Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-slot",
+          "observedAt": "2026-11-16T10:34:37.769Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-slot",
+          "observedAt": "2026-11-16T10:34:37.769Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-slot",
+          "observedAt": "2026-11-16T10:34:37.769Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-slot",
+          "observedAt": "2026-11-16T10:34:37.769Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-slot",
+          "observedAt": "2026-11-16T10:34:37.769Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@radix-ui/react-slot",
+      "semver": "1.1.1-rc.3",
+      "publishedAt": "2024-12-13T01:32:17.825Z",
+      "publisher": "stephenhaney",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 25731,
+      "dependencies": {
+        "@radix-ui/react-compose-refs": "1.1.1-rc.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-slot",
+          "observedAt": "2026-11-16T10:34:37.769Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-slot",
+          "observedAt": "2026-11-16T10:34:37.769Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-slot",
+          "observedAt": "2026-11-16T10:34:37.769Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-slot",
+          "observedAt": "2026-11-16T10:34:37.769Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-slot",
+          "observedAt": "2026-11-16T10:34:37.769Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-slot",
+          "observedAt": "2026-11-16T10:34:37.769Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@radix-ui/react-slot",
+      "semver": "1.2.3",
+      "publishedAt": "2025-05-20T15:20:47.291Z",
+      "publisher": "chancestrickland",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 32260,
+      "dependencies": {
+        "@radix-ui/react-compose-refs": "1.1.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-slot",
+          "observedAt": "2026-11-16T10:34:37.769Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-slot",
+          "observedAt": "2026-11-16T10:34:37.769Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-slot",
+          "observedAt": "2026-11-16T10:34:37.769Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-slot",
+          "observedAt": "2026-11-16T10:34:37.769Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-slot",
+          "observedAt": "2026-11-16T10:34:37.769Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-slot",
+          "observedAt": "2026-11-16T10:34:37.769Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

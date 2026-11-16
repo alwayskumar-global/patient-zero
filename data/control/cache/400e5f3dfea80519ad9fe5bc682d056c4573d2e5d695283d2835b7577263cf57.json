@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "pkg": "launch-editor",
+  "source": "https://registry.npmjs.org/launch-editor",
+  "fetchedAt": "2026-11-16T10:35:09.337Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 24
+  },
+  "sourceSha256": "bcafe013b8bd030bf718a635e11f45f25649c79ae11b15b1a27211c5b4d32d52",
+  "versions": [
+    {
+      "pkg": "launch-editor",
+      "semver": "2.11.0",
+      "publishedAt": "2025-07-28T07:58:52.424Z",
+      "publisher": "soda",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 18014,
+      "dependencies": {
+        "picocolors": "^1.1.1",
+        "shell-quote": "^1.8.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/launch-editor",
+          "observedAt": "2026-11-16T10:35:09.337Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/launch-editor",
+          "observedAt": "2026-11-16T10:35:09.337Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/launch-editor",
+          "observedAt": "2026-11-16T10:35:09.337Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/launch-editor",
+          "observedAt": "2026-11-16T10:35:09.337Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/launch-editor",
+          "observedAt": "2026-11-16T10:35:09.337Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/launch-editor",
+          "observedAt": "2026-11-16T10:35:09.337Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "launch-editor",
+      "semver": "2.11.1",
+      "publishedAt": "2025-08-07T18:14:44.066Z",
+      "publisher": "soda",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 18014,
+      "dependencies": {
+        "picocolors": "^1.1.1",
+        "shell-quote": "^1.8.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/launch-editor",
+          "observedAt": "2026-11-16T10:35:09.337Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/launch-editor",
+          "observedAt": "2026-11-16T10:35:09.337Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/launch-editor",
+          "observedAt": "2026-11-16T10:35:09.337Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/launch-editor",
+          "observedAt": "2026-11-16T10:35:09.337Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/launch-editor",
+          "observedAt": "2026-11-16T10:35:09.337Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/launch-editor",
+          "observedAt": "2026-11-16T10:35:09.337Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "launch-editor",
+      "semver": "2.8.2",
+      "publishedAt": "2024-09-03T06:12:40.999Z",
+      "publisher": "yyx990803",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 16005,
+      "dependencies": {
+        "picocolors": "^1.0.0",
+        "shell-quote": "^1.8.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/launch-editor",
+          "observedAt": "2026-11-16T10:35:09.337Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/launch-editor",
+          "observedAt": "2026-11-16T10:35:09.337Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/launch-editor",
+          "observedAt": "2026-11-16T10:35:09.337Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/launch-editor",
+          "observedAt": "2026-11-16T10:35:09.337Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/launch-editor",
+          "observedAt": "2026-11-16T10:35:09.337Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/launch-editor",
+          "observedAt": "2026-11-16T10:35:09.337Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

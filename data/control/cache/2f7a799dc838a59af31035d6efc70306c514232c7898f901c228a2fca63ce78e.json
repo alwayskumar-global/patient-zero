@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "stream-shift",
+  "source": "https://registry.npmjs.org/stream-shift",
+  "fetchedAt": "2026-11-16T10:35:27.327Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 4
+  },
+  "sourceSha256": "e458aef6de437623291b02a19a6a93506dc1db27213ab4d8fa6eed0fd4578e7d",
+  "versions": [
+    {
+      "pkg": "stream-shift",
+      "semver": "1.0.3",
+      "publishedAt": "2024-01-17T19:15:13.384Z",
+      "publisher": "mafintosh",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 4465,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/stream-shift",
+          "observedAt": "2026-11-16T10:35:27.327Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/stream-shift",
+          "observedAt": "2026-11-16T10:35:27.327Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/stream-shift",
+          "observedAt": "2026-11-16T10:35:27.327Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/stream-shift",
+          "observedAt": "2026-11-16T10:35:27.327Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/stream-shift",
+          "observedAt": "2026-11-16T10:35:27.327Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/stream-shift",
+          "observedAt": "2026-11-16T10:35:27.327Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

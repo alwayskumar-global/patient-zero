@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@sideway/formula",
+  "source": "https://registry.npmjs.org/%40sideway%2Fformula",
+  "fetchedAt": "2026-11-16T10:34:38.796Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 2
+  },
+  "sourceSha256": "60684b09a8952c5ed5447932286b8c6a9d9039762fff5992b8c3fe3cab3577d8",
+  "versions": [
+    {
+      "pkg": "@sideway/formula",
+      "semver": "3.0.0",
+      "publishedAt": "2020-10-24T06:49:22.571Z",
+      "publisher": "hueniverse",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 16937,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40sideway%2Fformula",
+          "observedAt": "2026-11-16T10:34:38.796Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40sideway%2Fformula",
+          "observedAt": "2026-11-16T10:34:38.796Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40sideway%2Fformula",
+          "observedAt": "2026-11-16T10:34:38.796Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40sideway%2Fformula",
+          "observedAt": "2026-11-16T10:34:38.796Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40sideway%2Fformula",
+          "observedAt": "2026-11-16T10:34:38.796Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40sideway%2Fformula",
+          "observedAt": "2026-11-16T10:34:38.796Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@sideway/formula",
+      "semver": "3.0.1",
+      "publishedAt": "2022-12-16T14:35:23.617Z",
+      "publisher": "marsup",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 16939,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40sideway%2Fformula",
+          "observedAt": "2026-11-16T10:34:38.796Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40sideway%2Fformula",
+          "observedAt": "2026-11-16T10:34:38.796Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40sideway%2Fformula",
+          "observedAt": "2026-11-16T10:34:38.796Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40sideway%2Fformula",
+          "observedAt": "2026-11-16T10:34:38.796Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40sideway%2Fformula",
+          "observedAt": "2026-11-16T10:34:38.796Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40sideway%2Fformula",
+          "observedAt": "2026-11-16T10:34:38.796Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

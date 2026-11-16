@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "pkg": "eventemitter2",
+  "source": "https://registry.npmjs.org/eventemitter2",
+  "fetchedAt": "2026-11-16T10:35:01.658Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 62
+  },
+  "sourceSha256": "d9447b3d1563e32a1d6d3d387910c393fe2b942ade154ff7af3cf2fe11378f7a",
+  "versions": [
+    {
+      "pkg": "eventemitter2",
+      "semver": "0.4.10",
+      "publishedAt": "2012-10-02T17:22:22.028Z",
+      "publisher": null,
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/eventemitter2",
+          "observedAt": "2026-11-16T10:35:01.658Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/eventemitter2",
+          "observedAt": "2026-11-16T10:35:01.658Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/eventemitter2",
+          "observedAt": "2026-11-16T10:35:01.658Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/eventemitter2",
+          "observedAt": "2026-11-16T10:35:01.658Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "eventemitter2",
+      "semver": "0.4.13",
+      "publishedAt": "2013-08-12T13:38:54.959Z",
+      "publisher": "hij1nx",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/eventemitter2",
+          "observedAt": "2026-11-16T10:35:01.658Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/eventemitter2",
+          "observedAt": "2026-11-16T10:35:01.658Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/eventemitter2",
+          "observedAt": "2026-11-16T10:35:01.658Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/eventemitter2",
+          "observedAt": "2026-11-16T10:35:01.658Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/eventemitter2",
+          "observedAt": "2026-11-16T10:35:01.658Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "eventemitter2",
+      "semver": "0.4.14",
+      "publishedAt": "2014-06-24T17:28:54.310Z",
+      "publisher": "jasonkuhrt",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/eventemitter2",
+          "observedAt": "2026-11-16T10:35:01.658Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/eventemitter2",
+          "observedAt": "2026-11-16T10:35:01.658Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/eventemitter2",
+          "observedAt": "2026-11-16T10:35:01.658Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/eventemitter2",
+          "observedAt": "2026-11-16T10:35:01.658Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/eventemitter2",
+          "observedAt": "2026-11-16T10:35:01.658Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "eventemitter2",
+      "semver": "6.4.9",
+      "publishedAt": "2022-09-12T17:46:58.809Z",
+      "publisher": "rangermauve",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 81307,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/eventemitter2",
+          "observedAt": "2026-11-16T10:35:01.658Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/eventemitter2",
+          "observedAt": "2026-11-16T10:35:01.658Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/eventemitter2",
+          "observedAt": "2026-11-16T10:35:01.658Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/eventemitter2",
+          "observedAt": "2026-11-16T10:35:01.658Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/eventemitter2",
+          "observedAt": "2026-11-16T10:35:01.658Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/eventemitter2",
+          "observedAt": "2026-11-16T10:35:01.658Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "pkg": "http-proxy-middleware",
+  "source": "https://registry.npmjs.org/http-proxy-middleware",
+  "fetchedAt": "2026-11-16T10:35:04.193Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 114
+  },
+  "sourceSha256": "c26a758e94c10a0679d4317a1a979cf356eee97742d67039ab8807f1c71c0df9",
+  "versions": [
+    {
+      "pkg": "http-proxy-middleware",
+      "semver": "3.0.5",
+      "publishedAt": "2025-04-10T12:14:26.931Z",
+      "publisher": "chimurai",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 82873,
+      "dependencies": {
+        "debug": "^4.3.6",
+        "is-glob": "^4.0.3",
+        "http-proxy": "^1.18.1",
+        "micromatch": "^4.0.8",
+        "is-plain-object": "^5.0.0",
+        "@types/http-proxy": "^1.17.15"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/http-proxy-middleware",
+          "observedAt": "2026-11-16T10:35:04.193Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/http-proxy-middleware",
+          "observedAt": "2026-11-16T10:35:04.193Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/http-proxy-middleware",
+          "observedAt": "2026-11-16T10:35:04.193Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/http-proxy-middleware",
+          "observedAt": "2026-11-16T10:35:04.193Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/http-proxy-middleware",
+          "observedAt": "2026-11-16T10:35:04.193Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/http-proxy-middleware",
+          "observedAt": "2026-11-16T10:35:04.193Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

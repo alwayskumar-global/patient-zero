@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@radix-ui/react-use-rect",
+  "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-rect",
+  "fetchedAt": "2026-11-16T10:34:38.133Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 102
+  },
+  "sourceSha256": "0aac6d701776d755d419f7ecebc50af07d77ef60f0f9a3d7b80c1d5469537927",
+  "versions": [
+    {
+      "pkg": "@radix-ui/react-use-rect",
+      "semver": "0.1.1",
+      "publishedAt": "2021-10-14T16:47:00.135Z",
+      "publisher": "jjenzz",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 5635,
+      "dependencies": {
+        "@babel/runtime": "^7.13.10",
+        "@radix-ui/rect": "0.1.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-rect",
+          "observedAt": "2026-11-16T10:34:38.133Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-rect",
+          "observedAt": "2026-11-16T10:34:38.133Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-rect",
+          "observedAt": "2026-11-16T10:34:38.133Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-rect",
+          "observedAt": "2026-11-16T10:34:38.133Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-rect",
+          "observedAt": "2026-11-16T10:34:38.133Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-rect",
+          "observedAt": "2026-11-16T10:34:38.133Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@radix-ui/react-use-rect",
+      "semver": "1.0.1",
+      "publishedAt": "2023-05-26T11:04:04.851Z",
+      "publisher": "benoitgrelard",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 6737,
+      "dependencies": {
+        "@babel/runtime": "^7.13.10",
+        "@radix-ui/rect": "1.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-rect",
+          "observedAt": "2026-11-16T10:34:38.133Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-rect",
+          "observedAt": "2026-11-16T10:34:38.133Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-rect",
+          "observedAt": "2026-11-16T10:34:38.133Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-rect",
+          "observedAt": "2026-11-16T10:34:38.133Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-rect",
+          "observedAt": "2026-11-16T10:34:38.133Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-rect",
+          "observedAt": "2026-11-16T10:34:38.133Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@radix-ui/react-use-rect",
+      "semver": "1.1.0",
+      "publishedAt": "2024-06-19T19:58:48.286Z",
+      "publisher": "vladmoroz",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 6579,
+      "dependencies": {
+        "@radix-ui/rect": "1.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-rect",
+          "observedAt": "2026-11-16T10:34:38.133Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-rect",
+          "observedAt": "2026-11-16T10:34:38.133Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-rect",
+          "observedAt": "2026-11-16T10:34:38.133Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-rect",
+          "observedAt": "2026-11-16T10:34:38.133Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-rect",
+          "observedAt": "2026-11-16T10:34:38.133Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-rect",
+          "observedAt": "2026-11-16T10:34:38.133Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@radix-ui/react-use-rect",
+      "semver": "1.1.0-rc.7",
+      "publishedAt": "2024-06-19T19:55:01.026Z",
+      "publisher": "stephenhaney",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 6617,
+      "dependencies": {
+        "@radix-ui/rect": "1.1.0-rc.7"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-rect",
+          "observedAt": "2026-11-16T10:34:38.133Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-rect",
+          "observedAt": "2026-11-16T10:34:38.133Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-rect",
+          "observedAt": "2026-11-16T10:34:38.133Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-rect",
+          "observedAt": "2026-11-16T10:34:38.133Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-rect",
+          "observedAt": "2026-11-16T10:34:38.133Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-rect",
+          "observedAt": "2026-11-16T10:34:38.133Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@radix-ui/react-use-rect",
+      "semver": "1.1.1",
+      "publishedAt": "2025-04-08T16:46:20.192Z",
+      "publisher": "chancestrickland",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7286,
+      "dependencies": {
+        "@radix-ui/rect": "1.1.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-rect",
+          "observedAt": "2026-11-16T10:34:38.133Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-rect",
+          "observedAt": "2026-11-16T10:34:38.133Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-rect",
+          "observedAt": "2026-11-16T10:34:38.133Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-rect",
+          "observedAt": "2026-11-16T10:34:38.133Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-rect",
+          "observedAt": "2026-11-16T10:34:38.133Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-rect",
+          "observedAt": "2026-11-16T10:34:38.133Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

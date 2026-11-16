@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "is-wsl",
+  "source": "https://registry.npmjs.org/is-wsl",
+  "fetchedAt": "2026-11-16T10:35:07.121Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 9
+  },
+  "sourceSha256": "d631f45e6d59f39f5691e6a673e0e7b99d583d93312d3c612fd4e507a8471566",
+  "versions": [
+    {
+      "pkg": "is-wsl",
+      "semver": "3.1.0",
+      "publishedAt": "2023-09-25T05:58:41.397Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 3451,
+      "dependencies": {
+        "is-inside-container": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/is-wsl",
+          "observedAt": "2026-11-16T10:35:07.121Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/is-wsl",
+          "observedAt": "2026-11-16T10:35:07.121Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/is-wsl",
+          "observedAt": "2026-11-16T10:35:07.121Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/is-wsl",
+          "observedAt": "2026-11-16T10:35:07.121Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/is-wsl",
+          "observedAt": "2026-11-16T10:35:07.121Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/is-wsl",
+          "observedAt": "2026-11-16T10:35:07.121Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

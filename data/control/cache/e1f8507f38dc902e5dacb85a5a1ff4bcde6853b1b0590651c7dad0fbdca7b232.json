@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "pkg": "makeerror",
+  "source": "https://registry.npmjs.org/makeerror",
+  "fetchedAt": "2026-11-16T10:35:11.991Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 11
+  },
+  "sourceSha256": "ed63c70989e94b2150782c66913388bef15cc6ed1a003f19b222a2e70bc28534",
+  "versions": [
+    {
+      "pkg": "makeerror",
+      "semver": "1.0.12",
+      "publishedAt": "2021-10-23T14:00:39.504Z",
+      "publisher": "daaku",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 6073,
+      "dependencies": {
+        "tmpl": "1.0.5"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/makeerror",
+          "observedAt": "2026-11-16T10:35:11.991Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/makeerror",
+          "observedAt": "2026-11-16T10:35:11.991Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/makeerror",
+          "observedAt": "2026-11-16T10:35:11.991Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/makeerror",
+          "observedAt": "2026-11-16T10:35:11.991Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/makeerror",
+          "observedAt": "2026-11-16T10:35:11.991Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/makeerror",
+          "observedAt": "2026-11-16T10:35:11.991Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "makeerror",
+      "semver": "1.0.8",
+      "publishedAt": "2011-08-17T21:03:48.622Z",
+      "publisher": null,
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "tmpl": ">= 1.0.0"
+      },
+      "evidence": {
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/makeerror",
+          "observedAt": "2026-11-16T10:35:11.991Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/makeerror",
+          "observedAt": "2026-11-16T10:35:11.991Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/makeerror",
+          "observedAt": "2026-11-16T10:35:11.991Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/makeerror",
+          "observedAt": "2026-11-16T10:35:11.991Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

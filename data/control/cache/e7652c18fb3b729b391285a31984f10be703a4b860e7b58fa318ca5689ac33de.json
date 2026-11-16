@@ -1,0 +1,196 @@
+{
+  "schemaVersion": 1,
+  "pkg": "mini-css-extract-plugin",
+  "source": "https://registry.npmjs.org/mini-css-extract-plugin",
+  "fetchedAt": "2026-11-16T10:35:13.232Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 84
+  },
+  "sourceSha256": "7b8df33c88a01b0e4f4b2d5a67a2749aa3c75ff0781a04002f222b0d70dbe456",
+  "versions": [
+    {
+      "pkg": "mini-css-extract-plugin",
+      "semver": "0.4.0",
+      "publishedAt": "2018-03-29T16:14:32.985Z",
+      "publisher": "sokra",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 26910,
+      "dependencies": {
+        "loader-utils": "^1.1.0",
+        "webpack-sources": "^1.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/mini-css-extract-plugin",
+          "observedAt": "2026-11-16T10:35:13.232Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/mini-css-extract-plugin",
+          "observedAt": "2026-11-16T10:35:13.232Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/mini-css-extract-plugin",
+          "observedAt": "2026-11-16T10:35:13.232Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/mini-css-extract-plugin",
+          "observedAt": "2026-11-16T10:35:13.232Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/mini-css-extract-plugin",
+          "observedAt": "2026-11-16T10:35:13.232Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/mini-css-extract-plugin",
+          "observedAt": "2026-11-16T10:35:13.232Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "mini-css-extract-plugin",
+      "semver": "0.4.4",
+      "publishedAt": "2018-10-10T13:31:40.174Z",
+      "publisher": "michael-ciniawsky",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 35866,
+      "dependencies": {
+        "loader-utils": "^1.1.0",
+        "schema-utils": "^1.0.0",
+        "webpack-sources": "^1.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/mini-css-extract-plugin",
+          "observedAt": "2026-11-16T10:35:13.232Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/mini-css-extract-plugin",
+          "observedAt": "2026-11-16T10:35:13.232Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/mini-css-extract-plugin",
+          "observedAt": "2026-11-16T10:35:13.232Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/mini-css-extract-plugin",
+          "observedAt": "2026-11-16T10:35:13.232Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/mini-css-extract-plugin",
+          "observedAt": "2026-11-16T10:35:13.232Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/mini-css-extract-plugin",
+          "observedAt": "2026-11-16T10:35:13.232Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "mini-css-extract-plugin",
+      "semver": "2.9.2",
+      "publishedAt": "2024-11-01T00:47:17.265Z",
+      "publisher": "evilebottnawi",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 133612,
+      "dependencies": {
+        "tapable": "^2.2.1",
+        "schema-utils": "^4.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/mini-css-extract-plugin",
+          "observedAt": "2026-11-16T10:35:13.232Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/mini-css-extract-plugin",
+          "observedAt": "2026-11-16T10:35:13.232Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/mini-css-extract-plugin",
+          "observedAt": "2026-11-16T10:35:13.232Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/mini-css-extract-plugin",
+          "observedAt": "2026-11-16T10:35:13.232Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/mini-css-extract-plugin",
+          "observedAt": "2026-11-16T10:35:13.232Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/mini-css-extract-plugin",
+          "observedAt": "2026-11-16T10:35:13.232Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "mini-css-extract-plugin",
+      "semver": "2.9.3",
+      "publishedAt": "2025-08-04T16:38:52.842Z",
+      "publisher": "evilebottnawi",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 134241,
+      "dependencies": {
+        "tapable": "^2.2.1",
+        "schema-utils": "^4.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/mini-css-extract-plugin",
+          "observedAt": "2026-11-16T10:35:13.232Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/mini-css-extract-plugin",
+          "observedAt": "2026-11-16T10:35:13.232Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/mini-css-extract-plugin",
+          "observedAt": "2026-11-16T10:35:13.232Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/mini-css-extract-plugin",
+          "observedAt": "2026-11-16T10:35:13.232Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/mini-css-extract-plugin",
+          "observedAt": "2026-11-16T10:35:13.232Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/mini-css-extract-plugin",
+          "observedAt": "2026-11-16T10:35:13.232Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

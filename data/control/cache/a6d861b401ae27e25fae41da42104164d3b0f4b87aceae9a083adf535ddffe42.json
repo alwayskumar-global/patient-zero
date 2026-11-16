@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "property-information",
+  "source": "https://registry.npmjs.org/property-information",
+  "fetchedAt": "2026-11-16T10:35:21.419Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 33
+  },
+  "sourceSha256": "34d640bd06507a50889c1ec206b069dbd2b0f53d34140d3d8906a535520471de",
+  "versions": [
+    {
+      "pkg": "property-information",
+      "semver": "7.1.0",
+      "publishedAt": "2025-05-08T07:00:48.463Z",
+      "publisher": "wooorm",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 116619,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/property-information",
+          "observedAt": "2026-11-16T10:35:21.419Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/property-information",
+          "observedAt": "2026-11-16T10:35:21.419Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/property-information",
+          "observedAt": "2026-11-16T10:35:21.419Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/property-information",
+          "observedAt": "2026-11-16T10:35:21.419Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/property-information",
+          "observedAt": "2026-11-16T10:35:21.419Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/property-information",
+          "observedAt": "2026-11-16T10:35:21.419Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

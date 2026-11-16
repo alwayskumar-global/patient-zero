@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "dotenv-expand",
+  "source": "https://registry.npmjs.org/dotenv-expand",
+  "fetchedAt": "2026-11-16T10:35:00.097Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 30
+  },
+  "sourceSha256": "08b9894aad270bc21a777b5081f1cff3db5a34b494a6f155e0514fce25b3a577",
+  "versions": [
+    {
+      "pkg": "dotenv-expand",
+      "semver": "12.0.2",
+      "publishedAt": "2025-04-17T02:16:18.393Z",
+      "publisher": "motdotla",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 19825,
+      "dependencies": {
+        "dotenv": "^16.4.5"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/dotenv-expand",
+          "observedAt": "2026-11-16T10:35:00.097Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/dotenv-expand",
+          "observedAt": "2026-11-16T10:35:00.097Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/dotenv-expand",
+          "observedAt": "2026-11-16T10:35:00.097Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/dotenv-expand",
+          "observedAt": "2026-11-16T10:35:00.097Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/dotenv-expand",
+          "observedAt": "2026-11-16T10:35:00.097Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/dotenv-expand",
+          "observedAt": "2026-11-16T10:35:00.097Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

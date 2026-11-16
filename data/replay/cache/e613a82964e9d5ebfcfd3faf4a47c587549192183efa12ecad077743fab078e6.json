@@ -1,0 +1,332 @@
+{
+  "schemaVersion": 1,
+  "pkg": "is-arrayish",
+  "source": "https://registry.npmjs.org/is-arrayish",
+  "fetchedAt": "2026-11-16T10:07:11.642Z",
+  "sourceSha256": "63e00f9a4fb23a67ae4be5dbaccd97c9ecd20bcc1c4a566688960ea697ec5695",
+  "versions": [
+    {
+      "pkg": "is-arrayish",
+      "semver": "0.1.0",
+      "publishedAt": "2015-08-25T17:08:51.805Z",
+      "publisher": "qix",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/is-arrayish",
+          "observedAt": "2026-11-16T10:07:11.642Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/is-arrayish",
+          "observedAt": "2026-11-16T10:07:11.642Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/is-arrayish",
+          "observedAt": "2026-11-16T10:07:11.642Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/is-arrayish",
+          "observedAt": "2026-11-16T10:07:11.642Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/is-arrayish",
+          "observedAt": "2026-11-16T10:07:11.642Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "is-arrayish",
+      "semver": "0.1.1",
+      "publishedAt": "2015-08-25T17:10:26.823Z",
+      "publisher": "qix",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/is-arrayish",
+          "observedAt": "2026-11-16T10:07:11.642Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/is-arrayish",
+          "observedAt": "2026-11-16T10:07:11.642Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/is-arrayish",
+          "observedAt": "2026-11-16T10:07:11.642Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/is-arrayish",
+          "observedAt": "2026-11-16T10:07:11.642Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/is-arrayish",
+          "observedAt": "2026-11-16T10:07:11.642Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "is-arrayish",
+      "semver": "0.2.0",
+      "publishedAt": "2015-08-25T23:58:40.489Z",
+      "publisher": "qix",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/is-arrayish",
+          "observedAt": "2026-11-16T10:07:11.642Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/is-arrayish",
+          "observedAt": "2026-11-16T10:07:11.642Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/is-arrayish",
+          "observedAt": "2026-11-16T10:07:11.642Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/is-arrayish",
+          "observedAt": "2026-11-16T10:07:11.642Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/is-arrayish",
+          "observedAt": "2026-11-16T10:07:11.642Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "is-arrayish",
+      "semver": "0.2.1",
+      "publishedAt": "2015-08-31T23:02:50.373Z",
+      "publisher": "qix",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/is-arrayish",
+          "observedAt": "2026-11-16T10:07:11.642Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/is-arrayish",
+          "observedAt": "2026-11-16T10:07:11.642Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/is-arrayish",
+          "observedAt": "2026-11-16T10:07:11.642Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/is-arrayish",
+          "observedAt": "2026-11-16T10:07:11.642Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/is-arrayish",
+          "observedAt": "2026-11-16T10:07:11.642Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "is-arrayish",
+      "semver": "0.3.0",
+      "publishedAt": "2016-01-23T17:57:37.857Z",
+      "publisher": "qix",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/is-arrayish",
+          "observedAt": "2026-11-16T10:07:11.642Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/is-arrayish",
+          "observedAt": "2026-11-16T10:07:11.642Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/is-arrayish",
+          "observedAt": "2026-11-16T10:07:11.642Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/is-arrayish",
+          "observedAt": "2026-11-16T10:07:11.642Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/is-arrayish",
+          "observedAt": "2026-11-16T10:07:11.642Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "is-arrayish",
+      "semver": "0.3.1",
+      "publishedAt": "2016-11-16T02:27:15.570Z",
+      "publisher": "qix",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/is-arrayish",
+          "observedAt": "2026-11-16T10:07:11.642Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/is-arrayish",
+          "observedAt": "2026-11-16T10:07:11.642Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/is-arrayish",
+          "observedAt": "2026-11-16T10:07:11.642Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/is-arrayish",
+          "observedAt": "2026-11-16T10:07:11.642Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/is-arrayish",
+          "observedAt": "2026-11-16T10:07:11.642Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "is-arrayish",
+      "semver": "0.3.2",
+      "publishedAt": "2018-06-19T08:09:45.997Z",
+      "publisher": "qix",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 54720,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/is-arrayish",
+          "observedAt": "2026-11-16T10:07:11.642Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/is-arrayish",
+          "observedAt": "2026-11-16T10:07:11.642Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/is-arrayish",
+          "observedAt": "2026-11-16T10:07:11.642Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/is-arrayish",
+          "observedAt": "2026-11-16T10:07:11.642Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/is-arrayish",
+          "observedAt": "2026-11-16T10:07:11.642Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/is-arrayish",
+          "observedAt": "2026-11-16T10:07:11.642Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "is-arrayish",
+      "semver": "0.3.3",
+      "publishedAt": "2025-09-08T13:15:29.824Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/is-arrayish",
+          "observedAt": "2026-11-16T10:07:11.642Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "is-arrayish",
+      "semver": "0.3.4",
+      "publishedAt": "2025-09-13T16:44:23.359Z",
+      "publisher": "qix",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 3150,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/is-arrayish",
+          "observedAt": "2026-11-16T10:07:11.642Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/is-arrayish",
+          "observedAt": "2026-11-16T10:07:11.642Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/is-arrayish",
+          "observedAt": "2026-11-16T10:07:11.642Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/is-arrayish",
+          "observedAt": "2026-11-16T10:07:11.642Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/is-arrayish",
+          "observedAt": "2026-11-16T10:07:11.642Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/is-arrayish",
+          "observedAt": "2026-11-16T10:07:11.642Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

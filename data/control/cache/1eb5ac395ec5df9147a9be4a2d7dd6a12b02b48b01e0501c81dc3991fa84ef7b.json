@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 1,
+  "pkg": "duplexer",
+  "source": "https://registry.npmjs.org/duplexer",
+  "fetchedAt": "2026-11-16T10:35:00.119Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 7
+  },
+  "sourceSha256": "9a6dfa30d0a1a03758e904adbe681f552999f978651fa2da93cd464409300d83",
+  "versions": [
+    {
+      "pkg": "duplexer",
+      "semver": "0.0.3",
+      "publishedAt": "2013-01-31T21:09:08.889Z",
+      "publisher": "dominictarr",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/duplexer",
+          "observedAt": "2026-11-16T10:35:00.119Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/duplexer",
+          "observedAt": "2026-11-16T10:35:00.119Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/duplexer",
+          "observedAt": "2026-11-16T10:35:00.119Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/duplexer",
+          "observedAt": "2026-11-16T10:35:00.119Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/duplexer",
+          "observedAt": "2026-11-16T10:35:00.119Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "duplexer",
+      "semver": "0.1.0",
+      "publishedAt": "2013-04-01T16:03:23.515Z",
+      "publisher": null,
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/duplexer",
+          "observedAt": "2026-11-16T10:35:00.119Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/duplexer",
+          "observedAt": "2026-11-16T10:35:00.119Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/duplexer",
+          "observedAt": "2026-11-16T10:35:00.119Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/duplexer",
+          "observedAt": "2026-11-16T10:35:00.119Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "duplexer",
+      "semver": "0.1.2",
+      "publishedAt": "2020-08-12T08:27:19.981Z",
+      "publisher": "raynos",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 5470,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/duplexer",
+          "observedAt": "2026-11-16T10:35:00.119Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/duplexer",
+          "observedAt": "2026-11-16T10:35:00.119Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/duplexer",
+          "observedAt": "2026-11-16T10:35:00.119Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/duplexer",
+          "observedAt": "2026-11-16T10:35:00.119Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/duplexer",
+          "observedAt": "2026-11-16T10:35:00.119Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/duplexer",
+          "observedAt": "2026-11-16T10:35:00.119Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

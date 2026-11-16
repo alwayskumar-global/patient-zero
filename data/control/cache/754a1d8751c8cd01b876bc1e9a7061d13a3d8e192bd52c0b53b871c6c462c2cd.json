@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "pkg": "external-editor",
+  "source": "https://registry.npmjs.org/external-editor",
+  "fetchedAt": "2026-11-16T10:35:01.945Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 18
+  },
+  "sourceSha256": "d0b2701daf1a046f3cf6ba0bd18769d9269e2bb1cd2caa21713ac7e94bd57b37",
+  "versions": [
+    {
+      "pkg": "external-editor",
+      "semver": "3.1.0",
+      "publishedAt": "2019-07-08T16:07:13.082Z",
+      "publisher": "mrkmg",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 26996,
+      "dependencies": {
+        "chardet": "^0.7.0",
+        "iconv-lite": "^0.4.24",
+        "tmp": "^0.0.33"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/external-editor",
+          "observedAt": "2026-11-16T10:35:01.945Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/external-editor",
+          "observedAt": "2026-11-16T10:35:01.945Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/external-editor",
+          "observedAt": "2026-11-16T10:35:01.945Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/external-editor",
+          "observedAt": "2026-11-16T10:35:01.945Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/external-editor",
+          "observedAt": "2026-11-16T10:35:01.945Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/external-editor",
+          "observedAt": "2026-11-16T10:35:01.945Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

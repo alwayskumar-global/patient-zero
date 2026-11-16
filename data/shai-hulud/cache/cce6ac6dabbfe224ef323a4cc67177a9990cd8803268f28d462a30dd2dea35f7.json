@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "pkg": "swc-plugin-component-annotate",
+  "source": "https://registry.npmjs.org/swc-plugin-component-annotate",
+  "fetchedAt": "2026-11-16T10:32:29.005Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 33
+  },
+  "sourceSha256": "97803adc7ccb861c85228bf4a028fcdd087bf8f8c1d812ac90ca974a8dcb0436",
+  "versions": [
+    {
+      "pkg": "swc-plugin-component-annotate",
+      "semver": "1.10.0",
+      "publishedAt": "2025-09-16T07:56:58.561Z",
+      "publisher": "scttcper",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 568359,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/swc-plugin-component-annotate",
+          "observedAt": "2026-11-16T10:32:29.005Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/swc-plugin-component-annotate",
+          "observedAt": "2026-11-16T10:32:29.005Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/swc-plugin-component-annotate",
+          "observedAt": "2026-11-16T10:32:29.005Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/swc-plugin-component-annotate",
+          "observedAt": "2026-11-16T10:32:29.005Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/swc-plugin-component-annotate",
+          "observedAt": "2026-11-16T10:32:29.005Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/swc-plugin-component-annotate",
+          "observedAt": "2026-11-16T10:32:29.005Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "swc-plugin-component-annotate",
+      "semver": "1.9.0",
+      "publishedAt": "2025-08-27T04:47:38.018Z",
+      "publisher": "scttcper",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 568404,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/swc-plugin-component-annotate",
+          "observedAt": "2026-11-16T10:32:29.005Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/swc-plugin-component-annotate",
+          "observedAt": "2026-11-16T10:32:29.005Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/swc-plugin-component-annotate",
+          "observedAt": "2026-11-16T10:32:29.005Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/swc-plugin-component-annotate",
+          "observedAt": "2026-11-16T10:32:29.005Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/swc-plugin-component-annotate",
+          "observedAt": "2026-11-16T10:32:29.005Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/swc-plugin-component-annotate",
+          "observedAt": "2026-11-16T10:32:29.005Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "swc-plugin-component-annotate",
+      "semver": "1.9.1",
+      "publishedAt": "2025-09-15T19:52:44.823Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/swc-plugin-component-annotate",
+          "observedAt": "2026-11-16T10:32:29.005Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "swc-plugin-component-annotate",
+      "semver": "1.9.2",
+      "publishedAt": "2025-09-15T20:13:35.237Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/swc-plugin-component-annotate",
+          "observedAt": "2026-11-16T10:32:29.005Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

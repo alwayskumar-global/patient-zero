@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "pkg": "console-control-strings",
+  "source": "https://registry.npmjs.org/console-control-strings",
+  "fetchedAt": "2026-11-16T10:34:58.271Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 2
+  },
+  "sourceSha256": "a5271441cdc2a841eb9c966708ff1fcf494695b1b62c2380e27b81c56f685292",
+  "versions": [
+    {
+      "pkg": "console-control-strings",
+      "semver": "1.1.0",
+      "publishedAt": "2016-06-15T23:29:58.743Z",
+      "publisher": "iarna",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/console-control-strings",
+          "observedAt": "2026-11-16T10:34:58.271Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/console-control-strings",
+          "observedAt": "2026-11-16T10:34:58.271Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/console-control-strings",
+          "observedAt": "2026-11-16T10:34:58.271Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/console-control-strings",
+          "observedAt": "2026-11-16T10:34:58.271Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/console-control-strings",
+          "observedAt": "2026-11-16T10:34:58.271Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

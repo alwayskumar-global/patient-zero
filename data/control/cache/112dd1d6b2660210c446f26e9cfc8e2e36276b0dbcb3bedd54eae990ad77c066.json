@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "upath",
+  "source": "https://registry.npmjs.org/upath",
+  "fetchedAt": "2026-11-16T10:35:31.628Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 25
+  },
+  "sourceSha256": "fd48de2ccf36ec1ca6b21007816b54752ce8b82e529c3fefc67715079ac03452",
+  "versions": [
+    {
+      "pkg": "upath",
+      "semver": "2.0.1",
+      "publishedAt": "2020-11-07T17:01:34.154Z",
+      "publisher": "anodynos",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 36733,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/upath",
+          "observedAt": "2026-11-16T10:35:31.628Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/upath",
+          "observedAt": "2026-11-16T10:35:31.628Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/upath",
+          "observedAt": "2026-11-16T10:35:31.628Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/upath",
+          "observedAt": "2026-11-16T10:35:31.628Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/upath",
+          "observedAt": "2026-11-16T10:35:31.628Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/upath",
+          "observedAt": "2026-11-16T10:35:31.628Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

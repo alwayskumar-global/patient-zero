@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@nativescript-community/ui-drawer",
+  "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-drawer",
+  "fetchedAt": "2026-11-16T10:31:27.951Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 65
+  },
+  "sourceSha256": "6e1a57831ebc675640217e5e5f9d3b33c69830974e853913b7e7c2fb5e77596a",
+  "versions": [
+    {
+      "pkg": "@nativescript-community/ui-drawer",
+      "semver": "0.0.28",
+      "publishedAt": "2021-05-07T10:26:23.913Z",
+      "publisher": "keerl",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 118378,
+      "dependencies": {
+        "@nativescript-community/gesturehandler": "^0.1.35"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-drawer",
+          "observedAt": "2026-11-16T10:31:27.951Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-drawer",
+          "observedAt": "2026-11-16T10:31:27.951Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-drawer",
+          "observedAt": "2026-11-16T10:31:27.951Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-drawer",
+          "observedAt": "2026-11-16T10:31:27.951Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-drawer",
+          "observedAt": "2026-11-16T10:31:27.951Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-drawer",
+          "observedAt": "2026-11-16T10:31:27.951Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nativescript-community/ui-drawer",
+      "semver": "0.1.29",
+      "publishedAt": "2024-12-18T08:37:18.762Z",
+      "publisher": "farfromrefuge",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 163165,
+      "dependencies": {
+        "@nativescript-community/gesturehandler": "^2.0.8"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-drawer",
+          "observedAt": "2026-11-16T10:31:27.951Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-drawer",
+          "observedAt": "2026-11-16T10:31:27.951Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-drawer",
+          "observedAt": "2026-11-16T10:31:27.951Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-drawer",
+          "observedAt": "2026-11-16T10:31:27.951Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-drawer",
+          "observedAt": "2026-11-16T10:31:27.951Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-drawer",
+          "observedAt": "2026-11-16T10:31:27.951Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nativescript-community/ui-drawer",
+      "semver": "0.1.30",
+      "publishedAt": "2025-09-15T19:58:42.888Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-drawer",
+          "observedAt": "2026-11-16T10:31:27.951Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

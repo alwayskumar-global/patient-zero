@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@typescript-eslint/experimental-utils",
+  "source": "https://registry.npmjs.org/%40typescript-eslint%2Fexperimental-utils",
+  "fetchedAt": "2026-11-16T10:34:52.389Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 2616
+  },
+  "sourceSha256": "f6f4258e0ffdecda329977405367c318d2d8b8c4e153f6735cab49ee58a64b4b",
+  "versions": [
+    {
+      "pkg": "@typescript-eslint/experimental-utils",
+      "semver": "1.13.1-alpha.2",
+      "publishedAt": "2019-07-21T23:06:19.346Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Fexperimental-utils",
+          "observedAt": "2026-11-16T10:34:52.389Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@typescript-eslint/experimental-utils",
+      "semver": "5.62.1-alpha.0",
+      "publishedAt": "2023-07-10T17:56:22.327Z",
+      "publisher": "jameshenry",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 4858,
+      "dependencies": {
+        "@typescript-eslint/utils": "5.62.1-alpha.0+cba0d113b"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Fexperimental-utils",
+          "observedAt": "2026-11-16T10:34:52.389Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Fexperimental-utils",
+          "observedAt": "2026-11-16T10:34:52.389Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Fexperimental-utils",
+          "observedAt": "2026-11-16T10:34:52.389Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Fexperimental-utils",
+          "observedAt": "2026-11-16T10:34:52.389Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Fexperimental-utils",
+          "observedAt": "2026-11-16T10:34:52.389Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Fexperimental-utils",
+          "observedAt": "2026-11-16T10:34:52.389Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

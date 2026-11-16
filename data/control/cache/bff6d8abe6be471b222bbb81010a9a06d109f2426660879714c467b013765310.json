@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "pkg": "path-scurry",
+  "source": "https://registry.npmjs.org/path-scurry",
+  "fetchedAt": "2026-11-16T10:35:17.385Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 31
+  },
+  "sourceSha256": "0007655295cea10a6721819faad1ae796bd7608a46393151cb52c678c5ca607c",
+  "versions": [
+    {
+      "pkg": "path-scurry",
+      "semver": "2.0.0",
+      "publishedAt": "2024-07-08T22:06:45.331Z",
+      "publisher": "isaacs",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 535406,
+      "dependencies": {
+        "minipass": "^7.1.2",
+        "lru-cache": "^11.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/path-scurry",
+          "observedAt": "2026-11-16T10:35:17.385Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/path-scurry",
+          "observedAt": "2026-11-16T10:35:17.385Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/path-scurry",
+          "observedAt": "2026-11-16T10:35:17.385Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/path-scurry",
+          "observedAt": "2026-11-16T10:35:17.385Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/path-scurry",
+          "observedAt": "2026-11-16T10:35:17.385Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/path-scurry",
+          "observedAt": "2026-11-16T10:35:17.385Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

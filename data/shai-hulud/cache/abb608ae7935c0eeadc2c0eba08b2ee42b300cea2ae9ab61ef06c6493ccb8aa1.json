@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@hestjs/logger",
+  "source": "https://registry.npmjs.org/%40hestjs%2Flogger",
+  "fetchedAt": "2026-11-16T10:31:21.541Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 7
+  },
+  "sourceSha256": "f0491fced608376af1d3b9d3dd40df0935591c4e48dae9dc49c3e53394b56131",
+  "versions": [
+    {
+      "pkg": "@hestjs/logger",
+      "semver": "0.1.5",
+      "publishedAt": "2025-07-28T09:32:14.342Z",
+      "publisher": "aqz23678",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 87070,
+      "dependencies": {
+        "pino": "^9.7.0",
+        "pino-pretty": "^13.0.0",
+        "pino-std-serializers": "^7.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40hestjs%2Flogger",
+          "observedAt": "2026-11-16T10:31:21.541Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40hestjs%2Flogger",
+          "observedAt": "2026-11-16T10:31:21.541Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40hestjs%2Flogger",
+          "observedAt": "2026-11-16T10:31:21.541Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40hestjs%2Flogger",
+          "observedAt": "2026-11-16T10:31:21.541Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40hestjs%2Flogger",
+          "observedAt": "2026-11-16T10:31:21.541Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40hestjs%2Flogger",
+          "observedAt": "2026-11-16T10:31:21.541Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@hestjs/logger",
+      "semver": "0.1.6",
+      "publishedAt": "2025-09-14T20:45:55.197Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40hestjs%2Flogger",
+          "observedAt": "2026-11-16T10:31:21.541Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

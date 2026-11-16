@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "pkg": "browserify-sign",
+  "source": "https://registry.npmjs.org/browserify-sign",
+  "fetchedAt": "2026-11-16T10:34:56.990Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 35
+  },
+  "sourceSha256": "bda1403722d8824d7a401ee06f2c93259a9fbbc39584665bf5698bce96909935",
+  "versions": [
+    {
+      "pkg": "browserify-sign",
+      "semver": "4.2.1",
+      "publishedAt": "2020-08-04T16:15:11.470Z",
+      "publisher": "cwmma",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 14452,
+      "dependencies": {
+        "bn.js": "^5.1.1",
+        "elliptic": "^6.5.3",
+        "inherits": "^2.0.4",
+        "parse-asn1": "^5.1.5",
+        "create-hash": "^1.2.0",
+        "create-hmac": "^1.1.7",
+        "safe-buffer": "^5.2.0",
+        "browserify-rsa": "^4.0.1",
+        "readable-stream": "^3.6.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/browserify-sign",
+          "observedAt": "2026-11-16T10:34:56.990Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/browserify-sign",
+          "observedAt": "2026-11-16T10:34:56.990Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/browserify-sign",
+          "observedAt": "2026-11-16T10:34:56.990Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/browserify-sign",
+          "observedAt": "2026-11-16T10:34:56.990Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/browserify-sign",
+          "observedAt": "2026-11-16T10:34:56.990Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/browserify-sign",
+          "observedAt": "2026-11-16T10:34:56.990Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "browserify-sign",
+      "semver": "4.2.3",
+      "publishedAt": "2024-03-05T17:36:06.462Z",
+      "publisher": "ljharb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 15794,
+      "dependencies": {
+        "bn.js": "^5.2.1",
+        "elliptic": "^6.5.5",
+        "inherits": "^2.0.4",
+        "hash-base": "~3.0",
+        "parse-asn1": "^5.1.7",
+        "create-hash": "^1.2.0",
+        "create-hmac": "^1.1.7",
+        "safe-buffer": "^5.2.1",
+        "browserify-rsa": "^4.1.0",
+        "readable-stream": "^2.3.8"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/browserify-sign",
+          "observedAt": "2026-11-16T10:34:56.990Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/browserify-sign",
+          "observedAt": "2026-11-16T10:34:56.990Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/browserify-sign",
+          "observedAt": "2026-11-16T10:34:56.990Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/browserify-sign",
+          "observedAt": "2026-11-16T10:34:56.990Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/browserify-sign",
+          "observedAt": "2026-11-16T10:34:56.990Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/browserify-sign",
+          "observedAt": "2026-11-16T10:34:56.990Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@protobufjs/aspromise",
+  "source": "https://registry.npmjs.org/%40protobufjs%2Faspromise",
+  "fetchedAt": "2026-11-16T10:34:37.007Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 7
+  },
+  "sourceSha256": "d726fefb1dea21d01a5819223ae7e9482d75e3e18bd363cd2391fed59848b431",
+  "versions": [
+    {
+      "pkg": "@protobufjs/aspromise",
+      "semver": "1.0.2",
+      "publishedAt": "2016-12-12T13:51:47.764Z",
+      "publisher": "protobufjs",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40protobufjs%2Faspromise",
+          "observedAt": "2026-11-16T10:34:37.007Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40protobufjs%2Faspromise",
+          "observedAt": "2026-11-16T10:34:37.007Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40protobufjs%2Faspromise",
+          "observedAt": "2026-11-16T10:34:37.007Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40protobufjs%2Faspromise",
+          "observedAt": "2026-11-16T10:34:37.007Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40protobufjs%2Faspromise",
+          "observedAt": "2026-11-16T10:34:37.007Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@protobufjs/aspromise",
+      "semver": "1.1.2",
+      "publishedAt": "2017-04-24T10:38:32.963Z",
+      "publisher": "dcode",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40protobufjs%2Faspromise",
+          "observedAt": "2026-11-16T10:34:37.007Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40protobufjs%2Faspromise",
+          "observedAt": "2026-11-16T10:34:37.007Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40protobufjs%2Faspromise",
+          "observedAt": "2026-11-16T10:34:37.007Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40protobufjs%2Faspromise",
+          "observedAt": "2026-11-16T10:34:37.007Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40protobufjs%2Faspromise",
+          "observedAt": "2026-11-16T10:34:37.007Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "pkg": "pac-proxy-agent",
+  "source": "https://registry.npmjs.org/pac-proxy-agent",
+  "fetchedAt": "2026-11-16T10:35:16.656Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 30
+  },
+  "sourceSha256": "1c32373f9769ad02bfa043d810e806cd6d3fcabe4c1321a75ffc20047dee3184",
+  "versions": [
+    {
+      "pkg": "pac-proxy-agent",
+      "semver": "7.2.0",
+      "publishedAt": "2025-02-18T19:38:33.261Z",
+      "publisher": "tootallnate",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 33599,
+      "dependencies": {
+        "debug": "^4.3.4",
+        "get-uri": "^6.0.1",
+        "agent-base": "^7.1.2",
+        "pac-resolver": "^7.0.1",
+        "http-proxy-agent": "^7.0.0",
+        "https-proxy-agent": "^7.0.6",
+        "socks-proxy-agent": "^8.0.5",
+        "@tootallnate/quickjs-emscripten": "^0.23.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/pac-proxy-agent",
+          "observedAt": "2026-11-16T10:35:16.656Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/pac-proxy-agent",
+          "observedAt": "2026-11-16T10:35:16.656Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/pac-proxy-agent",
+          "observedAt": "2026-11-16T10:35:16.656Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/pac-proxy-agent",
+          "observedAt": "2026-11-16T10:35:16.656Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/pac-proxy-agent",
+          "observedAt": "2026-11-16T10:35:16.656Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/pac-proxy-agent",
+          "observedAt": "2026-11-16T10:35:16.656Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

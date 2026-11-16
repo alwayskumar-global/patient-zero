@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "jest-pnp-resolver",
+  "source": "https://registry.npmjs.org/jest-pnp-resolver",
+  "fetchedAt": "2026-11-16T10:35:08.078Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 9
+  },
+  "sourceSha256": "b26977551d923c9ef6d2e62291a722abe4066ce254c5d37c00fdbad455adb4f2",
+  "versions": [
+    {
+      "pkg": "jest-pnp-resolver",
+      "semver": "1.2.3",
+      "publishedAt": "2022-11-15T09:49:56.652Z",
+      "publisher": "arcanis",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 5676,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-pnp-resolver",
+          "observedAt": "2026-11-16T10:35:08.078Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-pnp-resolver",
+          "observedAt": "2026-11-16T10:35:08.078Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-pnp-resolver",
+          "observedAt": "2026-11-16T10:35:08.078Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-pnp-resolver",
+          "observedAt": "2026-11-16T10:35:08.078Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jest-pnp-resolver",
+          "observedAt": "2026-11-16T10:35:08.078Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-pnp-resolver",
+          "observedAt": "2026-11-16T10:35:08.078Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

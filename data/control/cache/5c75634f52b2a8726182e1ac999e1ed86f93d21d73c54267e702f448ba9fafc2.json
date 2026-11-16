@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "pkg": "isobject",
+  "source": "https://registry.npmjs.org/isobject",
+  "fetchedAt": "2026-11-16T10:35:07.173Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 12
+  },
+  "sourceSha256": "3857c60844a112a70d780f59c48c5a4d5257c108c10cdfb5c50f71fa102d4d38",
+  "versions": [
+    {
+      "pkg": "isobject",
+      "semver": "2.1.0",
+      "publishedAt": "2016-04-25T21:07:07.504Z",
+      "publisher": "jonschlinkert",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "isarray": "1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/isobject",
+          "observedAt": "2026-11-16T10:35:07.173Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/isobject",
+          "observedAt": "2026-11-16T10:35:07.173Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/isobject",
+          "observedAt": "2026-11-16T10:35:07.173Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/isobject",
+          "observedAt": "2026-11-16T10:35:07.173Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/isobject",
+          "observedAt": "2026-11-16T10:35:07.173Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "isobject",
+      "semver": "3.0.1",
+      "publishedAt": "2017-06-30T18:19:30.705Z",
+      "publisher": "doowb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/isobject",
+          "observedAt": "2026-11-16T10:35:07.173Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/isobject",
+          "observedAt": "2026-11-16T10:35:07.173Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/isobject",
+          "observedAt": "2026-11-16T10:35:07.173Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/isobject",
+          "observedAt": "2026-11-16T10:35:07.173Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/isobject",
+          "observedAt": "2026-11-16T10:35:07.173Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "isobject",
+      "semver": "4.0.0",
+      "publishedAt": "2019-04-28T10:09:13.577Z",
+      "publisher": "trysound",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7765,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/isobject",
+          "observedAt": "2026-11-16T10:35:07.173Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/isobject",
+          "observedAt": "2026-11-16T10:35:07.173Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/isobject",
+          "observedAt": "2026-11-16T10:35:07.173Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/isobject",
+          "observedAt": "2026-11-16T10:35:07.173Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/isobject",
+          "observedAt": "2026-11-16T10:35:07.173Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/isobject",
+          "observedAt": "2026-11-16T10:35:07.173Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

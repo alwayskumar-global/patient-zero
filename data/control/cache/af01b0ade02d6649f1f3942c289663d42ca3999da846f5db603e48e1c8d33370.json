@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@webassemblyjs/wasm-gen",
+  "source": "https://registry.npmjs.org/%40webassemblyjs%2Fwasm-gen",
+  "fetchedAt": "2026-11-16T10:34:55.085Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 87
+  },
+  "sourceSha256": "af92004880ddd9ed749f2b15a8c27d75c4ee8712239aa13c86f57419a59b42b0",
+  "versions": [
+    {
+      "pkg": "@webassemblyjs/wasm-gen",
+      "semver": "1.14.1",
+      "publishedAt": "2024-11-06T21:53:38.321Z",
+      "publisher": "xtuc",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 28065,
+      "dependencies": {
+        "@webassemblyjs/ast": "1.14.1",
+        "@webassemblyjs/helper-wasm-bytecode": "1.13.2",
+        "@webassemblyjs/ieee754": "1.13.2",
+        "@webassemblyjs/leb128": "1.13.2",
+        "@webassemblyjs/utf8": "1.13.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40webassemblyjs%2Fwasm-gen",
+          "observedAt": "2026-11-16T10:34:55.085Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40webassemblyjs%2Fwasm-gen",
+          "observedAt": "2026-11-16T10:34:55.085Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40webassemblyjs%2Fwasm-gen",
+          "observedAt": "2026-11-16T10:34:55.085Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40webassemblyjs%2Fwasm-gen",
+          "observedAt": "2026-11-16T10:34:55.085Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40webassemblyjs%2Fwasm-gen",
+          "observedAt": "2026-11-16T10:34:55.085Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40webassemblyjs%2Fwasm-gen",
+          "observedAt": "2026-11-16T10:34:55.085Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

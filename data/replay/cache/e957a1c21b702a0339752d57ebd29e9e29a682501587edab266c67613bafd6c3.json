@@ -1,0 +1,465 @@
+{
+  "schemaVersion": 1,
+  "pkg": "chalk-template",
+  "source": "https://registry.npmjs.org/chalk-template",
+  "fetchedAt": "2026-11-16T10:07:11.395Z",
+  "sourceSha256": "e4b79d4cb6d49686330ffbb09ed12958a577ca8a10de2486522184eb6ed789d5",
+  "versions": [
+    {
+      "pkg": "chalk-template",
+      "semver": "0.1.0",
+      "publishedAt": "2017-01-19T21:40:09.895Z",
+      "publisher": "smollweide",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "chalk": "1.1.3",
+        "eslint": "3.13.1",
+        "for-in": "0.1.6",
+        "eslint-plugin-import": "2.2.0",
+        "@namics/eslint-config": "2.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/chalk-template",
+          "observedAt": "2026-11-16T10:07:11.395Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/chalk-template",
+          "observedAt": "2026-11-16T10:07:11.395Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/chalk-template",
+          "observedAt": "2026-11-16T10:07:11.395Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/chalk-template",
+          "observedAt": "2026-11-16T10:07:11.395Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/chalk-template",
+          "observedAt": "2026-11-16T10:07:11.395Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "chalk-template",
+      "semver": "0.2.0",
+      "publishedAt": "2021-11-04T10:48:12.060Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 8434,
+      "dependencies": {
+        "chalk": "^4.1.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/chalk-template",
+          "observedAt": "2026-11-16T10:07:11.395Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/chalk-template",
+          "observedAt": "2026-11-16T10:07:11.395Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/chalk-template",
+          "observedAt": "2026-11-16T10:07:11.395Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/chalk-template",
+          "observedAt": "2026-11-16T10:07:11.395Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/chalk-template",
+          "observedAt": "2026-11-16T10:07:11.395Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/chalk-template",
+          "observedAt": "2026-11-16T10:07:11.395Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "chalk-template",
+      "semver": "0.3.0",
+      "publishedAt": "2022-01-17T17:51:39.843Z",
+      "publisher": "qix",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 9116,
+      "dependencies": {
+        "chalk": "^4.1.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/chalk-template",
+          "observedAt": "2026-11-16T10:07:11.395Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/chalk-template",
+          "observedAt": "2026-11-16T10:07:11.395Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/chalk-template",
+          "observedAt": "2026-11-16T10:07:11.395Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/chalk-template",
+          "observedAt": "2026-11-16T10:07:11.395Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/chalk-template",
+          "observedAt": "2026-11-16T10:07:11.395Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/chalk-template",
+          "observedAt": "2026-11-16T10:07:11.395Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "chalk-template",
+      "semver": "0.3.1",
+      "publishedAt": "2022-01-18T05:27:45.804Z",
+      "publisher": "qix",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 9120,
+      "dependencies": {
+        "chalk": "^4.1.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/chalk-template",
+          "observedAt": "2026-11-16T10:07:11.395Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/chalk-template",
+          "observedAt": "2026-11-16T10:07:11.395Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/chalk-template",
+          "observedAt": "2026-11-16T10:07:11.395Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/chalk-template",
+          "observedAt": "2026-11-16T10:07:11.395Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/chalk-template",
+          "observedAt": "2026-11-16T10:07:11.395Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/chalk-template",
+          "observedAt": "2026-11-16T10:07:11.395Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "chalk-template",
+      "semver": "0.4.0",
+      "publishedAt": "2022-03-04T17:24:41.296Z",
+      "publisher": "qix",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 9742,
+      "dependencies": {
+        "chalk": "^4.1.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/chalk-template",
+          "observedAt": "2026-11-16T10:07:11.395Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/chalk-template",
+          "observedAt": "2026-11-16T10:07:11.395Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/chalk-template",
+          "observedAt": "2026-11-16T10:07:11.395Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/chalk-template",
+          "observedAt": "2026-11-16T10:07:11.395Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/chalk-template",
+          "observedAt": "2026-11-16T10:07:11.395Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/chalk-template",
+          "observedAt": "2026-11-16T10:07:11.395Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "chalk-template",
+      "semver": "0.5.0",
+      "publishedAt": "2022-12-26T12:15:33.873Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 11942,
+      "dependencies": {
+        "chalk": "^4.1.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/chalk-template",
+          "observedAt": "2026-11-16T10:07:11.395Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/chalk-template",
+          "observedAt": "2026-11-16T10:07:11.395Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/chalk-template",
+          "observedAt": "2026-11-16T10:07:11.395Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/chalk-template",
+          "observedAt": "2026-11-16T10:07:11.395Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/chalk-template",
+          "observedAt": "2026-11-16T10:07:11.395Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/chalk-template",
+          "observedAt": "2026-11-16T10:07:11.395Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "chalk-template",
+      "semver": "1.0.0",
+      "publishedAt": "2023-03-18T12:39:11.115Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 12005,
+      "dependencies": {
+        "chalk": "^5.2.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/chalk-template",
+          "observedAt": "2026-11-16T10:07:11.395Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/chalk-template",
+          "observedAt": "2026-11-16T10:07:11.395Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/chalk-template",
+          "observedAt": "2026-11-16T10:07:11.395Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/chalk-template",
+          "observedAt": "2026-11-16T10:07:11.395Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/chalk-template",
+          "observedAt": "2026-11-16T10:07:11.395Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/chalk-template",
+          "observedAt": "2026-11-16T10:07:11.395Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "chalk-template",
+      "semver": "1.1.0",
+      "publishedAt": "2023-05-23T09:15:14.781Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 13738,
+      "dependencies": {
+        "chalk": "^5.2.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/chalk-template",
+          "observedAt": "2026-11-16T10:07:11.395Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/chalk-template",
+          "observedAt": "2026-11-16T10:07:11.395Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/chalk-template",
+          "observedAt": "2026-11-16T10:07:11.395Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/chalk-template",
+          "observedAt": "2026-11-16T10:07:11.395Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/chalk-template",
+          "observedAt": "2026-11-16T10:07:11.395Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/chalk-template",
+          "observedAt": "2026-11-16T10:07:11.395Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "chalk-template",
+      "semver": "1.1.1",
+      "publishedAt": "2025-09-08T13:20:09.339Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/chalk-template",
+          "observedAt": "2026-11-16T10:07:11.395Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "chalk-template",
+      "semver": "1.1.2",
+      "publishedAt": "2025-09-08T15:13:28.338Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 13738,
+      "dependencies": {
+        "chalk": "^5.2.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/chalk-template",
+          "observedAt": "2026-11-16T10:07:11.395Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/chalk-template",
+          "observedAt": "2026-11-16T10:07:11.395Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/chalk-template",
+          "observedAt": "2026-11-16T10:07:11.395Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/chalk-template",
+          "observedAt": "2026-11-16T10:07:11.395Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/chalk-template",
+          "observedAt": "2026-11-16T10:07:11.395Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/chalk-template",
+          "observedAt": "2026-11-16T10:07:11.395Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "chalk-template",
+      "semver": "1.1.3",
+      "publishedAt": "2026-09-25T17:20:56.256Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 14413,
+      "dependencies": {
+        "chalk": "^5.2.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/chalk-template",
+          "observedAt": "2026-11-16T10:07:11.395Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/chalk-template",
+          "observedAt": "2026-11-16T10:07:11.395Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/chalk-template",
+          "observedAt": "2026-11-16T10:07:11.395Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/chalk-template",
+          "observedAt": "2026-11-16T10:07:11.395Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/chalk-template",
+          "observedAt": "2026-11-16T10:07:11.395Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/chalk-template",
+          "observedAt": "2026-11-16T10:07:11.395Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

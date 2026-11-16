@@ -1,0 +1,355 @@
+{
+  "schemaVersion": 1,
+  "pkg": "jest-mock",
+  "source": "https://registry.npmjs.org/jest-mock",
+  "fetchedAt": "2026-11-16T10:35:08.081Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 255
+  },
+  "sourceSha256": "2922f8a70e8a7d3d977c11a52162fd4a295062ea9a82025dedb521358aa68986",
+  "versions": [
+    {
+      "pkg": "jest-mock",
+      "semver": "11.0.2",
+      "publishedAt": "2016-04-18T04:03:25.538Z",
+      "publisher": "kentaromiura",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-mock",
+          "observedAt": "2026-11-16T10:35:08.081Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-mock",
+          "observedAt": "2026-11-16T10:35:08.081Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-mock",
+          "observedAt": "2026-11-16T10:35:08.081Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-mock",
+          "observedAt": "2026-11-16T10:35:08.081Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-mock",
+          "observedAt": "2026-11-16T10:35:08.081Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jest-mock",
+      "semver": "21.0.0-alpha.2",
+      "publishedAt": "2017-08-21T22:06:48.591Z",
+      "publisher": "aaronabramov",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-mock",
+          "observedAt": "2026-11-16T10:35:08.081Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-mock",
+          "observedAt": "2026-11-16T10:35:08.081Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-mock",
+          "observedAt": "2026-11-16T10:35:08.081Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-mock",
+          "observedAt": "2026-11-16T10:35:08.081Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-mock",
+          "observedAt": "2026-11-16T10:35:08.081Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jest-mock",
+      "semver": "24.0.0-alpha.7",
+      "publishedAt": "2018-12-11T16:07:37.385Z",
+      "publisher": "mjesun",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 5235,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-mock",
+          "observedAt": "2026-11-16T10:35:08.081Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-mock",
+          "observedAt": "2026-11-16T10:35:08.081Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-mock",
+          "observedAt": "2026-11-16T10:35:08.081Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-mock",
+          "observedAt": "2026-11-16T10:35:08.081Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jest-mock",
+          "observedAt": "2026-11-16T10:35:08.081Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-mock",
+          "observedAt": "2026-11-16T10:35:08.081Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jest-mock",
+      "semver": "24.6.0",
+      "publishedAt": "2019-04-01T22:26:23.220Z",
+      "publisher": "rubennorte",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 289309,
+      "dependencies": {
+        "@jest/types": "^24.6.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-mock",
+          "observedAt": "2026-11-16T10:35:08.081Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-mock",
+          "observedAt": "2026-11-16T10:35:08.081Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-mock",
+          "observedAt": "2026-11-16T10:35:08.081Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-mock",
+          "observedAt": "2026-11-16T10:35:08.081Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jest-mock",
+          "observedAt": "2026-11-16T10:35:08.081Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-mock",
+          "observedAt": "2026-11-16T10:35:08.081Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jest-mock",
+      "semver": "25.0.0",
+      "publishedAt": "2019-08-22T03:23:53.741Z",
+      "publisher": "scotthovestadt",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 133760,
+      "dependencies": {
+        "@jest/types": "^25.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-mock",
+          "observedAt": "2026-11-16T10:35:08.081Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-mock",
+          "observedAt": "2026-11-16T10:35:08.081Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-mock",
+          "observedAt": "2026-11-16T10:35:08.081Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-mock",
+          "observedAt": "2026-11-16T10:35:08.081Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jest-mock",
+          "observedAt": "2026-11-16T10:35:08.081Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-mock",
+          "observedAt": "2026-11-16T10:35:08.081Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jest-mock",
+      "semver": "25.1.0",
+      "publishedAt": "2020-01-22T00:59:53.206Z",
+      "publisher": "davidzilburg",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 129343,
+      "dependencies": {
+        "@jest/types": "^25.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-mock",
+          "observedAt": "2026-11-16T10:35:08.081Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-mock",
+          "observedAt": "2026-11-16T10:35:08.081Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-mock",
+          "observedAt": "2026-11-16T10:35:08.081Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-mock",
+          "observedAt": "2026-11-16T10:35:08.081Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jest-mock",
+          "observedAt": "2026-11-16T10:35:08.081Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-mock",
+          "observedAt": "2026-11-16T10:35:08.081Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jest-mock",
+      "semver": "30.0.0-alpha.7",
+      "publishedAt": "2025-01-30T08:28:30.294Z",
+      "publisher": "simenb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 45704,
+      "dependencies": {
+        "jest-util": "30.0.0-alpha.7",
+        "@jest/types": "30.0.0-alpha.7",
+        "@types/node": "*"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-mock",
+          "observedAt": "2026-11-16T10:35:08.081Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-mock",
+          "observedAt": "2026-11-16T10:35:08.081Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-mock",
+          "observedAt": "2026-11-16T10:35:08.081Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-mock",
+          "observedAt": "2026-11-16T10:35:08.081Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jest-mock",
+          "observedAt": "2026-11-16T10:35:08.081Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-mock",
+          "observedAt": "2026-11-16T10:35:08.081Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jest-mock",
+      "semver": "30.0.5",
+      "publishedAt": "2025-07-22T02:28:31.725Z",
+      "publisher": "cpojer",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 55420,
+      "dependencies": {
+        "jest-util": "30.0.5",
+        "@jest/types": "30.0.5",
+        "@types/node": "*"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-mock",
+          "observedAt": "2026-11-16T10:35:08.081Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-mock",
+          "observedAt": "2026-11-16T10:35:08.081Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-mock",
+          "observedAt": "2026-11-16T10:35:08.081Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-mock",
+          "observedAt": "2026-11-16T10:35:08.081Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jest-mock",
+          "observedAt": "2026-11-16T10:35:08.081Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-mock",
+          "observedAt": "2026-11-16T10:35:08.081Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

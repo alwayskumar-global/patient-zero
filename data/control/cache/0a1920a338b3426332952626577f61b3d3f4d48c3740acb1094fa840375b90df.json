@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "tailwind-merge",
+  "source": "https://registry.npmjs.org/tailwind-merge",
+  "fetchedAt": "2026-11-16T10:35:28.423Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 483
+  },
+  "sourceSha256": "c5d8959a5f83e94af6e793e8b0bc83e66e802d042e93e4771955b1504a8a7160",
+  "versions": [
+    {
+      "pkg": "tailwind-merge",
+      "semver": "3.3.1-dev.54737fb4728bf9671171aa96c3b73ca1b1dd440a",
+      "publishedAt": "2025-07-22T08:09:08.043Z",
+      "publisher": "dcas",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 898730,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/tailwind-merge",
+          "observedAt": "2026-11-16T10:35:28.423Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/tailwind-merge",
+          "observedAt": "2026-11-16T10:35:28.423Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/tailwind-merge",
+          "observedAt": "2026-11-16T10:35:28.423Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/tailwind-merge",
+          "observedAt": "2026-11-16T10:35:28.423Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/tailwind-merge",
+          "observedAt": "2026-11-16T10:35:28.423Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/tailwind-merge",
+          "observedAt": "2026-11-16T10:35:28.423Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

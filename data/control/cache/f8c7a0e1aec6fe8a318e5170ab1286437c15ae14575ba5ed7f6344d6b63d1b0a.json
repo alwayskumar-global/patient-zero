@@ -1,0 +1,252 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@jest/console",
+  "source": "https://registry.npmjs.org/%40jest%2Fconsole",
+  "fetchedAt": "2026-11-16T10:34:35.632Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 132
+  },
+  "sourceSha256": "4da6cec1d0fcb6c1a870b7acc36f9244db0f065f60c77ea5e3294896a5b6b8be",
+  "versions": [
+    {
+      "pkg": "@jest/console",
+      "semver": "24.6.0",
+      "publishedAt": "2019-04-01T22:26:16.788Z",
+      "publisher": "rubennorte",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 191917,
+      "dependencies": {
+        "chalk": "^2.0.1",
+        "slash": "^2.0.0",
+        "@jest/source-map": "^24.3.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40jest%2Fconsole",
+          "observedAt": "2026-11-16T10:34:35.632Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40jest%2Fconsole",
+          "observedAt": "2026-11-16T10:34:35.632Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40jest%2Fconsole",
+          "observedAt": "2026-11-16T10:34:35.632Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40jest%2Fconsole",
+          "observedAt": "2026-11-16T10:34:35.632Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40jest%2Fconsole",
+          "observedAt": "2026-11-16T10:34:35.632Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40jest%2Fconsole",
+          "observedAt": "2026-11-16T10:34:35.632Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@jest/console",
+      "semver": "25.0.0",
+      "publishedAt": "2019-08-22T03:23:53.089Z",
+      "publisher": "scotthovestadt",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 24664,
+      "dependencies": {
+        "chalk": "^2.0.1",
+        "slash": "^3.0.0",
+        "@jest/source-map": "^25.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40jest%2Fconsole",
+          "observedAt": "2026-11-16T10:34:35.632Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40jest%2Fconsole",
+          "observedAt": "2026-11-16T10:34:35.632Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40jest%2Fconsole",
+          "observedAt": "2026-11-16T10:34:35.632Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40jest%2Fconsole",
+          "observedAt": "2026-11-16T10:34:35.632Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40jest%2Fconsole",
+          "observedAt": "2026-11-16T10:34:35.632Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40jest%2Fconsole",
+          "observedAt": "2026-11-16T10:34:35.632Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@jest/console",
+      "semver": "25.1.0",
+      "publishedAt": "2020-01-22T00:59:56.357Z",
+      "publisher": "davidzilburg",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 25310,
+      "dependencies": {
+        "chalk": "^3.0.0",
+        "slash": "^3.0.0",
+        "jest-util": "^25.1.0",
+        "@jest/source-map": "^25.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40jest%2Fconsole",
+          "observedAt": "2026-11-16T10:34:35.632Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40jest%2Fconsole",
+          "observedAt": "2026-11-16T10:34:35.632Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40jest%2Fconsole",
+          "observedAt": "2026-11-16T10:34:35.632Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40jest%2Fconsole",
+          "observedAt": "2026-11-16T10:34:35.632Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40jest%2Fconsole",
+          "observedAt": "2026-11-16T10:34:35.632Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40jest%2Fconsole",
+          "observedAt": "2026-11-16T10:34:35.632Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@jest/console",
+      "semver": "30.0.0-alpha.7",
+      "publishedAt": "2025-01-30T08:28:34.601Z",
+      "publisher": "simenb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 20902,
+      "dependencies": {
+        "chalk": "^4.0.0",
+        "slash": "^3.0.0",
+        "jest-util": "30.0.0-alpha.7",
+        "@jest/types": "30.0.0-alpha.7",
+        "@types/node": "*",
+        "jest-message-util": "30.0.0-alpha.7"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40jest%2Fconsole",
+          "observedAt": "2026-11-16T10:34:35.632Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40jest%2Fconsole",
+          "observedAt": "2026-11-16T10:34:35.632Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40jest%2Fconsole",
+          "observedAt": "2026-11-16T10:34:35.632Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40jest%2Fconsole",
+          "observedAt": "2026-11-16T10:34:35.632Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40jest%2Fconsole",
+          "observedAt": "2026-11-16T10:34:35.632Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40jest%2Fconsole",
+          "observedAt": "2026-11-16T10:34:35.632Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@jest/console",
+      "semver": "30.0.5",
+      "publishedAt": "2025-07-22T02:28:35.078Z",
+      "publisher": "cpojer",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 24719,
+      "dependencies": {
+        "chalk": "^4.1.2",
+        "slash": "^3.0.0",
+        "jest-util": "30.0.5",
+        "@jest/types": "30.0.5",
+        "@types/node": "*",
+        "jest-message-util": "30.0.5"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40jest%2Fconsole",
+          "observedAt": "2026-11-16T10:34:35.632Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40jest%2Fconsole",
+          "observedAt": "2026-11-16T10:34:35.632Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40jest%2Fconsole",
+          "observedAt": "2026-11-16T10:34:35.632Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40jest%2Fconsole",
+          "observedAt": "2026-11-16T10:34:35.632Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40jest%2Fconsole",
+          "observedAt": "2026-11-16T10:34:35.632Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40jest%2Fconsole",
+          "observedAt": "2026-11-16T10:34:35.632Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

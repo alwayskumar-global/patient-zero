@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@aws-crypto/util",
+  "source": "https://registry.npmjs.org/%40aws-crypto%2Futil",
+  "fetchedAt": "2026-11-16T10:34:27.850Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 11
+  },
+  "sourceSha256": "cdd7243b161a0b5dc799efc06a7b7613299447a39423ce66dd4557393e0f437a",
+  "versions": [
+    {
+      "pkg": "@aws-crypto/util",
+      "semver": "5.2.0",
+      "publishedAt": "2023-10-16T19:44:45.324Z",
+      "publisher": "aws-crypto-tools-ci-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 30653,
+      "dependencies": {
+        "tslib": "^2.6.2",
+        "@aws-sdk/types": "^3.222.0",
+        "@smithy/util-utf8": "^2.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40aws-crypto%2Futil",
+          "observedAt": "2026-11-16T10:34:27.850Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40aws-crypto%2Futil",
+          "observedAt": "2026-11-16T10:34:27.850Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40aws-crypto%2Futil",
+          "observedAt": "2026-11-16T10:34:27.850Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40aws-crypto%2Futil",
+          "observedAt": "2026-11-16T10:34:27.850Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40aws-crypto%2Futil",
+          "observedAt": "2026-11-16T10:34:27.850Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40aws-crypto%2Futil",
+          "observedAt": "2026-11-16T10:34:27.850Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

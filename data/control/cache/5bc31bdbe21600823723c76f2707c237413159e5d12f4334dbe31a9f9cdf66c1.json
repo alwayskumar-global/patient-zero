@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "pkg": "regenerate-unicode-properties",
+  "source": "https://registry.npmjs.org/regenerate-unicode-properties",
+  "fetchedAt": "2026-11-16T10:35:23.889Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 35
+  },
+  "sourceSha256": "5298e30f21afb1f2fd4f11611bb430d8a0c9decea1cedac625f2cf966b428399",
+  "versions": [
+    {
+      "pkg": "regenerate-unicode-properties",
+      "semver": "10.2.0",
+      "publishedAt": "2024-09-12T09:07:42.000Z",
+      "publisher": "google-wombot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 601545,
+      "dependencies": {
+        "regenerate": "^1.4.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/regenerate-unicode-properties",
+          "observedAt": "2026-11-16T10:35:23.889Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/regenerate-unicode-properties",
+          "observedAt": "2026-11-16T10:35:23.889Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/regenerate-unicode-properties",
+          "observedAt": "2026-11-16T10:35:23.889Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/regenerate-unicode-properties",
+          "observedAt": "2026-11-16T10:35:23.889Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/regenerate-unicode-properties",
+          "observedAt": "2026-11-16T10:35:23.889Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/regenerate-unicode-properties",
+          "observedAt": "2026-11-16T10:35:23.889Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "regenerate-unicode-properties",
+      "semver": "8.2.0",
+      "publishedAt": "2020-03-11T17:14:51.190Z",
+      "publisher": "mathias",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 390608,
+      "dependencies": {
+        "regenerate": "^1.4.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/regenerate-unicode-properties",
+          "observedAt": "2026-11-16T10:35:23.889Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/regenerate-unicode-properties",
+          "observedAt": "2026-11-16T10:35:23.889Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/regenerate-unicode-properties",
+          "observedAt": "2026-11-16T10:35:23.889Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/regenerate-unicode-properties",
+          "observedAt": "2026-11-16T10:35:23.889Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/regenerate-unicode-properties",
+          "observedAt": "2026-11-16T10:35:23.889Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/regenerate-unicode-properties",
+          "observedAt": "2026-11-16T10:35:23.889Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

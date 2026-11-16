@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "pkg": "prompts",
+  "source": "https://registry.npmjs.org/prompts",
+  "fetchedAt": "2026-11-16T10:35:21.374Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 36
+  },
+  "sourceSha256": "0fa5cb5078283b2ba0c93489c0959bdb21ade1bc592df4bd54c6bb922db7e2fb",
+  "versions": [
+    {
+      "pkg": "prompts",
+      "semver": "2.4.2",
+      "publishedAt": "2021-10-07T21:23:57.263Z",
+      "publisher": "terkelg",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 186815,
+      "dependencies": {
+        "kleur": "^3.0.3",
+        "sisteransi": "^1.0.5"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/prompts",
+          "observedAt": "2026-11-16T10:35:21.374Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/prompts",
+          "observedAt": "2026-11-16T10:35:21.374Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/prompts",
+          "observedAt": "2026-11-16T10:35:21.374Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/prompts",
+          "observedAt": "2026-11-16T10:35:21.374Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/prompts",
+          "observedAt": "2026-11-16T10:35:21.374Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/prompts",
+          "observedAt": "2026-11-16T10:35:21.374Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

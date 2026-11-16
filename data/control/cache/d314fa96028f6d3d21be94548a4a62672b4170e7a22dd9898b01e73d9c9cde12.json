@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "pkg": "sax",
+  "source": "https://registry.npmjs.org/sax",
+  "fetchedAt": "2026-11-16T10:35:25.499Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 54
+  },
+  "sourceSha256": "a4feac75f908237426343469efbc5426e0094a74c57b9f7bebfce45505e0802b",
+  "versions": [
+    {
+      "pkg": "sax",
+      "semver": "0.4.2",
+      "publishedAt": "2012-07-26T04:04:22.445Z",
+      "publisher": null,
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/sax",
+          "observedAt": "2026-11-16T10:35:25.499Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/sax",
+          "observedAt": "2026-11-16T10:35:25.499Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/sax",
+          "observedAt": "2026-11-16T10:35:25.499Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/sax",
+          "observedAt": "2026-11-16T10:35:25.499Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "sax",
+      "semver": "1.4.1",
+      "publishedAt": "2024-05-27T23:46:17.431Z",
+      "publisher": "isaacs",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 56017,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/sax",
+          "observedAt": "2026-11-16T10:35:25.499Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/sax",
+          "observedAt": "2026-11-16T10:35:25.499Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/sax",
+          "observedAt": "2026-11-16T10:35:25.499Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/sax",
+          "observedAt": "2026-11-16T10:35:25.499Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/sax",
+          "observedAt": "2026-11-16T10:35:25.499Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/sax",
+          "observedAt": "2026-11-16T10:35:25.499Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

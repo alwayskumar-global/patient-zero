@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "pkg": "object-copy",
+  "source": "https://registry.npmjs.org/object-copy",
+  "fetchedAt": "2026-11-16T10:35:15.769Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 2
+  },
+  "sourceSha256": "b02c5662f4b729e35305762d819e901929ffb606aa8e9bc7685a164f78adc4e6",
+  "versions": [
+    {
+      "pkg": "object-copy",
+      "semver": "1.0.0",
+      "publishedAt": "2017-06-25T11:48:15.080Z",
+      "publisher": "jonschlinkert",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "copy-descriptor": "^0.1.1",
+        "define-property": "^1.0.0",
+        "kind-of": "^5.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/object-copy",
+          "observedAt": "2026-11-16T10:35:15.769Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/object-copy",
+          "observedAt": "2026-11-16T10:35:15.769Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/object-copy",
+          "observedAt": "2026-11-16T10:35:15.769Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/object-copy",
+          "observedAt": "2026-11-16T10:35:15.769Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/object-copy",
+          "observedAt": "2026-11-16T10:35:15.769Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

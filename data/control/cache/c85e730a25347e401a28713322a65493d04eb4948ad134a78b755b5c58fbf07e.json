@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@babel/plugin-transform-duplicate-named-capturing-groups-regex",
+  "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-duplicate-named-capturing-groups-regex",
+  "fetchedAt": "2026-11-16T10:34:32.428Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 26
+  },
+  "sourceSha256": "d3168fdf66e5c89e333138dd6658a21cb943f0ad0808dc9f4b4f4bd2e884855c",
+  "versions": [
+    {
+      "pkg": "@babel/plugin-transform-duplicate-named-capturing-groups-regex",
+      "semver": "8.0.0-beta.1",
+      "publishedAt": "2025-07-02T09:04:30.809Z",
+      "publisher": "nicolo-ribaudo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 5371,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "^8.0.0-beta.1",
+        "@babel/helper-create-regexp-features-plugin": "^8.0.0-beta.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-duplicate-named-capturing-groups-regex",
+          "observedAt": "2026-11-16T10:34:32.428Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-duplicate-named-capturing-groups-regex",
+          "observedAt": "2026-11-16T10:34:32.428Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-duplicate-named-capturing-groups-regex",
+          "observedAt": "2026-11-16T10:34:32.428Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-duplicate-named-capturing-groups-regex",
+          "observedAt": "2026-11-16T10:34:32.428Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-duplicate-named-capturing-groups-regex",
+          "observedAt": "2026-11-16T10:34:32.428Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-duplicate-named-capturing-groups-regex",
+          "observedAt": "2026-11-16T10:34:32.428Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

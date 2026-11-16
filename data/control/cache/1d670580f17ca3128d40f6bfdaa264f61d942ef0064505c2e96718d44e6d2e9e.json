@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "bcrypt-pbkdf",
+  "source": "https://registry.npmjs.org/bcrypt-pbkdf",
+  "fetchedAt": "2026-11-16T10:34:56.706Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 3
+  },
+  "sourceSha256": "fc4fb4f468114c8bde6dcfe5df98afff2f36637f9d9d55b58c542f0e69be9033",
+  "versions": [
+    {
+      "pkg": "bcrypt-pbkdf",
+      "semver": "1.0.2",
+      "publishedAt": "2018-06-29T00:33:59.042Z",
+      "publisher": "arekinath",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 28994,
+      "dependencies": {
+        "tweetnacl": "^0.14.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/bcrypt-pbkdf",
+          "observedAt": "2026-11-16T10:34:56.706Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/bcrypt-pbkdf",
+          "observedAt": "2026-11-16T10:34:56.706Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/bcrypt-pbkdf",
+          "observedAt": "2026-11-16T10:34:56.706Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/bcrypt-pbkdf",
+          "observedAt": "2026-11-16T10:34:56.706Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/bcrypt-pbkdf",
+          "observedAt": "2026-11-16T10:34:56.706Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/bcrypt-pbkdf",
+          "observedAt": "2026-11-16T10:34:56.706Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

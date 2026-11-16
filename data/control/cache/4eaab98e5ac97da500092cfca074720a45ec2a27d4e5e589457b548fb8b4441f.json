@@ -1,0 +1,193 @@
+{
+  "schemaVersion": 1,
+  "pkg": "parse5-htmlparser2-tree-adapter",
+  "source": "https://registry.npmjs.org/parse5-htmlparser2-tree-adapter",
+  "fetchedAt": "2026-11-16T10:35:17.195Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 10
+  },
+  "sourceSha256": "dbeff6464bd190a6468f01f59415925f007a9dccbc44155c6ee43a3ab4cc0b6e",
+  "versions": [
+    {
+      "pkg": "parse5-htmlparser2-tree-adapter",
+      "semver": "5.1.0",
+      "publishedAt": "2018-08-14T16:13:03.812Z",
+      "publisher": "rreverser",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 10064,
+      "dependencies": {
+        "parse5": "^5.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/parse5-htmlparser2-tree-adapter",
+          "observedAt": "2026-11-16T10:35:17.195Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/parse5-htmlparser2-tree-adapter",
+          "observedAt": "2026-11-16T10:35:17.195Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/parse5-htmlparser2-tree-adapter",
+          "observedAt": "2026-11-16T10:35:17.195Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/parse5-htmlparser2-tree-adapter",
+          "observedAt": "2026-11-16T10:35:17.195Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/parse5-htmlparser2-tree-adapter",
+          "observedAt": "2026-11-16T10:35:17.195Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/parse5-htmlparser2-tree-adapter",
+          "observedAt": "2026-11-16T10:35:17.195Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "parse5-htmlparser2-tree-adapter",
+      "semver": "6.0.1",
+      "publishedAt": "2020-07-24T15:17:56.065Z",
+      "publisher": "inikulin",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 11388,
+      "dependencies": {
+        "parse5": "^6.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/parse5-htmlparser2-tree-adapter",
+          "observedAt": "2026-11-16T10:35:17.195Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/parse5-htmlparser2-tree-adapter",
+          "observedAt": "2026-11-16T10:35:17.195Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/parse5-htmlparser2-tree-adapter",
+          "observedAt": "2026-11-16T10:35:17.195Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/parse5-htmlparser2-tree-adapter",
+          "observedAt": "2026-11-16T10:35:17.195Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/parse5-htmlparser2-tree-adapter",
+          "observedAt": "2026-11-16T10:35:17.195Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/parse5-htmlparser2-tree-adapter",
+          "observedAt": "2026-11-16T10:35:17.195Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "parse5-htmlparser2-tree-adapter",
+      "semver": "7.0.0",
+      "publishedAt": "2022-04-20T11:15:50.694Z",
+      "publisher": "feedic",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 19145,
+      "dependencies": {
+        "parse5": "^7.0.0",
+        "domhandler": "^5.0.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/parse5-htmlparser2-tree-adapter",
+          "observedAt": "2026-11-16T10:35:17.195Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/parse5-htmlparser2-tree-adapter",
+          "observedAt": "2026-11-16T10:35:17.195Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/parse5-htmlparser2-tree-adapter",
+          "observedAt": "2026-11-16T10:35:17.195Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/parse5-htmlparser2-tree-adapter",
+          "observedAt": "2026-11-16T10:35:17.195Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/parse5-htmlparser2-tree-adapter",
+          "observedAt": "2026-11-16T10:35:17.195Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/parse5-htmlparser2-tree-adapter",
+          "observedAt": "2026-11-16T10:35:17.195Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "parse5-htmlparser2-tree-adapter",
+      "semver": "8.0.0",
+      "publishedAt": "2025-07-09T21:03:40.215Z",
+      "publisher": "43081j",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 10646,
+      "dependencies": {
+        "parse5": "^8.0.0",
+        "domhandler": "^5.0.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/parse5-htmlparser2-tree-adapter",
+          "observedAt": "2026-11-16T10:35:17.195Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/parse5-htmlparser2-tree-adapter",
+          "observedAt": "2026-11-16T10:35:17.195Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/parse5-htmlparser2-tree-adapter",
+          "observedAt": "2026-11-16T10:35:17.195Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/parse5-htmlparser2-tree-adapter",
+          "observedAt": "2026-11-16T10:35:17.195Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/parse5-htmlparser2-tree-adapter",
+          "observedAt": "2026-11-16T10:35:17.195Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/parse5-htmlparser2-tree-adapter",
+          "observedAt": "2026-11-16T10:35:17.195Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

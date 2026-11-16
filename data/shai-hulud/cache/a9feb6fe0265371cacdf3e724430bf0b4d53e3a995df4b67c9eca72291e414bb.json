@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "pkg": "koa2-swagger-ui",
+  "source": "https://registry.npmjs.org/koa2-swagger-ui",
+  "fetchedAt": "2026-11-16T10:32:22.059Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 123
+  },
+  "sourceSha256": "aae413819b37117895abe0bcfd593382f1fc4c85539bc9370a5c7ae69998d78e",
+  "versions": [
+    {
+      "pkg": "koa2-swagger-ui",
+      "semver": "5.11.0",
+      "publishedAt": "2024-11-18T02:48:05.509Z",
+      "publisher": "scttcper",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 21460,
+      "dependencies": {
+        "lodash": "^4.17.21",
+        "handlebars": "^4.7.8",
+        "read-pkg-up": "7.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/koa2-swagger-ui",
+          "observedAt": "2026-11-16T10:32:22.059Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/koa2-swagger-ui",
+          "observedAt": "2026-11-16T10:32:22.059Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/koa2-swagger-ui",
+          "observedAt": "2026-11-16T10:32:22.059Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/koa2-swagger-ui",
+          "observedAt": "2026-11-16T10:32:22.059Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/koa2-swagger-ui",
+          "observedAt": "2026-11-16T10:32:22.059Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/koa2-swagger-ui",
+          "observedAt": "2026-11-16T10:32:22.059Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "koa2-swagger-ui",
+      "semver": "5.11.1",
+      "publishedAt": "2025-09-15T19:52:42.282Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/koa2-swagger-ui",
+          "observedAt": "2026-11-16T10:32:22.059Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "koa2-swagger-ui",
+      "semver": "5.11.2",
+      "publishedAt": "2025-09-15T20:13:42.965Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/koa2-swagger-ui",
+          "observedAt": "2026-11-16T10:32:22.059Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "koa2-swagger-ui",
+      "semver": "5.12.0",
+      "publishedAt": "2025-09-16T07:41:56.321Z",
+      "publisher": "scttcper",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 21332,
+      "dependencies": {
+        "handlebars": "^4.7.8",
+        "lodash": "^4.17.21",
+        "read-pkg-up": "7.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/koa2-swagger-ui",
+          "observedAt": "2026-11-16T10:32:22.059Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/koa2-swagger-ui",
+          "observedAt": "2026-11-16T10:32:22.059Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/koa2-swagger-ui",
+          "observedAt": "2026-11-16T10:32:22.059Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/koa2-swagger-ui",
+          "observedAt": "2026-11-16T10:32:22.059Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/koa2-swagger-ui",
+          "observedAt": "2026-11-16T10:32:22.059Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/koa2-swagger-ui",
+          "observedAt": "2026-11-16T10:32:22.059Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "html-escaper",
+  "source": "https://registry.npmjs.org/html-escaper",
+  "fetchedAt": "2026-11-16T10:35:04.063Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 9
+  },
+  "sourceSha256": "0cb4ecb583903f9c84c7a94b50c8a8b35ab4c82a976194b88154ef851658da53",
+  "versions": [
+    {
+      "pkg": "html-escaper",
+      "semver": "3.0.3",
+      "publishedAt": "2021-02-18T08:35:19.586Z",
+      "publisher": "webreflection",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 15567,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/html-escaper",
+          "observedAt": "2026-11-16T10:35:04.063Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/html-escaper",
+          "observedAt": "2026-11-16T10:35:04.063Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/html-escaper",
+          "observedAt": "2026-11-16T10:35:04.063Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/html-escaper",
+          "observedAt": "2026-11-16T10:35:04.063Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/html-escaper",
+          "observedAt": "2026-11-16T10:35:04.063Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/html-escaper",
+          "observedAt": "2026-11-16T10:35:04.063Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

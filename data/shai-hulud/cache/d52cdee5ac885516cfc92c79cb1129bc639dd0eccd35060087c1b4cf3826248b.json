@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@crowdstrike/falcon-shoelace",
+  "source": "https://registry.npmjs.org/%40crowdstrike%2Ffalcon-shoelace",
+  "fetchedAt": "2026-11-16T10:31:05.528Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 9
+  },
+  "sourceSha256": "43d8babe6a709fae7481e2c4963804c3fd7ab40fef07ae09d50ffb372a9c0061",
+  "versions": [
+    {
+      "pkg": "@crowdstrike/falcon-shoelace",
+      "semver": "0.4.0",
+      "publishedAt": "2024-06-14T15:26:09.430Z",
+      "publisher": "crowdstrike-publisher",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 63988,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40crowdstrike%2Ffalcon-shoelace",
+          "observedAt": "2026-11-16T10:31:05.528Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40crowdstrike%2Ffalcon-shoelace",
+          "observedAt": "2026-11-16T10:31:05.528Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40crowdstrike%2Ffalcon-shoelace",
+          "observedAt": "2026-11-16T10:31:05.528Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40crowdstrike%2Ffalcon-shoelace",
+          "observedAt": "2026-11-16T10:31:05.528Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40crowdstrike%2Ffalcon-shoelace",
+          "observedAt": "2026-11-16T10:31:05.528Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40crowdstrike%2Ffalcon-shoelace",
+          "observedAt": "2026-11-16T10:31:05.528Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@crowdstrike/falcon-shoelace",
+      "semver": "0.4.1",
+      "publishedAt": "2025-09-16T01:14:29.006Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40crowdstrike%2Ffalcon-shoelace",
+          "observedAt": "2026-11-16T10:31:05.528Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@crowdstrike/falcon-shoelace",
+      "semver": "0.4.2",
+      "publishedAt": "2025-09-16T01:22:10.565Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40crowdstrike%2Ffalcon-shoelace",
+          "observedAt": "2026-11-16T10:31:05.528Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "pkg": "reflect-metadata",
+  "source": "https://registry.npmjs.org/reflect-metadata",
+  "fetchedAt": "2026-11-16T10:35:23.836Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 21
+  },
+  "sourceSha256": "5fc0b0bea795f77220f8f5852e665934e827ca5d9efce159f4fac9226e916356",
+  "versions": [
+    {
+      "pkg": "reflect-metadata",
+      "semver": "0.0.1",
+      "publishedAt": "2015-04-14T02:28:42.294Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/reflect-metadata",
+          "observedAt": "2026-11-16T10:35:23.836Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "reflect-metadata",
+      "semver": "0.2.2",
+      "publishedAt": "2024-03-29T01:38:46.117Z",
+      "publisher": "rbuckton",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 241158,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/reflect-metadata",
+          "observedAt": "2026-11-16T10:35:23.836Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/reflect-metadata",
+          "observedAt": "2026-11-16T10:35:23.836Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/reflect-metadata",
+          "observedAt": "2026-11-16T10:35:23.836Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/reflect-metadata",
+          "observedAt": "2026-11-16T10:35:23.836Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/reflect-metadata",
+          "observedAt": "2026-11-16T10:35:23.836Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/reflect-metadata",
+          "observedAt": "2026-11-16T10:35:23.836Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "pkg": "dunder-proto",
+  "source": "https://registry.npmjs.org/dunder-proto",
+  "fetchedAt": "2026-11-16T10:35:00.117Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 2
+  },
+  "sourceSha256": "7919fa464f83800e3d5dae83bf587cb8d22291f5c15a79d682b931e58428589d",
+  "versions": [
+    {
+      "pkg": "dunder-proto",
+      "semver": "1.0.1",
+      "publishedAt": "2024-12-17T02:12:47.047Z",
+      "publisher": "ljharb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 13003,
+      "dependencies": {
+        "call-bind-apply-helpers": "^1.0.1",
+        "es-errors": "^1.3.0",
+        "gopd": "^1.2.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/dunder-proto",
+          "observedAt": "2026-11-16T10:35:00.117Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/dunder-proto",
+          "observedAt": "2026-11-16T10:35:00.117Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/dunder-proto",
+          "observedAt": "2026-11-16T10:35:00.117Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/dunder-proto",
+          "observedAt": "2026-11-16T10:35:00.117Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/dunder-proto",
+          "observedAt": "2026-11-16T10:35:00.117Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/dunder-proto",
+          "observedAt": "2026-11-16T10:35:00.117Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

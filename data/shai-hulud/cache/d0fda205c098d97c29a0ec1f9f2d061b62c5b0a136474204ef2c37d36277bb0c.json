@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "pkg": "capacitorandroidpermissions",
+  "source": "https://registry.npmjs.org/capacitorandroidpermissions",
+  "fetchedAt": "2026-11-16T10:32:15.700Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 5
+  },
+  "sourceSha256": "eb3fb4c4dd712d23bd94ec0351a8f04ff67be069dff0c8b4718e829b727fdc2d",
+  "versions": [
+    {
+      "pkg": "capacitorandroidpermissions",
+      "semver": "0.0.3",
+      "publishedAt": "2024-09-27T17:46:54.967Z",
+      "publisher": "vamsi3293",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 19442,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/capacitorandroidpermissions",
+          "observedAt": "2026-11-16T10:32:15.700Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/capacitorandroidpermissions",
+          "observedAt": "2026-11-16T10:32:15.700Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/capacitorandroidpermissions",
+          "observedAt": "2026-11-16T10:32:15.700Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/capacitorandroidpermissions",
+          "observedAt": "2026-11-16T10:32:15.700Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/capacitorandroidpermissions",
+          "observedAt": "2026-11-16T10:32:15.700Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/capacitorandroidpermissions",
+          "observedAt": "2026-11-16T10:32:15.700Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "capacitorandroidpermissions",
+      "semver": "0.0.4",
+      "publishedAt": "2025-09-15T04:54:48.753Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/capacitorandroidpermissions",
+          "observedAt": "2026-11-16T10:32:15.700Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "capacitorandroidpermissions",
+      "semver": "0.0.5",
+      "publishedAt": "2025-09-16T07:41:38.804Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/capacitorandroidpermissions",
+          "observedAt": "2026-11-16T10:32:15.700Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

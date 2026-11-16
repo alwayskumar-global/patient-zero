@@ -1,0 +1,195 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@babel/plugin-proposal-nullish-coalescing-operator",
+  "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-nullish-coalescing-operator",
+  "fetchedAt": "2026-11-16T10:34:31.754Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 59
+  },
+  "sourceSha256": "e60fe80f6b189a82cf1a837691432c7d64027633051522403b164cc180eb82f7",
+  "versions": [
+    {
+      "pkg": "@babel/plugin-proposal-nullish-coalescing-operator",
+      "semver": "7.0.0",
+      "publishedAt": "2018-08-27T21:43:48.430Z",
+      "publisher": "hzoo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 4023,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "^7.0.0",
+        "@babel/plugin-syntax-nullish-coalescing-operator": "^7.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-nullish-coalescing-operator",
+          "observedAt": "2026-11-16T10:34:31.754Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-nullish-coalescing-operator",
+          "observedAt": "2026-11-16T10:34:31.754Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-nullish-coalescing-operator",
+          "observedAt": "2026-11-16T10:34:31.754Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-nullish-coalescing-operator",
+          "observedAt": "2026-11-16T10:34:31.754Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-nullish-coalescing-operator",
+          "observedAt": "2026-11-16T10:34:31.754Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-nullish-coalescing-operator",
+          "observedAt": "2026-11-16T10:34:31.754Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/plugin-proposal-nullish-coalescing-operator",
+      "semver": "7.0.0-beta.49",
+      "publishedAt": "2018-05-25T16:02:59.052Z",
+      "publisher": "loganfsmyth",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 3992,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "7.0.0-beta.49",
+        "@babel/plugin-syntax-nullish-coalescing-operator": "7.0.0-beta.49"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-nullish-coalescing-operator",
+          "observedAt": "2026-11-16T10:34:31.754Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-nullish-coalescing-operator",
+          "observedAt": "2026-11-16T10:34:31.754Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-nullish-coalescing-operator",
+          "observedAt": "2026-11-16T10:34:31.754Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-nullish-coalescing-operator",
+          "observedAt": "2026-11-16T10:34:31.754Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-nullish-coalescing-operator",
+          "observedAt": "2026-11-16T10:34:31.754Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-nullish-coalescing-operator",
+          "observedAt": "2026-11-16T10:34:31.754Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/plugin-proposal-nullish-coalescing-operator",
+      "semver": "7.10.4",
+      "publishedAt": "2020-06-30T13:11:38.129Z",
+      "publisher": "jlhwung",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 3975,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "^7.10.4",
+        "@babel/plugin-syntax-nullish-coalescing-operator": "^7.8.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-nullish-coalescing-operator",
+          "observedAt": "2026-11-16T10:34:31.754Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-nullish-coalescing-operator",
+          "observedAt": "2026-11-16T10:34:31.754Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-nullish-coalescing-operator",
+          "observedAt": "2026-11-16T10:34:31.754Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-nullish-coalescing-operator",
+          "observedAt": "2026-11-16T10:34:31.754Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-nullish-coalescing-operator",
+          "observedAt": "2026-11-16T10:34:31.754Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-nullish-coalescing-operator",
+          "observedAt": "2026-11-16T10:34:31.754Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/plugin-proposal-nullish-coalescing-operator",
+      "semver": "7.21.4-esm.4",
+      "publishedAt": "2023-04-04T15:13:10.307Z",
+      "publisher": "nicolo-ribaudo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 8739,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "7.21.4-esm.4",
+        "@babel/plugin-syntax-nullish-coalescing-operator": "^7.8.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-nullish-coalescing-operator",
+          "observedAt": "2026-11-16T10:34:31.754Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-nullish-coalescing-operator",
+          "observedAt": "2026-11-16T10:34:31.754Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-nullish-coalescing-operator",
+          "observedAt": "2026-11-16T10:34:31.754Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-nullish-coalescing-operator",
+          "observedAt": "2026-11-16T10:34:31.754Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-nullish-coalescing-operator",
+          "observedAt": "2026-11-16T10:34:31.754Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-nullish-coalescing-operator",
+          "observedAt": "2026-11-16T10:34:31.754Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

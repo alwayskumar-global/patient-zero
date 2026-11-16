@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "safe-buffer",
+  "source": "https://registry.npmjs.org/safe-buffer",
+  "fetchedAt": "2026-11-16T10:35:25.364Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 11
+  },
+  "sourceSha256": "d4acc6bafe42add5a4db90f08a00a2598ede042a15e0bea9844aff46debb6f94",
+  "versions": [
+    {
+      "pkg": "safe-buffer",
+      "semver": "5.2.1",
+      "publishedAt": "2020-05-10T16:37:30.776Z",
+      "publisher": "feross",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 32101,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/safe-buffer",
+          "observedAt": "2026-11-16T10:35:25.364Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/safe-buffer",
+          "observedAt": "2026-11-16T10:35:25.364Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/safe-buffer",
+          "observedAt": "2026-11-16T10:35:25.364Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/safe-buffer",
+          "observedAt": "2026-11-16T10:35:25.364Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/safe-buffer",
+          "observedAt": "2026-11-16T10:35:25.364Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/safe-buffer",
+          "observedAt": "2026-11-16T10:35:25.364Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

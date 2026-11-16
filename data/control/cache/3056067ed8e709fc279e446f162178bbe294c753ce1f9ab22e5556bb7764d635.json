@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "unist-util-position",
+  "source": "https://registry.npmjs.org/unist-util-position",
+  "fetchedAt": "2026-11-16T10:35:31.415Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 13
+  },
+  "sourceSha256": "18e4126873efc9d9ca7c840fbb04763ba64c7a46cbe13ca0d2af4b13c210edd2",
+  "versions": [
+    {
+      "pkg": "unist-util-position",
+      "semver": "5.0.0",
+      "publishedAt": "2023-07-07T09:59:34.316Z",
+      "publisher": "wooorm",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 12779,
+      "dependencies": {
+        "@types/unist": "^3.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/unist-util-position",
+          "observedAt": "2026-11-16T10:35:31.415Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/unist-util-position",
+          "observedAt": "2026-11-16T10:35:31.415Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/unist-util-position",
+          "observedAt": "2026-11-16T10:35:31.415Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/unist-util-position",
+          "observedAt": "2026-11-16T10:35:31.415Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/unist-util-position",
+          "observedAt": "2026-11-16T10:35:31.415Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/unist-util-position",
+          "observedAt": "2026-11-16T10:35:31.415Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

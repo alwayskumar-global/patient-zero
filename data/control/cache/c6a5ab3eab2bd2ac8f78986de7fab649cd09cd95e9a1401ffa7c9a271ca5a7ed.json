@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "fast-levenshtein",
+  "source": "https://registry.npmjs.org/fast-levenshtein",
+  "fetchedAt": "2026-11-16T10:35:02.094Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 20
+  },
+  "sourceSha256": "e4eaef2a3db91ddd8921313327774adc62f29d84a0a436871d39be078e0f2771",
+  "versions": [
+    {
+      "pkg": "fast-levenshtein",
+      "semver": "3.0.0",
+      "publishedAt": "2020-07-22T14:26:22.114Z",
+      "publisher": "hiddentao",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7625,
+      "dependencies": {
+        "fastest-levenshtein": "^1.0.7"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/fast-levenshtein",
+          "observedAt": "2026-11-16T10:35:02.094Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/fast-levenshtein",
+          "observedAt": "2026-11-16T10:35:02.094Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/fast-levenshtein",
+          "observedAt": "2026-11-16T10:35:02.094Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/fast-levenshtein",
+          "observedAt": "2026-11-16T10:35:02.094Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/fast-levenshtein",
+          "observedAt": "2026-11-16T10:35:02.094Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/fast-levenshtein",
+          "observedAt": "2026-11-16T10:35:02.094Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

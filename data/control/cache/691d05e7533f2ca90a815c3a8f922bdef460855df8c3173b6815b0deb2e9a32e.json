@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@smithy/middleware-stack",
+  "source": "https://registry.npmjs.org/%40smithy%2Fmiddleware-stack",
+  "fetchedAt": "2026-11-16T10:34:39.905Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 84
+  },
+  "sourceSha256": "0e89c5222422d02dae78967821474e8da8d95fe576ef0862e8341d828783a7f2",
+  "versions": [
+    {
+      "pkg": "@smithy/middleware-stack",
+      "semver": "4.0.4",
+      "publishedAt": "2025-05-29T20:38:52.792Z",
+      "publisher": "smithy-team",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 42827,
+      "dependencies": {
+        "tslib": "^2.6.2",
+        "@smithy/types": "^4.3.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40smithy%2Fmiddleware-stack",
+          "observedAt": "2026-11-16T10:34:39.905Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40smithy%2Fmiddleware-stack",
+          "observedAt": "2026-11-16T10:34:39.905Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40smithy%2Fmiddleware-stack",
+          "observedAt": "2026-11-16T10:34:39.905Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40smithy%2Fmiddleware-stack",
+          "observedAt": "2026-11-16T10:34:39.905Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40smithy%2Fmiddleware-stack",
+          "observedAt": "2026-11-16T10:34:39.905Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40smithy%2Fmiddleware-stack",
+          "observedAt": "2026-11-16T10:34:39.905Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@smithy/middleware-stack",
+      "semver": "4.0.5",
+      "publishedAt": "2025-08-06T16:59:33.770Z",
+      "publisher": "smithy-team",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 42827,
+      "dependencies": {
+        "tslib": "^2.6.2",
+        "@smithy/types": "^4.3.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40smithy%2Fmiddleware-stack",
+          "observedAt": "2026-11-16T10:34:39.905Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40smithy%2Fmiddleware-stack",
+          "observedAt": "2026-11-16T10:34:39.905Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40smithy%2Fmiddleware-stack",
+          "observedAt": "2026-11-16T10:34:39.905Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40smithy%2Fmiddleware-stack",
+          "observedAt": "2026-11-16T10:34:39.905Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40smithy%2Fmiddleware-stack",
+          "observedAt": "2026-11-16T10:34:39.905Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40smithy%2Fmiddleware-stack",
+          "observedAt": "2026-11-16T10:34:39.905Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

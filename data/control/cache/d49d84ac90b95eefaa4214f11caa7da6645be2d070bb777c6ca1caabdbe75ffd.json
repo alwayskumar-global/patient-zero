@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@aws-sdk/middleware-ssec",
+  "source": "https://registry.npmjs.org/%40aws-sdk%2Fmiddleware-ssec",
+  "fetchedAt": "2026-11-16T10:34:29.846Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 242
+  },
+  "sourceSha256": "01d3ce79f8878175b3a6963ddb456f2cc840d0185ccb0494dffc1f15a6b7fe90",
+  "versions": [
+    {
+      "pkg": "@aws-sdk/middleware-ssec",
+      "semver": "3.840.0",
+      "publishedAt": "2025-06-30T19:22:11.727Z",
+      "publisher": "aws-sdk-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 20505,
+      "dependencies": {
+        "tslib": "^2.6.2",
+        "@smithy/types": "^4.3.1",
+        "@aws-sdk/types": "3.840.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fmiddleware-ssec",
+          "observedAt": "2026-11-16T10:34:29.846Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fmiddleware-ssec",
+          "observedAt": "2026-11-16T10:34:29.846Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fmiddleware-ssec",
+          "observedAt": "2026-11-16T10:34:29.846Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fmiddleware-ssec",
+          "observedAt": "2026-11-16T10:34:29.846Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fmiddleware-ssec",
+          "observedAt": "2026-11-16T10:34:29.846Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fmiddleware-ssec",
+          "observedAt": "2026-11-16T10:34:29.846Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@aws-sdk/middleware-ssec",
+      "semver": "3.862.0",
+      "publishedAt": "2025-08-06T19:09:21.817Z",
+      "publisher": "aws-sdk-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 20505,
+      "dependencies": {
+        "tslib": "^2.6.2",
+        "@smithy/types": "^4.3.2",
+        "@aws-sdk/types": "3.862.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fmiddleware-ssec",
+          "observedAt": "2026-11-16T10:34:29.846Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fmiddleware-ssec",
+          "observedAt": "2026-11-16T10:34:29.846Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fmiddleware-ssec",
+          "observedAt": "2026-11-16T10:34:29.846Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fmiddleware-ssec",
+          "observedAt": "2026-11-16T10:34:29.846Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fmiddleware-ssec",
+          "observedAt": "2026-11-16T10:34:29.846Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fmiddleware-ssec",
+          "observedAt": "2026-11-16T10:34:29.846Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

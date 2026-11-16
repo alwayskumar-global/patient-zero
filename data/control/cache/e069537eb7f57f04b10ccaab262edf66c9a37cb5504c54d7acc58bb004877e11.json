@@ -1,0 +1,361 @@
+{
+  "schemaVersion": 1,
+  "pkg": "jest-message-util",
+  "source": "https://registry.npmjs.org/jest-message-util",
+  "fetchedAt": "2026-11-16T10:35:08.038Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 221
+  },
+  "sourceSha256": "ea8326d9fa7f0fb3d6c4e6d5a0e4aedbe41796cbbae343598b06fff5a8c331e0",
+  "versions": [
+    {
+      "pkg": "jest-message-util",
+      "semver": "21.0.0-alpha.2",
+      "publishedAt": "2017-08-21T22:06:47.378Z",
+      "publisher": "aaronabramov",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "chalk": "^2.0.1",
+        "slash": "^1.0.0",
+        "micromatch": "^2.3.11"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-message-util",
+          "observedAt": "2026-11-16T10:35:08.038Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-message-util",
+          "observedAt": "2026-11-16T10:35:08.038Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-message-util",
+          "observedAt": "2026-11-16T10:35:08.038Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-message-util",
+          "observedAt": "2026-11-16T10:35:08.038Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-message-util",
+          "observedAt": "2026-11-16T10:35:08.038Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jest-message-util",
+      "semver": "24.0.0-alpha.7",
+      "publishedAt": "2018-12-11T16:18:42.814Z",
+      "publisher": "mjesun",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 1524,
+      "dependencies": {
+        "chalk": "^2.0.1",
+        "slash": "^2.0.0",
+        "micromatch": "^2.3.11",
+        "stack-utils": "^1.0.1",
+        "@babel/code-frame": "^7.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-message-util",
+          "observedAt": "2026-11-16T10:35:08.038Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-message-util",
+          "observedAt": "2026-11-16T10:35:08.038Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-message-util",
+          "observedAt": "2026-11-16T10:35:08.038Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-message-util",
+          "observedAt": "2026-11-16T10:35:08.038Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jest-message-util",
+          "observedAt": "2026-11-16T10:35:08.038Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-message-util",
+          "observedAt": "2026-11-16T10:35:08.038Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jest-message-util",
+      "semver": "24.6.0",
+      "publishedAt": "2019-04-01T22:26:32.308Z",
+      "publisher": "rubennorte",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 196085,
+      "dependencies": {
+        "chalk": "^2.0.1",
+        "slash": "^2.0.0",
+        "micromatch": "^3.1.10",
+        "@jest/types": "^24.6.0",
+        "stack-utils": "^1.0.1",
+        "@babel/code-frame": "^7.0.0",
+        "@jest/test-result": "^24.6.0",
+        "@types/stack-utils": "^1.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-message-util",
+          "observedAt": "2026-11-16T10:35:08.038Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-message-util",
+          "observedAt": "2026-11-16T10:35:08.038Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-message-util",
+          "observedAt": "2026-11-16T10:35:08.038Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-message-util",
+          "observedAt": "2026-11-16T10:35:08.038Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jest-message-util",
+          "observedAt": "2026-11-16T10:35:08.038Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-message-util",
+          "observedAt": "2026-11-16T10:35:08.038Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jest-message-util",
+      "semver": "25.0.0",
+      "publishedAt": "2019-08-22T03:24:06.112Z",
+      "publisher": "scotthovestadt",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 15774,
+      "dependencies": {
+        "chalk": "^2.0.1",
+        "slash": "^3.0.0",
+        "micromatch": "^4.0.2",
+        "@jest/types": "^25.0.0",
+        "stack-utils": "^1.0.1",
+        "@babel/code-frame": "^7.0.0",
+        "@jest/test-result": "^25.0.0",
+        "@types/stack-utils": "^1.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-message-util",
+          "observedAt": "2026-11-16T10:35:08.038Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-message-util",
+          "observedAt": "2026-11-16T10:35:08.038Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-message-util",
+          "observedAt": "2026-11-16T10:35:08.038Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-message-util",
+          "observedAt": "2026-11-16T10:35:08.038Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jest-message-util",
+          "observedAt": "2026-11-16T10:35:08.038Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-message-util",
+          "observedAt": "2026-11-16T10:35:08.038Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jest-message-util",
+      "semver": "25.1.0",
+      "publishedAt": "2020-01-22T01:00:12.252Z",
+      "publisher": "davidzilburg",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 16200,
+      "dependencies": {
+        "chalk": "^3.0.0",
+        "slash": "^3.0.0",
+        "micromatch": "^4.0.2",
+        "@jest/types": "^25.1.0",
+        "stack-utils": "^1.0.1",
+        "@babel/code-frame": "^7.0.0",
+        "@jest/test-result": "^25.1.0",
+        "@types/stack-utils": "^1.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-message-util",
+          "observedAt": "2026-11-16T10:35:08.038Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-message-util",
+          "observedAt": "2026-11-16T10:35:08.038Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-message-util",
+          "observedAt": "2026-11-16T10:35:08.038Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-message-util",
+          "observedAt": "2026-11-16T10:35:08.038Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jest-message-util",
+          "observedAt": "2026-11-16T10:35:08.038Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-message-util",
+          "observedAt": "2026-11-16T10:35:08.038Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jest-message-util",
+      "semver": "30.0.0-alpha.7",
+      "publishedAt": "2025-01-30T08:28:32.739Z",
+      "publisher": "simenb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 20425,
+      "dependencies": {
+        "chalk": "^4.0.0",
+        "slash": "^3.0.0",
+        "micromatch": "^4.0.8",
+        "@jest/types": "30.0.0-alpha.7",
+        "graceful-fs": "^4.2.9",
+        "stack-utils": "^2.0.3",
+        "pretty-format": "30.0.0-alpha.7",
+        "@babel/code-frame": "^7.12.13",
+        "@types/stack-utils": "^2.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-message-util",
+          "observedAt": "2026-11-16T10:35:08.038Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-message-util",
+          "observedAt": "2026-11-16T10:35:08.038Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-message-util",
+          "observedAt": "2026-11-16T10:35:08.038Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-message-util",
+          "observedAt": "2026-11-16T10:35:08.038Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jest-message-util",
+          "observedAt": "2026-11-16T10:35:08.038Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-message-util",
+          "observedAt": "2026-11-16T10:35:08.038Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jest-message-util",
+      "semver": "30.0.5",
+      "publishedAt": "2025-07-22T02:28:33.390Z",
+      "publisher": "cpojer",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 21783,
+      "dependencies": {
+        "chalk": "^4.1.2",
+        "slash": "^3.0.0",
+        "micromatch": "^4.0.8",
+        "@jest/types": "30.0.5",
+        "graceful-fs": "^4.2.11",
+        "stack-utils": "^2.0.6",
+        "pretty-format": "30.0.5",
+        "@babel/code-frame": "^7.27.1",
+        "@types/stack-utils": "^2.0.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-message-util",
+          "observedAt": "2026-11-16T10:35:08.038Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-message-util",
+          "observedAt": "2026-11-16T10:35:08.038Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-message-util",
+          "observedAt": "2026-11-16T10:35:08.038Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-message-util",
+          "observedAt": "2026-11-16T10:35:08.038Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jest-message-util",
+          "observedAt": "2026-11-16T10:35:08.038Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-message-util",
+          "observedAt": "2026-11-16T10:35:08.038Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

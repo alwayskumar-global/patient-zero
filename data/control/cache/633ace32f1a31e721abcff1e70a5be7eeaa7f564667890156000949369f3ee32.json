@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "pkg": "yauzl",
+  "source": "https://registry.npmjs.org/yauzl",
+  "fetchedAt": "2026-11-16T10:35:35.371Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 36
+  },
+  "sourceSha256": "0237ede90b0a9d2b0fb38f451321555e72071fd921ddb2e3a4a88be76e39f535",
+  "versions": [
+    {
+      "pkg": "yauzl",
+      "semver": "2.2.1",
+      "publishedAt": "2015-01-12T16:35:37.427Z",
+      "publisher": "superjoe",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "pend": "~1.2.0",
+        "fd-slicer": "~1.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/yauzl",
+          "observedAt": "2026-11-16T10:35:35.371Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/yauzl",
+          "observedAt": "2026-11-16T10:35:35.371Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/yauzl",
+          "observedAt": "2026-11-16T10:35:35.371Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/yauzl",
+          "observedAt": "2026-11-16T10:35:35.371Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/yauzl",
+          "observedAt": "2026-11-16T10:35:35.371Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "yauzl",
+      "semver": "3.2.0",
+      "publishedAt": "2024-11-03T01:47:53.478Z",
+      "publisher": "thejoshwolfe",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 96267,
+      "dependencies": {
+        "pend": "~1.2.0",
+        "buffer-crc32": "~0.2.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/yauzl",
+          "observedAt": "2026-11-16T10:35:35.371Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/yauzl",
+          "observedAt": "2026-11-16T10:35:35.371Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/yauzl",
+          "observedAt": "2026-11-16T10:35:35.371Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/yauzl",
+          "observedAt": "2026-11-16T10:35:35.371Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/yauzl",
+          "observedAt": "2026-11-16T10:35:35.371Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/yauzl",
+          "observedAt": "2026-11-16T10:35:35.371Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

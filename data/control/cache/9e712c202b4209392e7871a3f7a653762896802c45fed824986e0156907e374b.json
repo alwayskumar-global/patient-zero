@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "pkg": "lodash.clonedeep",
+  "source": "https://registry.npmjs.org/lodash.clonedeep",
+  "fetchedAt": "2026-11-16T10:35:10.279Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 24
+  },
+  "sourceSha256": "cad5ef65e1bff484caa4c6cbe29eee87541936f32f596d2cfc04a1f6d32bd8bc",
+  "versions": [
+    {
+      "pkg": "lodash.clonedeep",
+      "semver": "4.5.0",
+      "publishedAt": "2016-08-13T17:37:19.945Z",
+      "publisher": "jdalton",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/lodash.clonedeep",
+          "observedAt": "2026-11-16T10:35:10.279Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/lodash.clonedeep",
+          "observedAt": "2026-11-16T10:35:10.279Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/lodash.clonedeep",
+          "observedAt": "2026-11-16T10:35:10.279Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/lodash.clonedeep",
+          "observedAt": "2026-11-16T10:35:10.279Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/lodash.clonedeep",
+          "observedAt": "2026-11-16T10:35:10.279Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

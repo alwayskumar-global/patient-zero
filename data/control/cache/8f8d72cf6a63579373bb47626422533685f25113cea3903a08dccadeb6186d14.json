@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "pkg": "strtok3",
+  "source": "https://registry.npmjs.org/strtok3",
+  "fetchedAt": "2026-11-16T10:35:27.749Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 131
+  },
+  "sourceSha256": "cc29767168f5f06725283eb3a21f1b765b88c350f52d4383a47cb0a2b2b9b80a",
+  "versions": [
+    {
+      "pkg": "strtok3",
+      "semver": "10.3.4",
+      "publishedAt": "2025-07-25T22:51:37.104Z",
+      "publisher": "borewit",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 72681,
+      "dependencies": {
+        "@tokenizer/token": "^0.3.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/strtok3",
+          "observedAt": "2026-11-16T10:35:27.749Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/strtok3",
+          "observedAt": "2026-11-16T10:35:27.749Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/strtok3",
+          "observedAt": "2026-11-16T10:35:27.749Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/strtok3",
+          "observedAt": "2026-11-16T10:35:27.749Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/strtok3",
+          "observedAt": "2026-11-16T10:35:27.749Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/strtok3",
+          "observedAt": "2026-11-16T10:35:27.749Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "strtok3",
+      "semver": "3.0.2",
+      "publishedAt": "2019-10-16T18:51:08.195Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/strtok3",
+          "observedAt": "2026-11-16T10:35:27.749Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

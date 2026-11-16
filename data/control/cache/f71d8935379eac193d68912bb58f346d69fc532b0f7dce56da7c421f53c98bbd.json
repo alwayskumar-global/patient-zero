@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "pkg": "shallow-clone",
+  "source": "https://registry.npmjs.org/shallow-clone",
+  "fetchedAt": "2026-11-16T10:35:26.183Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 9
+  },
+  "sourceSha256": "25a5bebd7f492b60868ab435e08db20710f4a57425a3646945842aeb52a39423",
+  "versions": [
+    {
+      "pkg": "shallow-clone",
+      "semver": "0.1.2",
+      "publishedAt": "2015-10-17T18:04:20.761Z",
+      "publisher": "doowb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "is-extendable": "^0.1.1",
+        "kind-of": "^2.0.1",
+        "lazy-cache": "^0.2.3",
+        "mixin-object": "^2.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/shallow-clone",
+          "observedAt": "2026-11-16T10:35:26.183Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/shallow-clone",
+          "observedAt": "2026-11-16T10:35:26.183Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/shallow-clone",
+          "observedAt": "2026-11-16T10:35:26.183Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/shallow-clone",
+          "observedAt": "2026-11-16T10:35:26.183Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/shallow-clone",
+          "observedAt": "2026-11-16T10:35:26.183Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "shallow-clone",
+      "semver": "3.0.1",
+      "publishedAt": "2019-04-16T00:06:42.461Z",
+      "publisher": "jonschlinkert",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 9446,
+      "dependencies": {
+        "kind-of": "^6.0.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/shallow-clone",
+          "observedAt": "2026-11-16T10:35:26.183Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/shallow-clone",
+          "observedAt": "2026-11-16T10:35:26.183Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/shallow-clone",
+          "observedAt": "2026-11-16T10:35:26.183Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/shallow-clone",
+          "observedAt": "2026-11-16T10:35:26.183Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/shallow-clone",
+          "observedAt": "2026-11-16T10:35:26.183Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/shallow-clone",
+          "observedAt": "2026-11-16T10:35:26.183Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

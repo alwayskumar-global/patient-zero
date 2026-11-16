@@ -1,0 +1,20 @@
+{
+  "files": [],
+  "references": [
+    {
+      "path": "packages/core"
+    },
+    {
+      "path": "packages/ingest"
+    },
+    {
+      "path": "packages/bench"
+    },
+    {
+      "path": "packages/mcp"
+    },
+    {
+      "path": "packages/cli"
+    }
+  ]
+}

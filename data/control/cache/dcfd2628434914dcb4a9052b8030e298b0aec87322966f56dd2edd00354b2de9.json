@@ -1,0 +1,175 @@
+{
+  "schemaVersion": 1,
+  "pkg": "shelljs",
+  "source": "https://registry.npmjs.org/shelljs",
+  "fetchedAt": "2026-11-16T10:35:26.336Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 57
+  },
+  "sourceSha256": "dfd429fcbe141694d9b4aa92c363a52678c4238764f417dd4136d4ab11a55e01",
+  "versions": [
+    {
+      "pkg": "shelljs",
+      "semver": "0.10.0",
+      "publishedAt": "2025-05-09T19:16:39.087Z",
+      "publisher": "nfischer",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 152059,
+      "dependencies": {
+        "execa": "^5.1.1",
+        "fast-glob": "^3.3.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/shelljs",
+          "observedAt": "2026-11-16T10:35:26.336Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/shelljs",
+          "observedAt": "2026-11-16T10:35:26.336Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/shelljs",
+          "observedAt": "2026-11-16T10:35:26.336Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/shelljs",
+          "observedAt": "2026-11-16T10:35:26.336Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/shelljs",
+          "observedAt": "2026-11-16T10:35:26.336Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/shelljs",
+          "observedAt": "2026-11-16T10:35:26.336Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "shelljs",
+      "semver": "0.5.3",
+      "publishedAt": "2015-08-11T18:47:48.887Z",
+      "publisher": "artur",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/shelljs",
+          "observedAt": "2026-11-16T10:35:26.336Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/shelljs",
+          "observedAt": "2026-11-16T10:35:26.336Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/shelljs",
+          "observedAt": "2026-11-16T10:35:26.336Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/shelljs",
+          "observedAt": "2026-11-16T10:35:26.336Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/shelljs",
+          "observedAt": "2026-11-16T10:35:26.336Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "shelljs",
+      "semver": "0.6.0",
+      "publishedAt": "2016-02-05T00:40:11.639Z",
+      "publisher": "ariporad",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/shelljs",
+          "observedAt": "2026-11-16T10:35:26.336Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/shelljs",
+          "observedAt": "2026-11-16T10:35:26.336Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/shelljs",
+          "observedAt": "2026-11-16T10:35:26.336Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/shelljs",
+          "observedAt": "2026-11-16T10:35:26.336Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/shelljs",
+          "observedAt": "2026-11-16T10:35:26.336Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "shelljs",
+      "semver": "0.7.6",
+      "publishedAt": "2017-01-08T22:28:36.106Z",
+      "publisher": "freitagbr",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "glob": "^7.0.0",
+        "rechoir": "^0.6.2",
+        "interpret": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/shelljs",
+          "observedAt": "2026-11-16T10:35:26.336Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/shelljs",
+          "observedAt": "2026-11-16T10:35:26.336Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/shelljs",
+          "observedAt": "2026-11-16T10:35:26.336Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/shelljs",
+          "observedAt": "2026-11-16T10:35:26.336Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/shelljs",
+          "observedAt": "2026-11-16T10:35:26.336Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@babel/plugin-bugfix-v8-static-class-fields-redefine-readonly",
+  "source": "https://registry.npmjs.org/%40babel%2Fplugin-bugfix-v8-static-class-fields-redefine-readonly",
+  "fetchedAt": "2026-11-16T10:34:31.723Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 38
+  },
+  "sourceSha256": "377cbf58a3dca9e5b25105d9495c969a74fb1a9be40f9d949193e4bd2e0d7883",
+  "versions": [
+    {
+      "pkg": "@babel/plugin-bugfix-v8-static-class-fields-redefine-readonly",
+      "semver": "8.0.0-beta.1",
+      "publishedAt": "2025-07-02T09:04:37.892Z",
+      "publisher": "nicolo-ribaudo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 25321,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "^8.0.0-beta.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-bugfix-v8-static-class-fields-redefine-readonly",
+          "observedAt": "2026-11-16T10:34:31.723Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-bugfix-v8-static-class-fields-redefine-readonly",
+          "observedAt": "2026-11-16T10:34:31.723Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-bugfix-v8-static-class-fields-redefine-readonly",
+          "observedAt": "2026-11-16T10:34:31.723Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-bugfix-v8-static-class-fields-redefine-readonly",
+          "observedAt": "2026-11-16T10:34:31.723Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-bugfix-v8-static-class-fields-redefine-readonly",
+          "observedAt": "2026-11-16T10:34:31.723Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-bugfix-v8-static-class-fields-redefine-readonly",
+          "observedAt": "2026-11-16T10:34:31.723Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

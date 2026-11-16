@@ -1,0 +1,142 @@
+{
+  "schemaVersion": 1,
+  "pkg": "tr46",
+  "source": "https://registry.npmjs.org/tr46",
+  "fetchedAt": "2026-11-16T10:35:29.817Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 18
+  },
+  "sourceSha256": "15689347fec93cb6695f1b28e8ee59d0c4de5522efdd6a5e8875ee19518f987a",
+  "versions": [
+    {
+      "pkg": "tr46",
+      "semver": "1.0.1",
+      "publishedAt": "2017-09-03T02:08:56.379Z",
+      "publisher": "sebmaster",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "punycode": "^2.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/tr46",
+          "observedAt": "2026-11-16T10:35:29.817Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/tr46",
+          "observedAt": "2026-11-16T10:35:29.817Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/tr46",
+          "observedAt": "2026-11-16T10:35:29.817Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/tr46",
+          "observedAt": "2026-11-16T10:35:29.817Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/tr46",
+          "observedAt": "2026-11-16T10:35:29.817Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "tr46",
+      "semver": "2.1.0",
+      "publishedAt": "2021-05-22T10:07:08.518Z",
+      "publisher": "timothygu",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 210389,
+      "dependencies": {
+        "punycode": "^2.1.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/tr46",
+          "observedAt": "2026-11-16T10:35:29.817Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/tr46",
+          "observedAt": "2026-11-16T10:35:29.817Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/tr46",
+          "observedAt": "2026-11-16T10:35:29.817Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/tr46",
+          "observedAt": "2026-11-16T10:35:29.817Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/tr46",
+          "observedAt": "2026-11-16T10:35:29.817Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/tr46",
+          "observedAt": "2026-11-16T10:35:29.817Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "tr46",
+      "semver": "5.1.1",
+      "publishedAt": "2025-04-17T00:47:38.158Z",
+      "publisher": "domenic",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 225902,
+      "dependencies": {
+        "punycode": "^2.3.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/tr46",
+          "observedAt": "2026-11-16T10:35:29.817Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/tr46",
+          "observedAt": "2026-11-16T10:35:29.817Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/tr46",
+          "observedAt": "2026-11-16T10:35:29.817Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/tr46",
+          "observedAt": "2026-11-16T10:35:29.817Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/tr46",
+          "observedAt": "2026-11-16T10:35:29.817Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/tr46",
+          "observedAt": "2026-11-16T10:35:29.817Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

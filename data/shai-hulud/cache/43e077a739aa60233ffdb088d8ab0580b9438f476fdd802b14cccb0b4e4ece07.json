@@ -1,0 +1,322 @@
+{
+  "schemaVersion": 1,
+  "pkg": "react-jsonschema-rxnt-extras",
+  "source": "https://registry.npmjs.org/react-jsonschema-rxnt-extras",
+  "fetchedAt": "2026-11-16T10:32:27.826Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 181
+  },
+  "sourceSha256": "84cf3ef9b2bfd25fe8a93344d5d302bfb6d209e24027e82beef072191aa9b498",
+  "versions": [
+    {
+      "pkg": "react-jsonschema-rxnt-extras",
+      "semver": "0.2.13",
+      "publishedAt": "2018-07-06T12:41:03.774Z",
+      "publisher": "chatwithrajaram",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 17095012,
+      "dependencies": {
+        "moment": "^2.20.1",
+        "selectn": "^1.1.2",
+        "react-modal": "^3.0.0",
+        "react-bootstrap": "^0.32.1",
+        "react-complaint-image": "^0.0.10"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/react-jsonschema-rxnt-extras",
+          "observedAt": "2026-11-16T10:32:27.826Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/react-jsonschema-rxnt-extras",
+          "observedAt": "2026-11-16T10:32:27.826Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/react-jsonschema-rxnt-extras",
+          "observedAt": "2026-11-16T10:32:27.826Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/react-jsonschema-rxnt-extras",
+          "observedAt": "2026-11-16T10:32:27.826Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/react-jsonschema-rxnt-extras",
+          "observedAt": "2026-11-16T10:32:27.826Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/react-jsonschema-rxnt-extras",
+          "observedAt": "2026-11-16T10:32:27.826Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "react-jsonschema-rxnt-extras",
+      "semver": "0.2.2",
+      "publishedAt": "2018-01-19T21:26:30.167Z",
+      "publisher": "mavarazy",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "moment": "^2.20.1",
+        "selectn": "^1.1.2",
+        "react-modal": "^3.0.0",
+        "react-complaint-image": "^0.0.7"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/react-jsonschema-rxnt-extras",
+          "observedAt": "2026-11-16T10:32:27.826Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/react-jsonschema-rxnt-extras",
+          "observedAt": "2026-11-16T10:32:27.826Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/react-jsonschema-rxnt-extras",
+          "observedAt": "2026-11-16T10:32:27.826Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/react-jsonschema-rxnt-extras",
+          "observedAt": "2026-11-16T10:32:27.826Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/react-jsonschema-rxnt-extras",
+          "observedAt": "2026-11-16T10:32:27.826Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "react-jsonschema-rxnt-extras",
+      "semver": "0.3.55",
+      "publishedAt": "2021-06-30T16:34:31.095Z",
+      "publisher": "devopsrxnt",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 20464845,
+      "dependencies": {
+        "moment": "^2.20.1",
+        "selectn": "^1.1.2",
+        "react-modal": "^3.0.0",
+        "react-bootstrap": "^0.32.1",
+        "react-complaint-image": "^0.0.29",
+        "react-bootstrap-typeahead": "^3.2.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/react-jsonschema-rxnt-extras",
+          "observedAt": "2026-11-16T10:32:27.826Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/react-jsonschema-rxnt-extras",
+          "observedAt": "2026-11-16T10:32:27.826Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/react-jsonschema-rxnt-extras",
+          "observedAt": "2026-11-16T10:32:27.826Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/react-jsonschema-rxnt-extras",
+          "observedAt": "2026-11-16T10:32:27.826Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/react-jsonschema-rxnt-extras",
+          "observedAt": "2026-11-16T10:32:27.826Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/react-jsonschema-rxnt-extras",
+          "observedAt": "2026-11-16T10:32:27.826Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "react-jsonschema-rxnt-extras",
+      "semver": "0.3.66",
+      "publishedAt": "2022-12-19T15:56:47.329Z",
+      "publisher": "sneu012",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 20515944,
+      "dependencies": {
+        "moment": "^2.20.1",
+        "selectn": "^1.1.2",
+        "classnames": "^2.3.1",
+        "react-modal": "^3.0.0",
+        "react-bootstrap": "^0.32.1",
+        "react-complaint-image": "^0.0.30",
+        "react-bootstrap-typeahead": "^3.2.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/react-jsonschema-rxnt-extras",
+          "observedAt": "2026-11-16T10:32:27.826Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/react-jsonschema-rxnt-extras",
+          "observedAt": "2026-11-16T10:32:27.826Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/react-jsonschema-rxnt-extras",
+          "observedAt": "2026-11-16T10:32:27.826Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/react-jsonschema-rxnt-extras",
+          "observedAt": "2026-11-16T10:32:27.826Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/react-jsonschema-rxnt-extras",
+          "observedAt": "2026-11-16T10:32:27.826Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/react-jsonschema-rxnt-extras",
+          "observedAt": "2026-11-16T10:32:27.826Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "react-jsonschema-rxnt-extras",
+      "semver": "0.4.5",
+      "publishedAt": "2025-09-12T16:56:00.380Z",
+      "publisher": "techsupportrxnt",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 17406503,
+      "dependencies": {
+        "moment": "^2.20.1",
+        "selectn": "^1.1.2",
+        "classnames": "^2.3.1",
+        "react-modal": "^3.0.0",
+        "react-bootstrap": "^0.32.1",
+        "react-complaint-image": "^0.0.31",
+        "react-bootstrap-typeahead": "^3.2.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/react-jsonschema-rxnt-extras",
+          "observedAt": "2026-11-16T10:32:27.826Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/react-jsonschema-rxnt-extras",
+          "observedAt": "2026-11-16T10:32:27.826Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/react-jsonschema-rxnt-extras",
+          "observedAt": "2026-11-16T10:32:27.826Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/react-jsonschema-rxnt-extras",
+          "observedAt": "2026-11-16T10:32:27.826Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/react-jsonschema-rxnt-extras",
+          "observedAt": "2026-11-16T10:32:27.826Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/react-jsonschema-rxnt-extras",
+          "observedAt": "2026-11-16T10:32:27.826Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "react-jsonschema-rxnt-extras",
+      "semver": "0.4.6",
+      "publishedAt": "2025-09-14T17:58:56.000Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/react-jsonschema-rxnt-extras",
+          "observedAt": "2026-11-16T10:32:27.826Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "react-jsonschema-rxnt-extras",
+      "semver": "0.4.7",
+      "publishedAt": "2025-09-14T20:43:58.511Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/react-jsonschema-rxnt-extras",
+          "observedAt": "2026-11-16T10:32:27.826Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "react-jsonschema-rxnt-extras",
+      "semver": "0.4.8",
+      "publishedAt": "2025-09-14T21:03:33.743Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/react-jsonschema-rxnt-extras",
+          "observedAt": "2026-11-16T10:32:27.826Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "react-jsonschema-rxnt-extras",
+      "semver": "0.4.9",
+      "publishedAt": "2025-09-15T15:45:48.799Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/react-jsonschema-rxnt-extras",
+          "observedAt": "2026-11-16T10:32:27.826Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

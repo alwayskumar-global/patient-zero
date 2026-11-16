@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@types/babel__core",
+  "source": "https://registry.npmjs.org/%40types%2Fbabel__core",
+  "fetchedAt": "2026-11-16T10:34:43.665Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 33
+  },
+  "sourceSha256": "4a2de659e675338d54e63bae1669360b97030ed68dc14cd5297e485d1bbdc19c",
+  "versions": [
+    {
+      "pkg": "@types/babel__core",
+      "semver": "7.20.5",
+      "publishedAt": "2023-11-20T23:44:10.721Z",
+      "publisher": "types",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 33020,
+      "dependencies": {
+        "@babel/types": "^7.20.7",
+        "@babel/parser": "^7.20.7",
+        "@types/babel__template": "*",
+        "@types/babel__traverse": "*",
+        "@types/babel__generator": "*"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40types%2Fbabel__core",
+          "observedAt": "2026-11-16T10:34:43.665Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40types%2Fbabel__core",
+          "observedAt": "2026-11-16T10:34:43.665Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40types%2Fbabel__core",
+          "observedAt": "2026-11-16T10:34:43.665Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40types%2Fbabel__core",
+          "observedAt": "2026-11-16T10:34:43.665Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40types%2Fbabel__core",
+          "observedAt": "2026-11-16T10:34:43.665Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40types%2Fbabel__core",
+          "observedAt": "2026-11-16T10:34:43.665Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

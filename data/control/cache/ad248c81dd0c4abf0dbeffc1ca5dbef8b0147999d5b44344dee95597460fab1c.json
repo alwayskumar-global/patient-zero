@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "pkg": "snapdragon-util",
+  "source": "https://registry.npmjs.org/snapdragon-util",
+  "fetchedAt": "2026-11-16T10:35:26.638Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 17
+  },
+  "sourceSha256": "dfe8529eb134750319441a2bf887cb6cf5b49e8bf411597081b5ad81809d8cf8",
+  "versions": [
+    {
+      "pkg": "snapdragon-util",
+      "semver": "5.0.1",
+      "publishedAt": "2018-01-11T09:04:26.184Z",
+      "publisher": "jonschlinkert",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "kind-of": "^6.0.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/snapdragon-util",
+          "observedAt": "2026-11-16T10:35:26.638Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/snapdragon-util",
+          "observedAt": "2026-11-16T10:35:26.638Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/snapdragon-util",
+          "observedAt": "2026-11-16T10:35:26.638Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/snapdragon-util",
+          "observedAt": "2026-11-16T10:35:26.638Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/snapdragon-util",
+          "observedAt": "2026-11-16T10:35:26.638Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

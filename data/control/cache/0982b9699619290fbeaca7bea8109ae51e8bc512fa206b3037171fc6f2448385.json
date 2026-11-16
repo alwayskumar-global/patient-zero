@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "run-async",
+  "source": "https://registry.npmjs.org/run-async",
+  "fetchedAt": "2026-11-16T10:35:25.266Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 16
+  },
+  "sourceSha256": "fce50bbadbe042eef9ec72754117d63c2bf309f72a15a6f36be816023ec55e89",
+  "versions": [
+    {
+      "pkg": "run-async",
+      "semver": "4.0.5",
+      "publishedAt": "2025-07-21T13:40:04.084Z",
+      "publisher": "sboudrias",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7925,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/run-async",
+          "observedAt": "2026-11-16T10:35:25.266Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/run-async",
+          "observedAt": "2026-11-16T10:35:25.266Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/run-async",
+          "observedAt": "2026-11-16T10:35:25.266Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/run-async",
+          "observedAt": "2026-11-16T10:35:25.266Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/run-async",
+          "observedAt": "2026-11-16T10:35:25.266Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/run-async",
+          "observedAt": "2026-11-16T10:35:25.266Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

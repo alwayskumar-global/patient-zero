@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "stepMinutes": 15,
+  "training": {"manifest":"data/replay/manifest.json","incident":"bench/incidents/chalk-debug-2025-09.json"},
+  "heldOut": {"manifest":"data/shai-hulud/manifest.json","incident":"bench/incidents/shai-hulud-2025-09.json"},
+  "control": {"manifest":"data/control/manifest.json","incident":"bench/control/quiet-week.json"},
+  "cohort":"bench/control/cohort.json",
+  "candidateBurstPackages": [5, 3, 8],
+  "candidateMedium": [3, 2, 4, 5]
+}

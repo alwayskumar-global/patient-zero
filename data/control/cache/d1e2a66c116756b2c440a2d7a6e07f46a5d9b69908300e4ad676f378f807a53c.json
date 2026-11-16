@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@types/istanbul-reports",
+  "source": "https://registry.npmjs.org/%40types%2Fistanbul-reports",
+  "fetchedAt": "2026-11-16T10:34:50.799Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 8
+  },
+  "sourceSha256": "da886490e24429a4edb995b72bc907836e450aa5fd1a77299cd1bdc8f69f2bf1",
+  "versions": [
+    {
+      "pkg": "@types/istanbul-reports",
+      "semver": "3.0.4",
+      "publishedAt": "2023-11-07T08:11:26.604Z",
+      "publisher": "types",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 6681,
+      "dependencies": {
+        "@types/istanbul-lib-report": "*"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40types%2Fistanbul-reports",
+          "observedAt": "2026-11-16T10:34:50.799Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40types%2Fistanbul-reports",
+          "observedAt": "2026-11-16T10:34:50.799Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40types%2Fistanbul-reports",
+          "observedAt": "2026-11-16T10:34:50.799Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40types%2Fistanbul-reports",
+          "observedAt": "2026-11-16T10:34:50.799Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40types%2Fistanbul-reports",
+          "observedAt": "2026-11-16T10:34:50.799Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40types%2Fistanbul-reports",
+          "observedAt": "2026-11-16T10:34:50.799Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

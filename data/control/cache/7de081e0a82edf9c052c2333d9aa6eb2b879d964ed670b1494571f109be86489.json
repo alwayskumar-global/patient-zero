@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "pkg": "browserify-aes",
+  "source": "https://registry.npmjs.org/browserify-aes",
+  "fetchedAt": "2026-11-16T10:34:56.952Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 27
+  },
+  "sourceSha256": "97fb86ee7962fac52359bc87fcd55ea33c6c66b07696e0280b36bbb09c3b1eb6",
+  "versions": [
+    {
+      "pkg": "browserify-aes",
+      "semver": "1.0.8",
+      "publishedAt": "2017-09-05T11:14:14.083Z",
+      "publisher": "dcousens",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "buffer-xor": "^1.0.3",
+        "cipher-base": "^1.0.0",
+        "create-hash": "^1.1.0",
+        "evp_bytestokey": "^1.0.3",
+        "inherits": "^2.0.1",
+        "safe-buffer": "^5.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/browserify-aes",
+          "observedAt": "2026-11-16T10:34:56.952Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/browserify-aes",
+          "observedAt": "2026-11-16T10:34:56.952Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/browserify-aes",
+          "observedAt": "2026-11-16T10:34:56.952Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/browserify-aes",
+          "observedAt": "2026-11-16T10:34:56.952Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/browserify-aes",
+          "observedAt": "2026-11-16T10:34:56.952Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "browserify-aes",
+      "semver": "1.2.0",
+      "publishedAt": "2018-04-03T14:23:16.754Z",
+      "publisher": "cwmma",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 29767,
+      "dependencies": {
+        "buffer-xor": "^1.0.3",
+        "cipher-base": "^1.0.0",
+        "create-hash": "^1.1.0",
+        "evp_bytestokey": "^1.0.3",
+        "inherits": "^2.0.1",
+        "safe-buffer": "^5.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/browserify-aes",
+          "observedAt": "2026-11-16T10:34:56.952Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/browserify-aes",
+          "observedAt": "2026-11-16T10:34:56.952Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/browserify-aes",
+          "observedAt": "2026-11-16T10:34:56.952Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/browserify-aes",
+          "observedAt": "2026-11-16T10:34:56.952Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/browserify-aes",
+          "observedAt": "2026-11-16T10:34:56.952Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/browserify-aes",
+          "observedAt": "2026-11-16T10:34:56.952Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "pkg": "micromark-util-classify-character",
+  "source": "https://registry.npmjs.org/micromark-util-classify-character",
+  "fetchedAt": "2026-11-16T10:35:12.876Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 8
+  },
+  "sourceSha256": "71374839e2db50a4cf4075c862b332179ba0f090a8b2fe11b0d719a0984ee161",
+  "versions": [
+    {
+      "pkg": "micromark-util-classify-character",
+      "semver": "2.0.1",
+      "publishedAt": "2024-11-12T11:17:20.461Z",
+      "publisher": "wooorm",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 11428,
+      "dependencies": {
+        "micromark-util-character": "^2.0.0",
+        "micromark-util-symbol": "^2.0.0",
+        "micromark-util-types": "^2.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/micromark-util-classify-character",
+          "observedAt": "2026-11-16T10:35:12.876Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/micromark-util-classify-character",
+          "observedAt": "2026-11-16T10:35:12.876Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/micromark-util-classify-character",
+          "observedAt": "2026-11-16T10:35:12.876Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/micromark-util-classify-character",
+          "observedAt": "2026-11-16T10:35:12.876Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/micromark-util-classify-character",
+          "observedAt": "2026-11-16T10:35:12.876Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/micromark-util-classify-character",
+          "observedAt": "2026-11-16T10:35:12.876Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

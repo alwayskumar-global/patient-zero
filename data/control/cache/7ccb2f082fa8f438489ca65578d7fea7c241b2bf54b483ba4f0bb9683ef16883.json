@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "on-finished",
+  "source": "https://registry.npmjs.org/on-finished",
+  "fetchedAt": "2026-11-16T10:35:16.014Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 9
+  },
+  "sourceSha256": "db8281a3bbc688d9e8145783c6ec47f9f4dd23851c958e9487dba1807126811d",
+  "versions": [
+    {
+      "pkg": "on-finished",
+      "semver": "2.4.1",
+      "publishedAt": "2022-02-22T16:10:48.714Z",
+      "publisher": "dougwilson",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 13679,
+      "dependencies": {
+        "ee-first": "1.1.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/on-finished",
+          "observedAt": "2026-11-16T10:35:16.014Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/on-finished",
+          "observedAt": "2026-11-16T10:35:16.014Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/on-finished",
+          "observedAt": "2026-11-16T10:35:16.014Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/on-finished",
+          "observedAt": "2026-11-16T10:35:16.014Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/on-finished",
+          "observedAt": "2026-11-16T10:35:16.014Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/on-finished",
+          "observedAt": "2026-11-16T10:35:16.014Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

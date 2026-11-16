@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "pkg": "safer-buffer",
+  "source": "https://registry.npmjs.org/safer-buffer",
+  "fetchedAt": "2026-11-16T10:35:25.453Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 7
+  },
+  "sourceSha256": "1748de8ecde91aaa3203f0f3bf1eb176662611415f6a3ef993e896c6efa27103",
+  "versions": [
+    {
+      "pkg": "safer-buffer",
+      "semver": "1.0.0",
+      "publishedAt": "2018-03-19T08:26:02.318Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/safer-buffer",
+          "observedAt": "2026-11-16T10:35:25.453Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "safer-buffer",
+      "semver": "2.1.2",
+      "publishedAt": "2018-04-08T10:42:42.130Z",
+      "publisher": "chalker",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 42299,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/safer-buffer",
+          "observedAt": "2026-11-16T10:35:25.453Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/safer-buffer",
+          "observedAt": "2026-11-16T10:35:25.453Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/safer-buffer",
+          "observedAt": "2026-11-16T10:35:25.453Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/safer-buffer",
+          "observedAt": "2026-11-16T10:35:25.453Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/safer-buffer",
+          "observedAt": "2026-11-16T10:35:25.453Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/safer-buffer",
+          "observedAt": "2026-11-16T10:35:25.453Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

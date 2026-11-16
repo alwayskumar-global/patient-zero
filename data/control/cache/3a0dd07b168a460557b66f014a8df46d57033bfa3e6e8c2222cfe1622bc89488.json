@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "before-after-hook",
+  "source": "https://registry.npmjs.org/before-after-hook",
+  "fetchedAt": "2026-11-16T10:34:56.708Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 21
+  },
+  "sourceSha256": "eb2cf43d0c8876284c28ce1ceef2395082b0cf5d025bbd33b17b07f7b9a879da",
+  "versions": [
+    {
+      "pkg": "before-after-hook",
+      "semver": "4.0.0",
+      "publishedAt": "2025-05-12T22:37:33.860Z",
+      "publisher": "gr2m",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 35562,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/before-after-hook",
+          "observedAt": "2026-11-16T10:34:56.708Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/before-after-hook",
+          "observedAt": "2026-11-16T10:34:56.708Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/before-after-hook",
+          "observedAt": "2026-11-16T10:34:56.708Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/before-after-hook",
+          "observedAt": "2026-11-16T10:34:56.708Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/before-after-hook",
+          "observedAt": "2026-11-16T10:34:56.708Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/before-after-hook",
+          "observedAt": "2026-11-16T10:34:56.708Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

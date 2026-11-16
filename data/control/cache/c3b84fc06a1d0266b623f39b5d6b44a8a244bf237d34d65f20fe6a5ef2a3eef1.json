@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "micromark-util-html-tag-name",
+  "source": "https://registry.npmjs.org/micromark-util-html-tag-name",
+  "fetchedAt": "2026-11-16T10:35:12.944Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 9
+  },
+  "sourceSha256": "45a59badd83d1c1e64393f69d3474e32eca4d5c03e63ba9cb84a76c8ffd84546",
+  "versions": [
+    {
+      "pkg": "micromark-util-html-tag-name",
+      "semver": "2.0.1",
+      "publishedAt": "2024-11-12T11:17:37.806Z",
+      "publisher": "wooorm",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 10426,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/micromark-util-html-tag-name",
+          "observedAt": "2026-11-16T10:35:12.944Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/micromark-util-html-tag-name",
+          "observedAt": "2026-11-16T10:35:12.944Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/micromark-util-html-tag-name",
+          "observedAt": "2026-11-16T10:35:12.944Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/micromark-util-html-tag-name",
+          "observedAt": "2026-11-16T10:35:12.944Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/micromark-util-html-tag-name",
+          "observedAt": "2026-11-16T10:35:12.944Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/micromark-util-html-tag-name",
+          "observedAt": "2026-11-16T10:35:12.944Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

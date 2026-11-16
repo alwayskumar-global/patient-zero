@@ -1,0 +1,304 @@
+{
+  "schemaVersion": 1,
+  "pkg": "tar",
+  "source": "https://registry.npmjs.org/tar",
+  "fetchedAt": "2026-11-16T10:35:28.649Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 155
+  },
+  "sourceSha256": "b139e0fab8e0ce2541da2718e89b7bd9186624f6dcb99a216177701a6c3992a1",
+  "versions": [
+    {
+      "pkg": "tar",
+      "semver": "2.1.1",
+      "publishedAt": "2015-05-08T00:38:16.661Z",
+      "publisher": "othiym23",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "fstream": "^1.0.2",
+        "inherits": "2",
+        "block-stream": "*"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/tar",
+          "observedAt": "2026-11-16T10:35:28.649Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/tar",
+          "observedAt": "2026-11-16T10:35:28.649Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/tar",
+          "observedAt": "2026-11-16T10:35:28.649Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/tar",
+          "observedAt": "2026-11-16T10:35:28.649Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/tar",
+          "observedAt": "2026-11-16T10:35:28.649Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "tar",
+      "semver": "2.2.0",
+      "publishedAt": "2015-08-27T21:01:29.846Z",
+      "publisher": "soldair",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "fstream": "^1.0.2",
+        "inherits": "2",
+        "block-stream": "*"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/tar",
+          "observedAt": "2026-11-16T10:35:28.649Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/tar",
+          "observedAt": "2026-11-16T10:35:28.649Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/tar",
+          "observedAt": "2026-11-16T10:35:28.649Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/tar",
+          "observedAt": "2026-11-16T10:35:28.649Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/tar",
+          "observedAt": "2026-11-16T10:35:28.649Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "tar",
+      "semver": "4.0.2",
+      "publishedAt": "2017-10-18T19:30:06.418Z",
+      "publisher": "zkat",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "chownr": "^1.0.1",
+        "mkdirp": "^0.5.0",
+        "yallist": "^3.0.2",
+        "minipass": "^2.2.1",
+        "minizlib": "^1.0.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/tar",
+          "observedAt": "2026-11-16T10:35:28.649Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/tar",
+          "observedAt": "2026-11-16T10:35:28.649Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/tar",
+          "observedAt": "2026-11-16T10:35:28.649Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/tar",
+          "observedAt": "2026-11-16T10:35:28.649Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/tar",
+          "observedAt": "2026-11-16T10:35:28.649Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "tar",
+      "semver": "5.0.3",
+      "publishedAt": "2019-10-05T02:05:48.604Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/tar",
+          "observedAt": "2026-11-16T10:35:28.649Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "tar",
+      "semver": "6.1.0",
+      "publishedAt": "2021-01-07T19:22:17.608Z",
+      "publisher": "ruyadorno",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 150295,
+      "dependencies": {
+        "chownr": "^2.0.0",
+        "mkdirp": "^1.0.3",
+        "yallist": "^4.0.0",
+        "minipass": "^3.0.0",
+        "minizlib": "^2.1.1",
+        "fs-minipass": "^2.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/tar",
+          "observedAt": "2026-11-16T10:35:28.649Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/tar",
+          "observedAt": "2026-11-16T10:35:28.649Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/tar",
+          "observedAt": "2026-11-16T10:35:28.649Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/tar",
+          "observedAt": "2026-11-16T10:35:28.649Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/tar",
+          "observedAt": "2026-11-16T10:35:28.649Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/tar",
+          "observedAt": "2026-11-16T10:35:28.649Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "tar",
+      "semver": "6.1.13",
+      "publishedAt": "2022-12-07T20:32:39.620Z",
+      "publisher": "lukekarrys",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 163641,
+      "dependencies": {
+        "chownr": "^2.0.0",
+        "mkdirp": "^1.0.3",
+        "yallist": "^4.0.0",
+        "minipass": "^4.0.0",
+        "minizlib": "^2.1.1",
+        "fs-minipass": "^2.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/tar",
+          "observedAt": "2026-11-16T10:35:28.649Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/tar",
+          "observedAt": "2026-11-16T10:35:28.649Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/tar",
+          "observedAt": "2026-11-16T10:35:28.649Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/tar",
+          "observedAt": "2026-11-16T10:35:28.649Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/tar",
+          "observedAt": "2026-11-16T10:35:28.649Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/tar",
+          "observedAt": "2026-11-16T10:35:28.649Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "tar",
+      "semver": "7.4.3",
+      "publishedAt": "2024-07-26T04:33:46.030Z",
+      "publisher": "isaacs",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 1239499,
+      "dependencies": {
+        "chownr": "^3.0.0",
+        "mkdirp": "^3.0.1",
+        "yallist": "^5.0.0",
+        "minipass": "^7.1.2",
+        "minizlib": "^3.0.1",
+        "@isaacs/fs-minipass": "^4.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/tar",
+          "observedAt": "2026-11-16T10:35:28.649Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/tar",
+          "observedAt": "2026-11-16T10:35:28.649Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/tar",
+          "observedAt": "2026-11-16T10:35:28.649Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/tar",
+          "observedAt": "2026-11-16T10:35:28.649Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/tar",
+          "observedAt": "2026-11-16T10:35:28.649Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/tar",
+          "observedAt": "2026-11-16T10:35:28.649Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

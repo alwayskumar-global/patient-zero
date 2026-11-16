@@ -1,0 +1,228 @@
+{
+  "schemaVersion": 1,
+  "pkg": "regexpu-core",
+  "source": "https://registry.npmjs.org/regexpu-core",
+  "fetchedAt": "2026-11-16T10:35:23.989Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 57
+  },
+  "sourceSha256": "b562d1b49bef5359988bee97777201136a8bd5f3c6115f29e0a6a9656dbb68f5",
+  "versions": [
+    {
+      "pkg": "regexpu-core",
+      "semver": "3.0.0",
+      "publishedAt": "2016-06-02T06:34:12.783Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/regexpu-core",
+          "observedAt": "2026-11-16T10:35:23.989Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "regexpu-core",
+      "semver": "4.7.0",
+      "publishedAt": "2020-03-11T17:56:09.008Z",
+      "publisher": "mathias",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 37714,
+      "dependencies": {
+        "regjsgen": "^0.5.1",
+        "regenerate": "^1.4.0",
+        "regjsparser": "^0.6.4",
+        "regenerate-unicode-properties": "^8.2.0",
+        "unicode-match-property-ecmascript": "^1.0.4",
+        "unicode-match-property-value-ecmascript": "^1.2.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/regexpu-core",
+          "observedAt": "2026-11-16T10:35:23.989Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/regexpu-core",
+          "observedAt": "2026-11-16T10:35:23.989Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/regexpu-core",
+          "observedAt": "2026-11-16T10:35:23.989Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/regexpu-core",
+          "observedAt": "2026-11-16T10:35:23.989Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/regexpu-core",
+          "observedAt": "2026-11-16T10:35:23.989Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/regexpu-core",
+          "observedAt": "2026-11-16T10:35:23.989Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "regexpu-core",
+      "semver": "4.7.1",
+      "publishedAt": "2020-09-18T07:47:07.839Z",
+      "publisher": "jridgewell",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 32188,
+      "dependencies": {
+        "regjsgen": "^0.5.1",
+        "regenerate": "^1.4.0",
+        "regjsparser": "^0.6.4",
+        "regenerate-unicode-properties": "^8.2.0",
+        "unicode-match-property-ecmascript": "^1.0.4",
+        "unicode-match-property-value-ecmascript": "^1.2.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/regexpu-core",
+          "observedAt": "2026-11-16T10:35:23.989Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/regexpu-core",
+          "observedAt": "2026-11-16T10:35:23.989Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/regexpu-core",
+          "observedAt": "2026-11-16T10:35:23.989Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/regexpu-core",
+          "observedAt": "2026-11-16T10:35:23.989Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/regexpu-core",
+          "observedAt": "2026-11-16T10:35:23.989Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/regexpu-core",
+          "observedAt": "2026-11-16T10:35:23.989Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "regexpu-core",
+      "semver": "6.0.0",
+      "publishedAt": "2023-09-25T06:08:47.143Z",
+      "publisher": "nicolo-ribaudo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 54548,
+      "dependencies": {
+        "regjsgen": "^0.8.0",
+        "regenerate": "^1.4.2",
+        "regjsparser": "^0.10.0",
+        "regenerate-unicode-properties": "^10.1.1",
+        "unicode-match-property-ecmascript": "^2.0.0",
+        "unicode-match-property-value-ecmascript": "^2.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/regexpu-core",
+          "observedAt": "2026-11-16T10:35:23.989Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/regexpu-core",
+          "observedAt": "2026-11-16T10:35:23.989Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/regexpu-core",
+          "observedAt": "2026-11-16T10:35:23.989Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/regexpu-core",
+          "observedAt": "2026-11-16T10:35:23.989Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/regexpu-core",
+          "observedAt": "2026-11-16T10:35:23.989Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/regexpu-core",
+          "observedAt": "2026-11-16T10:35:23.989Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "regexpu-core",
+      "semver": "6.2.0",
+      "publishedAt": "2024-11-21T20:14:13.920Z",
+      "publisher": "google-wombot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 135551,
+      "dependencies": {
+        "regjsgen": "^0.8.0",
+        "regenerate": "^1.4.2",
+        "regjsparser": "^0.12.0",
+        "regenerate-unicode-properties": "^10.2.0",
+        "unicode-match-property-ecmascript": "^2.0.0",
+        "unicode-match-property-value-ecmascript": "^2.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/regexpu-core",
+          "observedAt": "2026-11-16T10:35:23.989Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/regexpu-core",
+          "observedAt": "2026-11-16T10:35:23.989Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/regexpu-core",
+          "observedAt": "2026-11-16T10:35:23.989Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/regexpu-core",
+          "observedAt": "2026-11-16T10:35:23.989Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/regexpu-core",
+          "observedAt": "2026-11-16T10:35:23.989Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/regexpu-core",
+          "observedAt": "2026-11-16T10:35:23.989Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

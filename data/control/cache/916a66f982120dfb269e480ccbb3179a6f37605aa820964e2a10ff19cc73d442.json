@@ -1,0 +1,191 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@babel/plugin-syntax-numeric-separator",
+  "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-numeric-separator",
+  "fetchedAt": "2026-11-16T10:34:32.136Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 40
+  },
+  "sourceSha256": "c41dfd31a9dc2d54b178ad9079574ba5d6ecf8bc198397ed7b49c579ec851276",
+  "versions": [
+    {
+      "pkg": "@babel/plugin-syntax-numeric-separator",
+      "semver": "7.0.0",
+      "publishedAt": "2018-08-27T21:42:46.296Z",
+      "publisher": "hzoo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 2650,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "^7.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-numeric-separator",
+          "observedAt": "2026-11-16T10:34:32.136Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-numeric-separator",
+          "observedAt": "2026-11-16T10:34:32.136Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-numeric-separator",
+          "observedAt": "2026-11-16T10:34:32.136Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-numeric-separator",
+          "observedAt": "2026-11-16T10:34:32.136Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-numeric-separator",
+          "observedAt": "2026-11-16T10:34:32.136Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-numeric-separator",
+          "observedAt": "2026-11-16T10:34:32.136Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/plugin-syntax-numeric-separator",
+      "semver": "7.0.0-beta.49",
+      "publishedAt": "2018-05-25T16:01:30.057Z",
+      "publisher": "loganfsmyth",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 1727,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "7.0.0-beta.49"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-numeric-separator",
+          "observedAt": "2026-11-16T10:34:32.136Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-numeric-separator",
+          "observedAt": "2026-11-16T10:34:32.136Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-numeric-separator",
+          "observedAt": "2026-11-16T10:34:32.136Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-numeric-separator",
+          "observedAt": "2026-11-16T10:34:32.136Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-numeric-separator",
+          "observedAt": "2026-11-16T10:34:32.136Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-numeric-separator",
+          "observedAt": "2026-11-16T10:34:32.136Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/plugin-syntax-numeric-separator",
+      "semver": "7.10.1",
+      "publishedAt": "2020-05-27T22:07:09.721Z",
+      "publisher": "nicolo-ribaudo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 2751,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "^7.10.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-numeric-separator",
+          "observedAt": "2026-11-16T10:34:32.136Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-numeric-separator",
+          "observedAt": "2026-11-16T10:34:32.136Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-numeric-separator",
+          "observedAt": "2026-11-16T10:34:32.136Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-numeric-separator",
+          "observedAt": "2026-11-16T10:34:32.136Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-numeric-separator",
+          "observedAt": "2026-11-16T10:34:32.136Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-numeric-separator",
+          "observedAt": "2026-11-16T10:34:32.136Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/plugin-syntax-numeric-separator",
+      "semver": "7.10.4",
+      "publishedAt": "2020-06-30T13:11:49.810Z",
+      "publisher": "jlhwung",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 2751,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "^7.10.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-numeric-separator",
+          "observedAt": "2026-11-16T10:34:32.136Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-numeric-separator",
+          "observedAt": "2026-11-16T10:34:32.136Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-numeric-separator",
+          "observedAt": "2026-11-16T10:34:32.136Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-numeric-separator",
+          "observedAt": "2026-11-16T10:34:32.136Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-numeric-separator",
+          "observedAt": "2026-11-16T10:34:32.136Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-numeric-separator",
+          "observedAt": "2026-11-16T10:34:32.136Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

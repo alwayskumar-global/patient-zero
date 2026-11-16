@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@floating-ui/core",
+  "source": "https://registry.npmjs.org/%40floating-ui%2Fcore",
+  "fetchedAt": "2026-11-16T10:34:34.294Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 63
+  },
+  "sourceSha256": "1950016a88f574c019a302d89fd60dd3eaf41fea5b42318955c5619c7f2f2923",
+  "versions": [
+    {
+      "pkg": "@floating-ui/core",
+      "semver": "0.3.1",
+      "publishedAt": "2021-12-31T01:35:44.764Z",
+      "publisher": "fezvrasta",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 124207,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40floating-ui%2Fcore",
+          "observedAt": "2026-11-16T10:34:34.294Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40floating-ui%2Fcore",
+          "observedAt": "2026-11-16T10:34:34.294Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40floating-ui%2Fcore",
+          "observedAt": "2026-11-16T10:34:34.294Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40floating-ui%2Fcore",
+          "observedAt": "2026-11-16T10:34:34.294Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40floating-ui%2Fcore",
+          "observedAt": "2026-11-16T10:34:34.294Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40floating-ui%2Fcore",
+          "observedAt": "2026-11-16T10:34:34.294Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@floating-ui/core",
+      "semver": "1.7.3",
+      "publishedAt": "2025-07-30T09:17:02.142Z",
+      "publisher": "atomiks",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 215502,
+      "dependencies": {
+        "@floating-ui/utils": "^0.2.10"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40floating-ui%2Fcore",
+          "observedAt": "2026-11-16T10:34:34.294Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40floating-ui%2Fcore",
+          "observedAt": "2026-11-16T10:34:34.294Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40floating-ui%2Fcore",
+          "observedAt": "2026-11-16T10:34:34.294Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40floating-ui%2Fcore",
+          "observedAt": "2026-11-16T10:34:34.294Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40floating-ui%2Fcore",
+          "observedAt": "2026-11-16T10:34:34.294Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40floating-ui%2Fcore",
+          "observedAt": "2026-11-16T10:34:34.294Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

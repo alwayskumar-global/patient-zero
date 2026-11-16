@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@testing-library/dom",
+  "source": "https://registry.npmjs.org/%40testing-library%2Fdom",
+  "fetchedAt": "2026-11-16T10:34:43.374Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 230
+  },
+  "sourceSha256": "905ac718f879b290da0de98f7a23e9471c8452e77ffa4501ea36858c808895ed",
+  "versions": [
+    {
+      "pkg": "@testing-library/dom",
+      "semver": "10.4.1",
+      "publishedAt": "2025-07-27T13:23:37.151Z",
+      "publisher": "testing-library-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 2426344,
+      "dependencies": {
+        "lz-string": "^1.5.0",
+        "aria-query": "5.3.0",
+        "picocolors": "1.1.1",
+        "pretty-format": "^27.0.2",
+        "@babel/runtime": "^7.12.5",
+        "@babel/code-frame": "^7.10.4",
+        "@types/aria-query": "^5.0.1",
+        "dom-accessibility-api": "^0.5.9"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40testing-library%2Fdom",
+          "observedAt": "2026-11-16T10:34:43.374Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40testing-library%2Fdom",
+          "observedAt": "2026-11-16T10:34:43.374Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40testing-library%2Fdom",
+          "observedAt": "2026-11-16T10:34:43.374Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40testing-library%2Fdom",
+          "observedAt": "2026-11-16T10:34:43.374Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40testing-library%2Fdom",
+          "observedAt": "2026-11-16T10:34:43.374Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40testing-library%2Fdom",
+          "observedAt": "2026-11-16T10:34:43.374Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@testing-library/dom",
+      "semver": "7.16.2-alpha.2",
+      "publishedAt": "2020-06-23T04:44:07.416Z",
+      "publisher": "kentcdodds",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 2701985,
+      "dependencies": {
+        "aria-query": "^4.2.1",
+        "pretty-format": "^25.5.0",
+        "@babel/runtime": "^7.10.2",
+        "dom-accessibility-api": "^0.4.5"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40testing-library%2Fdom",
+          "observedAt": "2026-11-16T10:34:43.374Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40testing-library%2Fdom",
+          "observedAt": "2026-11-16T10:34:43.374Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40testing-library%2Fdom",
+          "observedAt": "2026-11-16T10:34:43.374Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40testing-library%2Fdom",
+          "observedAt": "2026-11-16T10:34:43.374Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40testing-library%2Fdom",
+          "observedAt": "2026-11-16T10:34:43.374Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40testing-library%2Fdom",
+          "observedAt": "2026-11-16T10:34:43.374Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

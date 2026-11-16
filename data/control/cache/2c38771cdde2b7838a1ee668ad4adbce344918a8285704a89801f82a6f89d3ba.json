@@ -1,0 +1,239 @@
+{
+  "schemaVersion": 1,
+  "pkg": "postcss-normalize-positions",
+  "source": "https://registry.npmjs.org/postcss-normalize-positions",
+  "fetchedAt": "2026-11-16T10:35:20.131Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 53
+  },
+  "sourceSha256": "7d1525b033dd6abc4905d8bb6859e3555a4445414633106b468c9d4387b6d7ef",
+  "versions": [
+    {
+      "pkg": "postcss-normalize-positions",
+      "semver": "4.0.0-nightly.2020.2.6",
+      "publishedAt": "2021-02-06T17:26:03.567Z",
+      "publisher": "cssnano-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 8558,
+      "dependencies": {
+        "postcss-value-parser": "^4.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/postcss-normalize-positions",
+          "observedAt": "2026-11-16T10:35:20.131Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/postcss-normalize-positions",
+          "observedAt": "2026-11-16T10:35:20.131Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/postcss-normalize-positions",
+          "observedAt": "2026-11-16T10:35:20.131Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/postcss-normalize-positions",
+          "observedAt": "2026-11-16T10:35:20.131Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/postcss-normalize-positions",
+          "observedAt": "2026-11-16T10:35:20.131Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/postcss-normalize-positions",
+          "observedAt": "2026-11-16T10:35:20.131Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "postcss-normalize-positions",
+      "semver": "4.0.0-rc.2",
+      "publishedAt": "2017-08-06T19:53:42.557Z",
+      "publisher": "beneb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "has": "^1.0.0",
+        "postcss": "^6.0.0",
+        "postcss-value-parser": "^3.0.0",
+        "cssnano-util-get-arguments": "^4.0.0-rc.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/postcss-normalize-positions",
+          "observedAt": "2026-11-16T10:35:20.131Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/postcss-normalize-positions",
+          "observedAt": "2026-11-16T10:35:20.131Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/postcss-normalize-positions",
+          "observedAt": "2026-11-16T10:35:20.131Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/postcss-normalize-positions",
+          "observedAt": "2026-11-16T10:35:20.131Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/postcss-normalize-positions",
+          "observedAt": "2026-11-16T10:35:20.131Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "postcss-normalize-positions",
+      "semver": "4.0.1",
+      "publishedAt": "2018-09-24T20:51:07.308Z",
+      "publisher": "ai",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 6521,
+      "dependencies": {
+        "has": "^1.0.0",
+        "postcss": "^7.0.0",
+        "postcss-value-parser": "^3.0.0",
+        "cssnano-util-get-arguments": "^4.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/postcss-normalize-positions",
+          "observedAt": "2026-11-16T10:35:20.131Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/postcss-normalize-positions",
+          "observedAt": "2026-11-16T10:35:20.131Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/postcss-normalize-positions",
+          "observedAt": "2026-11-16T10:35:20.131Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/postcss-normalize-positions",
+          "observedAt": "2026-11-16T10:35:20.131Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/postcss-normalize-positions",
+          "observedAt": "2026-11-16T10:35:20.131Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/postcss-normalize-positions",
+          "observedAt": "2026-11-16T10:35:20.131Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "postcss-normalize-positions",
+      "semver": "4.0.2",
+      "publishedAt": "2019-02-12T17:55:35.272Z",
+      "publisher": "evilebottnawi",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 6736,
+      "dependencies": {
+        "has": "^1.0.0",
+        "postcss": "^7.0.0",
+        "postcss-value-parser": "^3.0.0",
+        "cssnano-util-get-arguments": "^4.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/postcss-normalize-positions",
+          "observedAt": "2026-11-16T10:35:20.131Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/postcss-normalize-positions",
+          "observedAt": "2026-11-16T10:35:20.131Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/postcss-normalize-positions",
+          "observedAt": "2026-11-16T10:35:20.131Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/postcss-normalize-positions",
+          "observedAt": "2026-11-16T10:35:20.131Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/postcss-normalize-positions",
+          "observedAt": "2026-11-16T10:35:20.131Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/postcss-normalize-positions",
+          "observedAt": "2026-11-16T10:35:20.131Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "postcss-normalize-positions",
+      "semver": "7.0.1",
+      "publishedAt": "2025-05-06T13:54:21.613Z",
+      "publisher": "ludovicofischer",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 8516,
+      "dependencies": {
+        "postcss-value-parser": "^4.2.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/postcss-normalize-positions",
+          "observedAt": "2026-11-16T10:35:20.131Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/postcss-normalize-positions",
+          "observedAt": "2026-11-16T10:35:20.131Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/postcss-normalize-positions",
+          "observedAt": "2026-11-16T10:35:20.131Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/postcss-normalize-positions",
+          "observedAt": "2026-11-16T10:35:20.131Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/postcss-normalize-positions",
+          "observedAt": "2026-11-16T10:35:20.131Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/postcss-normalize-positions",
+          "observedAt": "2026-11-16T10:35:20.131Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

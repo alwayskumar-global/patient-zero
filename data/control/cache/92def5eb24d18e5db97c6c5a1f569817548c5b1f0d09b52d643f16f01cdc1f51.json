@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "pkg": "tweetnacl",
+  "source": "https://registry.npmjs.org/tweetnacl",
+  "fetchedAt": "2026-11-16T10:35:30.186Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 26
+  },
+  "sourceSha256": "2cd84cb53c483b7ca9ace320b3fbbe7addefbd0cb6b6a7ef44d6ed4ec01426d1",
+  "versions": [
+    {
+      "pkg": "tweetnacl",
+      "semver": "0.9.0",
+      "publishedAt": "2014-07-08T17:17:59.887Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/tweetnacl",
+          "observedAt": "2026-11-16T10:35:30.186Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "tweetnacl",
+      "semver": "1.0.3",
+      "publishedAt": "2020-02-10T19:49:05.829Z",
+      "publisher": "dchest",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 174912,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/tweetnacl",
+          "observedAt": "2026-11-16T10:35:30.186Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/tweetnacl",
+          "observedAt": "2026-11-16T10:35:30.186Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/tweetnacl",
+          "observedAt": "2026-11-16T10:35:30.186Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/tweetnacl",
+          "observedAt": "2026-11-16T10:35:30.186Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/tweetnacl",
+          "observedAt": "2026-11-16T10:35:30.186Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/tweetnacl",
+          "observedAt": "2026-11-16T10:35:30.186Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

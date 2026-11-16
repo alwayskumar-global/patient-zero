@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "pako",
+  "source": "https://registry.npmjs.org/pako",
+  "fetchedAt": "2026-11-16T10:35:16.716Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 36
+  },
+  "sourceSha256": "ebe8b009aa67ea4675585f95b8a51e8fe1959a6ff4bed3a54b345fc1e8fff146",
+  "versions": [
+    {
+      "pkg": "pako",
+      "semver": "2.1.0",
+      "publishedAt": "2022-11-07T01:02:09.895Z",
+      "publisher": "vitaly",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 1640808,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/pako",
+          "observedAt": "2026-11-16T10:35:16.716Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/pako",
+          "observedAt": "2026-11-16T10:35:16.716Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/pako",
+          "observedAt": "2026-11-16T10:35:16.716Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/pako",
+          "observedAt": "2026-11-16T10:35:16.716Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/pako",
+          "observedAt": "2026-11-16T10:35:16.716Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/pako",
+          "observedAt": "2026-11-16T10:35:16.716Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

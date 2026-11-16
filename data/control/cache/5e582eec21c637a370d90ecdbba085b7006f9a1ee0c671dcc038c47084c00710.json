@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "pkg": "micromark-util-sanitize-uri",
+  "source": "https://registry.npmjs.org/micromark-util-sanitize-uri",
+  "fetchedAt": "2026-11-16T10:35:12.976Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 9
+  },
+  "sourceSha256": "025c2d047233fbd1ae5c51f530f027bcdeb9a82e75e46db87d8f9ade9fa72ada",
+  "versions": [
+    {
+      "pkg": "micromark-util-sanitize-uri",
+      "semver": "2.0.1",
+      "publishedAt": "2024-11-12T11:17:48.745Z",
+      "publisher": "wooorm",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 17917,
+      "dependencies": {
+        "micromark-util-character": "^2.0.0",
+        "micromark-util-encode": "^2.0.0",
+        "micromark-util-symbol": "^2.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/micromark-util-sanitize-uri",
+          "observedAt": "2026-11-16T10:35:12.976Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/micromark-util-sanitize-uri",
+          "observedAt": "2026-11-16T10:35:12.976Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/micromark-util-sanitize-uri",
+          "observedAt": "2026-11-16T10:35:12.976Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/micromark-util-sanitize-uri",
+          "observedAt": "2026-11-16T10:35:12.976Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/micromark-util-sanitize-uri",
+          "observedAt": "2026-11-16T10:35:12.976Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/micromark-util-sanitize-uri",
+          "observedAt": "2026-11-16T10:35:12.976Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

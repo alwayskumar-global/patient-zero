@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@tsconfig/node14",
+  "source": "https://registry.npmjs.org/%40tsconfig%2Fnode14",
+  "fetchedAt": "2026-11-16T10:34:43.600Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 15
+  },
+  "sourceSha256": "4d4a786ec36fb361abcdd7e1e796db078b4da3f6d07a4091f5fa68c3420d6975",
+  "versions": [
+    {
+      "pkg": "@tsconfig/node14",
+      "semver": "14.1.4",
+      "publishedAt": "2025-06-17T04:25:20.093Z",
+      "publisher": "typescript-deploys",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 2360,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40tsconfig%2Fnode14",
+          "observedAt": "2026-11-16T10:34:43.600Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40tsconfig%2Fnode14",
+          "observedAt": "2026-11-16T10:34:43.600Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40tsconfig%2Fnode14",
+          "observedAt": "2026-11-16T10:34:43.600Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40tsconfig%2Fnode14",
+          "observedAt": "2026-11-16T10:34:43.600Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40tsconfig%2Fnode14",
+          "observedAt": "2026-11-16T10:34:43.600Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40tsconfig%2Fnode14",
+          "observedAt": "2026-11-16T10:34:43.600Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "homedir-polyfill",
+  "source": "https://registry.npmjs.org/homedir-polyfill",
+  "fetchedAt": "2026-11-16T10:35:03.956Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 4
+  },
+  "sourceSha256": "af5dc615f3045dc228cfec024f19cc479d8c376fb3c32081e6dc8531ec3201e8",
+  "versions": [
+    {
+      "pkg": "homedir-polyfill",
+      "semver": "1.0.3",
+      "publishedAt": "2019-02-21T18:42:07.345Z",
+      "publisher": "doowb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 8052,
+      "dependencies": {
+        "parse-passwd": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/homedir-polyfill",
+          "observedAt": "2026-11-16T10:35:03.956Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/homedir-polyfill",
+          "observedAt": "2026-11-16T10:35:03.956Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/homedir-polyfill",
+          "observedAt": "2026-11-16T10:35:03.956Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/homedir-polyfill",
+          "observedAt": "2026-11-16T10:35:03.956Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/homedir-polyfill",
+          "observedAt": "2026-11-16T10:35:03.956Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/homedir-polyfill",
+          "observedAt": "2026-11-16T10:35:03.956Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

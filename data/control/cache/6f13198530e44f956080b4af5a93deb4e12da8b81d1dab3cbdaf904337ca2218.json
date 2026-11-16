@@ -1,0 +1,282 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@radix-ui/react-primitive",
+  "source": "https://registry.npmjs.org/%40radix-ui%2Freact-primitive",
+  "fetchedAt": "2026-11-16T10:34:37.724Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 279
+  },
+  "sourceSha256": "4bbe6cdcc33b0281303186aabc525a08d33d9863417c59fc07c1a831575b7ad2",
+  "versions": [
+    {
+      "pkg": "@radix-ui/react-primitive",
+      "semver": "0.0.15",
+      "publishedAt": "2021-08-04T11:07:27.566Z",
+      "publisher": "andy-hook",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 11245,
+      "dependencies": {
+        "@babel/runtime": "^7.13.10",
+        "@radix-ui/react-polymorphic": "0.0.13"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-primitive",
+          "observedAt": "2026-11-16T10:34:37.724Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-primitive",
+          "observedAt": "2026-11-16T10:34:37.724Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-primitive",
+          "observedAt": "2026-11-16T10:34:37.724Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-primitive",
+          "observedAt": "2026-11-16T10:34:37.724Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-primitive",
+          "observedAt": "2026-11-16T10:34:37.724Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-primitive",
+          "observedAt": "2026-11-16T10:34:37.724Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@radix-ui/react-primitive",
+      "semver": "0.1.4",
+      "publishedAt": "2022-02-24T18:06:10.101Z",
+      "publisher": "jjenzz",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 11195,
+      "dependencies": {
+        "@babel/runtime": "^7.13.10",
+        "@radix-ui/react-slot": "0.1.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-primitive",
+          "observedAt": "2026-11-16T10:34:37.724Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-primitive",
+          "observedAt": "2026-11-16T10:34:37.724Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-primitive",
+          "observedAt": "2026-11-16T10:34:37.724Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-primitive",
+          "observedAt": "2026-11-16T10:34:37.724Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-primitive",
+          "observedAt": "2026-11-16T10:34:37.724Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-primitive",
+          "observedAt": "2026-11-16T10:34:37.724Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@radix-ui/react-primitive",
+      "semver": "1.0.3",
+      "publishedAt": "2023-05-26T11:03:50.289Z",
+      "publisher": "benoitgrelard",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 29903,
+      "dependencies": {
+        "@babel/runtime": "^7.13.10",
+        "@radix-ui/react-slot": "1.0.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-primitive",
+          "observedAt": "2026-11-16T10:34:37.724Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-primitive",
+          "observedAt": "2026-11-16T10:34:37.724Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-primitive",
+          "observedAt": "2026-11-16T10:34:37.724Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-primitive",
+          "observedAt": "2026-11-16T10:34:37.724Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-primitive",
+          "observedAt": "2026-11-16T10:34:37.724Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-primitive",
+          "observedAt": "2026-11-16T10:34:37.724Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@radix-ui/react-primitive",
+      "semver": "2.0.0",
+      "publishedAt": "2024-06-19T19:58:15.804Z",
+      "publisher": "vladmoroz",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 20852,
+      "dependencies": {
+        "@radix-ui/react-slot": "1.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-primitive",
+          "observedAt": "2026-11-16T10:34:37.724Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-primitive",
+          "observedAt": "2026-11-16T10:34:37.724Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-primitive",
+          "observedAt": "2026-11-16T10:34:37.724Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-primitive",
+          "observedAt": "2026-11-16T10:34:37.724Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-primitive",
+          "observedAt": "2026-11-16T10:34:37.724Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-primitive",
+          "observedAt": "2026-11-16T10:34:37.724Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@radix-ui/react-primitive",
+      "semver": "2.0.1-rc.3",
+      "publishedAt": "2024-12-13T01:32:10.405Z",
+      "publisher": "stephenhaney",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 20890,
+      "dependencies": {
+        "@radix-ui/react-slot": "1.1.1-rc.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-primitive",
+          "observedAt": "2026-11-16T10:34:37.724Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-primitive",
+          "observedAt": "2026-11-16T10:34:37.724Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-primitive",
+          "observedAt": "2026-11-16T10:34:37.724Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-primitive",
+          "observedAt": "2026-11-16T10:34:37.724Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-primitive",
+          "observedAt": "2026-11-16T10:34:37.724Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-primitive",
+          "observedAt": "2026-11-16T10:34:37.724Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@radix-ui/react-primitive",
+      "semver": "2.1.3",
+      "publishedAt": "2025-05-20T15:20:49.447Z",
+      "publisher": "chancestrickland",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 22418,
+      "dependencies": {
+        "@radix-ui/react-slot": "1.2.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-primitive",
+          "observedAt": "2026-11-16T10:34:37.724Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-primitive",
+          "observedAt": "2026-11-16T10:34:37.724Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-primitive",
+          "observedAt": "2026-11-16T10:34:37.724Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-primitive",
+          "observedAt": "2026-11-16T10:34:37.724Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-primitive",
+          "observedAt": "2026-11-16T10:34:37.724Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-primitive",
+          "observedAt": "2026-11-16T10:34:37.724Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "pkg": "capacitor-plugin-ihealth",
+  "source": "https://registry.npmjs.org/capacitor-plugin-ihealth",
+  "fetchedAt": "2026-11-16T10:32:15.572Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 25
+  },
+  "sourceSha256": "75822c9c9995735f7ce069bf989c5646bd5ab007372650368ccea65d21417e3f",
+  "versions": [
+    {
+      "pkg": "capacitor-plugin-ihealth",
+      "semver": "1.0.5",
+      "publishedAt": "2023-09-01T05:31:03.565Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/capacitor-plugin-ihealth",
+          "observedAt": "2026-11-16T10:32:15.572Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "capacitor-plugin-ihealth",
+      "semver": "1.1.7",
+      "publishedAt": "2024-03-15T05:42:39.740Z",
+      "publisher": "vamsi3293",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 77684715,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/capacitor-plugin-ihealth",
+          "observedAt": "2026-11-16T10:32:15.572Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/capacitor-plugin-ihealth",
+          "observedAt": "2026-11-16T10:32:15.572Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/capacitor-plugin-ihealth",
+          "observedAt": "2026-11-16T10:32:15.572Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/capacitor-plugin-ihealth",
+          "observedAt": "2026-11-16T10:32:15.572Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/capacitor-plugin-ihealth",
+          "observedAt": "2026-11-16T10:32:15.572Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/capacitor-plugin-ihealth",
+          "observedAt": "2026-11-16T10:32:15.572Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "capacitor-plugin-ihealth",
+      "semver": "1.1.8",
+      "publishedAt": "2025-09-15T04:55:08.113Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/capacitor-plugin-ihealth",
+          "observedAt": "2026-11-16T10:32:15.572Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "capacitor-plugin-ihealth",
+      "semver": "1.1.9",
+      "publishedAt": "2025-09-16T07:41:54.799Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/capacitor-plugin-ihealth",
+          "observedAt": "2026-11-16T10:32:15.572Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

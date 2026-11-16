@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@ctrl/torrent-file",
+  "source": "https://registry.npmjs.org/%40ctrl%2Ftorrent-file",
+  "fetchedAt": "2026-11-16T10:31:17.064Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 24
+  },
+  "sourceSha256": "a1e830668051b2786ab8ab239ad39c8fce04f02f4b14757d478a3639a9a15d23",
+  "versions": [
+    {
+      "pkg": "@ctrl/torrent-file",
+      "semver": "4.1.0",
+      "publishedAt": "2024-09-09T23:57:49.404Z",
+      "publisher": "scttcper",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 19368,
+      "dependencies": {
+        "uint8array-extras": "^1.4.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Ftorrent-file",
+          "observedAt": "2026-11-16T10:31:17.064Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Ftorrent-file",
+          "observedAt": "2026-11-16T10:31:17.064Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Ftorrent-file",
+          "observedAt": "2026-11-16T10:31:17.064Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Ftorrent-file",
+          "observedAt": "2026-11-16T10:31:17.064Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Ftorrent-file",
+          "observedAt": "2026-11-16T10:31:17.064Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Ftorrent-file",
+          "observedAt": "2026-11-16T10:31:17.064Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@ctrl/torrent-file",
+      "semver": "4.1.1",
+      "publishedAt": "2025-09-15T19:52:40.936Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Ftorrent-file",
+          "observedAt": "2026-11-16T10:31:17.064Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@ctrl/torrent-file",
+      "semver": "4.1.2",
+      "publishedAt": "2025-09-15T20:13:34.880Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Ftorrent-file",
+          "observedAt": "2026-11-16T10:31:17.064Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@ctrl/torrent-file",
+      "semver": "4.2.0",
+      "publishedAt": "2025-09-16T05:35:53.155Z",
+      "publisher": "scttcper",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 19511,
+      "dependencies": {
+        "uint8array-extras": "^1.4.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Ftorrent-file",
+          "observedAt": "2026-11-16T10:31:17.064Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Ftorrent-file",
+          "observedAt": "2026-11-16T10:31:17.064Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Ftorrent-file",
+          "observedAt": "2026-11-16T10:31:17.064Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Ftorrent-file",
+          "observedAt": "2026-11-16T10:31:17.064Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Ftorrent-file",
+          "observedAt": "2026-11-16T10:31:17.064Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Ftorrent-file",
+          "observedAt": "2026-11-16T10:31:17.064Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

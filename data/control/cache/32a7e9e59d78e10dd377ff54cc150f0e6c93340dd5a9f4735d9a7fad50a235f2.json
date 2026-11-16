@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "pkg": "parse-entities",
+  "source": "https://registry.npmjs.org/parse-entities",
+  "fetchedAt": "2026-11-16T10:35:17.011Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 15
+  },
+  "sourceSha256": "9a0b2fdb100939b21fe10c7546ae76e664953c79f184b2095b282eafec70210a",
+  "versions": [
+    {
+      "pkg": "parse-entities",
+      "semver": "4.0.2",
+      "publishedAt": "2024-12-13T11:08:08.736Z",
+      "publisher": "wooorm",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 26410,
+      "dependencies": {
+        "@types/unist": "^2.0.0",
+        "character-entities-legacy": "^3.0.0",
+        "character-reference-invalid": "^2.0.0",
+        "decode-named-character-reference": "^1.0.0",
+        "is-alphanumerical": "^2.0.0",
+        "is-decimal": "^2.0.0",
+        "is-hexadecimal": "^2.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/parse-entities",
+          "observedAt": "2026-11-16T10:35:17.011Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/parse-entities",
+          "observedAt": "2026-11-16T10:35:17.011Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/parse-entities",
+          "observedAt": "2026-11-16T10:35:17.011Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/parse-entities",
+          "observedAt": "2026-11-16T10:35:17.011Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/parse-entities",
+          "observedAt": "2026-11-16T10:35:17.011Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/parse-entities",
+          "observedAt": "2026-11-16T10:35:17.011Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 1,
+  "pkg": "jwt-decode",
+  "source": "https://registry.npmjs.org/jwt-decode",
+  "fetchedAt": "2026-11-16T10:35:09.155Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 29
+  },
+  "sourceSha256": "2a7b660bcbabfbaf32cdb47f01157c7ea70f739fb62a6d17fceb8ef507d682eb",
+  "versions": [
+    {
+      "pkg": "jwt-decode",
+      "semver": "2.2.0",
+      "publishedAt": "2017-03-20T12:49:56.829Z",
+      "publisher": "jfromaniello",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jwt-decode",
+          "observedAt": "2026-11-16T10:35:09.155Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jwt-decode",
+          "observedAt": "2026-11-16T10:35:09.155Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jwt-decode",
+          "observedAt": "2026-11-16T10:35:09.155Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jwt-decode",
+          "observedAt": "2026-11-16T10:35:09.155Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jwt-decode",
+          "observedAt": "2026-11-16T10:35:09.155Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jwt-decode",
+      "semver": "3.1.2",
+      "publishedAt": "2020-11-16T10:22:25.532Z",
+      "publisher": "sambego",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 29725,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jwt-decode",
+          "observedAt": "2026-11-16T10:35:09.155Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jwt-decode",
+          "observedAt": "2026-11-16T10:35:09.155Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jwt-decode",
+          "observedAt": "2026-11-16T10:35:09.155Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jwt-decode",
+          "observedAt": "2026-11-16T10:35:09.155Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jwt-decode",
+          "observedAt": "2026-11-16T10:35:09.155Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jwt-decode",
+          "observedAt": "2026-11-16T10:35:09.155Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jwt-decode",
+      "semver": "4.0.0",
+      "publishedAt": "2023-10-27T08:54:17.048Z",
+      "publisher": "auth0-oss",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 13938,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jwt-decode",
+          "observedAt": "2026-11-16T10:35:09.155Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jwt-decode",
+          "observedAt": "2026-11-16T10:35:09.155Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jwt-decode",
+          "observedAt": "2026-11-16T10:35:09.155Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jwt-decode",
+          "observedAt": "2026-11-16T10:35:09.155Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jwt-decode",
+          "observedAt": "2026-11-16T10:35:09.155Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jwt-decode",
+          "observedAt": "2026-11-16T10:35:09.155Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

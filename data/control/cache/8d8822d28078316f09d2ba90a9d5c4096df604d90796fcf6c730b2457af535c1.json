@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@aws-sdk/util-user-agent-browser",
+  "source": "https://registry.npmjs.org/%40aws-sdk%2Futil-user-agent-browser",
+  "fetchedAt": "2026-11-16T10:34:30.080Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 261
+  },
+  "sourceSha256": "2c17380351e0397135e681fd8641decb0a4693ba834e53ba288d3d844a870279",
+  "versions": [
+    {
+      "pkg": "@aws-sdk/util-user-agent-browser",
+      "semver": "3.840.0",
+      "publishedAt": "2025-06-30T19:22:18.941Z",
+      "publisher": "aws-sdk-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 19757,
+      "dependencies": {
+        "tslib": "^2.6.2",
+        "bowser": "^2.11.0",
+        "@smithy/types": "^4.3.1",
+        "@aws-sdk/types": "3.840.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Futil-user-agent-browser",
+          "observedAt": "2026-11-16T10:34:30.080Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Futil-user-agent-browser",
+          "observedAt": "2026-11-16T10:34:30.080Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Futil-user-agent-browser",
+          "observedAt": "2026-11-16T10:34:30.080Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Futil-user-agent-browser",
+          "observedAt": "2026-11-16T10:34:30.080Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Futil-user-agent-browser",
+          "observedAt": "2026-11-16T10:34:30.080Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Futil-user-agent-browser",
+          "observedAt": "2026-11-16T10:34:30.080Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@aws-sdk/util-user-agent-browser",
+      "semver": "3.862.0",
+      "publishedAt": "2025-08-06T19:09:29.927Z",
+      "publisher": "aws-sdk-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 19757,
+      "dependencies": {
+        "tslib": "^2.6.2",
+        "bowser": "^2.11.0",
+        "@smithy/types": "^4.3.2",
+        "@aws-sdk/types": "3.862.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Futil-user-agent-browser",
+          "observedAt": "2026-11-16T10:34:30.080Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Futil-user-agent-browser",
+          "observedAt": "2026-11-16T10:34:30.080Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Futil-user-agent-browser",
+          "observedAt": "2026-11-16T10:34:30.080Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Futil-user-agent-browser",
+          "observedAt": "2026-11-16T10:34:30.080Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Futil-user-agent-browser",
+          "observedAt": "2026-11-16T10:34:30.080Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Futil-user-agent-browser",
+          "observedAt": "2026-11-16T10:34:30.080Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

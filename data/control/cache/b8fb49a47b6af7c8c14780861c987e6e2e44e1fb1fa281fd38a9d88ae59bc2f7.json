@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@aws-sdk/middleware-location-constraint",
+  "source": "https://registry.npmjs.org/%40aws-sdk%2Fmiddleware-location-constraint",
+  "fetchedAt": "2026-11-16T10:34:29.370Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 244
+  },
+  "sourceSha256": "0ce6da3284104616591ae50426b310f9b29e2c78463718aefaacc49aba63190c",
+  "versions": [
+    {
+      "pkg": "@aws-sdk/middleware-location-constraint",
+      "semver": "3.840.0",
+      "publishedAt": "2025-06-30T19:22:02.434Z",
+      "publisher": "aws-sdk-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 19334,
+      "dependencies": {
+        "tslib": "^2.6.2",
+        "@smithy/types": "^4.3.1",
+        "@aws-sdk/types": "3.840.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fmiddleware-location-constraint",
+          "observedAt": "2026-11-16T10:34:29.370Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fmiddleware-location-constraint",
+          "observedAt": "2026-11-16T10:34:29.370Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fmiddleware-location-constraint",
+          "observedAt": "2026-11-16T10:34:29.370Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fmiddleware-location-constraint",
+          "observedAt": "2026-11-16T10:34:29.370Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fmiddleware-location-constraint",
+          "observedAt": "2026-11-16T10:34:29.370Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fmiddleware-location-constraint",
+          "observedAt": "2026-11-16T10:34:29.370Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@aws-sdk/middleware-location-constraint",
+      "semver": "3.862.0",
+      "publishedAt": "2025-08-06T19:09:14.099Z",
+      "publisher": "aws-sdk-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 19334,
+      "dependencies": {
+        "tslib": "^2.6.2",
+        "@smithy/types": "^4.3.2",
+        "@aws-sdk/types": "3.862.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fmiddleware-location-constraint",
+          "observedAt": "2026-11-16T10:34:29.370Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fmiddleware-location-constraint",
+          "observedAt": "2026-11-16T10:34:29.370Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fmiddleware-location-constraint",
+          "observedAt": "2026-11-16T10:34:29.370Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fmiddleware-location-constraint",
+          "observedAt": "2026-11-16T10:34:29.370Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fmiddleware-location-constraint",
+          "observedAt": "2026-11-16T10:34:29.370Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fmiddleware-location-constraint",
+          "observedAt": "2026-11-16T10:34:29.370Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

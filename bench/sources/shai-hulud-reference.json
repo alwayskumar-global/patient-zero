@@ -1,0 +1,4108 @@
+{
+  "schemaVersion": 1,
+  "observedAt": "2026-11-16T10:29:32.492Z",
+  "sources": [
+    {
+      "name": "stepsecurity",
+      "url": "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+      "observedAt": "2026-11-16T10:29:32.492Z",
+      "responseSha256": "cbaab1b6498cba3bfb3cab04de18e3805b5acd945c1bf8b8944700d566dc32e8",
+      "extractedPairs": 481
+    },
+    {
+      "name": "wiz",
+      "url": "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack",
+      "observedAt": "2026-11-16T10:29:32.492Z",
+      "responseSha256": "c5d16f9260e9a2246a976db1a6095ae672f73ad150d1a00cb13fe9f6d7cf56f5",
+      "extractedPairs": 511
+    }
+  ],
+  "iocs": [
+    {
+      "pkg": "@ahmedhfarag/ngx-perfect-scrollbar",
+      "semver": "20.0.20",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@ahmedhfarag/ngx-virtual-scroller",
+      "semver": "4.0.4",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@art-ws/common",
+      "semver": "2.0.22",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised"
+      ]
+    },
+    {
+      "pkg": "@art-ws/common",
+      "semver": "2.0.28",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@art-ws/config-eslint",
+      "semver": "2.0.4",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@art-ws/config-eslint",
+      "semver": "2.0.5",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@art-ws/config-ts",
+      "semver": "2.0.7",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@art-ws/config-ts",
+      "semver": "2.0.8",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@art-ws/db-context",
+      "semver": "2.0.24",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@art-ws/di-node",
+      "semver": "2.0.13",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@art-ws/di",
+      "semver": "2.0.28",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@art-ws/di",
+      "semver": "2.0.32",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@art-ws/eslint",
+      "semver": "1.0.5",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@art-ws/eslint",
+      "semver": "1.0.6",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@art-ws/fastify-http-server",
+      "semver": "2.0.24",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@art-ws/fastify-http-server",
+      "semver": "2.0.27",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@art-ws/http-server",
+      "semver": "2.0.21",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@art-ws/http-server",
+      "semver": "2.0.25",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@art-ws/openapi",
+      "semver": "0.1.12",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@art-ws/openapi",
+      "semver": "0.1.9",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@art-ws/package-base",
+      "semver": "1.0.5",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@art-ws/package-base",
+      "semver": "1.0.6",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@art-ws/prettier",
+      "semver": "1.0.5",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@art-ws/prettier",
+      "semver": "1.0.6",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@art-ws/slf",
+      "semver": "2.0.15",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@art-ws/slf",
+      "semver": "2.0.22",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@art-ws/ssl-info",
+      "semver": "1.0.10",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@art-ws/ssl-info",
+      "semver": "1.0.9",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@art-ws/web-app",
+      "semver": "1.0.3",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@art-ws/web-app",
+      "semver": "1.0.4",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@basic-ui-components-stc/basic-ui-components",
+      "semver": "1.0.5",
+      "sources": [
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@crowdstrike/commitlint",
+      "semver": "8.1.1",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@crowdstrike/commitlint",
+      "semver": "8.1.2",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@crowdstrike/falcon-shoelace",
+      "semver": "0.4.1",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@crowdstrike/falcon-shoelace",
+      "semver": "0.4.2",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@crowdstrike/foundry-js",
+      "semver": "0.19.1",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@crowdstrike/foundry-js",
+      "semver": "0.19.2",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@crowdstrike/glide-core",
+      "semver": "0.34.2",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@crowdstrike/glide-core",
+      "semver": "0.34.3",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@crowdstrike/logscale-dashboard",
+      "semver": "1.205.1",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@crowdstrike/logscale-dashboard",
+      "semver": "1.205.2",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@crowdstrike/logscale-file-editor",
+      "semver": "1.205.1",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@crowdstrike/logscale-file-editor",
+      "semver": "1.205.2",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@crowdstrike/logscale-parser-edit",
+      "semver": "1.205.1",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@crowdstrike/logscale-parser-edit",
+      "semver": "1.205.2",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@crowdstrike/logscale-search",
+      "semver": "1.205.1",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@crowdstrike/logscale-search",
+      "semver": "1.205.2",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@crowdstrike/tailwind-toucan-base",
+      "semver": "5.0.1",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@crowdstrike/tailwind-toucan-base",
+      "semver": "5.0.2",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@ctrl/deluge",
+      "semver": "7.2.1",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@ctrl/deluge",
+      "semver": "7.2.2",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@ctrl/golang-template",
+      "semver": "1.4.2",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@ctrl/golang-template",
+      "semver": "1.4.3",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@ctrl/magnet-link",
+      "semver": "4.0.3",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@ctrl/magnet-link",
+      "semver": "4.0.4",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@ctrl/ngx-codemirror",
+      "semver": "7.0.1",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@ctrl/ngx-codemirror",
+      "semver": "7.0.2",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@ctrl/ngx-csv",
+      "semver": "6.0.1",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@ctrl/ngx-csv",
+      "semver": "6.0.2",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@ctrl/ngx-emoji-mart",
+      "semver": "9.2.1",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@ctrl/ngx-emoji-mart",
+      "semver": "9.2.2",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@ctrl/ngx-rightclick",
+      "semver": "4.0.1",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@ctrl/ngx-rightclick",
+      "semver": "4.0.2",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@ctrl/qbittorrent",
+      "semver": "9.7.1",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@ctrl/qbittorrent",
+      "semver": "9.7.2",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@ctrl/react-adsense",
+      "semver": "2.0.1",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@ctrl/react-adsense",
+      "semver": "2.0.2",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@ctrl/shared-torrent",
+      "semver": "6.3.1",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@ctrl/shared-torrent",
+      "semver": "6.3.2",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@ctrl/tinycolor",
+      "semver": "4.1.1",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@ctrl/tinycolor",
+      "semver": "4.1.2",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@ctrl/torrent-file",
+      "semver": "4.1.1",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@ctrl/torrent-file",
+      "semver": "4.1.2",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@ctrl/transmission",
+      "semver": "7.3.1",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@ctrl/ts-base32",
+      "semver": "4.0.1",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@ctrl/ts-base32",
+      "semver": "4.0.2",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@hestjs/core",
+      "semver": "0.2.1",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@hestjs/cqrs",
+      "semver": "0.1.6",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@hestjs/demo",
+      "semver": "0.1.2",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@hestjs/eslint-config",
+      "semver": "0.1.2",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@hestjs/logger",
+      "semver": "0.1.6",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@hestjs/scalar",
+      "semver": "0.1.7",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@hestjs/validation",
+      "semver": "0.1.6",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nativescript-community/arraybuffers",
+      "semver": "1.1.6",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nativescript-community/arraybuffers",
+      "semver": "1.1.7",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nativescript-community/arraybuffers",
+      "semver": "1.1.8",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nativescript-community/gesturehandler",
+      "semver": "2.0.35",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nativescript-community/perms",
+      "semver": "3.0.5",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nativescript-community/perms",
+      "semver": "3.0.6",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nativescript-community/perms",
+      "semver": "3.0.7",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nativescript-community/perms",
+      "semver": "3.0.8",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nativescript-community/perms",
+      "semver": "3.0.9",
+      "sources": [
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nativescript-community/sentry",
+      "semver": "4.6.43",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nativescript-community/sqlite",
+      "semver": "3.5.2",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nativescript-community/sqlite",
+      "semver": "3.5.3",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nativescript-community/sqlite",
+      "semver": "3.5.4",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nativescript-community/sqlite",
+      "semver": "3.5.5",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nativescript-community/text",
+      "semver": "1.6.10",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nativescript-community/text",
+      "semver": "1.6.11",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nativescript-community/text",
+      "semver": "1.6.12",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nativescript-community/text",
+      "semver": "1.6.13",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nativescript-community/text",
+      "semver": "1.6.9",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nativescript-community/typeorm",
+      "semver": "0.2.30",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nativescript-community/typeorm",
+      "semver": "0.2.31",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nativescript-community/typeorm",
+      "semver": "0.2.32",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nativescript-community/typeorm",
+      "semver": "0.2.33",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nativescript-community/ui-collectionview",
+      "semver": "6.0.6",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nativescript-community/ui-document-picker",
+      "semver": "1.1.27",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nativescript-community/ui-document-picker",
+      "semver": "1.1.28",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nativescript-community/ui-document-picker",
+      "semver": "13.0.32",
+      "sources": [
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nativescript-community/ui-drawer",
+      "semver": "0.1.30",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nativescript-community/ui-image",
+      "semver": "4.5.6",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nativescript-community/ui-label",
+      "semver": "1.3.35",
+      "sources": [
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nativescript-community/ui-label",
+      "semver": "1.3.36",
+      "sources": [
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nativescript-community/ui-label",
+      "semver": "1.3.37",
+      "sources": [
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nativescript-community/ui-material-bottom-navigation",
+      "semver": "7.2.72",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nativescript-community/ui-material-bottom-navigation",
+      "semver": "7.2.73",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nativescript-community/ui-material-bottom-navigation",
+      "semver": "7.2.74",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nativescript-community/ui-material-bottom-navigation",
+      "semver": "7.2.75",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nativescript-community/ui-material-bottomsheet",
+      "semver": "7.2.72",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nativescript-community/ui-material-core-tabs",
+      "semver": "7.2.72",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nativescript-community/ui-material-core-tabs",
+      "semver": "7.2.73",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nativescript-community/ui-material-core-tabs",
+      "semver": "7.2.74",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nativescript-community/ui-material-core-tabs",
+      "semver": "7.2.75",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nativescript-community/ui-material-core-tabs",
+      "semver": "7.2.76",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nativescript-community/ui-material-core",
+      "semver": "7.2.72",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nativescript-community/ui-material-core",
+      "semver": "7.2.73",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nativescript-community/ui-material-core",
+      "semver": "7.2.74",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nativescript-community/ui-material-core",
+      "semver": "7.2.75",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nativescript-community/ui-material-core",
+      "semver": "7.2.76",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nativescript-community/ui-material-ripple",
+      "semver": "7.2.72",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nativescript-community/ui-material-ripple",
+      "semver": "7.2.73",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nativescript-community/ui-material-ripple",
+      "semver": "7.2.74",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nativescript-community/ui-material-ripple",
+      "semver": "7.2.75",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nativescript-community/ui-material-tabs",
+      "semver": "7.2.72",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nativescript-community/ui-material-tabs",
+      "semver": "7.2.73",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nativescript-community/ui-material-tabs",
+      "semver": "7.2.74",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nativescript-community/ui-material-tabs",
+      "semver": "7.2.75",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nativescript-community/ui-pager",
+      "semver": "14.1.36",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nativescript-community/ui-pager",
+      "semver": "14.1.37",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nativescript-community/ui-pager",
+      "semver": "14.1.38",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nativescript-community/ui-pulltorefresh",
+      "semver": "2.5.4",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nativescript-community/ui-pulltorefresh",
+      "semver": "2.5.5",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nativescript-community/ui-pulltorefresh",
+      "semver": "2.5.6",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nativescript-community/ui-pulltorefresh",
+      "semver": "2.5.7",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nexe/config-manager",
+      "semver": "0.1.1",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nexe/eslint-config",
+      "semver": "0.1.1",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nexe/logger",
+      "semver": "0.1.3",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nstudio/angular",
+      "semver": "20.0.4",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nstudio/angular",
+      "semver": "20.0.5",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nstudio/angular",
+      "semver": "20.0.6",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nstudio/focus",
+      "semver": "20.0.4",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nstudio/focus",
+      "semver": "20.0.5",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nstudio/focus",
+      "semver": "20.0.6",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nstudio/nativescript-checkbox",
+      "semver": "2.0.6",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nstudio/nativescript-checkbox",
+      "semver": "2.0.7",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nstudio/nativescript-checkbox",
+      "semver": "2.0.8",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nstudio/nativescript-checkbox",
+      "semver": "2.0.9",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nstudio/nativescript-loading-indicator",
+      "semver": "5.0.1",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nstudio/nativescript-loading-indicator",
+      "semver": "5.0.2",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nstudio/nativescript-loading-indicator",
+      "semver": "5.0.3",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nstudio/nativescript-loading-indicator",
+      "semver": "5.0.4",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nstudio/ui-collectionview",
+      "semver": "5.1.11",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nstudio/ui-collectionview",
+      "semver": "5.1.12",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nstudio/ui-collectionview",
+      "semver": "5.1.13",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nstudio/ui-collectionview",
+      "semver": "5.1.14",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nstudio/web-angular",
+      "semver": "20.0.4",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nstudio/web",
+      "semver": "20.0.4",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nstudio/xplat-utils",
+      "semver": "20.0.5",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nstudio/xplat-utils",
+      "semver": "20.0.6",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nstudio/xplat-utils",
+      "semver": "20.0.7",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nstudio/xplat",
+      "semver": "20.0.5",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nstudio/xplat",
+      "semver": "20.0.6",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@nstudio/xplat",
+      "semver": "20.0.7",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/board",
+      "semver": "9.0.36",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/board",
+      "semver": "9.0.37",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/board",
+      "semver": "9.0.38",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/board",
+      "semver": "9.0.39",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/board",
+      "semver": "9.0.40",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/board",
+      "semver": "9.0.41",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/board",
+      "semver": "9.0.42",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/board",
+      "semver": "9.0.43",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/board",
+      "semver": "9.0.44",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/board",
+      "semver": "9.0.45",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/board",
+      "semver": "9.0.46",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/board",
+      "semver": "9.0.47",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised"
+      ]
+    },
+    {
+      "pkg": "@operato/board",
+      "semver": "9.0.48",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised"
+      ]
+    },
+    {
+      "pkg": "@operato/board",
+      "semver": "9.0.49",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised"
+      ]
+    },
+    {
+      "pkg": "@operato/board",
+      "semver": "9.0.50",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised"
+      ]
+    },
+    {
+      "pkg": "@operato/board",
+      "semver": "9.0.51",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised"
+      ]
+    },
+    {
+      "pkg": "@operato/data-grist",
+      "semver": "9.0.29",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/data-grist",
+      "semver": "9.0.35",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/data-grist",
+      "semver": "9.0.36",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/data-grist",
+      "semver": "9.0.37",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/graphql",
+      "semver": "9.0.22",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/graphql",
+      "semver": "9.0.35",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/graphql",
+      "semver": "9.0.36",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/graphql",
+      "semver": "9.0.37",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/graphql",
+      "semver": "9.0.38",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/graphql",
+      "semver": "9.0.39",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/graphql",
+      "semver": "9.0.40",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/graphql",
+      "semver": "9.0.41",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/graphql",
+      "semver": "9.0.42",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/graphql",
+      "semver": "9.0.43",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/graphql",
+      "semver": "9.0.44",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/graphql",
+      "semver": "9.0.45",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/graphql",
+      "semver": "9.0.46",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/headroom",
+      "semver": "9.0.2",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/headroom",
+      "semver": "9.0.35",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/headroom",
+      "semver": "9.0.36",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/headroom",
+      "semver": "9.0.37",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/help",
+      "semver": "9.0.35",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/help",
+      "semver": "9.0.36",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/help",
+      "semver": "9.0.37",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/help",
+      "semver": "9.0.38",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/help",
+      "semver": "9.0.39",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/help",
+      "semver": "9.0.40",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/help",
+      "semver": "9.0.41",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/help",
+      "semver": "9.0.42",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/help",
+      "semver": "9.0.43",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/help",
+      "semver": "9.0.44",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/help",
+      "semver": "9.0.45",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/help",
+      "semver": "9.0.46",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/i18n",
+      "semver": "9.0.35",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/i18n",
+      "semver": "9.0.36",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/i18n",
+      "semver": "9.0.37",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/input",
+      "semver": "9.0.27",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/input",
+      "semver": "9.0.35",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/input",
+      "semver": "9.0.36",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/input",
+      "semver": "9.0.37",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/input",
+      "semver": "9.0.38",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/input",
+      "semver": "9.0.39",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/input",
+      "semver": "9.0.40",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/input",
+      "semver": "9.0.41",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/input",
+      "semver": "9.0.42",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/input",
+      "semver": "9.0.43",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/input",
+      "semver": "9.0.44",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/input",
+      "semver": "9.0.45",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/input",
+      "semver": "9.0.46",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/input",
+      "semver": "9.0.47",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/input",
+      "semver": "9.0.48",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/layout",
+      "semver": "9.0.35",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/layout",
+      "semver": "9.0.36",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/layout",
+      "semver": "9.0.37",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/popup",
+      "semver": "9.0.22",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/popup",
+      "semver": "9.0.35",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/popup",
+      "semver": "9.0.36",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/popup",
+      "semver": "9.0.37",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/popup",
+      "semver": "9.0.38",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/popup",
+      "semver": "9.0.39",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/popup",
+      "semver": "9.0.40",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/popup",
+      "semver": "9.0.41",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/popup",
+      "semver": "9.0.42",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/popup",
+      "semver": "9.0.43",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/popup",
+      "semver": "9.0.44",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/popup",
+      "semver": "9.0.45",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/popup",
+      "semver": "9.0.46",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/popup",
+      "semver": "9.0.49",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/pull-to-refresh",
+      "semver": "9.0.36",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/pull-to-refresh",
+      "semver": "9.0.37",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/pull-to-refresh",
+      "semver": "9.0.38",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/pull-to-refresh",
+      "semver": "9.0.39",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/pull-to-refresh",
+      "semver": "9.0.40",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/pull-to-refresh",
+      "semver": "9.0.41",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/pull-to-refresh",
+      "semver": "9.0.42",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/shell",
+      "semver": "9.0.22",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/shell",
+      "semver": "9.0.35",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/shell",
+      "semver": "9.0.36",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/shell",
+      "semver": "9.0.37",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/shell",
+      "semver": "9.0.38",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/shell",
+      "semver": "9.0.39",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/styles",
+      "semver": "9.0.2",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/styles",
+      "semver": "9.0.35",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/styles",
+      "semver": "9.0.36",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/styles",
+      "semver": "9.0.37",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/utils",
+      "semver": "9.0.22",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/utils",
+      "semver": "9.0.35",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/utils",
+      "semver": "9.0.36",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/utils",
+      "semver": "9.0.37",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/utils",
+      "semver": "9.0.38",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/utils",
+      "semver": "9.0.39",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/utils",
+      "semver": "9.0.40",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/utils",
+      "semver": "9.0.41",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/utils",
+      "semver": "9.0.42",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/utils",
+      "semver": "9.0.43",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/utils",
+      "semver": "9.0.44",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/utils",
+      "semver": "9.0.45",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/utils",
+      "semver": "9.0.46",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@operato/utils",
+      "semver": "9.0.49",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@teselagen/bio-parsers",
+      "semver": "0.4.29",
+      "sources": [
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@teselagen/bio-parsers",
+      "semver": "0.4.30",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@teselagen/bounce-loader",
+      "semver": "0.3.16",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@teselagen/bounce-loader",
+      "semver": "0.3.17",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@teselagen/file-utils",
+      "semver": "0.3.21",
+      "sources": [
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@teselagen/file-utils",
+      "semver": "0.3.22",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@teselagen/liquibase-tools",
+      "semver": "0.4.1",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@teselagen/ove",
+      "semver": "0.7.39",
+      "sources": [
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@teselagen/ove",
+      "semver": "0.7.40",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@teselagen/range-utils",
+      "semver": "0.3.14",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@teselagen/range-utils",
+      "semver": "0.3.15",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@teselagen/react-list",
+      "semver": "0.8.19",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@teselagen/react-list",
+      "semver": "0.8.20",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@teselagen/react-table",
+      "semver": "6.10.19",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@teselagen/react-table",
+      "semver": "6.10.20",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@teselagen/react-table",
+      "semver": "6.10.21",
+      "sources": [
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@teselagen/react-table",
+      "semver": "6.10.22",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@teselagen/sequence-utils",
+      "semver": "0.3.33",
+      "sources": [
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@teselagen/sequence-utils",
+      "semver": "0.3.34",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@teselagen/ui",
+      "semver": "0.9.10",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@teselagen/ui",
+      "semver": "0.9.9",
+      "sources": [
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@thangved/callback-window",
+      "semver": "1.1.4",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@things-factory/attachment-base",
+      "semver": "9.0.42",
+      "sources": [
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@things-factory/attachment-base",
+      "semver": "9.0.43",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@things-factory/attachment-base",
+      "semver": "9.0.44",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@things-factory/attachment-base",
+      "semver": "9.0.45",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@things-factory/attachment-base",
+      "semver": "9.0.46",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@things-factory/attachment-base",
+      "semver": "9.0.47",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@things-factory/attachment-base",
+      "semver": "9.0.48",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@things-factory/attachment-base",
+      "semver": "9.0.49",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@things-factory/attachment-base",
+      "semver": "9.0.50",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@things-factory/attachment-base",
+      "semver": "9.0.51",
+      "sources": [
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@things-factory/attachment-base",
+      "semver": "9.0.52",
+      "sources": [
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@things-factory/attachment-base",
+      "semver": "9.0.53",
+      "sources": [
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@things-factory/attachment-base",
+      "semver": "9.0.54",
+      "sources": [
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@things-factory/attachment-base",
+      "semver": "9.0.55",
+      "sources": [
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@things-factory/auth-base",
+      "semver": "9.0.42",
+      "sources": [
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@things-factory/auth-base",
+      "semver": "9.0.43",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@things-factory/auth-base",
+      "semver": "9.0.44",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@things-factory/auth-base",
+      "semver": "9.0.45",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@things-factory/email-base",
+      "semver": "9.0.42",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@things-factory/email-base",
+      "semver": "9.0.43",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@things-factory/email-base",
+      "semver": "9.0.44",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@things-factory/email-base",
+      "semver": "9.0.45",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@things-factory/email-base",
+      "semver": "9.0.46",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@things-factory/email-base",
+      "semver": "9.0.47",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@things-factory/email-base",
+      "semver": "9.0.48",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@things-factory/email-base",
+      "semver": "9.0.49",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@things-factory/email-base",
+      "semver": "9.0.50",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@things-factory/email-base",
+      "semver": "9.0.51",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@things-factory/email-base",
+      "semver": "9.0.52",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@things-factory/email-base",
+      "semver": "9.0.53",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@things-factory/email-base",
+      "semver": "9.0.54",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@things-factory/email-base",
+      "semver": "9.0.55",
+      "sources": [
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@things-factory/email-base",
+      "semver": "9.0.56",
+      "sources": [
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@things-factory/email-base",
+      "semver": "9.0.57",
+      "sources": [
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@things-factory/email-base",
+      "semver": "9.0.58",
+      "sources": [
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@things-factory/email-base",
+      "semver": "9.0.59",
+      "sources": [
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@things-factory/env",
+      "semver": "9.0.42",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@things-factory/env",
+      "semver": "9.0.43",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@things-factory/env",
+      "semver": "9.0.44",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@things-factory/env",
+      "semver": "9.0.45",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@things-factory/integration-base",
+      "semver": "9.0.42",
+      "sources": [
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@things-factory/integration-base",
+      "semver": "9.0.43",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@things-factory/integration-base",
+      "semver": "9.0.44",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@things-factory/integration-base",
+      "semver": "9.0.45",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@things-factory/integration-marketplace",
+      "semver": "9.0.42",
+      "sources": [
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@things-factory/integration-marketplace",
+      "semver": "9.0.43",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@things-factory/integration-marketplace",
+      "semver": "9.0.44",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@things-factory/integration-marketplace",
+      "semver": "9.0.45",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@things-factory/shell",
+      "semver": "9.0.42",
+      "sources": [
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@things-factory/shell",
+      "semver": "9.0.43",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@things-factory/shell",
+      "semver": "9.0.44",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@things-factory/shell",
+      "semver": "9.0.45",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@tnf-dev/api",
+      "semver": "1.0.8",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@tnf-dev/core",
+      "semver": "1.0.8",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@tnf-dev/js",
+      "semver": "1.0.8",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@tnf-dev/mui",
+      "semver": "1.0.8",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@tnf-dev/react",
+      "semver": "1.0.8",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@ui-ux-gang/devextreme-angular-rpk",
+      "semver": "24.1.7",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@yoobic/design-system",
+      "semver": "6.5.17",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@yoobic/jpeg-camera-es6",
+      "semver": "1.0.13",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "@yoobic/yobi",
+      "semver": "8.7.53",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "airchief",
+      "semver": "0.3.1",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "airpilot",
+      "semver": "0.8.8",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "angulartics2",
+      "semver": "14.1.1",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "angulartics2",
+      "semver": "14.1.2",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "browser-webdriver-downloader",
+      "semver": "3.0.8",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "capacitor-notificationhandler",
+      "semver": "0.0.2",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "capacitor-notificationhandler",
+      "semver": "0.0.3",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "capacitor-plugin-healthapp",
+      "semver": "0.0.2",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "capacitor-plugin-healthapp",
+      "semver": "0.0.3",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "capacitor-plugin-ihealth",
+      "semver": "1.1.8",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "capacitor-plugin-ihealth",
+      "semver": "1.1.9",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "capacitor-plugin-vonage",
+      "semver": "1.0.2",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "capacitor-plugin-vonage",
+      "semver": "1.0.3",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "capacitorandroidpermissions",
+      "semver": "0.0.4",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "capacitorandroidpermissions",
+      "semver": "0.0.5",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "config-cordova",
+      "semver": "0.8.5",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "cordova-plugin-voxeet2",
+      "semver": "1.0.24",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "cordova-voxeet",
+      "semver": "1.0.32",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "create-hest-app",
+      "semver": "0.1.9",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "db-evo",
+      "semver": "1.1.4",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "db-evo",
+      "semver": "1.1.5",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "devextreme-angular-rpk",
+      "semver": "21.2.8",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "devextreme-rpk",
+      "semver": "21.2.8",
+      "sources": [
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "ember-browser-services",
+      "semver": "5.0.2",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "ember-browser-services",
+      "semver": "5.0.3",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "ember-headless-form-yup",
+      "semver": "1.0.1",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "ember-headless-form",
+      "semver": "1.1.2",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "ember-headless-form",
+      "semver": "1.1.3",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "ember-headless-table",
+      "semver": "2.1.5",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "ember-headless-table",
+      "semver": "2.1.6",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "ember-url-hash-polyfill",
+      "semver": "1.0.12",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "ember-url-hash-polyfill",
+      "semver": "1.0.13",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "ember-velcro",
+      "semver": "2.2.1",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "ember-velcro",
+      "semver": "2.2.2",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "encounter-playground",
+      "semver": "0.0.2",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "encounter-playground",
+      "semver": "0.0.3",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "encounter-playground",
+      "semver": "0.0.4",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "encounter-playground",
+      "semver": "0.0.5",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "eslint-config-crowdstrike-node",
+      "semver": "4.0.3",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "eslint-config-crowdstrike-node",
+      "semver": "4.0.4",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "eslint-config-crowdstrike",
+      "semver": "11.0.2",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "eslint-config-crowdstrike",
+      "semver": "11.0.3",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "eslint-config-teselagen",
+      "semver": "6.1.7",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "eslint-config-teselagen",
+      "semver": "6.1.8",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "globalize-rpk",
+      "semver": "1.7.4",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "graphql-sequelize-teselagen",
+      "semver": "5.3.8",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "graphql-sequelize-teselagen",
+      "semver": "5.3.9",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "html-to-base64-image",
+      "semver": "1.0.2",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "json-rules-engine-simplified",
+      "semver": "0.2.1",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "json-rules-engine-simplified",
+      "semver": "0.2.3",
+      "sources": [
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "json-rules-engine-simplified",
+      "semver": "0.2.4",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "jumpgate",
+      "semver": "0.0.2",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "koa2-swagger-ui",
+      "semver": "5.11.1",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "koa2-swagger-ui",
+      "semver": "5.11.2",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "mcfly-semantic-release",
+      "semver": "1.3.1",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "mcp-knowledge-base",
+      "semver": "0.0.2",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "mcp-knowledge-graph",
+      "semver": "1.2.1",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "mobioffice-cli",
+      "semver": "1.0.3",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "monorepo-next",
+      "semver": "13.0.1",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "monorepo-next",
+      "semver": "13.0.2",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "mstate-angular",
+      "semver": "0.4.4",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "mstate-cli",
+      "semver": "0.4.7",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "mstate-dev-react",
+      "semver": "1.1.1",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "mstate-react",
+      "semver": "1.6.5",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "ng2-file-upload",
+      "semver": "7.0.2",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "ng2-file-upload",
+      "semver": "7.0.3",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "ng2-file-upload",
+      "semver": "8.0.1",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "ng2-file-upload",
+      "semver": "8.0.2",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "ng2-file-upload",
+      "semver": "8.0.3",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "ng2-file-upload",
+      "semver": "9.0.1",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "ngx-bootstrap",
+      "semver": "18.1.4",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "ngx-bootstrap",
+      "semver": "19.0.3",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "ngx-bootstrap",
+      "semver": "19.0.4",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "ngx-bootstrap",
+      "semver": "20.0.3",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "ngx-bootstrap",
+      "semver": "20.0.4",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "ngx-bootstrap",
+      "semver": "20.0.5",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "ngx-bootstrap",
+      "semver": "20.0.6",
+      "sources": [
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "ngx-color",
+      "semver": "10.0.1",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "ngx-color",
+      "semver": "10.0.2",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "ngx-toastr",
+      "semver": "19.0.1",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "ngx-toastr",
+      "semver": "19.0.2",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "ngx-trend",
+      "semver": "8.0.1",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "ngx-ws",
+      "semver": "1.1.5",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "ngx-ws",
+      "semver": "1.1.6",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "oradm-to-gql",
+      "semver": "35.0.14",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "oradm-to-gql",
+      "semver": "35.0.15",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "oradm-to-sqlz",
+      "semver": "1.1.2",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "oradm-to-sqlz",
+      "semver": "1.1.4",
+      "sources": [
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "oradm-to-sqlz",
+      "semver": "1.1.5",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised"
+      ]
+    },
+    {
+      "pkg": "ove-auto-annotate",
+      "semver": "0.0.10",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "ove-auto-annotate",
+      "semver": "0.0.9",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "pm2-gelf-json",
+      "semver": "1.0.4",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "pm2-gelf-json",
+      "semver": "1.0.5",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "printjs-rpk",
+      "semver": "1.6.1",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "react-complaint-image",
+      "semver": "0.0.32",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "react-complaint-image",
+      "semver": "0.0.34",
+      "sources": [
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "react-complaint-image",
+      "semver": "0.0.35",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "react-jsonschema-form-conditionals",
+      "semver": "0.3.18",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "react-jsonschema-form-conditionals",
+      "semver": "0.3.20",
+      "sources": [
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "react-jsonschema-form-conditionals",
+      "semver": "0.3.21",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "react-jsonschema-form-extras",
+      "semver": "1.0.3",
+      "sources": [
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "react-jsonschema-form-extras",
+      "semver": "1.0.4",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "react-jsonschema-rxnt-extras",
+      "semver": "0.4.8",
+      "sources": [
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "react-jsonschema-rxnt-extras",
+      "semver": "0.4.9",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "remark-preset-lint-crowdstrike",
+      "semver": "4.0.1",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "remark-preset-lint-crowdstrike",
+      "semver": "4.0.2",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "rxnt-authentication",
+      "semver": "0.0.3",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "rxnt-authentication",
+      "semver": "0.0.4",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "rxnt-authentication",
+      "semver": "0.0.5",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "rxnt-authentication",
+      "semver": "0.0.6",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "rxnt-healthchecks-nestjs",
+      "semver": "1.0.2",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "rxnt-healthchecks-nestjs",
+      "semver": "1.0.3",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "rxnt-healthchecks-nestjs",
+      "semver": "1.0.4",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "rxnt-healthchecks-nestjs",
+      "semver": "1.0.5",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "rxnt-kue",
+      "semver": "1.0.4",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "rxnt-kue",
+      "semver": "1.0.5",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "rxnt-kue",
+      "semver": "1.0.6",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "rxnt-kue",
+      "semver": "1.0.7",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "swc-plugin-component-annotate",
+      "semver": "1.9.1",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "swc-plugin-component-annotate",
+      "semver": "1.9.2",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "tbssnch",
+      "semver": "1.0.2",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "teselagen-interval-tree",
+      "semver": "1.1.2",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "tg-client-query-builder",
+      "semver": "2.14.4",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "tg-client-query-builder",
+      "semver": "2.14.5",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "tg-redbird",
+      "semver": "1.3.1",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "tg-redbird",
+      "semver": "1.3.2",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "tg-seq-gen",
+      "semver": "1.0.10",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "tg-seq-gen",
+      "semver": "1.0.9",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "thangved-react-grid",
+      "semver": "1.0.3",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "ts-gaussian",
+      "semver": "3.0.5",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "ts-gaussian",
+      "semver": "3.0.6",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "ts-imports",
+      "semver": "1.0.1",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "ts-imports",
+      "semver": "1.0.2",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "tvi-cli",
+      "semver": "0.1.5",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "ve-bamreader",
+      "semver": "0.2.6",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "ve-bamreader",
+      "semver": "0.2.7",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "ve-editor",
+      "semver": "1.0.1",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "ve-editor",
+      "semver": "1.0.2",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "verror-extra",
+      "semver": "6.0.1",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "voip-callkit",
+      "semver": "1.0.2",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "voip-callkit",
+      "semver": "1.0.3",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "wdio-web-reporter",
+      "semver": "0.1.3",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "yargs-help-output",
+      "semver": "5.0.3",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    },
+    {
+      "pkg": "yoo-styles",
+      "semver": "6.0.326",
+      "sources": [
+        "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+        "https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack"
+      ]
+    }
+  ]
+}

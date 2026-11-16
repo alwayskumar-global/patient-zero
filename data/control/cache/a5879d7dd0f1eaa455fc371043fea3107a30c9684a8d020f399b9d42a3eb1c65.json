@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "pkg": "brace-expansion",
+  "source": "https://registry.npmjs.org/brace-expansion",
+  "fetchedAt": "2026-11-16T10:34:56.898Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 64
+  },
+  "sourceSha256": "c03c91177904c8c991b71cdea111f954a04a75d0fdf92813cad0eac2856233f1",
+  "versions": [
+    {
+      "pkg": "brace-expansion",
+      "semver": "1.0.1",
+      "publishedAt": "2014-12-03T07:58:39.708Z",
+      "publisher": "isaacs",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "concat-map": "0.0.0",
+        "balanced-match": "^0.2.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/brace-expansion",
+          "observedAt": "2026-11-16T10:34:56.898Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/brace-expansion",
+          "observedAt": "2026-11-16T10:34:56.898Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/brace-expansion",
+          "observedAt": "2026-11-16T10:34:56.898Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/brace-expansion",
+          "observedAt": "2026-11-16T10:34:56.898Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/brace-expansion",
+          "observedAt": "2026-11-16T10:34:56.898Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "brace-expansion",
+      "semver": "1.1.12",
+      "publishedAt": "2025-06-11T08:52:58.148Z",
+      "publisher": "juliangruber",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 11107,
+      "dependencies": {
+        "concat-map": "0.0.1",
+        "balanced-match": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/brace-expansion",
+          "observedAt": "2026-11-16T10:34:56.898Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/brace-expansion",
+          "observedAt": "2026-11-16T10:34:56.898Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/brace-expansion",
+          "observedAt": "2026-11-16T10:34:56.898Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/brace-expansion",
+          "observedAt": "2026-11-16T10:34:56.898Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/brace-expansion",
+          "observedAt": "2026-11-16T10:34:56.898Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/brace-expansion",
+          "observedAt": "2026-11-16T10:34:56.898Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

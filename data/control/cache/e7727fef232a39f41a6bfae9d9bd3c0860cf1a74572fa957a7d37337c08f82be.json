@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@types/semver",
+  "source": "https://registry.npmjs.org/%40types%2Fsemver",
+  "fetchedAt": "2026-11-16T10:34:51.693Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 59
+  },
+  "sourceSha256": "f544b68fc32f42fd025f15d6a5fb4120229968c61298466461cfc31aa9ac7858",
+  "versions": [
+    {
+      "pkg": "@types/semver",
+      "semver": "7.7.0",
+      "publishedAt": "2025-03-26T16:02:26.744Z",
+      "publisher": "types",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 23316,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40types%2Fsemver",
+          "observedAt": "2026-11-16T10:34:51.693Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40types%2Fsemver",
+          "observedAt": "2026-11-16T10:34:51.693Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40types%2Fsemver",
+          "observedAt": "2026-11-16T10:34:51.693Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40types%2Fsemver",
+          "observedAt": "2026-11-16T10:34:51.693Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40types%2Fsemver",
+          "observedAt": "2026-11-16T10:34:51.693Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40types%2Fsemver",
+          "observedAt": "2026-11-16T10:34:51.693Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@types/jsonwebtoken",
+  "source": "https://registry.npmjs.org/%40types%2Fjsonwebtoken",
+  "fetchedAt": "2026-11-16T10:34:50.881Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 55
+  },
+  "sourceSha256": "cd5241f20d25bab52ecea91eee2cbead9a4722e06c38ebd1f470370810a493c2",
+  "versions": [
+    {
+      "pkg": "@types/jsonwebtoken",
+      "semver": "9.0.10",
+      "publishedAt": "2025-06-16T07:36:00.187Z",
+      "publisher": "types",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 13712,
+      "dependencies": {
+        "@types/ms": "*",
+        "@types/node": "*"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40types%2Fjsonwebtoken",
+          "observedAt": "2026-11-16T10:34:50.881Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40types%2Fjsonwebtoken",
+          "observedAt": "2026-11-16T10:34:50.881Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40types%2Fjsonwebtoken",
+          "observedAt": "2026-11-16T10:34:50.881Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40types%2Fjsonwebtoken",
+          "observedAt": "2026-11-16T10:34:50.881Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40types%2Fjsonwebtoken",
+          "observedAt": "2026-11-16T10:34:50.881Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40types%2Fjsonwebtoken",
+          "observedAt": "2026-11-16T10:34:50.881Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

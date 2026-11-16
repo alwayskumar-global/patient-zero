@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "pkg": "json-stringify-safe",
+  "source": "https://registry.npmjs.org/json-stringify-safe",
+  "fetchedAt": "2026-11-16T10:35:08.851Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 5
+  },
+  "sourceSha256": "d8425129e52989752658bd4a9e0f5d6f0a5cc0802e98696aa3c4b52a71632927",
+  "versions": [
+    {
+      "pkg": "json-stringify-safe",
+      "semver": "5.0.1",
+      "publishedAt": "2015-05-19T01:42:09.719Z",
+      "publisher": "isaacs",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/json-stringify-safe",
+          "observedAt": "2026-11-16T10:35:08.851Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/json-stringify-safe",
+          "observedAt": "2026-11-16T10:35:08.851Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/json-stringify-safe",
+          "observedAt": "2026-11-16T10:35:08.851Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/json-stringify-safe",
+          "observedAt": "2026-11-16T10:35:08.851Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/json-stringify-safe",
+          "observedAt": "2026-11-16T10:35:08.851Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

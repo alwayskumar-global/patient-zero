@@ -1,0 +1,229 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@radix-ui/react-use-callback-ref",
+  "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-callback-ref",
+  "fetchedAt": "2026-11-16T10:34:37.827Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 100
+  },
+  "sourceSha256": "63de9a71745059073787776fcabed701a20cc378b68689ed7d55c2d36ada0c21",
+  "versions": [
+    {
+      "pkg": "@radix-ui/react-use-callback-ref",
+      "semver": "0.0.4",
+      "publishedAt": "2021-03-24T17:51:01.084Z",
+      "publisher": "jjenzz",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 5789,
+      "dependencies": {
+        "@babel/runtime": "^7.13.10"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-callback-ref",
+          "observedAt": "2026-11-16T10:34:37.827Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-callback-ref",
+          "observedAt": "2026-11-16T10:34:37.827Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-callback-ref",
+          "observedAt": "2026-11-16T10:34:37.827Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-callback-ref",
+          "observedAt": "2026-11-16T10:34:37.827Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-callback-ref",
+          "observedAt": "2026-11-16T10:34:37.827Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-callback-ref",
+          "observedAt": "2026-11-16T10:34:37.827Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@radix-ui/react-use-callback-ref",
+      "semver": "1.0.1",
+      "publishedAt": "2023-05-26T11:03:59.637Z",
+      "publisher": "benoitgrelard",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7148,
+      "dependencies": {
+        "@babel/runtime": "^7.13.10"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-callback-ref",
+          "observedAt": "2026-11-16T10:34:37.827Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-callback-ref",
+          "observedAt": "2026-11-16T10:34:37.827Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-callback-ref",
+          "observedAt": "2026-11-16T10:34:37.827Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-callback-ref",
+          "observedAt": "2026-11-16T10:34:37.827Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-callback-ref",
+          "observedAt": "2026-11-16T10:34:37.827Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-callback-ref",
+          "observedAt": "2026-11-16T10:34:37.827Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@radix-ui/react-use-callback-ref",
+      "semver": "1.1.0",
+      "publishedAt": "2024-06-19T19:58:40.971Z",
+      "publisher": "vladmoroz",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 6122,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-callback-ref",
+          "observedAt": "2026-11-16T10:34:37.827Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-callback-ref",
+          "observedAt": "2026-11-16T10:34:37.827Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-callback-ref",
+          "observedAt": "2026-11-16T10:34:37.827Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-callback-ref",
+          "observedAt": "2026-11-16T10:34:37.827Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-callback-ref",
+          "observedAt": "2026-11-16T10:34:37.827Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-callback-ref",
+          "observedAt": "2026-11-16T10:34:37.827Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@radix-ui/react-use-callback-ref",
+      "semver": "1.1.0-rc.7",
+      "publishedAt": "2024-06-19T19:54:55.338Z",
+      "publisher": "stephenhaney",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 6155,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-callback-ref",
+          "observedAt": "2026-11-16T10:34:37.827Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-callback-ref",
+          "observedAt": "2026-11-16T10:34:37.827Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-callback-ref",
+          "observedAt": "2026-11-16T10:34:37.827Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-callback-ref",
+          "observedAt": "2026-11-16T10:34:37.827Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-callback-ref",
+          "observedAt": "2026-11-16T10:34:37.827Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-callback-ref",
+          "observedAt": "2026-11-16T10:34:37.827Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@radix-ui/react-use-callback-ref",
+      "semver": "1.1.1",
+      "publishedAt": "2025-04-08T16:46:19.120Z",
+      "publisher": "chancestrickland",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 6846,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-callback-ref",
+          "observedAt": "2026-11-16T10:34:37.827Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-callback-ref",
+          "observedAt": "2026-11-16T10:34:37.827Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-callback-ref",
+          "observedAt": "2026-11-16T10:34:37.827Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-callback-ref",
+          "observedAt": "2026-11-16T10:34:37.827Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-callback-ref",
+          "observedAt": "2026-11-16T10:34:37.827Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-callback-ref",
+          "observedAt": "2026-11-16T10:34:37.827Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

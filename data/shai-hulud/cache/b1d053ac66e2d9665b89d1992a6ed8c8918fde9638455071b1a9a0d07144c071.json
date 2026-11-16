@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@ctrl/qbittorrent",
+  "source": "https://registry.npmjs.org/%40ctrl%2Fqbittorrent",
+  "fetchedAt": "2026-11-16T10:31:15.397Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 77
+  },
+  "sourceSha256": "297246dac0f4d9817d2afd15a95510729253f85ab562d017d64ac8438b6cf1e4",
+  "versions": [
+    {
+      "pkg": "@ctrl/qbittorrent",
+      "semver": "9.7.0",
+      "publishedAt": "2025-08-31T20:29:42.545Z",
+      "publisher": "scttcper",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 87941,
+      "dependencies": {
+        "ufo": "^1.6.1",
+        "cookie": "^1.0.2",
+        "ofetch": "^1.4.1",
+        "type-fest": "^4.41.0",
+        "@ctrl/magnet-link": "^4.0.2",
+        "node-fetch-native": "^1.6.7",
+        "uint8array-extras": "^1.5.0",
+        "@ctrl/torrent-file": "^4.1.0",
+        "@ctrl/shared-torrent": "^6.3.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fqbittorrent",
+          "observedAt": "2026-11-16T10:31:15.397Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fqbittorrent",
+          "observedAt": "2026-11-16T10:31:15.397Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fqbittorrent",
+          "observedAt": "2026-11-16T10:31:15.397Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fqbittorrent",
+          "observedAt": "2026-11-16T10:31:15.397Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fqbittorrent",
+          "observedAt": "2026-11-16T10:31:15.397Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fqbittorrent",
+          "observedAt": "2026-11-16T10:31:15.397Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@ctrl/qbittorrent",
+      "semver": "9.7.1",
+      "publishedAt": "2025-09-15T19:52:40.821Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fqbittorrent",
+          "observedAt": "2026-11-16T10:31:15.397Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@ctrl/qbittorrent",
+      "semver": "9.7.2",
+      "publishedAt": "2025-09-15T20:13:41.485Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fqbittorrent",
+          "observedAt": "2026-11-16T10:31:15.397Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@ctrl/qbittorrent",
+      "semver": "9.8.0",
+      "publishedAt": "2025-09-16T04:19:04.173Z",
+      "publisher": "scttcper",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 88007,
+      "dependencies": {
+        "ufo": "^1.6.1",
+        "cookie": "^1.0.2",
+        "ofetch": "^1.4.1",
+        "type-fest": "^4.41.0",
+        "@ctrl/magnet-link": "^4.0.2",
+        "node-fetch-native": "^1.6.7",
+        "uint8array-extras": "^1.5.0",
+        "@ctrl/torrent-file": "^4.1.0",
+        "@ctrl/shared-torrent": "^6.3.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fqbittorrent",
+          "observedAt": "2026-11-16T10:31:15.397Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fqbittorrent",
+          "observedAt": "2026-11-16T10:31:15.397Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fqbittorrent",
+          "observedAt": "2026-11-16T10:31:15.397Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fqbittorrent",
+          "observedAt": "2026-11-16T10:31:15.397Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fqbittorrent",
+          "observedAt": "2026-11-16T10:31:15.397Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fqbittorrent",
+          "observedAt": "2026-11-16T10:31:15.397Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

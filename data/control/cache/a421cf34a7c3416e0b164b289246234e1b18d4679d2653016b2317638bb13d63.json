@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@types/istanbul-lib-report",
+  "source": "https://registry.npmjs.org/%40types%2Fistanbul-lib-report",
+  "fetchedAt": "2026-11-16T10:34:50.792Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 6
+  },
+  "sourceSha256": "b0b1ebd0def18e30ab70743d331d782fd48834b0e5cdb8f8d11252d9762141be",
+  "versions": [
+    {
+      "pkg": "@types/istanbul-lib-report",
+      "semver": "3.0.3",
+      "publishedAt": "2023-11-07T08:11:08.313Z",
+      "publisher": "types",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7917,
+      "dependencies": {
+        "@types/istanbul-lib-coverage": "*"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40types%2Fistanbul-lib-report",
+          "observedAt": "2026-11-16T10:34:50.792Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40types%2Fistanbul-lib-report",
+          "observedAt": "2026-11-16T10:34:50.792Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40types%2Fistanbul-lib-report",
+          "observedAt": "2026-11-16T10:34:50.792Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40types%2Fistanbul-lib-report",
+          "observedAt": "2026-11-16T10:34:50.792Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40types%2Fistanbul-lib-report",
+          "observedAt": "2026-11-16T10:34:50.792Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40types%2Fistanbul-lib-report",
+          "observedAt": "2026-11-16T10:34:50.792Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

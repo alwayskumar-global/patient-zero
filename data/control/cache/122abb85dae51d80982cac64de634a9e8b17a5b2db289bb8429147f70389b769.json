@@ -1,0 +1,325 @@
+{
+  "schemaVersion": 1,
+  "pkg": "write-file-atomic",
+  "source": "https://registry.npmjs.org/write-file-atomic",
+  "fetchedAt": "2026-11-16T10:35:35.111Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 35
+  },
+  "sourceSha256": "af4ab2f0b497810f6b77b1319798f522d7ec5d47133bc29b75b2cde9288d2215",
+  "versions": [
+    {
+      "pkg": "write-file-atomic",
+      "semver": "1.1.4",
+      "publishedAt": "2015-12-03T22:04:24.581Z",
+      "publisher": "othiym23",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "slide": "^1.1.5",
+        "graceful-fs": "^4.1.2",
+        "imurmurhash": "^0.1.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/write-file-atomic",
+          "observedAt": "2026-11-16T10:35:35.111Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/write-file-atomic",
+          "observedAt": "2026-11-16T10:35:35.111Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/write-file-atomic",
+          "observedAt": "2026-11-16T10:35:35.111Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/write-file-atomic",
+          "observedAt": "2026-11-16T10:35:35.111Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/write-file-atomic",
+          "observedAt": "2026-11-16T10:35:35.111Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "write-file-atomic",
+      "semver": "2.1.0",
+      "publishedAt": "2017-05-13T19:45:53.878Z",
+      "publisher": "zkat",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "slide": "^1.1.5",
+        "graceful-fs": "^4.1.11",
+        "imurmurhash": "^0.1.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/write-file-atomic",
+          "observedAt": "2026-11-16T10:35:35.111Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/write-file-atomic",
+          "observedAt": "2026-11-16T10:35:35.111Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/write-file-atomic",
+          "observedAt": "2026-11-16T10:35:35.111Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/write-file-atomic",
+          "observedAt": "2026-11-16T10:35:35.111Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/write-file-atomic",
+          "observedAt": "2026-11-16T10:35:35.111Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "write-file-atomic",
+      "semver": "2.4.2",
+      "publishedAt": "2019-01-23T01:23:41.137Z",
+      "publisher": "iarna",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 11900,
+      "dependencies": {
+        "graceful-fs": "^4.1.11",
+        "imurmurhash": "^0.1.4",
+        "signal-exit": "^3.0.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/write-file-atomic",
+          "observedAt": "2026-11-16T10:35:35.111Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/write-file-atomic",
+          "observedAt": "2026-11-16T10:35:35.111Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/write-file-atomic",
+          "observedAt": "2026-11-16T10:35:35.111Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/write-file-atomic",
+          "observedAt": "2026-11-16T10:35:35.111Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/write-file-atomic",
+          "observedAt": "2026-11-16T10:35:35.111Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/write-file-atomic",
+          "observedAt": "2026-11-16T10:35:35.111Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "write-file-atomic",
+      "semver": "3.0.3",
+      "publishedAt": "2020-02-24T22:27:04.013Z",
+      "publisher": "isaacs",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 12787,
+      "dependencies": {
+        "imurmurhash": "^0.1.4",
+        "signal-exit": "^3.0.2",
+        "is-typedarray": "^1.0.0",
+        "typedarray-to-buffer": "^3.1.5"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/write-file-atomic",
+          "observedAt": "2026-11-16T10:35:35.111Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/write-file-atomic",
+          "observedAt": "2026-11-16T10:35:35.111Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/write-file-atomic",
+          "observedAt": "2026-11-16T10:35:35.111Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/write-file-atomic",
+          "observedAt": "2026-11-16T10:35:35.111Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/write-file-atomic",
+          "observedAt": "2026-11-16T10:35:35.111Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/write-file-atomic",
+          "observedAt": "2026-11-16T10:35:35.111Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "write-file-atomic",
+      "semver": "4.0.2",
+      "publishedAt": "2022-08-16T17:12:53.613Z",
+      "publisher": "gar",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 12210,
+      "dependencies": {
+        "imurmurhash": "^0.1.4",
+        "signal-exit": "^3.0.7"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/write-file-atomic",
+          "observedAt": "2026-11-16T10:35:35.111Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/write-file-atomic",
+          "observedAt": "2026-11-16T10:35:35.111Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/write-file-atomic",
+          "observedAt": "2026-11-16T10:35:35.111Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/write-file-atomic",
+          "observedAt": "2026-11-16T10:35:35.111Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/write-file-atomic",
+          "observedAt": "2026-11-16T10:35:35.111Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/write-file-atomic",
+          "observedAt": "2026-11-16T10:35:35.111Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "write-file-atomic",
+      "semver": "5.0.0",
+      "publishedAt": "2022-10-14T05:22:38.937Z",
+      "publisher": "lukekarrys",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 12174,
+      "dependencies": {
+        "imurmurhash": "^0.1.4",
+        "signal-exit": "^3.0.7"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/write-file-atomic",
+          "observedAt": "2026-11-16T10:35:35.111Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/write-file-atomic",
+          "observedAt": "2026-11-16T10:35:35.111Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/write-file-atomic",
+          "observedAt": "2026-11-16T10:35:35.111Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/write-file-atomic",
+          "observedAt": "2026-11-16T10:35:35.111Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/write-file-atomic",
+          "observedAt": "2026-11-16T10:35:35.111Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/write-file-atomic",
+          "observedAt": "2026-11-16T10:35:35.111Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "write-file-atomic",
+      "semver": "6.0.0",
+      "publishedAt": "2024-09-25T17:36:47.579Z",
+      "publisher": "npm-cli-ops",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 12202,
+      "dependencies": {
+        "imurmurhash": "^0.1.4",
+        "signal-exit": "^4.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/write-file-atomic",
+          "observedAt": "2026-11-16T10:35:35.111Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/write-file-atomic",
+          "observedAt": "2026-11-16T10:35:35.111Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/write-file-atomic",
+          "observedAt": "2026-11-16T10:35:35.111Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/write-file-atomic",
+          "observedAt": "2026-11-16T10:35:35.111Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/write-file-atomic",
+          "observedAt": "2026-11-16T10:35:35.111Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/write-file-atomic",
+          "observedAt": "2026-11-16T10:35:35.111Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@smithy/url-parser",
+  "source": "https://registry.npmjs.org/%40smithy%2Furl-parser",
+  "fetchedAt": "2026-11-16T10:34:41.141Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 91
+  },
+  "sourceSha256": "03372b19006fe9bf3c8360202996faf43d7b7f6eaedb6ad69cb99424a012def1",
+  "versions": [
+    {
+      "pkg": "@smithy/url-parser",
+      "semver": "4.0.4",
+      "publishedAt": "2025-05-29T20:38:57.007Z",
+      "publisher": "smithy-team",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 15994,
+      "dependencies": {
+        "tslib": "^2.6.2",
+        "@smithy/types": "^4.3.1",
+        "@smithy/querystring-parser": "^4.0.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40smithy%2Furl-parser",
+          "observedAt": "2026-11-16T10:34:41.141Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40smithy%2Furl-parser",
+          "observedAt": "2026-11-16T10:34:41.141Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40smithy%2Furl-parser",
+          "observedAt": "2026-11-16T10:34:41.141Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40smithy%2Furl-parser",
+          "observedAt": "2026-11-16T10:34:41.141Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40smithy%2Furl-parser",
+          "observedAt": "2026-11-16T10:34:41.141Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40smithy%2Furl-parser",
+          "observedAt": "2026-11-16T10:34:41.141Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@smithy/url-parser",
+      "semver": "4.0.5",
+      "publishedAt": "2025-08-06T16:59:37.344Z",
+      "publisher": "smithy-team",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 15994,
+      "dependencies": {
+        "tslib": "^2.6.2",
+        "@smithy/types": "^4.3.2",
+        "@smithy/querystring-parser": "^4.0.5"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40smithy%2Furl-parser",
+          "observedAt": "2026-11-16T10:34:41.141Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40smithy%2Furl-parser",
+          "observedAt": "2026-11-16T10:34:41.141Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40smithy%2Furl-parser",
+          "observedAt": "2026-11-16T10:34:41.141Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40smithy%2Furl-parser",
+          "observedAt": "2026-11-16T10:34:41.141Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40smithy%2Furl-parser",
+          "observedAt": "2026-11-16T10:34:41.141Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40smithy%2Furl-parser",
+          "observedAt": "2026-11-16T10:34:41.141Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

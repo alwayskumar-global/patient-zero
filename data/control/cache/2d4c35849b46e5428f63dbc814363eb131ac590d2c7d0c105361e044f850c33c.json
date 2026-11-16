@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "pkg": "tree-kill",
+  "source": "https://registry.npmjs.org/tree-kill",
+  "fetchedAt": "2026-11-16T10:35:29.840Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 13
+  },
+  "sourceSha256": "fdb33306302fd46b8534c1b973d63b3f630632866e95d13be31a1e959fa9a42f",
+  "versions": [
+    {
+      "pkg": "tree-kill",
+      "semver": "0.0.6",
+      "publishedAt": "2013-12-11T16:56:03.507Z",
+      "publisher": "pkrumins",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "once": "1.1.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/tree-kill",
+          "observedAt": "2026-11-16T10:35:29.840Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/tree-kill",
+          "observedAt": "2026-11-16T10:35:29.840Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/tree-kill",
+          "observedAt": "2026-11-16T10:35:29.840Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/tree-kill",
+          "observedAt": "2026-11-16T10:35:29.840Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/tree-kill",
+          "observedAt": "2026-11-16T10:35:29.840Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "tree-kill",
+      "semver": "1.2.2",
+      "publishedAt": "2019-12-11T18:34:21.876Z",
+      "publisher": "wmhilton",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7816,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/tree-kill",
+          "observedAt": "2026-11-16T10:35:29.840Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/tree-kill",
+          "observedAt": "2026-11-16T10:35:29.840Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/tree-kill",
+          "observedAt": "2026-11-16T10:35:29.840Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/tree-kill",
+          "observedAt": "2026-11-16T10:35:29.840Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/tree-kill",
+          "observedAt": "2026-11-16T10:35:29.840Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/tree-kill",
+          "observedAt": "2026-11-16T10:35:29.840Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "pkg": "is-typedarray",
+  "source": "https://registry.npmjs.org/is-typedarray",
+  "fetchedAt": "2026-11-16T10:35:06.978Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 2
+  },
+  "sourceSha256": "36f9eae21d12aa88f3cb0e1891ec20158e35ae2f64ea08c9e1ad027cd6abf6ad",
+  "versions": [
+    {
+      "pkg": "is-typedarray",
+      "semver": "1.0.0",
+      "publishedAt": "2015-05-17T01:03:39.627Z",
+      "publisher": "hughsk",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/is-typedarray",
+          "observedAt": "2026-11-16T10:35:06.978Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/is-typedarray",
+          "observedAt": "2026-11-16T10:35:06.978Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/is-typedarray",
+          "observedAt": "2026-11-16T10:35:06.978Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/is-typedarray",
+          "observedAt": "2026-11-16T10:35:06.978Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/is-typedarray",
+          "observedAt": "2026-11-16T10:35:06.978Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

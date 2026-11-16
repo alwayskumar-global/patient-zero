@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@leichtgewicht/ip-codec",
+  "source": "https://registry.npmjs.org/%40leichtgewicht%2Fip-codec",
+  "fetchedAt": "2026-11-16T10:34:36.223Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 7
+  },
+  "sourceSha256": "fdd1a87c1f8b3995a2813d6a95afa8d0278cf582e78ab9cdae2856bbaab8c044",
+  "versions": [
+    {
+      "pkg": "@leichtgewicht/ip-codec",
+      "semver": "2.0.5",
+      "publishedAt": "2024-03-27T04:42:14.678Z",
+      "publisher": "leichtgewicht",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 17710,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40leichtgewicht%2Fip-codec",
+          "observedAt": "2026-11-16T10:34:36.223Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40leichtgewicht%2Fip-codec",
+          "observedAt": "2026-11-16T10:34:36.223Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40leichtgewicht%2Fip-codec",
+          "observedAt": "2026-11-16T10:34:36.223Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40leichtgewicht%2Fip-codec",
+          "observedAt": "2026-11-16T10:34:36.223Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40leichtgewicht%2Fip-codec",
+          "observedAt": "2026-11-16T10:34:36.223Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40leichtgewicht%2Fip-codec",
+          "observedAt": "2026-11-16T10:34:36.223Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

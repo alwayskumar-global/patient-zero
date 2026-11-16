@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "xdg-basedir",
+  "source": "https://registry.npmjs.org/xdg-basedir",
+  "fetchedAt": "2026-11-16T10:35:35.169Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 8
+  },
+  "sourceSha256": "946454f00f3c7b1d8db610421dbe8d5c95be27978ca1d790e3c7be3516aab9bb",
+  "versions": [
+    {
+      "pkg": "xdg-basedir",
+      "semver": "5.1.0",
+      "publishedAt": "2021-08-05T17:30:36.455Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 6813,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/xdg-basedir",
+          "observedAt": "2026-11-16T10:35:35.169Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/xdg-basedir",
+          "observedAt": "2026-11-16T10:35:35.169Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/xdg-basedir",
+          "observedAt": "2026-11-16T10:35:35.169Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/xdg-basedir",
+          "observedAt": "2026-11-16T10:35:35.169Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/xdg-basedir",
+          "observedAt": "2026-11-16T10:35:35.169Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/xdg-basedir",
+          "observedAt": "2026-11-16T10:35:35.169Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

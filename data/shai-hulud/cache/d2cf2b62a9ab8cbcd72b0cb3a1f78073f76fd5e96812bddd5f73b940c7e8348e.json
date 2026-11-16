@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "pkg": "jumpgate",
+  "source": "https://registry.npmjs.org/jumpgate",
+  "fetchedAt": "2026-11-16T10:32:21.736Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 2
+  },
+  "sourceSha256": "86897d4f85e7e1b2e527f343fa099896fb1020fd198d5ac354b2e7f004774747",
+  "versions": [
+    {
+      "pkg": "jumpgate",
+      "semver": "0.0.1",
+      "publishedAt": "2025-07-28T12:05:48.241Z",
+      "publisher": "shaneholloman",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 2398,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jumpgate",
+          "observedAt": "2026-11-16T10:32:21.736Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jumpgate",
+          "observedAt": "2026-11-16T10:32:21.736Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jumpgate",
+          "observedAt": "2026-11-16T10:32:21.736Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jumpgate",
+          "observedAt": "2026-11-16T10:32:21.736Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jumpgate",
+          "observedAt": "2026-11-16T10:32:21.736Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jumpgate",
+          "observedAt": "2026-11-16T10:32:21.736Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jumpgate",
+      "semver": "0.0.2",
+      "publishedAt": "2025-09-14T18:35:09.651Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jumpgate",
+          "observedAt": "2026-11-16T10:32:21.736Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

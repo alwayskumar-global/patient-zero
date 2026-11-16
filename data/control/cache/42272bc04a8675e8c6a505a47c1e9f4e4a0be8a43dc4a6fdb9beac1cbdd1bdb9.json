@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@sideway/pinpoint",
+  "source": "https://registry.npmjs.org/%40sideway%2Fpinpoint",
+  "fetchedAt": "2026-11-16T10:34:38.826Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 1
+  },
+  "sourceSha256": "fce34436d8dceec28cc0e6e3a6da2d395613818adaaae61392b248048c9a055e",
+  "versions": [
+    {
+      "pkg": "@sideway/pinpoint",
+      "semver": "2.0.0",
+      "publishedAt": "2020-10-24T06:53:39.495Z",
+      "publisher": "hueniverse",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 3643,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40sideway%2Fpinpoint",
+          "observedAt": "2026-11-16T10:34:38.826Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40sideway%2Fpinpoint",
+          "observedAt": "2026-11-16T10:34:38.826Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40sideway%2Fpinpoint",
+          "observedAt": "2026-11-16T10:34:38.826Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40sideway%2Fpinpoint",
+          "observedAt": "2026-11-16T10:34:38.826Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40sideway%2Fpinpoint",
+          "observedAt": "2026-11-16T10:34:38.826Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40sideway%2Fpinpoint",
+          "observedAt": "2026-11-16T10:34:38.826Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

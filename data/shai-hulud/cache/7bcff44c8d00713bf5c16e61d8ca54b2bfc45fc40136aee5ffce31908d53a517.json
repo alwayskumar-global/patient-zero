@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "pkg": "ts-gaussian",
+  "source": "https://registry.npmjs.org/ts-gaussian",
+  "fetchedAt": "2026-11-16T10:32:30.512Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 37
+  },
+  "sourceSha256": "9eed2a361e838f0aeb9a72da86290d7d4f70ea505e1e51f3f0a5db9fff54953c",
+  "versions": [
+    {
+      "pkg": "ts-gaussian",
+      "semver": "3.0.4",
+      "publishedAt": "2023-05-06T21:11:04.680Z",
+      "publisher": "scttcper",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 11033,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ts-gaussian",
+          "observedAt": "2026-11-16T10:32:30.512Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ts-gaussian",
+          "observedAt": "2026-11-16T10:32:30.512Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ts-gaussian",
+          "observedAt": "2026-11-16T10:32:30.512Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ts-gaussian",
+          "observedAt": "2026-11-16T10:32:30.512Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/ts-gaussian",
+          "observedAt": "2026-11-16T10:32:30.512Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ts-gaussian",
+          "observedAt": "2026-11-16T10:32:30.512Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ts-gaussian",
+      "semver": "3.0.5",
+      "publishedAt": "2025-09-15T19:52:44.368Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ts-gaussian",
+          "observedAt": "2026-11-16T10:32:30.512Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ts-gaussian",
+      "semver": "3.0.6",
+      "publishedAt": "2025-09-15T20:13:41.844Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ts-gaussian",
+          "observedAt": "2026-11-16T10:32:30.512Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ts-gaussian",
+      "semver": "3.1.0",
+      "publishedAt": "2025-09-16T08:03:07.766Z",
+      "publisher": "scttcper",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 10894,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ts-gaussian",
+          "observedAt": "2026-11-16T10:32:30.512Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ts-gaussian",
+          "observedAt": "2026-11-16T10:32:30.512Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ts-gaussian",
+          "observedAt": "2026-11-16T10:32:30.512Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ts-gaussian",
+          "observedAt": "2026-11-16T10:32:30.512Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/ts-gaussian",
+          "observedAt": "2026-11-16T10:32:30.512Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ts-gaussian",
+          "observedAt": "2026-11-16T10:32:30.512Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@humanwhocodes/retry",
+  "source": "https://registry.npmjs.org/%40humanwhocodes%2Fretry",
+  "fetchedAt": "2026-11-16T10:34:35.353Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 15
+  },
+  "sourceSha256": "be7b196296e643dae047fcc8b02389bd51f6dd92900a03f9d1d069f8a3f15855",
+  "versions": [
+    {
+      "pkg": "@humanwhocodes/retry",
+      "semver": "0.4.3",
+      "publishedAt": "2025-05-07T14:25:57.372Z",
+      "publisher": "nzakas",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 65711,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40humanwhocodes%2Fretry",
+          "observedAt": "2026-11-16T10:34:35.353Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40humanwhocodes%2Fretry",
+          "observedAt": "2026-11-16T10:34:35.353Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40humanwhocodes%2Fretry",
+          "observedAt": "2026-11-16T10:34:35.353Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40humanwhocodes%2Fretry",
+          "observedAt": "2026-11-16T10:34:35.353Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40humanwhocodes%2Fretry",
+          "observedAt": "2026-11-16T10:34:35.353Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40humanwhocodes%2Fretry",
+          "observedAt": "2026-11-16T10:34:35.353Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

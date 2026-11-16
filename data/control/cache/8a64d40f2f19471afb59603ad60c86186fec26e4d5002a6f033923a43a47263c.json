@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@rollup/rollup-linux-x64-gnu",
+  "source": "https://registry.npmjs.org/%40rollup%2Frollup-linux-x64-gnu",
+  "fetchedAt": "2026-11-16T10:34:38.473Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 248
+  },
+  "sourceSha256": "18030b6854453004af8e8cc0840969c4bfacc38600419b55d264e94ebc2237de",
+  "versions": [
+    {
+      "pkg": "@rollup/rollup-linux-x64-gnu",
+      "semver": "4.46.2",
+      "publishedAt": "2025-07-29T19:46:07.784Z",
+      "publisher": "lukastaegert",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 2674712,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40rollup%2Frollup-linux-x64-gnu",
+          "observedAt": "2026-11-16T10:34:38.473Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40rollup%2Frollup-linux-x64-gnu",
+          "observedAt": "2026-11-16T10:34:38.473Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40rollup%2Frollup-linux-x64-gnu",
+          "observedAt": "2026-11-16T10:34:38.473Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40rollup%2Frollup-linux-x64-gnu",
+          "observedAt": "2026-11-16T10:34:38.473Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40rollup%2Frollup-linux-x64-gnu",
+          "observedAt": "2026-11-16T10:34:38.473Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40rollup%2Frollup-linux-x64-gnu",
+          "observedAt": "2026-11-16T10:34:38.473Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

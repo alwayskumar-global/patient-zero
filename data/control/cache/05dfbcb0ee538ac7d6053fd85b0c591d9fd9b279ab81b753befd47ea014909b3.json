@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "pkg": "iconv-lite",
+  "source": "https://registry.npmjs.org/iconv-lite",
+  "fetchedAt": "2026-11-16T10:35:04.337Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 60
+  },
+  "sourceSha256": "254e75ea82e2fb7564b86b5673c770af33dc8f3c14abd3ae66470f849f49d88e",
+  "versions": [
+    {
+      "pkg": "iconv-lite",
+      "semver": "0.2.3",
+      "publishedAt": "2012-07-13T14:07:06.630Z",
+      "publisher": null,
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/iconv-lite",
+          "observedAt": "2026-11-16T10:35:04.337Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/iconv-lite",
+          "observedAt": "2026-11-16T10:35:04.337Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/iconv-lite",
+          "observedAt": "2026-11-16T10:35:04.337Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/iconv-lite",
+          "observedAt": "2026-11-16T10:35:04.337Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "iconv-lite",
+      "semver": "0.6.3",
+      "publishedAt": "2021-05-24T03:00:17.928Z",
+      "publisher": "ashtuchkin",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 348518,
+      "dependencies": {
+        "safer-buffer": ">= 2.1.2 < 3.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/iconv-lite",
+          "observedAt": "2026-11-16T10:35:04.337Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/iconv-lite",
+          "observedAt": "2026-11-16T10:35:04.337Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/iconv-lite",
+          "observedAt": "2026-11-16T10:35:04.337Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/iconv-lite",
+          "observedAt": "2026-11-16T10:35:04.337Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/iconv-lite",
+          "observedAt": "2026-11-16T10:35:04.337Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/iconv-lite",
+          "observedAt": "2026-11-16T10:35:04.337Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "minipass-pipeline",
+  "source": "https://registry.npmjs.org/minipass-pipeline",
+  "fetchedAt": "2026-11-16T10:35:13.637Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 14
+  },
+  "sourceSha256": "75adf6fbebac8763e5ecc1c88e8ec0f479227228f85f709b6e1f0e6e2d33b8b6",
+  "versions": [
+    {
+      "pkg": "minipass-pipeline",
+      "semver": "1.2.4",
+      "publishedAt": "2020-07-28T18:39:48.728Z",
+      "publisher": "isaacs",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7004,
+      "dependencies": {
+        "minipass": "^3.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/minipass-pipeline",
+          "observedAt": "2026-11-16T10:35:13.637Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/minipass-pipeline",
+          "observedAt": "2026-11-16T10:35:13.637Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/minipass-pipeline",
+          "observedAt": "2026-11-16T10:35:13.637Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/minipass-pipeline",
+          "observedAt": "2026-11-16T10:35:13.637Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/minipass-pipeline",
+          "observedAt": "2026-11-16T10:35:13.637Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/minipass-pipeline",
+          "observedAt": "2026-11-16T10:35:13.637Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

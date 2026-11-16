@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "set-cookie-parser",
+  "source": "https://registry.npmjs.org/set-cookie-parser",
+  "fetchedAt": "2026-11-16T10:35:26.078Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 36
+  },
+  "sourceSha256": "92b6a931060eed0b3bd8b7c50a53f723b9c42bfbd7a6ab299d338fd367fbd507",
+  "versions": [
+    {
+      "pkg": "set-cookie-parser",
+      "semver": "2.7.1",
+      "publishedAt": "2024-10-21T18:25:35.232Z",
+      "publisher": "nfriedly",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 16074,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/set-cookie-parser",
+          "observedAt": "2026-11-16T10:35:26.078Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/set-cookie-parser",
+          "observedAt": "2026-11-16T10:35:26.078Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/set-cookie-parser",
+          "observedAt": "2026-11-16T10:35:26.078Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/set-cookie-parser",
+          "observedAt": "2026-11-16T10:35:26.078Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/set-cookie-parser",
+          "observedAt": "2026-11-16T10:35:26.078Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/set-cookie-parser",
+          "observedAt": "2026-11-16T10:35:26.078Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

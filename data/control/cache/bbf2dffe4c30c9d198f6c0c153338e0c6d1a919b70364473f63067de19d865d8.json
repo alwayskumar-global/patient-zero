@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "whatwg-encoding",
+  "source": "https://registry.npmjs.org/whatwg-encoding",
+  "fetchedAt": "2026-11-16T10:35:34.701Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 10
+  },
+  "sourceSha256": "c7098d1860023bd9e975422c2c7f234481c00f929959caeed4755ca8a954a148",
+  "versions": [
+    {
+      "pkg": "whatwg-encoding",
+      "semver": "3.1.1",
+      "publishedAt": "2023-11-12T07:29:21.747Z",
+      "publisher": "domenic",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 13339,
+      "dependencies": {
+        "iconv-lite": "0.6.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/whatwg-encoding",
+          "observedAt": "2026-11-16T10:35:34.701Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/whatwg-encoding",
+          "observedAt": "2026-11-16T10:35:34.701Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/whatwg-encoding",
+          "observedAt": "2026-11-16T10:35:34.701Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/whatwg-encoding",
+          "observedAt": "2026-11-16T10:35:34.701Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/whatwg-encoding",
+          "observedAt": "2026-11-16T10:35:34.701Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/whatwg-encoding",
+          "observedAt": "2026-11-16T10:35:34.701Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

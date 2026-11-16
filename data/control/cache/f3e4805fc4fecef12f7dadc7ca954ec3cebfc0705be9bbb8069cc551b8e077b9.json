@@ -1,0 +1,225 @@
+{
+  "schemaVersion": 1,
+  "pkg": "mdn-data",
+  "source": "https://registry.npmjs.org/mdn-data",
+  "fetchedAt": "2026-11-16T10:35:12.290Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 95
+  },
+  "sourceSha256": "b8544387641cc374dea9ca4b8e5d99d9495356c6bd9d4cdeb8ab7c595ad9d5cf",
+  "versions": [
+    {
+      "pkg": "mdn-data",
+      "semver": "2.0.11",
+      "publishedAt": "2020-07-30T17:11:06.541Z",
+      "publisher": "mdn",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 557156,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/mdn-data",
+          "observedAt": "2026-11-16T10:35:12.290Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/mdn-data",
+          "observedAt": "2026-11-16T10:35:12.290Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/mdn-data",
+          "observedAt": "2026-11-16T10:35:12.290Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/mdn-data",
+          "observedAt": "2026-11-16T10:35:12.290Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/mdn-data",
+          "observedAt": "2026-11-16T10:35:12.290Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/mdn-data",
+          "observedAt": "2026-11-16T10:35:12.290Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "mdn-data",
+      "semver": "2.0.22",
+      "publishedAt": "2021-09-16T23:43:44.306Z",
+      "publisher": "escattone",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 586072,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/mdn-data",
+          "observedAt": "2026-11-16T10:35:12.290Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/mdn-data",
+          "observedAt": "2026-11-16T10:35:12.290Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/mdn-data",
+          "observedAt": "2026-11-16T10:35:12.290Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/mdn-data",
+          "observedAt": "2026-11-16T10:35:12.290Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/mdn-data",
+          "observedAt": "2026-11-16T10:35:12.290Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/mdn-data",
+          "observedAt": "2026-11-16T10:35:12.290Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "mdn-data",
+      "semver": "2.0.28",
+      "publishedAt": "2022-07-12T06:20:30.623Z",
+      "publisher": "ddbeck",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 591444,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/mdn-data",
+          "observedAt": "2026-11-16T10:35:12.290Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/mdn-data",
+          "observedAt": "2026-11-16T10:35:12.290Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/mdn-data",
+          "observedAt": "2026-11-16T10:35:12.290Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/mdn-data",
+          "observedAt": "2026-11-16T10:35:12.290Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/mdn-data",
+          "observedAt": "2026-11-16T10:35:12.290Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/mdn-data",
+          "observedAt": "2026-11-16T10:35:12.290Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "mdn-data",
+      "semver": "2.23.0",
+      "publishedAt": "2025-07-18T12:56:36.032Z",
+      "publisher": "mdn-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 684325,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/mdn-data",
+          "observedAt": "2026-11-16T10:35:12.290Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/mdn-data",
+          "observedAt": "2026-11-16T10:35:12.290Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/mdn-data",
+          "observedAt": "2026-11-16T10:35:12.290Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/mdn-data",
+          "observedAt": "2026-11-16T10:35:12.290Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/mdn-data",
+          "observedAt": "2026-11-16T10:35:12.290Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/mdn-data",
+          "observedAt": "2026-11-16T10:35:12.290Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "mdn-data",
+      "semver": "2.4.2",
+      "publishedAt": "2024-02-27T12:25:47.373Z",
+      "publisher": "schalkneethling",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 632485,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/mdn-data",
+          "observedAt": "2026-11-16T10:35:12.290Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/mdn-data",
+          "observedAt": "2026-11-16T10:35:12.290Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/mdn-data",
+          "observedAt": "2026-11-16T10:35:12.290Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/mdn-data",
+          "observedAt": "2026-11-16T10:35:12.290Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/mdn-data",
+          "observedAt": "2026-11-16T10:35:12.290Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/mdn-data",
+          "observedAt": "2026-11-16T10:35:12.290Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

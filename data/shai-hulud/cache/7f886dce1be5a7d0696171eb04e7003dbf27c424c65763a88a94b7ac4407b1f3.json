@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "pkg": "mcp-knowledge-base",
+  "source": "https://registry.npmjs.org/mcp-knowledge-base",
+  "fetchedAt": "2026-11-16T10:32:22.632Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 2
+  },
+  "sourceSha256": "3c8d6e47938c21da79746674034932ba5a2dac0ca3a1ea961cc8663aa661c2c1",
+  "versions": [
+    {
+      "pkg": "mcp-knowledge-base",
+      "semver": "0.0.1",
+      "publishedAt": "2024-12-25T13:25:00.712Z",
+      "publisher": "shaneholloman",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 1854,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/mcp-knowledge-base",
+          "observedAt": "2026-11-16T10:32:22.632Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/mcp-knowledge-base",
+          "observedAt": "2026-11-16T10:32:22.632Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/mcp-knowledge-base",
+          "observedAt": "2026-11-16T10:32:22.632Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/mcp-knowledge-base",
+          "observedAt": "2026-11-16T10:32:22.632Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/mcp-knowledge-base",
+          "observedAt": "2026-11-16T10:32:22.632Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/mcp-knowledge-base",
+          "observedAt": "2026-11-16T10:32:22.632Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "mcp-knowledge-base",
+      "semver": "0.0.2",
+      "publishedAt": "2025-09-14T18:35:09.578Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/mcp-knowledge-base",
+          "observedAt": "2026-11-16T10:32:22.632Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+import {Suspense} from 'react';import {notFound} from 'next/navigation';import {ExplainView} from '@/components/explain';
+export default async function Page({params}:{params:Promise<{identity:string[]}>}){const{identity}=await params;let id:string;try{id=decodeURIComponent(identity.join('/'));}catch{notFound();}return <Suspense fallback={<p>Reading evidence…</p>}><ExplainView id={id}/></Suspense>;}

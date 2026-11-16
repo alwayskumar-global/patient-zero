@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "pkg": "node-forge",
+  "source": "https://registry.npmjs.org/node-forge",
+  "fetchedAt": "2026-11-16T10:35:15.310Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 138
+  },
+  "sourceSha256": "0d956b40a7f305ad48d0de5c5dc4d514d47d0de820b220247bfa74ad29e67823",
+  "versions": [
+    {
+      "pkg": "node-forge",
+      "semver": "0.1.3-dev",
+      "publishedAt": "2013-06-24T19:57:36.482Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/node-forge",
+          "observedAt": "2026-11-16T10:35:15.310Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "node-forge",
+      "semver": "0.6.45",
+      "publishedAt": "2016-10-29T17:49:38.914Z",
+      "publisher": "dlongley",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/node-forge",
+          "observedAt": "2026-11-16T10:35:15.310Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/node-forge",
+          "observedAt": "2026-11-16T10:35:15.310Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/node-forge",
+          "observedAt": "2026-11-16T10:35:15.310Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/node-forge",
+          "observedAt": "2026-11-16T10:35:15.310Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/node-forge",
+          "observedAt": "2026-11-16T10:35:15.310Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "node-forge",
+      "semver": "1.3.1",
+      "publishedAt": "2022-03-30T00:12:21.829Z",
+      "publisher": "davidlehn",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 1657079,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/node-forge",
+          "observedAt": "2026-11-16T10:35:15.310Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/node-forge",
+          "observedAt": "2026-11-16T10:35:15.310Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/node-forge",
+          "observedAt": "2026-11-16T10:35:15.310Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/node-forge",
+          "observedAt": "2026-11-16T10:35:15.310Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/node-forge",
+          "observedAt": "2026-11-16T10:35:15.310Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/node-forge",
+          "observedAt": "2026-11-16T10:35:15.310Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

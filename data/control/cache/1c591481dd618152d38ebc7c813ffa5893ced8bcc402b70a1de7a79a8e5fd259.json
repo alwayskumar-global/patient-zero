@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "pkg": "unicode-match-property-value-ecmascript",
+  "source": "https://registry.npmjs.org/unicode-match-property-value-ecmascript",
+  "fetchedAt": "2026-11-16T10:35:31.274Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 9
+  },
+  "sourceSha256": "d69fb5401bb56253ada157bd0a953b0c6c826a3fcf4632d152069b748d295e41",
+  "versions": [
+    {
+      "pkg": "unicode-match-property-value-ecmascript",
+      "semver": "1.2.0",
+      "publishedAt": "2020-03-11T17:03:28.847Z",
+      "publisher": "mathias",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 24445,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/unicode-match-property-value-ecmascript",
+          "observedAt": "2026-11-16T10:35:31.274Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/unicode-match-property-value-ecmascript",
+          "observedAt": "2026-11-16T10:35:31.274Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/unicode-match-property-value-ecmascript",
+          "observedAt": "2026-11-16T10:35:31.274Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/unicode-match-property-value-ecmascript",
+          "observedAt": "2026-11-16T10:35:31.274Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/unicode-match-property-value-ecmascript",
+          "observedAt": "2026-11-16T10:35:31.274Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/unicode-match-property-value-ecmascript",
+          "observedAt": "2026-11-16T10:35:31.274Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "unicode-match-property-value-ecmascript",
+      "semver": "2.2.0",
+      "publishedAt": "2024-09-12T09:14:54.415Z",
+      "publisher": "google-wombot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 26301,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/unicode-match-property-value-ecmascript",
+          "observedAt": "2026-11-16T10:35:31.274Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/unicode-match-property-value-ecmascript",
+          "observedAt": "2026-11-16T10:35:31.274Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/unicode-match-property-value-ecmascript",
+          "observedAt": "2026-11-16T10:35:31.274Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/unicode-match-property-value-ecmascript",
+          "observedAt": "2026-11-16T10:35:31.274Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/unicode-match-property-value-ecmascript",
+          "observedAt": "2026-11-16T10:35:31.274Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/unicode-match-property-value-ecmascript",
+          "observedAt": "2026-11-16T10:35:31.274Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

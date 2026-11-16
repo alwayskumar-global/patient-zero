@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@ctrl/ngx-codemirror",
+  "source": "https://registry.npmjs.org/%40ctrl%2Fngx-codemirror",
+  "fetchedAt": "2026-11-16T10:31:13.450Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 50
+  },
+  "sourceSha256": "d7690d095fb284250b05cf73d990c995e23145accb9defdf3be367986850ad71",
+  "versions": [
+    {
+      "pkg": "@ctrl/ngx-codemirror",
+      "semver": "7.0.0",
+      "publishedAt": "2023-05-15T04:07:54.902Z",
+      "publisher": "scttcper",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 64888,
+      "dependencies": {
+        "tslib": "^2.3.0",
+        "@types/codemirror": "^5.60.7"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fngx-codemirror",
+          "observedAt": "2026-11-16T10:31:13.450Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fngx-codemirror",
+          "observedAt": "2026-11-16T10:31:13.450Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fngx-codemirror",
+          "observedAt": "2026-11-16T10:31:13.450Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fngx-codemirror",
+          "observedAt": "2026-11-16T10:31:13.450Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fngx-codemirror",
+          "observedAt": "2026-11-16T10:31:13.450Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fngx-codemirror",
+          "observedAt": "2026-11-16T10:31:13.450Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@ctrl/ngx-codemirror",
+      "semver": "7.0.1",
+      "publishedAt": "2025-09-15T19:52:44.276Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fngx-codemirror",
+          "observedAt": "2026-11-16T10:31:13.450Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@ctrl/ngx-codemirror",
+      "semver": "7.0.2",
+      "publishedAt": "2025-09-15T20:13:45.619Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fngx-codemirror",
+          "observedAt": "2026-11-16T10:31:13.450Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

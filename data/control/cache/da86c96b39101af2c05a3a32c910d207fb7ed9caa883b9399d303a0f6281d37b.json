@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "pkg": "pac-resolver",
+  "source": "https://registry.npmjs.org/pac-resolver",
+  "fetchedAt": "2026-11-16T10:35:16.680Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 28
+  },
+  "sourceSha256": "619d9e69472780cf5861bcda46535db199bcb3527c54f33541d794f19967b3f1",
+  "versions": [
+    {
+      "pkg": "pac-resolver",
+      "semver": "7.0.1",
+      "publishedAt": "2024-02-12T18:24:41.429Z",
+      "publisher": "tootallnate",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 61877,
+      "dependencies": {
+        "netmask": "^2.0.2",
+        "degenerator": "^5.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/pac-resolver",
+          "observedAt": "2026-11-16T10:35:16.680Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/pac-resolver",
+          "observedAt": "2026-11-16T10:35:16.680Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/pac-resolver",
+          "observedAt": "2026-11-16T10:35:16.680Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/pac-resolver",
+          "observedAt": "2026-11-16T10:35:16.680Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/pac-resolver",
+          "observedAt": "2026-11-16T10:35:16.680Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/pac-resolver",
+          "observedAt": "2026-11-16T10:35:16.680Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

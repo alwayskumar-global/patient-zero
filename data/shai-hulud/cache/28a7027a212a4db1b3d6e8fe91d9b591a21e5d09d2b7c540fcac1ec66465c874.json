@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "pkg": "ngx-color",
+  "source": "https://registry.npmjs.org/ngx-color",
+  "fetchedAt": "2026-11-16T10:32:24.882Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 75
+  },
+  "sourceSha256": "2d4b7cab22f0857187892529a46d0168ca2a245077308627cb078b05783d0a19",
+  "versions": [
+    {
+      "pkg": "ngx-color",
+      "semver": "10.0.0",
+      "publishedAt": "2025-02-18T21:37:21.105Z",
+      "publisher": "scttcper",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 555359,
+      "dependencies": {
+        "tslib": "^2.3.0",
+        "@ctrl/tinycolor": "^4.1.0",
+        "material-colors": "^1.2.6"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ngx-color",
+          "observedAt": "2026-11-16T10:32:24.882Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ngx-color",
+          "observedAt": "2026-11-16T10:32:24.882Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ngx-color",
+          "observedAt": "2026-11-16T10:32:24.882Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ngx-color",
+          "observedAt": "2026-11-16T10:32:24.882Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/ngx-color",
+          "observedAt": "2026-11-16T10:32:24.882Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ngx-color",
+          "observedAt": "2026-11-16T10:32:24.882Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ngx-color",
+      "semver": "10.0.1",
+      "publishedAt": "2025-09-15T19:52:47.755Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ngx-color",
+          "observedAt": "2026-11-16T10:32:24.882Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ngx-color",
+      "semver": "10.0.2",
+      "publishedAt": "2025-09-15T20:13:43.175Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ngx-color",
+          "observedAt": "2026-11-16T10:32:24.882Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ngx-color",
+      "semver": "10.1.0",
+      "publishedAt": "2025-09-16T07:55:14.831Z",
+      "publisher": "scttcper",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 555364,
+      "dependencies": {
+        "@ctrl/tinycolor": "^4.1.0",
+        "material-colors": "^1.2.6",
+        "tslib": "^2.3.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ngx-color",
+          "observedAt": "2026-11-16T10:32:24.882Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ngx-color",
+          "observedAt": "2026-11-16T10:32:24.882Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ngx-color",
+          "observedAt": "2026-11-16T10:32:24.882Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ngx-color",
+          "observedAt": "2026-11-16T10:32:24.882Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/ngx-color",
+          "observedAt": "2026-11-16T10:32:24.882Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ngx-color",
+          "observedAt": "2026-11-16T10:32:24.882Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

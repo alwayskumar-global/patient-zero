@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "is-negative-zero",
+  "source": "https://registry.npmjs.org/is-negative-zero",
+  "fetchedAt": "2026-11-16T10:35:06.366Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 8
+  },
+  "sourceSha256": "0423cea35ae40bc52ad2f93fd8ff5e9a056e52392c684e29ef2ed746b6cc8962",
+  "versions": [
+    {
+      "pkg": "is-negative-zero",
+      "semver": "2.0.3",
+      "publishedAt": "2024-02-19T20:08:46.872Z",
+      "publisher": "ljharb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 27124,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/is-negative-zero",
+          "observedAt": "2026-11-16T10:35:06.366Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/is-negative-zero",
+          "observedAt": "2026-11-16T10:35:06.366Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/is-negative-zero",
+          "observedAt": "2026-11-16T10:35:06.366Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/is-negative-zero",
+          "observedAt": "2026-11-16T10:35:06.366Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/is-negative-zero",
+          "observedAt": "2026-11-16T10:35:06.366Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/is-negative-zero",
+          "observedAt": "2026-11-16T10:35:06.366Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

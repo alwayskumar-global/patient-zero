@@ -1,0 +1,465 @@
+{
+  "schemaVersion": 1,
+  "pkg": "jest-runtime",
+  "source": "https://registry.npmjs.org/jest-runtime",
+  "fetchedAt": "2026-11-16T10:35:08.213Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 333
+  },
+  "sourceSha256": "b0533b40c4590406794b60989cdea7084404eb27904444e8d81091a01cc546ef",
+  "versions": [
+    {
+      "pkg": "jest-runtime",
+      "semver": "21.0.0-alpha.2",
+      "publishedAt": "2017-08-21T22:06:58.259Z",
+      "publisher": "aaronabramov",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "chalk": "^2.0.1",
+        "slash": "^1.0.0",
+        "yargs": "^7.0.2",
+        "jest-util": "21.0.0-alpha.2",
+        "strip-bom": "3.0.0",
+        "babel-core": "^6.0.0",
+        "babel-jest": "21.0.0-alpha.2",
+        "micromatch": "^2.3.11",
+        "graceful-fs": "^4.1.11",
+        "jest-config": "21.0.0-alpha.2",
+        "jest-resolve": "21.0.0-alpha.2",
+        "jest-haste-map": "21.0.0-alpha.2",
+        "jest-regex-util": "21.0.0-alpha.2",
+        "write-file-atomic": "^2.1.0",
+        "convert-source-map": "^1.4.0",
+        "babel-plugin-istanbul": "^4.0.0",
+        "json-stable-stringify": "^1.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-runtime",
+          "observedAt": "2026-11-16T10:35:08.213Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-runtime",
+          "observedAt": "2026-11-16T10:35:08.213Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-runtime",
+          "observedAt": "2026-11-16T10:35:08.213Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-runtime",
+          "observedAt": "2026-11-16T10:35:08.213Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-runtime",
+          "observedAt": "2026-11-16T10:35:08.213Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jest-runtime",
+      "semver": "24.0.0-alpha.14",
+      "publishedAt": "2019-01-24T16:29:41.383Z",
+      "publisher": "mjesun",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 63079,
+      "dependencies": {
+        "exit": "^0.1.2",
+        "glob": "^7.1.3",
+        "chalk": "^2.0.1",
+        "slash": "^2.0.0",
+        "yargs": "^12.0.2",
+        "jest-util": "^23.4.0",
+        "strip-bom": "3.0.0",
+        "micromatch": "^3.1.10",
+        "@babel/core": "^7.1.0",
+        "graceful-fs": "^4.1.15",
+        "jest-config": "^24.0.0-alpha.14",
+        "jest-resolve": "^24.0.0-alpha.14",
+        "jest-snapshot": "^24.0.0-alpha.14",
+        "jest-validate": "^23.6.0",
+        "jest-haste-map": "^24.0.0-alpha.14",
+        "jest-regex-util": "^23.3.0",
+        "realpath-native": "^1.0.0",
+        "jest-message-util": "^23.4.0",
+        "write-file-atomic": "^2.4.1",
+        "convert-source-map": "^1.4.0",
+        "babel-plugin-istanbul": "^5.1.0",
+        "fast-json-stable-stringify": "^2.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-runtime",
+          "observedAt": "2026-11-16T10:35:08.213Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-runtime",
+          "observedAt": "2026-11-16T10:35:08.213Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-runtime",
+          "observedAt": "2026-11-16T10:35:08.213Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-runtime",
+          "observedAt": "2026-11-16T10:35:08.213Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jest-runtime",
+          "observedAt": "2026-11-16T10:35:08.213Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-runtime",
+          "observedAt": "2026-11-16T10:35:08.213Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jest-runtime",
+      "semver": "24.6.0",
+      "publishedAt": "2019-04-01T22:27:20.000Z",
+      "publisher": "rubennorte",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 311016,
+      "dependencies": {
+        "exit": "^0.1.2",
+        "glob": "^7.1.3",
+        "chalk": "^2.0.1",
+        "slash": "^2.0.0",
+        "yargs": "^12.0.2",
+        "jest-mock": "^24.6.0",
+        "jest-util": "^24.6.0",
+        "strip-bom": "^3.0.0",
+        "@jest/types": "^24.6.0",
+        "graceful-fs": "^4.1.15",
+        "jest-config": "^24.6.0",
+        "@types/yargs": "^12.0.2",
+        "jest-resolve": "^24.6.0",
+        "@jest/console": "^24.6.0",
+        "jest-snapshot": "^24.6.0",
+        "jest-validate": "^24.6.0",
+        "jest-haste-map": "^24.6.0",
+        "@jest/transform": "^24.6.0",
+        "jest-regex-util": "^24.3.0",
+        "realpath-native": "^1.1.0",
+        "@jest/source-map": "^24.3.0",
+        "@jest/environment": "^24.6.0",
+        "jest-message-util": "^24.6.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-runtime",
+          "observedAt": "2026-11-16T10:35:08.213Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-runtime",
+          "observedAt": "2026-11-16T10:35:08.213Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-runtime",
+          "observedAt": "2026-11-16T10:35:08.213Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-runtime",
+          "observedAt": "2026-11-16T10:35:08.213Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jest-runtime",
+          "observedAt": "2026-11-16T10:35:08.213Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-runtime",
+          "observedAt": "2026-11-16T10:35:08.213Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jest-runtime",
+      "semver": "25.0.0",
+      "publishedAt": "2019-08-22T03:24:42.783Z",
+      "publisher": "scotthovestadt",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 58241,
+      "dependencies": {
+        "exit": "^0.1.2",
+        "glob": "^7.1.3",
+        "chalk": "^2.0.1",
+        "slash": "^3.0.0",
+        "yargs": "^14.0.0",
+        "jest-mock": "^25.0.0",
+        "jest-util": "^25.0.0",
+        "strip-bom": "^4.0.0",
+        "@jest/types": "^25.0.0",
+        "graceful-fs": "^4.1.15",
+        "jest-config": "^25.0.0",
+        "@types/yargs": "^13.0.0",
+        "jest-resolve": "^25.0.0",
+        "@jest/console": "^25.0.0",
+        "jest-snapshot": "^25.0.0",
+        "jest-validate": "^25.0.0",
+        "jest-haste-map": "^25.0.0",
+        "@jest/transform": "^25.0.0",
+        "jest-regex-util": "^25.0.0",
+        "realpath-native": "^1.1.0",
+        "@jest/source-map": "^25.0.0",
+        "@jest/environment": "^25.0.0",
+        "jest-message-util": "^25.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-runtime",
+          "observedAt": "2026-11-16T10:35:08.213Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-runtime",
+          "observedAt": "2026-11-16T10:35:08.213Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-runtime",
+          "observedAt": "2026-11-16T10:35:08.213Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-runtime",
+          "observedAt": "2026-11-16T10:35:08.213Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jest-runtime",
+          "observedAt": "2026-11-16T10:35:08.213Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-runtime",
+          "observedAt": "2026-11-16T10:35:08.213Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jest-runtime",
+      "semver": "25.1.0",
+      "publishedAt": "2020-01-22T01:00:28.442Z",
+      "publisher": "davidzilburg",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 64414,
+      "dependencies": {
+        "exit": "^0.1.2",
+        "glob": "^7.1.3",
+        "chalk": "^3.0.0",
+        "slash": "^3.0.0",
+        "yargs": "^15.0.0",
+        "jest-mock": "^25.1.0",
+        "jest-util": "^25.1.0",
+        "strip-bom": "^4.0.0",
+        "@jest/types": "^25.1.0",
+        "graceful-fs": "^4.2.3",
+        "jest-config": "^25.1.0",
+        "@types/yargs": "^15.0.0",
+        "jest-resolve": "^25.1.0",
+        "@jest/console": "^25.1.0",
+        "jest-snapshot": "^25.1.0",
+        "jest-validate": "^25.1.0",
+        "jest-haste-map": "^25.1.0",
+        "@jest/transform": "^25.1.0",
+        "jest-regex-util": "^25.1.0",
+        "realpath-native": "^1.1.0",
+        "@jest/source-map": "^25.1.0",
+        "@jest/environment": "^25.1.0",
+        "@jest/test-result": "^25.1.0",
+        "jest-message-util": "^25.1.0",
+        "collect-v8-coverage": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-runtime",
+          "observedAt": "2026-11-16T10:35:08.213Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-runtime",
+          "observedAt": "2026-11-16T10:35:08.213Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-runtime",
+          "observedAt": "2026-11-16T10:35:08.213Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-runtime",
+          "observedAt": "2026-11-16T10:35:08.213Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jest-runtime",
+          "observedAt": "2026-11-16T10:35:08.213Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-runtime",
+          "observedAt": "2026-11-16T10:35:08.213Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jest-runtime",
+      "semver": "30.0.0-alpha.7",
+      "publishedAt": "2025-01-30T08:28:47.789Z",
+      "publisher": "simenb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 86780,
+      "dependencies": {
+        "glob": "^10.3.10",
+        "chalk": "^4.0.0",
+        "slash": "^3.0.0",
+        "jest-mock": "30.0.0-alpha.7",
+        "jest-util": "30.0.0-alpha.7",
+        "strip-bom": "^4.0.0",
+        "@jest/types": "30.0.0-alpha.7",
+        "@types/node": "*",
+        "graceful-fs": "^4.2.9",
+        "jest-resolve": "30.0.0-alpha.7",
+        "@jest/globals": "30.0.0-alpha.7",
+        "jest-snapshot": "30.0.0-alpha.7",
+        "jest-haste-map": "30.0.0-alpha.7",
+        "@jest/transform": "30.0.0-alpha.7",
+        "jest-regex-util": "30.0.0-alpha.7",
+        "@jest/source-map": "30.0.0-alpha.7",
+        "cjs-module-lexer": "^1.0.0",
+        "@jest/environment": "30.0.0-alpha.7",
+        "@jest/fake-timers": "30.0.0-alpha.7",
+        "@jest/test-result": "30.0.0-alpha.7",
+        "jest-message-util": "30.0.0-alpha.7",
+        "collect-v8-coverage": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-runtime",
+          "observedAt": "2026-11-16T10:35:08.213Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-runtime",
+          "observedAt": "2026-11-16T10:35:08.213Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-runtime",
+          "observedAt": "2026-11-16T10:35:08.213Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-runtime",
+          "observedAt": "2026-11-16T10:35:08.213Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jest-runtime",
+          "observedAt": "2026-11-16T10:35:08.213Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-runtime",
+          "observedAt": "2026-11-16T10:35:08.213Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jest-runtime",
+      "semver": "30.0.5",
+      "publishedAt": "2025-07-22T02:28:47.066Z",
+      "publisher": "cpojer",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 91694,
+      "dependencies": {
+        "glob": "^10.3.10",
+        "chalk": "^4.1.2",
+        "slash": "^3.0.0",
+        "jest-mock": "30.0.5",
+        "jest-util": "30.0.5",
+        "strip-bom": "^4.0.0",
+        "@jest/types": "30.0.5",
+        "@types/node": "*",
+        "graceful-fs": "^4.2.11",
+        "jest-resolve": "30.0.5",
+        "@jest/globals": "30.0.5",
+        "jest-snapshot": "30.0.5",
+        "jest-haste-map": "30.0.5",
+        "@jest/transform": "30.0.5",
+        "jest-regex-util": "30.0.1",
+        "@jest/source-map": "30.0.1",
+        "cjs-module-lexer": "^2.1.0",
+        "@jest/environment": "30.0.5",
+        "@jest/fake-timers": "30.0.5",
+        "@jest/test-result": "30.0.5",
+        "jest-message-util": "30.0.5",
+        "collect-v8-coverage": "^1.0.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-runtime",
+          "observedAt": "2026-11-16T10:35:08.213Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-runtime",
+          "observedAt": "2026-11-16T10:35:08.213Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-runtime",
+          "observedAt": "2026-11-16T10:35:08.213Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-runtime",
+          "observedAt": "2026-11-16T10:35:08.213Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jest-runtime",
+          "observedAt": "2026-11-16T10:35:08.213Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-runtime",
+          "observedAt": "2026-11-16T10:35:08.213Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

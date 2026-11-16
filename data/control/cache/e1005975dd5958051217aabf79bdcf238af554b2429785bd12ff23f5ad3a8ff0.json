@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@types/eslint",
+  "source": "https://registry.npmjs.org/%40types%2Feslint",
+  "fetchedAt": "2026-11-16T10:34:44.488Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 87
+  },
+  "sourceSha256": "a43034b42d7d8fb6e36acfd3aff89a407aa6d428bbb6d7b0732cbc52382d70f2",
+  "versions": [
+    {
+      "pkg": "@types/eslint",
+      "semver": "8.56.12",
+      "publishedAt": "2024-08-26T07:08:20.669Z",
+      "publisher": "types",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 192753,
+      "dependencies": {
+        "@types/estree": "*",
+        "@types/json-schema": "*"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40types%2Feslint",
+          "observedAt": "2026-11-16T10:34:44.488Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40types%2Feslint",
+          "observedAt": "2026-11-16T10:34:44.488Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40types%2Feslint",
+          "observedAt": "2026-11-16T10:34:44.488Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40types%2Feslint",
+          "observedAt": "2026-11-16T10:34:44.488Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40types%2Feslint",
+          "observedAt": "2026-11-16T10:34:44.488Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40types%2Feslint",
+          "observedAt": "2026-11-16T10:34:44.488Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

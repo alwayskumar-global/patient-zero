@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "inline-style-parser",
+  "source": "https://registry.npmjs.org/inline-style-parser",
+  "fetchedAt": "2026-11-16T10:35:04.821Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 13
+  },
+  "sourceSha256": "0ebfbb03e663609b2d13555bd2d4d50067c6e7c128aa3c47da1a7e1bf9294ac2",
+  "versions": [
+    {
+      "pkg": "inline-style-parser",
+      "semver": "0.2.4",
+      "publishedAt": "2024-08-29T03:21:08.696Z",
+      "publisher": "remarkablemark",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 39561,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/inline-style-parser",
+          "observedAt": "2026-11-16T10:35:04.821Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/inline-style-parser",
+          "observedAt": "2026-11-16T10:35:04.821Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/inline-style-parser",
+          "observedAt": "2026-11-16T10:35:04.821Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/inline-style-parser",
+          "observedAt": "2026-11-16T10:35:04.821Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/inline-style-parser",
+          "observedAt": "2026-11-16T10:35:04.821Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/inline-style-parser",
+          "observedAt": "2026-11-16T10:35:04.821Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

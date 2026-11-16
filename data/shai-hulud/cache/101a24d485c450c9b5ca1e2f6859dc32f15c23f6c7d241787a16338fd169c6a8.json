@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "pkg": "mobioffice-cli",
+  "source": "https://registry.npmjs.org/mobioffice-cli",
+  "fetchedAt": "2026-11-16T10:32:23.893Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 6
+  },
+  "sourceSha256": "bd0e5b186ec61ffda12b1740973bea3d7fe6d2ef466a6e499060cc9d326bb8bf",
+  "versions": [
+    {
+      "pkg": "mobioffice-cli",
+      "semver": "1.0.2",
+      "publishedAt": "2024-12-28T04:53:36.765Z",
+      "publisher": "mohit_ahirwal",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 412526,
+      "dependencies": {
+        "fs": "^0.0.1-security",
+        "csv": "^6.2.5",
+        "path": "^0.12.7",
+        "xlsx": "^0.18.5",
+        "axios": "^1.7.9",
+        "mysql": "^2.18.1",
+        "mysql2": "^3.6.5",
+        "fireorm": "^0.23.3",
+        "date-fns": "^2.30.0",
+        "qr-image": "^3.2.0",
+        "getstream": "^8.1.0",
+        "@types/node": "^18.11.10",
+        "firebase-admin": "^11.8.0",
+        "isomorphic-fetch": "^3.0.0",
+        "reflect-metadata": "^0.1.13",
+        "command-line-args": "^5.2.1",
+        "convert-csv-to-json": "^1.4.0",
+        "@google-cloud/pubsub": "^4.1.0",
+        "@planetscale/database": "^1.7.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/mobioffice-cli",
+          "observedAt": "2026-11-16T10:32:23.893Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/mobioffice-cli",
+          "observedAt": "2026-11-16T10:32:23.893Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/mobioffice-cli",
+          "observedAt": "2026-11-16T10:32:23.893Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/mobioffice-cli",
+          "observedAt": "2026-11-16T10:32:23.893Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/mobioffice-cli",
+          "observedAt": "2026-11-16T10:32:23.893Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/mobioffice-cli",
+          "observedAt": "2026-11-16T10:32:23.893Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "mobioffice-cli",
+      "semver": "1.0.3",
+      "publishedAt": "2025-09-15T08:21:37.238Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/mobioffice-cli",
+          "observedAt": "2026-11-16T10:32:23.893Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

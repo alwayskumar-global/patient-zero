@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@svgr/babel-plugin-transform-react-native-svg",
+  "source": "https://registry.npmjs.org/%40svgr%2Fbabel-plugin-transform-react-native-svg",
+  "fetchedAt": "2026-11-16T10:34:42.657Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 14
+  },
+  "sourceSha256": "0931a6e3cd4ce8951c5c6d166cc2740a5ea441b1c09457d35a97fccd62a755b8",
+  "versions": [
+    {
+      "pkg": "@svgr/babel-plugin-transform-react-native-svg",
+      "semver": "8.1.0",
+      "publishedAt": "2023-08-15T06:46:18.379Z",
+      "publisher": "neoziro",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 13196,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40svgr%2Fbabel-plugin-transform-react-native-svg",
+          "observedAt": "2026-11-16T10:34:42.657Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40svgr%2Fbabel-plugin-transform-react-native-svg",
+          "observedAt": "2026-11-16T10:34:42.657Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40svgr%2Fbabel-plugin-transform-react-native-svg",
+          "observedAt": "2026-11-16T10:34:42.657Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40svgr%2Fbabel-plugin-transform-react-native-svg",
+          "observedAt": "2026-11-16T10:34:42.657Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40svgr%2Fbabel-plugin-transform-react-native-svg",
+          "observedAt": "2026-11-16T10:34:42.657Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40svgr%2Fbabel-plugin-transform-react-native-svg",
+          "observedAt": "2026-11-16T10:34:42.657Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "linkify-it",
+  "source": "https://registry.npmjs.org/linkify-it",
+  "fetchedAt": "2026-11-16T10:35:09.474Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 32
+  },
+  "sourceSha256": "7b4ca2de8b7562bba9b48cbfa7a312373b78f3f85c63b64f526c44214bc06c4c",
+  "versions": [
+    {
+      "pkg": "linkify-it",
+      "semver": "5.0.0",
+      "publishedAt": "2023-12-01T21:47:27.805Z",
+      "publisher": "vitaly",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 55391,
+      "dependencies": {
+        "uc.micro": "^2.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/linkify-it",
+          "observedAt": "2026-11-16T10:35:09.474Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/linkify-it",
+          "observedAt": "2026-11-16T10:35:09.474Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/linkify-it",
+          "observedAt": "2026-11-16T10:35:09.474Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/linkify-it",
+          "observedAt": "2026-11-16T10:35:09.474Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/linkify-it",
+          "observedAt": "2026-11-16T10:35:09.474Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/linkify-it",
+          "observedAt": "2026-11-16T10:35:09.474Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

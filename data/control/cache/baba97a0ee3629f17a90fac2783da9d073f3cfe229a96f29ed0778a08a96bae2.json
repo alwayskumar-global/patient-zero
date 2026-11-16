@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "pg-protocol",
+  "source": "https://registry.npmjs.org/pg-protocol",
+  "fetchedAt": "2026-11-16T10:35:17.861Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 28
+  },
+  "sourceSha256": "2c940ae17e23523446c20f74d49604cb822184e8e1625ebf0d6d4257c03fa1dd",
+  "versions": [
+    {
+      "pkg": "pg-protocol",
+      "semver": "1.10.3",
+      "publishedAt": "2025-06-27T14:52:43.549Z",
+      "publisher": "brianc",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 188990,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/pg-protocol",
+          "observedAt": "2026-11-16T10:35:17.861Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/pg-protocol",
+          "observedAt": "2026-11-16T10:35:17.861Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/pg-protocol",
+          "observedAt": "2026-11-16T10:35:17.861Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/pg-protocol",
+          "observedAt": "2026-11-16T10:35:17.861Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/pg-protocol",
+          "observedAt": "2026-11-16T10:35:17.861Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/pg-protocol",
+          "observedAt": "2026-11-16T10:35:17.861Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

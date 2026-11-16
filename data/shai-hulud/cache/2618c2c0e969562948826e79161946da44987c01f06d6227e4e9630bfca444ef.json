@@ -1,0 +1,318 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@art-ws/http-server",
+  "source": "https://registry.npmjs.org/%40art-ws%2Fhttp-server",
+  "fetchedAt": "2026-11-16T10:31:01.231Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 25
+  },
+  "sourceSha256": "7711f7a41a5ec91945cbfeca43444b6ae47fda3dfbbbd4aeec022b598c77d3e5",
+  "versions": [
+    {
+      "pkg": "@art-ws/http-server",
+      "semver": "2.0.15",
+      "publishedAt": "2025-09-01T09:11:38.188Z",
+      "publisher": "art-ws",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 3991,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fhttp-server",
+          "observedAt": "2026-11-16T10:31:01.231Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fhttp-server",
+          "observedAt": "2026-11-16T10:31:01.231Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fhttp-server",
+          "observedAt": "2026-11-16T10:31:01.231Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fhttp-server",
+          "observedAt": "2026-11-16T10:31:01.231Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fhttp-server",
+          "observedAt": "2026-11-16T10:31:01.231Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fhttp-server",
+          "observedAt": "2026-11-16T10:31:01.231Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@art-ws/http-server",
+      "semver": "2.0.16",
+      "publishedAt": "2025-09-13T19:29:38.169Z",
+      "publisher": "art-ws",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 4052,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fhttp-server",
+          "observedAt": "2026-11-16T10:31:01.231Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fhttp-server",
+          "observedAt": "2026-11-16T10:31:01.231Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fhttp-server",
+          "observedAt": "2026-11-16T10:31:01.231Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fhttp-server",
+          "observedAt": "2026-11-16T10:31:01.231Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fhttp-server",
+          "observedAt": "2026-11-16T10:31:01.231Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fhttp-server",
+          "observedAt": "2026-11-16T10:31:01.231Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@art-ws/http-server",
+      "semver": "2.0.17",
+      "publishedAt": "2025-09-14T06:15:08.695Z",
+      "publisher": "art-ws",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 4052,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fhttp-server",
+          "observedAt": "2026-11-16T10:31:01.231Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fhttp-server",
+          "observedAt": "2026-11-16T10:31:01.231Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fhttp-server",
+          "observedAt": "2026-11-16T10:31:01.231Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fhttp-server",
+          "observedAt": "2026-11-16T10:31:01.231Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fhttp-server",
+          "observedAt": "2026-11-16T10:31:01.231Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fhttp-server",
+          "observedAt": "2026-11-16T10:31:01.231Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@art-ws/http-server",
+      "semver": "2.0.18",
+      "publishedAt": "2025-09-14T06:38:13.630Z",
+      "publisher": "art-ws",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 4052,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fhttp-server",
+          "observedAt": "2026-11-16T10:31:01.231Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fhttp-server",
+          "observedAt": "2026-11-16T10:31:01.231Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fhttp-server",
+          "observedAt": "2026-11-16T10:31:01.231Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fhttp-server",
+          "observedAt": "2026-11-16T10:31:01.231Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fhttp-server",
+          "observedAt": "2026-11-16T10:31:01.231Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fhttp-server",
+          "observedAt": "2026-11-16T10:31:01.231Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@art-ws/http-server",
+      "semver": "2.0.19",
+      "publishedAt": "2025-09-14T08:33:30.849Z",
+      "publisher": "art-ws",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 4052,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fhttp-server",
+          "observedAt": "2026-11-16T10:31:01.231Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fhttp-server",
+          "observedAt": "2026-11-16T10:31:01.231Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fhttp-server",
+          "observedAt": "2026-11-16T10:31:01.231Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fhttp-server",
+          "observedAt": "2026-11-16T10:31:01.231Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fhttp-server",
+          "observedAt": "2026-11-16T10:31:01.231Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fhttp-server",
+          "observedAt": "2026-11-16T10:31:01.231Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@art-ws/http-server",
+      "semver": "2.0.20",
+      "publishedAt": "2025-09-15T05:13:58.661Z",
+      "publisher": "art-ws",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 4052,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fhttp-server",
+          "observedAt": "2026-11-16T10:31:01.231Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fhttp-server",
+          "observedAt": "2026-11-16T10:31:01.231Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fhttp-server",
+          "observedAt": "2026-11-16T10:31:01.231Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fhttp-server",
+          "observedAt": "2026-11-16T10:31:01.231Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fhttp-server",
+          "observedAt": "2026-11-16T10:31:01.231Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fhttp-server",
+          "observedAt": "2026-11-16T10:31:01.231Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@art-ws/http-server",
+      "semver": "2.0.21",
+      "publishedAt": "2025-09-15T05:21:17.745Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fhttp-server",
+          "observedAt": "2026-11-16T10:31:01.231Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@art-ws/http-server",
+      "semver": "2.0.24",
+      "publishedAt": "2025-09-15T08:56:16.966Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fhttp-server",
+          "observedAt": "2026-11-16T10:31:01.231Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@art-ws/http-server",
+      "semver": "2.0.25",
+      "publishedAt": "2025-09-15T08:58:33.548Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fhttp-server",
+          "observedAt": "2026-11-16T10:31:01.231Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

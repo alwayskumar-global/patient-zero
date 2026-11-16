@@ -1,0 +1,547 @@
+{
+  "schemaVersion": 1,
+  "pkg": "mocha",
+  "source": "https://registry.npmjs.org/mocha",
+  "fetchedAt": "2026-11-16T10:35:14.064Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 252
+  },
+  "sourceSha256": "8c9e1c3f09008c08eb3e5cd647c314f04f1881f3ddd40d7bf582375a4da3ea75",
+  "versions": [
+    {
+      "pkg": "mocha",
+      "semver": "1.15.0",
+      "publishedAt": "2013-12-02T16:54:59.270Z",
+      "publisher": "tjholowaychuk",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "diff": "1.0.7",
+        "glob": "3.2.3",
+        "jade": "0.26.3",
+        "debug": "*",
+        "growl": "1.7.x",
+        "mkdirp": "0.3.5",
+        "commander": "2.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/mocha",
+          "observedAt": "2026-11-16T10:35:14.064Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/mocha",
+          "observedAt": "2026-11-16T10:35:14.064Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/mocha",
+          "observedAt": "2026-11-16T10:35:14.064Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/mocha",
+          "observedAt": "2026-11-16T10:35:14.064Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/mocha",
+          "observedAt": "2026-11-16T10:35:14.064Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "mocha",
+      "semver": "10.2.0",
+      "publishedAt": "2022-12-11T14:18:56.217Z",
+      "publisher": "juergba",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 2086789,
+      "dependencies": {
+        "he": "1.2.0",
+        "ms": "2.1.3",
+        "diff": "5.0.0",
+        "glob": "7.2.0",
+        "debug": "4.3.4",
+        "yargs": "16.2.0",
+        "nanoid": "3.3.3",
+        "find-up": "5.0.0",
+        "js-yaml": "4.1.0",
+        "chokidar": "3.5.3",
+        "minimatch": "5.0.1",
+        "workerpool": "6.2.1",
+        "ansi-colors": "4.1.1",
+        "log-symbols": "4.1.0",
+        "yargs-parser": "20.2.4",
+        "browser-stdout": "1.3.1",
+        "supports-color": "8.1.1",
+        "yargs-unparser": "2.0.0",
+        "strip-json-comments": "3.1.1",
+        "escape-string-regexp": "4.0.0",
+        "serialize-javascript": "6.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/mocha",
+          "observedAt": "2026-11-16T10:35:14.064Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/mocha",
+          "observedAt": "2026-11-16T10:35:14.064Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/mocha",
+          "observedAt": "2026-11-16T10:35:14.064Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/mocha",
+          "observedAt": "2026-11-16T10:35:14.064Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/mocha",
+          "observedAt": "2026-11-16T10:35:14.064Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/mocha",
+          "observedAt": "2026-11-16T10:35:14.064Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "mocha",
+      "semver": "11.0.0-beta",
+      "publishedAt": "2024-11-23T16:38:40.447Z",
+      "publisher": "joshuakgoldberg",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 2128931,
+      "dependencies": {
+        "he": "^1.2.0",
+        "ms": "^2.1.3",
+        "diff": "^5.2.0",
+        "glob": "^10.4.5",
+        "debug": "^4.3.5",
+        "yargs": "^16.2.0",
+        "find-up": "^5.0.0",
+        "js-yaml": "^4.1.0",
+        "chokidar": "^3.5.3",
+        "minimatch": "^5.1.6",
+        "workerpool": "^6.5.1",
+        "ansi-colors": "^4.1.3",
+        "log-symbols": "^4.1.0",
+        "yargs-parser": "^20.2.9",
+        "browser-stdout": "^1.3.1",
+        "supports-color": "^8.1.1",
+        "yargs-unparser": "^2.0.0",
+        "strip-json-comments": "^3.1.1",
+        "escape-string-regexp": "^4.0.0",
+        "serialize-javascript": "^6.0.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/mocha",
+          "observedAt": "2026-11-16T10:35:14.064Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/mocha",
+          "observedAt": "2026-11-16T10:35:14.064Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/mocha",
+          "observedAt": "2026-11-16T10:35:14.064Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/mocha",
+          "observedAt": "2026-11-16T10:35:14.064Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/mocha",
+          "observedAt": "2026-11-16T10:35:14.064Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/mocha",
+          "observedAt": "2026-11-16T10:35:14.064Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "mocha",
+      "semver": "11.7.1",
+      "publishedAt": "2025-06-24T13:35:20.122Z",
+      "publisher": "voxpelli",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 2306325,
+      "dependencies": {
+        "he": "^1.2.0",
+        "ms": "^2.1.3",
+        "diff": "^7.0.0",
+        "glob": "^10.4.5",
+        "debug": "^4.3.5",
+        "yargs": "^17.7.2",
+        "find-up": "^5.0.0",
+        "js-yaml": "^4.1.0",
+        "chokidar": "^4.0.1",
+        "minimatch": "^9.0.5",
+        "picocolors": "^1.1.1",
+        "workerpool": "^9.2.0",
+        "log-symbols": "^4.1.0",
+        "yargs-parser": "^21.1.1",
+        "browser-stdout": "^1.3.1",
+        "supports-color": "^8.1.1",
+        "yargs-unparser": "^2.0.0",
+        "strip-json-comments": "^3.1.1",
+        "escape-string-regexp": "^4.0.0",
+        "serialize-javascript": "^6.0.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/mocha",
+          "observedAt": "2026-11-16T10:35:14.064Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/mocha",
+          "observedAt": "2026-11-16T10:35:14.064Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/mocha",
+          "observedAt": "2026-11-16T10:35:14.064Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/mocha",
+          "observedAt": "2026-11-16T10:35:14.064Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/mocha",
+          "observedAt": "2026-11-16T10:35:14.064Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/mocha",
+          "observedAt": "2026-11-16T10:35:14.064Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "mocha",
+      "semver": "2.3.4",
+      "publishedAt": "2015-11-15T20:26:32.343Z",
+      "publisher": "travisjeffery",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "diff": "1.4.0",
+        "glob": "3.2.3",
+        "jade": "0.26.3",
+        "debug": "2.2.0",
+        "growl": "1.8.1",
+        "mkdirp": "0.5.0",
+        "commander": "2.3.0",
+        "supports-color": "1.2.0",
+        "escape-string-regexp": "1.0.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/mocha",
+          "observedAt": "2026-11-16T10:35:14.064Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/mocha",
+          "observedAt": "2026-11-16T10:35:14.064Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/mocha",
+          "observedAt": "2026-11-16T10:35:14.064Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/mocha",
+          "observedAt": "2026-11-16T10:35:14.064Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/mocha",
+          "observedAt": "2026-11-16T10:35:14.064Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "mocha",
+      "semver": "3.4.0",
+      "publishedAt": "2017-05-14T17:54:03.510Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/mocha",
+          "observedAt": "2026-11-16T10:35:14.064Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "mocha",
+      "semver": "3.4.1",
+      "publishedAt": "2017-05-14T19:05:50.498Z",
+      "publisher": "scottfreecode",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "diff": "3.2.0",
+        "glob": "7.1.1",
+        "debug": "2.6.0",
+        "growl": "1.9.2",
+        "json3": "3.3.2",
+        "mkdirp": "0.5.1",
+        "commander": "2.9.0",
+        "lodash.create": "3.1.1",
+        "browser-stdout": "1.3.0",
+        "supports-color": "3.1.2",
+        "escape-string-regexp": "1.0.5"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/mocha",
+          "observedAt": "2026-11-16T10:35:14.064Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/mocha",
+          "observedAt": "2026-11-16T10:35:14.064Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/mocha",
+          "observedAt": "2026-11-16T10:35:14.064Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/mocha",
+          "observedAt": "2026-11-16T10:35:14.064Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/mocha",
+          "observedAt": "2026-11-16T10:35:14.064Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "mocha",
+      "semver": "3.4.2",
+      "publishedAt": "2017-05-24T16:03:22.193Z",
+      "publisher": "dasilvacontin",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "diff": "3.2.0",
+        "glob": "7.1.1",
+        "debug": "2.6.0",
+        "growl": "1.9.2",
+        "json3": "3.3.2",
+        "mkdirp": "0.5.1",
+        "commander": "2.9.0",
+        "lodash.create": "3.1.1",
+        "browser-stdout": "1.3.0",
+        "supports-color": "3.1.2",
+        "escape-string-regexp": "1.0.5"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/mocha",
+          "observedAt": "2026-11-16T10:35:14.064Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/mocha",
+          "observedAt": "2026-11-16T10:35:14.064Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/mocha",
+          "observedAt": "2026-11-16T10:35:14.064Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/mocha",
+          "observedAt": "2026-11-16T10:35:14.064Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/mocha",
+          "observedAt": "2026-11-16T10:35:14.064Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "mocha",
+      "semver": "7.2.0",
+      "publishedAt": "2020-05-23T11:41:32.286Z",
+      "publisher": "craigtaub",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 943056,
+      "dependencies": {
+        "he": "1.2.0",
+        "ms": "2.1.1",
+        "diff": "3.5.0",
+        "glob": "7.1.3",
+        "debug": "3.2.6",
+        "growl": "1.10.5",
+        "which": "1.3.1",
+        "yargs": "13.3.2",
+        "mkdirp": "0.5.5",
+        "find-up": "3.0.0",
+        "js-yaml": "3.13.1",
+        "chokidar": "3.3.0",
+        "minimatch": "3.0.4",
+        "wide-align": "1.1.3",
+        "ansi-colors": "3.2.3",
+        "log-symbols": "3.0.0",
+        "yargs-parser": "13.1.2",
+        "object.assign": "4.1.0",
+        "browser-stdout": "1.3.1",
+        "supports-color": "6.0.0",
+        "yargs-unparser": "1.6.0",
+        "strip-json-comments": "2.0.1",
+        "escape-string-regexp": "1.0.5",
+        "node-environment-flags": "1.0.6"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/mocha",
+          "observedAt": "2026-11-16T10:35:14.064Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/mocha",
+          "observedAt": "2026-11-16T10:35:14.064Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/mocha",
+          "observedAt": "2026-11-16T10:35:14.064Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/mocha",
+          "observedAt": "2026-11-16T10:35:14.064Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/mocha",
+          "observedAt": "2026-11-16T10:35:14.064Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/mocha",
+          "observedAt": "2026-11-16T10:35:14.064Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "mocha",
+      "semver": "8.2.1",
+      "publishedAt": "2020-11-02T22:54:27.988Z",
+      "publisher": "boneskull",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 3041743,
+      "dependencies": {
+        "he": "1.2.0",
+        "ms": "2.1.2",
+        "diff": "4.0.2",
+        "glob": "7.1.6",
+        "debug": "4.2.0",
+        "growl": "1.10.5",
+        "which": "2.0.2",
+        "yargs": "13.3.2",
+        "nanoid": "3.1.12",
+        "find-up": "5.0.0",
+        "js-yaml": "3.14.0",
+        "chokidar": "3.4.3",
+        "minimatch": "3.0.4",
+        "wide-align": "1.1.3",
+        "workerpool": "6.0.2",
+        "ansi-colors": "4.1.1",
+        "log-symbols": "4.0.0",
+        "yargs-parser": "13.1.2",
+        "browser-stdout": "1.3.1",
+        "supports-color": "7.2.0",
+        "yargs-unparser": "2.0.0",
+        "strip-json-comments": "3.1.1",
+        "escape-string-regexp": "4.0.0",
+        "serialize-javascript": "5.0.1",
+        "@ungap/promise-all-settled": "1.1.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/mocha",
+          "observedAt": "2026-11-16T10:35:14.064Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/mocha",
+          "observedAt": "2026-11-16T10:35:14.064Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/mocha",
+          "observedAt": "2026-11-16T10:35:14.064Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/mocha",
+          "observedAt": "2026-11-16T10:35:14.064Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/mocha",
+          "observedAt": "2026-11-16T10:35:14.064Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/mocha",
+          "observedAt": "2026-11-16T10:35:14.064Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

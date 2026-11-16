@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "pkg": "natural-compare",
+  "source": "https://registry.npmjs.org/natural-compare",
+  "fetchedAt": "2026-11-16T10:35:14.384Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 2
+  },
+  "sourceSha256": "7b1202f89cb8d519f854f74ca2da3c70cf3bbe73748a6e2f1edf8734274b31c1",
+  "versions": [
+    {
+      "pkg": "natural-compare",
+      "semver": "1.4.0",
+      "publishedAt": "2016-07-22T20:48:12.217Z",
+      "publisher": "megawac",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/natural-compare",
+          "observedAt": "2026-11-16T10:35:14.384Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/natural-compare",
+          "observedAt": "2026-11-16T10:35:14.384Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/natural-compare",
+          "observedAt": "2026-11-16T10:35:14.384Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/natural-compare",
+          "observedAt": "2026-11-16T10:35:14.384Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/natural-compare",
+          "observedAt": "2026-11-16T10:35:14.384Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

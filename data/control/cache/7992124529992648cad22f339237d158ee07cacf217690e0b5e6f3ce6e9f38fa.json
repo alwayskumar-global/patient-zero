@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "json-bigint",
+  "source": "https://registry.npmjs.org/json-bigint",
+  "fetchedAt": "2026-11-16T10:35:08.707Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 17
+  },
+  "sourceSha256": "b667948be6f2f723a1dd686e8b30da922a6b42768b5851a43cf3b6c806702a29",
+  "versions": [
+    {
+      "pkg": "json-bigint",
+      "semver": "1.0.0",
+      "publishedAt": "2020-07-14T11:29:39.282Z",
+      "publisher": "sidorares",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 37345,
+      "dependencies": {
+        "bignumber.js": "^9.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/json-bigint",
+          "observedAt": "2026-11-16T10:35:08.707Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/json-bigint",
+          "observedAt": "2026-11-16T10:35:08.707Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/json-bigint",
+          "observedAt": "2026-11-16T10:35:08.707Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/json-bigint",
+          "observedAt": "2026-11-16T10:35:08.707Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/json-bigint",
+          "observedAt": "2026-11-16T10:35:08.707Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/json-bigint",
+          "observedAt": "2026-11-16T10:35:08.707Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

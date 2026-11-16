@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "flatted",
+  "source": "https://registry.npmjs.org/flatted",
+  "fetchedAt": "2026-11-16T10:35:02.607Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 44
+  },
+  "sourceSha256": "001d9d0bc6d68b4764f5188959c04f665463fa6c9045aefa9d51465e6accd1ef",
+  "versions": [
+    {
+      "pkg": "flatted",
+      "semver": "3.3.3",
+      "publishedAt": "2025-02-18T08:55:07.168Z",
+      "publisher": "webreflection",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 31530,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/flatted",
+          "observedAt": "2026-11-16T10:35:02.607Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/flatted",
+          "observedAt": "2026-11-16T10:35:02.607Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/flatted",
+          "observedAt": "2026-11-16T10:35:02.607Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/flatted",
+          "observedAt": "2026-11-16T10:35:02.607Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/flatted",
+          "observedAt": "2026-11-16T10:35:02.607Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/flatted",
+          "observedAt": "2026-11-16T10:35:02.607Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

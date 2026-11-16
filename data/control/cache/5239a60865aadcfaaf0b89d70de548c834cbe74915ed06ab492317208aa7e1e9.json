@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "pkg": "spdx-correct",
+  "source": "https://registry.npmjs.org/spdx-correct",
+  "fetchedAt": "2026-11-16T10:35:26.968Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 18
+  },
+  "sourceSha256": "7dba5d55e24cbd1958d214c6bdacbe4aa9be1fbcdb3fc27607dbc7f6d85d4a70",
+  "versions": [
+    {
+      "pkg": "spdx-correct",
+      "semver": "3.0.2",
+      "publishedAt": "2018-10-04T19:51:52.846Z",
+      "publisher": "taleinat",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 21829,
+      "dependencies": {
+        "spdx-expression-parse": "^3.0.0",
+        "spdx-license-ids": "^3.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/spdx-correct",
+          "observedAt": "2026-11-16T10:35:26.968Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/spdx-correct",
+          "observedAt": "2026-11-16T10:35:26.968Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/spdx-correct",
+          "observedAt": "2026-11-16T10:35:26.968Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/spdx-correct",
+          "observedAt": "2026-11-16T10:35:26.968Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/spdx-correct",
+          "observedAt": "2026-11-16T10:35:26.968Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/spdx-correct",
+          "observedAt": "2026-11-16T10:35:26.968Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "spdx-correct",
+      "semver": "3.2.0",
+      "publishedAt": "2023-03-07T01:53:18.381Z",
+      "publisher": "kemitchell",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 23412,
+      "dependencies": {
+        "spdx-expression-parse": "^3.0.0",
+        "spdx-license-ids": "^3.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/spdx-correct",
+          "observedAt": "2026-11-16T10:35:26.968Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/spdx-correct",
+          "observedAt": "2026-11-16T10:35:26.968Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/spdx-correct",
+          "observedAt": "2026-11-16T10:35:26.968Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/spdx-correct",
+          "observedAt": "2026-11-16T10:35:26.968Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/spdx-correct",
+          "observedAt": "2026-11-16T10:35:26.968Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/spdx-correct",
+          "observedAt": "2026-11-16T10:35:26.968Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

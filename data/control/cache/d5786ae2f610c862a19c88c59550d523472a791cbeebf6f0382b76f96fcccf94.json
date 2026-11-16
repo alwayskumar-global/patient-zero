@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@types/parse-json",
+  "source": "https://registry.npmjs.org/%40types%2Fparse-json",
+  "fetchedAt": "2026-11-16T10:34:51.244Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 4
+  },
+  "sourceSha256": "658b5d74c28ff0ad834c78e901f02828e993eb7b2ab5e7e72344f9c02c452017",
+  "versions": [
+    {
+      "pkg": "@types/parse-json",
+      "semver": "7.0.0",
+      "publishedAt": "2025-02-21T17:33:12.018Z",
+      "publisher": "types",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 1760,
+      "dependencies": {
+        "parse-json": "*"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40types%2Fparse-json",
+          "observedAt": "2026-11-16T10:34:51.244Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40types%2Fparse-json",
+          "observedAt": "2026-11-16T10:34:51.244Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40types%2Fparse-json",
+          "observedAt": "2026-11-16T10:34:51.244Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40types%2Fparse-json",
+          "observedAt": "2026-11-16T10:34:51.244Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40types%2Fparse-json",
+          "observedAt": "2026-11-16T10:34:51.244Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40types%2Fparse-json",
+          "observedAt": "2026-11-16T10:34:51.244Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "pkg": "micromark-factory-destination",
+  "source": "https://registry.npmjs.org/micromark-factory-destination",
+  "fetchedAt": "2026-11-16T10:35:12.755Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 8
+  },
+  "sourceSha256": "875b1e9666a8f66014e06af982a21c9bef0da5d3172ed4694ddc73de917da602",
+  "versions": [
+    {
+      "pkg": "micromark-factory-destination",
+      "semver": "2.0.1",
+      "publishedAt": "2024-11-12T11:16:55.545Z",
+      "publisher": "wooorm",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 20549,
+      "dependencies": {
+        "micromark-util-character": "^2.0.0",
+        "micromark-util-symbol": "^2.0.0",
+        "micromark-util-types": "^2.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/micromark-factory-destination",
+          "observedAt": "2026-11-16T10:35:12.755Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/micromark-factory-destination",
+          "observedAt": "2026-11-16T10:35:12.755Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/micromark-factory-destination",
+          "observedAt": "2026-11-16T10:35:12.755Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/micromark-factory-destination",
+          "observedAt": "2026-11-16T10:35:12.755Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/micromark-factory-destination",
+          "observedAt": "2026-11-16T10:35:12.755Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/micromark-factory-destination",
+          "observedAt": "2026-11-16T10:35:12.755Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

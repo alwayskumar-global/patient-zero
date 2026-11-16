@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 1,
+  "pkg": "whatwg-fetch",
+  "source": "https://registry.npmjs.org/whatwg-fetch",
+  "fetchedAt": "2026-11-16T10:35:34.720Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 51
+  },
+  "sourceSha256": "5626ac70d4f8bafef03207bdd94ba088d33a5f49f331c3f7b288d85f270c9870",
+  "versions": [
+    {
+      "pkg": "whatwg-fetch",
+      "semver": "0.9.0",
+      "publishedAt": "2015-05-29T21:01:17.713Z",
+      "publisher": "mattandrews",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/whatwg-fetch",
+          "observedAt": "2026-11-16T10:35:34.720Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/whatwg-fetch",
+          "observedAt": "2026-11-16T10:35:34.720Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/whatwg-fetch",
+          "observedAt": "2026-11-16T10:35:34.720Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/whatwg-fetch",
+          "observedAt": "2026-11-16T10:35:34.720Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/whatwg-fetch",
+          "observedAt": "2026-11-16T10:35:34.720Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "whatwg-fetch",
+      "semver": "3.0.0",
+      "publishedAt": "2018-09-10T08:11:41.299Z",
+      "publisher": "mislav",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 46470,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/whatwg-fetch",
+          "observedAt": "2026-11-16T10:35:34.720Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/whatwg-fetch",
+          "observedAt": "2026-11-16T10:35:34.720Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/whatwg-fetch",
+          "observedAt": "2026-11-16T10:35:34.720Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/whatwg-fetch",
+          "observedAt": "2026-11-16T10:35:34.720Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/whatwg-fetch",
+          "observedAt": "2026-11-16T10:35:34.720Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/whatwg-fetch",
+          "observedAt": "2026-11-16T10:35:34.720Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "whatwg-fetch",
+      "semver": "3.6.20",
+      "publishedAt": "2023-12-13T23:16:24.862Z",
+      "publisher": "jakechampion",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 57427,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/whatwg-fetch",
+          "observedAt": "2026-11-16T10:35:34.720Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/whatwg-fetch",
+          "observedAt": "2026-11-16T10:35:34.720Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/whatwg-fetch",
+          "observedAt": "2026-11-16T10:35:34.720Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/whatwg-fetch",
+          "observedAt": "2026-11-16T10:35:34.720Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/whatwg-fetch",
+          "observedAt": "2026-11-16T10:35:34.720Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/whatwg-fetch",
+          "observedAt": "2026-11-16T10:35:34.720Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

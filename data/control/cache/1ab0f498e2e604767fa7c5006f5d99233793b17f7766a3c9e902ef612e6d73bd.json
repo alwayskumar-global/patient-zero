@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "uri-js",
+  "source": "https://registry.npmjs.org/uri-js",
+  "fetchedAt": "2026-11-16T10:35:31.708Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 14
+  },
+  "sourceSha256": "f4690a1fc028872aa58d8ffbd6aec3cab46ec2af3a49b0daa85bf27649f0dca9",
+  "versions": [
+    {
+      "pkg": "uri-js",
+      "semver": "4.4.1",
+      "publishedAt": "2021-01-10T00:43:12.666Z",
+      "publisher": "garycourt",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 469879,
+      "dependencies": {
+        "punycode": "^2.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/uri-js",
+          "observedAt": "2026-11-16T10:35:31.708Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/uri-js",
+          "observedAt": "2026-11-16T10:35:31.708Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/uri-js",
+          "observedAt": "2026-11-16T10:35:31.708Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/uri-js",
+          "observedAt": "2026-11-16T10:35:31.708Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/uri-js",
+          "observedAt": "2026-11-16T10:35:31.708Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/uri-js",
+          "observedAt": "2026-11-16T10:35:31.708Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

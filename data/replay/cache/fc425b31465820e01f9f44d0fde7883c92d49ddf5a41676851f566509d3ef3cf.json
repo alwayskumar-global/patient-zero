@@ -1,0 +1,2269 @@
+{
+  "schemaVersion": 1,
+  "pkg": "supports-color",
+  "source": "https://registry.npmjs.org/supports-color",
+  "fetchedAt": "2026-11-16T10:07:11.757Z",
+  "sourceSha256": "d1371ae858233341cfaeb3226de1212f9f26c649e9ed4885f9e3226f5179f7c7",
+  "versions": [
+    {
+      "pkg": "supports-color",
+      "semver": "0.2.0",
+      "publishedAt": "2014-06-14T01:45:57.033Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "supports-color",
+      "semver": "1.0.0",
+      "publishedAt": "2014-08-13T16:35:11.503Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "supports-color",
+      "semver": "1.1.0",
+      "publishedAt": "2014-08-19T23:31:57.814Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "supports-color",
+      "semver": "1.2.0",
+      "publishedAt": "2014-10-12T21:36:25.330Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "supports-color",
+      "semver": "1.2.1",
+      "publishedAt": "2015-02-22T09:28:35.164Z",
+      "publisher": "jbnicolai",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "supports-color",
+      "semver": "1.3.0",
+      "publishedAt": "2015-02-23T06:58:50.877Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "supports-color",
+      "semver": "1.3.1",
+      "publishedAt": "2015-03-16T10:58:24.112Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "supports-color",
+      "semver": "10.0.0",
+      "publishedAt": "2024-12-18T17:55:27.599Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 10617,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "supports-color",
+      "semver": "10.1.0",
+      "publishedAt": "2025-08-03T23:27:06.324Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 10670,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "supports-color",
+      "semver": "10.2.0",
+      "publishedAt": "2025-08-17T07:28:56.534Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 10717,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "supports-color",
+      "semver": "10.2.1",
+      "publishedAt": "2025-09-08T13:13:28.154Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "supports-color",
+      "semver": "10.2.2",
+      "publishedAt": "2025-09-08T14:49:55.476Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 10717,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "supports-color",
+      "semver": "11.0.0",
+      "publishedAt": "2026-07-26T15:13:36.815Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 11618,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "supports-color",
+      "semver": "2.0.0",
+      "publishedAt": "2015-06-30T22:58:34.955Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "supports-color",
+      "semver": "3.0.0",
+      "publishedAt": "2015-07-15T23:40:25.242Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "has-flag": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "supports-color",
+      "semver": "3.0.1",
+      "publishedAt": "2015-07-16T20:43:38.209Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "has-flag": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "supports-color",
+      "semver": "3.1.0",
+      "publishedAt": "2015-07-18T14:26:04.931Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "has-flag": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "supports-color",
+      "semver": "3.1.1",
+      "publishedAt": "2015-09-02T19:04:25.188Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "has-flag": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "supports-color",
+      "semver": "3.1.2",
+      "publishedAt": "2015-10-13T11:20:54.814Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "has-flag": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "supports-color",
+      "semver": "3.2.0",
+      "publishedAt": "2017-01-15T23:58:12.939Z",
+      "publisher": "qix",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "has-flag": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "supports-color",
+      "semver": "3.2.1",
+      "publishedAt": "2017-01-16T00:10:36.346Z",
+      "publisher": "qix",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "has-flag": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "supports-color",
+      "semver": "3.2.2",
+      "publishedAt": "2017-01-16T00:19:21.083Z",
+      "publisher": "qix",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "has-flag": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "supports-color",
+      "semver": "3.2.3",
+      "publishedAt": "2017-01-16T00:27:52.732Z",
+      "publisher": "qix",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "has-flag": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "supports-color",
+      "semver": "4.0.0",
+      "publishedAt": "2017-06-20T19:22:36.244Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "has-flag": "^2.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "supports-color",
+      "semver": "4.1.0",
+      "publishedAt": "2017-06-30T18:57:08.483Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "has-flag": "^2.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "supports-color",
+      "semver": "4.2.0",
+      "publishedAt": "2017-07-07T03:20:42.740Z",
+      "publisher": "qix",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "has-flag": "^2.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "supports-color",
+      "semver": "4.2.1",
+      "publishedAt": "2017-07-22T11:04:58.322Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "has-flag": "^2.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "supports-color",
+      "semver": "4.3.0",
+      "publishedAt": "2017-08-31T02:40:14.004Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "has-flag": "^2.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "supports-color",
+      "semver": "4.4.0",
+      "publishedAt": "2017-08-31T06:54:37.308Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "has-flag": "^2.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "supports-color",
+      "semver": "4.5.0",
+      "publishedAt": "2017-10-18T05:55:44.764Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "has-flag": "^2.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "supports-color",
+      "semver": "5.0.0",
+      "publishedAt": "2017-10-18T06:05:45.239Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "has-flag": "^2.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "supports-color",
+      "semver": "5.0.1",
+      "publishedAt": "2017-11-28T10:54:57.328Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "has-flag": "^2.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "supports-color",
+      "semver": "5.1.0",
+      "publishedAt": "2017-12-11T19:56:38.670Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "has-flag": "^2.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "supports-color",
+      "semver": "5.2.0",
+      "publishedAt": "2018-02-11T12:51:25.740Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 6670,
+      "dependencies": {
+        "has-flag": "^3.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "supports-color",
+      "semver": "5.3.0",
+      "publishedAt": "2018-03-02T09:07:59.696Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 6779,
+      "dependencies": {
+        "has-flag": "^3.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "supports-color",
+      "semver": "5.4.0",
+      "publishedAt": "2018-04-17T03:57:41.760Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 6693,
+      "dependencies": {
+        "has-flag": "^3.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "supports-color",
+      "semver": "5.5.0",
+      "publishedAt": "2018-08-20T04:37:37.309Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 6630,
+      "dependencies": {
+        "has-flag": "^3.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "supports-color",
+      "semver": "6.0.0",
+      "publishedAt": "2018-12-21T14:14:26.021Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7260,
+      "dependencies": {
+        "has-flag": "^3.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "supports-color",
+      "semver": "6.1.0",
+      "publishedAt": "2019-01-11T07:09:33.987Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7462,
+      "dependencies": {
+        "has-flag": "^3.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "supports-color",
+      "semver": "7.0.0",
+      "publishedAt": "2019-06-11T17:45:54.069Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 6894,
+      "dependencies": {
+        "has-flag": "^4.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "supports-color",
+      "semver": "7.1.0",
+      "publishedAt": "2019-09-27T04:07:02.795Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7052,
+      "dependencies": {
+        "has-flag": "^4.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "supports-color",
+      "semver": "7.2.0",
+      "publishedAt": "2020-08-28T11:17:34.870Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7035,
+      "dependencies": {
+        "has-flag": "^4.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "supports-color",
+      "semver": "8.0.0",
+      "publishedAt": "2020-11-24T08:32:34.341Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 8390,
+      "dependencies": {
+        "has-flag": "^4.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "supports-color",
+      "semver": "8.1.0",
+      "publishedAt": "2020-12-14T16:16:19.236Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 8399,
+      "dependencies": {
+        "has-flag": "^4.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "supports-color",
+      "semver": "8.1.1",
+      "publishedAt": "2021-01-23T09:21:36.393Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 8452,
+      "dependencies": {
+        "has-flag": "^4.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "supports-color",
+      "semver": "9.0.0",
+      "publishedAt": "2021-04-16T08:15:38.522Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 8815,
+      "dependencies": {
+        "has-flag": "^5.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "supports-color",
+      "semver": "9.0.1",
+      "publishedAt": "2021-05-29T13:06:03.949Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 8677,
+      "dependencies": {
+        "has-flag": "^5.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "supports-color",
+      "semver": "9.0.2",
+      "publishedAt": "2021-07-19T14:01:37.227Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 8758,
+      "dependencies": {
+        "has-flag": "^5.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "supports-color",
+      "semver": "9.1.0",
+      "publishedAt": "2021-11-18T18:04:38.053Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 10151,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "supports-color",
+      "semver": "9.2.0",
+      "publishedAt": "2021-11-26T09:14:21.970Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 10253,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "supports-color",
+      "semver": "9.2.1",
+      "publishedAt": "2021-11-26T09:33:25.398Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 10307,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "supports-color",
+      "semver": "9.2.2",
+      "publishedAt": "2022-03-28T10:44:05.981Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 10408,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "supports-color",
+      "semver": "9.2.3",
+      "publishedAt": "2022-09-07T16:25:35.450Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 10409,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "supports-color",
+      "semver": "9.3.0",
+      "publishedAt": "2022-12-07T12:42:42.978Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 10661,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "supports-color",
+      "semver": "9.3.1",
+      "publishedAt": "2022-12-15T11:29:08.889Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 10772,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "supports-color",
+      "semver": "9.4.0",
+      "publishedAt": "2023-06-28T13:52:12.350Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 10764,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/supports-color",
+          "observedAt": "2026-11-16T10:07:11.757Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

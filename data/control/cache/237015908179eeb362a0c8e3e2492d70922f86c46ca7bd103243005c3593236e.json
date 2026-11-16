@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "has-property-descriptors",
+  "source": "https://registry.npmjs.org/has-property-descriptors",
+  "fetchedAt": "2026-11-16T10:35:03.528Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 3
+  },
+  "sourceSha256": "e48ebe4b22aaebcaab5a6cc97f350d8e99e03f06cd0986ea8abf07046eb501d3",
+  "versions": [
+    {
+      "pkg": "has-property-descriptors",
+      "semver": "1.0.2",
+      "publishedAt": "2024-02-13T05:21:47.659Z",
+      "publisher": "ljharb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 10911,
+      "dependencies": {
+        "es-define-property": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/has-property-descriptors",
+          "observedAt": "2026-11-16T10:35:03.528Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/has-property-descriptors",
+          "observedAt": "2026-11-16T10:35:03.528Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/has-property-descriptors",
+          "observedAt": "2026-11-16T10:35:03.528Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/has-property-descriptors",
+          "observedAt": "2026-11-16T10:35:03.528Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/has-property-descriptors",
+          "observedAt": "2026-11-16T10:35:03.528Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/has-property-descriptors",
+          "observedAt": "2026-11-16T10:35:03.528Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "pkg": "eslint-module-utils",
+  "source": "https://registry.npmjs.org/eslint-module-utils",
+  "fetchedAt": "2026-11-16T10:35:01.168Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 36
+  },
+  "sourceSha256": "f78cb04bb8ce0c6947145aa37bab275b385b0946764cfd69a6cf4900ec79c8ca",
+  "versions": [
+    {
+      "pkg": "eslint-module-utils",
+      "semver": "2.1.0",
+      "publishedAt": "2017-06-02T13:57:50.507Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/eslint-module-utils",
+          "observedAt": "2026-11-16T10:35:01.168Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "eslint-module-utils",
+      "semver": "2.12.1",
+      "publishedAt": "2025-06-20T02:34:20.632Z",
+      "publisher": "ljharb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 55054,
+      "dependencies": {
+        "debug": "^3.2.7"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/eslint-module-utils",
+          "observedAt": "2026-11-16T10:35:01.168Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/eslint-module-utils",
+          "observedAt": "2026-11-16T10:35:01.168Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/eslint-module-utils",
+          "observedAt": "2026-11-16T10:35:01.168Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/eslint-module-utils",
+          "observedAt": "2026-11-16T10:35:01.168Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/eslint-module-utils",
+          "observedAt": "2026-11-16T10:35:01.168Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/eslint-module-utils",
+          "observedAt": "2026-11-16T10:35:01.168Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "eslint-module-utils",
+      "semver": "2.3.0",
+      "publishedAt": "2019-01-22T11:54:15.066Z",
+      "publisher": "benmosher",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 18845,
+      "dependencies": {
+        "debug": "^2.6.8",
+        "pkg-dir": "^2.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/eslint-module-utils",
+          "observedAt": "2026-11-16T10:35:01.168Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/eslint-module-utils",
+          "observedAt": "2026-11-16T10:35:01.168Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/eslint-module-utils",
+          "observedAt": "2026-11-16T10:35:01.168Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/eslint-module-utils",
+          "observedAt": "2026-11-16T10:35:01.168Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/eslint-module-utils",
+          "observedAt": "2026-11-16T10:35:01.168Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/eslint-module-utils",
+          "observedAt": "2026-11-16T10:35:01.168Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

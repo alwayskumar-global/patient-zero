@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "event-target-shim",
+  "source": "https://registry.npmjs.org/event-target-shim",
+  "fetchedAt": "2026-11-16T10:35:01.657Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 27
+  },
+  "sourceSha256": "34a74b64e71b2a328d8c973163ca19508a29a3e993b194464083c5c9af1e1248",
+  "versions": [
+    {
+      "pkg": "event-target-shim",
+      "semver": "6.0.2",
+      "publishedAt": "2021-01-07T08:11:13.294Z",
+      "publisher": "mysticatea",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 390440,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/event-target-shim",
+          "observedAt": "2026-11-16T10:35:01.657Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/event-target-shim",
+          "observedAt": "2026-11-16T10:35:01.657Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/event-target-shim",
+          "observedAt": "2026-11-16T10:35:01.657Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/event-target-shim",
+          "observedAt": "2026-11-16T10:35:01.657Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/event-target-shim",
+          "observedAt": "2026-11-16T10:35:01.657Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/event-target-shim",
+          "observedAt": "2026-11-16T10:35:01.657Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

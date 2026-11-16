@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@aws-sdk/middleware-logger",
+  "source": "https://registry.npmjs.org/%40aws-sdk%2Fmiddleware-logger",
+  "fetchedAt": "2026-11-16T10:34:29.400Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 233
+  },
+  "sourceSha256": "8653f5b3ed7c81314d0295177f60ccb3cf9ed63d13ab252e9089f44cc89cda7d",
+  "versions": [
+    {
+      "pkg": "@aws-sdk/middleware-logger",
+      "semver": "3.840.0",
+      "publishedAt": "2025-06-30T19:22:02.628Z",
+      "publisher": "aws-sdk-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 19399,
+      "dependencies": {
+        "tslib": "^2.6.2",
+        "@smithy/types": "^4.3.1",
+        "@aws-sdk/types": "3.840.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fmiddleware-logger",
+          "observedAt": "2026-11-16T10:34:29.400Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fmiddleware-logger",
+          "observedAt": "2026-11-16T10:34:29.400Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fmiddleware-logger",
+          "observedAt": "2026-11-16T10:34:29.400Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fmiddleware-logger",
+          "observedAt": "2026-11-16T10:34:29.400Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fmiddleware-logger",
+          "observedAt": "2026-11-16T10:34:29.400Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fmiddleware-logger",
+          "observedAt": "2026-11-16T10:34:29.400Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@aws-sdk/middleware-logger",
+      "semver": "3.862.0",
+      "publishedAt": "2025-08-06T19:09:14.734Z",
+      "publisher": "aws-sdk-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 19399,
+      "dependencies": {
+        "tslib": "^2.6.2",
+        "@smithy/types": "^4.3.2",
+        "@aws-sdk/types": "3.862.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fmiddleware-logger",
+          "observedAt": "2026-11-16T10:34:29.400Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fmiddleware-logger",
+          "observedAt": "2026-11-16T10:34:29.400Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fmiddleware-logger",
+          "observedAt": "2026-11-16T10:34:29.400Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fmiddleware-logger",
+          "observedAt": "2026-11-16T10:34:29.400Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fmiddleware-logger",
+          "observedAt": "2026-11-16T10:34:29.400Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fmiddleware-logger",
+          "observedAt": "2026-11-16T10:34:29.400Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

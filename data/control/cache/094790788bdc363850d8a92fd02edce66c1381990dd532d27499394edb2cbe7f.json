@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@types/prettier",
+  "source": "https://registry.npmjs.org/%40types%2Fprettier",
+  "fetchedAt": "2026-11-16T10:34:51.272Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 65
+  },
+  "sourceSha256": "bd1729bba884a73327e674173bb6cfccb6647f5df19b0099ec03bfd5d2f22e72",
+  "versions": [
+    {
+      "pkg": "@types/prettier",
+      "semver": "3.0.0",
+      "publishedAt": "2023-07-29T15:32:49.546Z",
+      "publisher": "types",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 1716,
+      "dependencies": {
+        "prettier": "*"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40types%2Fprettier",
+          "observedAt": "2026-11-16T10:34:51.272Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40types%2Fprettier",
+          "observedAt": "2026-11-16T10:34:51.272Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40types%2Fprettier",
+          "observedAt": "2026-11-16T10:34:51.272Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40types%2Fprettier",
+          "observedAt": "2026-11-16T10:34:51.272Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40types%2Fprettier",
+          "observedAt": "2026-11-16T10:34:51.272Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40types%2Fprettier",
+          "observedAt": "2026-11-16T10:34:51.272Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

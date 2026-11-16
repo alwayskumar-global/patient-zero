@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "env-paths",
+  "source": "https://registry.npmjs.org/env-paths",
+  "fetchedAt": "2026-11-16T10:35:00.682Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 11
+  },
+  "sourceSha256": "d7f29e2f6402290ba4d43ea3697006c70f04bc9eafc14615327d97367964eea0",
+  "versions": [
+    {
+      "pkg": "env-paths",
+      "semver": "3.0.0",
+      "publishedAt": "2021-08-27T20:16:10.424Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 9815,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/env-paths",
+          "observedAt": "2026-11-16T10:35:00.682Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/env-paths",
+          "observedAt": "2026-11-16T10:35:00.682Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/env-paths",
+          "observedAt": "2026-11-16T10:35:00.682Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/env-paths",
+          "observedAt": "2026-11-16T10:35:00.682Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/env-paths",
+          "observedAt": "2026-11-16T10:35:00.682Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/env-paths",
+          "observedAt": "2026-11-16T10:35:00.682Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

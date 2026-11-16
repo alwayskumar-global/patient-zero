@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "pkg": "es6-symbol",
+  "source": "https://registry.npmjs.org/es6-symbol",
+  "fetchedAt": "2026-11-16T10:35:01.092Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 14
+  },
+  "sourceSha256": "2a7d58ee19564be63c7e234d4f58a0d88de3de5a93266fd471fb0908117bb608",
+  "versions": [
+    {
+      "pkg": "es6-symbol",
+      "semver": "3.1.4",
+      "publishedAt": "2024-03-01T13:27:21.636Z",
+      "publisher": "medikoo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 16511,
+      "dependencies": {
+        "d": "^1.0.2",
+        "ext": "^1.7.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/es6-symbol",
+          "observedAt": "2026-11-16T10:35:01.092Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/es6-symbol",
+          "observedAt": "2026-11-16T10:35:01.092Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/es6-symbol",
+          "observedAt": "2026-11-16T10:35:01.092Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/es6-symbol",
+          "observedAt": "2026-11-16T10:35:01.092Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/es6-symbol",
+          "observedAt": "2026-11-16T10:35:01.092Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/es6-symbol",
+          "observedAt": "2026-11-16T10:35:01.092Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

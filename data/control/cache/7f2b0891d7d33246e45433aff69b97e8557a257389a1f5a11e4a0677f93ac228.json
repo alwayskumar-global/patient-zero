@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "pure-rand",
+  "source": "https://registry.npmjs.org/pure-rand",
+  "fetchedAt": "2026-11-16T10:35:21.689Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 52
+  },
+  "sourceSha256": "1cb3aa0c63c71b932096f255ac960747eab821cc8692d6de235331b779c894c8",
+  "versions": [
+    {
+      "pkg": "pure-rand",
+      "semver": "7.0.1",
+      "publishedAt": "2025-02-07T01:10:22.493Z",
+      "publisher": "ndubien",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 85234,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/pure-rand",
+          "observedAt": "2026-11-16T10:35:21.689Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/pure-rand",
+          "observedAt": "2026-11-16T10:35:21.689Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/pure-rand",
+          "observedAt": "2026-11-16T10:35:21.689Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/pure-rand",
+          "observedAt": "2026-11-16T10:35:21.689Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/pure-rand",
+          "observedAt": "2026-11-16T10:35:21.689Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/pure-rand",
+          "observedAt": "2026-11-16T10:35:21.689Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

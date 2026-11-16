@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "pkg": "config-cordova",
+  "source": "https://registry.npmjs.org/config-cordova",
+  "fetchedAt": "2026-11-16T10:32:15.977Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 2
+  },
+  "sourceSha256": "b51317a8575f08ad1c95f1e4c3ad405380a1bc1449c69de451d1e112ea156ef4",
+  "versions": [
+    {
+      "pkg": "config-cordova",
+      "semver": "0.8.4",
+      "publishedAt": "2019-02-11T10:58:56.901Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/config-cordova",
+          "observedAt": "2026-11-16T10:32:15.977Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "config-cordova",
+      "semver": "0.8.5",
+      "publishedAt": "2025-09-15T15:35:31.134Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/config-cordova",
+          "observedAt": "2026-11-16T10:32:15.977Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

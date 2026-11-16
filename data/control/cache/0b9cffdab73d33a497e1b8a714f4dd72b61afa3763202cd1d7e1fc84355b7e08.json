@@ -1,0 +1,316 @@
+{
+  "schemaVersion": 1,
+  "pkg": "jest-docblock",
+  "source": "https://registry.npmjs.org/jest-docblock",
+  "fetchedAt": "2026-11-16T10:35:07.745Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 126
+  },
+  "sourceSha256": "196baf39bebd9e74ad3067cd25d4ed050c33f2286d1b2002d21ffd2b649055c8",
+  "versions": [
+    {
+      "pkg": "jest-docblock",
+      "semver": "21.0.0-alpha.2",
+      "publishedAt": "2017-08-21T22:06:47.400Z",
+      "publisher": "aaronabramov",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-docblock",
+          "observedAt": "2026-11-16T10:35:07.745Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-docblock",
+          "observedAt": "2026-11-16T10:35:07.745Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-docblock",
+          "observedAt": "2026-11-16T10:35:07.745Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-docblock",
+          "observedAt": "2026-11-16T10:35:07.745Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-docblock",
+          "observedAt": "2026-11-16T10:35:07.745Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jest-docblock",
+      "semver": "24.2.0",
+      "publishedAt": "2019-03-05T11:22:43.849Z",
+      "publisher": "mjesun",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 9556,
+      "dependencies": {
+        "detect-newline": "^2.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-docblock",
+          "observedAt": "2026-11-16T10:35:07.745Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-docblock",
+          "observedAt": "2026-11-16T10:35:07.745Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-docblock",
+          "observedAt": "2026-11-16T10:35:07.745Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-docblock",
+          "observedAt": "2026-11-16T10:35:07.745Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jest-docblock",
+          "observedAt": "2026-11-16T10:35:07.745Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-docblock",
+          "observedAt": "2026-11-16T10:35:07.745Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jest-docblock",
+      "semver": "24.3.0",
+      "publishedAt": "2019-03-07T12:59:19.197Z",
+      "publisher": "rubennorte",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 9605,
+      "dependencies": {
+        "detect-newline": "^2.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-docblock",
+          "observedAt": "2026-11-16T10:35:07.745Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-docblock",
+          "observedAt": "2026-11-16T10:35:07.745Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-docblock",
+          "observedAt": "2026-11-16T10:35:07.745Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-docblock",
+          "observedAt": "2026-11-16T10:35:07.745Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jest-docblock",
+          "observedAt": "2026-11-16T10:35:07.745Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-docblock",
+          "observedAt": "2026-11-16T10:35:07.745Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jest-docblock",
+      "semver": "25.0.0",
+      "publishedAt": "2019-08-22T03:23:44.552Z",
+      "publisher": "scotthovestadt",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 9373,
+      "dependencies": {
+        "detect-newline": "^3.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-docblock",
+          "observedAt": "2026-11-16T10:35:07.745Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-docblock",
+          "observedAt": "2026-11-16T10:35:07.745Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-docblock",
+          "observedAt": "2026-11-16T10:35:07.745Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-docblock",
+          "observedAt": "2026-11-16T10:35:07.745Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jest-docblock",
+          "observedAt": "2026-11-16T10:35:07.745Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-docblock",
+          "observedAt": "2026-11-16T10:35:07.745Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jest-docblock",
+      "semver": "25.1.0",
+      "publishedAt": "2020-01-22T00:59:44.599Z",
+      "publisher": "davidzilburg",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 9375,
+      "dependencies": {
+        "detect-newline": "^3.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-docblock",
+          "observedAt": "2026-11-16T10:35:07.745Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-docblock",
+          "observedAt": "2026-11-16T10:35:07.745Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-docblock",
+          "observedAt": "2026-11-16T10:35:07.745Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-docblock",
+          "observedAt": "2026-11-16T10:35:07.745Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jest-docblock",
+          "observedAt": "2026-11-16T10:35:07.745Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-docblock",
+          "observedAt": "2026-11-16T10:35:07.745Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jest-docblock",
+      "semver": "30.0.0-alpha.7",
+      "publishedAt": "2025-01-30T08:28:22.907Z",
+      "publisher": "simenb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 9932,
+      "dependencies": {
+        "detect-newline": "^3.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-docblock",
+          "observedAt": "2026-11-16T10:35:07.745Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-docblock",
+          "observedAt": "2026-11-16T10:35:07.745Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-docblock",
+          "observedAt": "2026-11-16T10:35:07.745Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-docblock",
+          "observedAt": "2026-11-16T10:35:07.745Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jest-docblock",
+          "observedAt": "2026-11-16T10:35:07.745Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-docblock",
+          "observedAt": "2026-11-16T10:35:07.745Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jest-docblock",
+      "semver": "30.0.1",
+      "publishedAt": "2025-06-18T22:31:17.709Z",
+      "publisher": "cpojer",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 9934,
+      "dependencies": {
+        "detect-newline": "^3.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-docblock",
+          "observedAt": "2026-11-16T10:35:07.745Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-docblock",
+          "observedAt": "2026-11-16T10:35:07.745Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-docblock",
+          "observedAt": "2026-11-16T10:35:07.745Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-docblock",
+          "observedAt": "2026-11-16T10:35:07.745Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jest-docblock",
+          "observedAt": "2026-11-16T10:35:07.745Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-docblock",
+          "observedAt": "2026-11-16T10:35:07.745Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

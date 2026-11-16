@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "pkg": "simple-swizzle",
+  "source": "https://registry.npmjs.org/simple-swizzle",
+  "fetchedAt": "2026-11-16T10:35:26.521Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 6
+  },
+  "sourceSha256": "1268f80d892da27f20cdb3ffc7ce6c0035af1a8bd61127124d74caa46837d7dc",
+  "versions": [
+    {
+      "pkg": "simple-swizzle",
+      "semver": "0.2.2",
+      "publishedAt": "2016-11-16T02:32:21.061Z",
+      "publisher": "qix",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "is-arrayish": "^0.3.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/simple-swizzle",
+          "observedAt": "2026-11-16T10:35:26.521Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/simple-swizzle",
+          "observedAt": "2026-11-16T10:35:26.521Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/simple-swizzle",
+          "observedAt": "2026-11-16T10:35:26.521Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/simple-swizzle",
+          "observedAt": "2026-11-16T10:35:26.521Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/simple-swizzle",
+          "observedAt": "2026-11-16T10:35:26.521Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

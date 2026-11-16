@@ -1,0 +1,178 @@
+{
+  "schemaVersion": 1,
+  "pkg": "istanbul-lib-coverage",
+  "source": "https://registry.npmjs.org/istanbul-lib-coverage",
+  "fetchedAt": "2026-11-16T10:35:07.205Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 29
+  },
+  "sourceSha256": "cd37000c6b41f64be253bcb585453c73b001046b2d7ade0bbcd47c40f7577562",
+  "versions": [
+    {
+      "pkg": "istanbul-lib-coverage",
+      "semver": "1.0.0-alpha.4",
+      "publishedAt": "2015-11-28T08:34:16.301Z",
+      "publisher": "gotwarlost",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/istanbul-lib-coverage",
+          "observedAt": "2026-11-16T10:35:07.205Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/istanbul-lib-coverage",
+          "observedAt": "2026-11-16T10:35:07.205Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/istanbul-lib-coverage",
+          "observedAt": "2026-11-16T10:35:07.205Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/istanbul-lib-coverage",
+          "observedAt": "2026-11-16T10:35:07.205Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/istanbul-lib-coverage",
+          "observedAt": "2026-11-16T10:35:07.205Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "istanbul-lib-coverage",
+      "semver": "2.0.2",
+      "publishedAt": "2018-12-25T00:37:47.393Z",
+      "publisher": "bcoe",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 22500,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/istanbul-lib-coverage",
+          "observedAt": "2026-11-16T10:35:07.205Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/istanbul-lib-coverage",
+          "observedAt": "2026-11-16T10:35:07.205Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/istanbul-lib-coverage",
+          "observedAt": "2026-11-16T10:35:07.205Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/istanbul-lib-coverage",
+          "observedAt": "2026-11-16T10:35:07.205Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/istanbul-lib-coverage",
+          "observedAt": "2026-11-16T10:35:07.205Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/istanbul-lib-coverage",
+          "observedAt": "2026-11-16T10:35:07.205Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "istanbul-lib-coverage",
+      "semver": "3.0.0",
+      "publishedAt": "2019-12-20T20:54:34.141Z",
+      "publisher": "coreyfarrell",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 25259,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/istanbul-lib-coverage",
+          "observedAt": "2026-11-16T10:35:07.205Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/istanbul-lib-coverage",
+          "observedAt": "2026-11-16T10:35:07.205Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/istanbul-lib-coverage",
+          "observedAt": "2026-11-16T10:35:07.205Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/istanbul-lib-coverage",
+          "observedAt": "2026-11-16T10:35:07.205Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/istanbul-lib-coverage",
+          "observedAt": "2026-11-16T10:35:07.205Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/istanbul-lib-coverage",
+          "observedAt": "2026-11-16T10:35:07.205Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "istanbul-lib-coverage",
+      "semver": "3.2.2",
+      "publishedAt": "2023-11-08T13:31:06.964Z",
+      "publisher": "oss-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 34367,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/istanbul-lib-coverage",
+          "observedAt": "2026-11-16T10:35:07.205Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/istanbul-lib-coverage",
+          "observedAt": "2026-11-16T10:35:07.205Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/istanbul-lib-coverage",
+          "observedAt": "2026-11-16T10:35:07.205Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/istanbul-lib-coverage",
+          "observedAt": "2026-11-16T10:35:07.205Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/istanbul-lib-coverage",
+          "observedAt": "2026-11-16T10:35:07.205Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/istanbul-lib-coverage",
+          "observedAt": "2026-11-16T10:35:07.205Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

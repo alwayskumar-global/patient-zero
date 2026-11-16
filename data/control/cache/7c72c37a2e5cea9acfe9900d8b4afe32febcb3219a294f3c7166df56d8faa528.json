@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "netmask",
+  "source": "https://registry.npmjs.org/netmask",
+  "fetchedAt": "2026-11-16T10:35:14.459Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 12
+  },
+  "sourceSha256": "de344532b477542d80ded1be8782c30430262b527b30fb2157f5b290089d8479",
+  "versions": [
+    {
+      "pkg": "netmask",
+      "semver": "2.0.2",
+      "publishedAt": "2021-04-02T18:17:39.736Z",
+      "publisher": "rs",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 32496,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/netmask",
+          "observedAt": "2026-11-16T10:35:14.459Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/netmask",
+          "observedAt": "2026-11-16T10:35:14.459Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/netmask",
+          "observedAt": "2026-11-16T10:35:14.459Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/netmask",
+          "observedAt": "2026-11-16T10:35:14.459Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/netmask",
+          "observedAt": "2026-11-16T10:35:14.459Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/netmask",
+          "observedAt": "2026-11-16T10:35:14.459Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

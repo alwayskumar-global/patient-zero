@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@nativescript-community/sentry",
+  "source": "https://registry.npmjs.org/%40nativescript-community%2Fsentry",
+  "fetchedAt": "2026-11-16T10:31:24.580Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 67
+  },
+  "sourceSha256": "7cd1498868206adc4541e1a2b8cd01701e268b19558790a887643024060d17fb",
+  "versions": [
+    {
+      "pkg": "@nativescript-community/sentry",
+      "semver": "2.0.7",
+      "publishedAt": "2020-11-22T20:50:57.089Z",
+      "publisher": "keerl",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 17185,
+      "dependencies": {
+        "@sentry/hub": "^5.27.2",
+        "@sentry/core": "^5.27.2",
+        "@sentry/types": "^5.27.2",
+        "@sentry/utils": "^5.27.2",
+        "@sentry/wizard": "^1.1.4",
+        "@sentry/browser": "^5.27.2",
+        "@sentry/minimal": "^5.27.2",
+        "stacktrace-parser": "0.1.10",
+        "@sentry/integrations": "^5.27.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fsentry",
+          "observedAt": "2026-11-16T10:31:24.580Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fsentry",
+          "observedAt": "2026-11-16T10:31:24.580Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fsentry",
+          "observedAt": "2026-11-16T10:31:24.580Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fsentry",
+          "observedAt": "2026-11-16T10:31:24.580Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fsentry",
+          "observedAt": "2026-11-16T10:31:24.580Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fsentry",
+          "observedAt": "2026-11-16T10:31:24.580Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nativescript-community/sentry",
+      "semver": "4.6.42",
+      "publishedAt": "2025-09-11T10:24:58.690Z",
+      "publisher": "farfromrefuge",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 931392,
+      "dependencies": {
+        "@sentry/hub": "7.111.0",
+        "@sentry/core": "7.111.0",
+        "@sentry/types": "7.111.0",
+        "@sentry/utils": "7.111.0",
+        "@sentry/browser": "7.111.0",
+        "@sentry/tracing": "7.111.0",
+        "stacktrace-parser": "^0.1.10",
+        "@sentry/integrations": "7.111.0",
+        "@nativescript-community/arraybuffers": "^1.1.5"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fsentry",
+          "observedAt": "2026-11-16T10:31:24.580Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fsentry",
+          "observedAt": "2026-11-16T10:31:24.580Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fsentry",
+          "observedAt": "2026-11-16T10:31:24.580Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fsentry",
+          "observedAt": "2026-11-16T10:31:24.580Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fsentry",
+          "observedAt": "2026-11-16T10:31:24.580Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fsentry",
+          "observedAt": "2026-11-16T10:31:24.580Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nativescript-community/sentry",
+      "semver": "4.6.43",
+      "publishedAt": "2025-09-15T19:58:45.065Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fsentry",
+          "observedAt": "2026-11-16T10:31:24.580Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

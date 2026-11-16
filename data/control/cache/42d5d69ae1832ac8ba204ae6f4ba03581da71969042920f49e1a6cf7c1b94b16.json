@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@babel/plugin-syntax-optional-chaining",
+  "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-optional-chaining",
+  "fetchedAt": "2026-11-16T10:34:32.178Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 38
+  },
+  "sourceSha256": "fe38076f6c1b5d6a96339d02e4037a3583504cfdfec692b69d6206065b2d67f6",
+  "versions": [
+    {
+      "pkg": "@babel/plugin-syntax-optional-chaining",
+      "semver": "7.0.0",
+      "publishedAt": "2018-08-27T21:42:49.240Z",
+      "publisher": "hzoo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 2528,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "^7.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-optional-chaining",
+          "observedAt": "2026-11-16T10:34:32.178Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-optional-chaining",
+          "observedAt": "2026-11-16T10:34:32.178Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-optional-chaining",
+          "observedAt": "2026-11-16T10:34:32.178Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-optional-chaining",
+          "observedAt": "2026-11-16T10:34:32.178Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-optional-chaining",
+          "observedAt": "2026-11-16T10:34:32.178Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-optional-chaining",
+          "observedAt": "2026-11-16T10:34:32.178Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/plugin-syntax-optional-chaining",
+      "semver": "7.0.0-beta.49",
+      "publishedAt": "2018-05-25T16:01:37.347Z",
+      "publisher": "loganfsmyth",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 1584,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "7.0.0-beta.49"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-optional-chaining",
+          "observedAt": "2026-11-16T10:34:32.178Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-optional-chaining",
+          "observedAt": "2026-11-16T10:34:32.178Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-optional-chaining",
+          "observedAt": "2026-11-16T10:34:32.178Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-optional-chaining",
+          "observedAt": "2026-11-16T10:34:32.178Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-optional-chaining",
+          "observedAt": "2026-11-16T10:34:32.178Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-optional-chaining",
+          "observedAt": "2026-11-16T10:34:32.178Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/plugin-syntax-optional-chaining",
+      "semver": "7.8.3",
+      "publishedAt": "2020-01-13T21:14:43.325Z",
+      "publisher": "nicolo-ribaudo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 2521,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "^7.8.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-optional-chaining",
+          "observedAt": "2026-11-16T10:34:32.178Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-optional-chaining",
+          "observedAt": "2026-11-16T10:34:32.178Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-optional-chaining",
+          "observedAt": "2026-11-16T10:34:32.178Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-optional-chaining",
+          "observedAt": "2026-11-16T10:34:32.178Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-optional-chaining",
+          "observedAt": "2026-11-16T10:34:32.178Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-optional-chaining",
+          "observedAt": "2026-11-16T10:34:32.178Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@graphql-tools/schema",
+  "source": "https://registry.npmjs.org/%40graphql-tools%2Fschema",
+  "fetchedAt": "2026-11-16T10:34:34.798Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 1889
+  },
+  "sourceSha256": "9de2fc6d281c21a88f986362f63eb376284e6ddb9b696bb6201ff1cdcbbedca5",
+  "versions": [
+    {
+      "pkg": "@graphql-tools/schema",
+      "semver": "10.0.25",
+      "publishedAt": "2025-07-21T03:39:05.907Z",
+      "publisher": "ardatan",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 68105,
+      "dependencies": {
+        "tslib": "^2.4.0",
+        "@graphql-tools/merge": "^9.1.1",
+        "@graphql-tools/utils": "^10.9.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40graphql-tools%2Fschema",
+          "observedAt": "2026-11-16T10:34:34.798Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40graphql-tools%2Fschema",
+          "observedAt": "2026-11-16T10:34:34.798Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40graphql-tools%2Fschema",
+          "observedAt": "2026-11-16T10:34:34.798Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40graphql-tools%2Fschema",
+          "observedAt": "2026-11-16T10:34:34.798Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40graphql-tools%2Fschema",
+          "observedAt": "2026-11-16T10:34:34.798Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40graphql-tools%2Fschema",
+          "observedAt": "2026-11-16T10:34:34.798Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

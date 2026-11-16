@@ -1,0 +1,284 @@
+{
+  "schemaVersion": 1,
+  "pkg": "jest-leak-detector",
+  "source": "https://registry.npmjs.org/jest-leak-detector",
+  "fetchedAt": "2026-11-16T10:35:08.002Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 184
+  },
+  "sourceSha256": "a3701e5bdb3684d7275bf5f5cc874196501042617f3c737ca7c8bb59416333de",
+  "versions": [
+    {
+      "pkg": "jest-leak-detector",
+      "semver": "24.0.0-alpha.8",
+      "publishedAt": "2018-12-13T19:47:59.099Z",
+      "publisher": "mjesun",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 6718,
+      "dependencies": {
+        "pretty-format": "^24.0.0-alpha.8"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-leak-detector",
+          "observedAt": "2026-11-16T10:35:08.002Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-leak-detector",
+          "observedAt": "2026-11-16T10:35:08.002Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-leak-detector",
+          "observedAt": "2026-11-16T10:35:08.002Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-leak-detector",
+          "observedAt": "2026-11-16T10:35:08.002Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jest-leak-detector",
+          "observedAt": "2026-11-16T10:35:08.002Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-leak-detector",
+          "observedAt": "2026-11-16T10:35:08.002Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jest-leak-detector",
+      "semver": "24.6.0",
+      "publishedAt": "2019-04-01T22:26:32.411Z",
+      "publisher": "rubennorte",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 163858,
+      "dependencies": {
+        "pretty-format": "^24.6.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-leak-detector",
+          "observedAt": "2026-11-16T10:35:08.002Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-leak-detector",
+          "observedAt": "2026-11-16T10:35:08.002Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-leak-detector",
+          "observedAt": "2026-11-16T10:35:08.002Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-leak-detector",
+          "observedAt": "2026-11-16T10:35:08.002Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jest-leak-detector",
+          "observedAt": "2026-11-16T10:35:08.002Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-leak-detector",
+          "observedAt": "2026-11-16T10:35:08.002Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jest-leak-detector",
+      "semver": "25.0.0",
+      "publishedAt": "2019-08-22T03:24:08.816Z",
+      "publisher": "scotthovestadt",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 5382,
+      "dependencies": {
+        "weak-napi": "^1.0.3",
+        "jest-get-type": "^25.0.0",
+        "pretty-format": "^25.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-leak-detector",
+          "observedAt": "2026-11-16T10:35:08.002Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-leak-detector",
+          "observedAt": "2026-11-16T10:35:08.002Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-leak-detector",
+          "observedAt": "2026-11-16T10:35:08.002Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-leak-detector",
+          "observedAt": "2026-11-16T10:35:08.002Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jest-leak-detector",
+          "observedAt": "2026-11-16T10:35:08.002Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-leak-detector",
+          "observedAt": "2026-11-16T10:35:08.002Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jest-leak-detector",
+      "semver": "25.1.0",
+      "publishedAt": "2020-01-22T01:00:01.430Z",
+      "publisher": "davidzilburg",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 5650,
+      "dependencies": {
+        "jest-get-type": "^25.1.0",
+        "pretty-format": "^25.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-leak-detector",
+          "observedAt": "2026-11-16T10:35:08.002Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-leak-detector",
+          "observedAt": "2026-11-16T10:35:08.002Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-leak-detector",
+          "observedAt": "2026-11-16T10:35:08.002Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-leak-detector",
+          "observedAt": "2026-11-16T10:35:08.002Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jest-leak-detector",
+          "observedAt": "2026-11-16T10:35:08.002Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-leak-detector",
+          "observedAt": "2026-11-16T10:35:08.002Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jest-leak-detector",
+      "semver": "30.0.0-alpha.7",
+      "publishedAt": "2025-01-30T08:28:32.332Z",
+      "publisher": "simenb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 6496,
+      "dependencies": {
+        "jest-get-type": "30.0.0-alpha.7",
+        "pretty-format": "30.0.0-alpha.7"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-leak-detector",
+          "observedAt": "2026-11-16T10:35:08.002Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-leak-detector",
+          "observedAt": "2026-11-16T10:35:08.002Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-leak-detector",
+          "observedAt": "2026-11-16T10:35:08.002Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-leak-detector",
+          "observedAt": "2026-11-16T10:35:08.002Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jest-leak-detector",
+          "observedAt": "2026-11-16T10:35:08.002Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-leak-detector",
+          "observedAt": "2026-11-16T10:35:08.002Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jest-leak-detector",
+      "semver": "30.0.5",
+      "publishedAt": "2025-07-22T02:28:33.437Z",
+      "publisher": "cpojer",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 6939,
+      "dependencies": {
+        "pretty-format": "30.0.5",
+        "@jest/get-type": "30.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-leak-detector",
+          "observedAt": "2026-11-16T10:35:08.002Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-leak-detector",
+          "observedAt": "2026-11-16T10:35:08.002Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-leak-detector",
+          "observedAt": "2026-11-16T10:35:08.002Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-leak-detector",
+          "observedAt": "2026-11-16T10:35:08.002Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jest-leak-detector",
+          "observedAt": "2026-11-16T10:35:08.002Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-leak-detector",
+          "observedAt": "2026-11-16T10:35:08.002Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

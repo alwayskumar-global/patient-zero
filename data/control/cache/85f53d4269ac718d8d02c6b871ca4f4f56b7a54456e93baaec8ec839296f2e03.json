@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 1,
+  "pkg": "jszip",
+  "source": "https://registry.npmjs.org/jszip",
+  "fetchedAt": "2026-11-16T10:35:09.085Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 39
+  },
+  "sourceSha256": "34e47f7504ff591ebe4b877fda6544d731fe5c07c77de3fe0810722842e88631",
+  "versions": [
+    {
+      "pkg": "jszip",
+      "semver": "2.2.1",
+      "publishedAt": "2014-04-24T19:48:27.080Z",
+      "publisher": "cwmma",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "pako": "~0.1.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jszip",
+          "observedAt": "2026-11-16T10:35:09.085Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jszip",
+          "observedAt": "2026-11-16T10:35:09.085Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jszip",
+          "observedAt": "2026-11-16T10:35:09.085Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jszip",
+          "observedAt": "2026-11-16T10:35:09.085Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jszip",
+          "observedAt": "2026-11-16T10:35:09.085Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jszip",
+      "semver": "3.1.5",
+      "publishedAt": "2017-11-09T22:40:10.176Z",
+      "publisher": "dduponchel",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "lie": "~3.1.0",
+        "pako": "~1.0.2",
+        "core-js": "~2.3.0",
+        "es6-promise": "~3.0.2",
+        "readable-stream": "~2.0.6"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jszip",
+          "observedAt": "2026-11-16T10:35:09.085Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jszip",
+          "observedAt": "2026-11-16T10:35:09.085Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jszip",
+          "observedAt": "2026-11-16T10:35:09.085Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jszip",
+          "observedAt": "2026-11-16T10:35:09.085Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jszip",
+          "observedAt": "2026-11-16T10:35:09.085Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jszip",
+      "semver": "3.10.1",
+      "publishedAt": "2022-08-02T22:49:17.127Z",
+      "publisher": "stuk",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 762000,
+      "dependencies": {
+        "lie": "~3.3.0",
+        "pako": "~1.0.2",
+        "setimmediate": "^1.0.5",
+        "readable-stream": "~2.3.6"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jszip",
+          "observedAt": "2026-11-16T10:35:09.085Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jszip",
+          "observedAt": "2026-11-16T10:35:09.085Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jszip",
+          "observedAt": "2026-11-16T10:35:09.085Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jszip",
+          "observedAt": "2026-11-16T10:35:09.085Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jszip",
+          "observedAt": "2026-11-16T10:35:09.085Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jszip",
+          "observedAt": "2026-11-16T10:35:09.085Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

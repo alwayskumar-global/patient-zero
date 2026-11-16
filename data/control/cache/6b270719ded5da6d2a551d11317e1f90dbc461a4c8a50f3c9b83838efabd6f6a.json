@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@types/bonjour",
+  "source": "https://registry.npmjs.org/%40types%2Fbonjour",
+  "fetchedAt": "2026-11-16T10:34:43.788Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 13
+  },
+  "sourceSha256": "0176d53fcc61c93c87129d4cb67dd1f105f56a25b0e4486ad8efb9750003c0d6",
+  "versions": [
+    {
+      "pkg": "@types/bonjour",
+      "semver": "3.5.13",
+      "publishedAt": "2023-11-07T00:00:20.905Z",
+      "publisher": "types",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 5571,
+      "dependencies": {
+        "@types/node": "*"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40types%2Fbonjour",
+          "observedAt": "2026-11-16T10:34:43.788Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40types%2Fbonjour",
+          "observedAt": "2026-11-16T10:34:43.788Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40types%2Fbonjour",
+          "observedAt": "2026-11-16T10:34:43.788Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40types%2Fbonjour",
+          "observedAt": "2026-11-16T10:34:43.788Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40types%2Fbonjour",
+          "observedAt": "2026-11-16T10:34:43.788Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40types%2Fbonjour",
+          "observedAt": "2026-11-16T10:34:43.788Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

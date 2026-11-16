@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "pkg": "terser",
+  "source": "https://registry.npmjs.org/terser",
+  "fetchedAt": "2026-11-16T10:35:28.872Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 210
+  },
+  "sourceSha256": "2a3ab61322c6afce441046a926ab36231c1c86470ab31795655365a4eac4d00d",
+  "versions": [
+    {
+      "pkg": "terser",
+      "semver": "0.0.1",
+      "publishedAt": "2018-05-17T11:56:02.951Z",
+      "publisher": "rich_harris",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 804549,
+      "dependencies": {
+        "commander": "~2.14.1",
+        "source-map": "~0.6.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/terser",
+          "observedAt": "2026-11-16T10:35:28.872Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/terser",
+          "observedAt": "2026-11-16T10:35:28.872Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/terser",
+          "observedAt": "2026-11-16T10:35:28.872Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/terser",
+          "observedAt": "2026-11-16T10:35:28.872Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/terser",
+          "observedAt": "2026-11-16T10:35:28.872Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/terser",
+          "observedAt": "2026-11-16T10:35:28.872Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "terser",
+      "semver": "1.0.0",
+      "publishedAt": "2018-05-12T13:21:59.752Z",
+      "publisher": "vasily.anonimov",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 202,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/terser",
+          "observedAt": "2026-11-16T10:35:28.872Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/terser",
+          "observedAt": "2026-11-16T10:35:28.872Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/terser",
+          "observedAt": "2026-11-16T10:35:28.872Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/terser",
+          "observedAt": "2026-11-16T10:35:28.872Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/terser",
+          "observedAt": "2026-11-16T10:35:28.872Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/terser",
+          "observedAt": "2026-11-16T10:35:28.872Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "terser",
+      "semver": "5.43.1",
+      "publishedAt": "2025-06-19T10:40:45.499Z",
+      "publisher": "fabiosantoscode",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 2243900,
+      "dependencies": {
+        "acorn": "^8.14.0",
+        "commander": "^2.20.0",
+        "source-map-support": "~0.5.20",
+        "@jridgewell/source-map": "^0.3.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/terser",
+          "observedAt": "2026-11-16T10:35:28.872Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/terser",
+          "observedAt": "2026-11-16T10:35:28.872Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/terser",
+          "observedAt": "2026-11-16T10:35:28.872Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/terser",
+          "observedAt": "2026-11-16T10:35:28.872Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/terser",
+          "observedAt": "2026-11-16T10:35:28.872Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/terser",
+          "observedAt": "2026-11-16T10:35:28.872Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

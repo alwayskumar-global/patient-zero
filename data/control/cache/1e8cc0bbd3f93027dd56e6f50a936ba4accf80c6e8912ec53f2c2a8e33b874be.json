@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "pkg": "pumpify",
+  "source": "https://registry.npmjs.org/pumpify",
+  "fetchedAt": "2026-11-16T10:35:21.645Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 22
+  },
+  "sourceSha256": "f6d80df1ceb9ef8a67eaa4864f524b7508ee050649dfab54ca22c11ae16de823",
+  "versions": [
+    {
+      "pkg": "pumpify",
+      "semver": "2.0.1",
+      "publishedAt": "2019-10-01T13:53:36.066Z",
+      "publisher": "mafintosh",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 10208,
+      "dependencies": {
+        "duplexify": "^4.1.1",
+        "inherits": "^2.0.3",
+        "pump": "^3.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/pumpify",
+          "observedAt": "2026-11-16T10:35:21.645Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/pumpify",
+          "observedAt": "2026-11-16T10:35:21.645Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/pumpify",
+          "observedAt": "2026-11-16T10:35:21.645Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/pumpify",
+          "observedAt": "2026-11-16T10:35:21.645Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/pumpify",
+          "observedAt": "2026-11-16T10:35:21.645Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/pumpify",
+          "observedAt": "2026-11-16T10:35:21.645Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

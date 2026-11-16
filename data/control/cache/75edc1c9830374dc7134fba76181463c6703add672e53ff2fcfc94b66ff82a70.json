@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "pkg": "aria-query",
+  "source": "https://registry.npmjs.org/aria-query",
+  "fetchedAt": "2026-11-16T10:34:55.531Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 29
+  },
+  "sourceSha256": "489b1fbb67c88944c6640da9d6a94a6191ab183d758d627e319d09422c802cdd",
+  "versions": [
+    {
+      "pkg": "aria-query",
+      "semver": "5.3.0",
+      "publishedAt": "2023-06-24T20:48:55.075Z",
+      "publisher": "jessebeach",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 192147,
+      "dependencies": {
+        "dequal": "^2.0.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/aria-query",
+          "observedAt": "2026-11-16T10:34:55.531Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/aria-query",
+          "observedAt": "2026-11-16T10:34:55.531Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/aria-query",
+          "observedAt": "2026-11-16T10:34:55.531Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/aria-query",
+          "observedAt": "2026-11-16T10:34:55.531Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/aria-query",
+          "observedAt": "2026-11-16T10:34:55.531Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/aria-query",
+          "observedAt": "2026-11-16T10:34:55.531Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "aria-query",
+      "semver": "5.3.2",
+      "publishedAt": "2024-09-20T19:54:28.364Z",
+      "publisher": "ljharb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 176114,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/aria-query",
+          "observedAt": "2026-11-16T10:34:55.531Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/aria-query",
+          "observedAt": "2026-11-16T10:34:55.531Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/aria-query",
+          "observedAt": "2026-11-16T10:34:55.531Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/aria-query",
+          "observedAt": "2026-11-16T10:34:55.531Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/aria-query",
+          "observedAt": "2026-11-16T10:34:55.531Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/aria-query",
+          "observedAt": "2026-11-16T10:34:55.531Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

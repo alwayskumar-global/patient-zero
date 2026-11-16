@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "slash",
+  "source": "https://registry.npmjs.org/slash",
+  "fetchedAt": "2026-11-16T10:35:26.579Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 10
+  },
+  "sourceSha256": "b7007cedbc4d8fe3decab8ede2329d74199680296940abe02cc84ce686c8d092",
+  "versions": [
+    {
+      "pkg": "slash",
+      "semver": "5.1.0",
+      "publishedAt": "2023-05-09T17:07:03.367Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 3254,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/slash",
+          "observedAt": "2026-11-16T10:35:26.579Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/slash",
+          "observedAt": "2026-11-16T10:35:26.579Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/slash",
+          "observedAt": "2026-11-16T10:35:26.579Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/slash",
+          "observedAt": "2026-11-16T10:35:26.579Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/slash",
+          "observedAt": "2026-11-16T10:35:26.579Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/slash",
+          "observedAt": "2026-11-16T10:35:26.579Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "pkg": "browserify-cipher",
+  "source": "https://registry.npmjs.org/browserify-cipher",
+  "fetchedAt": "2026-11-16T10:34:56.965Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 2
+  },
+  "sourceSha256": "8a1794891050b12cf050ba44b35557fa4d37b5b2b13d9fc22340dbd4d62658b1",
+  "versions": [
+    {
+      "pkg": "browserify-cipher",
+      "semver": "1.0.1",
+      "publishedAt": "2018-04-11T12:05:37.638Z",
+      "publisher": "cwmma",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 6445,
+      "dependencies": {
+        "browserify-aes": "^1.0.4",
+        "browserify-des": "^1.0.0",
+        "evp_bytestokey": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/browserify-cipher",
+          "observedAt": "2026-11-16T10:34:56.965Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/browserify-cipher",
+          "observedAt": "2026-11-16T10:34:56.965Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/browserify-cipher",
+          "observedAt": "2026-11-16T10:34:56.965Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/browserify-cipher",
+          "observedAt": "2026-11-16T10:34:56.965Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/browserify-cipher",
+          "observedAt": "2026-11-16T10:34:56.965Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/browserify-cipher",
+          "observedAt": "2026-11-16T10:34:56.965Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "dot-prop",
+  "source": "https://registry.npmjs.org/dot-prop",
+  "fetchedAt": "2026-11-16T10:35:00.074Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 32
+  },
+  "sourceSha256": "d173d480fdbb2c752efcde649907aa26ced10991004a090b5512fd736e57f610",
+  "versions": [
+    {
+      "pkg": "dot-prop",
+      "semver": "9.0.0",
+      "publishedAt": "2024-05-09T20:31:34.528Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 16897,
+      "dependencies": {
+        "type-fest": "^4.18.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/dot-prop",
+          "observedAt": "2026-11-16T10:35:00.074Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/dot-prop",
+          "observedAt": "2026-11-16T10:35:00.074Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/dot-prop",
+          "observedAt": "2026-11-16T10:35:00.074Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/dot-prop",
+          "observedAt": "2026-11-16T10:35:00.074Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/dot-prop",
+          "observedAt": "2026-11-16T10:35:00.074Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/dot-prop",
+          "observedAt": "2026-11-16T10:35:00.074Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

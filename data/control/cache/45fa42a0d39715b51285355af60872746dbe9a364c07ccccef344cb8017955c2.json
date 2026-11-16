@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "postcss-nested",
+  "source": "https://registry.npmjs.org/postcss-nested",
+  "fetchedAt": "2026-11-16T10:35:20.066Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 43
+  },
+  "sourceSha256": "18ef1171c43290ac7ca19a1f31afc43b85137f806ae0a7489279fcce44f1ca31",
+  "versions": [
+    {
+      "pkg": "postcss-nested",
+      "semver": "7.0.2",
+      "publishedAt": "2024-11-01T16:15:46.284Z",
+      "publisher": "ai",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 14397,
+      "dependencies": {
+        "postcss-selector-parser": "^7.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/postcss-nested",
+          "observedAt": "2026-11-16T10:35:20.066Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/postcss-nested",
+          "observedAt": "2026-11-16T10:35:20.066Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/postcss-nested",
+          "observedAt": "2026-11-16T10:35:20.066Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/postcss-nested",
+          "observedAt": "2026-11-16T10:35:20.066Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/postcss-nested",
+          "observedAt": "2026-11-16T10:35:20.066Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/postcss-nested",
+          "observedAt": "2026-11-16T10:35:20.066Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

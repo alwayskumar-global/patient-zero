@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "pkg": "domhandler",
+  "source": "https://registry.npmjs.org/domhandler",
+  "fetchedAt": "2026-11-16T10:35:00.024Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 35
+  },
+  "sourceSha256": "c285809fd7fd944b40d234b6471bdc597c565496063b134d51d6e9e33eebcb02",
+  "versions": [
+    {
+      "pkg": "domhandler",
+      "semver": "1.1.0",
+      "publishedAt": "2012-08-23T18:39:01.597Z",
+      "publisher": null,
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/domhandler",
+          "observedAt": "2026-11-16T10:35:00.024Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/domhandler",
+          "observedAt": "2026-11-16T10:35:00.024Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/domhandler",
+          "observedAt": "2026-11-16T10:35:00.024Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/domhandler",
+          "observedAt": "2026-11-16T10:35:00.024Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "domhandler",
+      "semver": "5.0.3",
+      "publishedAt": "2022-04-30T11:00:14.978Z",
+      "publisher": "feedic",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 75339,
+      "dependencies": {
+        "domelementtype": "^2.3.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/domhandler",
+          "observedAt": "2026-11-16T10:35:00.024Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/domhandler",
+          "observedAt": "2026-11-16T10:35:00.024Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/domhandler",
+          "observedAt": "2026-11-16T10:35:00.024Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/domhandler",
+          "observedAt": "2026-11-16T10:35:00.024Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/domhandler",
+          "observedAt": "2026-11-16T10:35:00.024Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/domhandler",
+          "observedAt": "2026-11-16T10:35:00.024Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

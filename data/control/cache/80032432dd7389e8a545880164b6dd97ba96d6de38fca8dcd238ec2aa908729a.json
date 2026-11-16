@@ -1,0 +1,835 @@
+{
+  "schemaVersion": 1,
+  "pkg": "playwright-core",
+  "source": "https://registry.npmjs.org/playwright-core",
+  "fetchedAt": "2026-11-16T10:35:18.617Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 5774
+  },
+  "sourceSha256": "43ccb497033bfb8bb6ff362d1d028b7acc698e08bbfadbe74a6ebe3ae329a2d4",
+  "versions": [
+    {
+      "pkg": "playwright-core",
+      "semver": "0.13.0",
+      "publishedAt": "2020-04-08T23:55:20.769Z",
+      "publisher": "joeleinbinder",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 2036568,
+      "dependencies": {
+        "ws": "^6.1.0",
+        "mime": "^2.4.4",
+        "debug": "^4.1.0",
+        "pngjs": "^3.4.0",
+        "rimraf": "^3.0.2",
+        "jpeg-js": "^0.3.6",
+        "progress": "^2.0.3",
+        "extract-zip": "^2.0.0",
+        "proxy-from-env": "^1.1.0",
+        "https-proxy-agent": "^3.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "playwright-core",
+      "semver": "0.13.0-post-next.1587062067958",
+      "publishedAt": "2020-04-16T18:34:54.959Z",
+      "publisher": "dgozman",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 1411039,
+      "dependencies": {
+        "ws": "^6.1.0",
+        "mime": "^2.4.4",
+        "debug": "^4.1.0",
+        "pngjs": "^3.4.0",
+        "rimraf": "^3.0.2",
+        "jpeg-js": "^0.3.6",
+        "progress": "^2.0.3",
+        "extract-zip": "^2.0.0",
+        "proxy-from-env": "^1.1.0",
+        "https-proxy-agent": "^3.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "playwright-core",
+      "semver": "1.40.0-alpha-oct-30-2023",
+      "publishedAt": "2023-10-30T00:25:37.358Z",
+      "publisher": "aslushnikov",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 7056694,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "playwright-core",
+      "semver": "1.50.0-alpha-2025-01-07",
+      "publishedAt": "2025-01-07T00:35:15.669Z",
+      "publisher": "yurys",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 7722936,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "playwright-core",
+      "semver": "1.52.0-alpha-2025-04-01",
+      "publishedAt": "2025-04-01T00:42:22.001Z",
+      "publisher": "dgozman-ms",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 7970496,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "playwright-core",
+      "semver": "1.54.1-beta-1753992917000",
+      "publishedAt": "2025-07-31T20:16:49.902Z",
+      "publisher": "playwright-bot",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 7996001,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "playwright-core",
+      "semver": "1.54.1-beta-1753993012000",
+      "publishedAt": "2025-07-31T20:18:21.849Z",
+      "publisher": "playwright-bot",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 7996001,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "playwright-core",
+      "semver": "1.54.2",
+      "publishedAt": "2025-08-01T07:02:14.626Z",
+      "publisher": "playwright-bot",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 7995982,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "playwright-core",
+      "semver": "1.54.2-beta-1754031638000",
+      "publishedAt": "2025-08-01T07:01:48.525Z",
+      "publisher": "playwright-bot",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 7996001,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "playwright-core",
+      "semver": "1.55.0-alpha-1754048396000",
+      "publishedAt": "2025-08-01T11:58:24.943Z",
+      "publisher": "playwright-bot",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 8012413,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "playwright-core",
+      "semver": "1.55.0-alpha-1754386682000",
+      "publishedAt": "2025-08-05T10:47:16.897Z",
+      "publisher": "playwright-bot",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 8015139,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "playwright-core",
+      "semver": "1.55.0-alpha-2025-07-31",
+      "publishedAt": "2025-07-31T05:17:57.582Z",
+      "publisher": "playwright-bot",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 8005648,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "playwright-core",
+      "semver": "1.55.0-alpha-2025-08-01",
+      "publishedAt": "2025-08-01T05:21:27.376Z",
+      "publisher": "playwright-bot",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 8010830,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "playwright-core",
+      "semver": "1.55.0-alpha-2025-08-02",
+      "publishedAt": "2025-08-02T05:16:57.140Z",
+      "publisher": "playwright-bot",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 8012578,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "playwright-core",
+      "semver": "1.55.0-alpha-2025-08-03",
+      "publishedAt": "2025-08-03T05:18:26.668Z",
+      "publisher": "playwright-bot",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 8012578,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "playwright-core",
+      "semver": "1.55.0-alpha-2025-08-04",
+      "publishedAt": "2025-08-04T05:24:04.358Z",
+      "publisher": "playwright-bot",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 8012578,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "playwright-core",
+      "semver": "1.55.0-alpha-2025-08-05",
+      "publishedAt": "2025-08-05T05:19:41.522Z",
+      "publisher": "playwright-bot",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 8009456,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "playwright-core",
+      "semver": "1.55.0-alpha-2025-08-06",
+      "publishedAt": "2025-08-06T05:20:04.916Z",
+      "publisher": "playwright-bot",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 8015234,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "playwright-core",
+      "semver": "1.55.0-alpha-2025-08-07",
+      "publishedAt": "2025-08-07T05:19:00.786Z",
+      "publisher": "playwright-bot",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 8015491,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/playwright-core",
+          "observedAt": "2026-11-16T10:35:18.617Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

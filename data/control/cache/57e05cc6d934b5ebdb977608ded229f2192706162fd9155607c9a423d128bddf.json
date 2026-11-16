@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@webassemblyjs/ieee754",
+  "source": "https://registry.npmjs.org/%40webassemblyjs%2Fieee754",
+  "fetchedAt": "2026-11-16T10:34:55.026Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 49
+  },
+  "sourceSha256": "8f0a8207e830f050414b2f92397562f9b97178185485503435d2fbf6b1dca3a5",
+  "versions": [
+    {
+      "pkg": "@webassemblyjs/ieee754",
+      "semver": "1.14.1",
+      "publishedAt": "2024-11-06T21:53:36.169Z",
+      "publisher": "xtuc",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 5342,
+      "dependencies": {
+        "@xtuc/ieee754": "^1.2.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40webassemblyjs%2Fieee754",
+          "observedAt": "2026-11-16T10:34:55.026Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40webassemblyjs%2Fieee754",
+          "observedAt": "2026-11-16T10:34:55.026Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40webassemblyjs%2Fieee754",
+          "observedAt": "2026-11-16T10:34:55.026Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40webassemblyjs%2Fieee754",
+          "observedAt": "2026-11-16T10:34:55.026Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40webassemblyjs%2Fieee754",
+          "observedAt": "2026-11-16T10:34:55.026Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40webassemblyjs%2Fieee754",
+          "observedAt": "2026-11-16T10:34:55.026Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

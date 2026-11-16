@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "pkg": "is-windows",
+  "source": "https://registry.npmjs.org/is-windows",
+  "fetchedAt": "2026-11-16T10:35:07.100Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 6
+  },
+  "sourceSha256": "c35b516fa00fa6c2dbd5d542a3f043994a51e3f45f5fe494bad9e42b72a56864",
+  "versions": [
+    {
+      "pkg": "is-windows",
+      "semver": "1.0.1",
+      "publishedAt": "2017-04-28T17:54:20.189Z",
+      "publisher": "doowb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/is-windows",
+          "observedAt": "2026-11-16T10:35:07.100Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/is-windows",
+          "observedAt": "2026-11-16T10:35:07.100Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/is-windows",
+          "observedAt": "2026-11-16T10:35:07.100Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/is-windows",
+          "observedAt": "2026-11-16T10:35:07.100Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/is-windows",
+          "observedAt": "2026-11-16T10:35:07.100Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "is-windows",
+      "semver": "1.0.2",
+      "publishedAt": "2018-02-14T07:36:43.207Z",
+      "publisher": "jonschlinkert",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7963,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/is-windows",
+          "observedAt": "2026-11-16T10:35:07.100Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/is-windows",
+          "observedAt": "2026-11-16T10:35:07.100Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/is-windows",
+          "observedAt": "2026-11-16T10:35:07.100Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/is-windows",
+          "observedAt": "2026-11-16T10:35:07.100Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/is-windows",
+          "observedAt": "2026-11-16T10:35:07.100Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/is-windows",
+          "observedAt": "2026-11-16T10:35:07.100Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

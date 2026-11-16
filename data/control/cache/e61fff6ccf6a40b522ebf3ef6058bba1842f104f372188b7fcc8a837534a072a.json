@@ -1,0 +1,169 @@
+{
+  "schemaVersion": 1,
+  "pkg": "postcss-import",
+  "source": "https://registry.npmjs.org/postcss-import",
+  "fetchedAt": "2026-11-16T10:35:19.712Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 59
+  },
+  "sourceSha256": "e4552c246443fe3de13869382183fe5cf4a6b64525c9f7c49b7b3208df72583d",
+  "versions": [
+    {
+      "pkg": "postcss-import",
+      "semver": "16.1.0",
+      "publishedAt": "2024-03-20T20:31:03.528Z",
+      "publisher": "ryanzim",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 29924,
+      "dependencies": {
+        "resolve": "^1.1.7",
+        "read-cache": "^1.0.0",
+        "postcss-value-parser": "^4.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/postcss-import",
+          "observedAt": "2026-11-16T10:35:19.712Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/postcss-import",
+          "observedAt": "2026-11-16T10:35:19.712Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/postcss-import",
+          "observedAt": "2026-11-16T10:35:19.712Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/postcss-import",
+          "observedAt": "2026-11-16T10:35:19.712Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/postcss-import",
+          "observedAt": "2026-11-16T10:35:19.712Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/postcss-import",
+          "observedAt": "2026-11-16T10:35:19.712Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "postcss-import",
+      "semver": "16.1.1",
+      "publishedAt": "2025-06-17T05:37:17.350Z",
+      "publisher": "romainmenke",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 31185,
+      "dependencies": {
+        "resolve": "^1.1.7",
+        "read-cache": "^1.0.0",
+        "postcss-value-parser": "^4.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/postcss-import",
+          "observedAt": "2026-11-16T10:35:19.712Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/postcss-import",
+          "observedAt": "2026-11-16T10:35:19.712Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/postcss-import",
+          "observedAt": "2026-11-16T10:35:19.712Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/postcss-import",
+          "observedAt": "2026-11-16T10:35:19.712Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/postcss-import",
+          "observedAt": "2026-11-16T10:35:19.712Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/postcss-import",
+          "observedAt": "2026-11-16T10:35:19.712Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "postcss-import",
+      "semver": "6.1.0",
+      "publishedAt": "2015-07-07T12:20:26.918Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/postcss-import",
+          "observedAt": "2026-11-16T10:35:19.712Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "postcss-import",
+      "semver": "8.1.3",
+      "publishedAt": "2016-11-03T19:25:52.845Z",
+      "publisher": "moox",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "postcss": "^5.0.14",
+        "resolve": "^1.1.7",
+        "read-cache": "^1.0.0",
+        "pkg-resolve": "^0.1.7",
+        "promise-each": "^2.2.0",
+        "object-assign": "^4.0.1",
+        "postcss-value-parser": "^3.2.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/postcss-import",
+          "observedAt": "2026-11-16T10:35:19.712Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/postcss-import",
+          "observedAt": "2026-11-16T10:35:19.712Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/postcss-import",
+          "observedAt": "2026-11-16T10:35:19.712Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/postcss-import",
+          "observedAt": "2026-11-16T10:35:19.712Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/postcss-import",
+          "observedAt": "2026-11-16T10:35:19.712Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

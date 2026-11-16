@@ -1,0 +1,267 @@
+{
+  "schemaVersion": 1,
+  "pkg": "electron-to-chromium",
+  "source": "https://registry.npmjs.org/electron-to-chromium",
+  "fetchedAt": "2026-11-16T10:35:00.519Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 2192
+  },
+  "sourceSha256": "70150e26c5448bd0e8f93fa945a60613943f6923de32390a36bfaab8c05e15e7",
+  "versions": [
+    {
+      "pkg": "electron-to-chromium",
+      "semver": "1.5.194",
+      "publishedAt": "2025-07-31T18:02:23.790Z",
+      "publisher": "kilianvalkhof",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 169735,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/electron-to-chromium",
+          "observedAt": "2026-11-16T10:35:00.519Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/electron-to-chromium",
+          "observedAt": "2026-11-16T10:35:00.519Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/electron-to-chromium",
+          "observedAt": "2026-11-16T10:35:00.519Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/electron-to-chromium",
+          "observedAt": "2026-11-16T10:35:00.519Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/electron-to-chromium",
+          "observedAt": "2026-11-16T10:35:00.519Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/electron-to-chromium",
+          "observedAt": "2026-11-16T10:35:00.519Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "electron-to-chromium",
+      "semver": "1.5.195",
+      "publishedAt": "2025-08-04T22:02:17.651Z",
+      "publisher": "kilianvalkhof",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 169843,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/electron-to-chromium",
+          "observedAt": "2026-11-16T10:35:00.519Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/electron-to-chromium",
+          "observedAt": "2026-11-16T10:35:00.519Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/electron-to-chromium",
+          "observedAt": "2026-11-16T10:35:00.519Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/electron-to-chromium",
+          "observedAt": "2026-11-16T10:35:00.519Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/electron-to-chromium",
+          "observedAt": "2026-11-16T10:35:00.519Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/electron-to-chromium",
+          "observedAt": "2026-11-16T10:35:00.519Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "electron-to-chromium",
+      "semver": "1.5.196",
+      "publishedAt": "2025-08-06T02:02:21.661Z",
+      "publisher": "kilianvalkhof",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 170019,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/electron-to-chromium",
+          "observedAt": "2026-11-16T10:35:00.519Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/electron-to-chromium",
+          "observedAt": "2026-11-16T10:35:00.519Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/electron-to-chromium",
+          "observedAt": "2026-11-16T10:35:00.519Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/electron-to-chromium",
+          "observedAt": "2026-11-16T10:35:00.519Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/electron-to-chromium",
+          "observedAt": "2026-11-16T10:35:00.519Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/electron-to-chromium",
+          "observedAt": "2026-11-16T10:35:00.519Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "electron-to-chromium",
+      "semver": "1.5.197",
+      "publishedAt": "2025-08-06T06:02:27.882Z",
+      "publisher": "kilianvalkhof",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 170138,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/electron-to-chromium",
+          "observedAt": "2026-11-16T10:35:00.519Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/electron-to-chromium",
+          "observedAt": "2026-11-16T10:35:00.519Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/electron-to-chromium",
+          "observedAt": "2026-11-16T10:35:00.519Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/electron-to-chromium",
+          "observedAt": "2026-11-16T10:35:00.519Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/electron-to-chromium",
+          "observedAt": "2026-11-16T10:35:00.519Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/electron-to-chromium",
+          "observedAt": "2026-11-16T10:35:00.519Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "electron-to-chromium",
+      "semver": "1.5.198",
+      "publishedAt": "2025-08-07T02:02:24.943Z",
+      "publisher": "kilianvalkhof",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 170214,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/electron-to-chromium",
+          "observedAt": "2026-11-16T10:35:00.519Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/electron-to-chromium",
+          "observedAt": "2026-11-16T10:35:00.519Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/electron-to-chromium",
+          "observedAt": "2026-11-16T10:35:00.519Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/electron-to-chromium",
+          "observedAt": "2026-11-16T10:35:00.519Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/electron-to-chromium",
+          "observedAt": "2026-11-16T10:35:00.519Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/electron-to-chromium",
+          "observedAt": "2026-11-16T10:35:00.519Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "electron-to-chromium",
+      "semver": "1.5.199",
+      "publishedAt": "2025-08-07T22:02:23.803Z",
+      "publisher": "kilianvalkhof",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 170353,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/electron-to-chromium",
+          "observedAt": "2026-11-16T10:35:00.519Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/electron-to-chromium",
+          "observedAt": "2026-11-16T10:35:00.519Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/electron-to-chromium",
+          "observedAt": "2026-11-16T10:35:00.519Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/electron-to-chromium",
+          "observedAt": "2026-11-16T10:35:00.519Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/electron-to-chromium",
+          "observedAt": "2026-11-16T10:35:00.519Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/electron-to-chromium",
+          "observedAt": "2026-11-16T10:35:00.519Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

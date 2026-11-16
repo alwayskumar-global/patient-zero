@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 1,
+  "pkg": "monorepo-next",
+  "source": "https://registry.npmjs.org/monorepo-next",
+  "fetchedAt": "2026-11-16T10:32:23.212Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 210
+  },
+  "sourceSha256": "f1701916ea098afe995584fdacf1d3e9548121d8693ecde41072d75ae33f99eb",
+  "versions": [
+    {
+      "pkg": "monorepo-next",
+      "semver": "0.2.45",
+      "publishedAt": "2020-05-03T12:08:22.993Z",
+      "publisher": "kellyselden",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 54796,
+      "dependencies": {
+        "glob": "^7.1.4",
+        "execa": "^3.0.0",
+        "yargs": "^15.0.0",
+        "semver": "^6.3.0",
+        "inquirer": "^7.0.0",
+        "standard-version": "7.1.0",
+        "conventional-changelog": "3.1.18",
+        "conventional-recommended-bump": "6.0.5"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/monorepo-next",
+          "observedAt": "2026-11-16T10:32:23.212Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/monorepo-next",
+          "observedAt": "2026-11-16T10:32:23.212Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/monorepo-next",
+          "observedAt": "2026-11-16T10:32:23.212Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/monorepo-next",
+          "observedAt": "2026-11-16T10:32:23.212Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/monorepo-next",
+          "observedAt": "2026-11-16T10:32:23.212Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/monorepo-next",
+          "observedAt": "2026-11-16T10:32:23.212Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "monorepo-next",
+      "semver": "13.0.0",
+      "publishedAt": "2025-07-13T15:35:11.494Z",
+      "publisher": "crowdstrike-publisher",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 97360,
+      "dependencies": {
+        "tmp": "0.2.3",
+        "glob": "^8.0.0",
+        "debug": "^4.3.1",
+        "execa": "^5.0.0",
+        "yargs": "^17.0.0",
+        "semver": "^7.5.3",
+        "js-yaml": "^4.0.0",
+        "rfc6902": "^5.0.0",
+        "inquirer": "^12.0.0",
+        "lockfile": "^1.0.4",
+        "superset": "^2.0.1",
+        "minimatch": "^10.0.0",
+        "npm-packlist": "^10.0.0",
+        "@npmcli/arborist": "^9.0.0",
+        "sanitize-filename": "^1.6.3",
+        "commit-and-tag-version": "12.5.1",
+        "conventional-changelog": "5.1.0",
+        "conventional-recommended-bump": "9.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/monorepo-next",
+          "observedAt": "2026-11-16T10:32:23.212Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/monorepo-next",
+          "observedAt": "2026-11-16T10:32:23.212Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/monorepo-next",
+          "observedAt": "2026-11-16T10:32:23.212Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/monorepo-next",
+          "observedAt": "2026-11-16T10:32:23.212Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/monorepo-next",
+          "observedAt": "2026-11-16T10:32:23.212Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/monorepo-next",
+          "observedAt": "2026-11-16T10:32:23.212Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "monorepo-next",
+      "semver": "13.0.1",
+      "publishedAt": "2025-09-16T01:14:31.002Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/monorepo-next",
+          "observedAt": "2026-11-16T10:32:23.212Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "monorepo-next",
+      "semver": "13.0.2",
+      "publishedAt": "2025-09-16T01:22:13.172Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/monorepo-next",
+          "observedAt": "2026-11-16T10:32:23.212Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

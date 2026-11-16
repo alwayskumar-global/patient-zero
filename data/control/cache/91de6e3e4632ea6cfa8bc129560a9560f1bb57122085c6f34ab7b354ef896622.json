@@ -1,0 +1,203 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@babel/plugin-proposal-class-properties",
+  "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-class-properties",
+  "fetchedAt": "2026-11-16T10:34:31.723Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 65
+  },
+  "sourceSha256": "7ef6b9fba71c45eb2bc3c549550f12627c6b86e39730ecd20d57f7d4fe5dfd6e",
+  "versions": [
+    {
+      "pkg": "@babel/plugin-proposal-class-properties",
+      "semver": "7.0.0-beta.49",
+      "publishedAt": "2018-05-25T16:04:55.362Z",
+      "publisher": "loganfsmyth",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 16733,
+      "dependencies": {
+        "@babel/helper-function-name": "7.0.0-beta.49",
+        "@babel/helper-member-expression-to-functions": "7.0.0-beta.49",
+        "@babel/helper-optimise-call-expression": "7.0.0-beta.49",
+        "@babel/helper-plugin-utils": "7.0.0-beta.49",
+        "@babel/helper-replace-supers": "7.0.0-beta.49",
+        "@babel/plugin-syntax-class-properties": "7.0.0-beta.49"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-class-properties",
+          "observedAt": "2026-11-16T10:34:31.723Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-class-properties",
+          "observedAt": "2026-11-16T10:34:31.723Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-class-properties",
+          "observedAt": "2026-11-16T10:34:31.723Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-class-properties",
+          "observedAt": "2026-11-16T10:34:31.723Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-class-properties",
+          "observedAt": "2026-11-16T10:34:31.723Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-class-properties",
+          "observedAt": "2026-11-16T10:34:31.723Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/plugin-proposal-class-properties",
+      "semver": "7.1.0",
+      "publishedAt": "2018-09-17T19:31:21.992Z",
+      "publisher": "hzoo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 17873,
+      "dependencies": {
+        "@babel/helper-function-name": "^7.1.0",
+        "@babel/helper-member-expression-to-functions": "^7.0.0",
+        "@babel/helper-optimise-call-expression": "^7.0.0",
+        "@babel/helper-plugin-utils": "^7.0.0",
+        "@babel/helper-replace-supers": "^7.1.0",
+        "@babel/plugin-syntax-class-properties": "^7.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-class-properties",
+          "observedAt": "2026-11-16T10:34:31.723Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-class-properties",
+          "observedAt": "2026-11-16T10:34:31.723Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-class-properties",
+          "observedAt": "2026-11-16T10:34:31.723Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-class-properties",
+          "observedAt": "2026-11-16T10:34:31.723Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-class-properties",
+          "observedAt": "2026-11-16T10:34:31.723Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-class-properties",
+          "observedAt": "2026-11-16T10:34:31.723Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/plugin-proposal-class-properties",
+      "semver": "7.10.4",
+      "publishedAt": "2020-06-30T13:13:32.148Z",
+      "publisher": "jlhwung",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 3189,
+      "dependencies": {
+        "@babel/helper-create-class-features-plugin": "^7.10.4",
+        "@babel/helper-plugin-utils": "^7.10.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-class-properties",
+          "observedAt": "2026-11-16T10:34:31.723Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-class-properties",
+          "observedAt": "2026-11-16T10:34:31.723Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-class-properties",
+          "observedAt": "2026-11-16T10:34:31.723Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-class-properties",
+          "observedAt": "2026-11-16T10:34:31.723Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-class-properties",
+          "observedAt": "2026-11-16T10:34:31.723Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-class-properties",
+          "observedAt": "2026-11-16T10:34:31.723Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/plugin-proposal-class-properties",
+      "semver": "7.21.4-esm.4",
+      "publishedAt": "2023-04-04T15:13:53.478Z",
+      "publisher": "nicolo-ribaudo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 4529,
+      "dependencies": {
+        "@babel/helper-create-class-features-plugin": "7.21.4-esm.4",
+        "@babel/helper-plugin-utils": "7.21.4-esm.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-class-properties",
+          "observedAt": "2026-11-16T10:34:31.723Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-class-properties",
+          "observedAt": "2026-11-16T10:34:31.723Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-class-properties",
+          "observedAt": "2026-11-16T10:34:31.723Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-class-properties",
+          "observedAt": "2026-11-16T10:34:31.723Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-class-properties",
+          "observedAt": "2026-11-16T10:34:31.723Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-class-properties",
+          "observedAt": "2026-11-16T10:34:31.723Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

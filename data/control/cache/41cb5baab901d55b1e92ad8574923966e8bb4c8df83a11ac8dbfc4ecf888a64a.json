@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "pkg": "chokidar",
+  "source": "https://registry.npmjs.org/chokidar",
+  "fetchedAt": "2026-11-16T10:34:57.607Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 112
+  },
+  "sourceSha256": "d43601c28f9f0a8d0985dd78538f0fe8e28dc93d08f817ca2d36930b84a9bee4",
+  "versions": [
+    {
+      "pkg": "chokidar",
+      "semver": "2.0.2",
+      "publishedAt": "2018-02-14T16:49:28.280Z",
+      "publisher": "es128",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 78998,
+      "dependencies": {
+        "upath": "^1.0.0",
+        "braces": "^2.3.0",
+        "is-glob": "^4.0.0",
+        "anymatch": "^2.0.0",
+        "fsevents": "^1.0.0",
+        "inherits": "^2.0.1",
+        "readdirp": "^2.0.0",
+        "async-each": "^1.0.0",
+        "glob-parent": "^3.1.0",
+        "is-binary-path": "^1.0.0",
+        "normalize-path": "^2.1.1",
+        "path-is-absolute": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/chokidar",
+          "observedAt": "2026-11-16T10:34:57.607Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/chokidar",
+          "observedAt": "2026-11-16T10:34:57.607Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/chokidar",
+          "observedAt": "2026-11-16T10:34:57.607Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/chokidar",
+          "observedAt": "2026-11-16T10:34:57.607Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/chokidar",
+          "observedAt": "2026-11-16T10:34:57.607Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/chokidar",
+          "observedAt": "2026-11-16T10:34:57.607Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "chokidar",
+      "semver": "2.1.7",
+      "publishedAt": "2019-08-21T17:38:26.838Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/chokidar",
+          "observedAt": "2026-11-16T10:34:57.607Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "chokidar",
+      "semver": "4.0.3",
+      "publishedAt": "2024-12-18T22:21:34.451Z",
+      "publisher": "paulmillr",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 148759,
+      "dependencies": {
+        "readdirp": "^4.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/chokidar",
+          "observedAt": "2026-11-16T10:34:57.607Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/chokidar",
+          "observedAt": "2026-11-16T10:34:57.607Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/chokidar",
+          "observedAt": "2026-11-16T10:34:57.607Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/chokidar",
+          "observedAt": "2026-11-16T10:34:57.607Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/chokidar",
+          "observedAt": "2026-11-16T10:34:57.607Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/chokidar",
+          "observedAt": "2026-11-16T10:34:57.607Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

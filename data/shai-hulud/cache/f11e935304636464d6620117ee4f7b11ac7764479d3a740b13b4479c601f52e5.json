@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@teselagen/sequence-utils",
+  "source": "https://registry.npmjs.org/%40teselagen%2Fsequence-utils",
+  "fetchedAt": "2026-11-16T10:32:02.821Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 65
+  },
+  "sourceSha256": "41a0db85eb61e631b1574185c2879d6f994b37c6eae51244e3be2311753c55b7",
+  "versions": [
+    {
+      "pkg": "@teselagen/sequence-utils",
+      "semver": "0.3.32",
+      "publishedAt": "2025-06-17T18:26:52.118Z",
+      "publisher": "teselagen-admin",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 2352665,
+      "dependencies": {
+        "shortid": "2.2.16",
+        "lodash-es": "^4.17.21",
+        "jsondiffpatch": "0.4.1",
+        "string-splice": "^1.3.0",
+        "escape-string-regexp": "5.0.0",
+        "@teselagen/range-utils": "0.3.13"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40teselagen%2Fsequence-utils",
+          "observedAt": "2026-11-16T10:32:02.821Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40teselagen%2Fsequence-utils",
+          "observedAt": "2026-11-16T10:32:02.821Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40teselagen%2Fsequence-utils",
+          "observedAt": "2026-11-16T10:32:02.821Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40teselagen%2Fsequence-utils",
+          "observedAt": "2026-11-16T10:32:02.821Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40teselagen%2Fsequence-utils",
+          "observedAt": "2026-11-16T10:32:02.821Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40teselagen%2Fsequence-utils",
+          "observedAt": "2026-11-16T10:32:02.821Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@teselagen/sequence-utils",
+      "semver": "0.3.33",
+      "publishedAt": "2025-09-14T21:01:50.082Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40teselagen%2Fsequence-utils",
+          "observedAt": "2026-11-16T10:32:02.821Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@teselagen/sequence-utils",
+      "semver": "0.3.34",
+      "publishedAt": "2025-09-16T02:33:10.811Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40teselagen%2Fsequence-utils",
+          "observedAt": "2026-11-16T10:32:02.821Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

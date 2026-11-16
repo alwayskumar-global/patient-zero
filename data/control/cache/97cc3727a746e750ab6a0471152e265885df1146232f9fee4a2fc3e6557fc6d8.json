@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "pkg": "ignore",
+  "source": "https://registry.npmjs.org/ignore",
+  "fetchedAt": "2026-11-16T10:35:04.394Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 108
+  },
+  "sourceSha256": "12dcbfb9f6c37e2dc3e923f4cc1e6c94007b1fc021dad5f9fdf32a71eadc2c18",
+  "versions": [
+    {
+      "pkg": "ignore",
+      "semver": "1.1.2",
+      "publishedAt": "2013-10-07T07:16:23.194Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ignore",
+          "observedAt": "2026-11-16T10:35:04.394Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ignore",
+      "semver": "7.0.5",
+      "publishedAt": "2025-05-31T02:18:53.410Z",
+      "publisher": "kael",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 63384,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ignore",
+          "observedAt": "2026-11-16T10:35:04.394Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ignore",
+          "observedAt": "2026-11-16T10:35:04.394Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ignore",
+          "observedAt": "2026-11-16T10:35:04.394Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ignore",
+          "observedAt": "2026-11-16T10:35:04.394Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/ignore",
+          "observedAt": "2026-11-16T10:35:04.394Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ignore",
+          "observedAt": "2026-11-16T10:35:04.394Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

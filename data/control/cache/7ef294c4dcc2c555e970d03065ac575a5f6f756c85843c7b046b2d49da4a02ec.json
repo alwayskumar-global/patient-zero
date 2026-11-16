@@ -1,0 +1,295 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@radix-ui/react-focus-scope",
+  "source": "https://registry.npmjs.org/%40radix-ui%2Freact-focus-scope",
+  "fetchedAt": "2026-11-16T10:34:37.592Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 305
+  },
+  "sourceSha256": "77e6174d9e81bfad3ee81fd3c81b709f22e7662af3a7663a54b46eefd1784e07",
+  "versions": [
+    {
+      "pkg": "@radix-ui/react-focus-scope",
+      "semver": "0.0.15",
+      "publishedAt": "2021-08-04T11:07:22.734Z",
+      "publisher": "andy-hook",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 46051,
+      "dependencies": {
+        "@babel/runtime": "^7.13.10",
+        "@radix-ui/react-primitive": "0.0.15",
+        "@radix-ui/react-polymorphic": "0.0.13",
+        "@radix-ui/react-compose-refs": "0.0.5",
+        "@radix-ui/react-use-callback-ref": "0.0.5"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-focus-scope",
+          "observedAt": "2026-11-16T10:34:37.592Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-focus-scope",
+          "observedAt": "2026-11-16T10:34:37.592Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-focus-scope",
+          "observedAt": "2026-11-16T10:34:37.592Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-focus-scope",
+          "observedAt": "2026-11-16T10:34:37.592Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-focus-scope",
+          "observedAt": "2026-11-16T10:34:37.592Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-focus-scope",
+          "observedAt": "2026-11-16T10:34:37.592Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@radix-ui/react-focus-scope",
+      "semver": "0.1.4",
+      "publishedAt": "2022-02-24T18:05:58.705Z",
+      "publisher": "jjenzz",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 46458,
+      "dependencies": {
+        "@babel/runtime": "^7.13.10",
+        "@radix-ui/react-primitive": "0.1.4",
+        "@radix-ui/react-compose-refs": "0.1.0",
+        "@radix-ui/react-use-callback-ref": "0.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-focus-scope",
+          "observedAt": "2026-11-16T10:34:37.592Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-focus-scope",
+          "observedAt": "2026-11-16T10:34:37.592Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-focus-scope",
+          "observedAt": "2026-11-16T10:34:37.592Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-focus-scope",
+          "observedAt": "2026-11-16T10:34:37.592Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-focus-scope",
+          "observedAt": "2026-11-16T10:34:37.592Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-focus-scope",
+          "observedAt": "2026-11-16T10:34:37.592Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@radix-ui/react-focus-scope",
+      "semver": "1.0.4",
+      "publishedAt": "2023-09-25T13:56:59.868Z",
+      "publisher": "benoitgrelard",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 85550,
+      "dependencies": {
+        "@babel/runtime": "^7.13.10",
+        "@radix-ui/react-primitive": "1.0.3",
+        "@radix-ui/react-compose-refs": "1.0.1",
+        "@radix-ui/react-use-callback-ref": "1.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-focus-scope",
+          "observedAt": "2026-11-16T10:34:37.592Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-focus-scope",
+          "observedAt": "2026-11-16T10:34:37.592Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-focus-scope",
+          "observedAt": "2026-11-16T10:34:37.592Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-focus-scope",
+          "observedAt": "2026-11-16T10:34:37.592Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-focus-scope",
+          "observedAt": "2026-11-16T10:34:37.592Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-focus-scope",
+          "observedAt": "2026-11-16T10:34:37.592Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@radix-ui/react-focus-scope",
+      "semver": "1.1.0",
+      "publishedAt": "2024-06-19T19:58:01.126Z",
+      "publisher": "vladmoroz",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 60341,
+      "dependencies": {
+        "@radix-ui/react-primitive": "2.0.0",
+        "@radix-ui/react-compose-refs": "1.1.0",
+        "@radix-ui/react-use-callback-ref": "1.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-focus-scope",
+          "observedAt": "2026-11-16T10:34:37.592Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-focus-scope",
+          "observedAt": "2026-11-16T10:34:37.592Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-focus-scope",
+          "observedAt": "2026-11-16T10:34:37.592Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-focus-scope",
+          "observedAt": "2026-11-16T10:34:37.592Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-focus-scope",
+          "observedAt": "2026-11-16T10:34:37.592Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-focus-scope",
+          "observedAt": "2026-11-16T10:34:37.592Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@radix-ui/react-focus-scope",
+      "semver": "1.1.1-rc.3",
+      "publishedAt": "2024-12-13T01:31:59.429Z",
+      "publisher": "stephenhaney",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 60384,
+      "dependencies": {
+        "@radix-ui/react-primitive": "2.0.1-rc.3",
+        "@radix-ui/react-compose-refs": "1.1.1-rc.3",
+        "@radix-ui/react-use-callback-ref": "1.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-focus-scope",
+          "observedAt": "2026-11-16T10:34:37.592Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-focus-scope",
+          "observedAt": "2026-11-16T10:34:37.592Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-focus-scope",
+          "observedAt": "2026-11-16T10:34:37.592Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-focus-scope",
+          "observedAt": "2026-11-16T10:34:37.592Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-focus-scope",
+          "observedAt": "2026-11-16T10:34:37.592Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-focus-scope",
+          "observedAt": "2026-11-16T10:34:37.592Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@radix-ui/react-focus-scope",
+      "semver": "1.1.7",
+      "publishedAt": "2025-05-20T15:21:08.286Z",
+      "publisher": "chancestrickland",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 61592,
+      "dependencies": {
+        "@radix-ui/react-primitive": "2.1.3",
+        "@radix-ui/react-compose-refs": "1.1.2",
+        "@radix-ui/react-use-callback-ref": "1.1.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-focus-scope",
+          "observedAt": "2026-11-16T10:34:37.592Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-focus-scope",
+          "observedAt": "2026-11-16T10:34:37.592Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-focus-scope",
+          "observedAt": "2026-11-16T10:34:37.592Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-focus-scope",
+          "observedAt": "2026-11-16T10:34:37.592Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-focus-scope",
+          "observedAt": "2026-11-16T10:34:37.592Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-focus-scope",
+          "observedAt": "2026-11-16T10:34:37.592Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

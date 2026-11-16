@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "eastasianwidth",
+  "source": "https://registry.npmjs.org/eastasianwidth",
+  "fetchedAt": "2026-11-16T10:35:00.173Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 5
+  },
+  "sourceSha256": "19f4f7ed04a661a9b32ddf63d674e10094f6ce67ad2c908cb2aa2c327d04dc95",
+  "versions": [
+    {
+      "pkg": "eastasianwidth",
+      "semver": "0.3.0",
+      "publishedAt": "2024-04-21T05:25:57.746Z",
+      "publisher": "komagata",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 14128,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/eastasianwidth",
+          "observedAt": "2026-11-16T10:35:00.173Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/eastasianwidth",
+          "observedAt": "2026-11-16T10:35:00.173Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/eastasianwidth",
+          "observedAt": "2026-11-16T10:35:00.173Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/eastasianwidth",
+          "observedAt": "2026-11-16T10:35:00.173Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/eastasianwidth",
+          "observedAt": "2026-11-16T10:35:00.173Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/eastasianwidth",
+          "observedAt": "2026-11-16T10:35:00.173Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

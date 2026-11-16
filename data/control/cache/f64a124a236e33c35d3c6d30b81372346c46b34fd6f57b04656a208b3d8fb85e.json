@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "pkg": "cross-fetch",
+  "source": "https://registry.npmjs.org/cross-fetch",
+  "fetchedAt": "2026-11-16T10:34:58.717Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 52
+  },
+  "sourceSha256": "1dd0510bf28acf8504ef61431b365f5726118ac9e47042186ce112f48f64ae46",
+  "versions": [
+    {
+      "pkg": "cross-fetch",
+      "semver": "0.0.1",
+      "publishedAt": "2017-09-23T14:11:24.198Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/cross-fetch",
+          "observedAt": "2026-11-16T10:34:58.717Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "cross-fetch",
+      "semver": "3.2.0",
+      "publishedAt": "2024-12-21T15:24:38.692Z",
+      "publisher": "lquixada",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 93584,
+      "dependencies": {
+        "node-fetch": "^2.7.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/cross-fetch",
+          "observedAt": "2026-11-16T10:34:58.717Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/cross-fetch",
+          "observedAt": "2026-11-16T10:34:58.717Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/cross-fetch",
+          "observedAt": "2026-11-16T10:34:58.717Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/cross-fetch",
+          "observedAt": "2026-11-16T10:34:58.717Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/cross-fetch",
+          "observedAt": "2026-11-16T10:34:58.717Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/cross-fetch",
+          "observedAt": "2026-11-16T10:34:58.717Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@vitest/spy",
+  "source": "https://registry.npmjs.org/%40vitest%2Fspy",
+  "fetchedAt": "2026-11-16T10:34:54.856Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 214
+  },
+  "sourceSha256": "af454b175fee02904ea347ef2f6cf1587a50f4d8872921e879eaebe9af9224f0",
+  "versions": [
+    {
+      "pkg": "@vitest/spy",
+      "semver": "0.28.2",
+      "publishedAt": "2023-01-25T11:20:48.618Z",
+      "publisher": "antfu",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 10215,
+      "dependencies": {
+        "tinyspy": "^1.0.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40vitest%2Fspy",
+          "observedAt": "2026-11-16T10:34:54.856Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40vitest%2Fspy",
+          "observedAt": "2026-11-16T10:34:54.856Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40vitest%2Fspy",
+          "observedAt": "2026-11-16T10:34:54.856Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40vitest%2Fspy",
+          "observedAt": "2026-11-16T10:34:54.856Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40vitest%2Fspy",
+          "observedAt": "2026-11-16T10:34:54.856Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40vitest%2Fspy",
+          "observedAt": "2026-11-16T10:34:54.856Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@vitest/spy",
+      "semver": "1.2.2",
+      "publishedAt": "2024-01-26T16:25:32.256Z",
+      "publisher": "oreanno",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 18005,
+      "dependencies": {
+        "tinyspy": "^2.2.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40vitest%2Fspy",
+          "observedAt": "2026-11-16T10:34:54.856Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40vitest%2Fspy",
+          "observedAt": "2026-11-16T10:34:54.856Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40vitest%2Fspy",
+          "observedAt": "2026-11-16T10:34:54.856Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40vitest%2Fspy",
+          "observedAt": "2026-11-16T10:34:54.856Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40vitest%2Fspy",
+          "observedAt": "2026-11-16T10:34:54.856Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40vitest%2Fspy",
+          "observedAt": "2026-11-16T10:34:54.856Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@vitest/spy",
+      "semver": "4.0.0-beta.5",
+      "publishedAt": "2025-07-28T17:44:54.797Z",
+      "publisher": "vitestbot",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 23982,
+      "dependencies": {
+        "tinyspy": "^4.0.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40vitest%2Fspy",
+          "observedAt": "2026-11-16T10:34:54.856Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40vitest%2Fspy",
+          "observedAt": "2026-11-16T10:34:54.856Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40vitest%2Fspy",
+          "observedAt": "2026-11-16T10:34:54.856Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40vitest%2Fspy",
+          "observedAt": "2026-11-16T10:34:54.856Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40vitest%2Fspy",
+          "observedAt": "2026-11-16T10:34:54.856Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40vitest%2Fspy",
+          "observedAt": "2026-11-16T10:34:54.856Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@vitest/spy",
+      "semver": "4.0.0-beta.6",
+      "publishedAt": "2025-08-04T12:32:20.299Z",
+      "publisher": "vitestbot",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 33491,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40vitest%2Fspy",
+          "observedAt": "2026-11-16T10:34:54.856Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40vitest%2Fspy",
+          "observedAt": "2026-11-16T10:34:54.856Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40vitest%2Fspy",
+          "observedAt": "2026-11-16T10:34:54.856Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40vitest%2Fspy",
+          "observedAt": "2026-11-16T10:34:54.856Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40vitest%2Fspy",
+          "observedAt": "2026-11-16T10:34:54.856Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40vitest%2Fspy",
+          "observedAt": "2026-11-16T10:34:54.856Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

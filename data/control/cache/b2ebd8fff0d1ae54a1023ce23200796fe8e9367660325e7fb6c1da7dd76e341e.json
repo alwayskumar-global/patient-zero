@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "confbox",
+  "source": "https://registry.npmjs.org/confbox",
+  "fetchedAt": "2026-11-16T10:34:58.204Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 18
+  },
+  "sourceSha256": "36aed0733e62fa7d1f6e3c6bf7bfb8d11ca278bbd673bba50b93d83b58681b94",
+  "versions": [
+    {
+      "pkg": "confbox",
+      "semver": "0.2.2",
+      "publishedAt": "2025-04-03T12:10:34.882Z",
+      "publisher": "pi0",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 134791,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/confbox",
+          "observedAt": "2026-11-16T10:34:58.204Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/confbox",
+          "observedAt": "2026-11-16T10:34:58.204Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/confbox",
+          "observedAt": "2026-11-16T10:34:58.204Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/confbox",
+          "observedAt": "2026-11-16T10:34:58.204Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/confbox",
+          "observedAt": "2026-11-16T10:34:58.204Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/confbox",
+          "observedAt": "2026-11-16T10:34:58.204Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

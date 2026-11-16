@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "pkg": "ip",
+  "source": "https://registry.npmjs.org/ip",
+  "fetchedAt": "2026-11-16T10:35:04.966Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 26
+  },
+  "sourceSha256": "759679e8777b82a02165da53314abd8aed373ab98806e58cef499d00072ae843",
+  "versions": [
+    {
+      "pkg": "ip",
+      "semver": "0.0.1",
+      "publishedAt": "2012-08-15T09:10:05.826Z",
+      "publisher": null,
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ip",
+          "observedAt": "2026-11-16T10:35:04.966Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ip",
+          "observedAt": "2026-11-16T10:35:04.966Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ip",
+          "observedAt": "2026-11-16T10:35:04.966Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ip",
+          "observedAt": "2026-11-16T10:35:04.966Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ip",
+      "semver": "0.3.0",
+      "publishedAt": "2014-02-02T20:08:33.857Z",
+      "publisher": "fedor.indutny",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ip",
+          "observedAt": "2026-11-16T10:35:04.966Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ip",
+          "observedAt": "2026-11-16T10:35:04.966Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ip",
+          "observedAt": "2026-11-16T10:35:04.966Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ip",
+          "observedAt": "2026-11-16T10:35:04.966Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ip",
+          "observedAt": "2026-11-16T10:35:04.966Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ip",
+      "semver": "1.1.2",
+      "publishedAt": "2016-03-04T19:29:51.260Z",
+      "publisher": "indexzero",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ip",
+          "observedAt": "2026-11-16T10:35:04.966Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ip",
+          "observedAt": "2026-11-16T10:35:04.966Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ip",
+          "observedAt": "2026-11-16T10:35:04.966Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ip",
+          "observedAt": "2026-11-16T10:35:04.966Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ip",
+          "observedAt": "2026-11-16T10:35:04.966Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ip",
+      "semver": "2.0.1",
+      "publishedAt": "2024-02-19T05:13:16.771Z",
+      "publisher": "indutny",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 15497,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ip",
+          "observedAt": "2026-11-16T10:35:04.966Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ip",
+          "observedAt": "2026-11-16T10:35:04.966Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ip",
+          "observedAt": "2026-11-16T10:35:04.966Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ip",
+          "observedAt": "2026-11-16T10:35:04.966Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/ip",
+          "observedAt": "2026-11-16T10:35:04.966Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ip",
+          "observedAt": "2026-11-16T10:35:04.966Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

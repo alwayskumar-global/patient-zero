@@ -1,0 +1,193 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@babel/plugin-transform-block-scoping",
+  "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-block-scoping",
+  "fetchedAt": "2026-11-16T10:34:32.299Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 145
+  },
+  "sourceSha256": "50dc1050e5f7912e2edfb99b379f0e6e6019f743514bf02e3b68b03200fc732e",
+  "versions": [
+    {
+      "pkg": "@babel/plugin-transform-block-scoping",
+      "semver": "7.0.0-beta.49",
+      "publishedAt": "2018-05-25T16:01:59.175Z",
+      "publisher": "loganfsmyth",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 26303,
+      "dependencies": {
+        "lodash": "^4.17.5",
+        "@babel/helper-plugin-utils": "7.0.0-beta.49"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-block-scoping",
+          "observedAt": "2026-11-16T10:34:32.299Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-block-scoping",
+          "observedAt": "2026-11-16T10:34:32.299Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-block-scoping",
+          "observedAt": "2026-11-16T10:34:32.299Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-block-scoping",
+          "observedAt": "2026-11-16T10:34:32.299Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-block-scoping",
+          "observedAt": "2026-11-16T10:34:32.299Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-block-scoping",
+          "observedAt": "2026-11-16T10:34:32.299Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/plugin-transform-block-scoping",
+      "semver": "7.1.5",
+      "publishedAt": "2018-11-06T22:21:24.773Z",
+      "publisher": "hzoo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 26074,
+      "dependencies": {
+        "lodash": "^4.17.10",
+        "@babel/helper-plugin-utils": "^7.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-block-scoping",
+          "observedAt": "2026-11-16T10:34:32.299Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-block-scoping",
+          "observedAt": "2026-11-16T10:34:32.299Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-block-scoping",
+          "observedAt": "2026-11-16T10:34:32.299Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-block-scoping",
+          "observedAt": "2026-11-16T10:34:32.299Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-block-scoping",
+          "observedAt": "2026-11-16T10:34:32.299Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-block-scoping",
+          "observedAt": "2026-11-16T10:34:32.299Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/plugin-transform-block-scoping",
+      "semver": "7.11.1",
+      "publishedAt": "2020-08-04T22:05:46.822Z",
+      "publisher": "jlhwung",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 24603,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "^7.10.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-block-scoping",
+          "observedAt": "2026-11-16T10:34:32.299Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-block-scoping",
+          "observedAt": "2026-11-16T10:34:32.299Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-block-scoping",
+          "observedAt": "2026-11-16T10:34:32.299Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-block-scoping",
+          "observedAt": "2026-11-16T10:34:32.299Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-block-scoping",
+          "observedAt": "2026-11-16T10:34:32.299Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-block-scoping",
+          "observedAt": "2026-11-16T10:34:32.299Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/plugin-transform-block-scoping",
+      "semver": "8.0.0-beta.1",
+      "publishedAt": "2025-07-02T09:04:11.334Z",
+      "publisher": "nicolo-ribaudo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 86537,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "^8.0.0-beta.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-block-scoping",
+          "observedAt": "2026-11-16T10:34:32.299Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-block-scoping",
+          "observedAt": "2026-11-16T10:34:32.299Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-block-scoping",
+          "observedAt": "2026-11-16T10:34:32.299Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-block-scoping",
+          "observedAt": "2026-11-16T10:34:32.299Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-block-scoping",
+          "observedAt": "2026-11-16T10:34:32.299Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-block-scoping",
+          "observedAt": "2026-11-16T10:34:32.299Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

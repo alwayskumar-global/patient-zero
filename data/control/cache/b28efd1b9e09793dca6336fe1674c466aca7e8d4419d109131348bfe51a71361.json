@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "pkg": "function-bind",
+  "source": "https://registry.npmjs.org/function-bind",
+  "fetchedAt": "2026-11-16T10:35:02.873Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 7
+  },
+  "sourceSha256": "5e40bd325311eee66fdf9721fbc1fc1ce1dc2fbeddb0fc6c607547c8df32f0cb",
+  "versions": [
+    {
+      "pkg": "function-bind",
+      "semver": "0.1.0",
+      "publishedAt": "2013-06-16T23:25:42.888Z",
+      "publisher": "raynos",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/function-bind",
+          "observedAt": "2026-11-16T10:35:02.873Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/function-bind",
+          "observedAt": "2026-11-16T10:35:02.873Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/function-bind",
+          "observedAt": "2026-11-16T10:35:02.873Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/function-bind",
+          "observedAt": "2026-11-16T10:35:02.873Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/function-bind",
+          "observedAt": "2026-11-16T10:35:02.873Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "function-bind",
+      "semver": "1.0.1",
+      "publishedAt": "2014-10-03T07:38:13.045Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/function-bind",
+          "observedAt": "2026-11-16T10:35:02.873Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "function-bind",
+      "semver": "1.1.2",
+      "publishedAt": "2023-10-12T19:08:19.687Z",
+      "publisher": "ljharb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 31427,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/function-bind",
+          "observedAt": "2026-11-16T10:35:02.873Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/function-bind",
+          "observedAt": "2026-11-16T10:35:02.873Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/function-bind",
+          "observedAt": "2026-11-16T10:35:02.873Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/function-bind",
+          "observedAt": "2026-11-16T10:35:02.873Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/function-bind",
+          "observedAt": "2026-11-16T10:35:02.873Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/function-bind",
+          "observedAt": "2026-11-16T10:35:02.873Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

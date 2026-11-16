@@ -1,0 +1,222 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@babel/traverse",
+  "source": "https://registry.npmjs.org/%40babel%2Ftraverse",
+  "fetchedAt": "2026-11-16T10:34:33.757Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 230
+  },
+  "sourceSha256": "ebe83f28d21a4a8a2f687fa8d9156a3c26694f733dc1a0dcc22462afad5091de",
+  "versions": [
+    {
+      "pkg": "@babel/traverse",
+      "semver": "7.0.0-beta.49",
+      "publishedAt": "2018-05-25T16:04:08.554Z",
+      "publisher": "loganfsmyth",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 143367,
+      "dependencies": {
+        "debug": "^3.1.0",
+        "lodash": "^4.17.5",
+        "globals": "^11.1.0",
+        "invariant": "^2.2.0",
+        "@babel/types": "7.0.0-beta.49",
+        "@babel/parser": "7.0.0-beta.49",
+        "@babel/generator": "7.0.0-beta.49",
+        "@babel/code-frame": "7.0.0-beta.49",
+        "@babel/helper-function-name": "7.0.0-beta.49",
+        "@babel/helper-split-export-declaration": "7.0.0-beta.49"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Ftraverse",
+          "observedAt": "2026-11-16T10:34:33.757Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Ftraverse",
+          "observedAt": "2026-11-16T10:34:33.757Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Ftraverse",
+          "observedAt": "2026-11-16T10:34:33.757Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Ftraverse",
+          "observedAt": "2026-11-16T10:34:33.757Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Ftraverse",
+          "observedAt": "2026-11-16T10:34:33.757Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Ftraverse",
+          "observedAt": "2026-11-16T10:34:33.757Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/traverse",
+      "semver": "7.1.5",
+      "publishedAt": "2018-11-06T22:21:44.503Z",
+      "publisher": "hzoo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 144164,
+      "dependencies": {
+        "debug": "^3.1.0",
+        "lodash": "^4.17.10",
+        "globals": "^11.1.0",
+        "@babel/types": "^7.1.5",
+        "@babel/parser": "^7.1.5",
+        "@babel/generator": "^7.1.5",
+        "@babel/code-frame": "^7.0.0",
+        "@babel/helper-function-name": "^7.1.0",
+        "@babel/helper-split-export-declaration": "^7.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Ftraverse",
+          "observedAt": "2026-11-16T10:34:33.757Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Ftraverse",
+          "observedAt": "2026-11-16T10:34:33.757Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Ftraverse",
+          "observedAt": "2026-11-16T10:34:33.757Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Ftraverse",
+          "observedAt": "2026-11-16T10:34:33.757Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Ftraverse",
+          "observedAt": "2026-11-16T10:34:33.757Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Ftraverse",
+          "observedAt": "2026-11-16T10:34:33.757Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/traverse",
+      "semver": "7.11.5",
+      "publishedAt": "2020-08-31T20:02:27.560Z",
+      "publisher": "jlhwung",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 157171,
+      "dependencies": {
+        "debug": "^4.1.0",
+        "lodash": "^4.17.19",
+        "globals": "^11.1.0",
+        "@babel/types": "^7.11.5",
+        "@babel/parser": "^7.11.5",
+        "@babel/generator": "^7.11.5",
+        "@babel/code-frame": "^7.10.4",
+        "@babel/helper-function-name": "^7.10.4",
+        "@babel/helper-split-export-declaration": "^7.11.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Ftraverse",
+          "observedAt": "2026-11-16T10:34:33.757Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Ftraverse",
+          "observedAt": "2026-11-16T10:34:33.757Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Ftraverse",
+          "observedAt": "2026-11-16T10:34:33.757Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Ftraverse",
+          "observedAt": "2026-11-16T10:34:33.757Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Ftraverse",
+          "observedAt": "2026-11-16T10:34:33.757Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Ftraverse",
+          "observedAt": "2026-11-16T10:34:33.757Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/traverse",
+      "semver": "8.0.0-beta.1",
+      "publishedAt": "2025-07-02T09:04:34.916Z",
+      "publisher": "nicolo-ribaudo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 813424,
+      "dependencies": {
+        "debug": "^4.3.1",
+        "@babel/types": "^8.0.0-beta.1",
+        "@babel/parser": "^8.0.0-beta.1",
+        "@babel/template": "^8.0.0-beta.1",
+        "@babel/generator": "^8.0.0-beta.1",
+        "@babel/code-frame": "^8.0.0-beta.1",
+        "@babel/helper-globals": "^8.0.0-beta.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Ftraverse",
+          "observedAt": "2026-11-16T10:34:33.757Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Ftraverse",
+          "observedAt": "2026-11-16T10:34:33.757Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Ftraverse",
+          "observedAt": "2026-11-16T10:34:33.757Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Ftraverse",
+          "observedAt": "2026-11-16T10:34:33.757Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Ftraverse",
+          "observedAt": "2026-11-16T10:34:33.757Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Ftraverse",
+          "observedAt": "2026-11-16T10:34:33.757Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

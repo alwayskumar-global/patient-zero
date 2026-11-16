@@ -1,0 +1,342 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@art-ws/openapi",
+  "source": "https://registry.npmjs.org/%40art-ws%2Fopenapi",
+  "fetchedAt": "2026-11-16T10:31:01.870Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 13
+  },
+  "sourceSha256": "3c4f765fe91574680fc145ac9787affb2f01301860ca74ec51e9958f5d986876",
+  "versions": [
+    {
+      "pkg": "@art-ws/openapi",
+      "semver": "0.1.11",
+      "publishedAt": "2025-09-15T08:56:27.063Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fopenapi",
+          "observedAt": "2026-11-16T10:31:01.870Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@art-ws/openapi",
+      "semver": "0.1.12",
+      "publishedAt": "2025-09-15T08:58:34.341Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fopenapi",
+          "observedAt": "2026-11-16T10:31:01.870Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@art-ws/openapi",
+      "semver": "0.1.3",
+      "publishedAt": "2025-09-01T09:12:10.268Z",
+      "publisher": "art-ws",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 1969,
+      "dependencies": {
+        "@fastify/swagger": "9.5.1",
+        "@art-ws/fastify-http-server": "2.0.18",
+        "@scalar/fastify-api-reference": "^1.34.6"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fopenapi",
+          "observedAt": "2026-11-16T10:31:01.870Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fopenapi",
+          "observedAt": "2026-11-16T10:31:01.870Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fopenapi",
+          "observedAt": "2026-11-16T10:31:01.870Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fopenapi",
+          "observedAt": "2026-11-16T10:31:01.870Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fopenapi",
+          "observedAt": "2026-11-16T10:31:01.870Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fopenapi",
+          "observedAt": "2026-11-16T10:31:01.870Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@art-ws/openapi",
+      "semver": "0.1.4",
+      "publishedAt": "2025-09-13T19:30:05.849Z",
+      "publisher": "art-ws",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 1969,
+      "dependencies": {
+        "@fastify/swagger": "9.5.1",
+        "@art-ws/fastify-http-server": "2.0.19",
+        "@scalar/fastify-api-reference": "^1.34.6"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fopenapi",
+          "observedAt": "2026-11-16T10:31:01.870Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fopenapi",
+          "observedAt": "2026-11-16T10:31:01.870Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fopenapi",
+          "observedAt": "2026-11-16T10:31:01.870Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fopenapi",
+          "observedAt": "2026-11-16T10:31:01.870Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fopenapi",
+          "observedAt": "2026-11-16T10:31:01.870Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fopenapi",
+          "observedAt": "2026-11-16T10:31:01.870Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@art-ws/openapi",
+      "semver": "0.1.5",
+      "publishedAt": "2025-09-14T06:15:37.881Z",
+      "publisher": "art-ws",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 1969,
+      "dependencies": {
+        "@fastify/swagger": "9.5.1",
+        "@art-ws/fastify-http-server": "2.0.20",
+        "@scalar/fastify-api-reference": "^1.34.6"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fopenapi",
+          "observedAt": "2026-11-16T10:31:01.870Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fopenapi",
+          "observedAt": "2026-11-16T10:31:01.870Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fopenapi",
+          "observedAt": "2026-11-16T10:31:01.870Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fopenapi",
+          "observedAt": "2026-11-16T10:31:01.870Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fopenapi",
+          "observedAt": "2026-11-16T10:31:01.870Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fopenapi",
+          "observedAt": "2026-11-16T10:31:01.870Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@art-ws/openapi",
+      "semver": "0.1.6",
+      "publishedAt": "2025-09-14T06:38:41.875Z",
+      "publisher": "art-ws",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 1969,
+      "dependencies": {
+        "@fastify/swagger": "9.5.1",
+        "@art-ws/fastify-http-server": "2.0.21",
+        "@scalar/fastify-api-reference": "^1.34.6"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fopenapi",
+          "observedAt": "2026-11-16T10:31:01.870Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fopenapi",
+          "observedAt": "2026-11-16T10:31:01.870Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fopenapi",
+          "observedAt": "2026-11-16T10:31:01.870Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fopenapi",
+          "observedAt": "2026-11-16T10:31:01.870Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fopenapi",
+          "observedAt": "2026-11-16T10:31:01.870Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fopenapi",
+          "observedAt": "2026-11-16T10:31:01.870Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@art-ws/openapi",
+      "semver": "0.1.7",
+      "publishedAt": "2025-09-14T08:34:04.751Z",
+      "publisher": "art-ws",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 1969,
+      "dependencies": {
+        "@fastify/swagger": "9.5.1",
+        "@art-ws/fastify-http-server": "2.0.22",
+        "@scalar/fastify-api-reference": "^1.34.6"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fopenapi",
+          "observedAt": "2026-11-16T10:31:01.870Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fopenapi",
+          "observedAt": "2026-11-16T10:31:01.870Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fopenapi",
+          "observedAt": "2026-11-16T10:31:01.870Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fopenapi",
+          "observedAt": "2026-11-16T10:31:01.870Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fopenapi",
+          "observedAt": "2026-11-16T10:31:01.870Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fopenapi",
+          "observedAt": "2026-11-16T10:31:01.870Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@art-ws/openapi",
+      "semver": "0.1.8",
+      "publishedAt": "2025-09-15T05:14:26.149Z",
+      "publisher": "art-ws",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 1969,
+      "dependencies": {
+        "@fastify/swagger": "9.5.1",
+        "@art-ws/fastify-http-server": "2.0.23",
+        "@scalar/fastify-api-reference": "^1.34.6"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fopenapi",
+          "observedAt": "2026-11-16T10:31:01.870Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fopenapi",
+          "observedAt": "2026-11-16T10:31:01.870Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fopenapi",
+          "observedAt": "2026-11-16T10:31:01.870Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fopenapi",
+          "observedAt": "2026-11-16T10:31:01.870Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fopenapi",
+          "observedAt": "2026-11-16T10:31:01.870Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fopenapi",
+          "observedAt": "2026-11-16T10:31:01.870Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@art-ws/openapi",
+      "semver": "0.1.9",
+      "publishedAt": "2025-09-15T05:21:19.969Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fopenapi",
+          "observedAt": "2026-11-16T10:31:01.870Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

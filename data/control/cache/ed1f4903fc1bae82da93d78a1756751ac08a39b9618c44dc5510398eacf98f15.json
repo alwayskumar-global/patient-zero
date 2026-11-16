@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "pkg": "espree",
+  "source": "https://registry.npmjs.org/espree",
+  "fetchedAt": "2026-11-16T10:35:01.525Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 103
+  },
+  "sourceSha256": "eeee5d24f5a70af7f7fe60b26a8867d30e12971b62c4398c6734285977cf5149",
+  "versions": [
+    {
+      "pkg": "espree",
+      "semver": "10.4.0",
+      "publishedAt": "2025-06-09T15:46:03.805Z",
+      "publisher": "eslintbot",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 80383,
+      "dependencies": {
+        "acorn": "^8.15.0",
+        "acorn-jsx": "^5.3.2",
+        "eslint-visitor-keys": "^4.2.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/espree",
+          "observedAt": "2026-11-16T10:35:01.525Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/espree",
+          "observedAt": "2026-11-16T10:35:01.525Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/espree",
+          "observedAt": "2026-11-16T10:35:01.525Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/espree",
+          "observedAt": "2026-11-16T10:35:01.525Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/espree",
+          "observedAt": "2026-11-16T10:35:01.525Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/espree",
+          "observedAt": "2026-11-16T10:35:01.525Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "espree",
+      "semver": "3.1.6",
+      "publishedAt": "2016-06-15T18:07:14.290Z",
+      "publisher": "nzakas",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "acorn": "^3.2.0",
+        "acorn-jsx": "^3.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/espree",
+          "observedAt": "2026-11-16T10:35:01.525Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/espree",
+          "observedAt": "2026-11-16T10:35:01.525Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/espree",
+          "observedAt": "2026-11-16T10:35:01.525Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/espree",
+          "observedAt": "2026-11-16T10:35:01.525Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/espree",
+          "observedAt": "2026-11-16T10:35:01.525Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "espree",
+      "semver": "6.1.1",
+      "publishedAt": "2019-08-24T02:02:17.886Z",
+      "publisher": "eslint",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 66007,
+      "dependencies": {
+        "acorn": "^7.0.0",
+        "acorn-jsx": "^5.0.2",
+        "eslint-visitor-keys": "^1.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/espree",
+          "observedAt": "2026-11-16T10:35:01.525Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/espree",
+          "observedAt": "2026-11-16T10:35:01.525Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/espree",
+          "observedAt": "2026-11-16T10:35:01.525Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/espree",
+          "observedAt": "2026-11-16T10:35:01.525Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/espree",
+          "observedAt": "2026-11-16T10:35:01.525Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/espree",
+          "observedAt": "2026-11-16T10:35:01.525Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

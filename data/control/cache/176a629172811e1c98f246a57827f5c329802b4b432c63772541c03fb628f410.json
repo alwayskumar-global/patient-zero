@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "get-nonce",
+  "source": "https://registry.npmjs.org/get-nonce",
+  "fetchedAt": "2026-11-16T10:35:03.229Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 2
+  },
+  "sourceSha256": "08c9b216da0d762a8fdaf352f3f98928b7b2681367f625446235bc347f4405ca",
+  "versions": [
+    {
+      "pkg": "get-nonce",
+      "semver": "1.0.1",
+      "publishedAt": "2020-04-17T05:10:02.775Z",
+      "publisher": "kashey",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 5258,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/get-nonce",
+          "observedAt": "2026-11-16T10:35:03.229Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/get-nonce",
+          "observedAt": "2026-11-16T10:35:03.229Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/get-nonce",
+          "observedAt": "2026-11-16T10:35:03.229Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/get-nonce",
+          "observedAt": "2026-11-16T10:35:03.229Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/get-nonce",
+          "observedAt": "2026-11-16T10:35:03.229Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/get-nonce",
+          "observedAt": "2026-11-16T10:35:03.229Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

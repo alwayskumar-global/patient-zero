@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "pkg": "find-up",
+  "source": "https://registry.npmjs.org/find-up",
+  "fetchedAt": "2026-11-16T10:35:02.520Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 16
+  },
+  "sourceSha256": "ca48e435e3758749ef28d5d7d6fafab2dd90a1160d78e5199a368f21c995f0eb",
+  "versions": [
+    {
+      "pkg": "find-up",
+      "semver": "7.0.0",
+      "publishedAt": "2023-11-16T12:22:36.533Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 16488,
+      "dependencies": {
+        "locate-path": "^7.2.0",
+        "path-exists": "^5.0.0",
+        "unicorn-magic": "^0.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/find-up",
+          "observedAt": "2026-11-16T10:35:02.520Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/find-up",
+          "observedAt": "2026-11-16T10:35:02.520Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/find-up",
+          "observedAt": "2026-11-16T10:35:02.520Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/find-up",
+          "observedAt": "2026-11-16T10:35:02.520Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/find-up",
+          "observedAt": "2026-11-16T10:35:02.520Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/find-up",
+          "observedAt": "2026-11-16T10:35:02.520Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "pkg": "listr2",
+  "source": "https://registry.npmjs.org/listr2",
+  "fetchedAt": "2026-11-16T10:35:09.603Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 274
+  },
+  "sourceSha256": "3f4fc57c4922591e2c27e617d37db1e0fc3c701147b73a1777a6e5a719284576",
+  "versions": [
+    {
+      "pkg": "listr2",
+      "semver": "9.0.1",
+      "publishedAt": "2025-07-11T20:11:22.654Z",
+      "publisher": "cenk1cenk2",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 268854,
+      "dependencies": {
+        "rfdc": "^1.4.1",
+        "colorette": "^2.0.20",
+        "wrap-ansi": "^9.0.0",
+        "log-update": "^6.1.0",
+        "cli-truncate": "^4.0.0",
+        "eventemitter3": "^5.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/listr2",
+          "observedAt": "2026-11-16T10:35:09.603Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/listr2",
+          "observedAt": "2026-11-16T10:35:09.603Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/listr2",
+          "observedAt": "2026-11-16T10:35:09.603Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/listr2",
+          "observedAt": "2026-11-16T10:35:09.603Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/listr2",
+          "observedAt": "2026-11-16T10:35:09.603Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/listr2",
+          "observedAt": "2026-11-16T10:35:09.603Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

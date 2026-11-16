@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "pkg": "extsprintf",
+  "source": "https://registry.npmjs.org/extsprintf",
+  "fetchedAt": "2026-11-16T10:35:01.985Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 11
+  },
+  "sourceSha256": "dbbb697022b013378d5fb6afb30f85d0a2b5568ebb9774af4017ab24d40ef434",
+  "versions": [
+    {
+      "pkg": "extsprintf",
+      "semver": "1.4.0",
+      "publishedAt": "2017-11-30T21:26:44.392Z",
+      "publisher": "dap",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/extsprintf",
+          "observedAt": "2026-11-16T10:35:01.985Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/extsprintf",
+          "observedAt": "2026-11-16T10:35:01.985Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/extsprintf",
+          "observedAt": "2026-11-16T10:35:01.985Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/extsprintf",
+          "observedAt": "2026-11-16T10:35:01.985Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/extsprintf",
+          "observedAt": "2026-11-16T10:35:01.985Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "extsprintf",
+      "semver": "1.4.1",
+      "publishedAt": "2021-11-02T21:47:58.004Z",
+      "publisher": "bahamat",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 30346,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/extsprintf",
+          "observedAt": "2026-11-16T10:35:01.985Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/extsprintf",
+          "observedAt": "2026-11-16T10:35:01.985Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/extsprintf",
+          "observedAt": "2026-11-16T10:35:01.985Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/extsprintf",
+          "observedAt": "2026-11-16T10:35:01.985Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/extsprintf",
+          "observedAt": "2026-11-16T10:35:01.985Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/extsprintf",
+          "observedAt": "2026-11-16T10:35:01.985Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

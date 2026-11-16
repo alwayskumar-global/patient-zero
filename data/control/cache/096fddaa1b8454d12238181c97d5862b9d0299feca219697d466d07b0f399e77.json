@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@nodelib/fs.stat",
+  "source": "https://registry.npmjs.org/%40nodelib%2Ffs.stat",
+  "fetchedAt": "2026-11-16T10:34:36.305Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 15
+  },
+  "sourceSha256": "d8cff3999eb2b3833589e953710bec31632dcd3ccb7ff7247f0426dfe0a81058",
+  "versions": [
+    {
+      "pkg": "@nodelib/fs.stat",
+      "semver": "4.0.0",
+      "publishedAt": "2024-12-01T13:14:10.611Z",
+      "publisher": "mrmlnc",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 12716,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40nodelib%2Ffs.stat",
+          "observedAt": "2026-11-16T10:34:36.305Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40nodelib%2Ffs.stat",
+          "observedAt": "2026-11-16T10:34:36.305Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40nodelib%2Ffs.stat",
+          "observedAt": "2026-11-16T10:34:36.305Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40nodelib%2Ffs.stat",
+          "observedAt": "2026-11-16T10:34:36.305Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40nodelib%2Ffs.stat",
+          "observedAt": "2026-11-16T10:34:36.305Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nodelib%2Ffs.stat",
+          "observedAt": "2026-11-16T10:34:36.305Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "patient-zero-workspace",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22"
+  },
+  "workspaces": [
+    "packages/*",
+    "web"
+  ],
+  "scripts": {
+    "build": "tsc -b",
+    "typecheck": "tsc -b --pretty false",
+    "test": "npm run build && node --test packages/core/test/*.test.mjs packages/ingest/test/*.test.mjs packages/bench/test/*.test.mjs packages/mcp/test/*.test.mjs tests/*.test.mjs",
+    "smoke": "npm run build && node scripts/relate-smoke.mjs",
+    "doctor": "npm run build && node packages/cli/dist/index.js doctor",
+    "check": "npm run test && npm run smoke",
+    "pz": "node packages/cli/dist/index.js",
+    "build:store": "npm run build && node packages/cli/dist/index.js build-store --from-cache",
+    "demo": "npm run build && node scripts/demo.mjs",
+    "bench:tune": "npm run build && node packages/bench/dist/main.js tune",
+    "bench": "npm run build && node packages/bench/dist/main.js run",
+    "web:dev": "npm run build && npm run dev --workspace @patient-zero/web",
+    "web:build": "npm run build && npm run build --workspace @patient-zero/web",
+    "web:start": "npm run start --workspace @patient-zero/web",
+    "web:typecheck": "npm run typecheck --workspace @patient-zero/web",
+    "web:test": "npm run test --workspace @patient-zero/web",
+    "demo:terminal": "npm run build && node packages/cli/dist/index.js replay chalk-debug-2025-09",
+    "demo:check": "npm run build && node scripts/demo.mjs --no-ui",
+    "test:relate-mcp": "node scripts/verify-relate-mcp.mjs"
+  },
+  "devDependencies": {
+    "@types/node": "22.20.5",
+    "@types/semver": "7.8.0",
+    "typescript": "7.0.2"
+  }
+}

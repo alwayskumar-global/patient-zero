@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "pkg": "decamelize-keys",
+  "source": "https://registry.npmjs.org/decamelize-keys",
+  "fetchedAt": "2026-11-16T10:34:59.292Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 6
+  },
+  "sourceSha256": "dac80f1aa84d7b29bec96a25e7b57d72a9ef95b136b28c3b90b25219b0644c0e",
+  "versions": [
+    {
+      "pkg": "decamelize-keys",
+      "semver": "1.1.0",
+      "publishedAt": "2016-03-16T10:33:16.526Z",
+      "publisher": "dsblv",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "map-obj": "^1.0.0",
+        "decamelize": "^1.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/decamelize-keys",
+          "observedAt": "2026-11-16T10:34:59.292Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/decamelize-keys",
+          "observedAt": "2026-11-16T10:34:59.292Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/decamelize-keys",
+          "observedAt": "2026-11-16T10:34:59.292Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/decamelize-keys",
+          "observedAt": "2026-11-16T10:34:59.292Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/decamelize-keys",
+          "observedAt": "2026-11-16T10:34:59.292Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "decamelize-keys",
+      "semver": "2.0.1",
+      "publishedAt": "2022-10-30T13:18:26.540Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 8496,
+      "dependencies": {
+        "map-obj": "^4.3.0",
+        "quick-lru": "^6.1.1",
+        "type-fest": "^3.1.0",
+        "decamelize": "^6.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/decamelize-keys",
+          "observedAt": "2026-11-16T10:34:59.292Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/decamelize-keys",
+          "observedAt": "2026-11-16T10:34:59.292Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/decamelize-keys",
+          "observedAt": "2026-11-16T10:34:59.292Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/decamelize-keys",
+          "observedAt": "2026-11-16T10:34:59.292Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/decamelize-keys",
+          "observedAt": "2026-11-16T10:34:59.292Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/decamelize-keys",
+          "observedAt": "2026-11-16T10:34:59.292Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

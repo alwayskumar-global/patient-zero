@@ -1,0 +1,142 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@tnf-dev/core",
+  "source": "https://registry.npmjs.org/%40tnf-dev%2Fcore",
+  "fetchedAt": "2026-11-16T10:32:11.085Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 42
+  },
+  "sourceSha256": "5545423423780f64338e5e2d855e54d2c13cd2431080b745c642d947102a000a",
+  "versions": [
+    {
+      "pkg": "@tnf-dev/core",
+      "semver": "1.0.10",
+      "publishedAt": "2025-09-16T02:20:43.330Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40tnf-dev%2Fcore",
+          "observedAt": "2026-11-16T10:32:11.085Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@tnf-dev/core",
+      "semver": "1.0.10-0",
+      "publishedAt": "2025-09-16T02:19:24.107Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40tnf-dev%2Fcore",
+          "observedAt": "2026-11-16T10:32:11.085Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@tnf-dev/core",
+      "semver": "1.0.7",
+      "publishedAt": "2025-09-10T09:21:08.549Z",
+      "publisher": "thangved02",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 8786,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40tnf-dev%2Fcore",
+          "observedAt": "2026-11-16T10:32:11.085Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40tnf-dev%2Fcore",
+          "observedAt": "2026-11-16T10:32:11.085Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40tnf-dev%2Fcore",
+          "observedAt": "2026-11-16T10:32:11.085Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40tnf-dev%2Fcore",
+          "observedAt": "2026-11-16T10:32:11.085Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40tnf-dev%2Fcore",
+          "observedAt": "2026-11-16T10:32:11.085Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40tnf-dev%2Fcore",
+          "observedAt": "2026-11-16T10:32:11.085Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@tnf-dev/core",
+      "semver": "1.0.8",
+      "publishedAt": "2025-09-14T20:31:42.728Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40tnf-dev%2Fcore",
+          "observedAt": "2026-11-16T10:32:11.085Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@tnf-dev/core",
+      "semver": "1.0.8-0",
+      "publishedAt": "2025-09-16T01:51:51.655Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40tnf-dev%2Fcore",
+          "observedAt": "2026-11-16T10:32:11.085Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@tnf-dev/core",
+      "semver": "1.0.9-0",
+      "publishedAt": "2025-09-16T02:15:09.740Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40tnf-dev%2Fcore",
+          "observedAt": "2026-11-16T10:32:11.085Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

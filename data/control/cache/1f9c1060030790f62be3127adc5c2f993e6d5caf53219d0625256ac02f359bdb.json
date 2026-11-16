@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "css-what",
+  "source": "https://registry.npmjs.org/css-what",
+  "fetchedAt": "2026-11-16T10:34:58.844Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 29
+  },
+  "sourceSha256": "a26ee1276f4ce8c4074dc923dbf33ac22901cf35a44117311173d4da5710a440",
+  "versions": [
+    {
+      "pkg": "css-what",
+      "semver": "7.0.0",
+      "publishedAt": "2025-06-29T15:25:05.238Z",
+      "publisher": "feedic",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 573531,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/css-what",
+          "observedAt": "2026-11-16T10:34:58.844Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/css-what",
+          "observedAt": "2026-11-16T10:34:58.844Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/css-what",
+          "observedAt": "2026-11-16T10:34:58.844Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/css-what",
+          "observedAt": "2026-11-16T10:34:58.844Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/css-what",
+          "observedAt": "2026-11-16T10:34:58.844Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/css-what",
+          "observedAt": "2026-11-16T10:34:58.844Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

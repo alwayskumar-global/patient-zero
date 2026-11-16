@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@types/minimist",
+  "source": "https://registry.npmjs.org/%40types%2Fminimist",
+  "fetchedAt": "2026-11-16T10:34:51.004Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 17
+  },
+  "sourceSha256": "b1657a4013dcc97303fa24bcc1781381d8ed2bdd30de2f47f9815653050fc1c8",
+  "versions": [
+    {
+      "pkg": "@types/minimist",
+      "semver": "1.2.5",
+      "publishedAt": "2023-11-07T11:11:21.661Z",
+      "publisher": "types",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 6267,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40types%2Fminimist",
+          "observedAt": "2026-11-16T10:34:51.004Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40types%2Fminimist",
+          "observedAt": "2026-11-16T10:34:51.004Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40types%2Fminimist",
+          "observedAt": "2026-11-16T10:34:51.004Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40types%2Fminimist",
+          "observedAt": "2026-11-16T10:34:51.004Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40types%2Fminimist",
+          "observedAt": "2026-11-16T10:34:51.004Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40types%2Fminimist",
+          "observedAt": "2026-11-16T10:34:51.004Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

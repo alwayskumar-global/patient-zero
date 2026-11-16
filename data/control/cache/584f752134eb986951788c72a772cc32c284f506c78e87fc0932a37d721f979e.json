@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@types/babel__generator",
+  "source": "https://registry.npmjs.org/%40types%2Fbabel__generator",
+  "fetchedAt": "2026-11-16T10:34:43.685Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 13
+  },
+  "sourceSha256": "574776760d871bfac7c7f6782de05953cf059f2072fe3bd927262582ad0f68ef",
+  "versions": [
+    {
+      "pkg": "@types/babel__generator",
+      "semver": "7.27.0",
+      "publishedAt": "2025-04-03T16:02:42.530Z",
+      "publisher": "types",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 11441,
+      "dependencies": {
+        "@babel/types": "^7.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40types%2Fbabel__generator",
+          "observedAt": "2026-11-16T10:34:43.685Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40types%2Fbabel__generator",
+          "observedAt": "2026-11-16T10:34:43.685Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40types%2Fbabel__generator",
+          "observedAt": "2026-11-16T10:34:43.685Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40types%2Fbabel__generator",
+          "observedAt": "2026-11-16T10:34:43.685Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40types%2Fbabel__generator",
+          "observedAt": "2026-11-16T10:34:43.685Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40types%2Fbabel__generator",
+          "observedAt": "2026-11-16T10:34:43.685Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

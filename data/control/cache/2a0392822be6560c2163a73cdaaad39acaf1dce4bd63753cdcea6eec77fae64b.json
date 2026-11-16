@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "denque",
+  "source": "https://registry.npmjs.org/denque",
+  "fetchedAt": "2026-11-16T10:34:59.623Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 24
+  },
+  "sourceSha256": "673215cdb307ad6c7c38a0e5e3df7c29cd0caf4801fb91ebee1d253215c3d2c4",
+  "versions": [
+    {
+      "pkg": "denque",
+      "semver": "2.1.0",
+      "publishedAt": "2022-07-18T10:14:29.117Z",
+      "publisher": "salakar",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 30361,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/denque",
+          "observedAt": "2026-11-16T10:34:59.623Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/denque",
+          "observedAt": "2026-11-16T10:34:59.623Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/denque",
+          "observedAt": "2026-11-16T10:34:59.623Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/denque",
+          "observedAt": "2026-11-16T10:34:59.623Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/denque",
+          "observedAt": "2026-11-16T10:34:59.623Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/denque",
+          "observedAt": "2026-11-16T10:34:59.623Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

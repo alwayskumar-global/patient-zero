@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "pkg": "errno",
+  "source": "https://registry.npmjs.org/errno",
+  "fetchedAt": "2026-11-16T10:35:00.724Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 15
+  },
+  "sourceSha256": "03b862b2195e77960b6fb56457dff0d11aba0216e9156e2e24ca4ba90d0abae9",
+  "versions": [
+    {
+      "pkg": "errno",
+      "semver": "0.0.2",
+      "publishedAt": "2012-08-14T02:29:36.553Z",
+      "publisher": null,
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/errno",
+          "observedAt": "2026-11-16T10:35:00.724Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/errno",
+          "observedAt": "2026-11-16T10:35:00.724Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/errno",
+          "observedAt": "2026-11-16T10:35:00.724Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/errno",
+          "observedAt": "2026-11-16T10:35:00.724Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "errno",
+      "semver": "0.1.4",
+      "publishedAt": "2015-08-17T04:38:14.094Z",
+      "publisher": "rvagg",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "prr": "~0.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/errno",
+          "observedAt": "2026-11-16T10:35:00.724Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/errno",
+          "observedAt": "2026-11-16T10:35:00.724Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/errno",
+          "observedAt": "2026-11-16T10:35:00.724Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/errno",
+          "observedAt": "2026-11-16T10:35:00.724Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/errno",
+          "observedAt": "2026-11-16T10:35:00.724Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "errno",
+      "semver": "1.0.0",
+      "publishedAt": "2020-12-16T12:58:15.559Z",
+      "publisher": "ralphtheninja",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 18062,
+      "dependencies": {
+        "prr": "~1.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/errno",
+          "observedAt": "2026-11-16T10:35:00.724Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/errno",
+          "observedAt": "2026-11-16T10:35:00.724Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/errno",
+          "observedAt": "2026-11-16T10:35:00.724Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/errno",
+          "observedAt": "2026-11-16T10:35:00.724Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/errno",
+          "observedAt": "2026-11-16T10:35:00.724Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/errno",
+          "observedAt": "2026-11-16T10:35:00.724Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "pkg": "filesize",
+  "source": "https://registry.npmjs.org/filesize",
+  "fetchedAt": "2026-11-16T10:35:02.428Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 157
+  },
+  "sourceSha256": "297c21da1310c5ebc535e7c57ca67b9f5cdcdc76de7e3fb1e7584b255fecce33",
+  "versions": [
+    {
+      "pkg": "filesize",
+      "semver": "1.6.6",
+      "publishedAt": "2012-08-15T22:37:45.973Z",
+      "publisher": null,
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/filesize",
+          "observedAt": "2026-11-16T10:35:02.428Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/filesize",
+          "observedAt": "2026-11-16T10:35:02.428Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/filesize",
+          "observedAt": "2026-11-16T10:35:02.428Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/filesize",
+          "observedAt": "2026-11-16T10:35:02.428Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "filesize",
+      "semver": "11.0.2",
+      "publishedAt": "2025-07-16T09:51:55.672Z",
+      "publisher": "avoidwork",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 38605,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/filesize",
+          "observedAt": "2026-11-16T10:35:02.428Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/filesize",
+          "observedAt": "2026-11-16T10:35:02.428Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/filesize",
+          "observedAt": "2026-11-16T10:35:02.428Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/filesize",
+          "observedAt": "2026-11-16T10:35:02.428Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/filesize",
+          "observedAt": "2026-11-16T10:35:02.428Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/filesize",
+          "observedAt": "2026-11-16T10:35:02.428Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 1,
+  "pkg": "forever-agent",
+  "source": "https://registry.npmjs.org/forever-agent",
+  "fetchedAt": "2026-11-16T10:35:02.707Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 7
+  },
+  "sourceSha256": "c704e113c243601291b995c07013d7fc9bee5c238521645463268f96d855430b",
+  "versions": [
+    {
+      "pkg": "forever-agent",
+      "semver": "0.5.2",
+      "publishedAt": "2014-02-04T22:55:00.189Z",
+      "publisher": "mikeal",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/forever-agent",
+          "observedAt": "2026-11-16T10:35:02.707Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/forever-agent",
+          "observedAt": "2026-11-16T10:35:02.707Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/forever-agent",
+          "observedAt": "2026-11-16T10:35:02.707Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/forever-agent",
+          "observedAt": "2026-11-16T10:35:02.707Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/forever-agent",
+          "observedAt": "2026-11-16T10:35:02.707Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "forever-agent",
+      "semver": "0.6.0",
+      "publishedAt": "2015-03-21T20:45:07.473Z",
+      "publisher": "nylen",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/forever-agent",
+          "observedAt": "2026-11-16T10:35:02.707Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/forever-agent",
+          "observedAt": "2026-11-16T10:35:02.707Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/forever-agent",
+          "observedAt": "2026-11-16T10:35:02.707Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/forever-agent",
+          "observedAt": "2026-11-16T10:35:02.707Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/forever-agent",
+          "observedAt": "2026-11-16T10:35:02.707Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "forever-agent",
+      "semver": "0.6.1",
+      "publishedAt": "2015-04-07T17:03:49.221Z",
+      "publisher": "simov",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/forever-agent",
+          "observedAt": "2026-11-16T10:35:02.707Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/forever-agent",
+          "observedAt": "2026-11-16T10:35:02.707Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/forever-agent",
+          "observedAt": "2026-11-16T10:35:02.707Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/forever-agent",
+          "observedAt": "2026-11-16T10:35:02.707Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/forever-agent",
+          "observedAt": "2026-11-16T10:35:02.707Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

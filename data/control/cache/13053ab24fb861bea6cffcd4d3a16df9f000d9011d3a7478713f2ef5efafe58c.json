@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "pkg": "wrap-ansi",
+  "source": "https://registry.npmjs.org/wrap-ansi",
+  "fetchedAt": "2026-11-16T10:35:35.062Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 25
+  },
+  "sourceSha256": "54823d26668e17c05490a87bb7dfda5543de75eade96f3800c9d05167ead0e1f",
+  "versions": [
+    {
+      "pkg": "wrap-ansi",
+      "semver": "2.0.0",
+      "publishedAt": "2015-12-01T17:27:23.410Z",
+      "publisher": "dthree",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "string-width": "^1.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/wrap-ansi",
+          "observedAt": "2026-11-16T10:35:35.062Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/wrap-ansi",
+          "observedAt": "2026-11-16T10:35:35.062Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/wrap-ansi",
+          "observedAt": "2026-11-16T10:35:35.062Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/wrap-ansi",
+          "observedAt": "2026-11-16T10:35:35.062Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/wrap-ansi",
+          "observedAt": "2026-11-16T10:35:35.062Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "wrap-ansi",
+      "semver": "2.1.0-candidate",
+      "publishedAt": "2016-11-04T06:34:16.631Z",
+      "publisher": "bcoe",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "strip-ansi": "^3.0.1",
+        "string-width": "^1.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/wrap-ansi",
+          "observedAt": "2026-11-16T10:35:35.062Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/wrap-ansi",
+          "observedAt": "2026-11-16T10:35:35.062Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/wrap-ansi",
+          "observedAt": "2026-11-16T10:35:35.062Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/wrap-ansi",
+          "observedAt": "2026-11-16T10:35:35.062Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/wrap-ansi",
+          "observedAt": "2026-11-16T10:35:35.062Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "wrap-ansi",
+      "semver": "9.0.0",
+      "publishedAt": "2023-10-28T17:40:34.341Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 11484,
+      "dependencies": {
+        "strip-ansi": "^7.1.0",
+        "ansi-styles": "^6.2.1",
+        "string-width": "^7.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/wrap-ansi",
+          "observedAt": "2026-11-16T10:35:35.062Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/wrap-ansi",
+          "observedAt": "2026-11-16T10:35:35.062Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/wrap-ansi",
+          "observedAt": "2026-11-16T10:35:35.062Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/wrap-ansi",
+          "observedAt": "2026-11-16T10:35:35.062Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/wrap-ansi",
+          "observedAt": "2026-11-16T10:35:35.062Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/wrap-ansi",
+          "observedAt": "2026-11-16T10:35:35.062Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

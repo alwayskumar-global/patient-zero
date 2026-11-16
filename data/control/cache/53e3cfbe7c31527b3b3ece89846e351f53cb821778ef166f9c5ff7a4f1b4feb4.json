@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "pkg": "address",
+  "source": "https://registry.npmjs.org/address",
+  "fetchedAt": "2026-11-16T10:34:55.291Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 18
+  },
+  "sourceSha256": "17b235ae4d3df231d18a4ef39406088b8198ef69ea33c52849019591e54d8225",
+  "versions": [
+    {
+      "pkg": "address",
+      "semver": "0.0.1-alpha",
+      "publishedAt": "2013-07-30T15:10:08.745Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/address",
+          "observedAt": "2026-11-16T10:34:55.291Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "address",
+      "semver": "2.0.3",
+      "publishedAt": "2024-06-19T02:31:54.114Z",
+      "publisher": "fengmk2",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 62590,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/address",
+          "observedAt": "2026-11-16T10:34:55.291Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/address",
+          "observedAt": "2026-11-16T10:34:55.291Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/address",
+          "observedAt": "2026-11-16T10:34:55.291Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/address",
+          "observedAt": "2026-11-16T10:34:55.291Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/address",
+          "observedAt": "2026-11-16T10:34:55.291Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/address",
+          "observedAt": "2026-11-16T10:34:55.291Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

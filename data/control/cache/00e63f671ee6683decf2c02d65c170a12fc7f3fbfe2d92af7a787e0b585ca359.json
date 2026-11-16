@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "pkg": "side-channel-map",
+  "source": "https://registry.npmjs.org/side-channel-map",
+  "fetchedAt": "2026-11-16T10:35:26.410Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 2
+  },
+  "sourceSha256": "ab83bc15784399ea777d08ad4f0c6138bdc39b490ffbac6d0078081a9a45a26d",
+  "versions": [
+    {
+      "pkg": "side-channel-map",
+      "semver": "1.0.1",
+      "publishedAt": "2024-12-11T04:53:18.943Z",
+      "publisher": "ljharb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 13348,
+      "dependencies": {
+        "call-bound": "^1.0.2",
+        "es-errors": "^1.3.0",
+        "get-intrinsic": "^1.2.5",
+        "object-inspect": "^1.13.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/side-channel-map",
+          "observedAt": "2026-11-16T10:35:26.410Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/side-channel-map",
+          "observedAt": "2026-11-16T10:35:26.410Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/side-channel-map",
+          "observedAt": "2026-11-16T10:35:26.410Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/side-channel-map",
+          "observedAt": "2026-11-16T10:35:26.410Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/side-channel-map",
+          "observedAt": "2026-11-16T10:35:26.410Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/side-channel-map",
+          "observedAt": "2026-11-16T10:35:26.410Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

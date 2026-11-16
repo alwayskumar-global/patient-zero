@@ -1,0 +1,498 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@art-ws/common",
+  "source": "https://registry.npmjs.org/%40art-ws%2Fcommon",
+  "fetchedAt": "2026-11-16T10:30:57.223Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 32
+  },
+  "sourceSha256": "4ad3ac0b79a3e8f7f24c2e803c021447cbcd5542d1e996fc4466c37d64df042e",
+  "versions": [
+    {
+      "pkg": "@art-ws/common",
+      "semver": "2.0.16",
+      "publishedAt": "2025-09-01T09:11:06.214Z",
+      "publisher": "art-ws",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 52098,
+      "dependencies": {
+        "rxjs": "^7.8.2",
+        "json5": "^2.2.3",
+        "tslib": "^2.8.1",
+        "lodash": "^4.17.21",
+        "js-yaml": "^4.1.0",
+        "bluebird": "^3.7.2",
+        "fs-extra": "^11.3.1",
+        "@art-ws/slf": "2.0.9",
+        "node-object-hash": "^3.1.1",
+        "reflect-metadata": "^0.2.2",
+        "@apidevtools/json-schema-ref-parser": "^14.2.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fcommon",
+          "observedAt": "2026-11-16T10:30:57.223Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fcommon",
+          "observedAt": "2026-11-16T10:30:57.223Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fcommon",
+          "observedAt": "2026-11-16T10:30:57.223Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fcommon",
+          "observedAt": "2026-11-16T10:30:57.223Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fcommon",
+          "observedAt": "2026-11-16T10:30:57.223Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fcommon",
+          "observedAt": "2026-11-16T10:30:57.223Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@art-ws/common",
+      "semver": "2.0.17",
+      "publishedAt": "2025-09-13T19:29:11.403Z",
+      "publisher": "art-ws",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 52099,
+      "dependencies": {
+        "rxjs": "^7.8.2",
+        "json5": "^2.2.3",
+        "tslib": "^2.8.1",
+        "lodash": "^4.17.21",
+        "js-yaml": "^4.1.0",
+        "bluebird": "^3.7.2",
+        "fs-extra": "^11.3.1",
+        "@art-ws/slf": "2.0.10",
+        "node-object-hash": "^3.1.1",
+        "reflect-metadata": "^0.2.2",
+        "@apidevtools/json-schema-ref-parser": "^14.2.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fcommon",
+          "observedAt": "2026-11-16T10:30:57.223Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fcommon",
+          "observedAt": "2026-11-16T10:30:57.223Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fcommon",
+          "observedAt": "2026-11-16T10:30:57.223Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fcommon",
+          "observedAt": "2026-11-16T10:30:57.223Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fcommon",
+          "observedAt": "2026-11-16T10:30:57.223Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fcommon",
+          "observedAt": "2026-11-16T10:30:57.223Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@art-ws/common",
+      "semver": "2.0.18",
+      "publishedAt": "2025-09-14T06:14:34.610Z",
+      "publisher": "art-ws",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 52099,
+      "dependencies": {
+        "rxjs": "^7.8.2",
+        "json5": "^2.2.3",
+        "tslib": "^2.8.1",
+        "lodash": "^4.17.21",
+        "js-yaml": "^4.1.0",
+        "bluebird": "^3.7.2",
+        "fs-extra": "^11.3.1",
+        "@art-ws/slf": "2.0.11",
+        "node-object-hash": "^3.1.1",
+        "reflect-metadata": "^0.2.2",
+        "@apidevtools/json-schema-ref-parser": "^14.2.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fcommon",
+          "observedAt": "2026-11-16T10:30:57.223Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fcommon",
+          "observedAt": "2026-11-16T10:30:57.223Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fcommon",
+          "observedAt": "2026-11-16T10:30:57.223Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fcommon",
+          "observedAt": "2026-11-16T10:30:57.223Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fcommon",
+          "observedAt": "2026-11-16T10:30:57.223Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fcommon",
+          "observedAt": "2026-11-16T10:30:57.223Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@art-ws/common",
+      "semver": "2.0.19",
+      "publishedAt": "2025-09-14T06:37:46.928Z",
+      "publisher": "art-ws",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 52099,
+      "dependencies": {
+        "rxjs": "^7.8.2",
+        "json5": "^2.2.3",
+        "tslib": "^2.8.1",
+        "lodash": "^4.17.21",
+        "js-yaml": "^4.1.0",
+        "bluebird": "^3.7.2",
+        "fs-extra": "^11.3.1",
+        "@art-ws/slf": "2.0.12",
+        "node-object-hash": "^3.1.1",
+        "reflect-metadata": "^0.2.2",
+        "@apidevtools/json-schema-ref-parser": "^14.2.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fcommon",
+          "observedAt": "2026-11-16T10:30:57.223Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fcommon",
+          "observedAt": "2026-11-16T10:30:57.223Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fcommon",
+          "observedAt": "2026-11-16T10:30:57.223Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fcommon",
+          "observedAt": "2026-11-16T10:30:57.223Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fcommon",
+          "observedAt": "2026-11-16T10:30:57.223Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fcommon",
+          "observedAt": "2026-11-16T10:30:57.223Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@art-ws/common",
+      "semver": "2.0.20",
+      "publishedAt": "2025-09-14T08:32:56.256Z",
+      "publisher": "art-ws",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 52099,
+      "dependencies": {
+        "rxjs": "^7.8.2",
+        "json5": "^2.2.3",
+        "tslib": "^2.8.1",
+        "lodash": "^4.17.21",
+        "js-yaml": "^4.1.0",
+        "bluebird": "^3.7.2",
+        "fs-extra": "^11.3.1",
+        "@art-ws/slf": "2.0.13",
+        "node-object-hash": "^3.1.1",
+        "reflect-metadata": "^0.2.2",
+        "@apidevtools/json-schema-ref-parser": "^14.2.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fcommon",
+          "observedAt": "2026-11-16T10:30:57.223Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fcommon",
+          "observedAt": "2026-11-16T10:30:57.223Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fcommon",
+          "observedAt": "2026-11-16T10:30:57.223Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fcommon",
+          "observedAt": "2026-11-16T10:30:57.223Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fcommon",
+          "observedAt": "2026-11-16T10:30:57.223Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fcommon",
+          "observedAt": "2026-11-16T10:30:57.223Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@art-ws/common",
+      "semver": "2.0.21",
+      "publishedAt": "2025-09-15T05:13:31.709Z",
+      "publisher": "art-ws",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 52099,
+      "dependencies": {
+        "rxjs": "^7.8.2",
+        "json5": "^2.2.3",
+        "tslib": "^2.8.1",
+        "lodash": "^4.17.21",
+        "js-yaml": "^4.1.0",
+        "bluebird": "^3.7.2",
+        "fs-extra": "^11.3.1",
+        "@art-ws/slf": "2.0.14",
+        "node-object-hash": "^3.1.1",
+        "reflect-metadata": "^0.2.2",
+        "@apidevtools/json-schema-ref-parser": "^14.2.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fcommon",
+          "observedAt": "2026-11-16T10:30:57.223Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fcommon",
+          "observedAt": "2026-11-16T10:30:57.223Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fcommon",
+          "observedAt": "2026-11-16T10:30:57.223Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fcommon",
+          "observedAt": "2026-11-16T10:30:57.223Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fcommon",
+          "observedAt": "2026-11-16T10:30:57.223Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fcommon",
+          "observedAt": "2026-11-16T10:30:57.223Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@art-ws/common",
+      "semver": "2.0.22",
+      "publishedAt": "2025-09-15T05:21:15.411Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fcommon",
+          "observedAt": "2026-11-16T10:30:57.223Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@art-ws/common",
+      "semver": "2.0.23",
+      "publishedAt": "2025-09-15T08:50:05.132Z",
+      "publisher": "art-ws",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 52099,
+      "dependencies": {
+        "rxjs": "^7.8.2",
+        "json5": "^2.2.3",
+        "tslib": "^2.8.1",
+        "lodash": "^4.17.21",
+        "js-yaml": "^4.1.0",
+        "bluebird": "^3.7.2",
+        "fs-extra": "^11.3.1",
+        "@art-ws/slf": "2.0.17",
+        "node-object-hash": "^3.1.1",
+        "reflect-metadata": "^0.2.2",
+        "@apidevtools/json-schema-ref-parser": "^14.2.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fcommon",
+          "observedAt": "2026-11-16T10:30:57.223Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fcommon",
+          "observedAt": "2026-11-16T10:30:57.223Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fcommon",
+          "observedAt": "2026-11-16T10:30:57.223Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fcommon",
+          "observedAt": "2026-11-16T10:30:57.223Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fcommon",
+          "observedAt": "2026-11-16T10:30:57.223Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fcommon",
+          "observedAt": "2026-11-16T10:30:57.223Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@art-ws/common",
+      "semver": "2.0.24",
+      "publishedAt": "2025-09-15T08:54:12.505Z",
+      "publisher": "art-ws",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 52099,
+      "dependencies": {
+        "rxjs": "^7.8.2",
+        "json5": "^2.2.3",
+        "tslib": "^2.8.1",
+        "lodash": "^4.17.21",
+        "js-yaml": "^4.1.0",
+        "bluebird": "^3.7.2",
+        "fs-extra": "^11.3.1",
+        "@art-ws/slf": "2.0.18",
+        "node-object-hash": "^3.1.1",
+        "reflect-metadata": "^0.2.2",
+        "@apidevtools/json-schema-ref-parser": "^14.2.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fcommon",
+          "observedAt": "2026-11-16T10:30:57.223Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fcommon",
+          "observedAt": "2026-11-16T10:30:57.223Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fcommon",
+          "observedAt": "2026-11-16T10:30:57.223Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fcommon",
+          "observedAt": "2026-11-16T10:30:57.223Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fcommon",
+          "observedAt": "2026-11-16T10:30:57.223Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fcommon",
+          "observedAt": "2026-11-16T10:30:57.223Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@art-ws/common",
+      "semver": "2.0.27",
+      "publishedAt": "2025-09-15T08:56:06.262Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fcommon",
+          "observedAt": "2026-11-16T10:30:57.223Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@art-ws/common",
+      "semver": "2.0.28",
+      "publishedAt": "2025-09-15T08:58:35.799Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fcommon",
+          "observedAt": "2026-11-16T10:30:57.223Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

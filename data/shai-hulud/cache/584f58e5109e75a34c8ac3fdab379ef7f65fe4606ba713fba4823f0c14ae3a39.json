@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "pkg": "ngx-trend",
+  "source": "https://registry.npmjs.org/ngx-trend",
+  "fetchedAt": "2026-11-16T10:32:25.212Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 50
+  },
+  "sourceSha256": "6acc388ed51d0f8227cccd6f604933902655a583d9c5590a21269059e8e415b5",
+  "versions": [
+    {
+      "pkg": "ngx-trend",
+      "semver": "8.0.0",
+      "publishedAt": "2022-04-05T05:21:24.948Z",
+      "publisher": "scttcper",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 146625,
+      "dependencies": {
+        "tslib": "^2.3.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ngx-trend",
+          "observedAt": "2026-11-16T10:32:25.212Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ngx-trend",
+          "observedAt": "2026-11-16T10:32:25.212Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ngx-trend",
+          "observedAt": "2026-11-16T10:32:25.212Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ngx-trend",
+          "observedAt": "2026-11-16T10:32:25.212Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/ngx-trend",
+          "observedAt": "2026-11-16T10:32:25.212Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ngx-trend",
+          "observedAt": "2026-11-16T10:32:25.212Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ngx-trend",
+      "semver": "8.0.1",
+      "publishedAt": "2025-09-15T20:13:39.658Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ngx-trend",
+          "observedAt": "2026-11-16T10:32:25.212Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

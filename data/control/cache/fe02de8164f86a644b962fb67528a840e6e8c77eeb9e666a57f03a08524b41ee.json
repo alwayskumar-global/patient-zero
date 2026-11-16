@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "workerpool",
+  "source": "https://registry.npmjs.org/workerpool",
+  "fetchedAt": "2026-11-16T10:35:35.027Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 72
+  },
+  "sourceSha256": "38d820fb48012e38c6c94e5b789c84b2e43b2e4cc447a95f3e2a42812a32a7cc",
+  "versions": [
+    {
+      "pkg": "workerpool",
+      "semver": "9.3.3",
+      "publishedAt": "2025-06-27T14:30:00.323Z",
+      "publisher": "josdejong",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 554848,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/workerpool",
+          "observedAt": "2026-11-16T10:35:35.027Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/workerpool",
+          "observedAt": "2026-11-16T10:35:35.027Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/workerpool",
+          "observedAt": "2026-11-16T10:35:35.027Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/workerpool",
+          "observedAt": "2026-11-16T10:35:35.027Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/workerpool",
+          "observedAt": "2026-11-16T10:35:35.027Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/workerpool",
+          "observedAt": "2026-11-16T10:35:35.027Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

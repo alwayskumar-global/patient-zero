@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "pkg": "unist-util-visit-parents",
+  "source": "https://registry.npmjs.org/unist-util-visit-parents",
+  "fetchedAt": "2026-11-16T10:35:31.477Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 26
+  },
+  "sourceSha256": "4e219b5264e554fc965f163ee3d5f18b671285c4a7111704cae26771d876229a",
+  "versions": [
+    {
+      "pkg": "unist-util-visit-parents",
+      "semver": "6.0.1",
+      "publishedAt": "2023-07-07T09:34:27.249Z",
+      "publisher": "wooorm",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 32885,
+      "dependencies": {
+        "@types/unist": "^3.0.0",
+        "unist-util-is": "^6.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/unist-util-visit-parents",
+          "observedAt": "2026-11-16T10:35:31.477Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/unist-util-visit-parents",
+          "observedAt": "2026-11-16T10:35:31.477Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/unist-util-visit-parents",
+          "observedAt": "2026-11-16T10:35:31.477Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/unist-util-visit-parents",
+          "observedAt": "2026-11-16T10:35:31.477Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/unist-util-visit-parents",
+          "observedAt": "2026-11-16T10:35:31.477Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/unist-util-visit-parents",
+          "observedAt": "2026-11-16T10:35:31.477Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

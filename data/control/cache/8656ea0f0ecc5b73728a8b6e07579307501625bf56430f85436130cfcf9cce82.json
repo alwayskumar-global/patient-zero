@@ -1,0 +1,194 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@npmcli/move-file",
+  "source": "https://registry.npmjs.org/%40npmcli%2Fmove-file",
+  "fetchedAt": "2026-11-16T10:34:36.355Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 8
+  },
+  "sourceSha256": "680ab881b17a61f856c7fa7f7fea001d0afde8871690aa4814989fefcd20af4c",
+  "versions": [
+    {
+      "pkg": "@npmcli/move-file",
+      "semver": "1.0.1",
+      "publishedAt": "2020-06-02T23:53:54.901Z",
+      "publisher": "isaacs",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 5035,
+      "dependencies": {
+        "mkdirp": "^1.0.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40npmcli%2Fmove-file",
+          "observedAt": "2026-11-16T10:34:36.355Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40npmcli%2Fmove-file",
+          "observedAt": "2026-11-16T10:34:36.355Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40npmcli%2Fmove-file",
+          "observedAt": "2026-11-16T10:34:36.355Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40npmcli%2Fmove-file",
+          "observedAt": "2026-11-16T10:34:36.355Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40npmcli%2Fmove-file",
+          "observedAt": "2026-11-16T10:34:36.355Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40npmcli%2Fmove-file",
+          "observedAt": "2026-11-16T10:34:36.355Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@npmcli/move-file",
+      "semver": "1.1.2",
+      "publishedAt": "2021-02-11T18:16:09.694Z",
+      "publisher": "nlf",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7895,
+      "dependencies": {
+        "mkdirp": "^1.0.4",
+        "rimraf": "^3.0.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40npmcli%2Fmove-file",
+          "observedAt": "2026-11-16T10:34:36.355Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40npmcli%2Fmove-file",
+          "observedAt": "2026-11-16T10:34:36.355Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40npmcli%2Fmove-file",
+          "observedAt": "2026-11-16T10:34:36.355Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40npmcli%2Fmove-file",
+          "observedAt": "2026-11-16T10:34:36.355Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40npmcli%2Fmove-file",
+          "observedAt": "2026-11-16T10:34:36.355Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40npmcli%2Fmove-file",
+          "observedAt": "2026-11-16T10:34:36.355Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@npmcli/move-file",
+      "semver": "2.0.1",
+      "publishedAt": "2022-08-15T19:53:18.178Z",
+      "publisher": "gar",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 8726,
+      "dependencies": {
+        "mkdirp": "^1.0.4",
+        "rimraf": "^3.0.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40npmcli%2Fmove-file",
+          "observedAt": "2026-11-16T10:34:36.355Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40npmcli%2Fmove-file",
+          "observedAt": "2026-11-16T10:34:36.355Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40npmcli%2Fmove-file",
+          "observedAt": "2026-11-16T10:34:36.355Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40npmcli%2Fmove-file",
+          "observedAt": "2026-11-16T10:34:36.355Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40npmcli%2Fmove-file",
+          "observedAt": "2026-11-16T10:34:36.355Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40npmcli%2Fmove-file",
+          "observedAt": "2026-11-16T10:34:36.355Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@npmcli/move-file",
+      "semver": "3.0.0",
+      "publishedAt": "2022-10-14T05:23:12.377Z",
+      "publisher": "lukekarrys",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 8675,
+      "dependencies": {
+        "mkdirp": "^1.0.4",
+        "rimraf": "^3.0.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40npmcli%2Fmove-file",
+          "observedAt": "2026-11-16T10:34:36.355Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40npmcli%2Fmove-file",
+          "observedAt": "2026-11-16T10:34:36.355Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40npmcli%2Fmove-file",
+          "observedAt": "2026-11-16T10:34:36.355Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40npmcli%2Fmove-file",
+          "observedAt": "2026-11-16T10:34:36.355Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40npmcli%2Fmove-file",
+          "observedAt": "2026-11-16T10:34:36.355Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40npmcli%2Fmove-file",
+          "observedAt": "2026-11-16T10:34:36.355Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

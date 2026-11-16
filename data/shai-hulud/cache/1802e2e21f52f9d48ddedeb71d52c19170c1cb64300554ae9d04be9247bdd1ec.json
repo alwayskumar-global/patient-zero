@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@nativescript-community/ui-label",
+  "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-label",
+  "fetchedAt": "2026-11-16T10:31:29.418Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 121
+  },
+  "sourceSha256": "e470dc79f3eaa814982dba9f76661bbf6a14323f2b7d4c8a9bb073b0e1d62ac0",
+  "versions": [
+    {
+      "pkg": "@nativescript-community/ui-label",
+      "semver": "1.0.55",
+      "publishedAt": "2020-11-22T22:24:29.581Z",
+      "publisher": "keerl",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 49789,
+      "dependencies": {
+        "@nativescript-community/text": "^1.3.6"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-label",
+          "observedAt": "2026-11-16T10:31:29.418Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-label",
+          "observedAt": "2026-11-16T10:31:29.418Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-label",
+          "observedAt": "2026-11-16T10:31:29.418Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-label",
+          "observedAt": "2026-11-16T10:31:29.418Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-label",
+          "observedAt": "2026-11-16T10:31:29.418Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-label",
+          "observedAt": "2026-11-16T10:31:29.418Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nativescript-community/ui-label",
+      "semver": "1.3.34",
+      "publishedAt": "2025-09-05T14:58:23.204Z",
+      "publisher": "farfromrefuge",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 163312,
+      "dependencies": {
+        "@nativescript-community/text": "^1.6.8"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-label",
+          "observedAt": "2026-11-16T10:31:29.418Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-label",
+          "observedAt": "2026-11-16T10:31:29.418Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-label",
+          "observedAt": "2026-11-16T10:31:29.418Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-label",
+          "observedAt": "2026-11-16T10:31:29.418Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-label",
+          "observedAt": "2026-11-16T10:31:29.418Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-label",
+          "observedAt": "2026-11-16T10:31:29.418Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nativescript-community/ui-label",
+      "semver": "1.3.35",
+      "publishedAt": "2025-09-15T09:16:50.259Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-label",
+          "observedAt": "2026-11-16T10:31:29.418Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nativescript-community/ui-label",
+      "semver": "1.3.36",
+      "publishedAt": "2025-09-15T10:42:04.433Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-label",
+          "observedAt": "2026-11-16T10:31:29.418Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nativescript-community/ui-label",
+      "semver": "1.3.37",
+      "publishedAt": "2025-09-15T10:46:54.182Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-label",
+          "observedAt": "2026-11-16T10:31:29.418Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

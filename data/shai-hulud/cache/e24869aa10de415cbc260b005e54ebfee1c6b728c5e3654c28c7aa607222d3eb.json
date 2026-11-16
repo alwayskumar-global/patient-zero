@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@nativescript-community/ui-document-picker",
+  "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-document-picker",
+  "fetchedAt": "2026-11-16T10:31:27.875Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 31
+  },
+  "sourceSha256": "a0d8fc2926655c8bc910ef0ee848e3f1eb63bb38939fe9b543c3879909a572cb",
+  "versions": [
+    {
+      "pkg": "@nativescript-community/ui-document-picker",
+      "semver": "1.1.26",
+      "publishedAt": "2024-10-14T12:56:56.734Z",
+      "publisher": "farfromrefuge",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 175769,
+      "dependencies": {
+        "@nativescript-community/perms": "^2.3.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-document-picker",
+          "observedAt": "2026-11-16T10:31:27.875Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-document-picker",
+          "observedAt": "2026-11-16T10:31:27.875Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-document-picker",
+          "observedAt": "2026-11-16T10:31:27.875Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-document-picker",
+          "observedAt": "2026-11-16T10:31:27.875Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-document-picker",
+          "observedAt": "2026-11-16T10:31:27.875Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-document-picker",
+          "observedAt": "2026-11-16T10:31:27.875Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nativescript-community/ui-document-picker",
+      "semver": "1.1.27",
+      "publishedAt": "2025-09-15T10:51:42.823Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-document-picker",
+          "observedAt": "2026-11-16T10:31:27.875Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nativescript-community/ui-document-picker",
+      "semver": "1.1.28",
+      "publishedAt": "2025-09-15T13:14:29.541Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-document-picker",
+          "observedAt": "2026-11-16T10:31:27.875Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nativescript-community/ui-document-picker",
+      "semver": "13.0.32",
+      "publishedAt": "2021-12-03T08:34:45.829Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-document-picker",
+          "observedAt": "2026-11-16T10:31:27.875Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

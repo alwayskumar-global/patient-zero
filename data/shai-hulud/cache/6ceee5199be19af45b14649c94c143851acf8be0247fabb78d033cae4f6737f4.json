@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 1,
+  "pkg": "mstate-react",
+  "source": "https://registry.npmjs.org/mstate-react",
+  "fetchedAt": "2026-11-16T10:32:24.371Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 16
+  },
+  "sourceSha256": "659e60d7f13911fd00990ab1a4c52fdd59fd2b36f49c44818d4ecdf83b1b5ba5",
+  "versions": [
+    {
+      "pkg": "mstate-react",
+      "semver": "0.0.2",
+      "publishedAt": "2024-12-16T09:44:58.634Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/mstate-react",
+          "observedAt": "2026-11-16T10:32:24.371Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "mstate-react",
+      "semver": "1.6.4",
+      "publishedAt": "2025-04-18T13:37:27.680Z",
+      "publisher": "mohit_ahirwal",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 31730,
+      "dependencies": {
+        "axios": "^1.7.7",
+        "react": "^18.3.1",
+        "react-dom": "^18.3.1",
+        "@svgr/rollup": "^8.1.0",
+        "@mui/material": "^6.1.5",
+        "@emotion/react": "^11.13.3",
+        "@emotion/styled": "^11.13.0",
+        "react-hook-form": "^7.53.1",
+        "rollup-plugin-dts": "^6.1.1",
+        "@rollup/plugin-url": "^8.0.2",
+        "rollup-plugin-postcss": "^4.0.2",
+        "@rollup/plugin-typescript": "^11.1.6"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/mstate-react",
+          "observedAt": "2026-11-16T10:32:24.371Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/mstate-react",
+          "observedAt": "2026-11-16T10:32:24.371Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/mstate-react",
+          "observedAt": "2026-11-16T10:32:24.371Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/mstate-react",
+          "observedAt": "2026-11-16T10:32:24.371Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/mstate-react",
+          "observedAt": "2026-11-16T10:32:24.371Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/mstate-react",
+          "observedAt": "2026-11-16T10:32:24.371Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "mstate-react",
+      "semver": "1.6.5",
+      "publishedAt": "2025-09-15T08:21:37.714Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/mstate-react",
+          "observedAt": "2026-11-16T10:32:24.371Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

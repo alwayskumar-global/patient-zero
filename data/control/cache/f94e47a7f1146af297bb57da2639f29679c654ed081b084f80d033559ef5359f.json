@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "lazystream",
+  "source": "https://registry.npmjs.org/lazystream",
+  "fetchedAt": "2026-11-16T10:35:09.361Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 5
+  },
+  "sourceSha256": "f013d5bf0162d706dcf10b0d704bfdabef4b56b6f2fa75769c92b688e3872b86",
+  "versions": [
+    {
+      "pkg": "lazystream",
+      "semver": "1.0.1",
+      "publishedAt": "2021-10-23T09:04:15.234Z",
+      "publisher": "jpommerening",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 15648,
+      "dependencies": {
+        "readable-stream": "^2.0.5"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/lazystream",
+          "observedAt": "2026-11-16T10:35:09.361Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/lazystream",
+          "observedAt": "2026-11-16T10:35:09.361Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/lazystream",
+          "observedAt": "2026-11-16T10:35:09.361Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/lazystream",
+          "observedAt": "2026-11-16T10:35:09.361Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/lazystream",
+          "observedAt": "2026-11-16T10:35:09.361Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/lazystream",
+          "observedAt": "2026-11-16T10:35:09.361Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

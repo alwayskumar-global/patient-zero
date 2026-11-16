@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@babel/plugin-transform-class-properties",
+  "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-class-properties",
+  "fetchedAt": "2026-11-16T10:34:32.323Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 44
+  },
+  "sourceSha256": "ba5f64f2b4c239acb2d4719cf2c316f1af344a20cfbf9dbf16010db85d3a98d1",
+  "versions": [
+    {
+      "pkg": "@babel/plugin-transform-class-properties",
+      "semver": "8.0.0-beta.1",
+      "publishedAt": "2025-07-02T09:04:51.761Z",
+      "publisher": "nicolo-ribaudo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 4979,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "^8.0.0-beta.1",
+        "@babel/helper-create-class-features-plugin": "^8.0.0-beta.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-class-properties",
+          "observedAt": "2026-11-16T10:34:32.323Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-class-properties",
+          "observedAt": "2026-11-16T10:34:32.323Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-class-properties",
+          "observedAt": "2026-11-16T10:34:32.323Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-class-properties",
+          "observedAt": "2026-11-16T10:34:32.323Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-class-properties",
+          "observedAt": "2026-11-16T10:34:32.323Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-class-properties",
+          "observedAt": "2026-11-16T10:34:32.323Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

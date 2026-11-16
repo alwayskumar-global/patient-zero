@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "pkg": "destroy",
+  "source": "https://registry.npmjs.org/destroy",
+  "fetchedAt": "2026-11-16T10:34:59.652Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 6
+  },
+  "sourceSha256": "67e821740812888b5fc17c17f3ed16b788069672c1b02df596271cf9b21feee7",
+  "versions": [
+    {
+      "pkg": "destroy",
+      "semver": "0.0.0",
+      "publishedAt": "2013-10-03T17:12:45.167Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/destroy",
+          "observedAt": "2026-11-16T10:34:59.652Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "destroy",
+      "semver": "1.0.3",
+      "publishedAt": "2014-08-15T06:30:06.962Z",
+      "publisher": "jongleberry",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/destroy",
+          "observedAt": "2026-11-16T10:34:59.652Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/destroy",
+          "observedAt": "2026-11-16T10:34:59.652Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/destroy",
+          "observedAt": "2026-11-16T10:34:59.652Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/destroy",
+          "observedAt": "2026-11-16T10:34:59.652Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/destroy",
+          "observedAt": "2026-11-16T10:34:59.652Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "destroy",
+      "semver": "1.2.0",
+      "publishedAt": "2022-03-20T19:03:12.452Z",
+      "publisher": "dougwilson",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 9018,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/destroy",
+          "observedAt": "2026-11-16T10:34:59.652Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/destroy",
+          "observedAt": "2026-11-16T10:34:59.652Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/destroy",
+          "observedAt": "2026-11-16T10:34:59.652Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/destroy",
+          "observedAt": "2026-11-16T10:34:59.652Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/destroy",
+          "observedAt": "2026-11-16T10:34:59.652Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/destroy",
+          "observedAt": "2026-11-16T10:34:59.652Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

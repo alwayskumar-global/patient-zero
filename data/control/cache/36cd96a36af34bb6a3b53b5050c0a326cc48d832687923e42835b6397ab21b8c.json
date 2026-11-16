@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "ast-types",
+  "source": "https://registry.npmjs.org/ast-types",
+  "fetchedAt": "2026-11-16T10:34:55.958Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 175
+  },
+  "sourceSha256": "9748317ff619e84428cd4a9202c6c9d1e88486c90d96328a8b93d66573ab466b",
+  "versions": [
+    {
+      "pkg": "ast-types",
+      "semver": "0.16.1",
+      "publishedAt": "2022-12-13T23:46:34.033Z",
+      "publisher": "benjamn",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 673481,
+      "dependencies": {
+        "tslib": "^2.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ast-types",
+          "observedAt": "2026-11-16T10:34:55.958Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ast-types",
+          "observedAt": "2026-11-16T10:34:55.958Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ast-types",
+          "observedAt": "2026-11-16T10:34:55.958Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ast-types",
+          "observedAt": "2026-11-16T10:34:55.958Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/ast-types",
+          "observedAt": "2026-11-16T10:34:55.958Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ast-types",
+          "observedAt": "2026-11-16T10:34:55.958Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

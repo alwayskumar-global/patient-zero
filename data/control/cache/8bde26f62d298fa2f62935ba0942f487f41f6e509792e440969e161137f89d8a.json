@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "pkg": "html-entities",
+  "source": "https://registry.npmjs.org/html-entities",
+  "fetchedAt": "2026-11-16T10:35:04.040Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 48
+  },
+  "sourceSha256": "ed7de050758d1f4aa70dd3fe771213646b3e9326d6317382ba8bc53f577c343b",
+  "versions": [
+    {
+      "pkg": "html-entities",
+      "semver": "1.0.10",
+      "publishedAt": "2013-02-23T16:39:35.580Z",
+      "publisher": null,
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/html-entities",
+          "observedAt": "2026-11-16T10:35:04.040Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/html-entities",
+          "observedAt": "2026-11-16T10:35:04.040Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/html-entities",
+          "observedAt": "2026-11-16T10:35:04.040Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/html-entities",
+          "observedAt": "2026-11-16T10:35:04.040Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "html-entities",
+      "semver": "2.6.0",
+      "publishedAt": "2025-03-30T15:40:10.885Z",
+      "publisher": "mdevils",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 132312,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/html-entities",
+          "observedAt": "2026-11-16T10:35:04.040Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/html-entities",
+          "observedAt": "2026-11-16T10:35:04.040Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/html-entities",
+          "observedAt": "2026-11-16T10:35:04.040Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/html-entities",
+          "observedAt": "2026-11-16T10:35:04.040Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/html-entities",
+          "observedAt": "2026-11-16T10:35:04.040Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/html-entities",
+          "observedAt": "2026-11-16T10:35:04.040Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

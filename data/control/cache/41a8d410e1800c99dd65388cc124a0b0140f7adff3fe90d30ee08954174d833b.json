@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "is-finalizationregistry",
+  "source": "https://registry.npmjs.org/is-finalizationregistry",
+  "fetchedAt": "2026-11-16T10:35:06.173Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 5
+  },
+  "sourceSha256": "4f4148c8fb5b199e01528bc1dc566ab9052e48464982c38efdb0000766893c90",
+  "versions": [
+    {
+      "pkg": "is-finalizationregistry",
+      "semver": "1.1.1",
+      "publishedAt": "2024-12-17T05:37:19.121Z",
+      "publisher": "ljharb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 17202,
+      "dependencies": {
+        "call-bound": "^1.0.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/is-finalizationregistry",
+          "observedAt": "2026-11-16T10:35:06.173Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/is-finalizationregistry",
+          "observedAt": "2026-11-16T10:35:06.173Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/is-finalizationregistry",
+          "observedAt": "2026-11-16T10:35:06.173Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/is-finalizationregistry",
+          "observedAt": "2026-11-16T10:35:06.173Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/is-finalizationregistry",
+          "observedAt": "2026-11-16T10:35:06.173Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/is-finalizationregistry",
+          "observedAt": "2026-11-16T10:35:06.173Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

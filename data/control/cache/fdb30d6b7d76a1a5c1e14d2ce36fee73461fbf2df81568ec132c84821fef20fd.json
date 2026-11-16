@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@babel/plugin-transform-logical-assignment-operators",
+  "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-logical-assignment-operators",
+  "fetchedAt": "2026-11-16T10:34:32.654Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 48
+  },
+  "sourceSha256": "c9d44b59b2f9e03b65cc5b00c4d1fdcdeaf9c83daaf4a9fc1ab3a32b05b0b4e3",
+  "versions": [
+    {
+      "pkg": "@babel/plugin-transform-logical-assignment-operators",
+      "semver": "8.0.0-beta.1",
+      "publishedAt": "2025-07-02T09:04:14.153Z",
+      "publisher": "nicolo-ribaudo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 8650,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "^8.0.0-beta.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-logical-assignment-operators",
+          "observedAt": "2026-11-16T10:34:32.654Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-logical-assignment-operators",
+          "observedAt": "2026-11-16T10:34:32.654Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-logical-assignment-operators",
+          "observedAt": "2026-11-16T10:34:32.654Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-logical-assignment-operators",
+          "observedAt": "2026-11-16T10:34:32.654Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-logical-assignment-operators",
+          "observedAt": "2026-11-16T10:34:32.654Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-logical-assignment-operators",
+          "observedAt": "2026-11-16T10:34:32.654Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

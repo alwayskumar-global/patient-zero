@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "pkg": "babel-plugin-polyfill-corejs2",
+  "source": "https://registry.npmjs.org/babel-plugin-polyfill-corejs2",
+  "fetchedAt": "2026-11-16T10:34:56.544Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 46
+  },
+  "sourceSha256": "cac323f20e0aa4c4698ad53ecb917140af33116346a7882149b74daa470c0769",
+  "versions": [
+    {
+      "pkg": "babel-plugin-polyfill-corejs2",
+      "semver": "0.4.14",
+      "publishedAt": "2025-06-27T16:37:49.804Z",
+      "publisher": "nicolo-ribaudo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 82653,
+      "dependencies": {
+        "semver": "^6.3.1",
+        "@babel/compat-data": "^7.27.7",
+        "@babel/helper-define-polyfill-provider": "^0.6.5"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/babel-plugin-polyfill-corejs2",
+          "observedAt": "2026-11-16T10:34:56.544Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/babel-plugin-polyfill-corejs2",
+          "observedAt": "2026-11-16T10:34:56.544Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/babel-plugin-polyfill-corejs2",
+          "observedAt": "2026-11-16T10:34:56.544Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/babel-plugin-polyfill-corejs2",
+          "observedAt": "2026-11-16T10:34:56.544Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/babel-plugin-polyfill-corejs2",
+          "observedAt": "2026-11-16T10:34:56.544Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/babel-plugin-polyfill-corejs2",
+          "observedAt": "2026-11-16T10:34:56.544Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

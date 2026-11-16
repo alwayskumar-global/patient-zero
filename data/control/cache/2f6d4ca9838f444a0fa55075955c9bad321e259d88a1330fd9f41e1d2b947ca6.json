@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@floating-ui/utils",
+  "source": "https://registry.npmjs.org/%40floating-ui%2Futils",
+  "fetchedAt": "2026-11-16T10:34:34.479Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 20
+  },
+  "sourceSha256": "f278742a7a770b6a82edaba983e4c871df8ff6153ace8f467cab4226357e6333",
+  "versions": [
+    {
+      "pkg": "@floating-ui/utils",
+      "semver": "0.2.10",
+      "publishedAt": "2025-06-28T04:28:07.922Z",
+      "publisher": "atomiks",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 67381,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40floating-ui%2Futils",
+          "observedAt": "2026-11-16T10:34:34.479Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40floating-ui%2Futils",
+          "observedAt": "2026-11-16T10:34:34.479Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40floating-ui%2Futils",
+          "observedAt": "2026-11-16T10:34:34.479Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40floating-ui%2Futils",
+          "observedAt": "2026-11-16T10:34:34.479Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40floating-ui%2Futils",
+          "observedAt": "2026-11-16T10:34:34.479Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40floating-ui%2Futils",
+          "observedAt": "2026-11-16T10:34:34.479Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

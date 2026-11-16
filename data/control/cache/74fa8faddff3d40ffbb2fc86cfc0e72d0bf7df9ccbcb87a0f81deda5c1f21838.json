@@ -1,0 +1,219 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@aws-sdk/credential-provider-sso",
+  "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-sso",
+  "fetchedAt": "2026-11-16T10:34:28.773Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 531
+  },
+  "sourceSha256": "aa2516bcf42fbbf38539a89ff9ee3898186381dcff37aacd3bacd908ef7d7c66",
+  "versions": [
+    {
+      "pkg": "@aws-sdk/credential-provider-sso",
+      "semver": "3.858.0",
+      "publishedAt": "2025-07-31T18:56:22.492Z",
+      "publisher": "aws-sdk-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 36488,
+      "dependencies": {
+        "tslib": "^2.6.2",
+        "@aws-sdk/core": "3.858.0",
+        "@smithy/types": "^4.3.1",
+        "@aws-sdk/types": "3.840.0",
+        "@aws-sdk/client-sso": "3.858.0",
+        "@aws-sdk/token-providers": "3.858.0",
+        "@smithy/property-provider": "^4.0.4",
+        "@smithy/shared-ini-file-loader": "^4.0.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-sso",
+          "observedAt": "2026-11-16T10:34:28.773Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-sso",
+          "observedAt": "2026-11-16T10:34:28.773Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-sso",
+          "observedAt": "2026-11-16T10:34:28.773Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-sso",
+          "observedAt": "2026-11-16T10:34:28.773Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-sso",
+          "observedAt": "2026-11-16T10:34:28.773Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-sso",
+          "observedAt": "2026-11-16T10:34:28.773Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@aws-sdk/credential-provider-sso",
+      "semver": "3.859.0",
+      "publishedAt": "2025-08-01T18:54:55.542Z",
+      "publisher": "aws-sdk-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 36488,
+      "dependencies": {
+        "tslib": "^2.6.2",
+        "@aws-sdk/core": "3.858.0",
+        "@smithy/types": "^4.3.1",
+        "@aws-sdk/types": "3.840.0",
+        "@aws-sdk/client-sso": "3.858.0",
+        "@aws-sdk/token-providers": "3.859.0",
+        "@smithy/property-provider": "^4.0.4",
+        "@smithy/shared-ini-file-loader": "^4.0.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-sso",
+          "observedAt": "2026-11-16T10:34:28.773Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-sso",
+          "observedAt": "2026-11-16T10:34:28.773Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-sso",
+          "observedAt": "2026-11-16T10:34:28.773Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-sso",
+          "observedAt": "2026-11-16T10:34:28.773Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-sso",
+          "observedAt": "2026-11-16T10:34:28.773Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-sso",
+          "observedAt": "2026-11-16T10:34:28.773Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@aws-sdk/credential-provider-sso",
+      "semver": "3.862.0",
+      "publishedAt": "2025-08-06T19:09:55.088Z",
+      "publisher": "aws-sdk-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 36488,
+      "dependencies": {
+        "tslib": "^2.6.2",
+        "@aws-sdk/core": "3.862.0",
+        "@smithy/types": "^4.3.2",
+        "@aws-sdk/types": "3.862.0",
+        "@aws-sdk/client-sso": "3.862.0",
+        "@aws-sdk/token-providers": "3.862.0",
+        "@smithy/property-provider": "^4.0.5",
+        "@smithy/shared-ini-file-loader": "^4.0.5"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-sso",
+          "observedAt": "2026-11-16T10:34:28.773Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-sso",
+          "observedAt": "2026-11-16T10:34:28.773Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-sso",
+          "observedAt": "2026-11-16T10:34:28.773Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-sso",
+          "observedAt": "2026-11-16T10:34:28.773Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-sso",
+          "observedAt": "2026-11-16T10:34:28.773Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-sso",
+          "observedAt": "2026-11-16T10:34:28.773Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@aws-sdk/credential-provider-sso",
+      "semver": "3.863.0",
+      "publishedAt": "2025-08-07T19:09:30.514Z",
+      "publisher": "aws-sdk-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 36488,
+      "dependencies": {
+        "tslib": "^2.6.2",
+        "@aws-sdk/core": "3.863.0",
+        "@smithy/types": "^4.3.2",
+        "@aws-sdk/types": "3.862.0",
+        "@aws-sdk/client-sso": "3.863.0",
+        "@aws-sdk/token-providers": "3.863.0",
+        "@smithy/property-provider": "^4.0.5",
+        "@smithy/shared-ini-file-loader": "^4.0.5"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-sso",
+          "observedAt": "2026-11-16T10:34:28.773Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-sso",
+          "observedAt": "2026-11-16T10:34:28.773Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-sso",
+          "observedAt": "2026-11-16T10:34:28.773Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-sso",
+          "observedAt": "2026-11-16T10:34:28.773Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-sso",
+          "observedAt": "2026-11-16T10:34:28.773Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-sso",
+          "observedAt": "2026-11-16T10:34:28.773Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

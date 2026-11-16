@@ -1,0 +1,208 @@
+{
+  "schemaVersion": 1,
+  "pkg": "magic-string",
+  "source": "https://registry.npmjs.org/magic-string",
+  "fetchedAt": "2026-11-16T10:35:11.913Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 140
+  },
+  "sourceSha256": "1c89fa2fffa4b7b954043b092c9c1092b7c20a97c6169f8061399a7ba081661c",
+  "versions": [
+    {
+      "pkg": "magic-string",
+      "semver": "0.17.1",
+      "publishedAt": "2016-12-01T18:10:26.267Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/magic-string",
+          "observedAt": "2026-11-16T10:35:11.913Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "magic-string",
+      "semver": "0.22.5",
+      "publishedAt": "2018-03-14T14:52:05.198Z",
+      "publisher": "alangpierce",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 347442,
+      "dependencies": {
+        "vlq": "^0.2.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/magic-string",
+          "observedAt": "2026-11-16T10:35:11.913Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/magic-string",
+          "observedAt": "2026-11-16T10:35:11.913Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/magic-string",
+          "observedAt": "2026-11-16T10:35:11.913Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/magic-string",
+          "observedAt": "2026-11-16T10:35:11.913Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/magic-string",
+          "observedAt": "2026-11-16T10:35:11.913Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/magic-string",
+          "observedAt": "2026-11-16T10:35:11.913Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "magic-string",
+      "semver": "0.25.3",
+      "publishedAt": "2019-07-01T11:29:09.533Z",
+      "publisher": "mourner",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 360367,
+      "dependencies": {
+        "sourcemap-codec": "^1.4.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/magic-string",
+          "observedAt": "2026-11-16T10:35:11.913Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/magic-string",
+          "observedAt": "2026-11-16T10:35:11.913Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/magic-string",
+          "observedAt": "2026-11-16T10:35:11.913Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/magic-string",
+          "observedAt": "2026-11-16T10:35:11.913Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/magic-string",
+          "observedAt": "2026-11-16T10:35:11.913Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/magic-string",
+          "observedAt": "2026-11-16T10:35:11.913Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "magic-string",
+      "semver": "0.29.0",
+      "publishedAt": "2023-02-11T16:04:30.947Z",
+      "publisher": "rich_harris",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 406092,
+      "dependencies": {
+        "@jridgewell/sourcemap-codec": "^1.4.13"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/magic-string",
+          "observedAt": "2026-11-16T10:35:11.913Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/magic-string",
+          "observedAt": "2026-11-16T10:35:11.913Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/magic-string",
+          "observedAt": "2026-11-16T10:35:11.913Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/magic-string",
+          "observedAt": "2026-11-16T10:35:11.913Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/magic-string",
+          "observedAt": "2026-11-16T10:35:11.913Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/magic-string",
+          "observedAt": "2026-11-16T10:35:11.913Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "magic-string",
+      "semver": "0.30.17",
+      "publishedAt": "2024-12-16T06:14:54.054Z",
+      "publisher": "antfu",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 467464,
+      "dependencies": {
+        "@jridgewell/sourcemap-codec": "^1.5.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/magic-string",
+          "observedAt": "2026-11-16T10:35:11.913Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/magic-string",
+          "observedAt": "2026-11-16T10:35:11.913Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/magic-string",
+          "observedAt": "2026-11-16T10:35:11.913Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/magic-string",
+          "observedAt": "2026-11-16T10:35:11.913Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/magic-string",
+          "observedAt": "2026-11-16T10:35:11.913Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/magic-string",
+          "observedAt": "2026-11-16T10:35:11.913Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

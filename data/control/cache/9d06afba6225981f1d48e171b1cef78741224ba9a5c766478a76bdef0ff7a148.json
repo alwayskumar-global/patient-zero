@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "pkg": "which-typed-array",
+  "source": "https://registry.npmjs.org/which-typed-array",
+  "fetchedAt": "2026-11-16T10:35:35.166Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 27
+  },
+  "sourceSha256": "198efa31a7b1f5e3d2e53a48f59181a632c804b3ab1b22ea381dc23e0d6a5f17",
+  "versions": [
+    {
+      "pkg": "which-typed-array",
+      "semver": "1.1.19",
+      "publishedAt": "2025-03-09T01:27:06.704Z",
+      "publisher": "ljharb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 43913,
+      "dependencies": {
+        "gopd": "^1.2.0",
+        "for-each": "^0.3.5",
+        "call-bind": "^1.0.8",
+        "get-proto": "^1.0.1",
+        "call-bound": "^1.0.4",
+        "has-tostringtag": "^1.0.2",
+        "available-typed-arrays": "^1.0.7"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/which-typed-array",
+          "observedAt": "2026-11-16T10:35:35.166Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/which-typed-array",
+          "observedAt": "2026-11-16T10:35:35.166Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/which-typed-array",
+          "observedAt": "2026-11-16T10:35:35.166Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/which-typed-array",
+          "observedAt": "2026-11-16T10:35:35.166Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/which-typed-array",
+          "observedAt": "2026-11-16T10:35:35.166Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/which-typed-array",
+          "observedAt": "2026-11-16T10:35:35.166Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

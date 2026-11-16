@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "pkg": "pseudomap",
+  "source": "https://registry.npmjs.org/pseudomap",
+  "fetchedAt": "2026-11-16T10:35:21.574Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 3
+  },
+  "sourceSha256": "48318a73342a99320564739eed27f2a1e4e67e882c0d9b2114adf2b682224d12",
+  "versions": [
+    {
+      "pkg": "pseudomap",
+      "semver": "1.0.2",
+      "publishedAt": "2016-01-05T03:03:55.449Z",
+      "publisher": "isaacs",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/pseudomap",
+          "observedAt": "2026-11-16T10:35:21.574Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/pseudomap",
+          "observedAt": "2026-11-16T10:35:21.574Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/pseudomap",
+          "observedAt": "2026-11-16T10:35:21.574Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/pseudomap",
+          "observedAt": "2026-11-16T10:35:21.574Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/pseudomap",
+          "observedAt": "2026-11-16T10:35:21.574Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

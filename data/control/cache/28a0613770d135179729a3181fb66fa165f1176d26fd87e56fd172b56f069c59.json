@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "pkg": "spdx-expression-parse",
+  "source": "https://registry.npmjs.org/spdx-expression-parse",
+  "fetchedAt": "2026-11-16T10:35:26.977Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 12
+  },
+  "sourceSha256": "5d435817f73d6a2afbd9fa6f4242dd4de380e9890225e8c295da5a6fc52171ce",
+  "versions": [
+    {
+      "pkg": "spdx-expression-parse",
+      "semver": "4.0.0",
+      "publishedAt": "2023-11-21T19:39:43.549Z",
+      "publisher": "kemitchell",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 12336,
+      "dependencies": {
+        "spdx-exceptions": "^2.1.0",
+        "spdx-license-ids": "^3.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/spdx-expression-parse",
+          "observedAt": "2026-11-16T10:35:26.977Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/spdx-expression-parse",
+          "observedAt": "2026-11-16T10:35:26.977Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/spdx-expression-parse",
+          "observedAt": "2026-11-16T10:35:26.977Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/spdx-expression-parse",
+          "observedAt": "2026-11-16T10:35:26.977Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/spdx-expression-parse",
+          "observedAt": "2026-11-16T10:35:26.977Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/spdx-expression-parse",
+          "observedAt": "2026-11-16T10:35:26.977Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

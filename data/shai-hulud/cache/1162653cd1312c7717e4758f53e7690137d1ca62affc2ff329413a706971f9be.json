@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "pkg": "printjs-rpk",
+  "source": "https://registry.npmjs.org/printjs-rpk",
+  "fetchedAt": "2026-11-16T10:32:26.671Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 2
+  },
+  "sourceSha256": "418e2474863e420e6271e4d2b1eb92800f2c5fa60fd3f54e45286e906550d73f",
+  "versions": [
+    {
+      "pkg": "printjs-rpk",
+      "semver": "1.6.0",
+      "publishedAt": "2023-03-24T15:03:38.896Z",
+      "publisher": "nelisbraems",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 128053,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/printjs-rpk",
+          "observedAt": "2026-11-16T10:32:26.671Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/printjs-rpk",
+          "observedAt": "2026-11-16T10:32:26.671Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/printjs-rpk",
+          "observedAt": "2026-11-16T10:32:26.671Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/printjs-rpk",
+          "observedAt": "2026-11-16T10:32:26.671Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/printjs-rpk",
+          "observedAt": "2026-11-16T10:32:26.671Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/printjs-rpk",
+          "observedAt": "2026-11-16T10:32:26.671Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "printjs-rpk",
+      "semver": "1.6.1",
+      "publishedAt": "2025-09-15T07:43:23.772Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/printjs-rpk",
+          "observedAt": "2026-11-16T10:32:26.671Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

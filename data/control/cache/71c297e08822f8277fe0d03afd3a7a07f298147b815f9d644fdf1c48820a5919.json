@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "pkg": "node-abort-controller",
+  "source": "https://registry.npmjs.org/node-abort-controller",
+  "fetchedAt": "2026-11-16T10:35:14.944Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 13
+  },
+  "sourceSha256": "2198e5c73c3833353a12548f16e064cdc6ff6c9bb70d378757de18ba65d0a56b",
+  "versions": [
+    {
+      "pkg": "node-abort-controller",
+      "semver": "3.0.1",
+      "publishedAt": "2021-10-06T00:14:30.089Z",
+      "publisher": "southpolesteve",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 14333,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/node-abort-controller",
+          "observedAt": "2026-11-16T10:35:14.944Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/node-abort-controller",
+          "observedAt": "2026-11-16T10:35:14.944Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/node-abort-controller",
+          "observedAt": "2026-11-16T10:35:14.944Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/node-abort-controller",
+          "observedAt": "2026-11-16T10:35:14.944Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/node-abort-controller",
+          "observedAt": "2026-11-16T10:35:14.944Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/node-abort-controller",
+          "observedAt": "2026-11-16T10:35:14.944Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "node-abort-controller",
+      "semver": "3.1.1",
+      "publishedAt": "2023-01-26T15:10:43.536Z",
+      "publisher": "ethan_arrowood",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 16885,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/node-abort-controller",
+          "observedAt": "2026-11-16T10:35:14.944Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/node-abort-controller",
+          "observedAt": "2026-11-16T10:35:14.944Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/node-abort-controller",
+          "observedAt": "2026-11-16T10:35:14.944Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/node-abort-controller",
+          "observedAt": "2026-11-16T10:35:14.944Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/node-abort-controller",
+          "observedAt": "2026-11-16T10:35:14.944Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/node-abort-controller",
+          "observedAt": "2026-11-16T10:35:14.944Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

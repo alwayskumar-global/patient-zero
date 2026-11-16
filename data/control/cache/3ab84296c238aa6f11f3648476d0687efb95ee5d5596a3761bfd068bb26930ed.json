@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@webassemblyjs/helper-wasm-section",
+  "source": "https://registry.npmjs.org/%40webassemblyjs%2Fhelper-wasm-section",
+  "fetchedAt": "2026-11-16T10:34:55.018Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 84
+  },
+  "sourceSha256": "926ac3e19b771c80c56ad4cbaf93b92d9acbf58679e503be2b0c5e2e7d51c44c",
+  "versions": [
+    {
+      "pkg": "@webassemblyjs/helper-wasm-section",
+      "semver": "1.14.1",
+      "publishedAt": "2024-11-06T21:53:40.371Z",
+      "publisher": "xtuc",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 19727,
+      "dependencies": {
+        "@webassemblyjs/ast": "1.14.1",
+        "@webassemblyjs/helper-buffer": "1.14.1",
+        "@webassemblyjs/helper-wasm-bytecode": "1.13.2",
+        "@webassemblyjs/wasm-gen": "1.14.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40webassemblyjs%2Fhelper-wasm-section",
+          "observedAt": "2026-11-16T10:34:55.018Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40webassemblyjs%2Fhelper-wasm-section",
+          "observedAt": "2026-11-16T10:34:55.018Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40webassemblyjs%2Fhelper-wasm-section",
+          "observedAt": "2026-11-16T10:34:55.018Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40webassemblyjs%2Fhelper-wasm-section",
+          "observedAt": "2026-11-16T10:34:55.018Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40webassemblyjs%2Fhelper-wasm-section",
+          "observedAt": "2026-11-16T10:34:55.018Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40webassemblyjs%2Fhelper-wasm-section",
+          "observedAt": "2026-11-16T10:34:55.018Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@nexe/config-manager",
+  "source": "https://registry.npmjs.org/%40nexe%2Fconfig-manager",
+  "fetchedAt": "2026-11-16T10:31:35.456Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 2
+  },
+  "sourceSha256": "592c63d7539487efbe43ad93bd355a83f2a2f8acd1b64930bd2a306855f60c95",
+  "versions": [
+    {
+      "pkg": "@nexe/config-manager",
+      "semver": "0.1.0",
+      "publishedAt": "2025-08-01T10:04:52.006Z",
+      "publisher": "aqz23678",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 132646,
+      "dependencies": {
+        "tsyringe": "^4.10.0",
+        "@nexe/logger": "^0.1.0",
+        "reflect-metadata": "^0.2.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40nexe%2Fconfig-manager",
+          "observedAt": "2026-11-16T10:31:35.456Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40nexe%2Fconfig-manager",
+          "observedAt": "2026-11-16T10:31:35.456Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40nexe%2Fconfig-manager",
+          "observedAt": "2026-11-16T10:31:35.456Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40nexe%2Fconfig-manager",
+          "observedAt": "2026-11-16T10:31:35.456Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40nexe%2Fconfig-manager",
+          "observedAt": "2026-11-16T10:31:35.456Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nexe%2Fconfig-manager",
+          "observedAt": "2026-11-16T10:31:35.456Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nexe/config-manager",
+      "semver": "0.1.1",
+      "publishedAt": "2025-09-14T20:45:55.066Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nexe%2Fconfig-manager",
+          "observedAt": "2026-11-16T10:31:35.456Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

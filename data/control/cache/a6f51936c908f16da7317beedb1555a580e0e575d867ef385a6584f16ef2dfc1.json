@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "space-separated-tokens",
+  "source": "https://registry.npmjs.org/space-separated-tokens",
+  "fetchedAt": "2026-11-16T10:35:26.945Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 10
+  },
+  "sourceSha256": "e3e66c6a6647218066345a5285a7370847e64847b81f0e7dcaf2652a2686c93f",
+  "versions": [
+    {
+      "pkg": "space-separated-tokens",
+      "semver": "2.0.2",
+      "publishedAt": "2022-11-14T08:54:14.011Z",
+      "publisher": "wooorm",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7753,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/space-separated-tokens",
+          "observedAt": "2026-11-16T10:35:26.945Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/space-separated-tokens",
+          "observedAt": "2026-11-16T10:35:26.945Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/space-separated-tokens",
+          "observedAt": "2026-11-16T10:35:26.945Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/space-separated-tokens",
+          "observedAt": "2026-11-16T10:35:26.945Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/space-separated-tokens",
+          "observedAt": "2026-11-16T10:35:26.945Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/space-separated-tokens",
+          "observedAt": "2026-11-16T10:35:26.945Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

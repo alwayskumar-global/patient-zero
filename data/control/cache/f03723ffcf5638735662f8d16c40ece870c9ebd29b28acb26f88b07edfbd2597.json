@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "pkg": "function.prototype.name",
+  "source": "https://registry.npmjs.org/function.prototype.name",
+  "fetchedAt": "2026-11-16T10:35:02.892Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 14
+  },
+  "sourceSha256": "781e5ba8aa22cf064cb0b7441e197e1fbdeee21cd703162399c62d8e6201811c",
+  "versions": [
+    {
+      "pkg": "function.prototype.name",
+      "semver": "1.1.8",
+      "publishedAt": "2024-12-20T05:47:41.222Z",
+      "publisher": "ljharb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 27062,
+      "dependencies": {
+        "hasown": "^2.0.2",
+        "call-bind": "^1.0.8",
+        "call-bound": "^1.0.3",
+        "is-callable": "^1.2.7",
+        "define-properties": "^1.2.1",
+        "functions-have-names": "^1.2.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/function.prototype.name",
+          "observedAt": "2026-11-16T10:35:02.892Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/function.prototype.name",
+          "observedAt": "2026-11-16T10:35:02.892Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/function.prototype.name",
+          "observedAt": "2026-11-16T10:35:02.892Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/function.prototype.name",
+          "observedAt": "2026-11-16T10:35:02.892Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/function.prototype.name",
+          "observedAt": "2026-11-16T10:35:02.892Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/function.prototype.name",
+          "observedAt": "2026-11-16T10:35:02.892Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "totalist",
+  "source": "https://registry.npmjs.org/totalist",
+  "fetchedAt": "2026-11-16T10:35:29.795Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 7
+  },
+  "sourceSha256": "b272b96666e1cd6e626350d38590a1a2597d09a62038c1caf6d6e649c984da6b",
+  "versions": [
+    {
+      "pkg": "totalist",
+      "semver": "3.0.1",
+      "publishedAt": "2023-04-03T18:36:39.508Z",
+      "publisher": "lukeed",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7459,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/totalist",
+          "observedAt": "2026-11-16T10:35:29.795Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/totalist",
+          "observedAt": "2026-11-16T10:35:29.795Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/totalist",
+          "observedAt": "2026-11-16T10:35:29.795Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/totalist",
+          "observedAt": "2026-11-16T10:35:29.795Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/totalist",
+          "observedAt": "2026-11-16T10:35:29.795Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/totalist",
+          "observedAt": "2026-11-16T10:35:29.795Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

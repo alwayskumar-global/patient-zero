@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@jridgewell/set-array",
+  "source": "https://registry.npmjs.org/%40jridgewell%2Fset-array",
+  "fetchedAt": "2026-11-16T10:34:36.001Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 7
+  },
+  "sourceSha256": "7f1336d35e1ed6394ed33e697dd3dedb6dd0cb977808579917a4fff59d432a4a",
+  "versions": [
+    {
+      "pkg": "@jridgewell/set-array",
+      "semver": "1.2.1",
+      "publishedAt": "2024-02-29T06:03:32.846Z",
+      "publisher": "jridgewell",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 17945,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40jridgewell%2Fset-array",
+          "observedAt": "2026-11-16T10:34:36.001Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40jridgewell%2Fset-array",
+          "observedAt": "2026-11-16T10:34:36.001Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40jridgewell%2Fset-array",
+          "observedAt": "2026-11-16T10:34:36.001Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40jridgewell%2Fset-array",
+          "observedAt": "2026-11-16T10:34:36.001Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40jridgewell%2Fset-array",
+          "observedAt": "2026-11-16T10:34:36.001Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40jridgewell%2Fset-array",
+          "observedAt": "2026-11-16T10:34:36.001Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

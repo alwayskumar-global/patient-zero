@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@teselagen/bounce-loader",
+  "source": "https://registry.npmjs.org/%40teselagen%2Fbounce-loader",
+  "fetchedAt": "2026-11-16T10:31:57.570Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 34
+  },
+  "sourceSha256": "4433ebcb15724dcc078971b1f592cf340afa92b9d6d4da5bc459022c00f902ec",
+  "versions": [
+    {
+      "pkg": "@teselagen/bounce-loader",
+      "semver": "0.3.15",
+      "publishedAt": "2025-02-24T19:43:28.593Z",
+      "publisher": "teselagen-admin",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 8507,
+      "dependencies": {
+        "react": "^18.3.1",
+        "classnames": "^2.3.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40teselagen%2Fbounce-loader",
+          "observedAt": "2026-11-16T10:31:57.570Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40teselagen%2Fbounce-loader",
+          "observedAt": "2026-11-16T10:31:57.570Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40teselagen%2Fbounce-loader",
+          "observedAt": "2026-11-16T10:31:57.570Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40teselagen%2Fbounce-loader",
+          "observedAt": "2026-11-16T10:31:57.570Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40teselagen%2Fbounce-loader",
+          "observedAt": "2026-11-16T10:31:57.570Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40teselagen%2Fbounce-loader",
+          "observedAt": "2026-11-16T10:31:57.570Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@teselagen/bounce-loader",
+      "semver": "0.3.16",
+      "publishedAt": "2025-09-14T21:01:44.297Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40teselagen%2Fbounce-loader",
+          "observedAt": "2026-11-16T10:31:57.570Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@teselagen/bounce-loader",
+      "semver": "0.3.17",
+      "publishedAt": "2025-09-16T02:33:12.756Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40teselagen%2Fbounce-loader",
+          "observedAt": "2026-11-16T10:31:57.570Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "micromark-util-symbol",
+  "source": "https://registry.npmjs.org/micromark-util-symbol",
+  "fetchedAt": "2026-11-16T10:35:13.014Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 9
+  },
+  "sourceSha256": "c36d93450a2e815e29ae2115f2c5fe91eeccbe93fd0d97d4f063c0ce56327b9c",
+  "versions": [
+    {
+      "pkg": "micromark-util-symbol",
+      "semver": "2.0.1",
+      "publishedAt": "2024-11-12T11:17:55.709Z",
+      "publisher": "wooorm",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 40530,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/micromark-util-symbol",
+          "observedAt": "2026-11-16T10:35:13.014Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/micromark-util-symbol",
+          "observedAt": "2026-11-16T10:35:13.014Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/micromark-util-symbol",
+          "observedAt": "2026-11-16T10:35:13.014Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/micromark-util-symbol",
+          "observedAt": "2026-11-16T10:35:13.014Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/micromark-util-symbol",
+          "observedAt": "2026-11-16T10:35:13.014Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/micromark-util-symbol",
+          "observedAt": "2026-11-16T10:35:13.014Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

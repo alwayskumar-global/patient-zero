@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 1,
+  "pkg": "object-assign",
+  "source": "https://registry.npmjs.org/object-assign",
+  "fetchedAt": "2026-11-16T10:35:15.748Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 19
+  },
+  "sourceSha256": "2b51caf8252e609f6b45ee05fe3c06c93d98dcce2d62d9c69aa081aa90920a7e",
+  "versions": [
+    {
+      "pkg": "object-assign",
+      "semver": "2.0.1",
+      "publishedAt": "2015-06-05T14:24:31.942Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/object-assign",
+          "observedAt": "2026-11-16T10:35:15.748Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "object-assign",
+      "semver": "4.1.0",
+      "publishedAt": "2016-05-02T18:09:55.804Z",
+      "publisher": "spicyj",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/object-assign",
+          "observedAt": "2026-11-16T10:35:15.748Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/object-assign",
+          "observedAt": "2026-11-16T10:35:15.748Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/object-assign",
+          "observedAt": "2026-11-16T10:35:15.748Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/object-assign",
+          "observedAt": "2026-11-16T10:35:15.748Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/object-assign",
+          "observedAt": "2026-11-16T10:35:15.748Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "object-assign",
+      "semver": "4.1.1",
+      "publishedAt": "2017-01-16T15:35:15.282Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/object-assign",
+          "observedAt": "2026-11-16T10:35:15.748Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/object-assign",
+          "observedAt": "2026-11-16T10:35:15.748Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/object-assign",
+          "observedAt": "2026-11-16T10:35:15.748Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/object-assign",
+          "observedAt": "2026-11-16T10:35:15.748Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/object-assign",
+          "observedAt": "2026-11-16T10:35:15.748Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

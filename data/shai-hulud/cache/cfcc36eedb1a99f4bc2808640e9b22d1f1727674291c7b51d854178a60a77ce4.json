@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@nstudio/web-angular",
+  "source": "https://registry.npmjs.org/%40nstudio%2Fweb-angular",
+  "fetchedAt": "2026-11-16T10:31:43.066Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 140
+  },
+  "sourceSha256": "6e452927811a55f6295dee0e640908e8cd930aee800c75308aaca1084b8d0211",
+  "versions": [
+    {
+      "pkg": "@nstudio/web-angular",
+      "semver": "17.0.1",
+      "publishedAt": "2023-10-23T19:28:29.850Z",
+      "publisher": "walkerrunpdx",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 37512,
+      "dependencies": {
+        "@nstudio/web": "17.0.1",
+        "@nstudio/angular": "17.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fweb-angular",
+          "observedAt": "2026-11-16T10:31:43.066Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fweb-angular",
+          "observedAt": "2026-11-16T10:31:43.066Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fweb-angular",
+          "observedAt": "2026-11-16T10:31:43.066Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fweb-angular",
+          "observedAt": "2026-11-16T10:31:43.066Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fweb-angular",
+          "observedAt": "2026-11-16T10:31:43.066Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fweb-angular",
+          "observedAt": "2026-11-16T10:31:43.066Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nstudio/web-angular",
+      "semver": "20.0.3",
+      "publishedAt": "2024-11-08T04:10:23.848Z",
+      "publisher": "nativescript-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 37347,
+      "dependencies": {
+        "@nstudio/web": "20.0.3",
+        "@nstudio/angular": "20.0.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fweb-angular",
+          "observedAt": "2026-11-16T10:31:43.066Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fweb-angular",
+          "observedAt": "2026-11-16T10:31:43.066Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fweb-angular",
+          "observedAt": "2026-11-16T10:31:43.066Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fweb-angular",
+          "observedAt": "2026-11-16T10:31:43.066Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fweb-angular",
+          "observedAt": "2026-11-16T10:31:43.066Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fweb-angular",
+          "observedAt": "2026-11-16T10:31:43.066Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nstudio/web-angular",
+      "semver": "20.0.4",
+      "publishedAt": "2025-09-15T09:16:49.771Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fweb-angular",
+          "observedAt": "2026-11-16T10:31:43.066Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

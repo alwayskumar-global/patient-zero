@@ -1,0 +1,466 @@
+{
+  "schemaVersion": 1,
+  "slug": "chalk-debug-2025-09",
+  "role": "tuning",
+  "start": "2025-09-08T13:00:00.000Z",
+  "end": "2025-09-08T16:00:00.000Z",
+  "advisoryPublishedAt": null,
+  "advisorySource": "https://www.aikido.dev/blog/npm-debug-and-chalk-packages-compromised",
+  "notes": "18-version IOC list from Aikido. Publisher qix is reconstructed from campaign-level Qix account attribution reported by Wiz, not recovered per-version _npmUser. Unknown script, dependency, size and provenance fields remain null. Surviving registry time entries supply publication timestamps during merge. OSV publication timestamps are label-specific, not the first public advisory; the incident-wide first public disclosure timestamp remains unverified. Retrospective replay cannot establish pre-advisory detection.",
+  "packages": [
+    "ansi-regex",
+    "ansi-styles",
+    "backslash",
+    "chalk",
+    "chalk-template",
+    "color-convert",
+    "color-name",
+    "color-string",
+    "debug",
+    "error-ex",
+    "has-ansi",
+    "is-arrayish",
+    "simple-swizzle",
+    "slice-ansi",
+    "strip-ansi",
+    "supports-color",
+    "supports-hyperlinks",
+    "wrap-ansi"
+  ],
+  "reconstructions": [
+    {
+      "pkg": "backslash",
+      "semver": "0.2.1",
+      "publishedAt": null,
+      "publisher": "qix",
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publisher": {
+          "source": "https://www.wiz.io/blog/widespread-npm-supply-chain-attack-breaking-down-impact-scope-across-debug-chalk",
+          "observedAt": "2026-11-16T10:06:49.950Z",
+          "kind": "report"
+        }
+      }
+    },
+    {
+      "pkg": "chalk-template",
+      "semver": "1.1.1",
+      "publishedAt": null,
+      "publisher": "qix",
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publisher": {
+          "source": "https://www.wiz.io/blog/widespread-npm-supply-chain-attack-breaking-down-impact-scope-across-debug-chalk",
+          "observedAt": "2026-11-16T10:06:49.950Z",
+          "kind": "report"
+        }
+      }
+    },
+    {
+      "pkg": "supports-hyperlinks",
+      "semver": "4.1.1",
+      "publishedAt": null,
+      "publisher": "qix",
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publisher": {
+          "source": "https://www.wiz.io/blog/widespread-npm-supply-chain-attack-breaking-down-impact-scope-across-debug-chalk",
+          "observedAt": "2026-11-16T10:06:49.950Z",
+          "kind": "report"
+        }
+      }
+    },
+    {
+      "pkg": "has-ansi",
+      "semver": "6.0.1",
+      "publishedAt": null,
+      "publisher": "qix",
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publisher": {
+          "source": "https://www.wiz.io/blog/widespread-npm-supply-chain-attack-breaking-down-impact-scope-across-debug-chalk",
+          "observedAt": "2026-11-16T10:06:49.950Z",
+          "kind": "report"
+        }
+      }
+    },
+    {
+      "pkg": "simple-swizzle",
+      "semver": "0.2.3",
+      "publishedAt": null,
+      "publisher": "qix",
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publisher": {
+          "source": "https://www.wiz.io/blog/widespread-npm-supply-chain-attack-breaking-down-impact-scope-across-debug-chalk",
+          "observedAt": "2026-11-16T10:06:49.950Z",
+          "kind": "report"
+        }
+      }
+    },
+    {
+      "pkg": "color-string",
+      "semver": "2.1.1",
+      "publishedAt": null,
+      "publisher": "qix",
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publisher": {
+          "source": "https://www.wiz.io/blog/widespread-npm-supply-chain-attack-breaking-down-impact-scope-across-debug-chalk",
+          "observedAt": "2026-11-16T10:06:49.950Z",
+          "kind": "report"
+        }
+      }
+    },
+    {
+      "pkg": "error-ex",
+      "semver": "1.3.3",
+      "publishedAt": null,
+      "publisher": "qix",
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publisher": {
+          "source": "https://www.wiz.io/blog/widespread-npm-supply-chain-attack-breaking-down-impact-scope-across-debug-chalk",
+          "observedAt": "2026-11-16T10:06:49.950Z",
+          "kind": "report"
+        }
+      }
+    },
+    {
+      "pkg": "color-name",
+      "semver": "2.0.1",
+      "publishedAt": null,
+      "publisher": "qix",
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publisher": {
+          "source": "https://www.wiz.io/blog/widespread-npm-supply-chain-attack-breaking-down-impact-scope-across-debug-chalk",
+          "observedAt": "2026-11-16T10:06:49.950Z",
+          "kind": "report"
+        }
+      }
+    },
+    {
+      "pkg": "is-arrayish",
+      "semver": "0.3.3",
+      "publishedAt": null,
+      "publisher": "qix",
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publisher": {
+          "source": "https://www.wiz.io/blog/widespread-npm-supply-chain-attack-breaking-down-impact-scope-across-debug-chalk",
+          "observedAt": "2026-11-16T10:06:49.950Z",
+          "kind": "report"
+        }
+      }
+    },
+    {
+      "pkg": "slice-ansi",
+      "semver": "7.1.1",
+      "publishedAt": null,
+      "publisher": "qix",
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publisher": {
+          "source": "https://www.wiz.io/blog/widespread-npm-supply-chain-attack-breaking-down-impact-scope-across-debug-chalk",
+          "observedAt": "2026-11-16T10:06:49.950Z",
+          "kind": "report"
+        }
+      }
+    },
+    {
+      "pkg": "color-convert",
+      "semver": "3.1.1",
+      "publishedAt": null,
+      "publisher": "qix",
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publisher": {
+          "source": "https://www.wiz.io/blog/widespread-npm-supply-chain-attack-breaking-down-impact-scope-across-debug-chalk",
+          "observedAt": "2026-11-16T10:06:49.950Z",
+          "kind": "report"
+        }
+      }
+    },
+    {
+      "pkg": "wrap-ansi",
+      "semver": "9.0.1",
+      "publishedAt": null,
+      "publisher": "qix",
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publisher": {
+          "source": "https://www.wiz.io/blog/widespread-npm-supply-chain-attack-breaking-down-impact-scope-across-debug-chalk",
+          "observedAt": "2026-11-16T10:06:49.950Z",
+          "kind": "report"
+        }
+      }
+    },
+    {
+      "pkg": "ansi-regex",
+      "semver": "6.2.1",
+      "publishedAt": null,
+      "publisher": "qix",
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publisher": {
+          "source": "https://www.wiz.io/blog/widespread-npm-supply-chain-attack-breaking-down-impact-scope-across-debug-chalk",
+          "observedAt": "2026-11-16T10:06:49.950Z",
+          "kind": "report"
+        }
+      }
+    },
+    {
+      "pkg": "supports-color",
+      "semver": "10.2.1",
+      "publishedAt": null,
+      "publisher": "qix",
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publisher": {
+          "source": "https://www.wiz.io/blog/widespread-npm-supply-chain-attack-breaking-down-impact-scope-across-debug-chalk",
+          "observedAt": "2026-11-16T10:06:49.950Z",
+          "kind": "report"
+        }
+      }
+    },
+    {
+      "pkg": "strip-ansi",
+      "semver": "7.1.1",
+      "publishedAt": null,
+      "publisher": "qix",
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publisher": {
+          "source": "https://www.wiz.io/blog/widespread-npm-supply-chain-attack-breaking-down-impact-scope-across-debug-chalk",
+          "observedAt": "2026-11-16T10:06:49.950Z",
+          "kind": "report"
+        }
+      }
+    },
+    {
+      "pkg": "chalk",
+      "semver": "5.6.1",
+      "publishedAt": null,
+      "publisher": "qix",
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publisher": {
+          "source": "https://www.wiz.io/blog/widespread-npm-supply-chain-attack-breaking-down-impact-scope-across-debug-chalk",
+          "observedAt": "2026-11-16T10:06:49.950Z",
+          "kind": "report"
+        }
+      }
+    },
+    {
+      "pkg": "debug",
+      "semver": "4.4.2",
+      "publishedAt": null,
+      "publisher": "qix",
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publisher": {
+          "source": "https://www.wiz.io/blog/widespread-npm-supply-chain-attack-breaking-down-impact-scope-across-debug-chalk",
+          "observedAt": "2026-11-16T10:06:49.950Z",
+          "kind": "report"
+        }
+      }
+    },
+    {
+      "pkg": "ansi-styles",
+      "semver": "6.2.2",
+      "publishedAt": null,
+      "publisher": "qix",
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publisher": {
+          "source": "https://www.wiz.io/blog/widespread-npm-supply-chain-attack-breaking-down-impact-scope-across-debug-chalk",
+          "observedAt": "2026-11-16T10:06:49.950Z",
+          "kind": "report"
+        }
+      }
+    }
+  ],
+  "labels": [
+    {
+      "pkg": "backslash",
+      "semver": "0.2.1",
+      "advisoryId": "MAL-2025-46968",
+      "source": "https://osv.dev/vulnerability/MAL-2025-46968",
+      "publishedAt": "2025-09-08T15:18:29Z"
+    },
+    {
+      "pkg": "chalk-template",
+      "semver": "1.1.1",
+      "advisoryId": "MAL-2025-46970",
+      "source": "https://osv.dev/vulnerability/MAL-2025-46970",
+      "publishedAt": "2025-09-08T17:24:43Z"
+    },
+    {
+      "pkg": "supports-hyperlinks",
+      "semver": "4.1.1",
+      "advisoryId": "MAL-2025-46982",
+      "source": "https://osv.dev/vulnerability/MAL-2025-46982",
+      "publishedAt": "2025-09-08T17:23:14Z"
+    },
+    {
+      "pkg": "has-ansi",
+      "semver": "6.0.1",
+      "advisoryId": "MAL-2025-46976",
+      "source": "https://osv.dev/vulnerability/MAL-2025-46976",
+      "publishedAt": "2025-09-08T17:22:03Z"
+    },
+    {
+      "pkg": "simple-swizzle",
+      "semver": "0.2.3",
+      "advisoryId": "MAL-2025-46978",
+      "source": "https://osv.dev/vulnerability/MAL-2025-46978",
+      "publishedAt": "2025-09-08T15:16:05Z"
+    },
+    {
+      "pkg": "color-string",
+      "semver": "2.1.1",
+      "advisoryId": "MAL-2025-46973",
+      "source": "https://osv.dev/vulnerability/MAL-2025-46973",
+      "publishedAt": "2025-09-08T15:19:21Z"
+    },
+    {
+      "pkg": "error-ex",
+      "semver": "1.3.3",
+      "advisoryId": "MAL-2025-46975",
+      "source": "https://osv.dev/vulnerability/MAL-2025-46975",
+      "publishedAt": "2025-09-08T15:02:53Z"
+    },
+    {
+      "pkg": "color-name",
+      "semver": "2.0.1",
+      "advisoryId": "MAL-2025-46972",
+      "source": "https://osv.dev/vulnerability/MAL-2025-46972",
+      "publishedAt": "2025-09-08T15:05:16Z"
+    },
+    {
+      "pkg": "is-arrayish",
+      "semver": "0.3.3",
+      "advisoryId": "MAL-2025-46977",
+      "source": "https://osv.dev/vulnerability/MAL-2025-46977",
+      "publishedAt": "2025-09-08T15:17:54Z"
+    },
+    {
+      "pkg": "slice-ansi",
+      "semver": "7.1.1",
+      "advisoryId": "MAL-2025-46979",
+      "source": "https://osv.dev/vulnerability/MAL-2025-46979",
+      "publishedAt": "2025-09-08T17:20:52Z"
+    },
+    {
+      "pkg": "color-convert",
+      "semver": "3.1.1",
+      "advisoryId": "MAL-2025-46971",
+      "source": "https://osv.dev/vulnerability/MAL-2025-46971",
+      "publishedAt": "2025-09-08T15:20:15Z"
+    },
+    {
+      "pkg": "wrap-ansi",
+      "semver": "9.0.1",
+      "advisoryId": "MAL-2025-46983",
+      "source": "https://osv.dev/vulnerability/MAL-2025-46983",
+      "publishedAt": "2025-09-08T17:19:41Z"
+    },
+    {
+      "pkg": "ansi-regex",
+      "semver": "6.2.1",
+      "advisoryId": "MAL-2025-46966",
+      "source": "https://osv.dev/vulnerability/MAL-2025-46966",
+      "publishedAt": "2025-09-08T17:18:30Z"
+    },
+    {
+      "pkg": "supports-color",
+      "semver": "10.2.1",
+      "advisoryId": "MAL-2025-46981",
+      "source": "https://osv.dev/vulnerability/MAL-2025-46981",
+      "publishedAt": "2025-09-08T17:16:42Z"
+    },
+    {
+      "pkg": "strip-ansi",
+      "semver": "7.1.1",
+      "advisoryId": "MAL-2025-46980",
+      "source": "https://osv.dev/vulnerability/MAL-2025-46980",
+      "publishedAt": "2025-09-08T17:14:19Z"
+    },
+    {
+      "pkg": "chalk",
+      "semver": "5.6.1",
+      "advisoryId": "MAL-2025-46969",
+      "source": "https://osv.dev/vulnerability/MAL-2025-46969",
+      "publishedAt": "2025-09-08T17:11:19Z"
+    },
+    {
+      "pkg": "debug",
+      "semver": "4.4.2",
+      "advisoryId": "MAL-2025-46974",
+      "source": "https://osv.dev/vulnerability/MAL-2025-46974",
+      "publishedAt": "2025-09-08T14:26:51Z"
+    },
+    {
+      "pkg": "ansi-styles",
+      "semver": "6.2.2",
+      "advisoryId": "MAL-2025-46967",
+      "source": "https://osv.dev/vulnerability/MAL-2025-46967",
+      "publishedAt": "2025-09-08T17:07:44Z"
+    }
+  ]
+}

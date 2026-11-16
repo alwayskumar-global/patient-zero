@@ -1,0 +1,417 @@
+{
+  "schemaVersion": 1,
+  "pkg": "jest-circus",
+  "source": "https://registry.npmjs.org/jest-circus",
+  "fetchedAt": "2026-11-16T10:35:07.516Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 276
+  },
+  "sourceSha256": "ab7f466075454a1327f0a6fcccd4f4833e7cdbcd80c8440adda4b026b23897c9",
+  "versions": [
+    {
+      "pkg": "jest-circus",
+      "semver": "21.0.0-alpha.2",
+      "publishedAt": "2017-08-21T22:06:55.554Z",
+      "publisher": "aaronabramov",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "chalk": "^2.0.1",
+        "jest-diff": "21.0.0-alpha.2",
+        "jest-matchers": "21.0.0-alpha.2",
+        "jest-snapshot": "21.0.0-alpha.2",
+        "jest-message-util": "21.0.0-alpha.2",
+        "jest-matcher-utils": "21.0.0-alpha.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-circus",
+          "observedAt": "2026-11-16T10:35:07.516Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-circus",
+          "observedAt": "2026-11-16T10:35:07.516Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-circus",
+          "observedAt": "2026-11-16T10:35:07.516Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-circus",
+          "observedAt": "2026-11-16T10:35:07.516Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-circus",
+          "observedAt": "2026-11-16T10:35:07.516Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jest-circus",
+      "semver": "24.0.0-alpha.14",
+      "publishedAt": "2019-01-24T16:29:31.548Z",
+      "publisher": "mjesun",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 127883,
+      "dependencies": {
+        "co": "^4.6.0",
+        "chalk": "^2.0.1",
+        "expect": "^23.6.0",
+        "jest-each": "^23.6.0",
+        "jest-util": "^23.4.0",
+        "stack-utils": "^1.0.1",
+        "jest-snapshot": "^24.0.0-alpha.14",
+        "pretty-format": "^23.6.0",
+        "@babel/traverse": "^7.1.0",
+        "is-generator-fn": "^2.0.0",
+        "jest-message-util": "^23.4.0",
+        "jest-matcher-utils": "^23.6.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-circus",
+          "observedAt": "2026-11-16T10:35:07.516Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-circus",
+          "observedAt": "2026-11-16T10:35:07.516Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-circus",
+          "observedAt": "2026-11-16T10:35:07.516Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-circus",
+          "observedAt": "2026-11-16T10:35:07.516Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jest-circus",
+          "observedAt": "2026-11-16T10:35:07.516Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-circus",
+          "observedAt": "2026-11-16T10:35:07.516Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jest-circus",
+      "semver": "24.6.0",
+      "publishedAt": "2019-04-01T22:27:05.310Z",
+      "publisher": "rubennorte",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 347696,
+      "dependencies": {
+        "co": "^4.6.0",
+        "chalk": "^2.0.1",
+        "expect": "^24.6.0",
+        "throat": "^4.0.0",
+        "jest-each": "^24.6.0",
+        "jest-util": "^24.6.0",
+        "@jest/types": "^24.6.0",
+        "stack-utils": "^1.0.1",
+        "jest-snapshot": "^24.6.0",
+        "pretty-format": "^24.6.0",
+        "@babel/traverse": "^7.1.0",
+        "is-generator-fn": "^2.0.0",
+        "@jest/environment": "^24.6.0",
+        "@jest/test-result": "^24.6.0",
+        "jest-message-util": "^24.6.0",
+        "jest-matcher-utils": "^24.6.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-circus",
+          "observedAt": "2026-11-16T10:35:07.516Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-circus",
+          "observedAt": "2026-11-16T10:35:07.516Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-circus",
+          "observedAt": "2026-11-16T10:35:07.516Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-circus",
+          "observedAt": "2026-11-16T10:35:07.516Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jest-circus",
+          "observedAt": "2026-11-16T10:35:07.516Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-circus",
+          "observedAt": "2026-11-16T10:35:07.516Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jest-circus",
+      "semver": "25.0.0",
+      "publishedAt": "2019-08-22T03:24:39.637Z",
+      "publisher": "scotthovestadt",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 68264,
+      "dependencies": {
+        "co": "^4.6.0",
+        "chalk": "^2.0.1",
+        "expect": "^25.0.0",
+        "throat": "^5.0.0",
+        "jest-each": "^25.0.0",
+        "jest-util": "^25.0.0",
+        "@jest/types": "^25.0.0",
+        "stack-utils": "^1.0.1",
+        "jest-snapshot": "^25.0.0",
+        "pretty-format": "^25.0.0",
+        "@babel/traverse": "^7.1.0",
+        "is-generator-fn": "^2.0.0",
+        "@jest/environment": "^25.0.0",
+        "@jest/test-result": "^25.0.0",
+        "jest-message-util": "^25.0.0",
+        "jest-matcher-utils": "^25.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-circus",
+          "observedAt": "2026-11-16T10:35:07.516Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-circus",
+          "observedAt": "2026-11-16T10:35:07.516Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-circus",
+          "observedAt": "2026-11-16T10:35:07.516Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-circus",
+          "observedAt": "2026-11-16T10:35:07.516Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jest-circus",
+          "observedAt": "2026-11-16T10:35:07.516Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-circus",
+          "observedAt": "2026-11-16T10:35:07.516Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jest-circus",
+      "semver": "25.1.0",
+      "publishedAt": "2020-01-22T01:00:24.458Z",
+      "publisher": "davidzilburg",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 70001,
+      "dependencies": {
+        "co": "^4.6.0",
+        "chalk": "^3.0.0",
+        "expect": "^25.1.0",
+        "throat": "^5.0.0",
+        "jest-each": "^25.1.0",
+        "jest-util": "^25.1.0",
+        "@jest/types": "^25.1.0",
+        "stack-utils": "^1.0.1",
+        "jest-snapshot": "^25.1.0",
+        "pretty-format": "^25.1.0",
+        "@babel/traverse": "^7.1.0",
+        "is-generator-fn": "^2.0.0",
+        "@jest/environment": "^25.1.0",
+        "@jest/test-result": "^25.1.0",
+        "jest-message-util": "^25.1.0",
+        "jest-matcher-utils": "^25.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-circus",
+          "observedAt": "2026-11-16T10:35:07.516Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-circus",
+          "observedAt": "2026-11-16T10:35:07.516Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-circus",
+          "observedAt": "2026-11-16T10:35:07.516Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-circus",
+          "observedAt": "2026-11-16T10:35:07.516Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jest-circus",
+          "observedAt": "2026-11-16T10:35:07.516Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-circus",
+          "observedAt": "2026-11-16T10:35:07.516Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jest-circus",
+      "semver": "30.0.0-alpha.7",
+      "publishedAt": "2025-01-30T08:28:49.700Z",
+      "publisher": "simenb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 140663,
+      "dependencies": {
+        "co": "^4.6.0",
+        "chalk": "^4.0.0",
+        "slash": "^3.0.0",
+        "dedent": "^1.0.0",
+        "p-limit": "^3.1.0",
+        "jest-each": "30.0.0-alpha.7",
+        "jest-util": "30.0.0-alpha.7",
+        "pure-rand": "^6.0.0",
+        "@jest/types": "30.0.0-alpha.7",
+        "@types/node": "*",
+        "stack-utils": "^2.0.3",
+        "@jest/expect": "30.0.0-alpha.7",
+        "jest-runtime": "30.0.0-alpha.7",
+        "jest-snapshot": "30.0.0-alpha.7",
+        "pretty-format": "30.0.0-alpha.7",
+        "is-generator-fn": "^2.0.0",
+        "@jest/environment": "30.0.0-alpha.7",
+        "@jest/test-result": "30.0.0-alpha.7",
+        "jest-message-util": "30.0.0-alpha.7",
+        "jest-matcher-utils": "30.0.0-alpha.7"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-circus",
+          "observedAt": "2026-11-16T10:35:07.516Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-circus",
+          "observedAt": "2026-11-16T10:35:07.516Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-circus",
+          "observedAt": "2026-11-16T10:35:07.516Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-circus",
+          "observedAt": "2026-11-16T10:35:07.516Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jest-circus",
+          "observedAt": "2026-11-16T10:35:07.516Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-circus",
+          "observedAt": "2026-11-16T10:35:07.516Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jest-circus",
+      "semver": "30.0.5",
+      "publishedAt": "2025-07-22T02:28:49.411Z",
+      "publisher": "cpojer",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 191950,
+      "dependencies": {
+        "co": "^4.6.0",
+        "chalk": "^4.1.2",
+        "slash": "^3.0.0",
+        "dedent": "^1.6.0",
+        "p-limit": "^3.1.0",
+        "jest-each": "30.0.5",
+        "jest-util": "30.0.5",
+        "pure-rand": "^7.0.0",
+        "@jest/types": "30.0.5",
+        "@types/node": "*",
+        "stack-utils": "^2.0.6",
+        "@jest/expect": "30.0.5",
+        "jest-runtime": "30.0.5",
+        "jest-snapshot": "30.0.5",
+        "pretty-format": "30.0.5",
+        "is-generator-fn": "^2.1.0",
+        "@jest/environment": "30.0.5",
+        "@jest/test-result": "30.0.5",
+        "jest-message-util": "30.0.5",
+        "jest-matcher-utils": "30.0.5"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-circus",
+          "observedAt": "2026-11-16T10:35:07.516Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-circus",
+          "observedAt": "2026-11-16T10:35:07.516Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-circus",
+          "observedAt": "2026-11-16T10:35:07.516Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-circus",
+          "observedAt": "2026-11-16T10:35:07.516Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jest-circus",
+          "observedAt": "2026-11-16T10:35:07.516Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-circus",
+          "observedAt": "2026-11-16T10:35:07.516Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

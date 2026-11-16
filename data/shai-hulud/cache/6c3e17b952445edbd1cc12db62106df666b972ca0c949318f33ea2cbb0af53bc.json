@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@ahmedhfarag/ngx-perfect-scrollbar",
+  "source": "https://registry.npmjs.org/%40ahmedhfarag%2Fngx-perfect-scrollbar",
+  "fetchedAt": "2026-11-16T10:30:56.440Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 22
+  },
+  "sourceSha256": "73708d8cfdeaaeb047f93db599a3bc8a01c1c2be65c3796c8b7b2278963e7818",
+  "versions": [
+    {
+      "pkg": "@ahmedhfarag/ngx-perfect-scrollbar",
+      "semver": "20.0.19",
+      "publishedAt": "2025-02-07T19:01:47.513Z",
+      "publisher": "ahmedhfarag",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 103506,
+      "dependencies": {
+        "tslib": "^2.3.0",
+        "perfect-scrollbar": "1.5.0",
+        "resize-observer-polyfill": "^1.5.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40ahmedhfarag%2Fngx-perfect-scrollbar",
+          "observedAt": "2026-11-16T10:30:56.440Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40ahmedhfarag%2Fngx-perfect-scrollbar",
+          "observedAt": "2026-11-16T10:30:56.440Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40ahmedhfarag%2Fngx-perfect-scrollbar",
+          "observedAt": "2026-11-16T10:30:56.440Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40ahmedhfarag%2Fngx-perfect-scrollbar",
+          "observedAt": "2026-11-16T10:30:56.440Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40ahmedhfarag%2Fngx-perfect-scrollbar",
+          "observedAt": "2026-11-16T10:30:56.440Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40ahmedhfarag%2Fngx-perfect-scrollbar",
+          "observedAt": "2026-11-16T10:30:56.440Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@ahmedhfarag/ngx-perfect-scrollbar",
+      "semver": "20.0.20",
+      "publishedAt": "2025-09-15T08:28:26.548Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40ahmedhfarag%2Fngx-perfect-scrollbar",
+          "observedAt": "2026-11-16T10:30:56.440Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

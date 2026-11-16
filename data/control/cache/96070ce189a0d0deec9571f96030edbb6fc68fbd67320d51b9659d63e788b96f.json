@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "pkg": "readdirp",
+  "source": "https://registry.npmjs.org/readdirp",
+  "fetchedAt": "2026-11-16T10:35:23.701Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 48
+  },
+  "sourceSha256": "77f7daff3fc67ed838328d7cfec48ee7a2be71be21aa979f4db28a2d47046802",
+  "versions": [
+    {
+      "pkg": "readdirp",
+      "semver": "0.1.1",
+      "publishedAt": "2012-07-18T12:08:10.372Z",
+      "publisher": null,
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "minimatch": ">=0.2.4"
+      },
+      "evidence": {
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/readdirp",
+          "observedAt": "2026-11-16T10:35:23.701Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/readdirp",
+          "observedAt": "2026-11-16T10:35:23.701Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/readdirp",
+          "observedAt": "2026-11-16T10:35:23.701Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/readdirp",
+          "observedAt": "2026-11-16T10:35:23.701Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "readdirp",
+      "semver": "2.1.0",
+      "publishedAt": "2016-06-27T18:57:01.706Z",
+      "publisher": "thlorenz",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "minimatch": "^3.0.2",
+        "graceful-fs": "^4.1.2",
+        "readable-stream": "^2.0.2",
+        "set-immediate-shim": "^1.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/readdirp",
+          "observedAt": "2026-11-16T10:35:23.701Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/readdirp",
+          "observedAt": "2026-11-16T10:35:23.701Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/readdirp",
+          "observedAt": "2026-11-16T10:35:23.701Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/readdirp",
+          "observedAt": "2026-11-16T10:35:23.701Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/readdirp",
+          "observedAt": "2026-11-16T10:35:23.701Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "readdirp",
+      "semver": "4.1.2",
+      "publishedAt": "2025-02-14T17:27:21.994Z",
+      "publisher": "paulmillr",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 36127,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/readdirp",
+          "observedAt": "2026-11-16T10:35:23.701Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/readdirp",
+          "observedAt": "2026-11-16T10:35:23.701Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/readdirp",
+          "observedAt": "2026-11-16T10:35:23.701Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/readdirp",
+          "observedAt": "2026-11-16T10:35:23.701Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/readdirp",
+          "observedAt": "2026-11-16T10:35:23.701Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/readdirp",
+          "observedAt": "2026-11-16T10:35:23.701Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

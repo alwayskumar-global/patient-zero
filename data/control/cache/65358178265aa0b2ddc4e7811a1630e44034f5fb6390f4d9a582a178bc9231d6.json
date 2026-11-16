@@ -1,0 +1,185 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@radix-ui/react-direction",
+  "source": "https://registry.npmjs.org/%40radix-ui%2Freact-direction",
+  "fetchedAt": "2026-11-16T10:34:37.509Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 136
+  },
+  "sourceSha256": "d88818eb5e7f7701d35c7989bfe0ffdcf5f7ff89994210971fc8b3f53f8473b0",
+  "versions": [
+    {
+      "pkg": "@radix-ui/react-direction",
+      "semver": "1.0.1",
+      "publishedAt": "2023-05-26T11:03:22.994Z",
+      "publisher": "benoitgrelard",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 9381,
+      "dependencies": {
+        "@babel/runtime": "^7.13.10"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-direction",
+          "observedAt": "2026-11-16T10:34:37.509Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-direction",
+          "observedAt": "2026-11-16T10:34:37.509Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-direction",
+          "observedAt": "2026-11-16T10:34:37.509Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-direction",
+          "observedAt": "2026-11-16T10:34:37.509Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-direction",
+          "observedAt": "2026-11-16T10:34:37.509Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-direction",
+          "observedAt": "2026-11-16T10:34:37.509Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@radix-ui/react-direction",
+      "semver": "1.1.0",
+      "publishedAt": "2024-06-19T19:57:54.676Z",
+      "publisher": "vladmoroz",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7853,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-direction",
+          "observedAt": "2026-11-16T10:34:37.509Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-direction",
+          "observedAt": "2026-11-16T10:34:37.509Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-direction",
+          "observedAt": "2026-11-16T10:34:37.509Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-direction",
+          "observedAt": "2026-11-16T10:34:37.509Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-direction",
+          "observedAt": "2026-11-16T10:34:37.509Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-direction",
+          "observedAt": "2026-11-16T10:34:37.509Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@radix-ui/react-direction",
+      "semver": "1.1.0-rc.7",
+      "publishedAt": "2024-06-19T19:54:24.725Z",
+      "publisher": "stephenhaney",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7886,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-direction",
+          "observedAt": "2026-11-16T10:34:37.509Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-direction",
+          "observedAt": "2026-11-16T10:34:37.509Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-direction",
+          "observedAt": "2026-11-16T10:34:37.509Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-direction",
+          "observedAt": "2026-11-16T10:34:37.509Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-direction",
+          "observedAt": "2026-11-16T10:34:37.509Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-direction",
+          "observedAt": "2026-11-16T10:34:37.509Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@radix-ui/react-direction",
+      "semver": "1.1.1",
+      "publishedAt": "2025-04-08T16:46:07.347Z",
+      "publisher": "chancestrickland",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 8567,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-direction",
+          "observedAt": "2026-11-16T10:34:37.509Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-direction",
+          "observedAt": "2026-11-16T10:34:37.509Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-direction",
+          "observedAt": "2026-11-16T10:34:37.509Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-direction",
+          "observedAt": "2026-11-16T10:34:37.509Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-direction",
+          "observedAt": "2026-11-16T10:34:37.509Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-direction",
+          "observedAt": "2026-11-16T10:34:37.509Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

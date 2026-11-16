@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "ip-regex",
+  "source": "https://registry.npmjs.org/ip-regex",
+  "fetchedAt": "2026-11-16T10:35:05.006Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 12
+  },
+  "sourceSha256": "8e90577fbe0b240b15d3bf26d9922f835e4cbb25b43e1aa82ac6af2fd0afaab3",
+  "versions": [
+    {
+      "pkg": "ip-regex",
+      "semver": "5.0.0",
+      "publishedAt": "2022-01-01T16:48:04.482Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7671,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ip-regex",
+          "observedAt": "2026-11-16T10:35:05.006Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ip-regex",
+          "observedAt": "2026-11-16T10:35:05.006Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ip-regex",
+          "observedAt": "2026-11-16T10:35:05.006Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ip-regex",
+          "observedAt": "2026-11-16T10:35:05.006Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/ip-regex",
+          "observedAt": "2026-11-16T10:35:05.006Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ip-regex",
+          "observedAt": "2026-11-16T10:35:05.006Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

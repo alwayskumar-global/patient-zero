@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "pkg": "throat",
+  "source": "https://registry.npmjs.org/throat",
+  "fetchedAt": "2026-11-16T10:35:29.051Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 14
+  },
+  "sourceSha256": "650693374242bb0ccb27b19c7ea20d3ace5fbec9f13d7f725b248bba3ec878a2",
+  "versions": [
+    {
+      "pkg": "throat",
+      "semver": "5.0.0",
+      "publishedAt": "2019-05-24T14:34:04.404Z",
+      "publisher": "forbeslindesay",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 8901,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/throat",
+          "observedAt": "2026-11-16T10:35:29.051Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/throat",
+          "observedAt": "2026-11-16T10:35:29.051Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/throat",
+          "observedAt": "2026-11-16T10:35:29.051Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/throat",
+          "observedAt": "2026-11-16T10:35:29.051Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/throat",
+          "observedAt": "2026-11-16T10:35:29.051Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/throat",
+          "observedAt": "2026-11-16T10:35:29.051Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "throat",
+      "semver": "6.0.2",
+      "publishedAt": "2023-01-03T13:31:47.643Z",
+      "publisher": "throat-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 9145,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/throat",
+          "observedAt": "2026-11-16T10:35:29.051Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/throat",
+          "observedAt": "2026-11-16T10:35:29.051Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/throat",
+          "observedAt": "2026-11-16T10:35:29.051Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/throat",
+          "observedAt": "2026-11-16T10:35:29.051Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/throat",
+          "observedAt": "2026-11-16T10:35:29.051Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/throat",
+          "observedAt": "2026-11-16T10:35:29.051Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

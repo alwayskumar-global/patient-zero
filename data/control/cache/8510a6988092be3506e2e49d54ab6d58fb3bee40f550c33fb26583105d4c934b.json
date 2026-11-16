@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "pkg": "etag",
+  "source": "https://registry.npmjs.org/etag",
+  "fetchedAt": "2026-11-16T10:35:01.633Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 14
+  },
+  "sourceSha256": "e89df8fe57181bfdfb2679c1c0688eeb87fe3c9c4128af17f8c8eb02e4545e72",
+  "versions": [
+    {
+      "pkg": "etag",
+      "semver": "1.0.0",
+      "publishedAt": "2014-05-18T11:14:58.281Z",
+      "publisher": "kesla",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/etag",
+          "observedAt": "2026-11-16T10:35:01.633Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/etag",
+          "observedAt": "2026-11-16T10:35:01.633Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/etag",
+          "observedAt": "2026-11-16T10:35:01.633Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/etag",
+          "observedAt": "2026-11-16T10:35:01.633Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/etag",
+          "observedAt": "2026-11-16T10:35:01.633Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "etag",
+      "semver": "1.8.1",
+      "publishedAt": "2017-09-13T02:43:44.422Z",
+      "publisher": "dougwilson",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/etag",
+          "observedAt": "2026-11-16T10:35:01.633Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/etag",
+          "observedAt": "2026-11-16T10:35:01.633Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/etag",
+          "observedAt": "2026-11-16T10:35:01.633Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/etag",
+          "observedAt": "2026-11-16T10:35:01.633Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/etag",
+          "observedAt": "2026-11-16T10:35:01.633Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

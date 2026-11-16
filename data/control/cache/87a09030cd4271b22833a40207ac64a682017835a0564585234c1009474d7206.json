@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "micromark-util-normalize-identifier",
+  "source": "https://registry.npmjs.org/micromark-util-normalize-identifier",
+  "fetchedAt": "2026-11-16T10:35:13.267Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 8
+  },
+  "sourceSha256": "ac5c502fef0cc500c0b6c857460fff49e43f11877d549c5d33340f26eee679c7",
+  "versions": [
+    {
+      "pkg": "micromark-util-normalize-identifier",
+      "semver": "2.0.1",
+      "publishedAt": "2024-11-12T11:17:41.347Z",
+      "publisher": "wooorm",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 12256,
+      "dependencies": {
+        "micromark-util-symbol": "^2.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/micromark-util-normalize-identifier",
+          "observedAt": "2026-11-16T10:35:13.267Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/micromark-util-normalize-identifier",
+          "observedAt": "2026-11-16T10:35:13.267Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/micromark-util-normalize-identifier",
+          "observedAt": "2026-11-16T10:35:13.267Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/micromark-util-normalize-identifier",
+          "observedAt": "2026-11-16T10:35:13.267Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/micromark-util-normalize-identifier",
+          "observedAt": "2026-11-16T10:35:13.267Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/micromark-util-normalize-identifier",
+          "observedAt": "2026-11-16T10:35:13.267Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

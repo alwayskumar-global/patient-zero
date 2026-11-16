@@ -1,0 +1,238 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@radix-ui/react-use-controllable-state",
+  "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-controllable-state",
+  "fetchedAt": "2026-11-16T10:34:37.829Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 134
+  },
+  "sourceSha256": "909a56128206343850b90d1a570cf87265fa07a492d5133c244dbbfea34ce92a",
+  "versions": [
+    {
+      "pkg": "@radix-ui/react-use-controllable-state",
+      "semver": "0.0.5",
+      "publishedAt": "2021-03-24T17:51:01.100Z",
+      "publisher": "jjenzz",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 10198,
+      "dependencies": {
+        "@babel/runtime": "^7.13.10",
+        "@radix-ui/react-use-callback-ref": "0.0.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-controllable-state",
+          "observedAt": "2026-11-16T10:34:37.829Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-controllable-state",
+          "observedAt": "2026-11-16T10:34:37.829Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-controllable-state",
+          "observedAt": "2026-11-16T10:34:37.829Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-controllable-state",
+          "observedAt": "2026-11-16T10:34:37.829Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-controllable-state",
+          "observedAt": "2026-11-16T10:34:37.829Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-controllable-state",
+          "observedAt": "2026-11-16T10:34:37.829Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@radix-ui/react-use-controllable-state",
+      "semver": "1.0.1",
+      "publishedAt": "2023-05-26T11:04:02.550Z",
+      "publisher": "benoitgrelard",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 14057,
+      "dependencies": {
+        "@babel/runtime": "^7.13.10",
+        "@radix-ui/react-use-callback-ref": "1.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-controllable-state",
+          "observedAt": "2026-11-16T10:34:37.829Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-controllable-state",
+          "observedAt": "2026-11-16T10:34:37.829Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-controllable-state",
+          "observedAt": "2026-11-16T10:34:37.829Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-controllable-state",
+          "observedAt": "2026-11-16T10:34:37.829Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-controllable-state",
+          "observedAt": "2026-11-16T10:34:37.829Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-controllable-state",
+          "observedAt": "2026-11-16T10:34:37.829Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@radix-ui/react-use-controllable-state",
+      "semver": "1.1.0",
+      "publishedAt": "2024-06-19T19:58:40.951Z",
+      "publisher": "vladmoroz",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 12280,
+      "dependencies": {
+        "@radix-ui/react-use-callback-ref": "1.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-controllable-state",
+          "observedAt": "2026-11-16T10:34:37.829Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-controllable-state",
+          "observedAt": "2026-11-16T10:34:37.829Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-controllable-state",
+          "observedAt": "2026-11-16T10:34:37.829Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-controllable-state",
+          "observedAt": "2026-11-16T10:34:37.829Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-controllable-state",
+          "observedAt": "2026-11-16T10:34:37.829Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-controllable-state",
+          "observedAt": "2026-11-16T10:34:37.829Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@radix-ui/react-use-controllable-state",
+      "semver": "1.1.0-rc.7",
+      "publishedAt": "2024-06-19T19:54:57.488Z",
+      "publisher": "stephenhaney",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 12318,
+      "dependencies": {
+        "@radix-ui/react-use-callback-ref": "1.1.0-rc.7"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-controllable-state",
+          "observedAt": "2026-11-16T10:34:37.829Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-controllable-state",
+          "observedAt": "2026-11-16T10:34:37.829Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-controllable-state",
+          "observedAt": "2026-11-16T10:34:37.829Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-controllable-state",
+          "observedAt": "2026-11-16T10:34:37.829Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-controllable-state",
+          "observedAt": "2026-11-16T10:34:37.829Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-controllable-state",
+          "observedAt": "2026-11-16T10:34:37.829Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@radix-ui/react-use-controllable-state",
+      "semver": "1.2.2",
+      "publishedAt": "2025-04-18T18:55:34.911Z",
+      "publisher": "chancestrickland",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 38029,
+      "dependencies": {
+        "@radix-ui/react-use-effect-event": "0.0.2",
+        "@radix-ui/react-use-layout-effect": "1.1.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-controllable-state",
+          "observedAt": "2026-11-16T10:34:37.829Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-controllable-state",
+          "observedAt": "2026-11-16T10:34:37.829Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-controllable-state",
+          "observedAt": "2026-11-16T10:34:37.829Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-controllable-state",
+          "observedAt": "2026-11-16T10:34:37.829Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-controllable-state",
+          "observedAt": "2026-11-16T10:34:37.829Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-controllable-state",
+          "observedAt": "2026-11-16T10:34:37.829Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

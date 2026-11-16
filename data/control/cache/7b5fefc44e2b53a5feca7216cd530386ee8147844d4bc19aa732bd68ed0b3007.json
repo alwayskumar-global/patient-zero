@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "pkg": "pngjs",
+  "source": "https://registry.npmjs.org/pngjs",
+  "fetchedAt": "2026-11-16T10:35:19.025Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 24
+  },
+  "sourceSha256": "7ae6ac4d234af33486c470377d8540a1274d7e4c97ae4cbfe3c1fd2bbdc091c1",
+  "versions": [
+    {
+      "pkg": "pngjs",
+      "semver": "0.4.0",
+      "publishedAt": "2013-06-05T21:20:19.912Z",
+      "publisher": "niegowski",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/pngjs",
+          "observedAt": "2026-11-16T10:35:19.025Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/pngjs",
+          "observedAt": "2026-11-16T10:35:19.025Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/pngjs",
+          "observedAt": "2026-11-16T10:35:19.025Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/pngjs",
+          "observedAt": "2026-11-16T10:35:19.025Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/pngjs",
+          "observedAt": "2026-11-16T10:35:19.025Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "pngjs",
+      "semver": "0.4.0-alpha",
+      "publishedAt": "2012-11-28T23:54:54.473Z",
+      "publisher": null,
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/pngjs",
+          "observedAt": "2026-11-16T10:35:19.025Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/pngjs",
+          "observedAt": "2026-11-16T10:35:19.025Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/pngjs",
+          "observedAt": "2026-11-16T10:35:19.025Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/pngjs",
+          "observedAt": "2026-11-16T10:35:19.025Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "pngjs",
+      "semver": "3.2.0",
+      "publishedAt": "2017-04-30T09:48:48.955Z",
+      "publisher": "agatronic",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/pngjs",
+          "observedAt": "2026-11-16T10:35:19.025Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/pngjs",
+          "observedAt": "2026-11-16T10:35:19.025Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/pngjs",
+          "observedAt": "2026-11-16T10:35:19.025Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/pngjs",
+          "observedAt": "2026-11-16T10:35:19.025Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/pngjs",
+          "observedAt": "2026-11-16T10:35:19.025Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "pngjs",
+      "semver": "7.0.0",
+      "publishedAt": "2023-02-20T06:59:21.772Z",
+      "publisher": "lukeapage",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 650101,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/pngjs",
+          "observedAt": "2026-11-16T10:35:19.025Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/pngjs",
+          "observedAt": "2026-11-16T10:35:19.025Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/pngjs",
+          "observedAt": "2026-11-16T10:35:19.025Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/pngjs",
+          "observedAt": "2026-11-16T10:35:19.025Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/pngjs",
+          "observedAt": "2026-11-16T10:35:19.025Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/pngjs",
+          "observedAt": "2026-11-16T10:35:19.025Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

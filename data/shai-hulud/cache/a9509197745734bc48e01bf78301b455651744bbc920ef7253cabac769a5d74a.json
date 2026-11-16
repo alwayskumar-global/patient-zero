@@ -1,0 +1,274 @@
+{
+  "schemaVersion": 1,
+  "pkg": "ngx-bootstrap",
+  "source": "https://registry.npmjs.org/ngx-bootstrap",
+  "fetchedAt": "2026-11-16T10:32:24.641Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 127
+  },
+  "sourceSha256": "51c35270c5f93c2646cbea36de496f4bea404ee6c518cdda040007a62c1a3e35",
+  "versions": [
+    {
+      "pkg": "ngx-bootstrap",
+      "semver": "0.0.1-test.0",
+      "publishedAt": "2016-07-17T08:20:50.293Z",
+      "publisher": "angular-esx",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ngx-bootstrap",
+          "observedAt": "2026-11-16T10:32:24.641Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ngx-bootstrap",
+          "observedAt": "2026-11-16T10:32:24.641Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ngx-bootstrap",
+          "observedAt": "2026-11-16T10:32:24.641Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ngx-bootstrap",
+          "observedAt": "2026-11-16T10:32:24.641Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ngx-bootstrap",
+          "observedAt": "2026-11-16T10:32:24.641Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ngx-bootstrap",
+      "semver": "1.6.4",
+      "publishedAt": "2017-04-06T06:12:08.784Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ngx-bootstrap",
+          "observedAt": "2026-11-16T10:32:24.641Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ngx-bootstrap",
+      "semver": "18.1.4",
+      "publishedAt": "2025-09-15T01:12:50.414Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ngx-bootstrap",
+          "observedAt": "2026-11-16T10:32:24.641Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ngx-bootstrap",
+      "semver": "19.0.3",
+      "publishedAt": "2025-09-15T01:12:36.348Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ngx-bootstrap",
+          "observedAt": "2026-11-16T10:32:24.641Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ngx-bootstrap",
+      "semver": "19.0.4",
+      "publishedAt": "2025-09-15T02:11:19.890Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ngx-bootstrap",
+          "observedAt": "2026-11-16T10:32:24.641Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ngx-bootstrap",
+      "semver": "20.0.2",
+      "publishedAt": "2025-09-10T08:56:36.084Z",
+      "publisher": "ngxbs",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 5270573,
+      "dependencies": {
+        "tslib": "^2.3.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ngx-bootstrap",
+          "observedAt": "2026-11-16T10:32:24.641Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ngx-bootstrap",
+          "observedAt": "2026-11-16T10:32:24.641Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ngx-bootstrap",
+          "observedAt": "2026-11-16T10:32:24.641Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ngx-bootstrap",
+          "observedAt": "2026-11-16T10:32:24.641Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/ngx-bootstrap",
+          "observedAt": "2026-11-16T10:32:24.641Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ngx-bootstrap",
+          "observedAt": "2026-11-16T10:32:24.641Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ngx-bootstrap",
+      "semver": "20.0.3",
+      "publishedAt": "2025-09-15T01:12:23.688Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ngx-bootstrap",
+          "observedAt": "2026-11-16T10:32:24.641Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ngx-bootstrap",
+      "semver": "20.0.4",
+      "publishedAt": "2025-09-15T01:16:40.418Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ngx-bootstrap",
+          "observedAt": "2026-11-16T10:32:24.641Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ngx-bootstrap",
+      "semver": "20.0.5",
+      "publishedAt": "2025-09-15T01:26:32.368Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ngx-bootstrap",
+          "observedAt": "2026-11-16T10:32:24.641Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ngx-bootstrap",
+      "semver": "20.0.6",
+      "publishedAt": "2025-09-15T02:08:25.598Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ngx-bootstrap",
+          "observedAt": "2026-11-16T10:32:24.641Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ngx-bootstrap",
+      "semver": "6.2.0",
+      "publishedAt": "2020-11-06T14:08:51.795Z",
+      "publisher": "valorkin",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 17563784,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ngx-bootstrap",
+          "observedAt": "2026-11-16T10:32:24.641Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ngx-bootstrap",
+          "observedAt": "2026-11-16T10:32:24.641Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ngx-bootstrap",
+          "observedAt": "2026-11-16T10:32:24.641Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ngx-bootstrap",
+          "observedAt": "2026-11-16T10:32:24.641Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/ngx-bootstrap",
+          "observedAt": "2026-11-16T10:32:24.641Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ngx-bootstrap",
+          "observedAt": "2026-11-16T10:32:24.641Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

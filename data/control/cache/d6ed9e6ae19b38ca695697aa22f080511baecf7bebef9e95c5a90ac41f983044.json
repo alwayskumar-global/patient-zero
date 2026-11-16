@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "detect-newline",
+  "source": "https://registry.npmjs.org/detect-newline",
+  "fetchedAt": "2026-11-16T10:34:59.671Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 13
+  },
+  "sourceSha256": "9e5b8d5d8a5aec9066312c77dde46e33dd492a65988e671bcd78308a34f10d57",
+  "versions": [
+    {
+      "pkg": "detect-newline",
+      "semver": "4.0.1",
+      "publishedAt": "2023-09-22T18:59:49.617Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 3957,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/detect-newline",
+          "observedAt": "2026-11-16T10:34:59.671Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/detect-newline",
+          "observedAt": "2026-11-16T10:34:59.671Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/detect-newline",
+          "observedAt": "2026-11-16T10:34:59.671Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/detect-newline",
+          "observedAt": "2026-11-16T10:34:59.671Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/detect-newline",
+          "observedAt": "2026-11-16T10:34:59.671Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/detect-newline",
+          "observedAt": "2026-11-16T10:34:59.671Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

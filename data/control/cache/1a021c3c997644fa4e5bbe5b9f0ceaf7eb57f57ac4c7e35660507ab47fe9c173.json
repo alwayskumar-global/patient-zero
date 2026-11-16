@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "dashdash",
+  "source": "https://registry.npmjs.org/dashdash",
+  "fetchedAt": "2026-11-16T10:34:59.110Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 29
+  },
+  "sourceSha256": "6cf1ce173484be6fd678a83aefa27dabdcb9d13358eebb77e6335d1400df9cf7",
+  "versions": [
+    {
+      "pkg": "dashdash",
+      "semver": "2.0.0",
+      "publishedAt": "2020-09-25T23:05:04.302Z",
+      "publisher": "trentm",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 83496,
+      "dependencies": {
+        "assert-plus": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/dashdash",
+          "observedAt": "2026-11-16T10:34:59.110Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/dashdash",
+          "observedAt": "2026-11-16T10:34:59.110Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/dashdash",
+          "observedAt": "2026-11-16T10:34:59.110Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/dashdash",
+          "observedAt": "2026-11-16T10:34:59.110Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/dashdash",
+          "observedAt": "2026-11-16T10:34:59.110Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/dashdash",
+          "observedAt": "2026-11-16T10:34:59.110Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

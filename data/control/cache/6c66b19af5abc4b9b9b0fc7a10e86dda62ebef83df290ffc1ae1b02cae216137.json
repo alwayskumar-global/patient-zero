@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "aws4",
+  "source": "https://registry.npmjs.org/aws4",
+  "fetchedAt": "2026-11-16T10:34:56.239Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 75
+  },
+  "sourceSha256": "422192874efecd752a7efb25c7268e98fa3884c7bf6163d668d72297818c3dfb",
+  "versions": [
+    {
+      "pkg": "aws4",
+      "semver": "0.1.13",
+      "publishedAt": "2024-08-28T10:03:38.282Z",
+      "publisher": "hichaelmart",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 26653,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/aws4",
+          "observedAt": "2026-11-16T10:34:56.239Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/aws4",
+          "observedAt": "2026-11-16T10:34:56.239Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/aws4",
+          "observedAt": "2026-11-16T10:34:56.239Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/aws4",
+          "observedAt": "2026-11-16T10:34:56.239Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/aws4",
+          "observedAt": "2026-11-16T10:34:56.239Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/aws4",
+          "observedAt": "2026-11-16T10:34:56.239Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

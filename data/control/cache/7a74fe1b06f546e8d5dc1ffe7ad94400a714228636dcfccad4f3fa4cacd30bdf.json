@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "hoist-non-react-statics",
+  "source": "https://registry.npmjs.org/hoist-non-react-statics",
+  "fetchedAt": "2026-11-16T10:35:03.939Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 33
+  },
+  "sourceSha256": "6d1c9766467886736d688af55555d997b55703654b41b30d8493cfdc4a227573",
+  "versions": [
+    {
+      "pkg": "hoist-non-react-statics",
+      "semver": "3.3.2",
+      "publishedAt": "2020-01-22T23:21:02.975Z",
+      "publisher": "mridgway",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 38855,
+      "dependencies": {
+        "react-is": "^16.7.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/hoist-non-react-statics",
+          "observedAt": "2026-11-16T10:35:03.939Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/hoist-non-react-statics",
+          "observedAt": "2026-11-16T10:35:03.939Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/hoist-non-react-statics",
+          "observedAt": "2026-11-16T10:35:03.939Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/hoist-non-react-statics",
+          "observedAt": "2026-11-16T10:35:03.939Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/hoist-non-react-statics",
+          "observedAt": "2026-11-16T10:35:03.939Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/hoist-non-react-statics",
+          "observedAt": "2026-11-16T10:35:03.939Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

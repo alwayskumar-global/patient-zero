@@ -1,0 +1,568 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@operato/graphql",
+  "source": "https://registry.npmjs.org/%40operato%2Fgraphql",
+  "fetchedAt": "2026-11-16T10:31:48.476Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 278
+  },
+  "sourceSha256": "ea6dda676153819ea4eaa27a5de2fc5471ec30b94e1295e08646d47a5afd623c",
+  "versions": [
+    {
+      "pkg": "@operato/graphql",
+      "semver": "1.3.13",
+      "publishedAt": "2023-06-27T07:15:02.038Z",
+      "publisher": "woo_ram",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 153387,
+      "dependencies": {
+        "lit": "^2.5.0",
+        "graphql-tag": "^2.12.6",
+        "@apollo/client": "^3.6.9",
+        "apollo-upload-client": "^17.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40operato%2Fgraphql",
+          "observedAt": "2026-11-16T10:31:48.476Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40operato%2Fgraphql",
+          "observedAt": "2026-11-16T10:31:48.476Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40operato%2Fgraphql",
+          "observedAt": "2026-11-16T10:31:48.476Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40operato%2Fgraphql",
+          "observedAt": "2026-11-16T10:31:48.476Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40operato%2Fgraphql",
+          "observedAt": "2026-11-16T10:31:48.476Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fgraphql",
+          "observedAt": "2026-11-16T10:31:48.476Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/graphql",
+      "semver": "8.2.11",
+      "publishedAt": "2025-07-11T13:44:46.963Z",
+      "publisher": "nalshya113",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 182245,
+      "dependencies": {
+        "lit": "^3.1.2",
+        "haunted": "^5.0.0",
+        "graphql-ws": "^5.14.0",
+        "graphql-tag": "^2.12.6",
+        "@apollo/client": "^3.6.9",
+        "@operato/utils": "^8.2.5",
+        "apollo-upload-client": "^18.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40operato%2Fgraphql",
+          "observedAt": "2026-11-16T10:31:48.476Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40operato%2Fgraphql",
+          "observedAt": "2026-11-16T10:31:48.476Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40operato%2Fgraphql",
+          "observedAt": "2026-11-16T10:31:48.476Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40operato%2Fgraphql",
+          "observedAt": "2026-11-16T10:31:48.476Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40operato%2Fgraphql",
+          "observedAt": "2026-11-16T10:31:48.476Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fgraphql",
+          "observedAt": "2026-11-16T10:31:48.476Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/graphql",
+      "semver": "9.0.21",
+      "publishedAt": "2025-08-04T04:23:50.850Z",
+      "publisher": "heartyoh",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 185811,
+      "dependencies": {
+        "lit": "^3.1.2",
+        "haunted": "^5.0.0",
+        "graphql-ws": "^5.14.0",
+        "graphql-tag": "^2.12.6",
+        "@apollo/client": "^3.6.9",
+        "@operato/utils": "^9.0.21",
+        "apollo-upload-client": "^18.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40operato%2Fgraphql",
+          "observedAt": "2026-11-16T10:31:48.476Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40operato%2Fgraphql",
+          "observedAt": "2026-11-16T10:31:48.476Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40operato%2Fgraphql",
+          "observedAt": "2026-11-16T10:31:48.476Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40operato%2Fgraphql",
+          "observedAt": "2026-11-16T10:31:48.476Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40operato%2Fgraphql",
+          "observedAt": "2026-11-16T10:31:48.476Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fgraphql",
+          "observedAt": "2026-11-16T10:31:48.476Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/graphql",
+      "semver": "9.0.22",
+      "publishedAt": "2025-09-15T22:36:23.348Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fgraphql",
+          "observedAt": "2026-11-16T10:31:48.476Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/graphql",
+      "semver": "9.0.34",
+      "publishedAt": "2025-09-15T23:38:02.159Z",
+      "publisher": "heartyoh",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 189118,
+      "dependencies": {
+        "lit": "^3.1.2",
+        "haunted": "^5.0.0",
+        "graphql-ws": "^5.14.0",
+        "graphql-tag": "^2.12.6",
+        "@apollo/client": "^3.6.9",
+        "@operato/utils": "^9.0.34",
+        "apollo-upload-client": "^18.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40operato%2Fgraphql",
+          "observedAt": "2026-11-16T10:31:48.476Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40operato%2Fgraphql",
+          "observedAt": "2026-11-16T10:31:48.476Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40operato%2Fgraphql",
+          "observedAt": "2026-11-16T10:31:48.476Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40operato%2Fgraphql",
+          "observedAt": "2026-11-16T10:31:48.476Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40operato%2Fgraphql",
+          "observedAt": "2026-11-16T10:31:48.476Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fgraphql",
+          "observedAt": "2026-11-16T10:31:48.476Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/graphql",
+      "semver": "9.0.35",
+      "publishedAt": "2025-09-15T23:43:51.514Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fgraphql",
+          "observedAt": "2026-11-16T10:31:48.476Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/graphql",
+      "semver": "9.0.36",
+      "publishedAt": "2025-09-16T01:25:30.071Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fgraphql",
+          "observedAt": "2026-11-16T10:31:48.476Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/graphql",
+      "semver": "9.0.37",
+      "publishedAt": "2025-09-16T01:30:38.685Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fgraphql",
+          "observedAt": "2026-11-16T10:31:48.476Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/graphql",
+      "semver": "9.0.38",
+      "publishedAt": "2025-09-16T03:18:00.716Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fgraphql",
+          "observedAt": "2026-11-16T10:31:48.476Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/graphql",
+      "semver": "9.0.39",
+      "publishedAt": "2025-09-16T03:25:18.323Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fgraphql",
+          "observedAt": "2026-11-16T10:31:48.476Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/graphql",
+      "semver": "9.0.40",
+      "publishedAt": "2025-09-16T05:32:18.846Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fgraphql",
+          "observedAt": "2026-11-16T10:31:48.476Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/graphql",
+      "semver": "9.0.41",
+      "publishedAt": "2025-09-16T06:17:54.495Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fgraphql",
+          "observedAt": "2026-11-16T10:31:48.476Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/graphql",
+      "semver": "9.0.42",
+      "publishedAt": "2025-09-16T06:24:56.260Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fgraphql",
+          "observedAt": "2026-11-16T10:31:48.476Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/graphql",
+      "semver": "9.0.43",
+      "publishedAt": "2025-09-16T06:32:52.540Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fgraphql",
+          "observedAt": "2026-11-16T10:31:48.476Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/graphql",
+      "semver": "9.0.44",
+      "publishedAt": "2025-09-16T06:38:47.399Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fgraphql",
+          "observedAt": "2026-11-16T10:31:48.476Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/graphql",
+      "semver": "9.0.45",
+      "publishedAt": "2025-09-16T07:05:59.328Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fgraphql",
+          "observedAt": "2026-11-16T10:31:48.476Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/graphql",
+      "semver": "9.0.46",
+      "publishedAt": "2025-09-16T07:11:20.291Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fgraphql",
+          "observedAt": "2026-11-16T10:31:48.476Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/graphql",
+      "semver": "9.0.47",
+      "publishedAt": "2025-09-16T10:56:54.529Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fgraphql",
+          "observedAt": "2026-11-16T10:31:48.476Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/graphql",
+      "semver": "9.0.48",
+      "publishedAt": "2025-09-16T11:02:31.874Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fgraphql",
+          "observedAt": "2026-11-16T10:31:48.476Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/graphql",
+      "semver": "9.0.49",
+      "publishedAt": "2025-09-16T11:09:08.767Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fgraphql",
+          "observedAt": "2026-11-16T10:31:48.476Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/graphql",
+      "semver": "9.0.50",
+      "publishedAt": "2025-09-16T11:38:59.825Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fgraphql",
+          "observedAt": "2026-11-16T10:31:48.476Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/graphql",
+      "semver": "9.0.51",
+      "publishedAt": "2025-09-16T11:43:36.822Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fgraphql",
+          "observedAt": "2026-11-16T10:31:48.476Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/graphql",
+      "semver": "9.1.0",
+      "publishedAt": "2025-09-16T12:02:34.610Z",
+      "publisher": "heartyoh",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 189265,
+      "dependencies": {
+        "lit": "^3.1.2",
+        "haunted": "^5.0.0",
+        "graphql-ws": "^5.14.0",
+        "graphql-tag": "^2.12.6",
+        "@apollo/client": "^3.6.9",
+        "@operato/utils": "^9.1.0",
+        "apollo-upload-client": "^18.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40operato%2Fgraphql",
+          "observedAt": "2026-11-16T10:31:48.476Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40operato%2Fgraphql",
+          "observedAt": "2026-11-16T10:31:48.476Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40operato%2Fgraphql",
+          "observedAt": "2026-11-16T10:31:48.476Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40operato%2Fgraphql",
+          "observedAt": "2026-11-16T10:31:48.476Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40operato%2Fgraphql",
+          "observedAt": "2026-11-16T10:31:48.476Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fgraphql",
+          "observedAt": "2026-11-16T10:31:48.476Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

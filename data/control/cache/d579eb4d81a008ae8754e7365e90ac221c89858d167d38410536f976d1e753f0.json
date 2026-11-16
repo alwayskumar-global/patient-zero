@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 1,
+  "pkg": "object.fromentries",
+  "source": "https://registry.npmjs.org/object.fromentries",
+  "fetchedAt": "2026-11-16T10:35:15.916Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 11
+  },
+  "sourceSha256": "d6f78e4d12ac05d25e3e1def196497aba0b188cc120380381efa00a347efbe8a",
+  "versions": [
+    {
+      "pkg": "object.fromentries",
+      "semver": "0.0.1-security",
+      "publishedAt": "2018-04-04T00:42:55.477Z",
+      "publisher": "elizposadas",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 478,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/object.fromentries",
+          "observedAt": "2026-11-16T10:35:15.916Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/object.fromentries",
+          "observedAt": "2026-11-16T10:35:15.916Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/object.fromentries",
+          "observedAt": "2026-11-16T10:35:15.916Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/object.fromentries",
+          "observedAt": "2026-11-16T10:35:15.916Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/object.fromentries",
+          "observedAt": "2026-11-16T10:35:15.916Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/object.fromentries",
+          "observedAt": "2026-11-16T10:35:15.916Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "object.fromentries",
+      "semver": "2.0.8",
+      "publishedAt": "2024-03-18T23:25:37.427Z",
+      "publisher": "ljharb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 16324,
+      "dependencies": {
+        "call-bind": "^1.0.7",
+        "define-properties": "^1.2.1",
+        "es-abstract": "^1.23.2",
+        "es-object-atoms": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/object.fromentries",
+          "observedAt": "2026-11-16T10:35:15.916Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/object.fromentries",
+          "observedAt": "2026-11-16T10:35:15.916Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/object.fromentries",
+          "observedAt": "2026-11-16T10:35:15.916Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/object.fromentries",
+          "observedAt": "2026-11-16T10:35:15.916Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/object.fromentries",
+          "observedAt": "2026-11-16T10:35:15.916Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/object.fromentries",
+          "observedAt": "2026-11-16T10:35:15.916Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

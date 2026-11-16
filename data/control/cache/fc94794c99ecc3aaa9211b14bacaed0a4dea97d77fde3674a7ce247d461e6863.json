@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@tsconfig/node10",
+  "source": "https://registry.npmjs.org/%40tsconfig%2Fnode10",
+  "fetchedAt": "2026-11-16T10:34:43.558Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 15
+  },
+  "sourceSha256": "615ca6de434c5013feccf52bda1a368138db998c403dc98f84e710f3cf67087c",
+  "versions": [
+    {
+      "pkg": "@tsconfig/node10",
+      "semver": "1.0.1",
+      "publishedAt": "2020-05-13T19:55:30.858Z",
+      "publisher": "orta",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 1639,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40tsconfig%2Fnode10",
+          "observedAt": "2026-11-16T10:34:43.558Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40tsconfig%2Fnode10",
+          "observedAt": "2026-11-16T10:34:43.558Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40tsconfig%2Fnode10",
+          "observedAt": "2026-11-16T10:34:43.558Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40tsconfig%2Fnode10",
+          "observedAt": "2026-11-16T10:34:43.558Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40tsconfig%2Fnode10",
+          "observedAt": "2026-11-16T10:34:43.558Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40tsconfig%2Fnode10",
+          "observedAt": "2026-11-16T10:34:43.558Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@tsconfig/node10",
+      "semver": "1.0.11",
+      "publishedAt": "2024-03-27T04:13:31.616Z",
+      "publisher": "typescript-deploys",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 2312,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40tsconfig%2Fnode10",
+          "observedAt": "2026-11-16T10:34:43.558Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40tsconfig%2Fnode10",
+          "observedAt": "2026-11-16T10:34:43.558Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40tsconfig%2Fnode10",
+          "observedAt": "2026-11-16T10:34:43.558Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40tsconfig%2Fnode10",
+          "observedAt": "2026-11-16T10:34:43.558Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40tsconfig%2Fnode10",
+          "observedAt": "2026-11-16T10:34:43.558Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40tsconfig%2Fnode10",
+          "observedAt": "2026-11-16T10:34:43.558Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

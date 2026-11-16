@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "pkg": "exit",
+  "source": "https://registry.npmjs.org/exit",
+  "fetchedAt": "2026-11-16T10:35:01.726Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 3
+  },
+  "sourceSha256": "ebe4c60c9ec7e55d9eb095f8eb572b58bbed99a1b77a7df2990715619b607038",
+  "versions": [
+    {
+      "pkg": "exit",
+      "semver": "0.1.2",
+      "publishedAt": "2013-11-26T19:24:48.883Z",
+      "publisher": "cowboy",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/exit",
+          "observedAt": "2026-11-16T10:35:01.726Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/exit",
+          "observedAt": "2026-11-16T10:35:01.726Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/exit",
+          "observedAt": "2026-11-16T10:35:01.726Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/exit",
+          "observedAt": "2026-11-16T10:35:01.726Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/exit",
+          "observedAt": "2026-11-16T10:35:01.726Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@xmldom/xmldom",
+  "source": "https://registry.npmjs.org/%40xmldom%2Fxmldom",
+  "fetchedAt": "2026-11-16T10:34:55.151Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 54
+  },
+  "sourceSha256": "23051b6b2e0b6c953257017066e123d8b64c8d0f2dc9434f350d7639c5df9c84",
+  "versions": [
+    {
+      "pkg": "@xmldom/xmldom",
+      "semver": "0.9.8",
+      "publishedAt": "2025-02-28T15:54:10.744Z",
+      "publisher": "karfau",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 367596,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40xmldom%2Fxmldom",
+          "observedAt": "2026-11-16T10:34:55.151Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40xmldom%2Fxmldom",
+          "observedAt": "2026-11-16T10:34:55.151Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40xmldom%2Fxmldom",
+          "observedAt": "2026-11-16T10:34:55.151Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40xmldom%2Fxmldom",
+          "observedAt": "2026-11-16T10:34:55.151Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40xmldom%2Fxmldom",
+          "observedAt": "2026-11-16T10:34:55.151Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40xmldom%2Fxmldom",
+          "observedAt": "2026-11-16T10:34:55.151Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

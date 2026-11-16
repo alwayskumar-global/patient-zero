@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@smithy/signature-v4",
+  "source": "https://registry.npmjs.org/%40smithy%2Fsignature-v4",
+  "fetchedAt": "2026-11-16T10:34:41.028Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 104
+  },
+  "sourceSha256": "d1cae05745499935ceac74a23aa2a9810ee78516dbbc75f5e26a71850809ff7a",
+  "versions": [
+    {
+      "pkg": "@smithy/signature-v4",
+      "semver": "5.1.2",
+      "publishedAt": "2025-05-29T20:38:54.990Z",
+      "publisher": "smithy-team",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 103336,
+      "dependencies": {
+        "tslib": "^2.6.2",
+        "@smithy/types": "^4.3.1",
+        "@smithy/util-utf8": "^4.0.0",
+        "@smithy/protocol-http": "^5.1.2",
+        "@smithy/is-array-buffer": "^4.0.0",
+        "@smithy/util-middleware": "^4.0.4",
+        "@smithy/util-uri-escape": "^4.0.0",
+        "@smithy/util-hex-encoding": "^4.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40smithy%2Fsignature-v4",
+          "observedAt": "2026-11-16T10:34:41.028Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40smithy%2Fsignature-v4",
+          "observedAt": "2026-11-16T10:34:41.028Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40smithy%2Fsignature-v4",
+          "observedAt": "2026-11-16T10:34:41.028Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40smithy%2Fsignature-v4",
+          "observedAt": "2026-11-16T10:34:41.028Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40smithy%2Fsignature-v4",
+          "observedAt": "2026-11-16T10:34:41.028Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40smithy%2Fsignature-v4",
+          "observedAt": "2026-11-16T10:34:41.028Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@smithy/signature-v4",
+      "semver": "5.1.3",
+      "publishedAt": "2025-08-06T16:59:36.358Z",
+      "publisher": "smithy-team",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 103336,
+      "dependencies": {
+        "tslib": "^2.6.2",
+        "@smithy/types": "^4.3.2",
+        "@smithy/util-utf8": "^4.0.0",
+        "@smithy/protocol-http": "^5.1.3",
+        "@smithy/is-array-buffer": "^4.0.0",
+        "@smithy/util-middleware": "^4.0.5",
+        "@smithy/util-uri-escape": "^4.0.0",
+        "@smithy/util-hex-encoding": "^4.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40smithy%2Fsignature-v4",
+          "observedAt": "2026-11-16T10:34:41.028Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40smithy%2Fsignature-v4",
+          "observedAt": "2026-11-16T10:34:41.028Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40smithy%2Fsignature-v4",
+          "observedAt": "2026-11-16T10:34:41.028Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40smithy%2Fsignature-v4",
+          "observedAt": "2026-11-16T10:34:41.028Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40smithy%2Fsignature-v4",
+          "observedAt": "2026-11-16T10:34:41.028Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40smithy%2Fsignature-v4",
+          "observedAt": "2026-11-16T10:34:41.028Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,926 @@
+{
+  "schemaVersion": 1,
+  "pkg": "strip-ansi",
+  "source": "https://registry.npmjs.org/strip-ansi",
+  "fetchedAt": "2026-11-16T10:07:11.726Z",
+  "sourceSha256": "2c67302699b9c594e5397ea4958b92933d03d24eeac2f70732f45b7eca011a08",
+  "versions": [
+    {
+      "pkg": "strip-ansi",
+      "semver": "0.1.0",
+      "publishedAt": "2013-12-07T23:30:17.673Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "strip-ansi",
+      "semver": "0.1.1",
+      "publishedAt": "2013-12-08T00:12:22.401Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "strip-ansi",
+      "semver": "0.2.0",
+      "publishedAt": "2014-03-26T15:28:35.327Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "strip-ansi",
+      "semver": "0.2.1",
+      "publishedAt": "2014-04-28T10:05:45.285Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "strip-ansi",
+      "semver": "0.2.2",
+      "publishedAt": "2014-06-03T17:09:40.794Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "ansi-regex": "^0.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "strip-ansi",
+      "semver": "0.3.0",
+      "publishedAt": "2014-06-24T19:33:15.394Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "ansi-regex": "^0.2.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "strip-ansi",
+      "semver": "1.0.0",
+      "publishedAt": "2014-07-23T22:31:46.786Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "ansi-regex": "^0.2.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "strip-ansi",
+      "semver": "2.0.0",
+      "publishedAt": "2014-08-13T13:36:36.745Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "ansi-regex": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "strip-ansi",
+      "semver": "2.0.1",
+      "publishedAt": "2015-01-16T18:48:44.952Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "ansi-regex": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "strip-ansi",
+      "semver": "3.0.0",
+      "publishedAt": "2015-06-30T16:53:11.137Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "ansi-regex": "^2.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "strip-ansi",
+      "semver": "3.0.1",
+      "publishedAt": "2016-02-21T12:21:22.998Z",
+      "publisher": "jbnicolai",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "ansi-regex": "^2.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "strip-ansi",
+      "semver": "4.0.0",
+      "publishedAt": "2017-06-20T19:28:26.510Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "ansi-regex": "^3.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "strip-ansi",
+      "semver": "5.0.0",
+      "publishedAt": "2018-09-29T19:25:44.295Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 3412,
+      "dependencies": {
+        "ansi-regex": "^4.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "strip-ansi",
+      "semver": "5.1.0",
+      "publishedAt": "2019-03-08T07:44:00.512Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 3671,
+      "dependencies": {
+        "ansi-regex": "^4.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "strip-ansi",
+      "semver": "5.2.0",
+      "publishedAt": "2019-03-18T08:46:18.955Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 4171,
+      "dependencies": {
+        "ansi-regex": "^4.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "strip-ansi",
+      "semver": "6.0.0",
+      "publishedAt": "2019-11-09T06:20:36.658Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 4029,
+      "dependencies": {
+        "ansi-regex": "^5.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "strip-ansi",
+      "semver": "6.0.1",
+      "publishedAt": "2021-09-23T16:34:41.798Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 4029,
+      "dependencies": {
+        "ansi-regex": "^5.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "strip-ansi",
+      "semver": "7.0.0",
+      "publishedAt": "2021-04-16T06:08:05.929Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 4090,
+      "dependencies": {
+        "ansi-regex": "^6.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "strip-ansi",
+      "semver": "7.0.1",
+      "publishedAt": "2021-09-11T08:50:46.669Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 4090,
+      "dependencies": {
+        "ansi-regex": "^6.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "strip-ansi",
+      "semver": "7.1.0",
+      "publishedAt": "2023-05-28T09:55:04.358Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 4321,
+      "dependencies": {
+        "ansi-regex": "^6.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "strip-ansi",
+      "semver": "7.1.1",
+      "publishedAt": "2025-09-08T13:13:50.431Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "strip-ansi",
+      "semver": "7.1.2",
+      "publishedAt": "2025-09-08T15:05:29.146Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 4120,
+      "dependencies": {
+        "ansi-regex": "^6.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "strip-ansi",
+      "semver": "7.2.0",
+      "publishedAt": "2026-02-26T13:51:11.099Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 4276,
+      "dependencies": {
+        "ansi-regex": "^6.2.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/strip-ansi",
+          "observedAt": "2026-11-16T10:07:11.726Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

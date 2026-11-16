@@ -1,0 +1,191 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@babel/plugin-syntax-import-meta",
+  "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-import-meta",
+  "fetchedAt": "2026-11-16T10:34:32.071Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 33
+  },
+  "sourceSha256": "fa0b1d7a60824a0c12ad50a4c248a9917ec9c276b1297fb59c8d8f75a5299ba9",
+  "versions": [
+    {
+      "pkg": "@babel/plugin-syntax-import-meta",
+      "semver": "7.0.0",
+      "publishedAt": "2018-08-27T21:42:36.611Z",
+      "publisher": "hzoo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 2464,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "^7.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-import-meta",
+          "observedAt": "2026-11-16T10:34:32.071Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-import-meta",
+          "observedAt": "2026-11-16T10:34:32.071Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-import-meta",
+          "observedAt": "2026-11-16T10:34:32.071Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-import-meta",
+          "observedAt": "2026-11-16T10:34:32.071Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-import-meta",
+          "observedAt": "2026-11-16T10:34:32.071Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-import-meta",
+          "observedAt": "2026-11-16T10:34:32.071Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/plugin-syntax-import-meta",
+      "semver": "7.0.0-beta.49",
+      "publishedAt": "2018-05-25T16:01:20.416Z",
+      "publisher": "loganfsmyth",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 1524,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "7.0.0-beta.49"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-import-meta",
+          "observedAt": "2026-11-16T10:34:32.071Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-import-meta",
+          "observedAt": "2026-11-16T10:34:32.071Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-import-meta",
+          "observedAt": "2026-11-16T10:34:32.071Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-import-meta",
+          "observedAt": "2026-11-16T10:34:32.071Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-import-meta",
+          "observedAt": "2026-11-16T10:34:32.071Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-import-meta",
+          "observedAt": "2026-11-16T10:34:32.071Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/plugin-syntax-import-meta",
+      "semver": "7.10.1",
+      "publishedAt": "2020-05-27T22:07:15.796Z",
+      "publisher": "nicolo-ribaudo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 2559,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "^7.10.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-import-meta",
+          "observedAt": "2026-11-16T10:34:32.071Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-import-meta",
+          "observedAt": "2026-11-16T10:34:32.071Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-import-meta",
+          "observedAt": "2026-11-16T10:34:32.071Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-import-meta",
+          "observedAt": "2026-11-16T10:34:32.071Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-import-meta",
+          "observedAt": "2026-11-16T10:34:32.071Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-import-meta",
+          "observedAt": "2026-11-16T10:34:32.071Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/plugin-syntax-import-meta",
+      "semver": "7.10.4",
+      "publishedAt": "2020-06-30T13:11:46.202Z",
+      "publisher": "jlhwung",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 2559,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "^7.10.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-import-meta",
+          "observedAt": "2026-11-16T10:34:32.071Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-import-meta",
+          "observedAt": "2026-11-16T10:34:32.071Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-import-meta",
+          "observedAt": "2026-11-16T10:34:32.071Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-import-meta",
+          "observedAt": "2026-11-16T10:34:32.071Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-import-meta",
+          "observedAt": "2026-11-16T10:34:32.071Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-import-meta",
+          "observedAt": "2026-11-16T10:34:32.071Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

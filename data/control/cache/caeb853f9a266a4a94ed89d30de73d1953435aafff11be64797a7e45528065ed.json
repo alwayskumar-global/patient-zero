@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 1,
+  "pkg": "cookie-signature",
+  "source": "https://registry.npmjs.org/cookie-signature",
+  "fetchedAt": "2026-11-16T10:34:58.432Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 13
+  },
+  "sourceSha256": "e6b83ec935406cde0de86377dd5f6e45ff85c22026006190d0004f0f7ccbb06d",
+  "versions": [
+    {
+      "pkg": "cookie-signature",
+      "semver": "0.0.1",
+      "publishedAt": "2012-10-15T15:53:33.933Z",
+      "publisher": null,
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/cookie-signature",
+          "observedAt": "2026-11-16T10:34:58.432Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/cookie-signature",
+          "observedAt": "2026-11-16T10:34:58.432Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/cookie-signature",
+          "observedAt": "2026-11-16T10:34:58.432Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/cookie-signature",
+          "observedAt": "2026-11-16T10:34:58.432Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "cookie-signature",
+      "semver": "1.0.3",
+      "publishedAt": "2014-01-29T01:15:41.790Z",
+      "publisher": "tjholowaychuk",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/cookie-signature",
+          "observedAt": "2026-11-16T10:34:58.432Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/cookie-signature",
+          "observedAt": "2026-11-16T10:34:58.432Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/cookie-signature",
+          "observedAt": "2026-11-16T10:34:58.432Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/cookie-signature",
+          "observedAt": "2026-11-16T10:34:58.432Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/cookie-signature",
+          "observedAt": "2026-11-16T10:34:58.432Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "cookie-signature",
+      "semver": "1.2.2",
+      "publishedAt": "2024-10-29T19:39:47.642Z",
+      "publisher": "natevw",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 4993,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/cookie-signature",
+          "observedAt": "2026-11-16T10:34:58.432Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/cookie-signature",
+          "observedAt": "2026-11-16T10:34:58.432Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/cookie-signature",
+          "observedAt": "2026-11-16T10:34:58.432Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/cookie-signature",
+          "observedAt": "2026-11-16T10:34:58.432Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/cookie-signature",
+          "observedAt": "2026-11-16T10:34:58.432Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/cookie-signature",
+          "observedAt": "2026-11-16T10:34:58.432Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

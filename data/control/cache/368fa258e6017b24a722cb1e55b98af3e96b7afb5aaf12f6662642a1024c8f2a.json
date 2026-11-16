@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "pkg": "babel-preset-current-node-syntax",
+  "source": "https://registry.npmjs.org/babel-preset-current-node-syntax",
+  "fetchedAt": "2026-11-16T10:34:56.582Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 11
+  },
+  "sourceSha256": "e41e4f6acb059b04ddd8785f5766d5aa116dcff7be3b5d1e6f8724266f9e2b03",
+  "versions": [
+    {
+      "pkg": "babel-preset-current-node-syntax",
+      "semver": "1.2.0",
+      "publishedAt": "2025-07-30T15:14:08.281Z",
+      "publisher": "nicolo-ribaudo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7480,
+      "dependencies": {
+        "@babel/plugin-syntax-async-generators": "^7.8.4",
+        "@babel/plugin-syntax-bigint": "^7.8.3",
+        "@babel/plugin-syntax-class-properties": "^7.12.13",
+        "@babel/plugin-syntax-class-static-block": "^7.14.5",
+        "@babel/plugin-syntax-import-attributes": "^7.24.7",
+        "@babel/plugin-syntax-import-meta": "^7.10.4",
+        "@babel/plugin-syntax-json-strings": "^7.8.3",
+        "@babel/plugin-syntax-logical-assignment-operators": "^7.10.4",
+        "@babel/plugin-syntax-nullish-coalescing-operator": "^7.8.3",
+        "@babel/plugin-syntax-numeric-separator": "^7.10.4",
+        "@babel/plugin-syntax-object-rest-spread": "^7.8.3",
+        "@babel/plugin-syntax-optional-catch-binding": "^7.8.3",
+        "@babel/plugin-syntax-optional-chaining": "^7.8.3",
+        "@babel/plugin-syntax-private-property-in-object": "^7.14.5",
+        "@babel/plugin-syntax-top-level-await": "^7.14.5"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/babel-preset-current-node-syntax",
+          "observedAt": "2026-11-16T10:34:56.582Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/babel-preset-current-node-syntax",
+          "observedAt": "2026-11-16T10:34:56.582Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/babel-preset-current-node-syntax",
+          "observedAt": "2026-11-16T10:34:56.582Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/babel-preset-current-node-syntax",
+          "observedAt": "2026-11-16T10:34:56.582Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/babel-preset-current-node-syntax",
+          "observedAt": "2026-11-16T10:34:56.582Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/babel-preset-current-node-syntax",
+          "observedAt": "2026-11-16T10:34:56.582Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

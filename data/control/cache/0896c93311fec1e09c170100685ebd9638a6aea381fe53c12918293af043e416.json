@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "pkg": "pino-std-serializers",
+  "source": "https://registry.npmjs.org/pino-std-serializers",
+  "fetchedAt": "2026-11-16T10:35:18.102Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 33
+  },
+  "sourceSha256": "0cc7bf469f36678217eef7e56b11016f9be3b7b05edbc0172bfd00494efe083b",
+  "versions": [
+    {
+      "pkg": "pino-std-serializers",
+      "semver": "2.0.0",
+      "publishedAt": "2018-03-28T18:22:20.559Z",
+      "publisher": "davidmarkclements",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 15597,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/pino-std-serializers",
+          "observedAt": "2026-11-16T10:35:18.102Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/pino-std-serializers",
+          "observedAt": "2026-11-16T10:35:18.102Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/pino-std-serializers",
+          "observedAt": "2026-11-16T10:35:18.102Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/pino-std-serializers",
+          "observedAt": "2026-11-16T10:35:18.102Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/pino-std-serializers",
+          "observedAt": "2026-11-16T10:35:18.102Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/pino-std-serializers",
+          "observedAt": "2026-11-16T10:35:18.102Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "pino-std-serializers",
+      "semver": "6.2.0",
+      "publishedAt": "2023-04-09T21:03:50.499Z",
+      "publisher": "jsumners",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 51912,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/pino-std-serializers",
+          "observedAt": "2026-11-16T10:35:18.102Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/pino-std-serializers",
+          "observedAt": "2026-11-16T10:35:18.102Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/pino-std-serializers",
+          "observedAt": "2026-11-16T10:35:18.102Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/pino-std-serializers",
+          "observedAt": "2026-11-16T10:35:18.102Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/pino-std-serializers",
+          "observedAt": "2026-11-16T10:35:18.102Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/pino-std-serializers",
+          "observedAt": "2026-11-16T10:35:18.102Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "pino-std-serializers",
+      "semver": "7.0.0",
+      "publishedAt": "2024-04-29T10:41:23.421Z",
+      "publisher": "matteo.collina",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 54011,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/pino-std-serializers",
+          "observedAt": "2026-11-16T10:35:18.102Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/pino-std-serializers",
+          "observedAt": "2026-11-16T10:35:18.102Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/pino-std-serializers",
+          "observedAt": "2026-11-16T10:35:18.102Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/pino-std-serializers",
+          "observedAt": "2026-11-16T10:35:18.102Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/pino-std-serializers",
+          "observedAt": "2026-11-16T10:35:18.102Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/pino-std-serializers",
+          "observedAt": "2026-11-16T10:35:18.102Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

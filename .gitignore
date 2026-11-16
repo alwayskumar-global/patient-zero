@@ -1,0 +1,23 @@
+node_modules/
+dist/
+*.tsbuildinfo
+.env
+.env.*
+!.env.example
+.DS_Store
+coverage/
+data/cache/*
+!data/cache/.gitkeep
+*.rl
+*.rl.*
+# Only the reviewed, reproducible demo store will be shipped.
+!/patient-zero.rl
+
+# Collection checkpoints are local resume state, not reviewed benchmark inputs.
+data/**/progress.json
+data/**/collection-failures.json
+data/**/osv-failures.json
+
+.next/
+playwright-report/
+test-results/

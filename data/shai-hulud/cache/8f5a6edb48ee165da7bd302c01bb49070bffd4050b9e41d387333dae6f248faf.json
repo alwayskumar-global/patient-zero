@@ -1,0 +1,1050 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@things-factory/integration-base",
+  "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+  "fetchedAt": "2026-11-16T10:32:08.111Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 1381
+  },
+  "sourceSha256": "49d5b4e9a20f14fd3bb006986d9659b329b56e4d18a472d69eeaaedfc1e1dcd8",
+  "versions": [
+    {
+      "pkg": "@things-factory/integration-base",
+      "semver": "2.0.55",
+      "publishedAt": "2020-02-26T10:49:31.406Z",
+      "publisher": "lllleeee",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 281750,
+      "dependencies": {
+        "cron": "^1.7.2",
+        "mqtt": "^3.0.0",
+        "node-fetch": "^2.6.0",
+        "cross-fetch": "^3.0.4",
+        "promise-socket": "^6.0.2",
+        "moment-timezone": "^0.5.27",
+        "@things-factory/auth-base": "^2.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@things-factory/integration-base",
+      "semver": "2.3.3",
+      "publishedAt": "2020-05-27T08:13:48.407Z",
+      "publisher": "eunhye",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 380613,
+      "dependencies": {
+        "cron": "^1.7.2",
+        "async-mqtt": "^2.5.0",
+        "node-fetch": "^2.6.0",
+        "@koa/router": "^8.0.8",
+        "cross-fetch": "^3.0.4",
+        "promise-socket": "^6.0.2",
+        "moment-timezone": "^0.5.27",
+        "@things-factory/auth-base": "^2.5.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@things-factory/integration-base",
+      "semver": "2.3.6",
+      "publishedAt": "2020-06-03T08:22:38.243Z",
+      "publisher": "chunseop",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 331318,
+      "dependencies": {
+        "cron": "^1.7.2",
+        "async-mqtt": "^2.5.0",
+        "node-fetch": "^2.6.0",
+        "cross-fetch": "^3.0.4",
+        "promise-socket": "^6.0.2",
+        "moment-timezone": "^0.5.27"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@things-factory/integration-base",
+      "semver": "2.3.7",
+      "publishedAt": "2020-06-05T10:16:51.012Z",
+      "publisher": "stellan.gil",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 321167,
+      "dependencies": {
+        "cron": "^1.7.2",
+        "async-mqtt": "^2.5.0",
+        "node-fetch": "^2.6.0",
+        "cross-fetch": "^3.0.4",
+        "promise-socket": "^6.0.2",
+        "moment-timezone": "^0.5.27"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@things-factory/integration-base",
+      "semver": "3.0.0-beta.141",
+      "publishedAt": "2021-02-16T18:21:53.543Z",
+      "publisher": "chris_lim7150",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 518576,
+      "dependencies": {
+        "vm2": "^3.9.2",
+        "cron": "^1.7.2",
+        "mssql": "^6.2.3",
+        "ieee754": "^1.2.1",
+        "async-mqtt": "^2.5.0",
+        "node-fetch": "^2.6.0",
+        "cross-fetch": "^3.0.4",
+        "promise-socket": "^7.0.0",
+        "moment-timezone": "^0.5.27",
+        "@things-factory/api": "^3.0.0-beta.141",
+        "@things-factory/shell": "^3.0.0-beta.139",
+        "@things-factory/auth-base": "^3.0.0-beta.141",
+        "@things-factory/oauth2-client": "^3.0.0-beta.141"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@things-factory/integration-base",
+      "semver": "3.0.0-beta.149",
+      "publishedAt": "2021-02-19T02:52:47.214Z",
+      "publisher": "chayeongrong",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 550516,
+      "dependencies": {
+        "vm2": "^3.9.2",
+        "cron": "^1.7.2",
+        "mssql": "^6.2.3",
+        "ieee754": "^1.2.1",
+        "async-mqtt": "^2.5.0",
+        "node-fetch": "^2.6.0",
+        "cross-fetch": "^3.0.4",
+        "promise-socket": "^7.0.0",
+        "moment-timezone": "^0.5.27",
+        "@things-factory/api": "^3.0.0-beta.149",
+        "@things-factory/shell": "^3.0.0-beta.149",
+        "@things-factory/auth-base": "^3.0.0-beta.149",
+        "@things-factory/oauth2-client": "^3.0.0-beta.149"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@things-factory/integration-base",
+      "semver": "4.0.0",
+      "publishedAt": "2021-11-15T03:08:30.239Z",
+      "publisher": "jay_lee",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 588333,
+      "dependencies": {
+        "vm2": "^3.9.2",
+        "cron": "^1.7.2",
+        "mssql": "^6.2.3",
+        "ieee754": "^1.2.1",
+        "async-mqtt": "^2.5.0",
+        "node-fetch": "^2.6.0",
+        "cross-fetch": "^3.0.4",
+        "@apollo/client": "^3.4.17",
+        "promise-socket": "^7.0.0",
+        "moment-timezone": "^0.5.27",
+        "@things-factory/api": "^4.0.0",
+        "@things-factory/shell": "^4.0.0",
+        "@things-factory/auth-base": "^4.0.0",
+        "@things-factory/oauth2-client": "^4.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@things-factory/integration-base",
+      "semver": "4.0.22",
+      "publishedAt": "2021-12-16T04:15:40.423Z",
+      "publisher": "jyp220",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 763228,
+      "dependencies": {
+        "vm2": "^3.9.2",
+        "cron": "^1.7.2",
+        "mssql": "^6.2.3",
+        "ieee754": "^1.2.1",
+        "async-mqtt": "^2.5.0",
+        "node-fetch": "^2.6.0",
+        "cross-fetch": "^3.0.4",
+        "@apollo/client": "^3.4.17",
+        "promise-socket": "^7.0.0",
+        "moment-timezone": "^0.5.27",
+        "@things-factory/api": "^4.0.22",
+        "@things-factory/shell": "^4.0.22",
+        "@things-factory/auth-base": "^4.0.22",
+        "@things-factory/oauth2-client": "^4.0.22"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@things-factory/integration-base",
+      "semver": "4.1.2",
+      "publishedAt": "2022-02-10T01:28:04.240Z",
+      "publisher": "lyonghwan",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 588831,
+      "dependencies": {
+        "vm2": "^3.9.2",
+        "cron": "^1.7.2",
+        "mssql": "^6.2.3",
+        "ieee754": "^1.2.1",
+        "async-mqtt": "^2.5.0",
+        "node-fetch": "^2.6.0",
+        "cross-fetch": "^3.0.4",
+        "@apollo/client": "^3.5.6",
+        "promise-socket": "^7.0.0",
+        "moment-timezone": "^0.5.27",
+        "@things-factory/api": "^4.1.2",
+        "@things-factory/shell": "^4.1.2",
+        "@things-factory/auth-base": "^4.1.2",
+        "@things-factory/oauth2-client": "^4.1.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@things-factory/integration-base",
+      "semver": "4.3.675",
+      "publishedAt": "2025-08-27T10:19:59.026Z",
+      "publisher": "horwengliang95",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 725154,
+      "dependencies": {
+        "vm2": "^3.9.2",
+        "cron": "^1.7.2",
+        "uuid": "11.0.0",
+        "mssql": "^6.2.3",
+        "ieee754": "^1.2.1",
+        "async-mqtt": "^2.5.0",
+        "node-fetch": "^2.6.0",
+        "cross-fetch": "^3.0.4",
+        "@apollo/client": "^3.5.6",
+        "promise-socket": "^7.0.0",
+        "moment-timezone": "^0.5.27",
+        "@aws-sdk/client-sqs": "^3.46.0",
+        "@things-factory/api": "^4.3.675",
+        "@things-factory/shell": "^4.3.675",
+        "@aws-sdk/client-lambda": "3.513.0",
+        "@things-factory/auth-base": "^4.3.675",
+        "@things-factory/oauth2-client": "^4.3.675"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@things-factory/integration-base",
+      "semver": "4.3.677",
+      "publishedAt": "2025-09-18T10:11:34.428Z",
+      "publisher": "horwengliang95",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 725154,
+      "dependencies": {
+        "vm2": "^3.9.2",
+        "cron": "^1.7.2",
+        "uuid": "11.0.0",
+        "mssql": "^6.2.3",
+        "ieee754": "^1.2.1",
+        "async-mqtt": "^2.5.0",
+        "node-fetch": "^2.6.0",
+        "cross-fetch": "^3.0.4",
+        "@apollo/client": "^3.5.6",
+        "promise-socket": "^7.0.0",
+        "moment-timezone": "^0.5.27",
+        "@aws-sdk/client-sqs": "^3.46.0",
+        "@things-factory/api": "^4.3.677",
+        "@things-factory/shell": "^4.3.675",
+        "@aws-sdk/client-lambda": "3.513.0",
+        "@things-factory/auth-base": "^4.3.677",
+        "@things-factory/oauth2-client": "^4.3.677"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@things-factory/integration-base",
+      "semver": "6.1.52",
+      "publishedAt": "2023-07-17T10:41:14.647Z",
+      "publisher": "woo_ram",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 1107709,
+      "dependencies": {
+        "vm2": "3.9.11",
+        "mssql": "^8.1.2",
+        "chance": "^1.1.11",
+        "ieee754": "^1.2.1",
+        "readline": "^1.3.0",
+        "async-mqtt": "^2.5.0",
+        "node-fetch": "^2.6.0",
+        "cross-fetch": "^3.0.4",
+        "@apollo/client": "^3.6.9",
+        "promise-socket": "^7.0.0",
+        "moment-timezone": "^0.5.40",
+        "@things-factory/api": "^6.1.48",
+        "@things-factory/env": "^6.1.48",
+        "@things-factory/shell": "^6.1.48",
+        "@things-factory/auth-base": "^6.1.48",
+        "@things-factory/oauth2-client": "^6.1.48",
+        "@things-factory/scheduler-client": "^6.1.48"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@things-factory/integration-base",
+      "semver": "6.2.168",
+      "publishedAt": "2024-08-26T11:09:43.043Z",
+      "publisher": "jinwon",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 1890347,
+      "dependencies": {
+        "vm2": "3.9.11",
+        "mssql": "^8.1.2",
+        "chance": "^1.1.11",
+        "ieee754": "^1.2.1",
+        "readline": "^1.3.0",
+        "async-mqtt": "^2.5.0",
+        "node-fetch": "^2.6.0",
+        "cross-fetch": "^3.0.4",
+        "@apollo/client": "^3.6.9",
+        "promise-socket": "^7.0.0",
+        "moment-timezone": "^0.5.40",
+        "@things-factory/api": "^6.2.168",
+        "@things-factory/env": "^6.2.139",
+        "@things-factory/shell": "^6.2.167",
+        "@things-factory/utils": "^6.2.122",
+        "@things-factory/auth-base": "^6.2.168",
+        "@things-factory/oauth2-client": "^6.2.168",
+        "@things-factory/scheduler-client": "^6.2.168"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@things-factory/integration-base",
+      "semver": "8.0.55",
+      "publishedAt": "2025-07-14T03:10:53.817Z",
+      "publisher": "nalshya113",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 2266362,
+      "dependencies": {
+        "ses": "^1.5.0",
+        "chance": "^1.1.11",
+        "ieee754": "^1.2.1",
+        "readline": "^1.3.0",
+        "async-mqtt": "^2.5.0",
+        "node-fetch": "^2.6.0",
+        "cross-fetch": "^3.0.4",
+        "@apollo/client": "^3.6.9",
+        "promise-socket": "^7.0.0",
+        "@things-factory/api": "^8.0.55",
+        "@things-factory/env": "^8.0.37",
+        "@things-factory/shell": "^8.0.55",
+        "@things-factory/utils": "^8.0.37",
+        "@things-factory/auth-base": "^8.0.55",
+        "@operato/moment-timezone-es": "^8.0.0",
+        "@things-factory/cache-service": "^8.0.55",
+        "@things-factory/oauth2-client": "^8.0.55",
+        "@things-factory/scheduler-client": "^8.0.55"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@things-factory/integration-base",
+      "semver": "9.0.38",
+      "publishedAt": "2025-09-08T13:49:31.083Z",
+      "publisher": "heartyoh",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 2366303,
+      "dependencies": {
+        "ses": "^1.5.0",
+        "chance": "^1.1.11",
+        "ieee754": "^1.2.1",
+        "readline": "^1.3.0",
+        "async-mqtt": "^2.5.0",
+        "node-fetch": "^2.6.0",
+        "cross-fetch": "^3.0.4",
+        "@apollo/client": "^3.6.9",
+        "promise-socket": "^7.0.0",
+        "@things-factory/api": "^9.0.36",
+        "@things-factory/env": "^9.0.20",
+        "@things-factory/shell": "^9.0.34",
+        "@things-factory/utils": "^9.0.20",
+        "@things-factory/auth-base": "^9.0.36",
+        "@operato/moment-timezone-es": "^9.0.0",
+        "@things-factory/cache-service": "^9.0.36",
+        "@things-factory/oauth2-client": "^9.0.36",
+        "@things-factory/scheduler-client": "^9.0.36"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@things-factory/integration-base",
+      "semver": "9.0.41",
+      "publishedAt": "2025-09-14T07:35:57.401Z",
+      "publisher": "heartyoh",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 2365616,
+      "dependencies": {
+        "ses": "^1.5.0",
+        "chance": "^1.1.11",
+        "ieee754": "^1.2.1",
+        "readline": "^1.3.0",
+        "async-mqtt": "^2.5.0",
+        "node-fetch": "^2.6.0",
+        "cross-fetch": "^3.0.4",
+        "@apollo/client": "^3.6.9",
+        "promise-socket": "^7.0.0",
+        "@things-factory/api": "^9.0.41",
+        "@things-factory/env": "^9.0.41",
+        "@things-factory/shell": "^9.0.41",
+        "@things-factory/utils": "^9.0.41",
+        "@things-factory/auth-base": "^9.0.41",
+        "@operato/moment-timezone-es": "^9.0.0",
+        "@things-factory/cache-service": "^9.0.41",
+        "@things-factory/oauth2-client": "^9.0.41",
+        "@things-factory/scheduler-client": "^9.0.41"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@things-factory/integration-base",
+      "semver": "9.0.42",
+      "publishedAt": "2025-09-15T22:36:52.653Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@things-factory/integration-base",
+      "semver": "9.0.43",
+      "publishedAt": "2025-09-15T23:44:34.890Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@things-factory/integration-base",
+      "semver": "9.0.44",
+      "publishedAt": "2025-09-16T01:25:59.153Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@things-factory/integration-base",
+      "semver": "9.0.45",
+      "publishedAt": "2025-09-16T01:30:41.833Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@things-factory/integration-base",
+      "semver": "9.1.0",
+      "publishedAt": "2025-09-16T12:16:50.632Z",
+      "publisher": "heartyoh",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 2371832,
+      "dependencies": {
+        "ses": "^1.5.0",
+        "chance": "^1.1.11",
+        "ieee754": "^1.2.1",
+        "readline": "^1.3.0",
+        "async-mqtt": "^2.5.0",
+        "node-fetch": "^2.6.0",
+        "cross-fetch": "^3.0.4",
+        "@apollo/client": "^3.6.9",
+        "promise-socket": "^7.0.0",
+        "@things-factory/api": "^9.1.0",
+        "@things-factory/env": "^9.1.0",
+        "@things-factory/shell": "^9.1.0",
+        "@things-factory/utils": "^9.1.0",
+        "@things-factory/auth-base": "^9.1.0",
+        "@operato/moment-timezone-es": "^9.0.0",
+        "@things-factory/cache-service": "^9.1.0",
+        "@things-factory/oauth2-client": "^9.1.0",
+        "@things-factory/scheduler-client": "^9.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40things-factory%2Fintegration-base",
+          "observedAt": "2026-11-16T10:32:08.111Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

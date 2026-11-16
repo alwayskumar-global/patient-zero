@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@sindresorhus/merge-streams",
+  "source": "https://registry.npmjs.org/%40sindresorhus%2Fmerge-streams",
+  "fetchedAt": "2026-11-16T10:34:38.924Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 11
+  },
+  "sourceSha256": "c4795a1eb652c34cf97c19f0fb2f5f69d232dcaff77d6dfa4f7f5d541a995206",
+  "versions": [
+    {
+      "pkg": "@sindresorhus/merge-streams",
+      "semver": "4.0.0",
+      "publishedAt": "2024-05-04T19:40:43.039Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 11424,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40sindresorhus%2Fmerge-streams",
+          "observedAt": "2026-11-16T10:34:38.924Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40sindresorhus%2Fmerge-streams",
+          "observedAt": "2026-11-16T10:34:38.924Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40sindresorhus%2Fmerge-streams",
+          "observedAt": "2026-11-16T10:34:38.924Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40sindresorhus%2Fmerge-streams",
+          "observedAt": "2026-11-16T10:34:38.924Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40sindresorhus%2Fmerge-streams",
+          "observedAt": "2026-11-16T10:34:38.924Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40sindresorhus%2Fmerge-streams",
+          "observedAt": "2026-11-16T10:34:38.924Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

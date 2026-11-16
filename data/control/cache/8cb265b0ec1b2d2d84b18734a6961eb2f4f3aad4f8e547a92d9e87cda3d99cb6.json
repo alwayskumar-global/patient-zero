@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "pkg": "unbox-primitive",
+  "source": "https://registry.npmjs.org/unbox-primitive",
+  "fetchedAt": "2026-11-16T10:35:31.121Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 4
+  },
+  "sourceSha256": "03da94972f45f312fa02772ea71a3bfb65c884cad73806286f749a5084c06af7",
+  "versions": [
+    {
+      "pkg": "unbox-primitive",
+      "semver": "1.1.0",
+      "publishedAt": "2024-12-16T06:45:03.707Z",
+      "publisher": "ljharb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 18507,
+      "dependencies": {
+        "call-bound": "^1.0.3",
+        "has-bigints": "^1.0.2",
+        "has-symbols": "^1.1.0",
+        "which-boxed-primitive": "^1.1.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/unbox-primitive",
+          "observedAt": "2026-11-16T10:35:31.121Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/unbox-primitive",
+          "observedAt": "2026-11-16T10:35:31.121Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/unbox-primitive",
+          "observedAt": "2026-11-16T10:35:31.121Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/unbox-primitive",
+          "observedAt": "2026-11-16T10:35:31.121Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/unbox-primitive",
+          "observedAt": "2026-11-16T10:35:31.121Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/unbox-primitive",
+          "observedAt": "2026-11-16T10:35:31.121Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

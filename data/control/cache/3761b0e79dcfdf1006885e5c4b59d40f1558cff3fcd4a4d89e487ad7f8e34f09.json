@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "pkg": "npm-bundled",
+  "source": "https://registry.npmjs.org/npm-bundled",
+  "fetchedAt": "2026-11-16T10:35:15.483Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 17
+  },
+  "sourceSha256": "4b1779b0d6935d9f91606ea41ee30934f4c3db2fc192eae8825828a4ad589494",
+  "versions": [
+    {
+      "pkg": "npm-bundled",
+      "semver": "1.1.2",
+      "publishedAt": "2021-04-21T22:09:35.643Z",
+      "publisher": "isaacs",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 9743,
+      "dependencies": {
+        "npm-normalize-package-bin": "^1.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/npm-bundled",
+          "observedAt": "2026-11-16T10:35:15.483Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/npm-bundled",
+          "observedAt": "2026-11-16T10:35:15.483Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/npm-bundled",
+          "observedAt": "2026-11-16T10:35:15.483Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/npm-bundled",
+          "observedAt": "2026-11-16T10:35:15.483Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/npm-bundled",
+          "observedAt": "2026-11-16T10:35:15.483Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/npm-bundled",
+          "observedAt": "2026-11-16T10:35:15.483Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "npm-bundled",
+      "semver": "3.0.0",
+      "publishedAt": "2022-10-14T17:52:28.969Z",
+      "publisher": "lukekarrys",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 10201,
+      "dependencies": {
+        "npm-normalize-package-bin": "^3.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/npm-bundled",
+          "observedAt": "2026-11-16T10:35:15.483Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/npm-bundled",
+          "observedAt": "2026-11-16T10:35:15.483Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/npm-bundled",
+          "observedAt": "2026-11-16T10:35:15.483Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/npm-bundled",
+          "observedAt": "2026-11-16T10:35:15.483Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/npm-bundled",
+          "observedAt": "2026-11-16T10:35:15.483Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/npm-bundled",
+          "observedAt": "2026-11-16T10:35:15.483Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "npm-bundled",
+      "semver": "4.0.0",
+      "publishedAt": "2024-09-25T17:13:04.780Z",
+      "publisher": "npm-cli-ops",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 10254,
+      "dependencies": {
+        "npm-normalize-package-bin": "^4.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/npm-bundled",
+          "observedAt": "2026-11-16T10:35:15.483Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/npm-bundled",
+          "observedAt": "2026-11-16T10:35:15.483Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/npm-bundled",
+          "observedAt": "2026-11-16T10:35:15.483Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/npm-bundled",
+          "observedAt": "2026-11-16T10:35:15.483Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/npm-bundled",
+          "observedAt": "2026-11-16T10:35:15.483Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/npm-bundled",
+          "observedAt": "2026-11-16T10:35:15.483Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

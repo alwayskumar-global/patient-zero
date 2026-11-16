@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "pkg": "eslint-plugin-react",
+  "source": "https://registry.npmjs.org/eslint-plugin-react",
+  "fetchedAt": "2026-11-16T10:35:01.284Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 216
+  },
+  "sourceSha256": "4755763719a6a93d66c484af2d82c00792ad2265791baebac96fb3d9f88a7495",
+  "versions": [
+    {
+      "pkg": "eslint-plugin-react",
+      "semver": "7.14.3",
+      "publishedAt": "2019-07-22T22:35:11.299Z",
+      "publisher": "yannickcr",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 633238,
+      "dependencies": {
+        "has": "^1.0.3",
+        "resolve": "^1.10.1",
+        "doctrine": "^2.1.0",
+        "prop-types": "^15.7.2",
+        "jsx-ast-utils": "^2.1.0",
+        "object.values": "^1.1.0",
+        "array-includes": "^3.0.3",
+        "object.entries": "^1.1.0",
+        "object.fromentries": "^2.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/eslint-plugin-react",
+          "observedAt": "2026-11-16T10:35:01.284Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/eslint-plugin-react",
+          "observedAt": "2026-11-16T10:35:01.284Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/eslint-plugin-react",
+          "observedAt": "2026-11-16T10:35:01.284Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/eslint-plugin-react",
+          "observedAt": "2026-11-16T10:35:01.284Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/eslint-plugin-react",
+          "observedAt": "2026-11-16T10:35:01.284Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/eslint-plugin-react",
+          "observedAt": "2026-11-16T10:35:01.284Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "eslint-plugin-react",
+      "semver": "7.37.5",
+      "publishedAt": "2025-04-03T20:01:15.958Z",
+      "publisher": "ljharb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 937569,
+      "dependencies": {
+        "array-includes": "^3.1.8",
+        "array.prototype.findlast": "^1.2.5",
+        "array.prototype.flatmap": "^1.3.3",
+        "array.prototype.tosorted": "^1.1.4",
+        "doctrine": "^2.1.0",
+        "es-iterator-helpers": "^1.2.1",
+        "estraverse": "^5.3.0",
+        "hasown": "^2.0.2",
+        "jsx-ast-utils": "^2.4.1 || ^3.0.0",
+        "minimatch": "^3.1.2",
+        "object.entries": "^1.1.9",
+        "object.fromentries": "^2.0.8",
+        "object.values": "^1.2.1",
+        "prop-types": "^15.8.1",
+        "resolve": "^2.0.0-next.5",
+        "semver": "^6.3.1",
+        "string.prototype.matchall": "^4.0.12",
+        "string.prototype.repeat": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/eslint-plugin-react",
+          "observedAt": "2026-11-16T10:35:01.284Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/eslint-plugin-react",
+          "observedAt": "2026-11-16T10:35:01.284Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/eslint-plugin-react",
+          "observedAt": "2026-11-16T10:35:01.284Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/eslint-plugin-react",
+          "observedAt": "2026-11-16T10:35:01.284Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/eslint-plugin-react",
+          "observedAt": "2026-11-16T10:35:01.284Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/eslint-plugin-react",
+          "observedAt": "2026-11-16T10:35:01.284Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

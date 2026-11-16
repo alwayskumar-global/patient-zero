@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@swc/core-linux-x64-musl",
+  "source": "https://registry.npmjs.org/%40swc%2Fcore-linux-x64-musl",
+  "fetchedAt": "2026-11-16T10:34:43.085Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 795
+  },
+  "sourceSha256": "314e03ca619f4ba226aefbbbc85f5b5dc56269da5bdf850d1bc81d59bd70ad68",
+  "versions": [
+    {
+      "pkg": "@swc/core-linux-x64-musl",
+      "semver": "1.13.3",
+      "publishedAt": "2025-07-29T04:25:40.001Z",
+      "publisher": "kdy1",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 55460692,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40swc%2Fcore-linux-x64-musl",
+          "observedAt": "2026-11-16T10:34:43.085Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40swc%2Fcore-linux-x64-musl",
+          "observedAt": "2026-11-16T10:34:43.085Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40swc%2Fcore-linux-x64-musl",
+          "observedAt": "2026-11-16T10:34:43.085Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40swc%2Fcore-linux-x64-musl",
+          "observedAt": "2026-11-16T10:34:43.085Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40swc%2Fcore-linux-x64-musl",
+          "observedAt": "2026-11-16T10:34:43.085Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40swc%2Fcore-linux-x64-musl",
+          "observedAt": "2026-11-16T10:34:43.085Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

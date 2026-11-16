@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "pkg": "restore-cursor",
+  "source": "https://registry.npmjs.org/restore-cursor",
+  "fetchedAt": "2026-11-16T10:35:24.955Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 8
+  },
+  "sourceSha256": "2141fc417a05907961bc8c9cacfde8ec9e960947924f5cd9971425cb8c9a36aa",
+  "versions": [
+    {
+      "pkg": "restore-cursor",
+      "semver": "5.1.0",
+      "publishedAt": "2024-07-26T13:56:42.169Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 3129,
+      "dependencies": {
+        "onetime": "^7.0.0",
+        "signal-exit": "^4.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/restore-cursor",
+          "observedAt": "2026-11-16T10:35:24.955Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/restore-cursor",
+          "observedAt": "2026-11-16T10:35:24.955Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/restore-cursor",
+          "observedAt": "2026-11-16T10:35:24.955Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/restore-cursor",
+          "observedAt": "2026-11-16T10:35:24.955Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/restore-cursor",
+          "observedAt": "2026-11-16T10:35:24.955Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/restore-cursor",
+          "observedAt": "2026-11-16T10:35:24.955Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

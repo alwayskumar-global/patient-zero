@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "js-tokens",
+  "source": "https://registry.npmjs.org/js-tokens",
+  "fetchedAt": "2026-11-16T10:35:08.542Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 25
+  },
+  "sourceSha256": "81b291f843c391c7e308ad4ca128b7f76e1520c57805b7ae5dbc78e457e508c8",
+  "versions": [
+    {
+      "pkg": "js-tokens",
+      "semver": "9.0.1",
+      "publishedAt": "2024-11-22T17:21:10.496Z",
+      "publisher": "lydell",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 16071,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/js-tokens",
+          "observedAt": "2026-11-16T10:35:08.542Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/js-tokens",
+          "observedAt": "2026-11-16T10:35:08.542Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/js-tokens",
+          "observedAt": "2026-11-16T10:35:08.542Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/js-tokens",
+          "observedAt": "2026-11-16T10:35:08.542Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/js-tokens",
+          "observedAt": "2026-11-16T10:35:08.542Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/js-tokens",
+          "observedAt": "2026-11-16T10:35:08.542Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

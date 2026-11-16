@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "pkg": "normalize-range",
+  "source": "https://registry.npmjs.org/normalize-range",
+  "fetchedAt": "2026-11-16T10:35:15.443Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 3
+  },
+  "sourceSha256": "af16fb41bc6a1294940042e6b6f0641398f8d6235c20562995ee29f7baa060e9",
+  "versions": [
+    {
+      "pkg": "normalize-range",
+      "semver": "0.1.2",
+      "publishedAt": "2015-09-13T05:20:04.639Z",
+      "publisher": "james.talmage",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/normalize-range",
+          "observedAt": "2026-11-16T10:35:15.443Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/normalize-range",
+          "observedAt": "2026-11-16T10:35:15.443Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/normalize-range",
+          "observedAt": "2026-11-16T10:35:15.443Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/normalize-range",
+          "observedAt": "2026-11-16T10:35:15.443Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/normalize-range",
+          "observedAt": "2026-11-16T10:35:15.443Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@jest/source-map",
+  "source": "https://registry.npmjs.org/%40jest%2Fsource-map",
+  "fetchedAt": "2026-11-16T10:34:35.818Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 65
+  },
+  "sourceSha256": "01c26dcb3f840385538adc924dd822616b4a360897b7efdcb21bdff3b551c96e",
+  "versions": [
+    {
+      "pkg": "@jest/source-map",
+      "semver": "24.3.0",
+      "publishedAt": "2019-03-07T12:59:18.704Z",
+      "publisher": "rubennorte",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 6537,
+      "dependencies": {
+        "callsites": "^3.0.0",
+        "source-map": "^0.6.0",
+        "graceful-fs": "^4.1.15"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40jest%2Fsource-map",
+          "observedAt": "2026-11-16T10:34:35.818Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40jest%2Fsource-map",
+          "observedAt": "2026-11-16T10:34:35.818Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40jest%2Fsource-map",
+          "observedAt": "2026-11-16T10:34:35.818Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40jest%2Fsource-map",
+          "observedAt": "2026-11-16T10:34:35.818Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40jest%2Fsource-map",
+          "observedAt": "2026-11-16T10:34:35.818Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40jest%2Fsource-map",
+          "observedAt": "2026-11-16T10:34:35.818Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@jest/source-map",
+      "semver": "25.0.0",
+      "publishedAt": "2019-08-22T03:23:44.451Z",
+      "publisher": "scotthovestadt",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 6235,
+      "dependencies": {
+        "callsites": "^3.0.0",
+        "source-map": "^0.6.0",
+        "graceful-fs": "^4.1.15"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40jest%2Fsource-map",
+          "observedAt": "2026-11-16T10:34:35.818Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40jest%2Fsource-map",
+          "observedAt": "2026-11-16T10:34:35.818Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40jest%2Fsource-map",
+          "observedAt": "2026-11-16T10:34:35.818Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40jest%2Fsource-map",
+          "observedAt": "2026-11-16T10:34:35.818Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40jest%2Fsource-map",
+          "observedAt": "2026-11-16T10:34:35.818Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40jest%2Fsource-map",
+          "observedAt": "2026-11-16T10:34:35.818Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@jest/source-map",
+      "semver": "25.1.0",
+      "publishedAt": "2020-01-22T00:59:44.806Z",
+      "publisher": "davidzilburg",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 6251,
+      "dependencies": {
+        "callsites": "^3.0.0",
+        "source-map": "^0.6.0",
+        "graceful-fs": "^4.2.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40jest%2Fsource-map",
+          "observedAt": "2026-11-16T10:34:35.818Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40jest%2Fsource-map",
+          "observedAt": "2026-11-16T10:34:35.818Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40jest%2Fsource-map",
+          "observedAt": "2026-11-16T10:34:35.818Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40jest%2Fsource-map",
+          "observedAt": "2026-11-16T10:34:35.818Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40jest%2Fsource-map",
+          "observedAt": "2026-11-16T10:34:35.818Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40jest%2Fsource-map",
+          "observedAt": "2026-11-16T10:34:35.818Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@jest/source-map",
+      "semver": "30.0.0-alpha.7",
+      "publishedAt": "2025-01-30T08:28:22.799Z",
+      "publisher": "simenb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 6909,
+      "dependencies": {
+        "callsites": "^3.0.0",
+        "graceful-fs": "^4.2.9",
+        "@jridgewell/trace-mapping": "^0.3.18"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40jest%2Fsource-map",
+          "observedAt": "2026-11-16T10:34:35.818Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40jest%2Fsource-map",
+          "observedAt": "2026-11-16T10:34:35.818Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40jest%2Fsource-map",
+          "observedAt": "2026-11-16T10:34:35.818Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40jest%2Fsource-map",
+          "observedAt": "2026-11-16T10:34:35.818Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40jest%2Fsource-map",
+          "observedAt": "2026-11-16T10:34:35.818Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40jest%2Fsource-map",
+          "observedAt": "2026-11-16T10:34:35.818Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@jest/source-map",
+      "semver": "30.0.1",
+      "publishedAt": "2025-06-18T22:31:17.307Z",
+      "publisher": "cpojer",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 6873,
+      "dependencies": {
+        "callsites": "^3.1.0",
+        "graceful-fs": "^4.2.11",
+        "@jridgewell/trace-mapping": "^0.3.25"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40jest%2Fsource-map",
+          "observedAt": "2026-11-16T10:34:35.818Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40jest%2Fsource-map",
+          "observedAt": "2026-11-16T10:34:35.818Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40jest%2Fsource-map",
+          "observedAt": "2026-11-16T10:34:35.818Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40jest%2Fsource-map",
+          "observedAt": "2026-11-16T10:34:35.818Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40jest%2Fsource-map",
+          "observedAt": "2026-11-16T10:34:35.818Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40jest%2Fsource-map",
+          "observedAt": "2026-11-16T10:34:35.818Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

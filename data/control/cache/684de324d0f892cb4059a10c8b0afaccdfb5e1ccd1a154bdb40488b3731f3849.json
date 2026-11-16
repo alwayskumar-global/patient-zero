@@ -1,0 +1,229 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@radix-ui/react-context",
+  "source": "https://registry.npmjs.org/%40radix-ui%2Freact-context",
+  "fetchedAt": "2026-11-16T10:34:37.391Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 134
+  },
+  "sourceSha256": "d79903457d7d4b593945a3f1956ed98e442bcb61d93bfe23d06807c698b68763",
+  "versions": [
+    {
+      "pkg": "@radix-ui/react-context",
+      "semver": "0.1.1",
+      "publishedAt": "2021-10-14T16:46:42.772Z",
+      "publisher": "jjenzz",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 23361,
+      "dependencies": {
+        "@babel/runtime": "^7.13.10"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-context",
+          "observedAt": "2026-11-16T10:34:37.391Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-context",
+          "observedAt": "2026-11-16T10:34:37.391Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-context",
+          "observedAt": "2026-11-16T10:34:37.391Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-context",
+          "observedAt": "2026-11-16T10:34:37.391Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-context",
+          "observedAt": "2026-11-16T10:34:37.391Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-context",
+          "observedAt": "2026-11-16T10:34:37.391Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@radix-ui/react-context",
+      "semver": "1.0.1",
+      "publishedAt": "2023-05-26T11:03:18.437Z",
+      "publisher": "benoitgrelard",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 37983,
+      "dependencies": {
+        "@babel/runtime": "^7.13.10"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-context",
+          "observedAt": "2026-11-16T10:34:37.391Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-context",
+          "observedAt": "2026-11-16T10:34:37.391Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-context",
+          "observedAt": "2026-11-16T10:34:37.391Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-context",
+          "observedAt": "2026-11-16T10:34:37.391Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-context",
+          "observedAt": "2026-11-16T10:34:37.391Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-context",
+          "observedAt": "2026-11-16T10:34:37.391Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@radix-ui/react-context",
+      "semver": "1.1.0",
+      "publishedAt": "2024-06-19T19:57:47.096Z",
+      "publisher": "vladmoroz",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 28167,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-context",
+          "observedAt": "2026-11-16T10:34:37.391Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-context",
+          "observedAt": "2026-11-16T10:34:37.391Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-context",
+          "observedAt": "2026-11-16T10:34:37.391Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-context",
+          "observedAt": "2026-11-16T10:34:37.391Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-context",
+          "observedAt": "2026-11-16T10:34:37.391Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-context",
+          "observedAt": "2026-11-16T10:34:37.391Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@radix-ui/react-context",
+      "semver": "1.1.1-rc.7",
+      "publishedAt": "2024-10-01T20:41:58.758Z",
+      "publisher": "stephenhaney",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 27908,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-context",
+          "observedAt": "2026-11-16T10:34:37.391Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-context",
+          "observedAt": "2026-11-16T10:34:37.391Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-context",
+          "observedAt": "2026-11-16T10:34:37.391Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-context",
+          "observedAt": "2026-11-16T10:34:37.391Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-context",
+          "observedAt": "2026-11-16T10:34:37.391Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-context",
+          "observedAt": "2026-11-16T10:34:37.391Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@radix-ui/react-context",
+      "semver": "1.1.2",
+      "publishedAt": "2025-04-08T16:46:06.410Z",
+      "publisher": "chancestrickland",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 28571,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-context",
+          "observedAt": "2026-11-16T10:34:37.391Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-context",
+          "observedAt": "2026-11-16T10:34:37.391Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-context",
+          "observedAt": "2026-11-16T10:34:37.391Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-context",
+          "observedAt": "2026-11-16T10:34:37.391Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-context",
+          "observedAt": "2026-11-16T10:34:37.391Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-context",
+          "observedAt": "2026-11-16T10:34:37.391Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

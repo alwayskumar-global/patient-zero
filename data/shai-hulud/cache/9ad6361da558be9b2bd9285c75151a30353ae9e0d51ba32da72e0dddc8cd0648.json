@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@ctrl/ngx-rightclick",
+  "source": "https://registry.npmjs.org/%40ctrl%2Fngx-rightclick",
+  "fetchedAt": "2026-11-16T10:31:14.761Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 14
+  },
+  "sourceSha256": "d86640b7756f0447be5815fa99abf5c70c94d4a769037dbf92d971551e897746",
+  "versions": [
+    {
+      "pkg": "@ctrl/ngx-rightclick",
+      "semver": "4.0.0",
+      "publishedAt": "2020-07-13T05:45:59.678Z",
+      "publisher": "scttcper",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 242427,
+      "dependencies": {
+        "tslib": "^2.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fngx-rightclick",
+          "observedAt": "2026-11-16T10:31:14.761Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fngx-rightclick",
+          "observedAt": "2026-11-16T10:31:14.761Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fngx-rightclick",
+          "observedAt": "2026-11-16T10:31:14.761Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fngx-rightclick",
+          "observedAt": "2026-11-16T10:31:14.761Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fngx-rightclick",
+          "observedAt": "2026-11-16T10:31:14.761Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fngx-rightclick",
+          "observedAt": "2026-11-16T10:31:14.761Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@ctrl/ngx-rightclick",
+      "semver": "4.0.1",
+      "publishedAt": "2025-09-15T19:52:43.029Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fngx-rightclick",
+          "observedAt": "2026-11-16T10:31:14.761Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@ctrl/ngx-rightclick",
+      "semver": "4.0.2",
+      "publishedAt": "2025-09-15T20:13:40.039Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fngx-rightclick",
+          "observedAt": "2026-11-16T10:31:14.761Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

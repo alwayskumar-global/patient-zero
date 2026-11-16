@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@babel/plugin-bugfix-v8-spread-parameters-in-optional-chaining",
+  "source": "https://registry.npmjs.org/%40babel%2Fplugin-bugfix-v8-spread-parameters-in-optional-chaining",
+  "fetchedAt": "2026-11-16T10:34:31.693Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 57
+  },
+  "sourceSha256": "3d629720a3463aaff84823ed908602c10930dcf6c32d9d9fa2cecde47042c190",
+  "versions": [
+    {
+      "pkg": "@babel/plugin-bugfix-v8-spread-parameters-in-optional-chaining",
+      "semver": "8.0.0-beta.1",
+      "publishedAt": "2025-07-02T09:04:45.680Z",
+      "publisher": "nicolo-ribaudo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 10428,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "^8.0.0-beta.1",
+        "@babel/plugin-transform-optional-chaining": "^8.0.0-beta.1",
+        "@babel/helper-skip-transparent-expression-wrappers": "^8.0.0-beta.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-bugfix-v8-spread-parameters-in-optional-chaining",
+          "observedAt": "2026-11-16T10:34:31.693Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-bugfix-v8-spread-parameters-in-optional-chaining",
+          "observedAt": "2026-11-16T10:34:31.693Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-bugfix-v8-spread-parameters-in-optional-chaining",
+          "observedAt": "2026-11-16T10:34:31.693Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-bugfix-v8-spread-parameters-in-optional-chaining",
+          "observedAt": "2026-11-16T10:34:31.693Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-bugfix-v8-spread-parameters-in-optional-chaining",
+          "observedAt": "2026-11-16T10:34:31.693Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-bugfix-v8-spread-parameters-in-optional-chaining",
+          "observedAt": "2026-11-16T10:34:31.693Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

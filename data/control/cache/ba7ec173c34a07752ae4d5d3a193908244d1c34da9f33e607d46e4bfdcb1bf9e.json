@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "pkg": "safe-regex",
+  "source": "https://registry.npmjs.org/safe-regex",
+  "fetchedAt": "2026-11-16T10:35:25.402Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 9
+  },
+  "sourceSha256": "b514a26be0c2c734e3056967c736dfe7f58406a2cf19ddef2bdf3712d540b149",
+  "versions": [
+    {
+      "pkg": "safe-regex",
+      "semver": "1.1.0",
+      "publishedAt": "2015-03-19T00:30:21.780Z",
+      "publisher": "substack",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "ret": "~0.1.10"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/safe-regex",
+          "observedAt": "2026-11-16T10:35:25.402Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/safe-regex",
+          "observedAt": "2026-11-16T10:35:25.402Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/safe-regex",
+          "observedAt": "2026-11-16T10:35:25.402Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/safe-regex",
+          "observedAt": "2026-11-16T10:35:25.402Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/safe-regex",
+          "observedAt": "2026-11-16T10:35:25.402Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "safe-regex",
+      "semver": "2.1.1",
+      "publishedAt": "2019-10-21T19:45:01.945Z",
+      "publisher": "davisjam",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 16453,
+      "dependencies": {
+        "regexp-tree": "~0.1.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/safe-regex",
+          "observedAt": "2026-11-16T10:35:25.402Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/safe-regex",
+          "observedAt": "2026-11-16T10:35:25.402Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/safe-regex",
+          "observedAt": "2026-11-16T10:35:25.402Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/safe-regex",
+          "observedAt": "2026-11-16T10:35:25.402Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/safe-regex",
+          "observedAt": "2026-11-16T10:35:25.402Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/safe-regex",
+          "observedAt": "2026-11-16T10:35:25.402Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

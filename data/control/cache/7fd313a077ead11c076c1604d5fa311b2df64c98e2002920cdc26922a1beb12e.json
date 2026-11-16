@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@jest/globals",
+  "source": "https://registry.npmjs.org/%40jest%2Fglobals",
+  "fetchedAt": "2026-11-16T10:34:35.696Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 134
+  },
+  "sourceSha256": "aa424a2776d3a4f89a6a14b0d4eb7f0a59e66673ca2af4b680ab66f8516674c6",
+  "versions": [
+    {
+      "pkg": "@jest/globals",
+      "semver": "30.0.0-alpha.7",
+      "publishedAt": "2025-01-30T08:28:45.378Z",
+      "publisher": "simenb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 5686,
+      "dependencies": {
+        "jest-mock": "30.0.0-alpha.7",
+        "@jest/types": "30.0.0-alpha.7",
+        "@jest/expect": "30.0.0-alpha.7",
+        "@jest/environment": "30.0.0-alpha.7"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40jest%2Fglobals",
+          "observedAt": "2026-11-16T10:34:35.696Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40jest%2Fglobals",
+          "observedAt": "2026-11-16T10:34:35.696Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40jest%2Fglobals",
+          "observedAt": "2026-11-16T10:34:35.696Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40jest%2Fglobals",
+          "observedAt": "2026-11-16T10:34:35.696Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40jest%2Fglobals",
+          "observedAt": "2026-11-16T10:34:35.696Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40jest%2Fglobals",
+          "observedAt": "2026-11-16T10:34:35.696Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@jest/globals",
+      "semver": "30.0.5",
+      "publishedAt": "2025-07-22T02:28:45.258Z",
+      "publisher": "cpojer",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 5656,
+      "dependencies": {
+        "jest-mock": "30.0.5",
+        "@jest/types": "30.0.5",
+        "@jest/expect": "30.0.5",
+        "@jest/environment": "30.0.5"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40jest%2Fglobals",
+          "observedAt": "2026-11-16T10:34:35.696Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40jest%2Fglobals",
+          "observedAt": "2026-11-16T10:34:35.696Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40jest%2Fglobals",
+          "observedAt": "2026-11-16T10:34:35.696Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40jest%2Fglobals",
+          "observedAt": "2026-11-16T10:34:35.696Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40jest%2Fglobals",
+          "observedAt": "2026-11-16T10:34:35.696Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40jest%2Fglobals",
+          "observedAt": "2026-11-16T10:34:35.696Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

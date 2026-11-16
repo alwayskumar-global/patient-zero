@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@ahmedhfarag/ngx-virtual-scroller",
+  "source": "https://registry.npmjs.org/%40ahmedhfarag%2Fngx-virtual-scroller",
+  "fetchedAt": "2026-11-16T10:30:57.280Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 2
+  },
+  "sourceSha256": "d1d390df49733b40233ae8e777a0d2209ea9a0dba272e94826f7de91aebe2889",
+  "versions": [
+    {
+      "pkg": "@ahmedhfarag/ngx-virtual-scroller",
+      "semver": "4.0.3",
+      "publishedAt": "2025-02-06T21:19:57.062Z",
+      "publisher": "ahmedhfarag",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 192677,
+      "dependencies": {
+        "tslib": "^2.3.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40ahmedhfarag%2Fngx-virtual-scroller",
+          "observedAt": "2026-11-16T10:30:57.280Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40ahmedhfarag%2Fngx-virtual-scroller",
+          "observedAt": "2026-11-16T10:30:57.280Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40ahmedhfarag%2Fngx-virtual-scroller",
+          "observedAt": "2026-11-16T10:30:57.280Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40ahmedhfarag%2Fngx-virtual-scroller",
+          "observedAt": "2026-11-16T10:30:57.280Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40ahmedhfarag%2Fngx-virtual-scroller",
+          "observedAt": "2026-11-16T10:30:57.280Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40ahmedhfarag%2Fngx-virtual-scroller",
+          "observedAt": "2026-11-16T10:30:57.280Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@ahmedhfarag/ngx-virtual-scroller",
+      "semver": "4.0.4",
+      "publishedAt": "2025-09-15T08:28:28.605Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40ahmedhfarag%2Fngx-virtual-scroller",
+          "observedAt": "2026-11-16T10:30:57.280Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

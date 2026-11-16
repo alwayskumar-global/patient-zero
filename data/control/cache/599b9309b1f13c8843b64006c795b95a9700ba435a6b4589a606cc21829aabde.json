@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "min-indent",
+  "source": "https://registry.npmjs.org/min-indent",
+  "fetchedAt": "2026-11-16T10:35:13.211Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 2
+  },
+  "sourceSha256": "a5ee240cf973f5938f4fe3b7316d64aeac793e2ce2d9677eabbdde9ed12bae94",
+  "versions": [
+    {
+      "pkg": "min-indent",
+      "semver": "1.0.1",
+      "publishedAt": "2020-05-28T19:20:06.032Z",
+      "publisher": "thejameskyle",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 2969,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/min-indent",
+          "observedAt": "2026-11-16T10:35:13.211Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/min-indent",
+          "observedAt": "2026-11-16T10:35:13.211Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/min-indent",
+          "observedAt": "2026-11-16T10:35:13.211Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/min-indent",
+          "observedAt": "2026-11-16T10:35:13.211Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/min-indent",
+          "observedAt": "2026-11-16T10:35:13.211Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/min-indent",
+          "observedAt": "2026-11-16T10:35:13.211Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

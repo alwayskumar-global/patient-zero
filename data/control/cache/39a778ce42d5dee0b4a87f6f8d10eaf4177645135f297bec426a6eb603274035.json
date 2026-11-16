@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "pkg": "webpack-merge",
+  "source": "https://registry.npmjs.org/webpack-merge",
+  "fetchedAt": "2026-11-16T10:35:34.636Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 91
+  },
+  "sourceSha256": "265171b0a582e48f68f73bc43b5800f0a1c6bb6e9acfa0d966b97f7fe50e2392",
+  "versions": [
+    {
+      "pkg": "webpack-merge",
+      "semver": "6.0.1",
+      "publishedAt": "2024-07-02T07:39:22.644Z",
+      "publisher": "bebraw",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 49496,
+      "dependencies": {
+        "flat": "^5.0.2",
+        "wildcard": "^2.0.1",
+        "clone-deep": "^4.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/webpack-merge",
+          "observedAt": "2026-11-16T10:35:34.636Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/webpack-merge",
+          "observedAt": "2026-11-16T10:35:34.636Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/webpack-merge",
+          "observedAt": "2026-11-16T10:35:34.636Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/webpack-merge",
+          "observedAt": "2026-11-16T10:35:34.636Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/webpack-merge",
+          "observedAt": "2026-11-16T10:35:34.636Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/webpack-merge",
+          "observedAt": "2026-11-16T10:35:34.636Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

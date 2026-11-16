@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "pkg": "arr-diff",
+  "source": "https://registry.npmjs.org/arr-diff",
+  "fetchedAt": "2026-11-16T10:34:55.533Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 11
+  },
+  "sourceSha256": "bcfe216d8814da40957e89c65669542a606f1a0ca6dc9c0e6b43c680d54ce8d6",
+  "versions": [
+    {
+      "pkg": "arr-diff",
+      "semver": "4.0.0",
+      "publishedAt": "2017-04-14T04:11:29.824Z",
+      "publisher": "jonschlinkert",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/arr-diff",
+          "observedAt": "2026-11-16T10:34:55.533Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/arr-diff",
+          "observedAt": "2026-11-16T10:34:55.533Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/arr-diff",
+          "observedAt": "2026-11-16T10:34:55.533Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/arr-diff",
+          "observedAt": "2026-11-16T10:34:55.533Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/arr-diff",
+          "observedAt": "2026-11-16T10:34:55.533Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

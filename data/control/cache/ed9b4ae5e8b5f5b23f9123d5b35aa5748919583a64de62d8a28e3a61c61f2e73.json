@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "strip-json-comments",
+  "source": "https://registry.npmjs.org/strip-json-comments",
+  "fetchedAt": "2026-11-16T10:35:27.707Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 21
+  },
+  "sourceSha256": "9a99a70289ed4110d1e85c578d78e7f5eeaab2cbaf45c98538d633a88717cd2a",
+  "versions": [
+    {
+      "pkg": "strip-json-comments",
+      "semver": "5.0.2",
+      "publishedAt": "2025-05-16T20:47:21.731Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 8153,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/strip-json-comments",
+          "observedAt": "2026-11-16T10:35:27.707Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/strip-json-comments",
+          "observedAt": "2026-11-16T10:35:27.707Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/strip-json-comments",
+          "observedAt": "2026-11-16T10:35:27.707Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/strip-json-comments",
+          "observedAt": "2026-11-16T10:35:27.707Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/strip-json-comments",
+          "observedAt": "2026-11-16T10:35:27.707Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/strip-json-comments",
+          "observedAt": "2026-11-16T10:35:27.707Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

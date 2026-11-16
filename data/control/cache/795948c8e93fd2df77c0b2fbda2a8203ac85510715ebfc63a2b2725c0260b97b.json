@@ -1,0 +1,227 @@
+{
+  "schemaVersion": 1,
+  "pkg": "enhanced-resolve",
+  "source": "https://registry.npmjs.org/enhanced-resolve",
+  "fetchedAt": "2026-11-16T10:35:00.608Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 161
+  },
+  "sourceSha256": "7c36ce5955259b7b0d1edf18d1b66044178418fb9d76059f7c0589a0e3ac01dc",
+  "versions": [
+    {
+      "pkg": "enhanced-resolve",
+      "semver": "0.2.2",
+      "publishedAt": "2012-08-13T15:24:29.055Z",
+      "publisher": null,
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/enhanced-resolve",
+          "observedAt": "2026-11-16T10:35:00.608Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/enhanced-resolve",
+          "observedAt": "2026-11-16T10:35:00.608Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/enhanced-resolve",
+          "observedAt": "2026-11-16T10:35:00.608Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/enhanced-resolve",
+          "observedAt": "2026-11-16T10:35:00.608Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "enhanced-resolve",
+      "semver": "5.12.0",
+      "publishedAt": "2022-11-23T18:22:48.535Z",
+      "publisher": "sokra",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 164886,
+      "dependencies": {
+        "tapable": "^2.2.0",
+        "graceful-fs": "^4.2.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/enhanced-resolve",
+          "observedAt": "2026-11-16T10:35:00.608Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/enhanced-resolve",
+          "observedAt": "2026-11-16T10:35:00.608Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/enhanced-resolve",
+          "observedAt": "2026-11-16T10:35:00.608Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/enhanced-resolve",
+          "observedAt": "2026-11-16T10:35:00.608Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/enhanced-resolve",
+          "observedAt": "2026-11-16T10:35:00.608Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/enhanced-resolve",
+          "observedAt": "2026-11-16T10:35:00.608Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "enhanced-resolve",
+      "semver": "5.15.0",
+      "publishedAt": "2023-06-13T15:16:22.647Z",
+      "publisher": "thelarkinn",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 187232,
+      "dependencies": {
+        "tapable": "^2.2.0",
+        "graceful-fs": "^4.2.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/enhanced-resolve",
+          "observedAt": "2026-11-16T10:35:00.608Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/enhanced-resolve",
+          "observedAt": "2026-11-16T10:35:00.608Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/enhanced-resolve",
+          "observedAt": "2026-11-16T10:35:00.608Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/enhanced-resolve",
+          "observedAt": "2026-11-16T10:35:00.608Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/enhanced-resolve",
+          "observedAt": "2026-11-16T10:35:00.608Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/enhanced-resolve",
+          "observedAt": "2026-11-16T10:35:00.608Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "enhanced-resolve",
+      "semver": "5.18.2",
+      "publishedAt": "2025-06-24T05:31:29.140Z",
+      "publisher": "evilebottnawi",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 222737,
+      "dependencies": {
+        "tapable": "^2.2.0",
+        "graceful-fs": "^4.2.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/enhanced-resolve",
+          "observedAt": "2026-11-16T10:35:00.608Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/enhanced-resolve",
+          "observedAt": "2026-11-16T10:35:00.608Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/enhanced-resolve",
+          "observedAt": "2026-11-16T10:35:00.608Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/enhanced-resolve",
+          "observedAt": "2026-11-16T10:35:00.608Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/enhanced-resolve",
+          "observedAt": "2026-11-16T10:35:00.608Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/enhanced-resolve",
+          "observedAt": "2026-11-16T10:35:00.608Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "enhanced-resolve",
+      "semver": "5.18.3",
+      "publishedAt": "2025-08-06T12:00:56.594Z",
+      "publisher": "evilebottnawi",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 223714,
+      "dependencies": {
+        "tapable": "^2.2.0",
+        "graceful-fs": "^4.2.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/enhanced-resolve",
+          "observedAt": "2026-11-16T10:35:00.608Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/enhanced-resolve",
+          "observedAt": "2026-11-16T10:35:00.608Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/enhanced-resolve",
+          "observedAt": "2026-11-16T10:35:00.608Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/enhanced-resolve",
+          "observedAt": "2026-11-16T10:35:00.608Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/enhanced-resolve",
+          "observedAt": "2026-11-16T10:35:00.608Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/enhanced-resolve",
+          "observedAt": "2026-11-16T10:35:00.608Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

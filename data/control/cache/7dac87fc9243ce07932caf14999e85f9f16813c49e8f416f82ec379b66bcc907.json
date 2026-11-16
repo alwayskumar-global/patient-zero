@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@eslint/js",
+  "source": "https://registry.npmjs.org/%40eslint%2Fjs",
+  "fetchedAt": "2026-11-16T10:34:34.237Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 88
+  },
+  "sourceSha256": "3d7344b316f5f81963892882010213ad3279e6290c70193bdd9e66259efde713",
+  "versions": [
+    {
+      "pkg": "@eslint/js",
+      "semver": "9.32.0",
+      "publishedAt": "2025-07-25T14:30:05.912Z",
+      "publisher": "eslintbot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 14504,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40eslint%2Fjs",
+          "observedAt": "2026-11-16T10:34:34.237Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40eslint%2Fjs",
+          "observedAt": "2026-11-16T10:34:34.237Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40eslint%2Fjs",
+          "observedAt": "2026-11-16T10:34:34.237Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40eslint%2Fjs",
+          "observedAt": "2026-11-16T10:34:34.237Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40eslint%2Fjs",
+          "observedAt": "2026-11-16T10:34:34.237Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40eslint%2Fjs",
+          "observedAt": "2026-11-16T10:34:34.237Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

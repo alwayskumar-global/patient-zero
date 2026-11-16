@@ -1,0 +1,193 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@babel/code-frame",
+  "source": "https://registry.npmjs.org/%40babel%2Fcode-frame",
+  "fetchedAt": "2026-11-16T10:34:30.229Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 101
+  },
+  "sourceSha256": "3f09453906dcdee9d5d6613d1c4f1400c8c07be2c24d8445a808b25ef78d01b0",
+  "versions": [
+    {
+      "pkg": "@babel/code-frame",
+      "semver": "7.0.0",
+      "publishedAt": "2018-08-27T21:42:00.298Z",
+      "publisher": "hzoo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7147,
+      "dependencies": {
+        "@babel/highlight": "^7.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fcode-frame",
+          "observedAt": "2026-11-16T10:34:30.229Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fcode-frame",
+          "observedAt": "2026-11-16T10:34:30.229Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fcode-frame",
+          "observedAt": "2026-11-16T10:34:30.229Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fcode-frame",
+          "observedAt": "2026-11-16T10:34:30.229Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fcode-frame",
+          "observedAt": "2026-11-16T10:34:30.229Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fcode-frame",
+          "observedAt": "2026-11-16T10:34:30.229Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/code-frame",
+      "semver": "7.0.0-beta.49",
+      "publishedAt": "2018-05-25T16:00:37.267Z",
+      "publisher": "loganfsmyth",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 8570,
+      "dependencies": {
+        "@babel/highlight": "7.0.0-beta.49"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fcode-frame",
+          "observedAt": "2026-11-16T10:34:30.229Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fcode-frame",
+          "observedAt": "2026-11-16T10:34:30.229Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fcode-frame",
+          "observedAt": "2026-11-16T10:34:30.229Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fcode-frame",
+          "observedAt": "2026-11-16T10:34:30.229Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fcode-frame",
+          "observedAt": "2026-11-16T10:34:30.229Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fcode-frame",
+          "observedAt": "2026-11-16T10:34:30.229Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/code-frame",
+      "semver": "7.10.4",
+      "publishedAt": "2020-06-30T13:12:14.794Z",
+      "publisher": "jlhwung",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7723,
+      "dependencies": {
+        "@babel/highlight": "^7.10.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fcode-frame",
+          "observedAt": "2026-11-16T10:34:30.229Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fcode-frame",
+          "observedAt": "2026-11-16T10:34:30.229Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fcode-frame",
+          "observedAt": "2026-11-16T10:34:30.229Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fcode-frame",
+          "observedAt": "2026-11-16T10:34:30.229Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fcode-frame",
+          "observedAt": "2026-11-16T10:34:30.229Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fcode-frame",
+          "observedAt": "2026-11-16T10:34:30.229Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/code-frame",
+      "semver": "8.0.0-beta.1",
+      "publishedAt": "2025-07-02T09:03:59.482Z",
+      "publisher": "nicolo-ribaudo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 36507,
+      "dependencies": {
+        "js-tokens": "^8.0.0",
+        "picocolors": "^1.1.1",
+        "@babel/helper-validator-identifier": "^8.0.0-beta.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fcode-frame",
+          "observedAt": "2026-11-16T10:34:30.229Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fcode-frame",
+          "observedAt": "2026-11-16T10:34:30.229Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fcode-frame",
+          "observedAt": "2026-11-16T10:34:30.229Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fcode-frame",
+          "observedAt": "2026-11-16T10:34:30.229Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fcode-frame",
+          "observedAt": "2026-11-16T10:34:30.229Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fcode-frame",
+          "observedAt": "2026-11-16T10:34:30.229Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

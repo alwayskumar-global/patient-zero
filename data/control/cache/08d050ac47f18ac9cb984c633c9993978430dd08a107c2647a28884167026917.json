@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "pkg": "emoji-regex",
+  "source": "https://registry.npmjs.org/emoji-regex",
+  "fetchedAt": "2026-11-16T10:35:00.446Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 38
+  },
+  "sourceSha256": "9714575ffeeb7fab8309aacd3eadde8636620ea20eaa233a6b966c2409ac609c",
+  "versions": [
+    {
+      "pkg": "emoji-regex",
+      "semver": "10.4.0",
+      "publishedAt": "2024-08-26T12:41:07.335Z",
+      "publisher": "google-wombot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 31990,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/emoji-regex",
+          "observedAt": "2026-11-16T10:35:00.446Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/emoji-regex",
+          "observedAt": "2026-11-16T10:35:00.446Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/emoji-regex",
+          "observedAt": "2026-11-16T10:35:00.446Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/emoji-regex",
+          "observedAt": "2026-11-16T10:35:00.446Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/emoji-regex",
+          "observedAt": "2026-11-16T10:35:00.446Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/emoji-regex",
+          "observedAt": "2026-11-16T10:35:00.446Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "emoji-regex",
+      "semver": "9.0.0",
+      "publishedAt": "2020-04-10T09:35:09.769Z",
+      "publisher": "mathias",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 50799,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/emoji-regex",
+          "observedAt": "2026-11-16T10:35:00.446Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/emoji-regex",
+          "observedAt": "2026-11-16T10:35:00.446Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/emoji-regex",
+          "observedAt": "2026-11-16T10:35:00.446Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/emoji-regex",
+          "observedAt": "2026-11-16T10:35:00.446Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/emoji-regex",
+          "observedAt": "2026-11-16T10:35:00.446Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/emoji-regex",
+          "observedAt": "2026-11-16T10:35:00.446Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

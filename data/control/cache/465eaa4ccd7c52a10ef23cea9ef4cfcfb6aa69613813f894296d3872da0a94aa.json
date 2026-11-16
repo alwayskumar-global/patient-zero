@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "pkg": "methods",
+  "source": "https://registry.npmjs.org/methods",
+  "fetchedAt": "2026-11-16T10:35:12.694Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 7
+  },
+  "sourceSha256": "278cc654ccd47ddf3cefbaa6554b06f3265769d79f8d78c1fca418ec49097c62",
+  "versions": [
+    {
+      "pkg": "methods",
+      "semver": "0.0.1",
+      "publishedAt": "2012-06-26T18:35:02.616Z",
+      "publisher": null,
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/methods",
+          "observedAt": "2026-11-16T10:35:12.694Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/methods",
+          "observedAt": "2026-11-16T10:35:12.694Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/methods",
+          "observedAt": "2026-11-16T10:35:12.694Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/methods",
+          "observedAt": "2026-11-16T10:35:12.694Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "methods",
+      "semver": "1.0.1",
+      "publishedAt": "2014-06-02T14:26:09.655Z",
+      "publisher": "tjholowaychuk",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/methods",
+          "observedAt": "2026-11-16T10:35:12.694Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/methods",
+          "observedAt": "2026-11-16T10:35:12.694Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/methods",
+          "observedAt": "2026-11-16T10:35:12.694Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/methods",
+          "observedAt": "2026-11-16T10:35:12.694Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/methods",
+          "observedAt": "2026-11-16T10:35:12.694Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "methods",
+      "semver": "1.1.0",
+      "publishedAt": "2014-07-06T02:45:33.027Z",
+      "publisher": "jongleberry",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/methods",
+          "observedAt": "2026-11-16T10:35:12.694Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/methods",
+          "observedAt": "2026-11-16T10:35:12.694Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/methods",
+          "observedAt": "2026-11-16T10:35:12.694Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/methods",
+          "observedAt": "2026-11-16T10:35:12.694Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/methods",
+          "observedAt": "2026-11-16T10:35:12.694Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "methods",
+      "semver": "1.1.2",
+      "publishedAt": "2016-01-18T02:53:56.364Z",
+      "publisher": "dougwilson",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/methods",
+          "observedAt": "2026-11-16T10:35:12.694Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/methods",
+          "observedAt": "2026-11-16T10:35:12.694Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/methods",
+          "observedAt": "2026-11-16T10:35:12.694Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/methods",
+          "observedAt": "2026-11-16T10:35:12.694Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/methods",
+          "observedAt": "2026-11-16T10:35:12.694Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

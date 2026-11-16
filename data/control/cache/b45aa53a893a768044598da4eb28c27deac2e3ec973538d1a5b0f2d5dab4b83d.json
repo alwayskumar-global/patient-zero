@@ -1,0 +1,204 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@vitest/expect",
+  "source": "https://registry.npmjs.org/%40vitest%2Fexpect",
+  "fetchedAt": "2026-11-16T10:34:54.613Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 214
+  },
+  "sourceSha256": "551d56c6073276fb89a1c007c2e3cc834997ab391f03b5581bb7f00571286cd7",
+  "versions": [
+    {
+      "pkg": "@vitest/expect",
+      "semver": "0.28.2",
+      "publishedAt": "2023-01-25T11:21:03.559Z",
+      "publisher": "antfu",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 53467,
+      "dependencies": {
+        "chai": "^4.3.7",
+        "@vitest/spy": "0.28.2",
+        "@vitest/utils": "0.28.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40vitest%2Fexpect",
+          "observedAt": "2026-11-16T10:34:54.613Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40vitest%2Fexpect",
+          "observedAt": "2026-11-16T10:34:54.613Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40vitest%2Fexpect",
+          "observedAt": "2026-11-16T10:34:54.613Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40vitest%2Fexpect",
+          "observedAt": "2026-11-16T10:34:54.613Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40vitest%2Fexpect",
+          "observedAt": "2026-11-16T10:34:54.613Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40vitest%2Fexpect",
+          "observedAt": "2026-11-16T10:34:54.613Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@vitest/expect",
+      "semver": "3.1.0",
+      "publishedAt": "2025-03-31T10:14:44.355Z",
+      "publisher": "oreanno",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 175143,
+      "dependencies": {
+        "chai": "^5.2.0",
+        "@vitest/spy": "3.1.0",
+        "tinyrainbow": "^2.0.0",
+        "@vitest/utils": "3.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40vitest%2Fexpect",
+          "observedAt": "2026-11-16T10:34:54.613Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40vitest%2Fexpect",
+          "observedAt": "2026-11-16T10:34:54.613Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40vitest%2Fexpect",
+          "observedAt": "2026-11-16T10:34:54.613Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40vitest%2Fexpect",
+          "observedAt": "2026-11-16T10:34:54.613Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40vitest%2Fexpect",
+          "observedAt": "2026-11-16T10:34:54.613Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40vitest%2Fexpect",
+          "observedAt": "2026-11-16T10:34:54.613Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@vitest/expect",
+      "semver": "4.0.0-beta.5",
+      "publishedAt": "2025-07-28T17:45:13.768Z",
+      "publisher": "vitestbot",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 98039,
+      "dependencies": {
+        "chai": "^5.2.1",
+        "@types/chai": "^5.2.2",
+        "@vitest/spy": "4.0.0-beta.5",
+        "tinyrainbow": "^2.0.0",
+        "@vitest/utils": "4.0.0-beta.5"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40vitest%2Fexpect",
+          "observedAt": "2026-11-16T10:34:54.613Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40vitest%2Fexpect",
+          "observedAt": "2026-11-16T10:34:54.613Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40vitest%2Fexpect",
+          "observedAt": "2026-11-16T10:34:54.613Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40vitest%2Fexpect",
+          "observedAt": "2026-11-16T10:34:54.613Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40vitest%2Fexpect",
+          "observedAt": "2026-11-16T10:34:54.613Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40vitest%2Fexpect",
+          "observedAt": "2026-11-16T10:34:54.613Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@vitest/expect",
+      "semver": "4.0.0-beta.6",
+      "publishedAt": "2025-08-04T12:32:38.792Z",
+      "publisher": "vitestbot",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 98065,
+      "dependencies": {
+        "chai": "^5.2.1",
+        "@types/chai": "^5.2.2",
+        "@vitest/spy": "4.0.0-beta.6",
+        "tinyrainbow": "^2.0.0",
+        "@vitest/utils": "4.0.0-beta.6"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40vitest%2Fexpect",
+          "observedAt": "2026-11-16T10:34:54.613Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40vitest%2Fexpect",
+          "observedAt": "2026-11-16T10:34:54.613Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40vitest%2Fexpect",
+          "observedAt": "2026-11-16T10:34:54.613Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40vitest%2Fexpect",
+          "observedAt": "2026-11-16T10:34:54.613Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40vitest%2Fexpect",
+          "observedAt": "2026-11-16T10:34:54.613Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40vitest%2Fexpect",
+          "observedAt": "2026-11-16T10:34:54.613Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

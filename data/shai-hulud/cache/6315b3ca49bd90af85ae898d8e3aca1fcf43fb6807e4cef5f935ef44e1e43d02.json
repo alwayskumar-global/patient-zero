@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@crowdstrike/logscale-file-editor",
+  "source": "https://registry.npmjs.org/%40crowdstrike%2Flogscale-file-editor",
+  "fetchedAt": "2026-11-16T10:31:08.626Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 90
+  },
+  "sourceSha256": "b840bf902e69b055547318dc8a0819c0e37d81fafe7cde6a88e6191f29b2ca90",
+  "versions": [
+    {
+      "pkg": "@crowdstrike/logscale-file-editor",
+      "semver": "1.205.0--build-3999--sha-e220c2c3f6a50aa74f9fc4027eb9fc15c15ae4e3",
+      "publishedAt": "2025-09-10T14:45:26.084Z",
+      "publisher": "crowdstrike-publisher",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 4753333,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40crowdstrike%2Flogscale-file-editor",
+          "observedAt": "2026-11-16T10:31:08.626Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40crowdstrike%2Flogscale-file-editor",
+          "observedAt": "2026-11-16T10:31:08.626Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40crowdstrike%2Flogscale-file-editor",
+          "observedAt": "2026-11-16T10:31:08.626Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40crowdstrike%2Flogscale-file-editor",
+          "observedAt": "2026-11-16T10:31:08.626Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40crowdstrike%2Flogscale-file-editor",
+          "observedAt": "2026-11-16T10:31:08.626Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40crowdstrike%2Flogscale-file-editor",
+          "observedAt": "2026-11-16T10:31:08.626Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@crowdstrike/logscale-file-editor",
+      "semver": "1.205.1",
+      "publishedAt": "2025-09-16T01:14:38.187Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40crowdstrike%2Flogscale-file-editor",
+          "observedAt": "2026-11-16T10:31:08.626Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@crowdstrike/logscale-file-editor",
+      "semver": "1.205.2",
+      "publishedAt": "2025-09-16T01:22:19.288Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40crowdstrike%2Flogscale-file-editor",
+          "observedAt": "2026-11-16T10:31:08.626Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

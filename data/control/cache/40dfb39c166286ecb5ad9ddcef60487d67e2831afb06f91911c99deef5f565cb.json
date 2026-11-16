@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 1,
+  "pkg": "cssstyle",
+  "source": "https://registry.npmjs.org/cssstyle",
+  "fetchedAt": "2026-11-16T10:34:58.955Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 81
+  },
+  "sourceSha256": "287dba1a747349f2dfebf570625b830a59ea6321a46d0f803b41f77e0837d4fc",
+  "versions": [
+    {
+      "pkg": "cssstyle",
+      "semver": "0.2.37",
+      "publishedAt": "2016-08-13T04:47:06.616Z",
+      "publisher": "chad3814",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "cssom": "0.3.x"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/cssstyle",
+          "observedAt": "2026-11-16T10:34:58.955Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/cssstyle",
+          "observedAt": "2026-11-16T10:34:58.955Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/cssstyle",
+          "observedAt": "2026-11-16T10:34:58.955Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/cssstyle",
+          "observedAt": "2026-11-16T10:34:58.955Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/cssstyle",
+          "observedAt": "2026-11-16T10:34:58.955Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "cssstyle",
+      "semver": "0.3.0",
+      "publishedAt": "2018-05-18T19:51:18.353Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/cssstyle",
+          "observedAt": "2026-11-16T10:34:58.955Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "cssstyle",
+      "semver": "2.3.0",
+      "publishedAt": "2020-04-29T14:42:14.460Z",
+      "publisher": "jon.sakas",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 176221,
+      "dependencies": {
+        "cssom": "~0.3.6"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/cssstyle",
+          "observedAt": "2026-11-16T10:34:58.955Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/cssstyle",
+          "observedAt": "2026-11-16T10:34:58.955Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/cssstyle",
+          "observedAt": "2026-11-16T10:34:58.955Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/cssstyle",
+          "observedAt": "2026-11-16T10:34:58.955Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/cssstyle",
+          "observedAt": "2026-11-16T10:34:58.955Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/cssstyle",
+          "observedAt": "2026-11-16T10:34:58.955Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "cssstyle",
+      "semver": "5.2.1",
+      "publishedAt": "2025-07-29T04:12:37.236Z",
+      "publisher": "domenic",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 275699,
+      "dependencies": {
+        "css-tree": "^3.1.0",
+        "@asamuzakjp/css-color": "^4.0.3",
+        "@csstools/css-syntax-patches-for-csstree": "^1.0.14"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/cssstyle",
+          "observedAt": "2026-11-16T10:34:58.955Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/cssstyle",
+          "observedAt": "2026-11-16T10:34:58.955Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/cssstyle",
+          "observedAt": "2026-11-16T10:34:58.955Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/cssstyle",
+          "observedAt": "2026-11-16T10:34:58.955Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/cssstyle",
+          "observedAt": "2026-11-16T10:34:58.955Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/cssstyle",
+          "observedAt": "2026-11-16T10:34:58.955Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

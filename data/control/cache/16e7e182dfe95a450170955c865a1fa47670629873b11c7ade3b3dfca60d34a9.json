@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "is-buffer",
+  "source": "https://registry.npmjs.org/is-buffer",
+  "fetchedAt": "2026-11-16T10:35:05.475Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 16
+  },
+  "sourceSha256": "ab0aa0f2ba01f10ec456d0948a5866d81fcc85558406dd656411b62248d5faff",
+  "versions": [
+    {
+      "pkg": "is-buffer",
+      "semver": "2.0.5",
+      "publishedAt": "2020-11-03T19:19:33.762Z",
+      "publisher": "feross",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 4587,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/is-buffer",
+          "observedAt": "2026-11-16T10:35:05.475Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/is-buffer",
+          "observedAt": "2026-11-16T10:35:05.475Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/is-buffer",
+          "observedAt": "2026-11-16T10:35:05.475Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/is-buffer",
+          "observedAt": "2026-11-16T10:35:05.475Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/is-buffer",
+          "observedAt": "2026-11-16T10:35:05.475Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/is-buffer",
+          "observedAt": "2026-11-16T10:35:05.475Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

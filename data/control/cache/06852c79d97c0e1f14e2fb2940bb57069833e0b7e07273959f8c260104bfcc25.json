@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "loader-runner",
+  "source": "https://registry.npmjs.org/loader-runner",
+  "fetchedAt": "2026-11-16T10:35:09.722Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 16
+  },
+  "sourceSha256": "e5572655bba5c416eb29780794413c8b812b62e82f7c985aef0e12ed47226474",
+  "versions": [
+    {
+      "pkg": "loader-runner",
+      "semver": "4.3.0",
+      "publishedAt": "2022-04-12T09:39:27.730Z",
+      "publisher": "sokra",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 18386,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/loader-runner",
+          "observedAt": "2026-11-16T10:35:09.722Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/loader-runner",
+          "observedAt": "2026-11-16T10:35:09.722Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/loader-runner",
+          "observedAt": "2026-11-16T10:35:09.722Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/loader-runner",
+          "observedAt": "2026-11-16T10:35:09.722Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/loader-runner",
+          "observedAt": "2026-11-16T10:35:09.722Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/loader-runner",
+          "observedAt": "2026-11-16T10:35:09.722Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

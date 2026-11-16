@@ -1,0 +1,162 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@aws-sdk/credential-provider-web-identity",
+  "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-web-identity",
+  "fetchedAt": "2026-11-16T10:34:28.988Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 351
+  },
+  "sourceSha256": "105ad1dc01663a8c51c9511093aa08cf6ce96737dead250cb8973269085408d8",
+  "versions": [
+    {
+      "pkg": "@aws-sdk/credential-provider-web-identity",
+      "semver": "3.858.0",
+      "publishedAt": "2025-07-31T18:56:14.028Z",
+      "publisher": "aws-sdk-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 33129,
+      "dependencies": {
+        "tslib": "^2.6.2",
+        "@aws-sdk/core": "3.858.0",
+        "@smithy/types": "^4.3.1",
+        "@aws-sdk/types": "3.840.0",
+        "@aws-sdk/nested-clients": "3.858.0",
+        "@smithy/property-provider": "^4.0.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-web-identity",
+          "observedAt": "2026-11-16T10:34:28.988Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-web-identity",
+          "observedAt": "2026-11-16T10:34:28.988Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-web-identity",
+          "observedAt": "2026-11-16T10:34:28.988Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-web-identity",
+          "observedAt": "2026-11-16T10:34:28.988Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-web-identity",
+          "observedAt": "2026-11-16T10:34:28.988Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-web-identity",
+          "observedAt": "2026-11-16T10:34:28.988Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@aws-sdk/credential-provider-web-identity",
+      "semver": "3.862.0",
+      "publishedAt": "2025-08-06T19:09:54.101Z",
+      "publisher": "aws-sdk-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 33129,
+      "dependencies": {
+        "tslib": "^2.6.2",
+        "@aws-sdk/core": "3.862.0",
+        "@smithy/types": "^4.3.2",
+        "@aws-sdk/types": "3.862.0",
+        "@aws-sdk/nested-clients": "3.862.0",
+        "@smithy/property-provider": "^4.0.5"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-web-identity",
+          "observedAt": "2026-11-16T10:34:28.988Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-web-identity",
+          "observedAt": "2026-11-16T10:34:28.988Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-web-identity",
+          "observedAt": "2026-11-16T10:34:28.988Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-web-identity",
+          "observedAt": "2026-11-16T10:34:28.988Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-web-identity",
+          "observedAt": "2026-11-16T10:34:28.988Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-web-identity",
+          "observedAt": "2026-11-16T10:34:28.988Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@aws-sdk/credential-provider-web-identity",
+      "semver": "3.863.0",
+      "publishedAt": "2025-08-07T19:09:22.836Z",
+      "publisher": "aws-sdk-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 33129,
+      "dependencies": {
+        "tslib": "^2.6.2",
+        "@aws-sdk/core": "3.863.0",
+        "@smithy/types": "^4.3.2",
+        "@aws-sdk/types": "3.862.0",
+        "@aws-sdk/nested-clients": "3.863.0",
+        "@smithy/property-provider": "^4.0.5"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-web-identity",
+          "observedAt": "2026-11-16T10:34:28.988Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-web-identity",
+          "observedAt": "2026-11-16T10:34:28.988Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-web-identity",
+          "observedAt": "2026-11-16T10:34:28.988Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-web-identity",
+          "observedAt": "2026-11-16T10:34:28.988Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-web-identity",
+          "observedAt": "2026-11-16T10:34:28.988Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fcredential-provider-web-identity",
+          "observedAt": "2026-11-16T10:34:28.988Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

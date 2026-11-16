@@ -1,0 +1,288 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@radix-ui/react-presence",
+  "source": "https://registry.npmjs.org/%40radix-ui%2Freact-presence",
+  "fetchedAt": "2026-11-16T10:34:37.708Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 204
+  },
+  "sourceSha256": "4fdda675d13f961a507e639dc96a69b2fa9b3561c5eef3a29f99f403b11636a4",
+  "versions": [
+    {
+      "pkg": "@radix-ui/react-presence",
+      "semver": "0.0.15",
+      "publishedAt": "2021-08-04T11:07:26.755Z",
+      "publisher": "andy-hook",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 23228,
+      "dependencies": {
+        "@babel/runtime": "^7.13.10",
+        "@radix-ui/react-compose-refs": "0.0.5",
+        "@radix-ui/react-use-layout-effect": "0.0.5"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-presence",
+          "observedAt": "2026-11-16T10:34:37.708Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-presence",
+          "observedAt": "2026-11-16T10:34:37.708Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-presence",
+          "observedAt": "2026-11-16T10:34:37.708Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-presence",
+          "observedAt": "2026-11-16T10:34:37.708Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-presence",
+          "observedAt": "2026-11-16T10:34:37.708Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-presence",
+          "observedAt": "2026-11-16T10:34:37.708Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@radix-ui/react-presence",
+      "semver": "0.1.2",
+      "publishedAt": "2022-02-24T18:06:10.089Z",
+      "publisher": "jjenzz",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 24543,
+      "dependencies": {
+        "@babel/runtime": "^7.13.10",
+        "@radix-ui/react-compose-refs": "0.1.0",
+        "@radix-ui/react-use-layout-effect": "0.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-presence",
+          "observedAt": "2026-11-16T10:34:37.708Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-presence",
+          "observedAt": "2026-11-16T10:34:37.708Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-presence",
+          "observedAt": "2026-11-16T10:34:37.708Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-presence",
+          "observedAt": "2026-11-16T10:34:37.708Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-presence",
+          "observedAt": "2026-11-16T10:34:37.708Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-presence",
+          "observedAt": "2026-11-16T10:34:37.708Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@radix-ui/react-presence",
+      "semver": "1.0.1",
+      "publishedAt": "2023-05-26T11:03:50.153Z",
+      "publisher": "benoitgrelard",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 39314,
+      "dependencies": {
+        "@babel/runtime": "^7.13.10",
+        "@radix-ui/react-compose-refs": "1.0.1",
+        "@radix-ui/react-use-layout-effect": "1.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-presence",
+          "observedAt": "2026-11-16T10:34:37.708Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-presence",
+          "observedAt": "2026-11-16T10:34:37.708Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-presence",
+          "observedAt": "2026-11-16T10:34:37.708Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-presence",
+          "observedAt": "2026-11-16T10:34:37.708Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-presence",
+          "observedAt": "2026-11-16T10:34:37.708Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-presence",
+          "observedAt": "2026-11-16T10:34:37.708Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@radix-ui/react-presence",
+      "semver": "1.1.0",
+      "publishedAt": "2024-06-19T19:58:16.071Z",
+      "publisher": "vladmoroz",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 33203,
+      "dependencies": {
+        "@radix-ui/react-compose-refs": "1.1.0",
+        "@radix-ui/react-use-layout-effect": "1.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-presence",
+          "observedAt": "2026-11-16T10:34:37.708Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-presence",
+          "observedAt": "2026-11-16T10:34:37.708Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-presence",
+          "observedAt": "2026-11-16T10:34:37.708Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-presence",
+          "observedAt": "2026-11-16T10:34:37.708Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-presence",
+          "observedAt": "2026-11-16T10:34:37.708Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-presence",
+          "observedAt": "2026-11-16T10:34:37.708Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@radix-ui/react-presence",
+      "semver": "1.1.2-rc.3",
+      "publishedAt": "2024-12-13T01:32:09.662Z",
+      "publisher": "stephenhaney",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 37128,
+      "dependencies": {
+        "@radix-ui/react-compose-refs": "1.1.1-rc.3",
+        "@radix-ui/react-use-layout-effect": "1.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-presence",
+          "observedAt": "2026-11-16T10:34:37.708Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-presence",
+          "observedAt": "2026-11-16T10:34:37.708Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-presence",
+          "observedAt": "2026-11-16T10:34:37.708Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-presence",
+          "observedAt": "2026-11-16T10:34:37.708Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-presence",
+          "observedAt": "2026-11-16T10:34:37.708Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-presence",
+          "observedAt": "2026-11-16T10:34:37.708Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@radix-ui/react-presence",
+      "semver": "1.1.4",
+      "publishedAt": "2025-04-22T16:38:34.930Z",
+      "publisher": "chancestrickland",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 38595,
+      "dependencies": {
+        "@radix-ui/react-compose-refs": "1.1.2",
+        "@radix-ui/react-use-layout-effect": "1.1.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-presence",
+          "observedAt": "2026-11-16T10:34:37.708Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-presence",
+          "observedAt": "2026-11-16T10:34:37.708Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-presence",
+          "observedAt": "2026-11-16T10:34:37.708Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-presence",
+          "observedAt": "2026-11-16T10:34:37.708Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-presence",
+          "observedAt": "2026-11-16T10:34:37.708Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-presence",
+          "observedAt": "2026-11-16T10:34:37.708Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

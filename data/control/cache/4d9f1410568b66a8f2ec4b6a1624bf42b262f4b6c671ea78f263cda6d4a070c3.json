@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "is-unicode-supported",
+  "source": "https://registry.npmjs.org/is-unicode-supported",
+  "fetchedAt": "2026-11-16T10:35:06.994Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 7
+  },
+  "sourceSha256": "a995a729e261e4b2c2b6aaee402edda5ee97f140538434d9b13617e463f50c7c",
+  "versions": [
+    {
+      "pkg": "is-unicode-supported",
+      "semver": "2.1.0",
+      "publishedAt": "2024-09-09T06:26:03.073Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 3958,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/is-unicode-supported",
+          "observedAt": "2026-11-16T10:35:06.994Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/is-unicode-supported",
+          "observedAt": "2026-11-16T10:35:06.994Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/is-unicode-supported",
+          "observedAt": "2026-11-16T10:35:06.994Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/is-unicode-supported",
+          "observedAt": "2026-11-16T10:35:06.994Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/is-unicode-supported",
+          "observedAt": "2026-11-16T10:35:06.994Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/is-unicode-supported",
+          "observedAt": "2026-11-16T10:35:06.994Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

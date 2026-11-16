@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@smithy/util-base64",
+  "source": "https://registry.npmjs.org/%40smithy%2Futil-base64",
+  "fetchedAt": "2026-11-16T10:34:41.189Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 46
+  },
+  "sourceSha256": "c83a9c802dc8decdd6806384aff1fbd431ecf06c1908dff190ea4be617a34109",
+  "versions": [
+    {
+      "pkg": "@smithy/util-base64",
+      "semver": "4.0.0",
+      "publishedAt": "2025-01-06T17:39:21.862Z",
+      "publisher": "smithy-team",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 29188,
+      "dependencies": {
+        "tslib": "^2.6.2",
+        "@smithy/util-utf8": "^4.0.0",
+        "@smithy/util-buffer-from": "^4.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40smithy%2Futil-base64",
+          "observedAt": "2026-11-16T10:34:41.189Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40smithy%2Futil-base64",
+          "observedAt": "2026-11-16T10:34:41.189Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40smithy%2Futil-base64",
+          "observedAt": "2026-11-16T10:34:41.189Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40smithy%2Futil-base64",
+          "observedAt": "2026-11-16T10:34:41.189Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40smithy%2Futil-base64",
+          "observedAt": "2026-11-16T10:34:41.189Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40smithy%2Futil-base64",
+          "observedAt": "2026-11-16T10:34:41.189Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

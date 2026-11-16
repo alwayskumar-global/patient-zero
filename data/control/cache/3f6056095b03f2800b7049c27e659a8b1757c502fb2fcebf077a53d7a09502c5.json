@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "word-wrap",
+  "source": "https://registry.npmjs.org/word-wrap",
+  "fetchedAt": "2026-11-16T10:35:34.986Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 17
+  },
+  "sourceSha256": "f1326a40a2c5b337a742c90353dd2e6ac96bc26de469b48f9a507751682d0f53",
+  "versions": [
+    {
+      "pkg": "word-wrap",
+      "semver": "1.2.5",
+      "publishedAt": "2023-07-22T14:37:38.795Z",
+      "publisher": "jonschlinkert",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 11845,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/word-wrap",
+          "observedAt": "2026-11-16T10:35:34.986Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/word-wrap",
+          "observedAt": "2026-11-16T10:35:34.986Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/word-wrap",
+          "observedAt": "2026-11-16T10:35:34.986Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/word-wrap",
+          "observedAt": "2026-11-16T10:35:34.986Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/word-wrap",
+          "observedAt": "2026-11-16T10:35:34.986Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/word-wrap",
+          "observedAt": "2026-11-16T10:35:34.986Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

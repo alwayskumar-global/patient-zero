@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@radix-ui/react-use-escape-keydown",
+  "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-escape-keydown",
+  "fetchedAt": "2026-11-16T10:34:37.867Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 127
+  },
+  "sourceSha256": "98d225417828c978551abdf4fcca5f82b0018ce1f43b0689b7a7d790fe58d8ec",
+  "versions": [
+    {
+      "pkg": "@radix-ui/react-use-escape-keydown",
+      "semver": "0.0.5",
+      "publishedAt": "2021-03-24T17:51:00.322Z",
+      "publisher": "jjenzz",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 6069,
+      "dependencies": {
+        "@babel/runtime": "^7.13.10",
+        "@radix-ui/react-use-callback-ref": "0.0.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-escape-keydown",
+          "observedAt": "2026-11-16T10:34:37.867Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-escape-keydown",
+          "observedAt": "2026-11-16T10:34:37.867Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-escape-keydown",
+          "observedAt": "2026-11-16T10:34:37.867Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-escape-keydown",
+          "observedAt": "2026-11-16T10:34:37.867Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-escape-keydown",
+          "observedAt": "2026-11-16T10:34:37.867Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-escape-keydown",
+          "observedAt": "2026-11-16T10:34:37.867Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@radix-ui/react-use-escape-keydown",
+      "semver": "1.0.3",
+      "publishedAt": "2023-05-26T11:04:02.194Z",
+      "publisher": "benoitgrelard",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7768,
+      "dependencies": {
+        "@babel/runtime": "^7.13.10",
+        "@radix-ui/react-use-callback-ref": "1.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-escape-keydown",
+          "observedAt": "2026-11-16T10:34:37.867Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-escape-keydown",
+          "observedAt": "2026-11-16T10:34:37.867Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-escape-keydown",
+          "observedAt": "2026-11-16T10:34:37.867Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-escape-keydown",
+          "observedAt": "2026-11-16T10:34:37.867Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-escape-keydown",
+          "observedAt": "2026-11-16T10:34:37.867Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-escape-keydown",
+          "observedAt": "2026-11-16T10:34:37.867Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@radix-ui/react-use-escape-keydown",
+      "semver": "1.1.0",
+      "publishedAt": "2024-06-19T19:58:48.279Z",
+      "publisher": "vladmoroz",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7528,
+      "dependencies": {
+        "@radix-ui/react-use-callback-ref": "1.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-escape-keydown",
+          "observedAt": "2026-11-16T10:34:37.867Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-escape-keydown",
+          "observedAt": "2026-11-16T10:34:37.867Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-escape-keydown",
+          "observedAt": "2026-11-16T10:34:37.867Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-escape-keydown",
+          "observedAt": "2026-11-16T10:34:37.867Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-escape-keydown",
+          "observedAt": "2026-11-16T10:34:37.867Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-escape-keydown",
+          "observedAt": "2026-11-16T10:34:37.867Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@radix-ui/react-use-escape-keydown",
+      "semver": "1.1.0-rc.7",
+      "publishedAt": "2024-06-19T19:54:57.549Z",
+      "publisher": "stephenhaney",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7566,
+      "dependencies": {
+        "@radix-ui/react-use-callback-ref": "1.1.0-rc.7"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-escape-keydown",
+          "observedAt": "2026-11-16T10:34:37.867Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-escape-keydown",
+          "observedAt": "2026-11-16T10:34:37.867Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-escape-keydown",
+          "observedAt": "2026-11-16T10:34:37.867Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-escape-keydown",
+          "observedAt": "2026-11-16T10:34:37.867Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-escape-keydown",
+          "observedAt": "2026-11-16T10:34:37.867Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-escape-keydown",
+          "observedAt": "2026-11-16T10:34:37.867Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@radix-ui/react-use-escape-keydown",
+      "semver": "1.1.1",
+      "publishedAt": "2025-04-08T16:46:19.885Z",
+      "publisher": "chancestrickland",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 8252,
+      "dependencies": {
+        "@radix-ui/react-use-callback-ref": "1.1.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-escape-keydown",
+          "observedAt": "2026-11-16T10:34:37.867Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-escape-keydown",
+          "observedAt": "2026-11-16T10:34:37.867Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-escape-keydown",
+          "observedAt": "2026-11-16T10:34:37.867Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-escape-keydown",
+          "observedAt": "2026-11-16T10:34:37.867Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-escape-keydown",
+          "observedAt": "2026-11-16T10:34:37.867Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-use-escape-keydown",
+          "observedAt": "2026-11-16T10:34:37.867Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

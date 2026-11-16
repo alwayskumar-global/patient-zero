@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "pkg": "tbssnch",
+  "source": "https://registry.npmjs.org/tbssnch",
+  "fetchedAt": "2026-11-16T10:32:28.926Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 3
+  },
+  "sourceSha256": "0667e1fa2c062b49fbe5bf3cc46a63c648eb21f98eeae4ce96c716dffd9a6367",
+  "versions": [
+    {
+      "pkg": "tbssnch",
+      "semver": "1.0.1",
+      "publishedAt": "2025-07-15T21:36:20.409Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/tbssnch",
+          "observedAt": "2026-11-16T10:32:28.926Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "tbssnch",
+      "semver": "1.0.2",
+      "publishedAt": "2025-09-15T22:44:44.085Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/tbssnch",
+          "observedAt": "2026-11-16T10:32:28.926Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

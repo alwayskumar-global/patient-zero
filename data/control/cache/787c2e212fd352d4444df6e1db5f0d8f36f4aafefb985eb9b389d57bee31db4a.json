@@ -1,0 +1,202 @@
+{
+  "schemaVersion": 1,
+  "pkg": "events",
+  "source": "https://registry.npmjs.org/events",
+  "fetchedAt": "2026-11-16T10:35:01.679Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 17
+  },
+  "sourceSha256": "236dd28eed027b2dd4407c746731b3beaaa2ec2ca5c82a2e4086d7fa2209ce26",
+  "versions": [
+    {
+      "pkg": "events",
+      "semver": "0.4.0",
+      "publishedAt": "2011-07-08T17:25:49.385Z",
+      "publisher": null,
+      "hasInstallScript": true,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "graphquire": ">=0.8.0"
+      },
+      "evidence": {
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/events",
+          "observedAt": "2026-11-16T10:35:01.679Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/events",
+          "observedAt": "2026-11-16T10:35:01.679Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/events",
+          "observedAt": "2026-11-16T10:35:01.679Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/events",
+          "observedAt": "2026-11-16T10:35:01.679Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "events",
+      "semver": "0.5.0",
+      "publishedAt": "2012-04-10T01:16:59.151Z",
+      "publisher": "gozala",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/events",
+          "observedAt": "2026-11-16T10:35:01.679Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/events",
+          "observedAt": "2026-11-16T10:35:01.679Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/events",
+          "observedAt": "2026-11-16T10:35:01.679Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/events",
+          "observedAt": "2026-11-16T10:35:01.679Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/events",
+          "observedAt": "2026-11-16T10:35:01.679Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "events",
+      "semver": "1.0.2",
+      "publishedAt": "2014-08-29T04:03:51.811Z",
+      "publisher": "shtylman",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/events",
+          "observedAt": "2026-11-16T10:35:01.679Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/events",
+          "observedAt": "2026-11-16T10:35:01.679Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/events",
+          "observedAt": "2026-11-16T10:35:01.679Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/events",
+          "observedAt": "2026-11-16T10:35:01.679Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/events",
+          "observedAt": "2026-11-16T10:35:01.679Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "events",
+      "semver": "1.1.1",
+      "publishedAt": "2016-06-22T16:09:20.359Z",
+      "publisher": "defunctzombie",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/events",
+          "observedAt": "2026-11-16T10:35:01.679Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/events",
+          "observedAt": "2026-11-16T10:35:01.679Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/events",
+          "observedAt": "2026-11-16T10:35:01.679Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/events",
+          "observedAt": "2026-11-16T10:35:01.679Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/events",
+          "observedAt": "2026-11-16T10:35:01.679Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "events",
+      "semver": "3.3.0",
+      "publishedAt": "2021-02-27T16:51:27.318Z",
+      "publisher": "goto-bus-stop",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 82778,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/events",
+          "observedAt": "2026-11-16T10:35:01.679Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/events",
+          "observedAt": "2026-11-16T10:35:01.679Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/events",
+          "observedAt": "2026-11-16T10:35:01.679Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/events",
+          "observedAt": "2026-11-16T10:35:01.679Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/events",
+          "observedAt": "2026-11-16T10:35:01.679Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/events",
+          "observedAt": "2026-11-16T10:35:01.679Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

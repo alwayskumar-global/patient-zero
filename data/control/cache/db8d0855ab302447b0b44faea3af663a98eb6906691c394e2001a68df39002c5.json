@@ -1,0 +1,425 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@aws-sdk/client-sso-oidc",
+  "source": "https://registry.npmjs.org/%40aws-sdk%2Fclient-sso-oidc",
+  "fetchedAt": "2026-11-16T10:34:28.548Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 710
+  },
+  "sourceSha256": "beaa1af46b41f97e0266df2b238c024a5d75740507a176936d93655afcb3a82e",
+  "versions": [
+    {
+      "pkg": "@aws-sdk/client-sso-oidc",
+      "semver": "3.857.0",
+      "publishedAt": "2025-07-30T19:13:03.481Z",
+      "publisher": "aws-sdk-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 294618,
+      "dependencies": {
+        "tslib": "^2.6.2",
+        "@smithy/core": "^3.7.2",
+        "@aws-sdk/core": "3.857.0",
+        "@smithy/types": "^4.3.1",
+        "@aws-sdk/types": "3.840.0",
+        "@smithy/hash-node": "^4.0.4",
+        "@smithy/util-utf8": "^4.0.0",
+        "@smithy/url-parser": "^4.0.4",
+        "@smithy/util-retry": "^4.0.6",
+        "@smithy/util-base64": "^4.0.0",
+        "@aws-crypto/sha256-js": "5.2.0",
+        "@smithy/protocol-http": "^5.1.2",
+        "@smithy/smithy-client": "^4.4.9",
+        "@smithy/util-endpoints": "^3.0.6",
+        "@aws-sdk/util-endpoints": "3.848.0",
+        "@smithy/config-resolver": "^4.1.4",
+        "@smithy/util-middleware": "^4.0.4",
+        "@smithy/middleware-retry": "^4.1.18",
+        "@smithy/middleware-serde": "^4.0.8",
+        "@smithy/middleware-stack": "^4.0.4",
+        "@smithy/node-http-handler": "^4.1.0",
+        "@aws-crypto/sha256-browser": "5.2.0",
+        "@aws-sdk/middleware-logger": "3.840.0",
+        "@smithy/fetch-http-handler": "^5.1.0",
+        "@smithy/invalid-dependency": "^4.0.4",
+        "@smithy/middleware-endpoint": "^4.1.17",
+        "@smithy/node-config-provider": "^4.1.3",
+        "@aws-sdk/util-user-agent-node": "3.857.0",
+        "@smithy/util-body-length-node": "^4.0.0",
+        "@aws-sdk/middleware-user-agent": "3.857.0",
+        "@aws-sdk/middleware-host-header": "3.840.0",
+        "@aws-sdk/region-config-resolver": "3.840.0",
+        "@smithy/util-defaults-mode-node": "^4.0.25",
+        "@aws-sdk/util-user-agent-browser": "3.840.0",
+        "@smithy/util-body-length-browser": "^4.0.0",
+        "@aws-sdk/credential-provider-node": "3.857.0",
+        "@smithy/middleware-content-length": "^4.0.4",
+        "@smithy/util-defaults-mode-browser": "^4.0.25",
+        "@aws-sdk/middleware-recursion-detection": "3.840.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fclient-sso-oidc",
+          "observedAt": "2026-11-16T10:34:28.548Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fclient-sso-oidc",
+          "observedAt": "2026-11-16T10:34:28.548Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fclient-sso-oidc",
+          "observedAt": "2026-11-16T10:34:28.548Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fclient-sso-oidc",
+          "observedAt": "2026-11-16T10:34:28.548Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fclient-sso-oidc",
+          "observedAt": "2026-11-16T10:34:28.548Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fclient-sso-oidc",
+          "observedAt": "2026-11-16T10:34:28.548Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@aws-sdk/client-sso-oidc",
+      "semver": "3.858.0",
+      "publishedAt": "2025-07-31T19:04:00.953Z",
+      "publisher": "aws-sdk-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 294618,
+      "dependencies": {
+        "tslib": "^2.6.2",
+        "@smithy/core": "^3.7.2",
+        "@aws-sdk/core": "3.858.0",
+        "@smithy/types": "^4.3.1",
+        "@aws-sdk/types": "3.840.0",
+        "@smithy/hash-node": "^4.0.4",
+        "@smithy/util-utf8": "^4.0.0",
+        "@smithy/url-parser": "^4.0.4",
+        "@smithy/util-retry": "^4.0.6",
+        "@smithy/util-base64": "^4.0.0",
+        "@aws-crypto/sha256-js": "5.2.0",
+        "@smithy/protocol-http": "^5.1.2",
+        "@smithy/smithy-client": "^4.4.9",
+        "@smithy/util-endpoints": "^3.0.6",
+        "@aws-sdk/util-endpoints": "3.848.0",
+        "@smithy/config-resolver": "^4.1.4",
+        "@smithy/util-middleware": "^4.0.4",
+        "@smithy/middleware-retry": "^4.1.18",
+        "@smithy/middleware-serde": "^4.0.8",
+        "@smithy/middleware-stack": "^4.0.4",
+        "@smithy/node-http-handler": "^4.1.0",
+        "@aws-crypto/sha256-browser": "5.2.0",
+        "@aws-sdk/middleware-logger": "3.840.0",
+        "@smithy/fetch-http-handler": "^5.1.0",
+        "@smithy/invalid-dependency": "^4.0.4",
+        "@smithy/middleware-endpoint": "^4.1.17",
+        "@smithy/node-config-provider": "^4.1.3",
+        "@aws-sdk/util-user-agent-node": "3.858.0",
+        "@smithy/util-body-length-node": "^4.0.0",
+        "@aws-sdk/middleware-user-agent": "3.858.0",
+        "@aws-sdk/middleware-host-header": "3.840.0",
+        "@aws-sdk/region-config-resolver": "3.840.0",
+        "@smithy/util-defaults-mode-node": "^4.0.25",
+        "@aws-sdk/util-user-agent-browser": "3.840.0",
+        "@smithy/util-body-length-browser": "^4.0.0",
+        "@aws-sdk/credential-provider-node": "3.858.0",
+        "@smithy/middleware-content-length": "^4.0.4",
+        "@smithy/util-defaults-mode-browser": "^4.0.25",
+        "@aws-sdk/middleware-recursion-detection": "3.840.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fclient-sso-oidc",
+          "observedAt": "2026-11-16T10:34:28.548Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fclient-sso-oidc",
+          "observedAt": "2026-11-16T10:34:28.548Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fclient-sso-oidc",
+          "observedAt": "2026-11-16T10:34:28.548Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fclient-sso-oidc",
+          "observedAt": "2026-11-16T10:34:28.548Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fclient-sso-oidc",
+          "observedAt": "2026-11-16T10:34:28.548Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fclient-sso-oidc",
+          "observedAt": "2026-11-16T10:34:28.548Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@aws-sdk/client-sso-oidc",
+      "semver": "3.859.0",
+      "publishedAt": "2025-08-01T19:02:18.237Z",
+      "publisher": "aws-sdk-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 294618,
+      "dependencies": {
+        "tslib": "^2.6.2",
+        "@smithy/core": "^3.7.2",
+        "@aws-sdk/core": "3.858.0",
+        "@smithy/types": "^4.3.1",
+        "@aws-sdk/types": "3.840.0",
+        "@smithy/hash-node": "^4.0.4",
+        "@smithy/util-utf8": "^4.0.0",
+        "@smithy/url-parser": "^4.0.4",
+        "@smithy/util-retry": "^4.0.6",
+        "@smithy/util-base64": "^4.0.0",
+        "@aws-crypto/sha256-js": "5.2.0",
+        "@smithy/protocol-http": "^5.1.2",
+        "@smithy/smithy-client": "^4.4.9",
+        "@smithy/util-endpoints": "^3.0.6",
+        "@aws-sdk/util-endpoints": "3.848.0",
+        "@smithy/config-resolver": "^4.1.4",
+        "@smithy/util-middleware": "^4.0.4",
+        "@smithy/middleware-retry": "^4.1.18",
+        "@smithy/middleware-serde": "^4.0.8",
+        "@smithy/middleware-stack": "^4.0.4",
+        "@smithy/node-http-handler": "^4.1.0",
+        "@aws-crypto/sha256-browser": "5.2.0",
+        "@aws-sdk/middleware-logger": "3.840.0",
+        "@smithy/fetch-http-handler": "^5.1.0",
+        "@smithy/invalid-dependency": "^4.0.4",
+        "@smithy/middleware-endpoint": "^4.1.17",
+        "@smithy/node-config-provider": "^4.1.3",
+        "@aws-sdk/util-user-agent-node": "3.858.0",
+        "@smithy/util-body-length-node": "^4.0.0",
+        "@aws-sdk/middleware-user-agent": "3.858.0",
+        "@aws-sdk/middleware-host-header": "3.840.0",
+        "@aws-sdk/region-config-resolver": "3.840.0",
+        "@smithy/util-defaults-mode-node": "^4.0.25",
+        "@aws-sdk/util-user-agent-browser": "3.840.0",
+        "@smithy/util-body-length-browser": "^4.0.0",
+        "@aws-sdk/credential-provider-node": "3.859.0",
+        "@smithy/middleware-content-length": "^4.0.4",
+        "@smithy/util-defaults-mode-browser": "^4.0.25",
+        "@aws-sdk/middleware-recursion-detection": "3.840.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fclient-sso-oidc",
+          "observedAt": "2026-11-16T10:34:28.548Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fclient-sso-oidc",
+          "observedAt": "2026-11-16T10:34:28.548Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fclient-sso-oidc",
+          "observedAt": "2026-11-16T10:34:28.548Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fclient-sso-oidc",
+          "observedAt": "2026-11-16T10:34:28.548Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fclient-sso-oidc",
+          "observedAt": "2026-11-16T10:34:28.548Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fclient-sso-oidc",
+          "observedAt": "2026-11-16T10:34:28.548Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@aws-sdk/client-sso-oidc",
+      "semver": "3.862.0",
+      "publishedAt": "2025-08-06T19:17:53.823Z",
+      "publisher": "aws-sdk-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 294619,
+      "dependencies": {
+        "tslib": "^2.6.2",
+        "@smithy/core": "^3.8.0",
+        "@aws-sdk/core": "3.862.0",
+        "@smithy/types": "^4.3.2",
+        "@aws-sdk/types": "3.862.0",
+        "@smithy/hash-node": "^4.0.5",
+        "@smithy/util-utf8": "^4.0.0",
+        "@smithy/url-parser": "^4.0.5",
+        "@smithy/util-retry": "^4.0.7",
+        "@smithy/util-base64": "^4.0.0",
+        "@aws-crypto/sha256-js": "5.2.0",
+        "@smithy/protocol-http": "^5.1.3",
+        "@smithy/smithy-client": "^4.4.10",
+        "@smithy/util-endpoints": "^3.0.7",
+        "@aws-sdk/util-endpoints": "3.862.0",
+        "@smithy/config-resolver": "^4.1.5",
+        "@smithy/util-middleware": "^4.0.5",
+        "@smithy/middleware-retry": "^4.1.19",
+        "@smithy/middleware-serde": "^4.0.9",
+        "@smithy/middleware-stack": "^4.0.5",
+        "@smithy/node-http-handler": "^4.1.1",
+        "@aws-crypto/sha256-browser": "5.2.0",
+        "@aws-sdk/middleware-logger": "3.862.0",
+        "@smithy/fetch-http-handler": "^5.1.1",
+        "@smithy/invalid-dependency": "^4.0.5",
+        "@smithy/middleware-endpoint": "^4.1.18",
+        "@smithy/node-config-provider": "^4.1.4",
+        "@aws-sdk/util-user-agent-node": "3.862.0",
+        "@smithy/util-body-length-node": "^4.0.0",
+        "@aws-sdk/middleware-user-agent": "3.862.0",
+        "@aws-sdk/middleware-host-header": "3.862.0",
+        "@aws-sdk/region-config-resolver": "3.862.0",
+        "@smithy/util-defaults-mode-node": "^4.0.26",
+        "@aws-sdk/util-user-agent-browser": "3.862.0",
+        "@smithy/util-body-length-browser": "^4.0.0",
+        "@aws-sdk/credential-provider-node": "3.862.0",
+        "@smithy/middleware-content-length": "^4.0.5",
+        "@smithy/util-defaults-mode-browser": "^4.0.26",
+        "@aws-sdk/middleware-recursion-detection": "3.862.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fclient-sso-oidc",
+          "observedAt": "2026-11-16T10:34:28.548Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fclient-sso-oidc",
+          "observedAt": "2026-11-16T10:34:28.548Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fclient-sso-oidc",
+          "observedAt": "2026-11-16T10:34:28.548Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fclient-sso-oidc",
+          "observedAt": "2026-11-16T10:34:28.548Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fclient-sso-oidc",
+          "observedAt": "2026-11-16T10:34:28.548Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fclient-sso-oidc",
+          "observedAt": "2026-11-16T10:34:28.548Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@aws-sdk/client-sso-oidc",
+      "semver": "3.863.0",
+      "publishedAt": "2025-08-07T19:17:57.458Z",
+      "publisher": "aws-sdk-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 294619,
+      "dependencies": {
+        "tslib": "^2.6.2",
+        "@smithy/core": "^3.8.0",
+        "@aws-sdk/core": "3.863.0",
+        "@smithy/types": "^4.3.2",
+        "@aws-sdk/types": "3.862.0",
+        "@smithy/hash-node": "^4.0.5",
+        "@smithy/util-utf8": "^4.0.0",
+        "@smithy/url-parser": "^4.0.5",
+        "@smithy/util-retry": "^4.0.7",
+        "@smithy/util-base64": "^4.0.0",
+        "@aws-crypto/sha256-js": "5.2.0",
+        "@smithy/protocol-http": "^5.1.3",
+        "@smithy/smithy-client": "^4.4.10",
+        "@smithy/util-endpoints": "^3.0.7",
+        "@aws-sdk/util-endpoints": "3.862.0",
+        "@smithy/config-resolver": "^4.1.5",
+        "@smithy/util-middleware": "^4.0.5",
+        "@smithy/middleware-retry": "^4.1.19",
+        "@smithy/middleware-serde": "^4.0.9",
+        "@smithy/middleware-stack": "^4.0.5",
+        "@smithy/node-http-handler": "^4.1.1",
+        "@aws-crypto/sha256-browser": "5.2.0",
+        "@aws-sdk/middleware-logger": "3.862.0",
+        "@smithy/fetch-http-handler": "^5.1.1",
+        "@smithy/invalid-dependency": "^4.0.5",
+        "@smithy/middleware-endpoint": "^4.1.18",
+        "@smithy/node-config-provider": "^4.1.4",
+        "@aws-sdk/util-user-agent-node": "3.863.0",
+        "@smithy/util-body-length-node": "^4.0.0",
+        "@aws-sdk/middleware-user-agent": "3.863.0",
+        "@aws-sdk/middleware-host-header": "3.862.0",
+        "@aws-sdk/region-config-resolver": "3.862.0",
+        "@smithy/util-defaults-mode-node": "^4.0.26",
+        "@aws-sdk/util-user-agent-browser": "3.862.0",
+        "@smithy/util-body-length-browser": "^4.0.0",
+        "@aws-sdk/credential-provider-node": "3.863.0",
+        "@smithy/middleware-content-length": "^4.0.5",
+        "@smithy/util-defaults-mode-browser": "^4.0.26",
+        "@aws-sdk/middleware-recursion-detection": "3.862.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fclient-sso-oidc",
+          "observedAt": "2026-11-16T10:34:28.548Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fclient-sso-oidc",
+          "observedAt": "2026-11-16T10:34:28.548Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fclient-sso-oidc",
+          "observedAt": "2026-11-16T10:34:28.548Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fclient-sso-oidc",
+          "observedAt": "2026-11-16T10:34:28.548Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fclient-sso-oidc",
+          "observedAt": "2026-11-16T10:34:28.548Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Fclient-sso-oidc",
+          "observedAt": "2026-11-16T10:34:28.548Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,417 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@operato/data-grist",
+  "source": "https://registry.npmjs.org/%40operato%2Fdata-grist",
+  "fetchedAt": "2026-11-16T10:31:46.569Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 888
+  },
+  "sourceSha256": "0ce7f4dca4e2a9806ac118378a4bea61995ab515f7091f788815ec3d90a97e2e",
+  "versions": [
+    {
+      "pkg": "@operato/data-grist",
+      "semver": "1.4.24",
+      "publishedAt": "2023-08-09T02:35:14.505Z",
+      "publisher": "woo_ram",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 1538141,
+      "dependencies": {
+        "lit": "^2.5.0",
+        "json5": "^2.2.0",
+        "i18next": "^21.5.4",
+        "lodash-es": "^4.17.21",
+        "@operato/input": "^1.4.23",
+        "@operato/popup": "^1.4.23",
+        "@operato/utils": "^1.4.23",
+        "@operato/styles": "^1.4.11",
+        "@operato/headroom": "^1.4.5",
+        "@material/mwc-icon": "^0.27.0",
+        "@operato/pull-to-refresh": "^1.4.5"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40operato%2Fdata-grist",
+          "observedAt": "2026-11-16T10:31:46.569Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40operato%2Fdata-grist",
+          "observedAt": "2026-11-16T10:31:46.569Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40operato%2Fdata-grist",
+          "observedAt": "2026-11-16T10:31:46.569Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40operato%2Fdata-grist",
+          "observedAt": "2026-11-16T10:31:46.569Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40operato%2Fdata-grist",
+          "observedAt": "2026-11-16T10:31:46.569Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fdata-grist",
+          "observedAt": "2026-11-16T10:31:46.569Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/data-grist",
+      "semver": "9.0.26",
+      "publishedAt": "2025-08-29T08:41:00.858Z",
+      "publisher": "nalshya113",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 2456698,
+      "dependencies": {
+        "lit": "^3.1.2",
+        "json5": "^2.2.0",
+        "i18next": "^24.2.1",
+        "lodash-es": "^4.17.21",
+        "@material/web": "^2.0.0",
+        "@operato/p13n": "^9.0.21",
+        "@operato/input": "^9.0.26",
+        "@operato/popup": "^9.0.21",
+        "@operato/utils": "^9.0.21",
+        "@operato/styles": "^9.0.1",
+        "@operato/headroom": "^9.0.1",
+        "@operato/pull-to-refresh": "^9.0.1",
+        "@operato/time-calculator": "^9.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40operato%2Fdata-grist",
+          "observedAt": "2026-11-16T10:31:46.569Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40operato%2Fdata-grist",
+          "observedAt": "2026-11-16T10:31:46.569Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40operato%2Fdata-grist",
+          "observedAt": "2026-11-16T10:31:46.569Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40operato%2Fdata-grist",
+          "observedAt": "2026-11-16T10:31:46.569Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40operato%2Fdata-grist",
+          "observedAt": "2026-11-16T10:31:46.569Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fdata-grist",
+          "observedAt": "2026-11-16T10:31:46.569Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/data-grist",
+      "semver": "9.0.28",
+      "publishedAt": "2025-09-04T23:47:09.809Z",
+      "publisher": "heartyoh",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 1648354,
+      "dependencies": {
+        "lit": "^3.1.2",
+        "json5": "^2.2.0",
+        "i18next": "^24.2.1",
+        "lodash-es": "^4.17.21",
+        "@material/web": "^2.0.0",
+        "@operato/p13n": "^9.0.21",
+        "@operato/input": "^9.0.26",
+        "@operato/popup": "^9.0.21",
+        "@operato/utils": "^9.0.21",
+        "@operato/styles": "^9.0.1",
+        "@operato/headroom": "^9.0.1",
+        "@operato/pull-to-refresh": "^9.0.1",
+        "@operato/time-calculator": "^9.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40operato%2Fdata-grist",
+          "observedAt": "2026-11-16T10:31:46.569Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40operato%2Fdata-grist",
+          "observedAt": "2026-11-16T10:31:46.569Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40operato%2Fdata-grist",
+          "observedAt": "2026-11-16T10:31:46.569Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40operato%2Fdata-grist",
+          "observedAt": "2026-11-16T10:31:46.569Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40operato%2Fdata-grist",
+          "observedAt": "2026-11-16T10:31:46.569Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fdata-grist",
+          "observedAt": "2026-11-16T10:31:46.569Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/data-grist",
+      "semver": "9.0.29",
+      "publishedAt": "2025-09-15T22:36:46.091Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fdata-grist",
+          "observedAt": "2026-11-16T10:31:46.569Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/data-grist",
+      "semver": "9.0.33",
+      "publishedAt": "2025-09-15T22:55:04.070Z",
+      "publisher": "heartyoh",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 1651244,
+      "dependencies": {
+        "lit": "^3.1.2",
+        "json5": "^2.2.0",
+        "i18next": "^24.2.1",
+        "lodash-es": "^4.17.21",
+        "@material/web": "^2.0.0",
+        "@operato/p13n": "^9.0.21",
+        "@operato/input": "^9.0.33",
+        "@operato/popup": "^9.0.21",
+        "@operato/utils": "^9.0.21",
+        "@operato/styles": "^9.0.1",
+        "@operato/headroom": "^9.0.1",
+        "@operato/pull-to-refresh": "^9.0.1",
+        "@operato/time-calculator": "^9.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40operato%2Fdata-grist",
+          "observedAt": "2026-11-16T10:31:46.569Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40operato%2Fdata-grist",
+          "observedAt": "2026-11-16T10:31:46.569Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40operato%2Fdata-grist",
+          "observedAt": "2026-11-16T10:31:46.569Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40operato%2Fdata-grist",
+          "observedAt": "2026-11-16T10:31:46.569Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40operato%2Fdata-grist",
+          "observedAt": "2026-11-16T10:31:46.569Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fdata-grist",
+          "observedAt": "2026-11-16T10:31:46.569Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/data-grist",
+      "semver": "9.0.34",
+      "publishedAt": "2025-09-15T23:38:09.820Z",
+      "publisher": "heartyoh",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 1651403,
+      "dependencies": {
+        "lit": "^3.1.2",
+        "json5": "^2.2.0",
+        "i18next": "^24.2.1",
+        "lodash-es": "^4.17.21",
+        "@material/web": "^2.0.0",
+        "@operato/p13n": "^9.0.34",
+        "@operato/input": "^9.0.34",
+        "@operato/popup": "^9.0.34",
+        "@operato/utils": "^9.0.34",
+        "@operato/styles": "^9.0.34",
+        "@operato/headroom": "^9.0.34",
+        "@operato/pull-to-refresh": "^9.0.34",
+        "@operato/time-calculator": "^9.0.34"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40operato%2Fdata-grist",
+          "observedAt": "2026-11-16T10:31:46.569Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40operato%2Fdata-grist",
+          "observedAt": "2026-11-16T10:31:46.569Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40operato%2Fdata-grist",
+          "observedAt": "2026-11-16T10:31:46.569Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40operato%2Fdata-grist",
+          "observedAt": "2026-11-16T10:31:46.569Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40operato%2Fdata-grist",
+          "observedAt": "2026-11-16T10:31:46.569Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fdata-grist",
+          "observedAt": "2026-11-16T10:31:46.569Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/data-grist",
+      "semver": "9.0.35",
+      "publishedAt": "2025-09-15T23:44:22.678Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fdata-grist",
+          "observedAt": "2026-11-16T10:31:46.569Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/data-grist",
+      "semver": "9.0.36",
+      "publishedAt": "2025-09-16T01:25:43.979Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fdata-grist",
+          "observedAt": "2026-11-16T10:31:46.569Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/data-grist",
+      "semver": "9.0.37",
+      "publishedAt": "2025-09-16T01:30:33.891Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fdata-grist",
+          "observedAt": "2026-11-16T10:31:46.569Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/data-grist",
+      "semver": "9.1.0",
+      "publishedAt": "2025-09-16T12:02:49.163Z",
+      "publisher": "heartyoh",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 1651546,
+      "dependencies": {
+        "lit": "^3.1.2",
+        "json5": "^2.2.0",
+        "i18next": "^24.2.1",
+        "lodash-es": "^4.17.21",
+        "@material/web": "^2.0.0",
+        "@operato/p13n": "^9.1.0",
+        "@operato/input": "^9.1.0",
+        "@operato/popup": "^9.1.0",
+        "@operato/utils": "^9.1.0",
+        "@operato/styles": "^9.1.0",
+        "@operato/headroom": "^9.1.0",
+        "@operato/pull-to-refresh": "^9.1.0",
+        "@operato/time-calculator": "^9.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40operato%2Fdata-grist",
+          "observedAt": "2026-11-16T10:31:46.569Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40operato%2Fdata-grist",
+          "observedAt": "2026-11-16T10:31:46.569Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40operato%2Fdata-grist",
+          "observedAt": "2026-11-16T10:31:46.569Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40operato%2Fdata-grist",
+          "observedAt": "2026-11-16T10:31:46.569Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40operato%2Fdata-grist",
+          "observedAt": "2026-11-16T10:31:46.569Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fdata-grist",
+          "observedAt": "2026-11-16T10:31:46.569Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

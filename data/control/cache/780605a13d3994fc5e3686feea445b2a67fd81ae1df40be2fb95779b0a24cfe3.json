@@ -1,0 +1,265 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@aws-crypto/sha256-browser",
+  "source": "https://registry.npmjs.org/%40aws-crypto%2Fsha256-browser",
+  "fetchedAt": "2026-11-16T10:34:27.802Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 20
+  },
+  "sourceSha256": "9548b065fad8a7a3f6c8076b563540a46b35a2c90a5ff2a0ef7a31810df2e85a",
+  "versions": [
+    {
+      "pkg": "@aws-crypto/sha256-browser",
+      "semver": "0.1.0-preview.3",
+      "publishedAt": "2019-11-15T20:18:51.552Z",
+      "publisher": "agray256",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 36679,
+      "dependencies": {
+        "tslib": "^1.9.3",
+        "@aws-sdk/types": "^0.1.0-preview.1",
+        "@aws-crypto/sha256-js": "^0.1.0-preview.3",
+        "@aws-crypto/ie11-detection": "^0.1.0-preview.3",
+        "@aws-sdk/util-utf8-browser": "^0.1.0-preview.1",
+        "@aws-sdk/util-locate-window": "^0.1.0-preview.1",
+        "@aws-crypto/supports-web-crypto": "^0.1.0-preview.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40aws-crypto%2Fsha256-browser",
+          "observedAt": "2026-11-16T10:34:27.802Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40aws-crypto%2Fsha256-browser",
+          "observedAt": "2026-11-16T10:34:27.802Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40aws-crypto%2Fsha256-browser",
+          "observedAt": "2026-11-16T10:34:27.802Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40aws-crypto%2Fsha256-browser",
+          "observedAt": "2026-11-16T10:34:27.802Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40aws-crypto%2Fsha256-browser",
+          "observedAt": "2026-11-16T10:34:27.802Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40aws-crypto%2Fsha256-browser",
+          "observedAt": "2026-11-16T10:34:27.802Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@aws-crypto/sha256-browser",
+      "semver": "1.0.0",
+      "publishedAt": "2020-10-22T19:45:55.246Z",
+      "publisher": "lavaleri",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 38388,
+      "dependencies": {
+        "tslib": "^1.11.1",
+        "@aws-sdk/types": "^1.0.0-rc.1",
+        "@aws-crypto/sha256-js": "^1.0.0",
+        "@aws-crypto/ie11-detection": "^1.0.0",
+        "@aws-sdk/util-utf8-browser": "^1.0.0-rc.1",
+        "@aws-sdk/util-locate-window": "^1.0.0-rc.1",
+        "@aws-crypto/supports-web-crypto": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40aws-crypto%2Fsha256-browser",
+          "observedAt": "2026-11-16T10:34:27.802Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40aws-crypto%2Fsha256-browser",
+          "observedAt": "2026-11-16T10:34:27.802Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40aws-crypto%2Fsha256-browser",
+          "observedAt": "2026-11-16T10:34:27.802Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40aws-crypto%2Fsha256-browser",
+          "observedAt": "2026-11-16T10:34:27.802Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40aws-crypto%2Fsha256-browser",
+          "observedAt": "2026-11-16T10:34:27.802Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40aws-crypto%2Fsha256-browser",
+          "observedAt": "2026-11-16T10:34:27.802Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@aws-crypto/sha256-browser",
+      "semver": "1.0.0-alpha.0",
+      "publishedAt": "2020-02-07T20:13:19.858Z",
+      "publisher": "seebees",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 37869,
+      "dependencies": {
+        "tslib": "^1.9.3",
+        "@aws-sdk/types": "^1.0.0-alpha.0",
+        "@aws-crypto/sha256-js": "^1.0.0-alpha.0",
+        "@aws-crypto/ie11-detection": "^1.0.0-alpha.0",
+        "@aws-sdk/util-utf8-browser": "^1.0.0-alpha.0",
+        "@aws-sdk/util-locate-window": "^1.0.0-alpha.0",
+        "@aws-crypto/supports-web-crypto": "^1.0.0-alpha.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40aws-crypto%2Fsha256-browser",
+          "observedAt": "2026-11-16T10:34:27.802Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40aws-crypto%2Fsha256-browser",
+          "observedAt": "2026-11-16T10:34:27.802Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40aws-crypto%2Fsha256-browser",
+          "observedAt": "2026-11-16T10:34:27.802Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40aws-crypto%2Fsha256-browser",
+          "observedAt": "2026-11-16T10:34:27.802Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40aws-crypto%2Fsha256-browser",
+          "observedAt": "2026-11-16T10:34:27.802Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40aws-crypto%2Fsha256-browser",
+          "observedAt": "2026-11-16T10:34:27.802Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@aws-crypto/sha256-browser",
+      "semver": "1.1.0",
+      "publishedAt": "2021-01-13T21:27:00.640Z",
+      "publisher": "salkeldr",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 39170,
+      "dependencies": {
+        "tslib": "^1.11.1",
+        "@aws-sdk/types": "^3.1.0",
+        "@aws-crypto/sha256-js": "^1.1.0",
+        "@aws-crypto/ie11-detection": "^1.0.0",
+        "@aws-sdk/util-utf8-browser": "^3.0.0",
+        "@aws-sdk/util-locate-window": "^3.0.0",
+        "@aws-crypto/supports-web-crypto": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40aws-crypto%2Fsha256-browser",
+          "observedAt": "2026-11-16T10:34:27.802Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40aws-crypto%2Fsha256-browser",
+          "observedAt": "2026-11-16T10:34:27.802Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40aws-crypto%2Fsha256-browser",
+          "observedAt": "2026-11-16T10:34:27.802Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40aws-crypto%2Fsha256-browser",
+          "observedAt": "2026-11-16T10:34:27.802Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40aws-crypto%2Fsha256-browser",
+          "observedAt": "2026-11-16T10:34:27.802Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40aws-crypto%2Fsha256-browser",
+          "observedAt": "2026-11-16T10:34:27.802Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@aws-crypto/sha256-browser",
+      "semver": "5.2.0",
+      "publishedAt": "2023-10-16T19:44:49.151Z",
+      "publisher": "aws-crypto-tools-ci-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 43051,
+      "dependencies": {
+        "tslib": "^2.6.2",
+        "@aws-sdk/types": "^3.222.0",
+        "@aws-crypto/util": "^5.2.0",
+        "@smithy/util-utf8": "^2.0.0",
+        "@aws-crypto/sha256-js": "^5.2.0",
+        "@aws-sdk/util-locate-window": "^3.0.0",
+        "@aws-crypto/supports-web-crypto": "^5.2.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40aws-crypto%2Fsha256-browser",
+          "observedAt": "2026-11-16T10:34:27.802Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40aws-crypto%2Fsha256-browser",
+          "observedAt": "2026-11-16T10:34:27.802Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40aws-crypto%2Fsha256-browser",
+          "observedAt": "2026-11-16T10:34:27.802Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40aws-crypto%2Fsha256-browser",
+          "observedAt": "2026-11-16T10:34:27.802Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40aws-crypto%2Fsha256-browser",
+          "observedAt": "2026-11-16T10:34:27.802Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40aws-crypto%2Fsha256-browser",
+          "observedAt": "2026-11-16T10:34:27.802Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "pkg": "cjs-module-lexer",
+  "source": "https://registry.npmjs.org/cjs-module-lexer",
+  "fetchedAt": "2026-11-16T10:34:57.675Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 49
+  },
+  "sourceSha256": "ecac7fbbad5d628fc955f89fc4f52be98757a3d2ca0d992b1b5a3325a0ed3cd5",
+  "versions": [
+    {
+      "pkg": "cjs-module-lexer",
+      "semver": "1.4.1",
+      "publishedAt": "2024-09-07T20:51:50.370Z",
+      "publisher": "guybedford",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 145734,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/cjs-module-lexer",
+          "observedAt": "2026-11-16T10:34:57.675Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/cjs-module-lexer",
+          "observedAt": "2026-11-16T10:34:57.675Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/cjs-module-lexer",
+          "observedAt": "2026-11-16T10:34:57.675Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/cjs-module-lexer",
+          "observedAt": "2026-11-16T10:34:57.675Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/cjs-module-lexer",
+          "observedAt": "2026-11-16T10:34:57.675Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/cjs-module-lexer",
+          "observedAt": "2026-11-16T10:34:57.675Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "cjs-module-lexer",
+      "semver": "2.1.0",
+      "publishedAt": "2025-02-20T18:27:51.293Z",
+      "publisher": "mhdawson1",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 133936,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/cjs-module-lexer",
+          "observedAt": "2026-11-16T10:34:57.675Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/cjs-module-lexer",
+          "observedAt": "2026-11-16T10:34:57.675Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/cjs-module-lexer",
+          "observedAt": "2026-11-16T10:34:57.675Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/cjs-module-lexer",
+          "observedAt": "2026-11-16T10:34:57.675Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/cjs-module-lexer",
+          "observedAt": "2026-11-16T10:34:57.675Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/cjs-module-lexer",
+          "observedAt": "2026-11-16T10:34:57.675Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

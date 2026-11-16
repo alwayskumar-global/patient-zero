@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "pkg": "object-visit",
+  "source": "https://registry.npmjs.org/object-visit",
+  "fetchedAt": "2026-11-16T10:35:15.863Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 11
+  },
+  "sourceSha256": "9dff6f629be3df4cd9479fd335fe15e2da6c60034fb541abeb0b744e0900895c",
+  "versions": [
+    {
+      "pkg": "object-visit",
+      "semver": "0.2.2",
+      "publishedAt": "2015-10-06T13:48:19.559Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/object-visit",
+          "observedAt": "2026-11-16T10:35:15.863Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "object-visit",
+      "semver": "1.0.1",
+      "publishedAt": "2017-05-30T04:25:21.809Z",
+      "publisher": "jonschlinkert",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "isobject": "^3.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/object-visit",
+          "observedAt": "2026-11-16T10:35:15.863Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/object-visit",
+          "observedAt": "2026-11-16T10:35:15.863Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/object-visit",
+          "observedAt": "2026-11-16T10:35:15.863Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/object-visit",
+          "observedAt": "2026-11-16T10:35:15.863Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/object-visit",
+          "observedAt": "2026-11-16T10:35:15.863Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

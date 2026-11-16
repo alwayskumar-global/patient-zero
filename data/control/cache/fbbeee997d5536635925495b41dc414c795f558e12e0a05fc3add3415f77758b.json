@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "pkg": "get-proto",
+  "source": "https://registry.npmjs.org/get-proto",
+  "fetchedAt": "2026-11-16T10:35:03.048Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 2
+  },
+  "sourceSha256": "8ed759ebd838b9ff0df2a53e57a9bba423e7ca9064fdbaa51039af8dec71f536",
+  "versions": [
+    {
+      "pkg": "get-proto",
+      "semver": "1.0.1",
+      "publishedAt": "2025-01-02T20:08:02.949Z",
+      "publisher": "ljharb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 10840,
+      "dependencies": {
+        "dunder-proto": "^1.0.1",
+        "es-object-atoms": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/get-proto",
+          "observedAt": "2026-11-16T10:35:03.048Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/get-proto",
+          "observedAt": "2026-11-16T10:35:03.048Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/get-proto",
+          "observedAt": "2026-11-16T10:35:03.048Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/get-proto",
+          "observedAt": "2026-11-16T10:35:03.048Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/get-proto",
+          "observedAt": "2026-11-16T10:35:03.048Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/get-proto",
+          "observedAt": "2026-11-16T10:35:03.048Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

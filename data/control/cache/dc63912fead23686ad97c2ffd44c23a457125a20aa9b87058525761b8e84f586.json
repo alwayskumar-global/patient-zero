@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "pkg": "jsonc-parser",
+  "source": "https://registry.npmjs.org/jsonc-parser",
+  "fetchedAt": "2026-11-16T10:35:08.910Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 39
+  },
+  "sourceSha256": "fc60fa698bcffe094f5c6ccf9d47fca18d236c3135020fe362b0dfb6cab490a3",
+  "versions": [
+    {
+      "pkg": "jsonc-parser",
+      "semver": "3.2.0",
+      "publishedAt": "2022-08-30T11:26:57.901Z",
+      "publisher": "aeschli",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 205387,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jsonc-parser",
+          "observedAt": "2026-11-16T10:35:08.910Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jsonc-parser",
+          "observedAt": "2026-11-16T10:35:08.910Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jsonc-parser",
+          "observedAt": "2026-11-16T10:35:08.910Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jsonc-parser",
+          "observedAt": "2026-11-16T10:35:08.910Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jsonc-parser",
+          "observedAt": "2026-11-16T10:35:08.910Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jsonc-parser",
+          "observedAt": "2026-11-16T10:35:08.910Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jsonc-parser",
+      "semver": "3.3.1",
+      "publishedAt": "2024-06-24T21:12:45.445Z",
+      "publisher": "vscode-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 212821,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jsonc-parser",
+          "observedAt": "2026-11-16T10:35:08.910Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jsonc-parser",
+          "observedAt": "2026-11-16T10:35:08.910Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jsonc-parser",
+          "observedAt": "2026-11-16T10:35:08.910Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jsonc-parser",
+          "observedAt": "2026-11-16T10:35:08.910Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jsonc-parser",
+          "observedAt": "2026-11-16T10:35:08.910Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jsonc-parser",
+          "observedAt": "2026-11-16T10:35:08.910Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

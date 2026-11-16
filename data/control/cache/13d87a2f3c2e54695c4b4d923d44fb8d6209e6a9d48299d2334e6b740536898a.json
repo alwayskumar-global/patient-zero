@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "pkg": "randomfill",
+  "source": "https://registry.npmjs.org/randomfill",
+  "fetchedAt": "2026-11-16T10:35:22.395Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 5
+  },
+  "sourceSha256": "9062dcfeddefcf9a720e7c1ff4fcbd4e3160e7e66da6dc2479c0d0fe96652abe",
+  "versions": [
+    {
+      "pkg": "randomfill",
+      "semver": "1.0.4",
+      "publishedAt": "2018-02-16T13:03:56.771Z",
+      "publisher": "cwmma",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 6844,
+      "dependencies": {
+        "randombytes": "^2.0.5",
+        "safe-buffer": "^5.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/randomfill",
+          "observedAt": "2026-11-16T10:35:22.395Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/randomfill",
+          "observedAt": "2026-11-16T10:35:22.395Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/randomfill",
+          "observedAt": "2026-11-16T10:35:22.395Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/randomfill",
+          "observedAt": "2026-11-16T10:35:22.395Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/randomfill",
+          "observedAt": "2026-11-16T10:35:22.395Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/randomfill",
+          "observedAt": "2026-11-16T10:35:22.395Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

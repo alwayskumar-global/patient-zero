@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "snapdragon-node",
+  "source": "https://registry.npmjs.org/snapdragon-node",
+  "fetchedAt": "2026-11-16T10:35:26.935Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 13
+  },
+  "sourceSha256": "31a91a62b63bb2f44cf769ad84f0bd971bfa92779d6f0f5ff39c0820fc46b919",
+  "versions": [
+    {
+      "pkg": "snapdragon-node",
+      "semver": "3.0.0",
+      "publishedAt": "2018-11-24T09:18:16.600Z",
+      "publisher": "jonschlinkert",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 35767,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/snapdragon-node",
+          "observedAt": "2026-11-16T10:35:26.935Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/snapdragon-node",
+          "observedAt": "2026-11-16T10:35:26.935Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/snapdragon-node",
+          "observedAt": "2026-11-16T10:35:26.935Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/snapdragon-node",
+          "observedAt": "2026-11-16T10:35:26.935Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/snapdragon-node",
+          "observedAt": "2026-11-16T10:35:26.935Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/snapdragon-node",
+          "observedAt": "2026-11-16T10:35:26.935Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

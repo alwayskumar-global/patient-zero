@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "sourcemap-codec",
+  "source": "https://registry.npmjs.org/sourcemap-codec",
+  "fetchedAt": "2026-11-16T10:35:26.917Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 15
+  },
+  "sourceSha256": "67f1b09db8f1c5cdbb67ac6ff588f28d159749df53f065b48347e3121803e2aa",
+  "versions": [
+    {
+      "pkg": "sourcemap-codec",
+      "semver": "1.4.8",
+      "publishedAt": "2020-01-16T18:53:46.807Z",
+      "publisher": "rich_harris",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 31802,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/sourcemap-codec",
+          "observedAt": "2026-11-16T10:35:26.917Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/sourcemap-codec",
+          "observedAt": "2026-11-16T10:35:26.917Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/sourcemap-codec",
+          "observedAt": "2026-11-16T10:35:26.917Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/sourcemap-codec",
+          "observedAt": "2026-11-16T10:35:26.917Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/sourcemap-codec",
+          "observedAt": "2026-11-16T10:35:26.917Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/sourcemap-codec",
+          "observedAt": "2026-11-16T10:35:26.917Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

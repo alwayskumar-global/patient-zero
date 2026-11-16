@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "sisteransi",
+  "source": "https://registry.npmjs.org/sisteransi",
+  "fetchedAt": "2026-11-16T10:35:26.562Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 10
+  },
+  "sourceSha256": "be4023b1acd975c50ac50567bf5d3ab46f5c3fc4a7c1bfd31902a855aed9cc1a",
+  "versions": [
+    {
+      "pkg": "sisteransi",
+      "semver": "1.0.5",
+      "publishedAt": "2020-03-18T12:53:26.602Z",
+      "publisher": "terkelg",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 6791,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/sisteransi",
+          "observedAt": "2026-11-16T10:35:26.562Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/sisteransi",
+          "observedAt": "2026-11-16T10:35:26.562Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/sisteransi",
+          "observedAt": "2026-11-16T10:35:26.562Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/sisteransi",
+          "observedAt": "2026-11-16T10:35:26.562Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/sisteransi",
+          "observedAt": "2026-11-16T10:35:26.562Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/sisteransi",
+          "observedAt": "2026-11-16T10:35:26.562Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

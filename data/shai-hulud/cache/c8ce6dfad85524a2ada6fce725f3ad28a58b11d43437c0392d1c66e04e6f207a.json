@@ -1,0 +1,348 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@art-ws/db-context",
+  "source": "https://registry.npmjs.org/%40art-ws%2Fdb-context",
+  "fetchedAt": "2026-11-16T10:30:58.876Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 29
+  },
+  "sourceSha256": "116fb96dd1a40dc421425a5990d807d0f0aeb462a91947dfb058f57456155a50",
+  "versions": [
+    {
+      "pkg": "@art-ws/db-context",
+      "semver": "2.0.15",
+      "publishedAt": "2025-09-01T09:11:59.796Z",
+      "publisher": "art-ws",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 25965,
+      "dependencies": {
+        "pg": "^8.16.3",
+        "tslib": "^2.8.1",
+        "@art-ws/slf": "2.0.9",
+        "@art-ws/common": "2.0.16"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdb-context",
+          "observedAt": "2026-11-16T10:30:58.876Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdb-context",
+          "observedAt": "2026-11-16T10:30:58.876Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdb-context",
+          "observedAt": "2026-11-16T10:30:58.876Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdb-context",
+          "observedAt": "2026-11-16T10:30:58.876Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdb-context",
+          "observedAt": "2026-11-16T10:30:58.876Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdb-context",
+          "observedAt": "2026-11-16T10:30:58.876Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@art-ws/db-context",
+      "semver": "2.0.16",
+      "publishedAt": "2025-09-13T19:29:56.848Z",
+      "publisher": "art-ws",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 25966,
+      "dependencies": {
+        "pg": "^8.16.3",
+        "tslib": "^2.8.1",
+        "@art-ws/slf": "2.0.10",
+        "@art-ws/common": "2.0.17"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdb-context",
+          "observedAt": "2026-11-16T10:30:58.876Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdb-context",
+          "observedAt": "2026-11-16T10:30:58.876Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdb-context",
+          "observedAt": "2026-11-16T10:30:58.876Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdb-context",
+          "observedAt": "2026-11-16T10:30:58.876Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdb-context",
+          "observedAt": "2026-11-16T10:30:58.876Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdb-context",
+          "observedAt": "2026-11-16T10:30:58.876Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@art-ws/db-context",
+      "semver": "2.0.17",
+      "publishedAt": "2025-09-14T06:15:28.873Z",
+      "publisher": "art-ws",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 25966,
+      "dependencies": {
+        "pg": "^8.16.3",
+        "tslib": "^2.8.1",
+        "@art-ws/slf": "2.0.11",
+        "@art-ws/common": "2.0.18"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdb-context",
+          "observedAt": "2026-11-16T10:30:58.876Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdb-context",
+          "observedAt": "2026-11-16T10:30:58.876Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdb-context",
+          "observedAt": "2026-11-16T10:30:58.876Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdb-context",
+          "observedAt": "2026-11-16T10:30:58.876Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdb-context",
+          "observedAt": "2026-11-16T10:30:58.876Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdb-context",
+          "observedAt": "2026-11-16T10:30:58.876Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@art-ws/db-context",
+      "semver": "2.0.18",
+      "publishedAt": "2025-09-14T06:38:32.637Z",
+      "publisher": "art-ws",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 25966,
+      "dependencies": {
+        "pg": "^8.16.3",
+        "tslib": "^2.8.1",
+        "@art-ws/slf": "2.0.12",
+        "@art-ws/common": "2.0.19"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdb-context",
+          "observedAt": "2026-11-16T10:30:58.876Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdb-context",
+          "observedAt": "2026-11-16T10:30:58.876Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdb-context",
+          "observedAt": "2026-11-16T10:30:58.876Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdb-context",
+          "observedAt": "2026-11-16T10:30:58.876Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdb-context",
+          "observedAt": "2026-11-16T10:30:58.876Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdb-context",
+          "observedAt": "2026-11-16T10:30:58.876Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@art-ws/db-context",
+      "semver": "2.0.19",
+      "publishedAt": "2025-09-14T08:33:53.369Z",
+      "publisher": "art-ws",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 25966,
+      "dependencies": {
+        "pg": "^8.16.3",
+        "tslib": "^2.8.1",
+        "@art-ws/slf": "2.0.13",
+        "@art-ws/common": "2.0.20"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdb-context",
+          "observedAt": "2026-11-16T10:30:58.876Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdb-context",
+          "observedAt": "2026-11-16T10:30:58.876Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdb-context",
+          "observedAt": "2026-11-16T10:30:58.876Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdb-context",
+          "observedAt": "2026-11-16T10:30:58.876Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdb-context",
+          "observedAt": "2026-11-16T10:30:58.876Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdb-context",
+          "observedAt": "2026-11-16T10:30:58.876Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@art-ws/db-context",
+      "semver": "2.0.20",
+      "publishedAt": "2025-09-15T05:14:17.689Z",
+      "publisher": "art-ws",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 25966,
+      "dependencies": {
+        "pg": "^8.16.3",
+        "tslib": "^2.8.1",
+        "@art-ws/slf": "2.0.14",
+        "@art-ws/common": "2.0.21"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdb-context",
+          "observedAt": "2026-11-16T10:30:58.876Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdb-context",
+          "observedAt": "2026-11-16T10:30:58.876Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdb-context",
+          "observedAt": "2026-11-16T10:30:58.876Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdb-context",
+          "observedAt": "2026-11-16T10:30:58.876Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdb-context",
+          "observedAt": "2026-11-16T10:30:58.876Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdb-context",
+          "observedAt": "2026-11-16T10:30:58.876Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@art-ws/db-context",
+      "semver": "2.0.21",
+      "publishedAt": "2025-09-15T05:21:19.814Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdb-context",
+          "observedAt": "2026-11-16T10:30:58.876Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@art-ws/db-context",
+      "semver": "2.0.23",
+      "publishedAt": "2025-09-15T08:56:23.793Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdb-context",
+          "observedAt": "2026-11-16T10:30:58.876Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@art-ws/db-context",
+      "semver": "2.0.24",
+      "publishedAt": "2025-09-15T08:58:35.991Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fdb-context",
+          "observedAt": "2026-11-16T10:30:58.876Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

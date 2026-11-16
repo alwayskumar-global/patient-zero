@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@aws-sdk/util-locate-window",
+  "source": "https://registry.npmjs.org/%40aws-sdk%2Futil-locate-window",
+  "fetchedAt": "2026-11-16T10:34:30.038Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 76
+  },
+  "sourceSha256": "b64c3d6cbaa96f5e08abddb133da13448a3bbcdd5da2673bcc835457e760f0bb",
+  "versions": [
+    {
+      "pkg": "@aws-sdk/util-locate-window",
+      "semver": "3.804.0",
+      "publishedAt": "2025-05-06T19:19:44.306Z",
+      "publisher": "aws-sdk-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 15140,
+      "dependencies": {
+        "tslib": "^2.6.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Futil-locate-window",
+          "observedAt": "2026-11-16T10:34:30.038Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Futil-locate-window",
+          "observedAt": "2026-11-16T10:34:30.038Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Futil-locate-window",
+          "observedAt": "2026-11-16T10:34:30.038Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Futil-locate-window",
+          "observedAt": "2026-11-16T10:34:30.038Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Futil-locate-window",
+          "observedAt": "2026-11-16T10:34:30.038Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Futil-locate-window",
+          "observedAt": "2026-11-16T10:34:30.038Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

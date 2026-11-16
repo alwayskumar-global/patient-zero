@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "pino-abstract-transport",
+  "source": "https://registry.npmjs.org/pino-abstract-transport",
+  "fetchedAt": "2026-11-16T10:35:18.084Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 10
+  },
+  "sourceSha256": "c117706f11959d633b312b2e9f52e68d4adfe8515534d9478f2e5e1a2ae23040",
+  "versions": [
+    {
+      "pkg": "pino-abstract-transport",
+      "semver": "2.0.0",
+      "publishedAt": "2024-09-03T07:14:18.315Z",
+      "publisher": "matteo.collina",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 38204,
+      "dependencies": {
+        "split2": "^4.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/pino-abstract-transport",
+          "observedAt": "2026-11-16T10:35:18.084Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/pino-abstract-transport",
+          "observedAt": "2026-11-16T10:35:18.084Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/pino-abstract-transport",
+          "observedAt": "2026-11-16T10:35:18.084Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/pino-abstract-transport",
+          "observedAt": "2026-11-16T10:35:18.084Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/pino-abstract-transport",
+          "observedAt": "2026-11-16T10:35:18.084Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/pino-abstract-transport",
+          "observedAt": "2026-11-16T10:35:18.084Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

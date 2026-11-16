@@ -1,0 +1,220 @@
+{
+  "schemaVersion": 1,
+  "pkg": "cosmiconfig",
+  "source": "https://registry.npmjs.org/cosmiconfig",
+  "fetchedAt": "2026-11-16T10:34:58.608Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 62
+  },
+  "sourceSha256": "0889dc0ec415036cd8d10afd69a07292e569ef1e237c29cf15380a19f90f456b",
+  "versions": [
+    {
+      "pkg": "cosmiconfig",
+      "semver": "5.0.0",
+      "publishedAt": "2018-05-05T16:27:30.286Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/cosmiconfig",
+          "observedAt": "2026-11-16T10:34:58.608Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "cosmiconfig",
+      "semver": "5.0.3",
+      "publishedAt": "2018-05-15T03:35:59.445Z",
+      "publisher": "sudo-suhas",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 40036,
+      "dependencies": {
+        "js-yaml": "^3.9.0",
+        "parse-json": "^4.0.0",
+        "is-directory": "^0.3.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/cosmiconfig",
+          "observedAt": "2026-11-16T10:34:58.608Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/cosmiconfig",
+          "observedAt": "2026-11-16T10:34:58.608Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/cosmiconfig",
+          "observedAt": "2026-11-16T10:34:58.608Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/cosmiconfig",
+          "observedAt": "2026-11-16T10:34:58.608Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/cosmiconfig",
+          "observedAt": "2026-11-16T10:34:58.608Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/cosmiconfig",
+          "observedAt": "2026-11-16T10:34:58.608Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "cosmiconfig",
+      "semver": "7.0.1",
+      "publishedAt": "2021-08-21T22:45:35.231Z",
+      "publisher": "davidtheclark",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 90941,
+      "dependencies": {
+        "yaml": "^1.10.0",
+        "path-type": "^4.0.0",
+        "parse-json": "^5.0.0",
+        "import-fresh": "^3.2.1",
+        "@types/parse-json": "^4.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/cosmiconfig",
+          "observedAt": "2026-11-16T10:34:58.608Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/cosmiconfig",
+          "observedAt": "2026-11-16T10:34:58.608Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/cosmiconfig",
+          "observedAt": "2026-11-16T10:34:58.608Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/cosmiconfig",
+          "observedAt": "2026-11-16T10:34:58.608Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/cosmiconfig",
+          "observedAt": "2026-11-16T10:34:58.608Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/cosmiconfig",
+          "observedAt": "2026-11-16T10:34:58.608Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "cosmiconfig",
+      "semver": "8.3.4",
+      "publishedAt": "2023-09-04T19:33:28.736Z",
+      "publisher": "jrandolf",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 78088,
+      "dependencies": {
+        "js-yaml": "^4.1.0",
+        "path-type": "^4.0.0",
+        "parse-json": "^5.2.0",
+        "import-fresh": "^3.3.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/cosmiconfig",
+          "observedAt": "2026-11-16T10:34:58.608Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/cosmiconfig",
+          "observedAt": "2026-11-16T10:34:58.608Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/cosmiconfig",
+          "observedAt": "2026-11-16T10:34:58.608Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/cosmiconfig",
+          "observedAt": "2026-11-16T10:34:58.608Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/cosmiconfig",
+          "observedAt": "2026-11-16T10:34:58.608Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/cosmiconfig",
+          "observedAt": "2026-11-16T10:34:58.608Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "cosmiconfig",
+      "semver": "9.0.0",
+      "publishedAt": "2023-11-26T12:36:51.267Z",
+      "publisher": "d-fischer",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 123910,
+      "dependencies": {
+        "js-yaml": "^4.1.0",
+        "env-paths": "^2.2.1",
+        "parse-json": "^5.2.0",
+        "import-fresh": "^3.3.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/cosmiconfig",
+          "observedAt": "2026-11-16T10:34:58.608Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/cosmiconfig",
+          "observedAt": "2026-11-16T10:34:58.608Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/cosmiconfig",
+          "observedAt": "2026-11-16T10:34:58.608Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/cosmiconfig",
+          "observedAt": "2026-11-16T10:34:58.608Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/cosmiconfig",
+          "observedAt": "2026-11-16T10:34:58.608Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/cosmiconfig",
+          "observedAt": "2026-11-16T10:34:58.608Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

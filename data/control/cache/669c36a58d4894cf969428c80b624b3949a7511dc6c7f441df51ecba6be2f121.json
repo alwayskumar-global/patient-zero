@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "pkg": "mkdirp",
+  "source": "https://registry.npmjs.org/mkdirp",
+  "fetchedAt": "2026-11-16T10:35:13.948Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 42
+  },
+  "sourceSha256": "31e670b760c53b090581e077237f1b578484bf6338cfabba8c5ff5576ff9a2c9",
+  "versions": [
+    {
+      "pkg": "mkdirp",
+      "semver": "0.3.4",
+      "publishedAt": "2012-08-20T12:27:24.983Z",
+      "publisher": null,
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/mkdirp",
+          "observedAt": "2026-11-16T10:35:13.948Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/mkdirp",
+          "observedAt": "2026-11-16T10:35:13.948Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/mkdirp",
+          "observedAt": "2026-11-16T10:35:13.948Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/mkdirp",
+          "observedAt": "2026-11-16T10:35:13.948Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "mkdirp",
+      "semver": "0.5.1",
+      "publishedAt": "2015-05-14T02:27:01.553Z",
+      "publisher": "substack",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "minimist": "0.0.8"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/mkdirp",
+          "observedAt": "2026-11-16T10:35:13.948Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/mkdirp",
+          "observedAt": "2026-11-16T10:35:13.948Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/mkdirp",
+          "observedAt": "2026-11-16T10:35:13.948Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/mkdirp",
+          "observedAt": "2026-11-16T10:35:13.948Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/mkdirp",
+          "observedAt": "2026-11-16T10:35:13.948Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "mkdirp",
+      "semver": "3.0.1",
+      "publishedAt": "2023-04-24T17:27:38.604Z",
+      "publisher": "isaacs",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 106656,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/mkdirp",
+          "observedAt": "2026-11-16T10:35:13.948Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/mkdirp",
+          "observedAt": "2026-11-16T10:35:13.948Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/mkdirp",
+          "observedAt": "2026-11-16T10:35:13.948Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/mkdirp",
+          "observedAt": "2026-11-16T10:35:13.948Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/mkdirp",
+          "observedAt": "2026-11-16T10:35:13.948Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/mkdirp",
+          "observedAt": "2026-11-16T10:35:13.948Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

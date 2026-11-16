@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "pkg": "react-transition-group",
+  "source": "https://registry.npmjs.org/react-transition-group",
+  "fetchedAt": "2026-11-16T10:35:23.585Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 44
+  },
+  "sourceSha256": "6b62417fdc3900de1d2e93c0cbcb1a52ec7112dcacd9eccb0107b70ac4f3afe1",
+  "versions": [
+    {
+      "pkg": "react-transition-group",
+      "semver": "4.4.2",
+      "publishedAt": "2021-05-29T14:49:51.220Z",
+      "publisher": "monastic.panic",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 241756,
+      "dependencies": {
+        "@babel/runtime": "^7.5.5",
+        "dom-helpers": "^5.0.1",
+        "loose-envify": "^1.4.0",
+        "prop-types": "^15.6.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/react-transition-group",
+          "observedAt": "2026-11-16T10:35:23.585Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/react-transition-group",
+          "observedAt": "2026-11-16T10:35:23.585Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/react-transition-group",
+          "observedAt": "2026-11-16T10:35:23.585Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/react-transition-group",
+          "observedAt": "2026-11-16T10:35:23.585Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/react-transition-group",
+          "observedAt": "2026-11-16T10:35:23.585Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/react-transition-group",
+          "observedAt": "2026-11-16T10:35:23.585Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "react-transition-group",
+      "semver": "4.4.5",
+      "publishedAt": "2022-08-01T08:36:58.958Z",
+      "publisher": "eps1lon",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 244028,
+      "dependencies": {
+        "@babel/runtime": "^7.5.5",
+        "dom-helpers": "^5.0.1",
+        "loose-envify": "^1.4.0",
+        "prop-types": "^15.6.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/react-transition-group",
+          "observedAt": "2026-11-16T10:35:23.585Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/react-transition-group",
+          "observedAt": "2026-11-16T10:35:23.585Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/react-transition-group",
+          "observedAt": "2026-11-16T10:35:23.585Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/react-transition-group",
+          "observedAt": "2026-11-16T10:35:23.585Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/react-transition-group",
+          "observedAt": "2026-11-16T10:35:23.585Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/react-transition-group",
+          "observedAt": "2026-11-16T10:35:23.585Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

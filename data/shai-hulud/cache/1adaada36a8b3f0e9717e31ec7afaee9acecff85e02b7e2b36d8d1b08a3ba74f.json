@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "pkg": "pm2-gelf-json",
+  "source": "https://registry.npmjs.org/pm2-gelf-json",
+  "fetchedAt": "2026-11-16T10:32:26.397Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 7
+  },
+  "sourceSha256": "e0a1f48830109f13fef794ec8823c9721c2fca66be6c01fc3716c147b698d0b2",
+  "versions": [
+    {
+      "pkg": "pm2-gelf-json",
+      "semver": "1.0.3",
+      "publishedAt": "2022-02-20T09:20:53.197Z",
+      "publisher": "art-ws",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 5643,
+      "dependencies": {
+        "pm2": "latest",
+        "pmx": "latest",
+        "gelf-pro": "~1.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/pm2-gelf-json",
+          "observedAt": "2026-11-16T10:32:26.397Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/pm2-gelf-json",
+          "observedAt": "2026-11-16T10:32:26.397Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/pm2-gelf-json",
+          "observedAt": "2026-11-16T10:32:26.397Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/pm2-gelf-json",
+          "observedAt": "2026-11-16T10:32:26.397Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/pm2-gelf-json",
+          "observedAt": "2026-11-16T10:32:26.397Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/pm2-gelf-json",
+          "observedAt": "2026-11-16T10:32:26.397Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "pm2-gelf-json",
+      "semver": "1.0.4",
+      "publishedAt": "2025-09-15T05:21:18.413Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/pm2-gelf-json",
+          "observedAt": "2026-11-16T10:32:26.397Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "pm2-gelf-json",
+      "semver": "1.0.5",
+      "publishedAt": "2025-09-15T08:58:39.621Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/pm2-gelf-json",
+          "observedAt": "2026-11-16T10:32:26.397Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

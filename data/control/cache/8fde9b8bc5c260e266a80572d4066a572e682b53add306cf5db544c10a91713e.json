@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@babel/plugin-syntax-private-property-in-object",
+  "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-private-property-in-object",
+  "fetchedAt": "2026-11-16T10:34:32.182Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 2
+  },
+  "sourceSha256": "323cd1cdd08239d41c84674e83435c77fd8bd59f43b35c9119fb11031eb1a37e",
+  "versions": [
+    {
+      "pkg": "@babel/plugin-syntax-private-property-in-object",
+      "semver": "7.14.5",
+      "publishedAt": "2021-06-09T23:11:53.125Z",
+      "publisher": "nicolo-ribaudo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 2823,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "^7.14.5"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-private-property-in-object",
+          "observedAt": "2026-11-16T10:34:32.182Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-private-property-in-object",
+          "observedAt": "2026-11-16T10:34:32.182Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-private-property-in-object",
+          "observedAt": "2026-11-16T10:34:32.182Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-private-property-in-object",
+          "observedAt": "2026-11-16T10:34:32.182Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-private-property-in-object",
+          "observedAt": "2026-11-16T10:34:32.182Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-private-property-in-object",
+          "observedAt": "2026-11-16T10:34:32.182Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

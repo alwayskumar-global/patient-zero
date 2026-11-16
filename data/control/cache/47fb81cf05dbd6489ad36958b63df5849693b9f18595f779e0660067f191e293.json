@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "is-potential-custom-element-name",
+  "source": "https://registry.npmjs.org/is-potential-custom-element-name",
+  "fetchedAt": "2026-11-16T10:35:06.762Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 2
+  },
+  "sourceSha256": "89c5979798fdff6f0ce0b3dfff9644d2a8ea17319e93a3cc677b01f928220d29",
+  "versions": [
+    {
+      "pkg": "is-potential-custom-element-name",
+      "semver": "1.0.1",
+      "publishedAt": "2021-04-07T07:43:00.708Z",
+      "publisher": "mathias",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 3918,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/is-potential-custom-element-name",
+          "observedAt": "2026-11-16T10:35:06.762Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/is-potential-custom-element-name",
+          "observedAt": "2026-11-16T10:35:06.762Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/is-potential-custom-element-name",
+          "observedAt": "2026-11-16T10:35:06.762Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/is-potential-custom-element-name",
+          "observedAt": "2026-11-16T10:35:06.762Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/is-potential-custom-element-name",
+          "observedAt": "2026-11-16T10:35:06.762Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/is-potential-custom-element-name",
+          "observedAt": "2026-11-16T10:35:06.762Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

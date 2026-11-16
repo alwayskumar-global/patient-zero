@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "observedAt": "2026-11-16T10:41:17.312Z",
+  "query": "https://api.osv.dev/v1/query",
+  "matchedVersions": 515,
+  "referenceVersions": 516,
+  "firstPublicAdvisoryVerified": false
+}

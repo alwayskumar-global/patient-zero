@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "pkg": "sonic-boom",
+  "source": "https://registry.npmjs.org/sonic-boom",
+  "fetchedAt": "2026-11-16T10:35:26.754Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 66
+  },
+  "sourceSha256": "11fb2889393ca05633ffdc8e8ddef4ab34e0a1d34a3a6d7be38e4d7f16b63afc",
+  "versions": [
+    {
+      "pkg": "sonic-boom",
+      "semver": "2.8.0",
+      "publishedAt": "2022-04-27T21:21:57.657Z",
+      "publisher": "jsumners",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 57676,
+      "dependencies": {
+        "atomic-sleep": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/sonic-boom",
+          "observedAt": "2026-11-16T10:35:26.754Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/sonic-boom",
+          "observedAt": "2026-11-16T10:35:26.754Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/sonic-boom",
+          "observedAt": "2026-11-16T10:35:26.754Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/sonic-boom",
+          "observedAt": "2026-11-16T10:35:26.754Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/sonic-boom",
+          "observedAt": "2026-11-16T10:35:26.754Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/sonic-boom",
+          "observedAt": "2026-11-16T10:35:26.754Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "sonic-boom",
+      "semver": "4.2.0",
+      "publishedAt": "2024-10-15T12:40:35.075Z",
+      "publisher": "matteo.collina",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 85200,
+      "dependencies": {
+        "atomic-sleep": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/sonic-boom",
+          "observedAt": "2026-11-16T10:35:26.754Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/sonic-boom",
+          "observedAt": "2026-11-16T10:35:26.754Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/sonic-boom",
+          "observedAt": "2026-11-16T10:35:26.754Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/sonic-boom",
+          "observedAt": "2026-11-16T10:35:26.754Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/sonic-boom",
+          "observedAt": "2026-11-16T10:35:26.754Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/sonic-boom",
+          "observedAt": "2026-11-16T10:35:26.754Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

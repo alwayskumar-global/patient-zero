@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@discoveryjs/json-ext",
+  "source": "https://registry.npmjs.org/%40discoveryjs%2Fjson-ext",
+  "fetchedAt": "2026-11-16T10:34:33.954Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 21
+  },
+  "sourceSha256": "8a3e3ad8affbd51aca7c4fa019237c7e3b402bc21f3ff4dba202e2ae6b00bc1c",
+  "versions": [
+    {
+      "pkg": "@discoveryjs/json-ext",
+      "semver": "0.6.3",
+      "publishedAt": "2024-10-24T21:23:22.715Z",
+      "publisher": "lahmatiy",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 147995,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40discoveryjs%2Fjson-ext",
+          "observedAt": "2026-11-16T10:34:33.954Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40discoveryjs%2Fjson-ext",
+          "observedAt": "2026-11-16T10:34:33.954Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40discoveryjs%2Fjson-ext",
+          "observedAt": "2026-11-16T10:34:33.954Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40discoveryjs%2Fjson-ext",
+          "observedAt": "2026-11-16T10:34:33.954Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40discoveryjs%2Fjson-ext",
+          "observedAt": "2026-11-16T10:34:33.954Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40discoveryjs%2Fjson-ext",
+          "observedAt": "2026-11-16T10:34:33.954Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

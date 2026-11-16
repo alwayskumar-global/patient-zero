@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "pkg": "proxy-addr",
+  "source": "https://registry.npmjs.org/proxy-addr",
+  "fetchedAt": "2026-11-16T10:35:21.498Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 28
+  },
+  "sourceSha256": "e8b183511f72bc962775894f5e2991b8cf708510000e5080be199a4cd4bfdeba",
+  "versions": [
+    {
+      "pkg": "proxy-addr",
+      "semver": "2.0.7",
+      "publishedAt": "2021-06-01T00:57:28.507Z",
+      "publisher": "dougwilson",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 15399,
+      "dependencies": {
+        "forwarded": "0.2.0",
+        "ipaddr.js": "1.9.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/proxy-addr",
+          "observedAt": "2026-11-16T10:35:21.498Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/proxy-addr",
+          "observedAt": "2026-11-16T10:35:21.498Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/proxy-addr",
+          "observedAt": "2026-11-16T10:35:21.498Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/proxy-addr",
+          "observedAt": "2026-11-16T10:35:21.498Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/proxy-addr",
+          "observedAt": "2026-11-16T10:35:21.498Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/proxy-addr",
+          "observedAt": "2026-11-16T10:35:21.498Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

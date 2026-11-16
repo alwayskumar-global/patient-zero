@@ -1,0 +1,210 @@
+{
+  "schemaVersion": 1,
+  "pkg": "combined-stream",
+  "source": "https://registry.npmjs.org/combined-stream",
+  "fetchedAt": "2026-11-16T10:34:57.958Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 18
+  },
+  "sourceSha256": "30648356413d9030708456070a4d23eed133c75bce42d6e7dc3b2cf0b66bea22",
+  "versions": [
+    {
+      "pkg": "combined-stream",
+      "semver": "0.0.3",
+      "publishedAt": "2011-05-28T13:49:43.181Z",
+      "publisher": null,
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "delayed-stream": "0.0.5"
+      },
+      "evidence": {
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/combined-stream",
+          "observedAt": "2026-11-16T10:34:57.958Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/combined-stream",
+          "observedAt": "2026-11-16T10:34:57.958Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/combined-stream",
+          "observedAt": "2026-11-16T10:34:57.958Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/combined-stream",
+          "observedAt": "2026-11-16T10:34:57.958Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "combined-stream",
+      "semver": "0.0.4",
+      "publishedAt": "2013-02-02T18:29:01.654Z",
+      "publisher": "celer",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "delayed-stream": "0.0.5"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/combined-stream",
+          "observedAt": "2026-11-16T10:34:57.958Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/combined-stream",
+          "observedAt": "2026-11-16T10:34:57.958Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/combined-stream",
+          "observedAt": "2026-11-16T10:34:57.958Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/combined-stream",
+          "observedAt": "2026-11-16T10:34:57.958Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/combined-stream",
+          "observedAt": "2026-11-16T10:34:57.958Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "combined-stream",
+      "semver": "0.0.7",
+      "publishedAt": "2014-10-31T10:18:38.784Z",
+      "publisher": "felixge",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "delayed-stream": "0.0.5"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/combined-stream",
+          "observedAt": "2026-11-16T10:34:57.958Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/combined-stream",
+          "observedAt": "2026-11-16T10:34:57.958Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/combined-stream",
+          "observedAt": "2026-11-16T10:34:57.958Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/combined-stream",
+          "observedAt": "2026-11-16T10:34:57.958Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/combined-stream",
+          "observedAt": "2026-11-16T10:34:57.958Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "combined-stream",
+      "semver": "1.0.3",
+      "publishedAt": "2015-05-19T12:43:10.026Z",
+      "publisher": "apechimp",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "delayed-stream": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/combined-stream",
+          "observedAt": "2026-11-16T10:34:57.958Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/combined-stream",
+          "observedAt": "2026-11-16T10:34:57.958Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/combined-stream",
+          "observedAt": "2026-11-16T10:34:57.958Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/combined-stream",
+          "observedAt": "2026-11-16T10:34:57.958Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/combined-stream",
+          "observedAt": "2026-11-16T10:34:57.958Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "combined-stream",
+      "semver": "1.0.8",
+      "publishedAt": "2019-05-12T17:49:45.337Z",
+      "publisher": "alexindigo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 11514,
+      "dependencies": {
+        "delayed-stream": "~1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/combined-stream",
+          "observedAt": "2026-11-16T10:34:57.958Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/combined-stream",
+          "observedAt": "2026-11-16T10:34:57.958Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/combined-stream",
+          "observedAt": "2026-11-16T10:34:57.958Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/combined-stream",
+          "observedAt": "2026-11-16T10:34:57.958Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/combined-stream",
+          "observedAt": "2026-11-16T10:34:57.958Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/combined-stream",
+          "observedAt": "2026-11-16T10:34:57.958Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,760 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@typescript-eslint/eslint-plugin",
+  "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+  "fetchedAt": "2026-11-16T10:34:52.161Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 4901
+  },
+  "sourceSha256": "bd0479453043b2a3f03661ffbb175012b453d21085ad795afd0204cab089267a",
+  "versions": [
+    {
+      "pkg": "@typescript-eslint/eslint-plugin",
+      "semver": "1.13.1-alpha.2",
+      "publishedAt": "2019-07-21T23:06:23.027Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@typescript-eslint/eslint-plugin",
+      "semver": "8.38.0",
+      "publishedAt": "2025-07-21T17:22:23.224Z",
+      "publisher": "jameshenry",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 2002089,
+      "dependencies": {
+        "ignore": "^7.0.0",
+        "graphemer": "^1.4.0",
+        "ts-api-utils": "^2.1.0",
+        "natural-compare": "^1.4.0",
+        "@typescript-eslint/utils": "8.38.0",
+        "@eslint-community/regexpp": "^4.10.0",
+        "@typescript-eslint/type-utils": "8.38.0",
+        "@typescript-eslint/visitor-keys": "8.38.0",
+        "@typescript-eslint/scope-manager": "8.38.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@typescript-eslint/eslint-plugin",
+      "semver": "8.38.1-alpha.0",
+      "publishedAt": "2025-08-01T22:28:15.902Z",
+      "publisher": "jameshenry",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 2002153,
+      "dependencies": {
+        "ignore": "^7.0.0",
+        "graphemer": "^1.4.0",
+        "ts-api-utils": "^2.1.0",
+        "natural-compare": "^1.4.0",
+        "@typescript-eslint/utils": "8.38.1-alpha.0",
+        "@eslint-community/regexpp": "^4.10.0",
+        "@typescript-eslint/type-utils": "8.38.1-alpha.0",
+        "@typescript-eslint/visitor-keys": "8.38.1-alpha.0",
+        "@typescript-eslint/scope-manager": "8.38.1-alpha.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@typescript-eslint/eslint-plugin",
+      "semver": "8.38.1-alpha.1",
+      "publishedAt": "2025-08-01T22:48:59.226Z",
+      "publisher": "jameshenry",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 2002153,
+      "dependencies": {
+        "ignore": "^7.0.0",
+        "graphemer": "^1.4.0",
+        "ts-api-utils": "^2.1.0",
+        "natural-compare": "^1.4.0",
+        "@typescript-eslint/utils": "8.38.1-alpha.1",
+        "@eslint-community/regexpp": "^4.10.0",
+        "@typescript-eslint/type-utils": "8.38.1-alpha.1",
+        "@typescript-eslint/visitor-keys": "8.38.1-alpha.1",
+        "@typescript-eslint/scope-manager": "8.38.1-alpha.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@typescript-eslint/eslint-plugin",
+      "semver": "8.38.1-alpha.2",
+      "publishedAt": "2025-08-01T23:07:40.241Z",
+      "publisher": "jameshenry",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 2002201,
+      "dependencies": {
+        "ignore": "^7.0.0",
+        "graphemer": "^1.4.0",
+        "ts-api-utils": "^2.1.0",
+        "natural-compare": "^1.4.0",
+        "@typescript-eslint/utils": "8.38.1-alpha.2",
+        "@eslint-community/regexpp": "^4.10.0",
+        "@typescript-eslint/type-utils": "8.38.1-alpha.2",
+        "@typescript-eslint/visitor-keys": "8.38.1-alpha.2",
+        "@typescript-eslint/scope-manager": "8.38.1-alpha.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@typescript-eslint/eslint-plugin",
+      "semver": "8.38.1-alpha.3",
+      "publishedAt": "2025-08-01T23:31:33.410Z",
+      "publisher": "jameshenry",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 2002278,
+      "dependencies": {
+        "ignore": "^7.0.0",
+        "graphemer": "^1.4.0",
+        "ts-api-utils": "^2.1.0",
+        "natural-compare": "^1.4.0",
+        "@typescript-eslint/utils": "8.38.1-alpha.3",
+        "@eslint-community/regexpp": "^4.10.0",
+        "@typescript-eslint/type-utils": "8.38.1-alpha.3",
+        "@typescript-eslint/visitor-keys": "8.38.1-alpha.3",
+        "@typescript-eslint/scope-manager": "8.38.1-alpha.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@typescript-eslint/eslint-plugin",
+      "semver": "8.38.1-alpha.4",
+      "publishedAt": "2025-08-03T00:42:40.047Z",
+      "publisher": "jameshenry",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 2001821,
+      "dependencies": {
+        "ignore": "^7.0.0",
+        "graphemer": "^1.4.0",
+        "ts-api-utils": "^2.1.0",
+        "natural-compare": "^1.4.0",
+        "@typescript-eslint/utils": "8.38.1-alpha.4",
+        "@eslint-community/regexpp": "^4.10.0",
+        "@typescript-eslint/type-utils": "8.38.1-alpha.4",
+        "@typescript-eslint/visitor-keys": "8.38.1-alpha.4",
+        "@typescript-eslint/scope-manager": "8.38.1-alpha.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@typescript-eslint/eslint-plugin",
+      "semver": "8.38.1-alpha.5",
+      "publishedAt": "2025-08-03T17:44:46.660Z",
+      "publisher": "jameshenry",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 2001821,
+      "dependencies": {
+        "ignore": "^7.0.0",
+        "graphemer": "^1.4.0",
+        "ts-api-utils": "^2.1.0",
+        "natural-compare": "^1.4.0",
+        "@typescript-eslint/utils": "8.38.1-alpha.5",
+        "@eslint-community/regexpp": "^4.10.0",
+        "@typescript-eslint/type-utils": "8.38.1-alpha.5",
+        "@typescript-eslint/visitor-keys": "8.38.1-alpha.5",
+        "@typescript-eslint/scope-manager": "8.38.1-alpha.5"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@typescript-eslint/eslint-plugin",
+      "semver": "8.38.1-alpha.6",
+      "publishedAt": "2025-08-03T19:06:04.559Z",
+      "publisher": "jameshenry",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 2002610,
+      "dependencies": {
+        "ignore": "^7.0.0",
+        "graphemer": "^1.4.0",
+        "ts-api-utils": "^2.1.0",
+        "natural-compare": "^1.4.0",
+        "@typescript-eslint/utils": "8.38.1-alpha.6",
+        "@eslint-community/regexpp": "^4.10.0",
+        "@typescript-eslint/type-utils": "8.38.1-alpha.6",
+        "@typescript-eslint/visitor-keys": "8.38.1-alpha.6",
+        "@typescript-eslint/scope-manager": "8.38.1-alpha.6"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@typescript-eslint/eslint-plugin",
+      "semver": "8.38.1-alpha.7",
+      "publishedAt": "2025-08-04T02:52:48.891Z",
+      "publisher": "jameshenry",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 2002533,
+      "dependencies": {
+        "ignore": "^7.0.0",
+        "graphemer": "^1.4.0",
+        "ts-api-utils": "^2.1.0",
+        "natural-compare": "^1.4.0",
+        "@typescript-eslint/utils": "8.38.1-alpha.7",
+        "@eslint-community/regexpp": "^4.10.0",
+        "@typescript-eslint/type-utils": "8.38.1-alpha.7",
+        "@typescript-eslint/visitor-keys": "8.38.1-alpha.7",
+        "@typescript-eslint/scope-manager": "8.38.1-alpha.7"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@typescript-eslint/eslint-plugin",
+      "semver": "8.38.1-alpha.8",
+      "publishedAt": "2025-08-04T14:57:26.409Z",
+      "publisher": "jameshenry",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 2002351,
+      "dependencies": {
+        "ignore": "^7.0.0",
+        "graphemer": "^1.4.0",
+        "ts-api-utils": "^2.1.0",
+        "natural-compare": "^1.4.0",
+        "@typescript-eslint/utils": "8.38.1-alpha.8",
+        "@eslint-community/regexpp": "^4.10.0",
+        "@typescript-eslint/type-utils": "8.38.1-alpha.8",
+        "@typescript-eslint/visitor-keys": "8.38.1-alpha.8",
+        "@typescript-eslint/scope-manager": "8.38.1-alpha.8"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@typescript-eslint/eslint-plugin",
+      "semver": "8.39.0",
+      "publishedAt": "2025-08-04T17:26:41.606Z",
+      "publisher": "jameshenry",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 2002479,
+      "dependencies": {
+        "ignore": "^7.0.0",
+        "graphemer": "^1.4.0",
+        "ts-api-utils": "^2.1.0",
+        "natural-compare": "^1.4.0",
+        "@typescript-eslint/utils": "8.39.0",
+        "@eslint-community/regexpp": "^4.10.0",
+        "@typescript-eslint/type-utils": "8.39.0",
+        "@typescript-eslint/visitor-keys": "8.39.0",
+        "@typescript-eslint/scope-manager": "8.39.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@typescript-eslint/eslint-plugin",
+      "semver": "8.39.1-alpha.0",
+      "publishedAt": "2025-08-04T17:39:52.398Z",
+      "publisher": "jameshenry",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 2002543,
+      "dependencies": {
+        "ignore": "^7.0.0",
+        "graphemer": "^1.4.0",
+        "ts-api-utils": "^2.1.0",
+        "natural-compare": "^1.4.0",
+        "@typescript-eslint/utils": "8.39.1-alpha.0",
+        "@eslint-community/regexpp": "^4.10.0",
+        "@typescript-eslint/type-utils": "8.39.1-alpha.0",
+        "@typescript-eslint/visitor-keys": "8.39.1-alpha.0",
+        "@typescript-eslint/scope-manager": "8.39.1-alpha.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@typescript-eslint/eslint-plugin",
+      "semver": "8.39.1-alpha.1",
+      "publishedAt": "2025-08-05T00:14:23.727Z",
+      "publisher": "jameshenry",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 2002543,
+      "dependencies": {
+        "ignore": "^7.0.0",
+        "graphemer": "^1.4.0",
+        "ts-api-utils": "^2.1.0",
+        "natural-compare": "^1.4.0",
+        "@typescript-eslint/utils": "8.39.1-alpha.1",
+        "@eslint-community/regexpp": "^4.10.0",
+        "@typescript-eslint/type-utils": "8.39.1-alpha.1",
+        "@typescript-eslint/visitor-keys": "8.39.1-alpha.1",
+        "@typescript-eslint/scope-manager": "8.39.1-alpha.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@typescript-eslint/eslint-plugin",
+      "semver": "8.39.1-alpha.2",
+      "publishedAt": "2025-08-05T00:24:54.727Z",
+      "publisher": "jameshenry",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 2002543,
+      "dependencies": {
+        "ignore": "^7.0.0",
+        "graphemer": "^1.4.0",
+        "ts-api-utils": "^2.1.0",
+        "natural-compare": "^1.4.0",
+        "@typescript-eslint/utils": "8.39.1-alpha.2",
+        "@eslint-community/regexpp": "^4.10.0",
+        "@typescript-eslint/type-utils": "8.39.1-alpha.2",
+        "@typescript-eslint/visitor-keys": "8.39.1-alpha.2",
+        "@typescript-eslint/scope-manager": "8.39.1-alpha.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40typescript-eslint%2Feslint-plugin",
+          "observedAt": "2026-11-16T10:34:52.161Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

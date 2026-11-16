@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "pkg": "is-lambda",
+  "source": "https://registry.npmjs.org/is-lambda",
+  "fetchedAt": "2026-11-16T10:35:06.327Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 2
+  },
+  "sourceSha256": "ec81c44bfc7477e908a3cb04cf6f3ed9d73293a7f727974aeb16d88561dc2c4a",
+  "versions": [
+    {
+      "pkg": "is-lambda",
+      "semver": "1.0.1",
+      "publishedAt": "2017-05-24T19:07:11.056Z",
+      "publisher": "watson",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/is-lambda",
+          "observedAt": "2026-11-16T10:35:06.327Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/is-lambda",
+          "observedAt": "2026-11-16T10:35:06.327Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/is-lambda",
+          "observedAt": "2026-11-16T10:35:06.327Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/is-lambda",
+          "observedAt": "2026-11-16T10:35:06.327Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/is-lambda",
+          "observedAt": "2026-11-16T10:35:06.327Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

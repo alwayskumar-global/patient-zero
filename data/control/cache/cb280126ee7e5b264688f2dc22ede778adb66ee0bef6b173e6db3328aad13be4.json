@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "minipass-flush",
+  "source": "https://registry.npmjs.org/minipass-flush",
+  "fetchedAt": "2026-11-16T10:35:13.618Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 10
+  },
+  "sourceSha256": "ca331bdd6f1647e4223f1569f2608b73901f400d587babd799de0162e0685c55",
+  "versions": [
+    {
+      "pkg": "minipass-flush",
+      "semver": "1.0.5",
+      "publishedAt": "2019-09-30T20:54:48.902Z",
+      "publisher": "isaacs",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 3771,
+      "dependencies": {
+        "minipass": "^3.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/minipass-flush",
+          "observedAt": "2026-11-16T10:35:13.618Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/minipass-flush",
+          "observedAt": "2026-11-16T10:35:13.618Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/minipass-flush",
+          "observedAt": "2026-11-16T10:35:13.618Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/minipass-flush",
+          "observedAt": "2026-11-16T10:35:13.618Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/minipass-flush",
+          "observedAt": "2026-11-16T10:35:13.618Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/minipass-flush",
+          "observedAt": "2026-11-16T10:35:13.618Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

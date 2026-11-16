@@ -1,0 +1,142 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@nativescript-community/typeorm",
+  "source": "https://registry.npmjs.org/%40nativescript-community%2Ftypeorm",
+  "fetchedAt": "2026-11-16T10:31:26.568Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 11
+  },
+  "sourceSha256": "bf6a6d01d585af88f8030d57fa494bfe876bb1d971eb406426a7797a45fb15b1",
+  "versions": [
+    {
+      "pkg": "@nativescript-community/typeorm",
+      "semver": "0.2.29",
+      "publishedAt": "2020-11-09T20:14:39.766Z",
+      "publisher": "farfromrefuge",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 16171478,
+      "dependencies": {
+        "glob": "^7.1.6",
+        "chalk": "^4.1.0",
+        "debug": "^4.1.1",
+        "tslib": "^1.13.0",
+        "yargs": "^16.0.3",
+        "buffer": "^5.5.0",
+        "dotenv": "^8.2.0",
+        "mkdirp": "^1.0.4",
+        "sha.js": "^2.4.11",
+        "xml2js": "^0.4.23",
+        "js-yaml": "^3.14.0",
+        "yargonaut": "^1.1.2",
+        "app-root-path": "^3.0.0",
+        "cli-highlight": "^2.1.4",
+        "reflect-metadata": "^0.1.13",
+        "@sqltools/formatter": "1.2.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Ftypeorm",
+          "observedAt": "2026-11-16T10:31:26.568Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Ftypeorm",
+          "observedAt": "2026-11-16T10:31:26.568Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Ftypeorm",
+          "observedAt": "2026-11-16T10:31:26.568Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Ftypeorm",
+          "observedAt": "2026-11-16T10:31:26.568Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Ftypeorm",
+          "observedAt": "2026-11-16T10:31:26.568Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Ftypeorm",
+          "observedAt": "2026-11-16T10:31:26.568Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nativescript-community/typeorm",
+      "semver": "0.2.30",
+      "publishedAt": "2025-09-15T09:16:53.366Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Ftypeorm",
+          "observedAt": "2026-11-16T10:31:26.568Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nativescript-community/typeorm",
+      "semver": "0.2.31",
+      "publishedAt": "2025-09-15T10:42:25.219Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Ftypeorm",
+          "observedAt": "2026-11-16T10:31:26.568Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nativescript-community/typeorm",
+      "semver": "0.2.32",
+      "publishedAt": "2025-09-15T10:47:54.123Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Ftypeorm",
+          "observedAt": "2026-11-16T10:31:26.568Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nativescript-community/typeorm",
+      "semver": "0.2.33",
+      "publishedAt": "2025-09-15T13:16:48.773Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Ftypeorm",
+          "observedAt": "2026-11-16T10:31:26.568Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

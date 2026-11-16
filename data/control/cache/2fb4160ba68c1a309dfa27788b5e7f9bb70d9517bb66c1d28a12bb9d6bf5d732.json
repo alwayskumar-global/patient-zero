@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "postgres-date",
+  "source": "https://registry.npmjs.org/postgres-date",
+  "fetchedAt": "2026-11-16T10:35:20.975Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 12
+  },
+  "sourceSha256": "a70a53202949eb5cd301c5bb0825dc9d72c9640bbf48aa7ec192bcbbe8a3de32",
+  "versions": [
+    {
+      "pkg": "postgres-date",
+      "semver": "2.1.0",
+      "publishedAt": "2021-12-08T16:38:22.555Z",
+      "publisher": "bendrucker",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 9861,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/postgres-date",
+          "observedAt": "2026-11-16T10:35:20.975Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/postgres-date",
+          "observedAt": "2026-11-16T10:35:20.975Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/postgres-date",
+          "observedAt": "2026-11-16T10:35:20.975Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/postgres-date",
+          "observedAt": "2026-11-16T10:35:20.975Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/postgres-date",
+          "observedAt": "2026-11-16T10:35:20.975Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/postgres-date",
+          "observedAt": "2026-11-16T10:35:20.975Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "global-dirs",
+  "source": "https://registry.npmjs.org/global-dirs",
+  "fetchedAt": "2026-11-16T10:35:03.245Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 9
+  },
+  "sourceSha256": "a827da0bdf659ffc33e1653caf69108a272913de381fa2742a9ec84500443d0a",
+  "versions": [
+    {
+      "pkg": "global-dirs",
+      "semver": "4.0.0",
+      "publishedAt": "2023-11-06T15:45:22.808Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 8363,
+      "dependencies": {
+        "ini": "2.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/global-dirs",
+          "observedAt": "2026-11-16T10:35:03.245Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/global-dirs",
+          "observedAt": "2026-11-16T10:35:03.245Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/global-dirs",
+          "observedAt": "2026-11-16T10:35:03.245Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/global-dirs",
+          "observedAt": "2026-11-16T10:35:03.245Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/global-dirs",
+          "observedAt": "2026-11-16T10:35:03.245Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/global-dirs",
+          "observedAt": "2026-11-16T10:35:03.245Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@babel/plugin-syntax-unicode-sets-regex",
+  "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-unicode-sets-regex",
+  "fetchedAt": "2026-11-16T10:34:32.221Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 7
+  },
+  "sourceSha256": "69985915694cbe5cd5634d2609a5cb67321c3eb38679c3a24b816f683f2603d3",
+  "versions": [
+    {
+      "pkg": "@babel/plugin-syntax-unicode-sets-regex",
+      "semver": "7.21.4-esm.4",
+      "publishedAt": "2023-04-04T15:13:42.001Z",
+      "publisher": "nicolo-ribaudo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 4330,
+      "dependencies": {
+        "@babel/helper-create-regexp-features-plugin": "7.21.4-esm.4",
+        "@babel/helper-plugin-utils": "7.21.4-esm.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-unicode-sets-regex",
+          "observedAt": "2026-11-16T10:34:32.221Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-unicode-sets-regex",
+          "observedAt": "2026-11-16T10:34:32.221Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-unicode-sets-regex",
+          "observedAt": "2026-11-16T10:34:32.221Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-unicode-sets-regex",
+          "observedAt": "2026-11-16T10:34:32.221Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-unicode-sets-regex",
+          "observedAt": "2026-11-16T10:34:32.221Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-unicode-sets-regex",
+          "observedAt": "2026-11-16T10:34:32.221Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

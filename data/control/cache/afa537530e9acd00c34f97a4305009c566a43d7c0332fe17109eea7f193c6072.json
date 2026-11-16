@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "rrweb-cssom",
+  "source": "https://registry.npmjs.org/rrweb-cssom",
+  "fetchedAt": "2026-11-16T10:35:25.232Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 4
+  },
+  "sourceSha256": "01d0241d428ca23b6bfb21a2aec98afa4b3427a94914d4f375e9f52134cd198d",
+  "versions": [
+    {
+      "pkg": "rrweb-cssom",
+      "semver": "0.8.0",
+      "publishedAt": "2024-10-14T15:40:34.427Z",
+      "publisher": "fitz5264",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 105478,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/rrweb-cssom",
+          "observedAt": "2026-11-16T10:35:25.232Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/rrweb-cssom",
+          "observedAt": "2026-11-16T10:35:25.232Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/rrweb-cssom",
+          "observedAt": "2026-11-16T10:35:25.232Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/rrweb-cssom",
+          "observedAt": "2026-11-16T10:35:25.232Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/rrweb-cssom",
+          "observedAt": "2026-11-16T10:35:25.232Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/rrweb-cssom",
+          "observedAt": "2026-11-16T10:35:25.232Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

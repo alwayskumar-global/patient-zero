@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "callsites",
+  "source": "https://registry.npmjs.org/callsites",
+  "fetchedAt": "2026-11-16T10:34:57.366Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 10
+  },
+  "sourceSha256": "5359b87cde77082cbb888d7896764815594845b7b36ea8e6cf3a018651d9d3ce",
+  "versions": [
+    {
+      "pkg": "callsites",
+      "semver": "4.2.0",
+      "publishedAt": "2024-06-29T13:46:24.572Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7134,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/callsites",
+          "observedAt": "2026-11-16T10:34:57.366Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/callsites",
+          "observedAt": "2026-11-16T10:34:57.366Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/callsites",
+          "observedAt": "2026-11-16T10:34:57.366Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/callsites",
+          "observedAt": "2026-11-16T10:34:57.366Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/callsites",
+          "observedAt": "2026-11-16T10:34:57.366Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/callsites",
+          "observedAt": "2026-11-16T10:34:57.366Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

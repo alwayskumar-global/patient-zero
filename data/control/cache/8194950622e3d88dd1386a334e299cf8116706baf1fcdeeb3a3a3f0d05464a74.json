@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "pkg": "tinyglobby",
+  "source": "https://registry.npmjs.org/tinyglobby",
+  "fetchedAt": "2026-11-16T10:35:29.221Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 21
+  },
+  "sourceSha256": "c4fe05dc2665a12e8215a443030b51a2c1b9a99d23ef911407c7a86d40747bc6",
+  "versions": [
+    {
+      "pkg": "tinyglobby",
+      "semver": "0.2.14",
+      "publishedAt": "2025-05-25T16:19:05.967Z",
+      "publisher": "superchupu",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 31120,
+      "dependencies": {
+        "fdir": "^6.4.4",
+        "picomatch": "^4.0.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/tinyglobby",
+          "observedAt": "2026-11-16T10:35:29.221Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/tinyglobby",
+          "observedAt": "2026-11-16T10:35:29.221Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/tinyglobby",
+          "observedAt": "2026-11-16T10:35:29.221Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/tinyglobby",
+          "observedAt": "2026-11-16T10:35:29.221Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/tinyglobby",
+          "observedAt": "2026-11-16T10:35:29.221Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/tinyglobby",
+          "observedAt": "2026-11-16T10:35:29.221Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

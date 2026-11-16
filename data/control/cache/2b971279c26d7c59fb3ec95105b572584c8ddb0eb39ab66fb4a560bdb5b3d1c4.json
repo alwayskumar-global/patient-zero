@@ -1,0 +1,432 @@
+{
+  "schemaVersion": 1,
+  "pkg": "superagent",
+  "source": "https://registry.npmjs.org/superagent",
+  "fetchedAt": "2026-11-16T10:35:28.180Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 185
+  },
+  "sourceSha256": "3e1bad2419f0a5258ecb936b0288a27d003ec53015655b24631848bd7f698019",
+  "versions": [
+    {
+      "pkg": "superagent",
+      "semver": "0.15.5",
+      "publishedAt": "2013-10-09T20:54:06.818Z",
+      "publisher": "tjholowaychuk",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "qs": "0.6.5",
+        "mime": "1.2.5",
+        "debug": "~0.7.2",
+        "reduce": "RedVentures/reduce#346d59",
+        "methods": "0.0.1",
+        "cookiejar": "1.3.0",
+        "formidable": "1.0.14",
+        "emitter-component": "1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/superagent",
+          "observedAt": "2026-11-16T10:35:28.180Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/superagent",
+          "observedAt": "2026-11-16T10:35:28.180Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/superagent",
+          "observedAt": "2026-11-16T10:35:28.180Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/superagent",
+          "observedAt": "2026-11-16T10:35:28.180Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/superagent",
+          "observedAt": "2026-11-16T10:35:28.180Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "superagent",
+      "semver": "0.18.2",
+      "publishedAt": "2014-07-11T22:59:23.699Z",
+      "publisher": "kof",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "qs": "0.6.6",
+        "mime": "1.2.11",
+        "debug": "~1.0.1",
+        "extend": "~1.2.1",
+        "methods": "1.0.1",
+        "cookiejar": "2.0.1",
+        "form-data": "0.1.3",
+        "formidable": "1.0.14",
+        "readable-stream": "1.0.27-1",
+        "reduce-component": "1.0.1",
+        "component-emitter": "1.1.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/superagent",
+          "observedAt": "2026-11-16T10:35:28.180Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/superagent",
+          "observedAt": "2026-11-16T10:35:28.180Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/superagent",
+          "observedAt": "2026-11-16T10:35:28.180Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/superagent",
+          "observedAt": "2026-11-16T10:35:28.180Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/superagent",
+          "observedAt": "2026-11-16T10:35:28.180Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "superagent",
+      "semver": "0.21.0",
+      "publishedAt": "2014-11-11T16:55:19.370Z",
+      "publisher": "gjohnson",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "qs": "1.2.0",
+        "mime": "1.2.11",
+        "debug": "2",
+        "extend": "~1.2.1",
+        "methods": "1.0.1",
+        "cookiejar": "2.0.1",
+        "form-data": "0.1.3",
+        "formidable": "1.0.14",
+        "readable-stream": "1.0.27-1",
+        "reduce-component": "1.0.1",
+        "component-emitter": "1.1.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/superagent",
+          "observedAt": "2026-11-16T10:35:28.180Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/superagent",
+          "observedAt": "2026-11-16T10:35:28.180Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/superagent",
+          "observedAt": "2026-11-16T10:35:28.180Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/superagent",
+          "observedAt": "2026-11-16T10:35:28.180Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/superagent",
+          "observedAt": "2026-11-16T10:35:28.180Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "superagent",
+      "semver": "1.2.0",
+      "publishedAt": "2015-04-13T18:26:07.934Z",
+      "publisher": "shtylman",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "qs": "2.3.3",
+        "mime": "1.3.4",
+        "debug": "2",
+        "extend": "1.2.1",
+        "methods": "1.0.1",
+        "cookiejar": "2.0.1",
+        "form-data": "0.2.0",
+        "formidable": "1.0.14",
+        "readable-stream": "1.0.27-1",
+        "reduce-component": "1.0.1",
+        "component-emitter": "1.1.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/superagent",
+          "observedAt": "2026-11-16T10:35:28.180Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/superagent",
+          "observedAt": "2026-11-16T10:35:28.180Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/superagent",
+          "observedAt": "2026-11-16T10:35:28.180Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/superagent",
+          "observedAt": "2026-11-16T10:35:28.180Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/superagent",
+          "observedAt": "2026-11-16T10:35:28.180Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "superagent",
+      "semver": "1.4.0",
+      "publishedAt": "2015-09-15T06:13:50.941Z",
+      "publisher": "defunctzombie",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "qs": "2.3.3",
+        "mime": "1.3.4",
+        "debug": "2",
+        "extend": "1.2.1",
+        "methods": "1.0.1",
+        "cookiejar": "2.0.1",
+        "form-data": "0.2.0",
+        "formidable": "1.0.14",
+        "readable-stream": "1.0.27-1",
+        "reduce-component": "1.0.1",
+        "component-emitter": "1.1.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/superagent",
+          "observedAt": "2026-11-16T10:35:28.180Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/superagent",
+          "observedAt": "2026-11-16T10:35:28.180Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/superagent",
+          "observedAt": "2026-11-16T10:35:28.180Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/superagent",
+          "observedAt": "2026-11-16T10:35:28.180Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/superagent",
+          "observedAt": "2026-11-16T10:35:28.180Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "superagent",
+      "semver": "10.2.3",
+      "publishedAt": "2025-07-22T23:12:00.202Z",
+      "publisher": "titanism",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 540903,
+      "dependencies": {
+        "qs": "^6.11.2",
+        "mime": "2.6.0",
+        "debug": "^4.3.7",
+        "methods": "^1.1.2",
+        "cookiejar": "^2.1.4",
+        "form-data": "^4.0.4",
+        "formidable": "^3.5.4",
+        "component-emitter": "^1.3.1",
+        "fast-safe-stringify": "^2.1.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/superagent",
+          "observedAt": "2026-11-16T10:35:28.180Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/superagent",
+          "observedAt": "2026-11-16T10:35:28.180Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/superagent",
+          "observedAt": "2026-11-16T10:35:28.180Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/superagent",
+          "observedAt": "2026-11-16T10:35:28.180Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/superagent",
+          "observedAt": "2026-11-16T10:35:28.180Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/superagent",
+          "observedAt": "2026-11-16T10:35:28.180Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "superagent",
+      "semver": "4.1.0",
+      "publishedAt": "2018-12-26T20:01:25.405Z",
+      "publisher": "kornel",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 484221,
+      "dependencies": {
+        "qs": "^6.6.0",
+        "mime": "^2.4.0",
+        "debug": "^4.1.0",
+        "methods": "^1.1.1",
+        "cookiejar": "^2.1.2",
+        "form-data": "^2.3.3",
+        "formidable": "^1.2.0",
+        "readable-stream": "^3.0.6",
+        "component-emitter": "^1.2.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/superagent",
+          "observedAt": "2026-11-16T10:35:28.180Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/superagent",
+          "observedAt": "2026-11-16T10:35:28.180Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/superagent",
+          "observedAt": "2026-11-16T10:35:28.180Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/superagent",
+          "observedAt": "2026-11-16T10:35:28.180Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/superagent",
+          "observedAt": "2026-11-16T10:35:28.180Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/superagent",
+          "observedAt": "2026-11-16T10:35:28.180Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "superagent",
+      "semver": "5.0.7",
+      "publishedAt": "2019-06-11T18:04:04.676Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/superagent",
+          "observedAt": "2026-11-16T10:35:28.180Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "superagent",
+      "semver": "7.1.1",
+      "publishedAt": "2022-01-19T17:01:19.056Z",
+      "publisher": "niftylettuce",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 581017,
+      "dependencies": {
+        "qs": "^6.10.1",
+        "mime": "^2.5.0",
+        "debug": "^4.3.3",
+        "semver": "^7.3.5",
+        "methods": "^1.1.2",
+        "cookiejar": "^2.1.3",
+        "form-data": "^4.0.0",
+        "formidable": "^2.0.1",
+        "readable-stream": "^3.6.0",
+        "component-emitter": "^1.3.0",
+        "fast-safe-stringify": "^2.1.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/superagent",
+          "observedAt": "2026-11-16T10:35:28.180Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/superagent",
+          "observedAt": "2026-11-16T10:35:28.180Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/superagent",
+          "observedAt": "2026-11-16T10:35:28.180Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/superagent",
+          "observedAt": "2026-11-16T10:35:28.180Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/superagent",
+          "observedAt": "2026-11-16T10:35:28.180Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/superagent",
+          "observedAt": "2026-11-16T10:35:28.180Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

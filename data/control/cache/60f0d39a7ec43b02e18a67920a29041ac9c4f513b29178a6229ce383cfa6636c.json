@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "pkg": "log-symbols",
+  "source": "https://registry.npmjs.org/log-symbols",
+  "fetchedAt": "2026-11-16T10:35:11.644Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 14
+  },
+  "sourceSha256": "eb1acaace62eaf30eba6bf803844182ff385db21aefbfc9cef5e1c50e26b5b32",
+  "versions": [
+    {
+      "pkg": "log-symbols",
+      "semver": "7.0.1",
+      "publishedAt": "2025-05-21T13:47:39.089Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 4396,
+      "dependencies": {
+        "yoctocolors": "^2.1.1",
+        "is-unicode-supported": "^2.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/log-symbols",
+          "observedAt": "2026-11-16T10:35:11.644Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/log-symbols",
+          "observedAt": "2026-11-16T10:35:11.644Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/log-symbols",
+          "observedAt": "2026-11-16T10:35:11.644Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/log-symbols",
+          "observedAt": "2026-11-16T10:35:11.644Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/log-symbols",
+          "observedAt": "2026-11-16T10:35:11.644Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/log-symbols",
+          "observedAt": "2026-11-16T10:35:11.644Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

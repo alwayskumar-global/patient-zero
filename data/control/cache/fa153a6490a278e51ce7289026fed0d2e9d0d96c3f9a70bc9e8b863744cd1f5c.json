@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@emotion/babel-plugin",
+  "source": "https://registry.npmjs.org/%40emotion%2Fbabel-plugin",
+  "fetchedAt": "2026-11-16T10:34:33.979Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 24
+  },
+  "sourceSha256": "9c1dda4582d2fd3e16bd8a8784482f247f07985ef0201298f8dbc9a3d1c18c5c",
+  "versions": [
+    {
+      "pkg": "@emotion/babel-plugin",
+      "semver": "11.13.5",
+      "publishedAt": "2024-11-20T07:58:28.177Z",
+      "publisher": "emotion-release-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 152334,
+      "dependencies": {
+        "stylis": "4.2.0",
+        "find-root": "^1.1.0",
+        "source-map": "^0.5.7",
+        "@emotion/hash": "^0.9.2",
+        "@babel/runtime": "^7.18.3",
+        "@emotion/memoize": "^0.9.0",
+        "@emotion/serialize": "^1.3.3",
+        "convert-source-map": "^1.5.0",
+        "babel-plugin-macros": "^3.1.0",
+        "escape-string-regexp": "^4.0.0",
+        "@babel/helper-module-imports": "^7.16.7"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40emotion%2Fbabel-plugin",
+          "observedAt": "2026-11-16T10:34:33.979Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40emotion%2Fbabel-plugin",
+          "observedAt": "2026-11-16T10:34:33.979Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40emotion%2Fbabel-plugin",
+          "observedAt": "2026-11-16T10:34:33.979Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40emotion%2Fbabel-plugin",
+          "observedAt": "2026-11-16T10:34:33.979Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40emotion%2Fbabel-plugin",
+          "observedAt": "2026-11-16T10:34:33.979Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40emotion%2Fbabel-plugin",
+          "observedAt": "2026-11-16T10:34:33.979Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

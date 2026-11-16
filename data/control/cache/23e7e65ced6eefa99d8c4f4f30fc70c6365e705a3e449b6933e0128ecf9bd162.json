@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "pkg": "resolve-url",
+  "source": "https://registry.npmjs.org/resolve-url",
+  "fetchedAt": "2026-11-16T10:35:24.894Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 3
+  },
+  "sourceSha256": "b6dff7f7675fb8207d0d65a62e9e97bc952690d11d8925c4c488837f1fab8262",
+  "versions": [
+    {
+      "pkg": "resolve-url",
+      "semver": "0.2.1",
+      "publishedAt": "2014-02-25T18:48:50.732Z",
+      "publisher": "lydell",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/resolve-url",
+          "observedAt": "2026-11-16T10:35:24.894Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/resolve-url",
+          "observedAt": "2026-11-16T10:35:24.894Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/resolve-url",
+          "observedAt": "2026-11-16T10:35:24.894Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/resolve-url",
+          "observedAt": "2026-11-16T10:35:24.894Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/resolve-url",
+          "observedAt": "2026-11-16T10:35:24.894Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

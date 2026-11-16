@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@opentelemetry/api",
+  "source": "https://registry.npmjs.org/%40opentelemetry%2Fapi",
+  "fetchedAt": "2026-11-16T10:34:36.760Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 67
+  },
+  "sourceSha256": "f6fa5de68eb851336ea22c2eca7d34902e1bb1f8dbb30eb17c52e29de71cda34",
+  "versions": [
+    {
+      "pkg": "@opentelemetry/api",
+      "semver": "0.16.0",
+      "publishedAt": "2021-02-01T22:33:16.096Z",
+      "publisher": "obecny",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 179147,
+      "dependencies": {
+        "@opentelemetry/context-base": "^0.16.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40opentelemetry%2Fapi",
+          "observedAt": "2026-11-16T10:34:36.760Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40opentelemetry%2Fapi",
+          "observedAt": "2026-11-16T10:34:36.760Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40opentelemetry%2Fapi",
+          "observedAt": "2026-11-16T10:34:36.760Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40opentelemetry%2Fapi",
+          "observedAt": "2026-11-16T10:34:36.760Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40opentelemetry%2Fapi",
+          "observedAt": "2026-11-16T10:34:36.760Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40opentelemetry%2Fapi",
+          "observedAt": "2026-11-16T10:34:36.760Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@opentelemetry/api",
+      "semver": "0.9.0",
+      "publishedAt": "2020-06-18T21:22:44.283Z",
+      "publisher": "mayurkale22",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 142863,
+      "dependencies": {
+        "@opentelemetry/context-base": "^0.9.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40opentelemetry%2Fapi",
+          "observedAt": "2026-11-16T10:34:36.760Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40opentelemetry%2Fapi",
+          "observedAt": "2026-11-16T10:34:36.760Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40opentelemetry%2Fapi",
+          "observedAt": "2026-11-16T10:34:36.760Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40opentelemetry%2Fapi",
+          "observedAt": "2026-11-16T10:34:36.760Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40opentelemetry%2Fapi",
+          "observedAt": "2026-11-16T10:34:36.760Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40opentelemetry%2Fapi",
+          "observedAt": "2026-11-16T10:34:36.760Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@opentelemetry/api",
+      "semver": "1.4.1",
+      "publishedAt": "2023-03-13T15:53:31.460Z",
+      "publisher": "dyladan",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 780322,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40opentelemetry%2Fapi",
+          "observedAt": "2026-11-16T10:34:36.760Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40opentelemetry%2Fapi",
+          "observedAt": "2026-11-16T10:34:36.760Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40opentelemetry%2Fapi",
+          "observedAt": "2026-11-16T10:34:36.760Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40opentelemetry%2Fapi",
+          "observedAt": "2026-11-16T10:34:36.760Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40opentelemetry%2Fapi",
+          "observedAt": "2026-11-16T10:34:36.760Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40opentelemetry%2Fapi",
+          "observedAt": "2026-11-16T10:34:36.760Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@opentelemetry/api",
+      "semver": "1.9.0",
+      "publishedAt": "2024-06-05T17:15:25.003Z",
+      "publisher": "pichlermarc",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 1218213,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40opentelemetry%2Fapi",
+          "observedAt": "2026-11-16T10:34:36.760Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40opentelemetry%2Fapi",
+          "observedAt": "2026-11-16T10:34:36.760Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40opentelemetry%2Fapi",
+          "observedAt": "2026-11-16T10:34:36.760Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40opentelemetry%2Fapi",
+          "observedAt": "2026-11-16T10:34:36.760Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40opentelemetry%2Fapi",
+          "observedAt": "2026-11-16T10:34:36.760Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40opentelemetry%2Fapi",
+          "observedAt": "2026-11-16T10:34:36.760Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

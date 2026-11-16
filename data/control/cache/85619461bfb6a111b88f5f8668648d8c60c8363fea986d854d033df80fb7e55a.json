@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "internmap",
+  "source": "https://registry.npmjs.org/internmap",
+  "fetchedAt": "2026-11-16T10:35:04.911Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 6
+  },
+  "sourceSha256": "02c60d4e74d5e540ba8915a9e70c700c1fb519a3c372d66f109c9ca54ba1db1e",
+  "versions": [
+    {
+      "pkg": "internmap",
+      "semver": "2.0.3",
+      "publishedAt": "2021-09-20T03:11:43.688Z",
+      "publisher": "mbostock",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 10470,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/internmap",
+          "observedAt": "2026-11-16T10:35:04.911Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/internmap",
+          "observedAt": "2026-11-16T10:35:04.911Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/internmap",
+          "observedAt": "2026-11-16T10:35:04.911Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/internmap",
+          "observedAt": "2026-11-16T10:35:04.911Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/internmap",
+          "observedAt": "2026-11-16T10:35:04.911Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/internmap",
+          "observedAt": "2026-11-16T10:35:04.911Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

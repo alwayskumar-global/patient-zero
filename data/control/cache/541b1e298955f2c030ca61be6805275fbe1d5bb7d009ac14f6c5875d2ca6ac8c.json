@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "pkg": "hmac-drbg",
+  "source": "https://registry.npmjs.org/hmac-drbg",
+  "fetchedAt": "2026-11-16T10:35:04.040Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 2
+  },
+  "sourceSha256": "2f6cefdc4a620ace3d4c05796a8718b63295dd7ef7d748b2cf4ef83957d91c0e",
+  "versions": [
+    {
+      "pkg": "hmac-drbg",
+      "semver": "1.0.1",
+      "publishedAt": "2017-04-09T22:33:31.828Z",
+      "publisher": "indutny",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "hash.js": "^1.0.3",
+        "minimalistic-assert": "^1.0.0",
+        "minimalistic-crypto-utils": "^1.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/hmac-drbg",
+          "observedAt": "2026-11-16T10:35:04.040Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/hmac-drbg",
+          "observedAt": "2026-11-16T10:35:04.040Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/hmac-drbg",
+          "observedAt": "2026-11-16T10:35:04.040Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/hmac-drbg",
+          "observedAt": "2026-11-16T10:35:04.040Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/hmac-drbg",
+          "observedAt": "2026-11-16T10:35:04.040Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "astral-regex",
+  "source": "https://registry.npmjs.org/astral-regex",
+  "fetchedAt": "2026-11-16T10:34:56.005Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 2
+  },
+  "sourceSha256": "8c18bc3baf8b62719a13aad555f6f9af847e08776bd851dc9aaa89d6ceb9bf09",
+  "versions": [
+    {
+      "pkg": "astral-regex",
+      "semver": "2.0.0",
+      "publishedAt": "2019-04-05T10:44:47.115Z",
+      "publisher": "kevva",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 3401,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/astral-regex",
+          "observedAt": "2026-11-16T10:34:56.005Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/astral-regex",
+          "observedAt": "2026-11-16T10:34:56.005Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/astral-regex",
+          "observedAt": "2026-11-16T10:34:56.005Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/astral-regex",
+          "observedAt": "2026-11-16T10:34:56.005Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/astral-regex",
+          "observedAt": "2026-11-16T10:34:56.005Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/astral-regex",
+          "observedAt": "2026-11-16T10:34:56.005Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

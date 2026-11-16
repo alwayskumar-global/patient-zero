@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "pkg": "require-directory",
+  "source": "https://registry.npmjs.org/require-directory",
+  "fetchedAt": "2026-11-16T10:35:24.489Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 12
+  },
+  "sourceSha256": "9365268bf6bc6ecd07afebb0cf984a5425027c41181aeb259afa6b7a6c9591ee",
+  "versions": [
+    {
+      "pkg": "require-directory",
+      "semver": "2.1.1",
+      "publishedAt": "2015-05-28T08:31:04.702Z",
+      "publisher": "troygoode",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/require-directory",
+          "observedAt": "2026-11-16T10:35:24.489Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/require-directory",
+          "observedAt": "2026-11-16T10:35:24.489Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/require-directory",
+          "observedAt": "2026-11-16T10:35:24.489Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/require-directory",
+          "observedAt": "2026-11-16T10:35:24.489Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/require-directory",
+          "observedAt": "2026-11-16T10:35:24.489Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

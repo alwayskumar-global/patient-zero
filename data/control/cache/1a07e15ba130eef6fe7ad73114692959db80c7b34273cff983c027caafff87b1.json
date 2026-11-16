@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "pkg": "postcss-value-parser",
+  "source": "https://registry.npmjs.org/postcss-value-parser",
+  "fetchedAt": "2026-11-16T10:35:20.693Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 36
+  },
+  "sourceSha256": "a74492cd48f2abdebe8cdd69945c50f12e2afe9dc053a81aef033887c960de69",
+  "versions": [
+    {
+      "pkg": "postcss-value-parser",
+      "semver": "1.2.1",
+      "publishedAt": "2015-08-25T17:21:15.422Z",
+      "publisher": "beneb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/postcss-value-parser",
+          "observedAt": "2026-11-16T10:35:20.693Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/postcss-value-parser",
+          "observedAt": "2026-11-16T10:35:20.693Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/postcss-value-parser",
+          "observedAt": "2026-11-16T10:35:20.693Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/postcss-value-parser",
+          "observedAt": "2026-11-16T10:35:20.693Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/postcss-value-parser",
+          "observedAt": "2026-11-16T10:35:20.693Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "postcss-value-parser",
+      "semver": "3.3.0",
+      "publishedAt": "2016-02-18T17:40:59.015Z",
+      "publisher": "trysound",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/postcss-value-parser",
+          "observedAt": "2026-11-16T10:35:20.693Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/postcss-value-parser",
+          "observedAt": "2026-11-16T10:35:20.693Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/postcss-value-parser",
+          "observedAt": "2026-11-16T10:35:20.693Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/postcss-value-parser",
+          "observedAt": "2026-11-16T10:35:20.693Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/postcss-value-parser",
+          "observedAt": "2026-11-16T10:35:20.693Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "postcss-value-parser",
+      "semver": "4.2.0",
+      "publishedAt": "2021-11-29T11:32:56.985Z",
+      "publisher": "evilebottnawi",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 27193,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/postcss-value-parser",
+          "observedAt": "2026-11-16T10:35:20.693Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/postcss-value-parser",
+          "observedAt": "2026-11-16T10:35:20.693Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/postcss-value-parser",
+          "observedAt": "2026-11-16T10:35:20.693Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/postcss-value-parser",
+          "observedAt": "2026-11-16T10:35:20.693Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/postcss-value-parser",
+          "observedAt": "2026-11-16T10:35:20.693Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/postcss-value-parser",
+          "observedAt": "2026-11-16T10:35:20.693Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

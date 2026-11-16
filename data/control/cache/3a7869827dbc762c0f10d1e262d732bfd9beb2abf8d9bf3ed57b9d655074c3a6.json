@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "pkg": "glob-parent",
+  "source": "https://registry.npmjs.org/glob-parent",
+  "fetchedAt": "2026-11-16T10:35:03.223Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 16
+  },
+  "sourceSha256": "64120e41cb2dc9abe6f514e7e23ed9794bd3d77048eb976e4b6dabe400334f9f",
+  "versions": [
+    {
+      "pkg": "glob-parent",
+      "semver": "3.1.0",
+      "publishedAt": "2016-12-14T15:48:47.422Z",
+      "publisher": "es128",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "is-glob": "^3.1.0",
+        "path-dirname": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/glob-parent",
+          "observedAt": "2026-11-16T10:35:03.223Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/glob-parent",
+          "observedAt": "2026-11-16T10:35:03.223Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/glob-parent",
+          "observedAt": "2026-11-16T10:35:03.223Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/glob-parent",
+          "observedAt": "2026-11-16T10:35:03.223Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/glob-parent",
+          "observedAt": "2026-11-16T10:35:03.223Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "glob-parent",
+      "semver": "6.0.2",
+      "publishedAt": "2021-09-29T22:14:24.467Z",
+      "publisher": "phated",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7719,
+      "dependencies": {
+        "is-glob": "^4.0.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/glob-parent",
+          "observedAt": "2026-11-16T10:35:03.223Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/glob-parent",
+          "observedAt": "2026-11-16T10:35:03.223Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/glob-parent",
+          "observedAt": "2026-11-16T10:35:03.223Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/glob-parent",
+          "observedAt": "2026-11-16T10:35:03.223Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/glob-parent",
+          "observedAt": "2026-11-16T10:35:03.223Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/glob-parent",
+          "observedAt": "2026-11-16T10:35:03.223Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

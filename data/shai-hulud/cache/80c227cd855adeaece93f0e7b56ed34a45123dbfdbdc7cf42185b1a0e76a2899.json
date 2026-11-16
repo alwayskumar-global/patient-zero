@@ -1,0 +1,169 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@nstudio/nativescript-checkbox",
+  "source": "https://registry.npmjs.org/%40nstudio%2Fnativescript-checkbox",
+  "fetchedAt": "2026-11-16T10:31:40.227Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 13
+  },
+  "sourceSha256": "ec642798a4be821c79ec7d780d16bf9049ec612507cc087b646554cc339ac0c8",
+  "versions": [
+    {
+      "pkg": "@nstudio/nativescript-checkbox",
+      "semver": "2.0.2",
+      "publishedAt": "2020-09-30T18:54:38.337Z",
+      "publisher": "bradmartin",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 74020,
+      "dependencies": {
+        "ng": "0.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fnativescript-checkbox",
+          "observedAt": "2026-11-16T10:31:40.227Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fnativescript-checkbox",
+          "observedAt": "2026-11-16T10:31:40.227Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fnativescript-checkbox",
+          "observedAt": "2026-11-16T10:31:40.227Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fnativescript-checkbox",
+          "observedAt": "2026-11-16T10:31:40.227Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fnativescript-checkbox",
+          "observedAt": "2026-11-16T10:31:40.227Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fnativescript-checkbox",
+          "observedAt": "2026-11-16T10:31:40.227Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nstudio/nativescript-checkbox",
+      "semver": "2.0.5",
+      "publishedAt": "2022-04-01T03:46:39.447Z",
+      "publisher": "walkerrunpdx",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 74062,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fnativescript-checkbox",
+          "observedAt": "2026-11-16T10:31:40.227Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fnativescript-checkbox",
+          "observedAt": "2026-11-16T10:31:40.227Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fnativescript-checkbox",
+          "observedAt": "2026-11-16T10:31:40.227Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fnativescript-checkbox",
+          "observedAt": "2026-11-16T10:31:40.227Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fnativescript-checkbox",
+          "observedAt": "2026-11-16T10:31:40.227Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fnativescript-checkbox",
+          "observedAt": "2026-11-16T10:31:40.227Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nstudio/nativescript-checkbox",
+      "semver": "2.0.6",
+      "publishedAt": "2025-09-15T09:16:48.031Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fnativescript-checkbox",
+          "observedAt": "2026-11-16T10:31:40.227Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nstudio/nativescript-checkbox",
+      "semver": "2.0.7",
+      "publishedAt": "2025-09-15T10:41:20.207Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fnativescript-checkbox",
+          "observedAt": "2026-11-16T10:31:40.227Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nstudio/nativescript-checkbox",
+      "semver": "2.0.8",
+      "publishedAt": "2025-09-15T10:47:45.853Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fnativescript-checkbox",
+          "observedAt": "2026-11-16T10:31:40.227Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nstudio/nativescript-checkbox",
+      "semver": "2.0.9",
+      "publishedAt": "2025-09-15T10:52:08.387Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fnativescript-checkbox",
+          "observedAt": "2026-11-16T10:31:40.227Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

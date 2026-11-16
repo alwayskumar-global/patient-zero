@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "pkg": "lodash.camelcase",
+  "source": "https://registry.npmjs.org/lodash.camelcase",
+  "fetchedAt": "2026-11-16T10:35:09.936Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 8
+  },
+  "sourceSha256": "b4647088d78e3867e1acf5e2b6fbdfe9f6d8a5c9561f3f4a23b2977e77ec57e0",
+  "versions": [
+    {
+      "pkg": "lodash.camelcase",
+      "semver": "4.3.0",
+      "publishedAt": "2016-08-13T17:37:03.141Z",
+      "publisher": "jdalton",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/lodash.camelcase",
+          "observedAt": "2026-11-16T10:35:09.936Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/lodash.camelcase",
+          "observedAt": "2026-11-16T10:35:09.936Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/lodash.camelcase",
+          "observedAt": "2026-11-16T10:35:09.936Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/lodash.camelcase",
+          "observedAt": "2026-11-16T10:35:09.936Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/lodash.camelcase",
+          "observedAt": "2026-11-16T10:35:09.936Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

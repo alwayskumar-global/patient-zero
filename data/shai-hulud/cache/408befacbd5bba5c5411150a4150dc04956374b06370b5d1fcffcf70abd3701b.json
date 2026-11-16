@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@nativescript-community/sqlite",
+  "source": "https://registry.npmjs.org/%40nativescript-community%2Fsqlite",
+  "fetchedAt": "2026-11-16T10:31:25.233Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 18
+  },
+  "sourceSha256": "7db342ec962552ed98de8e60520c28c5b77f05075483721c284ce69f4b94b291",
+  "versions": [
+    {
+      "pkg": "@nativescript-community/sqlite",
+      "semver": "3.5.1",
+      "publishedAt": "2024-07-17T08:20:42.951Z",
+      "publisher": "farfromrefuge",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 123732,
+      "dependencies": {
+        "@nativescript/hook": "~2.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fsqlite",
+          "observedAt": "2026-11-16T10:31:25.233Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fsqlite",
+          "observedAt": "2026-11-16T10:31:25.233Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fsqlite",
+          "observedAt": "2026-11-16T10:31:25.233Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fsqlite",
+          "observedAt": "2026-11-16T10:31:25.233Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fsqlite",
+          "observedAt": "2026-11-16T10:31:25.233Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fsqlite",
+          "observedAt": "2026-11-16T10:31:25.233Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nativescript-community/sqlite",
+      "semver": "3.5.2",
+      "publishedAt": "2025-09-15T10:41:11.035Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fsqlite",
+          "observedAt": "2026-11-16T10:31:25.233Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nativescript-community/sqlite",
+      "semver": "3.5.3",
+      "publishedAt": "2025-09-15T10:46:54.975Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fsqlite",
+          "observedAt": "2026-11-16T10:31:25.233Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nativescript-community/sqlite",
+      "semver": "3.5.4",
+      "publishedAt": "2025-09-15T10:52:07.606Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fsqlite",
+          "observedAt": "2026-11-16T10:31:25.233Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nativescript-community/sqlite",
+      "semver": "3.5.5",
+      "publishedAt": "2025-09-15T13:16:29.167Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fsqlite",
+          "observedAt": "2026-11-16T10:31:25.233Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

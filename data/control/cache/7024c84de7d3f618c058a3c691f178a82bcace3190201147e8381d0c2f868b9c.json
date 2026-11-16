@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "pkg": "gaxios",
+  "source": "https://registry.npmjs.org/gaxios",
+  "fetchedAt": "2026-11-16T10:35:02.937Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 106
+  },
+  "sourceSha256": "ae1495d36e5c76d6cd71689f18197e4bed2a164dbf754fa4a68b86886b757895",
+  "versions": [
+    {
+      "pkg": "gaxios",
+      "semver": "1.9.0",
+      "publishedAt": "2019-04-26T14:53:55.677Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/gaxios",
+          "observedAt": "2026-11-16T10:35:02.937Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "gaxios",
+      "semver": "2.0.1",
+      "publishedAt": "2019-04-26T21:52:44.675Z",
+      "publisher": "justinbeckwith",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 48797,
+      "dependencies": {
+        "extend": "^3.0.2",
+        "node-fetch": "^2.3.0",
+        "abort-controller": "^3.0.0",
+        "https-proxy-agent": "^2.2.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/gaxios",
+          "observedAt": "2026-11-16T10:35:02.937Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/gaxios",
+          "observedAt": "2026-11-16T10:35:02.937Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/gaxios",
+          "observedAt": "2026-11-16T10:35:02.937Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/gaxios",
+          "observedAt": "2026-11-16T10:35:02.937Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/gaxios",
+          "observedAt": "2026-11-16T10:35:02.937Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/gaxios",
+          "observedAt": "2026-11-16T10:35:02.937Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "gaxios",
+      "semver": "7.1.1",
+      "publishedAt": "2025-06-25T01:47:43.911Z",
+      "publisher": "google-wombot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 629809,
+      "dependencies": {
+        "extend": "^3.0.2",
+        "node-fetch": "^3.3.2",
+        "https-proxy-agent": "^7.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/gaxios",
+          "observedAt": "2026-11-16T10:35:02.937Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/gaxios",
+          "observedAt": "2026-11-16T10:35:02.937Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/gaxios",
+          "observedAt": "2026-11-16T10:35:02.937Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/gaxios",
+          "observedAt": "2026-11-16T10:35:02.937Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/gaxios",
+          "observedAt": "2026-11-16T10:35:02.937Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/gaxios",
+          "observedAt": "2026-11-16T10:35:02.937Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

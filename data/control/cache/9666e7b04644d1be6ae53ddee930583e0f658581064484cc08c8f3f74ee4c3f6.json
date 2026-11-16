@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "detect-indent",
+  "source": "https://registry.npmjs.org/detect-indent",
+  "fetchedAt": "2026-11-16T10:34:59.655Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 18
+  },
+  "sourceSha256": "a341156acbb7e75bd604186a0b1badd2083a17f87597d9cd48b75b074f077287",
+  "versions": [
+    {
+      "pkg": "detect-indent",
+      "semver": "7.0.1",
+      "publishedAt": "2022-09-11T12:40:07.617Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 9746,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/detect-indent",
+          "observedAt": "2026-11-16T10:34:59.655Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/detect-indent",
+          "observedAt": "2026-11-16T10:34:59.655Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/detect-indent",
+          "observedAt": "2026-11-16T10:34:59.655Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/detect-indent",
+          "observedAt": "2026-11-16T10:34:59.655Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/detect-indent",
+          "observedAt": "2026-11-16T10:34:59.655Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/detect-indent",
+          "observedAt": "2026-11-16T10:34:59.655Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

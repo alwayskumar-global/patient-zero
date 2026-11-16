@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@webassemblyjs/wasm-opt",
+  "source": "https://registry.npmjs.org/%40webassemblyjs%2Fwasm-opt",
+  "fetchedAt": "2026-11-16T10:34:55.114Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 64
+  },
+  "sourceSha256": "a2d24e4c52b0a1327800c5037d3c1f27185b0206a84985db58eefc28bf6f4833",
+  "versions": [
+    {
+      "pkg": "@webassemblyjs/wasm-opt",
+      "semver": "1.14.1",
+      "publishedAt": "2024-11-06T21:53:40.767Z",
+      "publisher": "xtuc",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 14437,
+      "dependencies": {
+        "@webassemblyjs/ast": "1.14.1",
+        "@webassemblyjs/helper-buffer": "1.14.1",
+        "@webassemblyjs/wasm-gen": "1.14.1",
+        "@webassemblyjs/wasm-parser": "1.14.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40webassemblyjs%2Fwasm-opt",
+          "observedAt": "2026-11-16T10:34:55.114Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40webassemblyjs%2Fwasm-opt",
+          "observedAt": "2026-11-16T10:34:55.114Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40webassemblyjs%2Fwasm-opt",
+          "observedAt": "2026-11-16T10:34:55.114Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40webassemblyjs%2Fwasm-opt",
+          "observedAt": "2026-11-16T10:34:55.114Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40webassemblyjs%2Fwasm-opt",
+          "observedAt": "2026-11-16T10:34:55.114Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40webassemblyjs%2Fwasm-opt",
+          "observedAt": "2026-11-16T10:34:55.114Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

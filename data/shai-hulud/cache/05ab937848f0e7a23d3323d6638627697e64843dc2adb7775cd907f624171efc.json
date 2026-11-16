@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@nativescript-community/arraybuffers",
+  "source": "https://registry.npmjs.org/%40nativescript-community%2Farraybuffers",
+  "fetchedAt": "2026-11-16T10:31:23.028Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 13
+  },
+  "sourceSha256": "cbc8e4b82a8cd5708d5f8130fc05404b5aa8e48b0c603a7db6061a24b14b49d6",
+  "versions": [
+    {
+      "pkg": "@nativescript-community/arraybuffers",
+      "semver": "1.1.5",
+      "publishedAt": "2023-11-17T10:41:09.523Z",
+      "publisher": "farfromrefuge",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 31555,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Farraybuffers",
+          "observedAt": "2026-11-16T10:31:23.028Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Farraybuffers",
+          "observedAt": "2026-11-16T10:31:23.028Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Farraybuffers",
+          "observedAt": "2026-11-16T10:31:23.028Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Farraybuffers",
+          "observedAt": "2026-11-16T10:31:23.028Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Farraybuffers",
+          "observedAt": "2026-11-16T10:31:23.028Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Farraybuffers",
+          "observedAt": "2026-11-16T10:31:23.028Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nativescript-community/arraybuffers",
+      "semver": "1.1.6",
+      "publishedAt": "2025-09-15T09:16:48.034Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Farraybuffers",
+          "observedAt": "2026-11-16T10:31:23.028Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nativescript-community/arraybuffers",
+      "semver": "1.1.7",
+      "publishedAt": "2025-09-15T10:42:02.650Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Farraybuffers",
+          "observedAt": "2026-11-16T10:31:23.028Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nativescript-community/arraybuffers",
+      "semver": "1.1.8",
+      "publishedAt": "2025-09-15T10:46:52.642Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Farraybuffers",
+          "observedAt": "2026-11-16T10:31:23.028Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

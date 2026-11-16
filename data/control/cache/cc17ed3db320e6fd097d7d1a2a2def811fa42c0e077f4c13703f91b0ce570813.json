@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "pkg": "array-flatten",
+  "source": "https://registry.npmjs.org/array-flatten",
+  "fetchedAt": "2026-11-16T10:34:55.568Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 13
+  },
+  "sourceSha256": "d766156f51f489a6be3e65f3adb98a8ad78a79939814710a8f9fbbfd6f1d3f06",
+  "versions": [
+    {
+      "pkg": "array-flatten",
+      "semver": "0.0.1",
+      "publishedAt": "2014-03-16T01:38:15.278Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/array-flatten",
+          "observedAt": "2026-11-16T10:34:55.568Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "array-flatten",
+      "semver": "3.0.0",
+      "publishedAt": "2019-11-21T05:14:39.925Z",
+      "publisher": "blakeembrey",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 20089,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/array-flatten",
+          "observedAt": "2026-11-16T10:34:55.568Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/array-flatten",
+          "observedAt": "2026-11-16T10:34:55.568Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/array-flatten",
+          "observedAt": "2026-11-16T10:34:55.568Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/array-flatten",
+          "observedAt": "2026-11-16T10:34:55.568Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/array-flatten",
+          "observedAt": "2026-11-16T10:34:55.568Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/array-flatten",
+          "observedAt": "2026-11-16T10:34:55.568Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

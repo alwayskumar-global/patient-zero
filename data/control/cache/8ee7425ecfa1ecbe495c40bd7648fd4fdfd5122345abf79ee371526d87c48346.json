@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "pkg": "tsconfig-paths",
+  "source": "https://registry.npmjs.org/tsconfig-paths",
+  "fetchedAt": "2026-11-16T10:35:30.076Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 50
+  },
+  "sourceSha256": "e3ae0129fc9ec73e0d9a1fe74503d3e276685a7cf3e0c77a74b6bbd94a5ae4a0",
+  "versions": [
+    {
+      "pkg": "tsconfig-paths",
+      "semver": "3.15.0",
+      "publishedAt": "2023-12-14T14:37:09.465Z",
+      "publisher": "jonaskello",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 215892,
+      "dependencies": {
+        "json5": "^1.0.2",
+        "minimist": "^1.2.6",
+        "strip-bom": "^3.0.0",
+        "@types/json5": "^0.0.29"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/tsconfig-paths",
+          "observedAt": "2026-11-16T10:35:30.076Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/tsconfig-paths",
+          "observedAt": "2026-11-16T10:35:30.076Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/tsconfig-paths",
+          "observedAt": "2026-11-16T10:35:30.076Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/tsconfig-paths",
+          "observedAt": "2026-11-16T10:35:30.076Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/tsconfig-paths",
+          "observedAt": "2026-11-16T10:35:30.076Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/tsconfig-paths",
+          "observedAt": "2026-11-16T10:35:30.076Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "tsconfig-paths",
+      "semver": "3.3.1",
+      "publishedAt": "2018-04-17T06:54:50.074Z",
+      "publisher": "jontem",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 149213,
+      "dependencies": {
+        "minimist": "^1.2.0",
+        "deepmerge": "^2.0.1",
+        "strip-bom": "^3.0.0",
+        "strip-json-comments": "^2.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/tsconfig-paths",
+          "observedAt": "2026-11-16T10:35:30.076Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/tsconfig-paths",
+          "observedAt": "2026-11-16T10:35:30.076Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/tsconfig-paths",
+          "observedAt": "2026-11-16T10:35:30.076Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/tsconfig-paths",
+          "observedAt": "2026-11-16T10:35:30.076Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/tsconfig-paths",
+          "observedAt": "2026-11-16T10:35:30.076Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/tsconfig-paths",
+          "observedAt": "2026-11-16T10:35:30.076Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

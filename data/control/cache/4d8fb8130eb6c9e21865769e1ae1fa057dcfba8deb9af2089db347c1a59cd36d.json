@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@babel/plugin-transform-class-static-block",
+  "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-class-static-block",
+  "fetchedAt": "2026-11-16T10:34:32.329Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 52
+  },
+  "sourceSha256": "3abf105910a1f22230b61a84f33a0188db8f0298e8707e172ea438d9f5b0283a",
+  "versions": [
+    {
+      "pkg": "@babel/plugin-transform-class-static-block",
+      "semver": "8.0.0-beta.1",
+      "publishedAt": "2025-07-02T09:04:52.731Z",
+      "publisher": "nicolo-ribaudo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 10345,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "^8.0.0-beta.1",
+        "@babel/helper-create-class-features-plugin": "^8.0.0-beta.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-class-static-block",
+          "observedAt": "2026-11-16T10:34:32.329Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-class-static-block",
+          "observedAt": "2026-11-16T10:34:32.329Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-class-static-block",
+          "observedAt": "2026-11-16T10:34:32.329Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-class-static-block",
+          "observedAt": "2026-11-16T10:34:32.329Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-class-static-block",
+          "observedAt": "2026-11-16T10:34:32.329Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-class-static-block",
+          "observedAt": "2026-11-16T10:34:32.329Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

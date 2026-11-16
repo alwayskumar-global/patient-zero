@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "pascalcase",
+  "source": "https://registry.npmjs.org/pascalcase",
+  "fetchedAt": "2026-11-16T10:35:17.256Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 4
+  },
+  "sourceSha256": "c4cb16efb4b88556876527e59cc7c3b036445d46c826db8468e6defe035ecac5",
+  "versions": [
+    {
+      "pkg": "pascalcase",
+      "semver": "2.0.0",
+      "publishedAt": "2021-12-29T15:12:07.032Z",
+      "publisher": "jonschlinkert",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 8289,
+      "dependencies": {
+        "camelcase": "^6.2.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/pascalcase",
+          "observedAt": "2026-11-16T10:35:17.256Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/pascalcase",
+          "observedAt": "2026-11-16T10:35:17.256Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/pascalcase",
+          "observedAt": "2026-11-16T10:35:17.256Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/pascalcase",
+          "observedAt": "2026-11-16T10:35:17.256Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/pascalcase",
+          "observedAt": "2026-11-16T10:35:17.256Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/pascalcase",
+          "observedAt": "2026-11-16T10:35:17.256Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

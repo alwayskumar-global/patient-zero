@@ -1,0 +1,275 @@
+{
+  "schemaVersion": 1,
+  "pkg": "postcss-minify-font-values",
+  "source": "https://registry.npmjs.org/postcss-minify-font-values",
+  "fetchedAt": "2026-11-16T10:35:19.882Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 61
+  },
+  "sourceSha256": "e781100d5d936b4b70894614445ebd7a9f919398e40adeef21b3a2aa67d749f1",
+  "versions": [
+    {
+      "pkg": "postcss-minify-font-values",
+      "semver": "1.0.3",
+      "publishedAt": "2016-02-19T14:10:42.396Z",
+      "publisher": "trysound",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "uniqs": "^2.0.0",
+        "postcss": "^5.0.4",
+        "object-assign": "^4.0.1",
+        "postcss-value-parser": "^3.0.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/postcss-minify-font-values",
+          "observedAt": "2026-11-16T10:35:19.882Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/postcss-minify-font-values",
+          "observedAt": "2026-11-16T10:35:19.882Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/postcss-minify-font-values",
+          "observedAt": "2026-11-16T10:35:19.882Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/postcss-minify-font-values",
+          "observedAt": "2026-11-16T10:35:19.882Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/postcss-minify-font-values",
+          "observedAt": "2026-11-16T10:35:19.882Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "postcss-minify-font-values",
+      "semver": "4.0.0-nightly.2020.2.6",
+      "publishedAt": "2021-02-06T17:25:40.082Z",
+      "publisher": "cssnano-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 15115,
+      "dependencies": {
+        "postcss-value-parser": "^4.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/postcss-minify-font-values",
+          "observedAt": "2026-11-16T10:35:19.882Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/postcss-minify-font-values",
+          "observedAt": "2026-11-16T10:35:19.882Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/postcss-minify-font-values",
+          "observedAt": "2026-11-16T10:35:19.882Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/postcss-minify-font-values",
+          "observedAt": "2026-11-16T10:35:19.882Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/postcss-minify-font-values",
+          "observedAt": "2026-11-16T10:35:19.882Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/postcss-minify-font-values",
+          "observedAt": "2026-11-16T10:35:19.882Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "postcss-minify-font-values",
+      "semver": "4.0.0-rc.2",
+      "publishedAt": "2017-08-06T19:53:16.680Z",
+      "publisher": "beneb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "postcss": "^6.0.0",
+        "postcss-value-parser": "^3.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/postcss-minify-font-values",
+          "observedAt": "2026-11-16T10:35:19.882Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/postcss-minify-font-values",
+          "observedAt": "2026-11-16T10:35:19.882Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/postcss-minify-font-values",
+          "observedAt": "2026-11-16T10:35:19.882Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/postcss-minify-font-values",
+          "observedAt": "2026-11-16T10:35:19.882Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/postcss-minify-font-values",
+          "observedAt": "2026-11-16T10:35:19.882Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "postcss-minify-font-values",
+      "semver": "4.0.1",
+      "publishedAt": "2018-09-24T20:48:24.059Z",
+      "publisher": "ai",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 15693,
+      "dependencies": {
+        "postcss": "^6.0.0",
+        "postcss-value-parser": "^3.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/postcss-minify-font-values",
+          "observedAt": "2026-11-16T10:35:19.882Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/postcss-minify-font-values",
+          "observedAt": "2026-11-16T10:35:19.882Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/postcss-minify-font-values",
+          "observedAt": "2026-11-16T10:35:19.882Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/postcss-minify-font-values",
+          "observedAt": "2026-11-16T10:35:19.882Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/postcss-minify-font-values",
+          "observedAt": "2026-11-16T10:35:19.882Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/postcss-minify-font-values",
+          "observedAt": "2026-11-16T10:35:19.882Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "postcss-minify-font-values",
+      "semver": "4.0.2",
+      "publishedAt": "2018-09-25T13:57:41.341Z",
+      "publisher": "evilebottnawi",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 15693,
+      "dependencies": {
+        "postcss": "^7.0.0",
+        "postcss-value-parser": "^3.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/postcss-minify-font-values",
+          "observedAt": "2026-11-16T10:35:19.882Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/postcss-minify-font-values",
+          "observedAt": "2026-11-16T10:35:19.882Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/postcss-minify-font-values",
+          "observedAt": "2026-11-16T10:35:19.882Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/postcss-minify-font-values",
+          "observedAt": "2026-11-16T10:35:19.882Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/postcss-minify-font-values",
+          "observedAt": "2026-11-16T10:35:19.882Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/postcss-minify-font-values",
+          "observedAt": "2026-11-16T10:35:19.882Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "postcss-minify-font-values",
+      "semver": "7.0.1",
+      "publishedAt": "2025-05-06T13:54:18.792Z",
+      "publisher": "ludovicofischer",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 18587,
+      "dependencies": {
+        "postcss-value-parser": "^4.2.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/postcss-minify-font-values",
+          "observedAt": "2026-11-16T10:35:19.882Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/postcss-minify-font-values",
+          "observedAt": "2026-11-16T10:35:19.882Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/postcss-minify-font-values",
+          "observedAt": "2026-11-16T10:35:19.882Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/postcss-minify-font-values",
+          "observedAt": "2026-11-16T10:35:19.882Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/postcss-minify-font-values",
+          "observedAt": "2026-11-16T10:35:19.882Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/postcss-minify-font-values",
+          "observedAt": "2026-11-16T10:35:19.882Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

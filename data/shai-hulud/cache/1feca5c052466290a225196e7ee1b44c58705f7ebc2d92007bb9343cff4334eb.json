@@ -1,0 +1,172 @@
+{
+  "schemaVersion": 1,
+  "pkg": "oradm-to-gql",
+  "source": "https://registry.npmjs.org/oradm-to-gql",
+  "fetchedAt": "2026-11-16T10:32:25.801Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 153
+  },
+  "sourceSha256": "40648a5b688ee88eea148793176f7ad90cc7cf07994a1939e41f5ad3c714aca8",
+  "versions": [
+    {
+      "pkg": "oradm-to-gql",
+      "semver": "14.2.0",
+      "publishedAt": "2018-07-18T19:53:38.105Z",
+      "publisher": "teselagen",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 409844,
+      "dependencies": {
+        "faker": "^4.1.0",
+        "casual": "^1.5.14",
+        "chance": "^1.0.10",
+        "lodash": "^4.17.4",
+        "bluebird": "^3.5.0",
+        "dumpster": "^0.1.1",
+        "fs-extra": "^3.0.1",
+        "mustache": "^2.3.0",
+        "nunjucks": "^3.0.1",
+        "babyparse": "^0.4.6",
+        "pluralize": "^5.0.0",
+        "assert-err": "^1.1.0",
+        "graphql-date": "^1.0.3",
+        "sql-formatter": "^1.2.2",
+        "graphql-fields": "^1.0.2",
+        "graphql-type-json": "^0.1.4",
+        "tg-knex-query-resolver": "^2.5.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/oradm-to-gql",
+          "observedAt": "2026-11-16T10:32:25.801Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/oradm-to-gql",
+          "observedAt": "2026-11-16T10:32:25.801Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/oradm-to-gql",
+          "observedAt": "2026-11-16T10:32:25.801Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/oradm-to-gql",
+          "observedAt": "2026-11-16T10:32:25.801Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/oradm-to-gql",
+          "observedAt": "2026-11-16T10:32:25.801Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/oradm-to-gql",
+          "observedAt": "2026-11-16T10:32:25.801Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "oradm-to-gql",
+      "semver": "35.0.13",
+      "publishedAt": "2023-03-13T21:09:32.181Z",
+      "publisher": "teselagen-admin",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 607144,
+      "dependencies": {
+        "uuid": "^3.3.2",
+        "faker": "^4.1.0",
+        "casual": "^1.5.14",
+        "chance": "^1.0.10",
+        "dotenv": "^6.0.0",
+        "lodash": "^4.17.4",
+        "graphql": "^15",
+        "bluebird": "^3.5.0",
+        "dumpster": "^0.1.1",
+        "fs-extra": "^8.1.0",
+        "mustache": "^2.3.0",
+        "nunjucks": "^3.2.3",
+        "babyparse": "^0.4.6",
+        "commander": "^2.18.0",
+        "pluralize": "^5.0.0",
+        "assert-err": "^1.1.0",
+        "graphql-date": "^1.0.3",
+        "sql-formatter": "^1.2.2",
+        "graphql-fields": "^2.0.3",
+        "graphql-type-json": "^0.1.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/oradm-to-gql",
+          "observedAt": "2026-11-16T10:32:25.801Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/oradm-to-gql",
+          "observedAt": "2026-11-16T10:32:25.801Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/oradm-to-gql",
+          "observedAt": "2026-11-16T10:32:25.801Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/oradm-to-gql",
+          "observedAt": "2026-11-16T10:32:25.801Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/oradm-to-gql",
+          "observedAt": "2026-11-16T10:32:25.801Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/oradm-to-gql",
+          "observedAt": "2026-11-16T10:32:25.801Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "oradm-to-gql",
+      "semver": "35.0.14",
+      "publishedAt": "2025-09-14T21:01:48.877Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/oradm-to-gql",
+          "observedAt": "2026-11-16T10:32:25.801Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "oradm-to-gql",
+      "semver": "35.0.15",
+      "publishedAt": "2025-09-16T02:33:01.569Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/oradm-to-gql",
+          "observedAt": "2026-11-16T10:32:25.801Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

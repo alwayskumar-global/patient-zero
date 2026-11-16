@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@ctrl/deluge",
+  "source": "https://registry.npmjs.org/%40ctrl%2Fdeluge",
+  "fetchedAt": "2026-11-16T10:31:12.247Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 63
+  },
+  "sourceSha256": "9f830a206cfb894af95413579db5c68e390ac628e93309a1882e1936aa8293e4",
+  "versions": [
+    {
+      "pkg": "@ctrl/deluge",
+      "semver": "7.2.0",
+      "publishedAt": "2025-08-31T20:45:12.284Z",
+      "publisher": "scttcper",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 42655,
+      "dependencies": {
+        "ufo": "^1.6.1",
+        "ofetch": "^1.4.1",
+        "type-fest": "^4.41.0",
+        "tough-cookie": "^6.0.0",
+        "@ctrl/magnet-link": "^4.0.2",
+        "node-fetch-native": "^1.6.7",
+        "uint8array-extras": "^1.5.0",
+        "@ctrl/shared-torrent": "^6.3.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fdeluge",
+          "observedAt": "2026-11-16T10:31:12.247Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fdeluge",
+          "observedAt": "2026-11-16T10:31:12.247Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fdeluge",
+          "observedAt": "2026-11-16T10:31:12.247Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fdeluge",
+          "observedAt": "2026-11-16T10:31:12.247Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fdeluge",
+          "observedAt": "2026-11-16T10:31:12.247Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fdeluge",
+          "observedAt": "2026-11-16T10:31:12.247Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@ctrl/deluge",
+      "semver": "7.2.1",
+      "publishedAt": "2025-09-15T19:52:41.273Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fdeluge",
+          "observedAt": "2026-11-16T10:31:12.247Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@ctrl/deluge",
+      "semver": "7.2.2",
+      "publishedAt": "2025-09-15T20:13:33.686Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fdeluge",
+          "observedAt": "2026-11-16T10:31:12.247Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@ctrl/deluge",
+      "semver": "7.3.0",
+      "publishedAt": "2025-09-16T06:58:14.486Z",
+      "publisher": "scttcper",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 42658,
+      "dependencies": {
+        "ufo": "^1.6.1",
+        "ofetch": "^1.4.1",
+        "type-fest": "^4.41.0",
+        "tough-cookie": "^6.0.0",
+        "@ctrl/magnet-link": "^4.0.2",
+        "node-fetch-native": "^1.6.7",
+        "uint8array-extras": "^1.5.0",
+        "@ctrl/shared-torrent": "^6.3.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fdeluge",
+          "observedAt": "2026-11-16T10:31:12.247Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fdeluge",
+          "observedAt": "2026-11-16T10:31:12.247Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fdeluge",
+          "observedAt": "2026-11-16T10:31:12.247Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fdeluge",
+          "observedAt": "2026-11-16T10:31:12.247Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fdeluge",
+          "observedAt": "2026-11-16T10:31:12.247Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fdeluge",
+          "observedAt": "2026-11-16T10:31:12.247Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

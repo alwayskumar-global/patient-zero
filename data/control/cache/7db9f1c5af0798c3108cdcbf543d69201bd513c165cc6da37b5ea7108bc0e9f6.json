@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "pkg": "remove-trailing-separator",
+  "source": "https://registry.npmjs.org/remove-trailing-separator",
+  "fetchedAt": "2026-11-16T10:35:24.383Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 4
+  },
+  "sourceSha256": "97bb2cad513a56147ffa734525569319b793514e1691cb2eb0e9086d3b653933",
+  "versions": [
+    {
+      "pkg": "remove-trailing-separator",
+      "semver": "1.1.0",
+      "publishedAt": "2017-08-16T08:32:02.606Z",
+      "publisher": "darsain",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/remove-trailing-separator",
+          "observedAt": "2026-11-16T10:35:24.383Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/remove-trailing-separator",
+          "observedAt": "2026-11-16T10:35:24.383Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/remove-trailing-separator",
+          "observedAt": "2026-11-16T10:35:24.383Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/remove-trailing-separator",
+          "observedAt": "2026-11-16T10:35:24.383Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/remove-trailing-separator",
+          "observedAt": "2026-11-16T10:35:24.383Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

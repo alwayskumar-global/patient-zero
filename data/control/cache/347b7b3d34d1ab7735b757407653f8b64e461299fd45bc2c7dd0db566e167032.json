@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "pkg": "delegates",
+  "source": "https://registry.npmjs.org/delegates",
+  "fetchedAt": "2026-11-16T10:34:59.608Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 5
+  },
+  "sourceSha256": "dcfe5913bdef707b87e0b80893b342745e30802653501448b4bc1f159a27b8ab",
+  "versions": [
+    {
+      "pkg": "delegates",
+      "semver": "0.1.0",
+      "publishedAt": "2014-10-17T22:35:53.914Z",
+      "publisher": "dominicbarnes",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/delegates",
+          "observedAt": "2026-11-16T10:34:59.608Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/delegates",
+          "observedAt": "2026-11-16T10:34:59.608Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/delegates",
+          "observedAt": "2026-11-16T10:34:59.608Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/delegates",
+          "observedAt": "2026-11-16T10:34:59.608Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/delegates",
+          "observedAt": "2026-11-16T10:34:59.608Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "delegates",
+      "semver": "1.0.0",
+      "publishedAt": "2015-12-14T19:56:09.247Z",
+      "publisher": "tjholowaychuk",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/delegates",
+          "observedAt": "2026-11-16T10:34:59.608Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/delegates",
+          "observedAt": "2026-11-16T10:34:59.608Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/delegates",
+          "observedAt": "2026-11-16T10:34:59.608Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/delegates",
+          "observedAt": "2026-11-16T10:34:59.608Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/delegates",
+          "observedAt": "2026-11-16T10:34:59.608Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

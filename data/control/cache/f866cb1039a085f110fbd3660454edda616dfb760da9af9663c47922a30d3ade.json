@@ -1,0 +1,225 @@
+{
+  "schemaVersion": 1,
+  "pkg": "devtools-protocol",
+  "source": "https://registry.npmjs.org/devtools-protocol",
+  "fetchedAt": "2026-11-16T10:34:59.720Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 1537
+  },
+  "sourceSha256": "8ae057d683d33dfd1b5af550c8374e0ba13cc1fef0fc3cb795d867837f7b7239",
+  "versions": [
+    {
+      "pkg": "devtools-protocol",
+      "semver": "0.0.1019158",
+      "publishedAt": "2022-06-29T15:30:25.161Z",
+      "publisher": "paulirish",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 2442105,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/devtools-protocol",
+          "observedAt": "2026-11-16T10:34:59.720Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/devtools-protocol",
+          "observedAt": "2026-11-16T10:34:59.720Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/devtools-protocol",
+          "observedAt": "2026-11-16T10:34:59.720Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/devtools-protocol",
+          "observedAt": "2026-11-16T10:34:59.720Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/devtools-protocol",
+          "observedAt": "2026-11-16T10:34:59.720Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/devtools-protocol",
+          "observedAt": "2026-11-16T10:34:59.720Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "devtools-protocol",
+      "semver": "0.0.1493946",
+      "publishedAt": "2025-07-30T04:34:58.491Z",
+      "publisher": "google-wombot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 3428120,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/devtools-protocol",
+          "observedAt": "2026-11-16T10:34:59.720Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/devtools-protocol",
+          "observedAt": "2026-11-16T10:34:59.720Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/devtools-protocol",
+          "observedAt": "2026-11-16T10:34:59.720Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/devtools-protocol",
+          "observedAt": "2026-11-16T10:34:59.720Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/devtools-protocol",
+          "observedAt": "2026-11-16T10:34:59.720Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/devtools-protocol",
+          "observedAt": "2026-11-16T10:34:59.720Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "devtools-protocol",
+      "semver": "0.0.1495237",
+      "publishedAt": "2025-08-01T04:41:29.349Z",
+      "publisher": "google-wombot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 3460252,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/devtools-protocol",
+          "observedAt": "2026-11-16T10:34:59.720Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/devtools-protocol",
+          "observedAt": "2026-11-16T10:34:59.720Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/devtools-protocol",
+          "observedAt": "2026-11-16T10:34:59.720Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/devtools-protocol",
+          "observedAt": "2026-11-16T10:34:59.720Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/devtools-protocol",
+          "observedAt": "2026-11-16T10:34:59.720Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/devtools-protocol",
+          "observedAt": "2026-11-16T10:34:59.720Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "devtools-protocol",
+      "semver": "0.0.1495869",
+      "publishedAt": "2025-08-02T04:33:23.460Z",
+      "publisher": "google-wombot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 3461901,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/devtools-protocol",
+          "observedAt": "2026-11-16T10:34:59.720Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/devtools-protocol",
+          "observedAt": "2026-11-16T10:34:59.720Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/devtools-protocol",
+          "observedAt": "2026-11-16T10:34:59.720Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/devtools-protocol",
+          "observedAt": "2026-11-16T10:34:59.720Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/devtools-protocol",
+          "observedAt": "2026-11-16T10:34:59.720Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/devtools-protocol",
+          "observedAt": "2026-11-16T10:34:59.720Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "devtools-protocol",
+      "semver": "0.0.1498010",
+      "publishedAt": "2025-08-07T04:35:15.859Z",
+      "publisher": "google-wombot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 3462633,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/devtools-protocol",
+          "observedAt": "2026-11-16T10:34:59.720Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/devtools-protocol",
+          "observedAt": "2026-11-16T10:34:59.720Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/devtools-protocol",
+          "observedAt": "2026-11-16T10:34:59.720Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/devtools-protocol",
+          "observedAt": "2026-11-16T10:34:59.720Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/devtools-protocol",
+          "observedAt": "2026-11-16T10:34:59.720Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/devtools-protocol",
+          "observedAt": "2026-11-16T10:34:59.720Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

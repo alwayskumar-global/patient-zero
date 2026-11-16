@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@types/babel__traverse",
+  "source": "https://registry.npmjs.org/%40types%2Fbabel__traverse",
+  "fetchedAt": "2026-11-16T10:34:43.733Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 39
+  },
+  "sourceSha256": "056513c8c92abc9537e893e65d19353b7d0830138019385834fbd9d39a338858",
+  "versions": [
+    {
+      "pkg": "@types/babel__traverse",
+      "semver": "7.20.7",
+      "publishedAt": "2025-03-26T08:02:37.052Z",
+      "publisher": "types",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 84954,
+      "dependencies": {
+        "@babel/types": "^7.20.7"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40types%2Fbabel__traverse",
+          "observedAt": "2026-11-16T10:34:43.733Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40types%2Fbabel__traverse",
+          "observedAt": "2026-11-16T10:34:43.733Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40types%2Fbabel__traverse",
+          "observedAt": "2026-11-16T10:34:43.733Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40types%2Fbabel__traverse",
+          "observedAt": "2026-11-16T10:34:43.733Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40types%2Fbabel__traverse",
+          "observedAt": "2026-11-16T10:34:43.733Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40types%2Fbabel__traverse",
+          "observedAt": "2026-11-16T10:34:43.733Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@types/babel__traverse",
+      "semver": "7.28.0",
+      "publishedAt": "2025-07-31T21:02:31.553Z",
+      "publisher": "types",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 85966,
+      "dependencies": {
+        "@babel/types": "^7.28.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40types%2Fbabel__traverse",
+          "observedAt": "2026-11-16T10:34:43.733Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40types%2Fbabel__traverse",
+          "observedAt": "2026-11-16T10:34:43.733Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40types%2Fbabel__traverse",
+          "observedAt": "2026-11-16T10:34:43.733Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40types%2Fbabel__traverse",
+          "observedAt": "2026-11-16T10:34:43.733Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40types%2Fbabel__traverse",
+          "observedAt": "2026-11-16T10:34:43.733Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40types%2Fbabel__traverse",
+          "observedAt": "2026-11-16T10:34:43.733Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

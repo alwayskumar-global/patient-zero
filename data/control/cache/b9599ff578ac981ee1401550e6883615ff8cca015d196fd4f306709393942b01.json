@@ -1,0 +1,116 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@octokit/auth-token",
+  "source": "https://registry.npmjs.org/%40octokit%2Fauth-token",
+  "fetchedAt": "2026-11-16T10:34:36.357Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 28
+  },
+  "sourceSha256": "dcda133d29813b2e053f440c4ca8ea119ca8cd0e31cf52f7c3f109e5af460d3c",
+  "versions": [
+    {
+      "pkg": "@octokit/auth-token",
+      "semver": "0.0.0-development",
+      "publishedAt": "2019-06-10T02:58:37.674Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40octokit%2Fauth-token",
+          "observedAt": "2026-11-16T10:34:36.357Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@octokit/auth-token",
+      "semver": "1.0.0",
+      "publishedAt": "2019-06-10T03:20:42.458Z",
+      "publisher": "gr2m",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 15949,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40octokit%2Fauth-token",
+          "observedAt": "2026-11-16T10:34:36.357Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40octokit%2Fauth-token",
+          "observedAt": "2026-11-16T10:34:36.357Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40octokit%2Fauth-token",
+          "observedAt": "2026-11-16T10:34:36.357Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40octokit%2Fauth-token",
+          "observedAt": "2026-11-16T10:34:36.357Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40octokit%2Fauth-token",
+          "observedAt": "2026-11-16T10:34:36.357Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40octokit%2Fauth-token",
+          "observedAt": "2026-11-16T10:34:36.357Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@octokit/auth-token",
+      "semver": "6.0.0",
+      "publishedAt": "2025-05-20T06:25:24.426Z",
+      "publisher": "octokitbot",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 19138,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40octokit%2Fauth-token",
+          "observedAt": "2026-11-16T10:34:36.357Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40octokit%2Fauth-token",
+          "observedAt": "2026-11-16T10:34:36.357Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40octokit%2Fauth-token",
+          "observedAt": "2026-11-16T10:34:36.357Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40octokit%2Fauth-token",
+          "observedAt": "2026-11-16T10:34:36.357Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40octokit%2Fauth-token",
+          "observedAt": "2026-11-16T10:34:36.357Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40octokit%2Fauth-token",
+          "observedAt": "2026-11-16T10:34:36.357Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

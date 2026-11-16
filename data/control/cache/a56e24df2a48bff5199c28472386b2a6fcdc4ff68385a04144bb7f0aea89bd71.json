@@ -1,0 +1,415 @@
+{
+  "schemaVersion": 1,
+  "pkg": "npm-packlist",
+  "source": "https://registry.npmjs.org/npm-packlist",
+  "fetchedAt": "2026-11-16T10:35:15.553Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 73
+  },
+  "sourceSha256": "5af36f6c201166a34f706407ecc21faaae564450365a554a0fb4baf149f3be6e",
+  "versions": [
+    {
+      "pkg": "npm-packlist",
+      "semver": "1.1.8",
+      "publishedAt": "2017-08-22T22:47:10.838Z",
+      "publisher": "iarna",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "ignore-walk": "^3.0.0",
+        "npm-bundled": "^1.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/npm-packlist",
+          "observedAt": "2026-11-16T10:35:15.553Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/npm-packlist",
+          "observedAt": "2026-11-16T10:35:15.553Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/npm-packlist",
+          "observedAt": "2026-11-16T10:35:15.553Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/npm-packlist",
+          "observedAt": "2026-11-16T10:35:15.553Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/npm-packlist",
+          "observedAt": "2026-11-16T10:35:15.553Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "npm-packlist",
+      "semver": "1.4.0",
+      "publishedAt": "2019-02-19T20:06:48.212Z",
+      "publisher": "audrey.e",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 11769,
+      "dependencies": {
+        "ignore-walk": "^3.0.1",
+        "npm-bundled": "^1.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/npm-packlist",
+          "observedAt": "2026-11-16T10:35:15.553Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/npm-packlist",
+          "observedAt": "2026-11-16T10:35:15.553Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/npm-packlist",
+          "observedAt": "2026-11-16T10:35:15.553Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/npm-packlist",
+          "observedAt": "2026-11-16T10:35:15.553Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/npm-packlist",
+          "observedAt": "2026-11-16T10:35:15.553Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/npm-packlist",
+          "observedAt": "2026-11-16T10:35:15.553Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "npm-packlist",
+      "semver": "1.4.1",
+      "publishedAt": "2019-02-20T19:14:25.004Z",
+      "publisher": "zkat",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 11790,
+      "dependencies": {
+        "ignore-walk": "^3.0.1",
+        "npm-bundled": "^1.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/npm-packlist",
+          "observedAt": "2026-11-16T10:35:15.553Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/npm-packlist",
+          "observedAt": "2026-11-16T10:35:15.553Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/npm-packlist",
+          "observedAt": "2026-11-16T10:35:15.553Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/npm-packlist",
+          "observedAt": "2026-11-16T10:35:15.553Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/npm-packlist",
+          "observedAt": "2026-11-16T10:35:15.553Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/npm-packlist",
+          "observedAt": "2026-11-16T10:35:15.553Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "npm-packlist",
+      "semver": "10.0.1",
+      "publishedAt": "2025-07-24T16:38:05.432Z",
+      "publisher": "npm-cli-ops",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 22213,
+      "dependencies": {
+        "ignore-walk": "^8.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/npm-packlist",
+          "observedAt": "2026-11-16T10:35:15.553Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/npm-packlist",
+          "observedAt": "2026-11-16T10:35:15.553Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/npm-packlist",
+          "observedAt": "2026-11-16T10:35:15.553Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/npm-packlist",
+          "observedAt": "2026-11-16T10:35:15.553Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/npm-packlist",
+          "observedAt": "2026-11-16T10:35:15.553Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/npm-packlist",
+          "observedAt": "2026-11-16T10:35:15.553Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "npm-packlist",
+      "semver": "3.0.0",
+      "publishedAt": "2021-08-23T17:37:19.253Z",
+      "publisher": "isaacs",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 24264,
+      "dependencies": {
+        "glob": "^7.1.6",
+        "ignore-walk": "^4.0.1",
+        "npm-bundled": "^1.1.1",
+        "npm-normalize-package-bin": "^1.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/npm-packlist",
+          "observedAt": "2026-11-16T10:35:15.553Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/npm-packlist",
+          "observedAt": "2026-11-16T10:35:15.553Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/npm-packlist",
+          "observedAt": "2026-11-16T10:35:15.553Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/npm-packlist",
+          "observedAt": "2026-11-16T10:35:15.553Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/npm-packlist",
+          "observedAt": "2026-11-16T10:35:15.553Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/npm-packlist",
+          "observedAt": "2026-11-16T10:35:15.553Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "npm-packlist",
+      "semver": "5.0.4",
+      "publishedAt": "2022-05-19T17:41:08.675Z",
+      "publisher": "gar",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 26329,
+      "dependencies": {
+        "glob": "^8.0.1",
+        "ignore-walk": "^5.0.1",
+        "npm-bundled": "^1.1.2",
+        "npm-normalize-package-bin": "^1.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/npm-packlist",
+          "observedAt": "2026-11-16T10:35:15.553Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/npm-packlist",
+          "observedAt": "2026-11-16T10:35:15.553Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/npm-packlist",
+          "observedAt": "2026-11-16T10:35:15.553Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/npm-packlist",
+          "observedAt": "2026-11-16T10:35:15.553Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/npm-packlist",
+          "observedAt": "2026-11-16T10:35:15.553Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/npm-packlist",
+          "observedAt": "2026-11-16T10:35:15.553Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "npm-packlist",
+      "semver": "7.0.0",
+      "publishedAt": "2022-10-05T00:03:52.316Z",
+      "publisher": "fritzy",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 21717,
+      "dependencies": {
+        "ignore-walk": "^5.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/npm-packlist",
+          "observedAt": "2026-11-16T10:35:15.553Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/npm-packlist",
+          "observedAt": "2026-11-16T10:35:15.553Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/npm-packlist",
+          "observedAt": "2026-11-16T10:35:15.553Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/npm-packlist",
+          "observedAt": "2026-11-16T10:35:15.553Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/npm-packlist",
+          "observedAt": "2026-11-16T10:35:15.553Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/npm-packlist",
+          "observedAt": "2026-11-16T10:35:15.553Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "npm-packlist",
+      "semver": "7.0.2",
+      "publishedAt": "2022-10-26T17:57:53.365Z",
+      "publisher": "nlf",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 21828,
+      "dependencies": {
+        "ignore-walk": "^6.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/npm-packlist",
+          "observedAt": "2026-11-16T10:35:15.553Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/npm-packlist",
+          "observedAt": "2026-11-16T10:35:15.553Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/npm-packlist",
+          "observedAt": "2026-11-16T10:35:15.553Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/npm-packlist",
+          "observedAt": "2026-11-16T10:35:15.553Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/npm-packlist",
+          "observedAt": "2026-11-16T10:35:15.553Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/npm-packlist",
+          "observedAt": "2026-11-16T10:35:15.553Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "npm-packlist",
+      "semver": "7.0.4",
+      "publishedAt": "2022-12-07T20:32:39.589Z",
+      "publisher": "lukekarrys",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 22074,
+      "dependencies": {
+        "ignore-walk": "^6.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/npm-packlist",
+          "observedAt": "2026-11-16T10:35:15.553Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/npm-packlist",
+          "observedAt": "2026-11-16T10:35:15.553Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/npm-packlist",
+          "observedAt": "2026-11-16T10:35:15.553Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/npm-packlist",
+          "observedAt": "2026-11-16T10:35:15.553Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/npm-packlist",
+          "observedAt": "2026-11-16T10:35:15.553Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/npm-packlist",
+          "observedAt": "2026-11-16T10:35:15.553Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

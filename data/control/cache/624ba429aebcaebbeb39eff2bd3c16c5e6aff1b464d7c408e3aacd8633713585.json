@@ -1,0 +1,180 @@
+{
+  "schemaVersion": 1,
+  "pkg": "ini",
+  "source": "https://registry.npmjs.org/ini",
+  "fetchedAt": "2026-11-16T10:39:49.872Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 29
+  },
+  "normalizationWarnings": [
+    {
+      "version": "1.0.4",
+      "field": "publisher",
+      "reason": "Invalid historical publisher preserved as unknown"
+    }
+  ],
+  "sourceSha256": "d48c9abb69f4a4cd7b1b655895616e4a886024461859731dd264e3bd041b608a",
+  "versions": [
+    {
+      "pkg": "ini",
+      "semver": "1.0.4",
+      "publishedAt": "2012-08-14T23:12:24.868Z",
+      "publisher": null,
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ini",
+          "observedAt": "2026-11-16T10:39:49.872Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ini",
+          "observedAt": "2026-11-16T10:39:49.872Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ini",
+          "observedAt": "2026-11-16T10:39:49.872Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ini",
+          "observedAt": "2026-11-16T10:39:49.872Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ini",
+      "semver": "2.0.0",
+      "publishedAt": "2020-12-11T23:07:02.892Z",
+      "publisher": "isaacs",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 9474,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ini",
+          "observedAt": "2026-11-16T10:39:49.872Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ini",
+          "observedAt": "2026-11-16T10:39:49.872Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ini",
+          "observedAt": "2026-11-16T10:39:49.872Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ini",
+          "observedAt": "2026-11-16T10:39:49.872Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/ini",
+          "observedAt": "2026-11-16T10:39:49.872Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ini",
+          "observedAt": "2026-11-16T10:39:49.872Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ini",
+      "semver": "4.0.0",
+      "publishedAt": "2023-03-21T19:00:13.031Z",
+      "publisher": "gar",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 9879,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ini",
+          "observedAt": "2026-11-16T10:39:49.872Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ini",
+          "observedAt": "2026-11-16T10:39:49.872Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ini",
+          "observedAt": "2026-11-16T10:39:49.872Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ini",
+          "observedAt": "2026-11-16T10:39:49.872Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/ini",
+          "observedAt": "2026-11-16T10:39:49.872Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ini",
+          "observedAt": "2026-11-16T10:39:49.872Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ini",
+      "semver": "5.0.0",
+      "publishedAt": "2024-09-04T21:50:18.492Z",
+      "publisher": "npm-cli-ops",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 12130,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ini",
+          "observedAt": "2026-11-16T10:39:49.872Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ini",
+          "observedAt": "2026-11-16T10:39:49.872Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ini",
+          "observedAt": "2026-11-16T10:39:49.872Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ini",
+          "observedAt": "2026-11-16T10:39:49.872Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/ini",
+          "observedAt": "2026-11-16T10:39:49.872Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ini",
+          "observedAt": "2026-11-16T10:39:49.872Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

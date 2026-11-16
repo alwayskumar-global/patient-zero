@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@nstudio/focus",
+  "source": "https://registry.npmjs.org/%40nstudio%2Ffocus",
+  "fetchedAt": "2026-11-16T10:31:39.438Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 118
+  },
+  "sourceSha256": "30a00f0c835116be6895a074a3dd574c06145a1526b5c28847c47812a582df70",
+  "versions": [
+    {
+      "pkg": "@nstudio/focus",
+      "semver": "17.0.1",
+      "publishedAt": "2023-10-23T19:28:12.436Z",
+      "publisher": "walkerrunpdx",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 30889,
+      "dependencies": {
+        "xml2js": "~0.6.2",
+        "@angular-devkit/core": "^16.0.0",
+        "@nstudio/xplat-utils": "17.0.1",
+        "@angular-devkit/schematics": "^16.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Ffocus",
+          "observedAt": "2026-11-16T10:31:39.438Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Ffocus",
+          "observedAt": "2026-11-16T10:31:39.438Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Ffocus",
+          "observedAt": "2026-11-16T10:31:39.438Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Ffocus",
+          "observedAt": "2026-11-16T10:31:39.438Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Ffocus",
+          "observedAt": "2026-11-16T10:31:39.438Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Ffocus",
+          "observedAt": "2026-11-16T10:31:39.438Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nstudio/focus",
+      "semver": "20.0.3",
+      "publishedAt": "2024-11-08T04:10:08.274Z",
+      "publisher": "nativescript-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 30889,
+      "dependencies": {
+        "xml2js": "~0.6.2",
+        "@angular-devkit/core": "^18.0.0",
+        "@nstudio/xplat-utils": "20.0.3",
+        "@angular-devkit/schematics": "^18.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Ffocus",
+          "observedAt": "2026-11-16T10:31:39.438Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Ffocus",
+          "observedAt": "2026-11-16T10:31:39.438Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Ffocus",
+          "observedAt": "2026-11-16T10:31:39.438Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Ffocus",
+          "observedAt": "2026-11-16T10:31:39.438Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Ffocus",
+          "observedAt": "2026-11-16T10:31:39.438Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Ffocus",
+          "observedAt": "2026-11-16T10:31:39.438Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nstudio/focus",
+      "semver": "20.0.4",
+      "publishedAt": "2025-09-15T10:41:07.585Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Ffocus",
+          "observedAt": "2026-11-16T10:31:39.438Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nstudio/focus",
+      "semver": "20.0.5",
+      "publishedAt": "2025-09-15T10:46:44.804Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Ffocus",
+          "observedAt": "2026-11-16T10:31:39.438Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nstudio/focus",
+      "semver": "20.0.6",
+      "publishedAt": "2025-09-15T13:14:50.041Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Ffocus",
+          "observedAt": "2026-11-16T10:31:39.438Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

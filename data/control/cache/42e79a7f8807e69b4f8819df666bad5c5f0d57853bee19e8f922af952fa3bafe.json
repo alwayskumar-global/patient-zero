@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@types/stack-utils",
+  "source": "https://registry.npmjs.org/%40types%2Fstack-utils",
+  "fetchedAt": "2026-11-16T10:34:51.762Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 6
+  },
+  "sourceSha256": "7607141d6f675f09e3306449b4899fbcde606021e2885b47ec814f1af155ec9c",
+  "versions": [
+    {
+      "pkg": "@types/stack-utils",
+      "semver": "2.0.3",
+      "publishedAt": "2023-11-07T17:00:38.573Z",
+      "publisher": "types",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 6426,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40types%2Fstack-utils",
+          "observedAt": "2026-11-16T10:34:51.762Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40types%2Fstack-utils",
+          "observedAt": "2026-11-16T10:34:51.762Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40types%2Fstack-utils",
+          "observedAt": "2026-11-16T10:34:51.762Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40types%2Fstack-utils",
+          "observedAt": "2026-11-16T10:34:51.762Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40types%2Fstack-utils",
+          "observedAt": "2026-11-16T10:34:51.762Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40types%2Fstack-utils",
+          "observedAt": "2026-11-16T10:34:51.762Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

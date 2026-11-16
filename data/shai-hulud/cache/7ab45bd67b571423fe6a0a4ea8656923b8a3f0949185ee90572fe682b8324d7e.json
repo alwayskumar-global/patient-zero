@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@art-ws/package-base",
+  "source": "https://registry.npmjs.org/%40art-ws%2Fpackage-base",
+  "fetchedAt": "2026-11-16T10:31:02.610Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 5
+  },
+  "sourceSha256": "62d00afc7784e8da9a0d305a905f73ad74a1a13b627dd806af9b16bcd84e42ef",
+  "versions": [
+    {
+      "pkg": "@art-ws/package-base",
+      "semver": "1.0.4",
+      "publishedAt": "2021-02-12T11:50:15.568Z",
+      "publisher": "art-ws",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 603,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fpackage-base",
+          "observedAt": "2026-11-16T10:31:02.610Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fpackage-base",
+          "observedAt": "2026-11-16T10:31:02.610Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fpackage-base",
+          "observedAt": "2026-11-16T10:31:02.610Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fpackage-base",
+          "observedAt": "2026-11-16T10:31:02.610Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fpackage-base",
+          "observedAt": "2026-11-16T10:31:02.610Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fpackage-base",
+          "observedAt": "2026-11-16T10:31:02.610Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@art-ws/package-base",
+      "semver": "1.0.5",
+      "publishedAt": "2025-09-15T05:21:22.520Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fpackage-base",
+          "observedAt": "2026-11-16T10:31:02.610Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@art-ws/package-base",
+      "semver": "1.0.6",
+      "publishedAt": "2025-09-15T08:58:45.055Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fpackage-base",
+          "observedAt": "2026-11-16T10:31:02.610Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

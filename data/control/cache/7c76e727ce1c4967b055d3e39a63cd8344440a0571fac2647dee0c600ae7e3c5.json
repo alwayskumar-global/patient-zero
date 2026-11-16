@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "colorette",
+  "source": "https://registry.npmjs.org/colorette",
+  "fetchedAt": "2026-11-16T10:34:57.918Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 37
+  },
+  "sourceSha256": "1a739068bd5889d1e76eaa74b80c76bca0a34616877a211118286e788105e486",
+  "versions": [
+    {
+      "pkg": "colorette",
+      "semver": "2.0.20",
+      "publishedAt": "2023-04-16T15:34:09.905Z",
+      "publisher": "jorgebucaran",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 17009,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/colorette",
+          "observedAt": "2026-11-16T10:34:57.918Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/colorette",
+          "observedAt": "2026-11-16T10:34:57.918Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/colorette",
+          "observedAt": "2026-11-16T10:34:57.918Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/colorette",
+          "observedAt": "2026-11-16T10:34:57.918Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/colorette",
+          "observedAt": "2026-11-16T10:34:57.918Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/colorette",
+          "observedAt": "2026-11-16T10:34:57.918Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

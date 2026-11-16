@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@xtuc/ieee754",
+  "source": "https://registry.npmjs.org/%40xtuc%2Fieee754",
+  "fetchedAt": "2026-11-16T10:34:55.180Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 1
+  },
+  "sourceSha256": "75d818eef1bb9b2567fe81d5830567dab7bedcfe50ff6d502bf1ca10af8fbc11",
+  "versions": [
+    {
+      "pkg": "@xtuc/ieee754",
+      "semver": "1.2.0",
+      "publishedAt": "2018-07-19T16:10:45.976Z",
+      "publisher": "xtuc",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 8575,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40xtuc%2Fieee754",
+          "observedAt": "2026-11-16T10:34:55.180Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40xtuc%2Fieee754",
+          "observedAt": "2026-11-16T10:34:55.180Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40xtuc%2Fieee754",
+          "observedAt": "2026-11-16T10:34:55.180Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40xtuc%2Fieee754",
+          "observedAt": "2026-11-16T10:34:55.180Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40xtuc%2Fieee754",
+          "observedAt": "2026-11-16T10:34:55.180Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40xtuc%2Fieee754",
+          "observedAt": "2026-11-16T10:34:55.180Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

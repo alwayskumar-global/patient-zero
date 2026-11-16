@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "pkg": "cache-base",
+  "source": "https://registry.npmjs.org/cache-base",
+  "fetchedAt": "2026-11-16T10:34:57.302Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 24
+  },
+  "sourceSha256": "0bfb6d9645f1e0a79ef60405d3d0224a904878874cebbe8359f10c74ee0c708f",
+  "versions": [
+    {
+      "pkg": "cache-base",
+      "semver": "3.0.1",
+      "publishedAt": "2018-03-30T02:49:10.835Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/cache-base",
+          "observedAt": "2026-11-16T10:34:57.302Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "cache-base",
+      "semver": "4.0.2",
+      "publishedAt": "2021-11-06T22:19:53.659Z",
+      "publisher": "jonschlinkert",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 25117,
+      "dependencies": {
+        "@sellside/emitter": "^1.2.1",
+        "collection-visit": "^1.0.0",
+        "get-value": "^3.0.1",
+        "has-own-deep": "^1.1.0",
+        "kind-of": "^6.0.2",
+        "set-value": "^4.1.0",
+        "union-value": "^1.0.0",
+        "unset-value": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/cache-base",
+          "observedAt": "2026-11-16T10:34:57.302Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/cache-base",
+          "observedAt": "2026-11-16T10:34:57.302Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/cache-base",
+          "observedAt": "2026-11-16T10:34:57.302Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/cache-base",
+          "observedAt": "2026-11-16T10:34:57.302Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/cache-base",
+          "observedAt": "2026-11-16T10:34:57.302Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/cache-base",
+          "observedAt": "2026-11-16T10:34:57.302Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

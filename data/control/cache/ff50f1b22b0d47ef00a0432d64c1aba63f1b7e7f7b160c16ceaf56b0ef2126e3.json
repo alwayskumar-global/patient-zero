@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "spdx-exceptions",
+  "source": "https://registry.npmjs.org/spdx-exceptions",
+  "fetchedAt": "2026-11-16T10:35:26.961Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 12
+  },
+  "sourceSha256": "aa000669113a9edfd3b1d0ab58ba0d27003df51e5d139701f1ad35c8b5aab36d",
+  "versions": [
+    {
+      "pkg": "spdx-exceptions",
+      "semver": "2.5.0",
+      "publishedAt": "2024-02-15T03:06:38.111Z",
+      "publisher": "kemitchell",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 3468,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/spdx-exceptions",
+          "observedAt": "2026-11-16T10:35:26.961Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/spdx-exceptions",
+          "observedAt": "2026-11-16T10:35:26.961Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/spdx-exceptions",
+          "observedAt": "2026-11-16T10:35:26.961Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/spdx-exceptions",
+          "observedAt": "2026-11-16T10:35:26.961Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/spdx-exceptions",
+          "observedAt": "2026-11-16T10:35:26.961Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/spdx-exceptions",
+          "observedAt": "2026-11-16T10:35:26.961Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

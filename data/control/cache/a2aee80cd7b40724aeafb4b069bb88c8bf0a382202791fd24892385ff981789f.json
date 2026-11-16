@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "pkg": "domutils",
+  "source": "https://registry.npmjs.org/domutils",
+  "fetchedAt": "2026-11-16T10:35:00.046Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 46
+  },
+  "sourceSha256": "6d274e95baafea641497f7ea86410d620ca5af17158bc17d90fa4ea8633eb210",
+  "versions": [
+    {
+      "pkg": "domutils",
+      "semver": "3.2.2",
+      "publishedAt": "2025-01-06T20:05:27.541Z",
+      "publisher": "feedic",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 166738,
+      "dependencies": {
+        "domhandler": "^5.0.3",
+        "dom-serializer": "^2.0.0",
+        "domelementtype": "^2.3.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/domutils",
+          "observedAt": "2026-11-16T10:35:00.046Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/domutils",
+          "observedAt": "2026-11-16T10:35:00.046Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/domutils",
+          "observedAt": "2026-11-16T10:35:00.046Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/domutils",
+          "observedAt": "2026-11-16T10:35:00.046Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/domutils",
+          "observedAt": "2026-11-16T10:35:00.046Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/domutils",
+          "observedAt": "2026-11-16T10:35:00.046Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

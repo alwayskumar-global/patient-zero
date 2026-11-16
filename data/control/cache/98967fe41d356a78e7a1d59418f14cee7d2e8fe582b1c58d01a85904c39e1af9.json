@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "clean-stack",
+  "source": "https://registry.npmjs.org/clean-stack",
+  "fetchedAt": "2026-11-16T10:34:57.706Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 23
+  },
+  "sourceSha256": "26b0ab583130cf48e2a134cb7b9c1e583ef2c9153e77bfeb683ef36fde2caebf",
+  "versions": [
+    {
+      "pkg": "clean-stack",
+      "semver": "5.2.0",
+      "publishedAt": "2023-03-21T10:34:21.848Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 8747,
+      "dependencies": {
+        "escape-string-regexp": "5.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/clean-stack",
+          "observedAt": "2026-11-16T10:34:57.706Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/clean-stack",
+          "observedAt": "2026-11-16T10:34:57.706Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/clean-stack",
+          "observedAt": "2026-11-16T10:34:57.706Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/clean-stack",
+          "observedAt": "2026-11-16T10:34:57.706Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/clean-stack",
+          "observedAt": "2026-11-16T10:34:57.706Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/clean-stack",
+          "observedAt": "2026-11-16T10:34:57.706Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

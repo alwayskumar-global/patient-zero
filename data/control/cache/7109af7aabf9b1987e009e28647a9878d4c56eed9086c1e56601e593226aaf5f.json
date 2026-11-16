@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "is-shared-array-buffer",
+  "source": "https://registry.npmjs.org/is-shared-array-buffer",
+  "fetchedAt": "2026-11-16T10:35:06.873Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 5
+  },
+  "sourceSha256": "a1cc002946c3df290410ca481b605b6945781e815a6a1df53e7b8357fd7b881c",
+  "versions": [
+    {
+      "pkg": "is-shared-array-buffer",
+      "semver": "1.0.4",
+      "publishedAt": "2024-12-18T16:27:56.450Z",
+      "publisher": "ljharb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 17117,
+      "dependencies": {
+        "call-bound": "^1.0.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/is-shared-array-buffer",
+          "observedAt": "2026-11-16T10:35:06.873Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/is-shared-array-buffer",
+          "observedAt": "2026-11-16T10:35:06.873Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/is-shared-array-buffer",
+          "observedAt": "2026-11-16T10:35:06.873Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/is-shared-array-buffer",
+          "observedAt": "2026-11-16T10:35:06.873Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/is-shared-array-buffer",
+          "observedAt": "2026-11-16T10:35:06.873Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/is-shared-array-buffer",
+          "observedAt": "2026-11-16T10:35:06.873Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

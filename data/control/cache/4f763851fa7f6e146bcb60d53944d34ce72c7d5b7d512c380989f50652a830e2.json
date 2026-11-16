@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "pkg": "tempy",
+  "source": "https://registry.npmjs.org/tempy",
+  "fetchedAt": "2026-11-16T10:35:28.822Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 17
+  },
+  "sourceSha256": "dd02e5711ab27af7b08d84c8b91faab7423c3e34deb3eec83d661687b2f83011",
+  "versions": [
+    {
+      "pkg": "tempy",
+      "semver": "3.1.0",
+      "publishedAt": "2023-07-10T18:24:34.496Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 12509,
+      "dependencies": {
+        "temp-dir": "^3.0.0",
+        "is-stream": "^3.0.0",
+        "type-fest": "^2.12.2",
+        "unique-string": "^3.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/tempy",
+          "observedAt": "2026-11-16T10:35:28.822Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/tempy",
+          "observedAt": "2026-11-16T10:35:28.822Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/tempy",
+          "observedAt": "2026-11-16T10:35:28.822Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/tempy",
+          "observedAt": "2026-11-16T10:35:28.822Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/tempy",
+          "observedAt": "2026-11-16T10:35:28.822Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/tempy",
+          "observedAt": "2026-11-16T10:35:28.822Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

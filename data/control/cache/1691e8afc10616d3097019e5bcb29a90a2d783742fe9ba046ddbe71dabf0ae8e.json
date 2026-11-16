@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "prepend-http",
+  "source": "https://registry.npmjs.org/prepend-http",
+  "fetchedAt": "2026-11-16T10:35:21.032Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 9
+  },
+  "sourceSha256": "3cc8729bf65b8db50f877fe25561f3f2e1077a0018fe3300eccff4fcb9bc2509",
+  "versions": [
+    {
+      "pkg": "prepend-http",
+      "semver": "4.0.0",
+      "publishedAt": "2021-08-09T22:15:37.615Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 3906,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/prepend-http",
+          "observedAt": "2026-11-16T10:35:21.032Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/prepend-http",
+          "observedAt": "2026-11-16T10:35:21.032Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/prepend-http",
+          "observedAt": "2026-11-16T10:35:21.032Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/prepend-http",
+          "observedAt": "2026-11-16T10:35:21.032Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/prepend-http",
+          "observedAt": "2026-11-16T10:35:21.032Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/prepend-http",
+          "observedAt": "2026-11-16T10:35:21.032Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

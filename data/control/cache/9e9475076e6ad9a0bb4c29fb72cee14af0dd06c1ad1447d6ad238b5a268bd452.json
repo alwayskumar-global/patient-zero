@@ -1,0 +1,207 @@
+{
+  "schemaVersion": 1,
+  "pkg": "eslint-plugin-jest",
+  "source": "https://registry.npmjs.org/eslint-plugin-jest",
+  "fetchedAt": "2026-11-16T10:35:01.367Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 388
+  },
+  "sourceSha256": "c73c07741f208438ce086297302568e272658d91dcb57d8ff90ec7c1655df008",
+  "versions": [
+    {
+      "pkg": "eslint-plugin-jest",
+      "semver": "1.0.2",
+      "publishedAt": "2016-12-12T18:32:29.514Z",
+      "publisher": "jkimbo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/eslint-plugin-jest",
+          "observedAt": "2026-11-16T10:35:01.367Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/eslint-plugin-jest",
+          "observedAt": "2026-11-16T10:35:01.367Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/eslint-plugin-jest",
+          "observedAt": "2026-11-16T10:35:01.367Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/eslint-plugin-jest",
+          "observedAt": "2026-11-16T10:35:01.367Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/eslint-plugin-jest",
+          "observedAt": "2026-11-16T10:35:01.367Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "eslint-plugin-jest",
+      "semver": "20.1.0-echo.1",
+      "publishedAt": "2017-08-08T16:49:46.201Z",
+      "publisher": "mjesun",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/eslint-plugin-jest",
+          "observedAt": "2026-11-16T10:35:01.367Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/eslint-plugin-jest",
+          "observedAt": "2026-11-16T10:35:01.367Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/eslint-plugin-jest",
+          "observedAt": "2026-11-16T10:35:01.367Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/eslint-plugin-jest",
+          "observedAt": "2026-11-16T10:35:01.367Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/eslint-plugin-jest",
+          "observedAt": "2026-11-16T10:35:01.367Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "eslint-plugin-jest",
+      "semver": "21.0.0-alpha.2",
+      "publishedAt": "2017-08-21T22:06:46.342Z",
+      "publisher": "aaronabramov",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/eslint-plugin-jest",
+          "observedAt": "2026-11-16T10:35:01.367Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/eslint-plugin-jest",
+          "observedAt": "2026-11-16T10:35:01.367Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/eslint-plugin-jest",
+          "observedAt": "2026-11-16T10:35:01.367Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/eslint-plugin-jest",
+          "observedAt": "2026-11-16T10:35:01.367Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/eslint-plugin-jest",
+          "observedAt": "2026-11-16T10:35:01.367Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "eslint-plugin-jest",
+      "semver": "21.3.0-beta.8",
+      "publishedAt": "2017-11-07T17:43:27.827Z",
+      "publisher": "cpojer",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/eslint-plugin-jest",
+          "observedAt": "2026-11-16T10:35:01.367Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/eslint-plugin-jest",
+          "observedAt": "2026-11-16T10:35:01.367Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/eslint-plugin-jest",
+          "observedAt": "2026-11-16T10:35:01.367Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/eslint-plugin-jest",
+          "observedAt": "2026-11-16T10:35:01.367Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/eslint-plugin-jest",
+          "observedAt": "2026-11-16T10:35:01.367Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "eslint-plugin-jest",
+      "semver": "29.0.1",
+      "publishedAt": "2025-06-18T19:49:24.602Z",
+      "publisher": "simenb",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 355670,
+      "dependencies": {
+        "@typescript-eslint/utils": "^8.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/eslint-plugin-jest",
+          "observedAt": "2026-11-16T10:35:01.367Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/eslint-plugin-jest",
+          "observedAt": "2026-11-16T10:35:01.367Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/eslint-plugin-jest",
+          "observedAt": "2026-11-16T10:35:01.367Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/eslint-plugin-jest",
+          "observedAt": "2026-11-16T10:35:01.367Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/eslint-plugin-jest",
+          "observedAt": "2026-11-16T10:35:01.367Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/eslint-plugin-jest",
+          "observedAt": "2026-11-16T10:35:01.367Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "schemaVersion": 1,
+  "pkg": "json-rules-engine-simplified",
+  "source": "https://registry.npmjs.org/json-rules-engine-simplified",
+  "fetchedAt": "2026-11-16T10:32:21.454Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 23
+  },
+  "sourceSha256": "ea340f2194e7876b5c166c55cf8965df8cfa6de5051437ba7fadd9c6b432ea7b",
+  "versions": [
+    {
+      "pkg": "json-rules-engine-simplified",
+      "semver": "0.1.17",
+      "publishedAt": "2018-06-11T09:08:08.476Z",
+      "publisher": "mavarazy",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 210005,
+      "dependencies": {
+        "selectn": "1.1.2",
+        "predicate": "1.2.0",
+        "deep-equal": "1.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/json-rules-engine-simplified",
+          "observedAt": "2026-11-16T10:32:21.454Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/json-rules-engine-simplified",
+          "observedAt": "2026-11-16T10:32:21.454Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/json-rules-engine-simplified",
+          "observedAt": "2026-11-16T10:32:21.454Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/json-rules-engine-simplified",
+          "observedAt": "2026-11-16T10:32:21.454Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/json-rules-engine-simplified",
+          "observedAt": "2026-11-16T10:32:21.454Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/json-rules-engine-simplified",
+          "observedAt": "2026-11-16T10:32:21.454Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "json-rules-engine-simplified",
+      "semver": "0.2.0",
+      "publishedAt": "2024-07-23T12:20:36.237Z",
+      "publisher": "techsupportrxnt",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 200531,
+      "dependencies": {
+        "selectn": "1.1.2",
+        "predicate": "1.2.0",
+        "deep-equal": "1.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/json-rules-engine-simplified",
+          "observedAt": "2026-11-16T10:32:21.454Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/json-rules-engine-simplified",
+          "observedAt": "2026-11-16T10:32:21.454Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/json-rules-engine-simplified",
+          "observedAt": "2026-11-16T10:32:21.454Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/json-rules-engine-simplified",
+          "observedAt": "2026-11-16T10:32:21.454Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/json-rules-engine-simplified",
+          "observedAt": "2026-11-16T10:32:21.454Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/json-rules-engine-simplified",
+          "observedAt": "2026-11-16T10:32:21.454Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "json-rules-engine-simplified",
+      "semver": "0.2.1",
+      "publishedAt": "2025-09-14T17:58:51.203Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/json-rules-engine-simplified",
+          "observedAt": "2026-11-16T10:32:21.454Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "json-rules-engine-simplified",
+      "semver": "0.2.2",
+      "publishedAt": "2025-09-14T20:43:42.350Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/json-rules-engine-simplified",
+          "observedAt": "2026-11-16T10:32:21.454Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "json-rules-engine-simplified",
+      "semver": "0.2.3",
+      "publishedAt": "2025-09-14T21:03:20.073Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/json-rules-engine-simplified",
+          "observedAt": "2026-11-16T10:32:21.454Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "json-rules-engine-simplified",
+      "semver": "0.2.4",
+      "publishedAt": "2025-09-15T15:45:44.723Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/json-rules-engine-simplified",
+          "observedAt": "2026-11-16T10:32:21.454Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

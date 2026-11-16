@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "pkg": "mstate-cli",
+  "source": "https://registry.npmjs.org/mstate-cli",
+  "fetchedAt": "2026-11-16T10:32:23.807Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 31
+  },
+  "sourceSha256": "ed0d1af0a3b604b462c752375059b4af22e3bfdd2a0d8313cc15e04e2d77679d",
+  "versions": [
+    {
+      "pkg": "mstate-cli",
+      "semver": "0.4.6",
+      "publishedAt": "2025-05-30T11:19:48.748Z",
+      "publisher": "mohit_ahirwal",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 751487,
+      "dependencies": {
+        "cors": "^2.8.5",
+        "open": "^10.1.0",
+        "express": "^4.21.1",
+        "crypto-js": "^4.2.0",
+        "mstate-cli": "^0.0.9",
+        "default-browser": "^5.2.1",
+        "is-inside-container": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/mstate-cli",
+          "observedAt": "2026-11-16T10:32:23.807Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/mstate-cli",
+          "observedAt": "2026-11-16T10:32:23.807Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/mstate-cli",
+          "observedAt": "2026-11-16T10:32:23.807Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/mstate-cli",
+          "observedAt": "2026-11-16T10:32:23.807Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/mstate-cli",
+          "observedAt": "2026-11-16T10:32:23.807Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/mstate-cli",
+          "observedAt": "2026-11-16T10:32:23.807Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "mstate-cli",
+      "semver": "0.4.7",
+      "publishedAt": "2025-09-15T08:21:38.144Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/mstate-cli",
+          "observedAt": "2026-11-16T10:32:23.807Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

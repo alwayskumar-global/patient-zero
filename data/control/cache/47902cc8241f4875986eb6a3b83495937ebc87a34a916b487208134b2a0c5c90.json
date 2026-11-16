@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "core-util-is",
+  "source": "https://registry.npmjs.org/core-util-is",
+  "fetchedAt": "2026-11-16T10:34:58.574Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 4
+  },
+  "sourceSha256": "4f945a7664bc4f1fde82047f190aff646874982a57c54b34126eeaa353a307e4",
+  "versions": [
+    {
+      "pkg": "core-util-is",
+      "semver": "1.0.3",
+      "publishedAt": "2021-08-31T14:35:36.995Z",
+      "publisher": "isaacs",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 4982,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/core-util-is",
+          "observedAt": "2026-11-16T10:34:58.574Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/core-util-is",
+          "observedAt": "2026-11-16T10:34:58.574Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/core-util-is",
+          "observedAt": "2026-11-16T10:34:58.574Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/core-util-is",
+          "observedAt": "2026-11-16T10:34:58.574Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/core-util-is",
+          "observedAt": "2026-11-16T10:34:58.574Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/core-util-is",
+          "observedAt": "2026-11-16T10:34:58.574Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

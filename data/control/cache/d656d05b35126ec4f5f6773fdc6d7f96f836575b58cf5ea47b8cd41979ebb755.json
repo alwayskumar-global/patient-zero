@@ -1,0 +1,349 @@
+{
+  "schemaVersion": 1,
+  "pkg": "styled-jsx",
+  "source": "https://registry.npmjs.org/styled-jsx",
+  "fetchedAt": "2026-11-16T10:35:27.830Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 122
+  },
+  "sourceSha256": "cd916ee2fb95c9a2a9b49a1639c95bd158963a747dabf08a116c44d38bb6cde4",
+  "versions": [
+    {
+      "pkg": "styled-jsx",
+      "semver": "0.5.4",
+      "publishedAt": "2017-02-05T15:36:57.163Z",
+      "publisher": "nkzawa",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "babylon": "^6.14.1",
+        "source-map": "^0.5.6",
+        "string-hash": "^1.1.1",
+        "babel-traverse": "^6.21.0",
+        "object.entries": "^1.0.4",
+        "convert-source-map": "^1.3.0",
+        "babel-plugin-syntax-jsx": "^6.18.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/styled-jsx",
+          "observedAt": "2026-11-16T10:35:27.830Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/styled-jsx",
+          "observedAt": "2026-11-16T10:35:27.830Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/styled-jsx",
+          "observedAt": "2026-11-16T10:35:27.830Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/styled-jsx",
+          "observedAt": "2026-11-16T10:35:27.830Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/styled-jsx",
+          "observedAt": "2026-11-16T10:35:27.830Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "styled-jsx",
+      "semver": "1.0.8",
+      "publishedAt": "2017-07-03T15:12:23.910Z",
+      "publisher": "leo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "stylis": "3.1.5",
+        "babylon": "6.14.1",
+        "css-tree": "1.0.0-alpha17",
+        "source-map": "0.5.6",
+        "babel-types": "6.23.0",
+        "string-hash": "1.1.1",
+        "babel-traverse": "6.21.0",
+        "convert-source-map": "1.3.0",
+        "escape-string-regexp": "1.0.5",
+        "babel-plugin-syntax-jsx": "6.18.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/styled-jsx",
+          "observedAt": "2026-11-16T10:35:27.830Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/styled-jsx",
+          "observedAt": "2026-11-16T10:35:27.830Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/styled-jsx",
+          "observedAt": "2026-11-16T10:35:27.830Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/styled-jsx",
+          "observedAt": "2026-11-16T10:35:27.830Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/styled-jsx",
+          "observedAt": "2026-11-16T10:35:27.830Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "styled-jsx",
+      "semver": "2.0.1-beta.4",
+      "publishedAt": "2017-10-07T21:20:37.920Z",
+      "publisher": "rauchg",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "stylis": "3.2.18",
+        "source-map": "0.5.6",
+        "babel-types": "6.23.0",
+        "string-hash": "1.1.1",
+        "convert-source-map": "1.3.0",
+        "babel-plugin-syntax-jsx": "6.18.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/styled-jsx",
+          "observedAt": "2026-11-16T10:35:27.830Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/styled-jsx",
+          "observedAt": "2026-11-16T10:35:27.830Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/styled-jsx",
+          "observedAt": "2026-11-16T10:35:27.830Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/styled-jsx",
+          "observedAt": "2026-11-16T10:35:27.830Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/styled-jsx",
+          "observedAt": "2026-11-16T10:35:27.830Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "styled-jsx",
+      "semver": "3.0.3-canary.0",
+      "publishedAt": "2018-08-31T13:26:21.802Z",
+      "publisher": "timneutkens",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 101316,
+      "dependencies": {
+        "stylis": "3.5.3",
+        "source-map": "0.7.3",
+        "babel-types": "6.26.0",
+        "string-hash": "1.1.3",
+        "loader-utils": "1.1.0",
+        "stylis-rule-sheet": "0.0.10",
+        "convert-source-map": "1.5.1",
+        "babel-plugin-syntax-jsx": "6.18.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/styled-jsx",
+          "observedAt": "2026-11-16T10:35:27.830Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/styled-jsx",
+          "observedAt": "2026-11-16T10:35:27.830Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/styled-jsx",
+          "observedAt": "2026-11-16T10:35:27.830Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/styled-jsx",
+          "observedAt": "2026-11-16T10:35:27.830Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/styled-jsx",
+          "observedAt": "2026-11-16T10:35:27.830Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/styled-jsx",
+          "observedAt": "2026-11-16T10:35:27.830Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "styled-jsx",
+      "semver": "3.3.1",
+      "publishedAt": "2020-10-24T16:36:32.779Z",
+      "publisher": "giuseppegurgone",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 104736,
+      "dependencies": {
+        "stylis": "3.5.4",
+        "source-map": "0.7.3",
+        "string-hash": "1.1.3",
+        "@babel/types": "7.8.3",
+        "loader-utils": "1.2.3",
+        "stylis-rule-sheet": "0.0.10",
+        "convert-source-map": "1.7.0",
+        "babel-plugin-syntax-jsx": "6.18.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/styled-jsx",
+          "observedAt": "2026-11-16T10:35:27.830Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/styled-jsx",
+          "observedAt": "2026-11-16T10:35:27.830Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/styled-jsx",
+          "observedAt": "2026-11-16T10:35:27.830Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/styled-jsx",
+          "observedAt": "2026-11-16T10:35:27.830Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/styled-jsx",
+          "observedAt": "2026-11-16T10:35:27.830Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/styled-jsx",
+          "observedAt": "2026-11-16T10:35:27.830Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "styled-jsx",
+      "semver": "4.0.1",
+      "publishedAt": "2021-08-30T14:21:31.701Z",
+      "publisher": "zeit-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 103858,
+      "dependencies": {
+        "stylis": "3.5.4",
+        "source-map": "0.7.3",
+        "string-hash": "1.1.3",
+        "@babel/types": "7.15.0",
+        "loader-utils": "1.2.3",
+        "stylis-rule-sheet": "0.0.10",
+        "convert-source-map": "1.7.0",
+        "@babel/plugin-syntax-jsx": "7.14.5"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/styled-jsx",
+          "observedAt": "2026-11-16T10:35:27.830Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/styled-jsx",
+          "observedAt": "2026-11-16T10:35:27.830Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/styled-jsx",
+          "observedAt": "2026-11-16T10:35:27.830Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/styled-jsx",
+          "observedAt": "2026-11-16T10:35:27.830Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/styled-jsx",
+          "observedAt": "2026-11-16T10:35:27.830Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/styled-jsx",
+          "observedAt": "2026-11-16T10:35:27.830Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "styled-jsx",
+      "semver": "5.1.7",
+      "publishedAt": "2025-04-30T13:33:43.637Z",
+      "publisher": "vercel-release-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 1030961,
+      "dependencies": {
+        "client-only": "0.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/styled-jsx",
+          "observedAt": "2026-11-16T10:35:27.830Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/styled-jsx",
+          "observedAt": "2026-11-16T10:35:27.830Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/styled-jsx",
+          "observedAt": "2026-11-16T10:35:27.830Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/styled-jsx",
+          "observedAt": "2026-11-16T10:35:27.830Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/styled-jsx",
+          "observedAt": "2026-11-16T10:35:27.830Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/styled-jsx",
+          "observedAt": "2026-11-16T10:35:27.830Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

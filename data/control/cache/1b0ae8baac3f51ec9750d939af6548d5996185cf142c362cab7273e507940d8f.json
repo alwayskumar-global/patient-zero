@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "buffer-from",
+  "source": "https://registry.npmjs.org/buffer-from",
+  "fetchedAt": "2026-11-16T10:34:57.172Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 7
+  },
+  "sourceSha256": "edcfd995c991c95ada42966de38b69d83a1dc4a81e1d9fceb7d8382313e8c221",
+  "versions": [
+    {
+      "pkg": "buffer-from",
+      "semver": "1.1.2",
+      "publishedAt": "2021-07-29T17:05:33.074Z",
+      "publisher": "linusu",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 5047,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/buffer-from",
+          "observedAt": "2026-11-16T10:34:57.172Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/buffer-from",
+          "observedAt": "2026-11-16T10:34:57.172Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/buffer-from",
+          "observedAt": "2026-11-16T10:34:57.172Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/buffer-from",
+          "observedAt": "2026-11-16T10:34:57.172Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/buffer-from",
+          "observedAt": "2026-11-16T10:34:57.172Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/buffer-from",
+          "observedAt": "2026-11-16T10:34:57.172Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

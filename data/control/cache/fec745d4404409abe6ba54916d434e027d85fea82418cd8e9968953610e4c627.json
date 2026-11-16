@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@webassemblyjs/wast-printer",
+  "source": "https://registry.npmjs.org/%40webassemblyjs%2Fwast-printer",
+  "fetchedAt": "2026-11-16T10:34:55.148Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 88
+  },
+  "sourceSha256": "8b037fd23b60aa497d866eefba05d869ad487341d96b34a7cbc9795933e7a1a6",
+  "versions": [
+    {
+      "pkg": "@webassemblyjs/wast-printer",
+      "semver": "1.14.1",
+      "publishedAt": "2024-11-06T21:53:38.592Z",
+      "publisher": "xtuc",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 39576,
+      "dependencies": {
+        "@webassemblyjs/ast": "1.14.1",
+        "@xtuc/long": "4.2.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40webassemblyjs%2Fwast-printer",
+          "observedAt": "2026-11-16T10:34:55.148Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40webassemblyjs%2Fwast-printer",
+          "observedAt": "2026-11-16T10:34:55.148Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40webassemblyjs%2Fwast-printer",
+          "observedAt": "2026-11-16T10:34:55.148Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40webassemblyjs%2Fwast-printer",
+          "observedAt": "2026-11-16T10:34:55.148Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40webassemblyjs%2Fwast-printer",
+          "observedAt": "2026-11-16T10:34:55.148Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40webassemblyjs%2Fwast-printer",
+          "observedAt": "2026-11-16T10:34:55.148Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

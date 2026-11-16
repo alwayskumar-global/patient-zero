@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@types/express-serve-static-core",
+  "source": "https://registry.npmjs.org/%40types%2Fexpress-serve-static-core",
+  "fetchedAt": "2026-11-16T10:34:46.910Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 120
+  },
+  "sourceSha256": "9c3adc2dbcdaf91a3702ef0c4a17dc3b6d5925c6265cb08cace14623df15da3e",
+  "versions": [
+    {
+      "pkg": "@types/express-serve-static-core",
+      "semver": "5.0.7",
+      "publishedAt": "2025-07-08T18:02:31.367Z",
+      "publisher": "types",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 44778,
+      "dependencies": {
+        "@types/qs": "*",
+        "@types/node": "*",
+        "@types/send": "*",
+        "@types/range-parser": "*"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40types%2Fexpress-serve-static-core",
+          "observedAt": "2026-11-16T10:34:46.910Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40types%2Fexpress-serve-static-core",
+          "observedAt": "2026-11-16T10:34:46.910Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40types%2Fexpress-serve-static-core",
+          "observedAt": "2026-11-16T10:34:46.910Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40types%2Fexpress-serve-static-core",
+          "observedAt": "2026-11-16T10:34:46.910Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40types%2Fexpress-serve-static-core",
+          "observedAt": "2026-11-16T10:34:46.910Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40types%2Fexpress-serve-static-core",
+          "observedAt": "2026-11-16T10:34:46.910Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

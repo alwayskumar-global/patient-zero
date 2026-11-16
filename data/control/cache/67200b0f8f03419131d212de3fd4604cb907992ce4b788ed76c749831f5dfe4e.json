@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "array-union",
+  "source": "https://registry.npmjs.org/array-union",
+  "fetchedAt": "2026-11-16T10:34:55.583Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 8
+  },
+  "sourceSha256": "05f2d67f196227b0c998d520fbf2e124d985ecbcb84cb15de1ac75de500a7f14",
+  "versions": [
+    {
+      "pkg": "array-union",
+      "semver": "3.0.1",
+      "publishedAt": "2021-03-01T18:43:09.121Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 3590,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/array-union",
+          "observedAt": "2026-11-16T10:34:55.583Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/array-union",
+          "observedAt": "2026-11-16T10:34:55.583Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/array-union",
+          "observedAt": "2026-11-16T10:34:55.583Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/array-union",
+          "observedAt": "2026-11-16T10:34:55.583Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/array-union",
+          "observedAt": "2026-11-16T10:34:55.583Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/array-union",
+          "observedAt": "2026-11-16T10:34:55.583Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

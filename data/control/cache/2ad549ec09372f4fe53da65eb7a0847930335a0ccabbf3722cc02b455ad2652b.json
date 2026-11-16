@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@sindresorhus/is",
+  "source": "https://registry.npmjs.org/%40sindresorhus%2Fis",
+  "fetchedAt": "2026-11-16T10:34:39.088Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 63
+  },
+  "sourceSha256": "cc06d6724a7d07a562e780bcc862fc5d7b8fbe8ac9c014bef8e6159b31df5cf6",
+  "versions": [
+    {
+      "pkg": "@sindresorhus/is",
+      "semver": "7.0.2",
+      "publishedAt": "2025-06-04T09:58:47.639Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 99588,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40sindresorhus%2Fis",
+          "observedAt": "2026-11-16T10:34:39.088Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40sindresorhus%2Fis",
+          "observedAt": "2026-11-16T10:34:39.088Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40sindresorhus%2Fis",
+          "observedAt": "2026-11-16T10:34:39.088Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40sindresorhus%2Fis",
+          "observedAt": "2026-11-16T10:34:39.088Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40sindresorhus%2Fis",
+          "observedAt": "2026-11-16T10:34:39.088Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40sindresorhus%2Fis",
+          "observedAt": "2026-11-16T10:34:39.088Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

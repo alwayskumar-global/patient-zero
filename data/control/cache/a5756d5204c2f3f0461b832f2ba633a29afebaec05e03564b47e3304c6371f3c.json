@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "source-map-js",
+  "source": "https://registry.npmjs.org/source-map-js",
+  "fetchedAt": "2026-11-16T10:35:26.842Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 9
+  },
+  "sourceSha256": "f9fd77ed10814e5a3b5bd0d49fb56f195483ed3ed77164b308ca295e51209604",
+  "versions": [
+    {
+      "pkg": "source-map-js",
+      "semver": "1.2.1",
+      "publishedAt": "2024-09-08T16:22:55.645Z",
+      "publisher": "7rulnik",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 139872,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/source-map-js",
+          "observedAt": "2026-11-16T10:35:26.842Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/source-map-js",
+          "observedAt": "2026-11-16T10:35:26.842Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/source-map-js",
+          "observedAt": "2026-11-16T10:35:26.842Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/source-map-js",
+          "observedAt": "2026-11-16T10:35:26.842Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/source-map-js",
+          "observedAt": "2026-11-16T10:35:26.842Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/source-map-js",
+          "observedAt": "2026-11-16T10:35:26.842Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

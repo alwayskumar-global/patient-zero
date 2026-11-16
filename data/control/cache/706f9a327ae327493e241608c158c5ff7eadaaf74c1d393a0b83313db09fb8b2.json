@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "colord",
+  "source": "https://registry.npmjs.org/colord",
+  "fetchedAt": "2026-11-16T10:34:57.927Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 58
+  },
+  "sourceSha256": "cf6144a492336d3832cbc92459c4aaef45e9b850b7dd405f976fbc8fde506122",
+  "versions": [
+    {
+      "pkg": "colord",
+      "semver": "2.9.3",
+      "publishedAt": "2022-08-10T13:52:12.556Z",
+      "publisher": "omgovich",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 113812,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/colord",
+          "observedAt": "2026-11-16T10:34:57.927Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/colord",
+          "observedAt": "2026-11-16T10:34:57.927Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/colord",
+          "observedAt": "2026-11-16T10:34:57.927Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/colord",
+          "observedAt": "2026-11-16T10:34:57.927Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/colord",
+          "observedAt": "2026-11-16T10:34:57.927Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/colord",
+          "observedAt": "2026-11-16T10:34:57.927Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

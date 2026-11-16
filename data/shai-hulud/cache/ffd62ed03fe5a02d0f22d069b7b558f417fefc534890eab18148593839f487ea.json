@@ -1,0 +1,209 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@nstudio/nativescript-loading-indicator",
+  "source": "https://registry.npmjs.org/%40nstudio%2Fnativescript-loading-indicator",
+  "fetchedAt": "2026-11-16T10:31:40.852Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 29
+  },
+  "sourceSha256": "8115e437dfcf864ded79e8e2ebb1bacd98d4cb0d697c472de6ede0f91eb096c4",
+  "versions": [
+    {
+      "pkg": "@nstudio/nativescript-loading-indicator",
+      "semver": "3.0.4",
+      "publishedAt": "2020-03-23T21:10:43.690Z",
+      "publisher": "bradmartin",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 68671,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fnativescript-loading-indicator",
+          "observedAt": "2026-11-16T10:31:40.852Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fnativescript-loading-indicator",
+          "observedAt": "2026-11-16T10:31:40.852Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fnativescript-loading-indicator",
+          "observedAt": "2026-11-16T10:31:40.852Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fnativescript-loading-indicator",
+          "observedAt": "2026-11-16T10:31:40.852Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fnativescript-loading-indicator",
+          "observedAt": "2026-11-16T10:31:40.852Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fnativescript-loading-indicator",
+          "observedAt": "2026-11-16T10:31:40.852Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nstudio/nativescript-loading-indicator",
+      "semver": "4.3.2",
+      "publishedAt": "2023-09-18T22:48:33.786Z",
+      "publisher": "walkerrunpdx",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 94812,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fnativescript-loading-indicator",
+          "observedAt": "2026-11-16T10:31:40.852Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fnativescript-loading-indicator",
+          "observedAt": "2026-11-16T10:31:40.852Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fnativescript-loading-indicator",
+          "observedAt": "2026-11-16T10:31:40.852Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fnativescript-loading-indicator",
+          "observedAt": "2026-11-16T10:31:40.852Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fnativescript-loading-indicator",
+          "observedAt": "2026-11-16T10:31:40.852Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fnativescript-loading-indicator",
+          "observedAt": "2026-11-16T10:31:40.852Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nstudio/nativescript-loading-indicator",
+      "semver": "5.0.0",
+      "publishedAt": "2025-09-04T17:10:52.809Z",
+      "publisher": "nativescript-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 97589,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fnativescript-loading-indicator",
+          "observedAt": "2026-11-16T10:31:40.852Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fnativescript-loading-indicator",
+          "observedAt": "2026-11-16T10:31:40.852Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fnativescript-loading-indicator",
+          "observedAt": "2026-11-16T10:31:40.852Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fnativescript-loading-indicator",
+          "observedAt": "2026-11-16T10:31:40.852Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fnativescript-loading-indicator",
+          "observedAt": "2026-11-16T10:31:40.852Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fnativescript-loading-indicator",
+          "observedAt": "2026-11-16T10:31:40.852Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nstudio/nativescript-loading-indicator",
+      "semver": "5.0.1",
+      "publishedAt": "2025-09-15T09:16:49.335Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fnativescript-loading-indicator",
+          "observedAt": "2026-11-16T10:31:40.852Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nstudio/nativescript-loading-indicator",
+      "semver": "5.0.2",
+      "publishedAt": "2025-09-15T10:41:55.360Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fnativescript-loading-indicator",
+          "observedAt": "2026-11-16T10:31:40.852Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nstudio/nativescript-loading-indicator",
+      "semver": "5.0.3",
+      "publishedAt": "2025-09-15T10:47:38.927Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fnativescript-loading-indicator",
+          "observedAt": "2026-11-16T10:31:40.852Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nstudio/nativescript-loading-indicator",
+      "semver": "5.0.4",
+      "publishedAt": "2025-09-15T13:14:43.768Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fnativescript-loading-indicator",
+          "observedAt": "2026-11-16T10:31:40.852Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

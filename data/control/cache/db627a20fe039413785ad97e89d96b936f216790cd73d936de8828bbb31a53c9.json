@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "pkg": "degenerator",
+  "source": "https://registry.npmjs.org/degenerator",
+  "fetchedAt": "2026-11-16T10:34:59.587Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 31
+  },
+  "sourceSha256": "8dc4d2133cecd147e7d7ffde4f243e0886f93293f573dec89cf9632d694d1946",
+  "versions": [
+    {
+      "pkg": "degenerator",
+      "semver": "5.0.1",
+      "publishedAt": "2023-07-19T21:01:10.719Z",
+      "publisher": "tootallnate",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 27128,
+      "dependencies": {
+        "esprima": "^4.0.1",
+        "ast-types": "^0.13.4",
+        "escodegen": "^2.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/degenerator",
+          "observedAt": "2026-11-16T10:34:59.587Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/degenerator",
+          "observedAt": "2026-11-16T10:34:59.587Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/degenerator",
+          "observedAt": "2026-11-16T10:34:59.587Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/degenerator",
+          "observedAt": "2026-11-16T10:34:59.587Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/degenerator",
+          "observedAt": "2026-11-16T10:34:59.587Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/degenerator",
+          "observedAt": "2026-11-16T10:34:59.587Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

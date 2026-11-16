@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 1,
+  "pkg": "create-hmac",
+  "source": "https://registry.npmjs.org/create-hmac",
+  "fetchedAt": "2026-11-16T10:34:58.660Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 11
+  },
+  "sourceSha256": "e301afabbbcd80d13f705515d4e15ab93e3201d57d8f718bf6832810e081cbda",
+  "versions": [
+    {
+      "pkg": "create-hmac",
+      "semver": "1.1.4",
+      "publishedAt": "2015-09-27T23:15:50.769Z",
+      "publisher": "dcousens",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "create-hash": "^1.1.0",
+        "inherits": "^2.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/create-hmac",
+          "observedAt": "2026-11-16T10:34:58.660Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/create-hmac",
+          "observedAt": "2026-11-16T10:34:58.660Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/create-hmac",
+          "observedAt": "2026-11-16T10:34:58.660Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/create-hmac",
+          "observedAt": "2026-11-16T10:34:58.660Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/create-hmac",
+          "observedAt": "2026-11-16T10:34:58.660Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "create-hmac",
+      "semver": "1.1.7",
+      "publishedAt": "2018-04-11T12:31:20.190Z",
+      "publisher": "cwmma",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 5809,
+      "dependencies": {
+        "cipher-base": "^1.0.3",
+        "create-hash": "^1.1.0",
+        "inherits": "^2.0.1",
+        "ripemd160": "^2.0.0",
+        "safe-buffer": "^5.0.1",
+        "sha.js": "^2.4.8"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/create-hmac",
+          "observedAt": "2026-11-16T10:34:58.660Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/create-hmac",
+          "observedAt": "2026-11-16T10:34:58.660Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/create-hmac",
+          "observedAt": "2026-11-16T10:34:58.660Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/create-hmac",
+          "observedAt": "2026-11-16T10:34:58.660Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/create-hmac",
+          "observedAt": "2026-11-16T10:34:58.660Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/create-hmac",
+          "observedAt": "2026-11-16T10:34:58.660Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

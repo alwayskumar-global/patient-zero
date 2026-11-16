@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "ansi-escapes",
+  "source": "https://registry.npmjs.org/ansi-escapes",
+  "fetchedAt": "2026-11-16T10:34:55.405Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 28
+  },
+  "sourceSha256": "52540627d155676df66633b55e483712f12c1a5890b45c33c68765158a664c29",
+  "versions": [
+    {
+      "pkg": "ansi-escapes",
+      "semver": "7.0.0",
+      "publishedAt": "2024-05-02T20:54:16.807Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 17851,
+      "dependencies": {
+        "environment": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ansi-escapes",
+          "observedAt": "2026-11-16T10:34:55.405Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ansi-escapes",
+          "observedAt": "2026-11-16T10:34:55.405Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ansi-escapes",
+          "observedAt": "2026-11-16T10:34:55.405Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ansi-escapes",
+          "observedAt": "2026-11-16T10:34:55.405Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/ansi-escapes",
+          "observedAt": "2026-11-16T10:34:55.405Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ansi-escapes",
+          "observedAt": "2026-11-16T10:34:55.405Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

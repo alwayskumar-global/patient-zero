@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@hapi/topo",
+  "source": "https://registry.npmjs.org/%40hapi%2Ftopo",
+  "fetchedAt": "2026-11-16T10:34:35.287Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 14
+  },
+  "sourceSha256": "ba1c6cc879d6e44f5aee2ebd57c4f4d195a185d9cdae9a095772ea1db793858b",
+  "versions": [
+    {
+      "pkg": "@hapi/topo",
+      "semver": "5.0.0",
+      "publishedAt": "2020-01-04T09:03:36.791Z",
+      "publisher": "hueniverse",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 10247,
+      "dependencies": {
+        "@hapi/hoek": "^9.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40hapi%2Ftopo",
+          "observedAt": "2026-11-16T10:34:35.287Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40hapi%2Ftopo",
+          "observedAt": "2026-11-16T10:34:35.287Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40hapi%2Ftopo",
+          "observedAt": "2026-11-16T10:34:35.287Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40hapi%2Ftopo",
+          "observedAt": "2026-11-16T10:34:35.287Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40hapi%2Ftopo",
+          "observedAt": "2026-11-16T10:34:35.287Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40hapi%2Ftopo",
+          "observedAt": "2026-11-16T10:34:35.287Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@hapi/topo",
+      "semver": "6.0.0",
+      "publishedAt": "2022-05-03T00:36:18.808Z",
+      "publisher": "devinivy",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 10884,
+      "dependencies": {
+        "@hapi/hoek": "^10.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40hapi%2Ftopo",
+          "observedAt": "2026-11-16T10:34:35.287Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40hapi%2Ftopo",
+          "observedAt": "2026-11-16T10:34:35.287Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40hapi%2Ftopo",
+          "observedAt": "2026-11-16T10:34:35.287Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40hapi%2Ftopo",
+          "observedAt": "2026-11-16T10:34:35.287Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40hapi%2Ftopo",
+          "observedAt": "2026-11-16T10:34:35.287Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40hapi%2Ftopo",
+          "observedAt": "2026-11-16T10:34:35.287Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@hapi/topo",
+      "semver": "6.0.2",
+      "publishedAt": "2023-03-11T11:07:20.741Z",
+      "publisher": "marsup",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 10871,
+      "dependencies": {
+        "@hapi/hoek": "^11.0.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40hapi%2Ftopo",
+          "observedAt": "2026-11-16T10:34:35.287Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40hapi%2Ftopo",
+          "observedAt": "2026-11-16T10:34:35.287Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40hapi%2Ftopo",
+          "observedAt": "2026-11-16T10:34:35.287Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40hapi%2Ftopo",
+          "observedAt": "2026-11-16T10:34:35.287Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40hapi%2Ftopo",
+          "observedAt": "2026-11-16T10:34:35.287Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40hapi%2Ftopo",
+          "observedAt": "2026-11-16T10:34:35.287Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

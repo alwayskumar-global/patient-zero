@@ -1,0 +1,197 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@babel/plugin-proposal-optional-chaining",
+  "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-optional-chaining",
+  "fetchedAt": "2026-11-16T10:34:31.808Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 70
+  },
+  "sourceSha256": "53cb85eb57fab57888bf19141f27674fc5e0c27d23fe59581e2e46f7b8f51c77",
+  "versions": [
+    {
+      "pkg": "@babel/plugin-proposal-optional-chaining",
+      "semver": "7.0.0",
+      "publishedAt": "2018-08-27T21:43:55.583Z",
+      "publisher": "hzoo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 6344,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "^7.0.0",
+        "@babel/plugin-syntax-optional-chaining": "^7.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-optional-chaining",
+          "observedAt": "2026-11-16T10:34:31.808Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-optional-chaining",
+          "observedAt": "2026-11-16T10:34:31.808Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-optional-chaining",
+          "observedAt": "2026-11-16T10:34:31.808Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-optional-chaining",
+          "observedAt": "2026-11-16T10:34:31.808Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-optional-chaining",
+          "observedAt": "2026-11-16T10:34:31.808Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-optional-chaining",
+          "observedAt": "2026-11-16T10:34:31.808Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/plugin-proposal-optional-chaining",
+      "semver": "7.0.0-beta.49",
+      "publishedAt": "2018-05-25T16:03:07.019Z",
+      "publisher": "loganfsmyth",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7369,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "7.0.0-beta.49",
+        "@babel/plugin-syntax-optional-chaining": "7.0.0-beta.49"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-optional-chaining",
+          "observedAt": "2026-11-16T10:34:31.808Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-optional-chaining",
+          "observedAt": "2026-11-16T10:34:31.808Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-optional-chaining",
+          "observedAt": "2026-11-16T10:34:31.808Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-optional-chaining",
+          "observedAt": "2026-11-16T10:34:31.808Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-optional-chaining",
+          "observedAt": "2026-11-16T10:34:31.808Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-optional-chaining",
+          "observedAt": "2026-11-16T10:34:31.808Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/plugin-proposal-optional-chaining",
+      "semver": "7.11.0",
+      "publishedAt": "2020-07-30T21:27:30.084Z",
+      "publisher": "jlhwung",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 8620,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "^7.10.4",
+        "@babel/helper-skip-transparent-expression-wrappers": "^7.11.0",
+        "@babel/plugin-syntax-optional-chaining": "^7.8.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-optional-chaining",
+          "observedAt": "2026-11-16T10:34:31.808Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-optional-chaining",
+          "observedAt": "2026-11-16T10:34:31.808Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-optional-chaining",
+          "observedAt": "2026-11-16T10:34:31.808Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-optional-chaining",
+          "observedAt": "2026-11-16T10:34:31.808Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-optional-chaining",
+          "observedAt": "2026-11-16T10:34:31.808Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-optional-chaining",
+          "observedAt": "2026-11-16T10:34:31.808Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/plugin-proposal-optional-chaining",
+      "semver": "7.21.4-esm.4",
+      "publishedAt": "2023-04-04T15:13:36.378Z",
+      "publisher": "nicolo-ribaudo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 32838,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "7.21.4-esm.4",
+        "@babel/helper-skip-transparent-expression-wrappers": "7.21.4-esm.4",
+        "@babel/plugin-syntax-optional-chaining": "^7.8.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-optional-chaining",
+          "observedAt": "2026-11-16T10:34:31.808Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-optional-chaining",
+          "observedAt": "2026-11-16T10:34:31.808Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-optional-chaining",
+          "observedAt": "2026-11-16T10:34:31.808Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-optional-chaining",
+          "observedAt": "2026-11-16T10:34:31.808Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-optional-chaining",
+          "observedAt": "2026-11-16T10:34:31.808Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-optional-chaining",
+          "observedAt": "2026-11-16T10:34:31.808Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

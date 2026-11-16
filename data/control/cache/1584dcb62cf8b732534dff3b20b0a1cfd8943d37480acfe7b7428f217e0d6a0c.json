@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "b4a",
+  "source": "https://registry.npmjs.org/b4a",
+  "fetchedAt": "2026-11-16T10:34:56.352Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 33
+  },
+  "sourceSha256": "a7251e87e28286b058e8240d67794c4e84078dbbbfde68beecc0279db4b4443a",
+  "versions": [
+    {
+      "pkg": "b4a",
+      "semver": "1.6.7",
+      "publishedAt": "2024-09-25T11:31:48.667Z",
+      "publisher": "kasperisager",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 41037,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/b4a",
+          "observedAt": "2026-11-16T10:34:56.352Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/b4a",
+          "observedAt": "2026-11-16T10:34:56.352Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/b4a",
+          "observedAt": "2026-11-16T10:34:56.352Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/b4a",
+          "observedAt": "2026-11-16T10:34:56.352Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/b4a",
+          "observedAt": "2026-11-16T10:34:56.352Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/b4a",
+          "observedAt": "2026-11-16T10:34:56.352Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

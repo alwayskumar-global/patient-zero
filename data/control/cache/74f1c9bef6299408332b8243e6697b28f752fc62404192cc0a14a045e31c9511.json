@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "pkg": "terminal-link",
+  "source": "https://registry.npmjs.org/terminal-link",
+  "fetchedAt": "2026-11-16T10:35:28.839Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 10
+  },
+  "sourceSha256": "3397075ee88cc7d659cfc344f6eb87ae5c3a057f8ac25244e48e169400f04a51",
+  "versions": [
+    {
+      "pkg": "terminal-link",
+      "semver": "4.0.0",
+      "publishedAt": "2025-03-25T19:11:42.128Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 6377,
+      "dependencies": {
+        "ansi-escapes": "^7.0.0",
+        "supports-hyperlinks": "^3.2.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/terminal-link",
+          "observedAt": "2026-11-16T10:35:28.839Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/terminal-link",
+          "observedAt": "2026-11-16T10:35:28.839Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/terminal-link",
+          "observedAt": "2026-11-16T10:35:28.839Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/terminal-link",
+          "observedAt": "2026-11-16T10:35:28.839Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/terminal-link",
+          "observedAt": "2026-11-16T10:35:28.839Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/terminal-link",
+          "observedAt": "2026-11-16T10:35:28.839Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

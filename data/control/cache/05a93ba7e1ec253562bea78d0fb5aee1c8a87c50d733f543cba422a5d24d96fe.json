@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "registry-auth-token",
+  "source": "https://registry.npmjs.org/registry-auth-token",
+  "fetchedAt": "2026-11-16T10:35:24.235Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 28
+  },
+  "sourceSha256": "631cd661d2b2a819b89a900445d47e10ae3e1add242fa880a524d52881848d36",
+  "versions": [
+    {
+      "pkg": "registry-auth-token",
+      "semver": "5.1.0",
+      "publishedAt": "2025-02-08T01:45:42.947Z",
+      "publisher": "rexxars",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 15777,
+      "dependencies": {
+        "@pnpm/npm-conf": "^2.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/registry-auth-token",
+          "observedAt": "2026-11-16T10:35:24.235Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/registry-auth-token",
+          "observedAt": "2026-11-16T10:35:24.235Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/registry-auth-token",
+          "observedAt": "2026-11-16T10:35:24.235Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/registry-auth-token",
+          "observedAt": "2026-11-16T10:35:24.235Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/registry-auth-token",
+          "observedAt": "2026-11-16T10:35:24.235Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/registry-auth-token",
+          "observedAt": "2026-11-16T10:35:24.235Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "pkg": "is-extendable",
+  "source": "https://registry.npmjs.org/is-extendable",
+  "fetchedAt": "2026-11-16T10:35:06.142Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 4
+  },
+  "sourceSha256": "4cd1659298745ff3550cce0918bd5845ebe3be6b1be6b19cc8ec7465b9fc923e",
+  "versions": [
+    {
+      "pkg": "is-extendable",
+      "semver": "1.0.0",
+      "publishedAt": "2017-07-20T21:07:29.084Z",
+      "publisher": "jonschlinkert",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "is-plain-object": "^2.0.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/is-extendable",
+          "observedAt": "2026-11-16T10:35:06.142Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/is-extendable",
+          "observedAt": "2026-11-16T10:35:06.142Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/is-extendable",
+          "observedAt": "2026-11-16T10:35:06.142Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/is-extendable",
+          "observedAt": "2026-11-16T10:35:06.142Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/is-extendable",
+          "observedAt": "2026-11-16T10:35:06.142Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "is-extendable",
+      "semver": "1.0.1",
+      "publishedAt": "2017-09-11T20:38:26.333Z",
+      "publisher": "doowb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "is-plain-object": "^2.0.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/is-extendable",
+          "observedAt": "2026-11-16T10:35:06.142Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/is-extendable",
+          "observedAt": "2026-11-16T10:35:06.142Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/is-extendable",
+          "observedAt": "2026-11-16T10:35:06.142Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/is-extendable",
+          "observedAt": "2026-11-16T10:35:06.142Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/is-extendable",
+          "observedAt": "2026-11-16T10:35:06.142Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

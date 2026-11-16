@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "setprototypeof",
+  "source": "https://registry.npmjs.org/setprototypeof",
+  "fetchedAt": "2026-11-16T10:35:26.143Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 7
+  },
+  "sourceSha256": "39f3285cf2b787b17bcae61c0899171c3ec924559123cd61ea3b8b09e851dd45",
+  "versions": [
+    {
+      "pkg": "setprototypeof",
+      "semver": "1.2.0",
+      "publishedAt": "2019-07-18T04:49:56.614Z",
+      "publisher": "wesleytodd",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 4025,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/setprototypeof",
+          "observedAt": "2026-11-16T10:35:26.143Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/setprototypeof",
+          "observedAt": "2026-11-16T10:35:26.143Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/setprototypeof",
+          "observedAt": "2026-11-16T10:35:26.143Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/setprototypeof",
+          "observedAt": "2026-11-16T10:35:26.143Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/setprototypeof",
+          "observedAt": "2026-11-16T10:35:26.143Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/setprototypeof",
+          "observedAt": "2026-11-16T10:35:26.143Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

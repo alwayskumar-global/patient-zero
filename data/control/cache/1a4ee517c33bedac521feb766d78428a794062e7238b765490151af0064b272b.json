@@ -1,0 +1,561 @@
+{
+  "schemaVersion": 1,
+  "pkg": "use-sync-external-store",
+  "source": "https://registry.npmjs.org/use-sync-external-store",
+  "fetchedAt": "2026-11-16T10:35:32.447Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 2364
+  },
+  "sourceSha256": "9983aba678a64887536fe4f5682d9f45864052323bc9259a99e7f9dc036aad98",
+  "versions": [
+    {
+      "pkg": "use-sync-external-store",
+      "semver": "0.0.0-experimental-3958d5d8-20250807",
+      "publishedAt": "2025-08-07T16:21:26.656Z",
+      "publisher": "react-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 28213,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "use-sync-external-store",
+      "semver": "0.0.0-experimental-594093496-20230209",
+      "publishedAt": "2023-02-09T16:57:17.029Z",
+      "publisher": "acdlite",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 38236,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "use-sync-external-store",
+      "semver": "0.0.0-experimental-66f09bd0-20250806",
+      "publishedAt": "2025-08-06T16:22:06.364Z",
+      "publisher": "react-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 28213,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "use-sync-external-store",
+      "semver": "0.0.0-experimental-7deda941-20250804",
+      "publishedAt": "2025-08-05T16:21:07.367Z",
+      "publisher": "react-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 28213,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "use-sync-external-store",
+      "semver": "0.0.0-experimental-bdb4a96f-20250801",
+      "publishedAt": "2025-08-01T16:21:51.589Z",
+      "publisher": "react-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 28213,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "use-sync-external-store",
+      "semver": "0.0.0-experimental-be11cb5c-20250804",
+      "publishedAt": "2025-08-04T16:21:54.719Z",
+      "publisher": "react-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 28213,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "use-sync-external-store",
+      "semver": "0.0.0-experimental-c260b38d-20250731",
+      "publishedAt": "2025-07-31T16:21:36.336Z",
+      "publisher": "react-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 28213,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "use-sync-external-store",
+      "semver": "1.2.0",
+      "publishedAt": "2022-06-14T19:47:18.363Z",
+      "publisher": "gnoff",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 38046,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "use-sync-external-store",
+      "semver": "1.6.0-canary-3958d5d8-20250807",
+      "publishedAt": "2025-08-07T16:19:54.438Z",
+      "publisher": "react-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 28202,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "use-sync-external-store",
+      "semver": "1.6.0-canary-66f09bd0-20250806",
+      "publishedAt": "2025-08-06T16:20:13.037Z",
+      "publisher": "react-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 28202,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "use-sync-external-store",
+      "semver": "1.6.0-canary-7deda941-20250804",
+      "publishedAt": "2025-08-05T16:19:19.400Z",
+      "publisher": "react-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 28202,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "use-sync-external-store",
+      "semver": "1.6.0-canary-bdb4a96f-20250801",
+      "publishedAt": "2025-08-01T16:20:02.544Z",
+      "publisher": "react-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 28202,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "use-sync-external-store",
+      "semver": "1.6.0-canary-be11cb5c-20250804",
+      "publishedAt": "2025-08-04T16:20:08.311Z",
+      "publisher": "react-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 28202,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/use-sync-external-store",
+          "observedAt": "2026-11-16T10:35:32.447Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

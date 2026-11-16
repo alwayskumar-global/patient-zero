@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "pkg": "dns-packet",
+  "source": "https://registry.npmjs.org/dns-packet",
+  "fetchedAt": "2026-11-16T10:34:59.932Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 39
+  },
+  "sourceSha256": "70ace21cd0505ec71ae2d95be64662df05ed84dbebbfd4a6e06936e5f4120c52",
+  "versions": [
+    {
+      "pkg": "dns-packet",
+      "semver": "5.3.1",
+      "publishedAt": "2021-12-23T10:46:45.540Z",
+      "publisher": "mafintosh",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 56216,
+      "dependencies": {
+        "@leichtgewicht/ip-codec": "^2.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/dns-packet",
+          "observedAt": "2026-11-16T10:34:59.932Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/dns-packet",
+          "observedAt": "2026-11-16T10:34:59.932Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/dns-packet",
+          "observedAt": "2026-11-16T10:34:59.932Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/dns-packet",
+          "observedAt": "2026-11-16T10:34:59.932Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/dns-packet",
+          "observedAt": "2026-11-16T10:34:59.932Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/dns-packet",
+          "observedAt": "2026-11-16T10:34:59.932Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "dns-packet",
+      "semver": "5.6.1",
+      "publishedAt": "2023-08-25T11:00:06.391Z",
+      "publisher": "silverwind",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 61008,
+      "dependencies": {
+        "@leichtgewicht/ip-codec": "^2.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/dns-packet",
+          "observedAt": "2026-11-16T10:34:59.932Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/dns-packet",
+          "observedAt": "2026-11-16T10:34:59.932Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/dns-packet",
+          "observedAt": "2026-11-16T10:34:59.932Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/dns-packet",
+          "observedAt": "2026-11-16T10:34:59.932Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/dns-packet",
+          "observedAt": "2026-11-16T10:34:59.932Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/dns-packet",
+          "observedAt": "2026-11-16T10:34:59.932Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

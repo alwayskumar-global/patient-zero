@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "pkg": "micromark-factory-label",
+  "source": "https://registry.npmjs.org/micromark-factory-label",
+  "fetchedAt": "2026-11-16T10:35:12.774Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 10
+  },
+  "sourceSha256": "091af73ef88d467755b24b34440e9c3dd3a18cbde72a84edc086a4d02b5eb59c",
+  "versions": [
+    {
+      "pkg": "micromark-factory-label",
+      "semver": "2.0.1",
+      "publishedAt": "2024-11-12T11:16:59.169Z",
+      "publisher": "wooorm",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 17588,
+      "dependencies": {
+        "devlop": "^1.0.0",
+        "micromark-util-character": "^2.0.0",
+        "micromark-util-symbol": "^2.0.0",
+        "micromark-util-types": "^2.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/micromark-factory-label",
+          "observedAt": "2026-11-16T10:35:12.774Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/micromark-factory-label",
+          "observedAt": "2026-11-16T10:35:12.774Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/micromark-factory-label",
+          "observedAt": "2026-11-16T10:35:12.774Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/micromark-factory-label",
+          "observedAt": "2026-11-16T10:35:12.774Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/micromark-factory-label",
+          "observedAt": "2026-11-16T10:35:12.774Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/micromark-factory-label",
+          "observedAt": "2026-11-16T10:35:12.774Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

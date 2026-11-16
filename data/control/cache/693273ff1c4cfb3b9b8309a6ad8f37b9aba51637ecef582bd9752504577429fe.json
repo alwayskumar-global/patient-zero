@@ -1,0 +1,116 @@
+{
+  "schemaVersion": 1,
+  "pkg": "node-releases",
+  "source": "https://registry.npmjs.org/node-releases",
+  "fetchedAt": "2026-11-16T10:35:15.394Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 144
+  },
+  "sourceSha256": "b4b375e582d727b94cee230d66e22f322eed50c86aeec32a9092bf369e97a4a4",
+  "versions": [
+    {
+      "pkg": "node-releases",
+      "semver": "1.0.0-alpha.1",
+      "publishedAt": "2016-11-15T01:06:32.648Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/node-releases",
+          "observedAt": "2026-11-16T10:35:15.394Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "node-releases",
+      "semver": "2.0.19",
+      "publishedAt": "2024-12-10T03:28:41.524Z",
+      "publisher": "chicoxyzzy",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 37225,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/node-releases",
+          "observedAt": "2026-11-16T10:35:15.394Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/node-releases",
+          "observedAt": "2026-11-16T10:35:15.394Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/node-releases",
+          "observedAt": "2026-11-16T10:35:15.394Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/node-releases",
+          "observedAt": "2026-11-16T10:35:15.394Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/node-releases",
+          "observedAt": "2026-11-16T10:35:15.394Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/node-releases",
+          "observedAt": "2026-11-16T10:35:15.394Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "node-releases",
+      "semver": "2.0.2",
+      "publishedAt": "2022-02-08T11:48:23.692Z",
+      "publisher": "ai",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 23654,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/node-releases",
+          "observedAt": "2026-11-16T10:35:15.394Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/node-releases",
+          "observedAt": "2026-11-16T10:35:15.394Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/node-releases",
+          "observedAt": "2026-11-16T10:35:15.394Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/node-releases",
+          "observedAt": "2026-11-16T10:35:15.394Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/node-releases",
+          "observedAt": "2026-11-16T10:35:15.394Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/node-releases",
+          "observedAt": "2026-11-16T10:35:15.394Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

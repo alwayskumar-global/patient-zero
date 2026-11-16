@@ -1,0 +1,165 @@
+{
+  "schemaVersion": 1,
+  "pkg": "color-convert",
+  "source": "https://registry.npmjs.org/color-convert",
+  "fetchedAt": "2026-11-16T10:34:57.871Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 41
+  },
+  "sourceSha256": "2414866d0080b752f48bb5995e9f81d8dc706028e4552f7f1adc459207163fd2",
+  "versions": [
+    {
+      "pkg": "color-convert",
+      "semver": "0.2.1",
+      "publishedAt": "2011-06-23T03:04:46.838Z",
+      "publisher": null,
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/color-convert",
+          "observedAt": "2026-11-16T10:34:57.871Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/color-convert",
+          "observedAt": "2026-11-16T10:34:57.871Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/color-convert",
+          "observedAt": "2026-11-16T10:34:57.871Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/color-convert",
+          "observedAt": "2026-11-16T10:34:57.871Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "color-convert",
+      "semver": "0.5.2",
+      "publishedAt": "2014-10-17T19:44:43.302Z",
+      "publisher": "harth",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/color-convert",
+          "observedAt": "2026-11-16T10:34:57.871Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/color-convert",
+          "observedAt": "2026-11-16T10:34:57.871Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/color-convert",
+          "observedAt": "2026-11-16T10:34:57.871Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/color-convert",
+          "observedAt": "2026-11-16T10:34:57.871Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/color-convert",
+          "observedAt": "2026-11-16T10:34:57.871Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "color-convert",
+      "semver": "0.6.0",
+      "publishedAt": "2015-07-23T07:09:45.206Z",
+      "publisher": "moox",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/color-convert",
+          "observedAt": "2026-11-16T10:34:57.871Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/color-convert",
+          "observedAt": "2026-11-16T10:34:57.871Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/color-convert",
+          "observedAt": "2026-11-16T10:34:57.871Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/color-convert",
+          "observedAt": "2026-11-16T10:34:57.871Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/color-convert",
+          "observedAt": "2026-11-16T10:34:57.871Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "color-convert",
+      "semver": "3.1.0",
+      "publishedAt": "2025-05-13T10:03:14.540Z",
+      "publisher": "qix",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 47843,
+      "dependencies": {
+        "color-name": "^2.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/color-convert",
+          "observedAt": "2026-11-16T10:34:57.871Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/color-convert",
+          "observedAt": "2026-11-16T10:34:57.871Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/color-convert",
+          "observedAt": "2026-11-16T10:34:57.871Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/color-convert",
+          "observedAt": "2026-11-16T10:34:57.871Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/color-convert",
+          "observedAt": "2026-11-16T10:34:57.871Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/color-convert",
+          "observedAt": "2026-11-16T10:34:57.871Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

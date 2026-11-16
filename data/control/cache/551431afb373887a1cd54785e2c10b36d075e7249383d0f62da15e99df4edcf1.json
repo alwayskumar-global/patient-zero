@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "pkg": "ee-first",
+  "source": "https://registry.npmjs.org/ee-first",
+  "fetchedAt": "2026-11-16T10:35:00.229Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 8
+  },
+  "sourceSha256": "aec62ff4c3e133183cb270a98fa12896edeccc6627117d59baaa662df3d7897a",
+  "versions": [
+    {
+      "pkg": "ee-first",
+      "semver": "1.0.3",
+      "publishedAt": "2014-06-11T04:22:46.000Z",
+      "publisher": "jongleberry",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ee-first",
+          "observedAt": "2026-11-16T10:35:00.229Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ee-first",
+          "observedAt": "2026-11-16T10:35:00.229Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ee-first",
+          "observedAt": "2026-11-16T10:35:00.229Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ee-first",
+          "observedAt": "2026-11-16T10:35:00.229Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ee-first",
+          "observedAt": "2026-11-16T10:35:00.229Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ee-first",
+      "semver": "1.1.1",
+      "publishedAt": "2015-05-25T19:18:28.732Z",
+      "publisher": "dougwilson",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ee-first",
+          "observedAt": "2026-11-16T10:35:00.229Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ee-first",
+          "observedAt": "2026-11-16T10:35:00.229Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ee-first",
+          "observedAt": "2026-11-16T10:35:00.229Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ee-first",
+          "observedAt": "2026-11-16T10:35:00.229Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ee-first",
+          "observedAt": "2026-11-16T10:35:00.229Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

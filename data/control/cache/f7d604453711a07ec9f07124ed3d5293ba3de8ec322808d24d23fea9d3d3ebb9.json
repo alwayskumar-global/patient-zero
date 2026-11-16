@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "pkg": "sucrase",
+  "source": "https://registry.npmjs.org/sucrase",
+  "fetchedAt": "2026-11-16T10:35:28.139Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 83
+  },
+  "sourceSha256": "7fc1656d1c07fcffb94b044303deed7b883e1f22323f30ba99df8f6d157d3b86",
+  "versions": [
+    {
+      "pkg": "sucrase",
+      "semver": "3.35.0",
+      "publishedAt": "2023-12-22T01:34:43.452Z",
+      "publisher": "alangpierce",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 1136988,
+      "dependencies": {
+        "mz": "^2.7.0",
+        "glob": "^10.3.10",
+        "pirates": "^4.0.1",
+        "commander": "^4.0.0",
+        "lines-and-columns": "^1.1.6",
+        "ts-interface-checker": "^0.1.9",
+        "@jridgewell/gen-mapping": "^0.3.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/sucrase",
+          "observedAt": "2026-11-16T10:35:28.139Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/sucrase",
+          "observedAt": "2026-11-16T10:35:28.139Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/sucrase",
+          "observedAt": "2026-11-16T10:35:28.139Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/sucrase",
+          "observedAt": "2026-11-16T10:35:28.139Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/sucrase",
+          "observedAt": "2026-11-16T10:35:28.139Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/sucrase",
+          "observedAt": "2026-11-16T10:35:28.139Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

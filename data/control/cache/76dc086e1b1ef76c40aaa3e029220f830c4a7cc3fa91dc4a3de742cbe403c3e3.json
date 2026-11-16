@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@polka/url",
+  "source": "https://registry.npmjs.org/%40polka%2Furl",
+  "fetchedAt": "2026-11-16T10:34:36.970Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 20
+  },
+  "sourceSha256": "5c2873cf4ade4cac955c5e7bf55bde2bfa6e9a542b4e307401809dfd9351360a",
+  "versions": [
+    {
+      "pkg": "@polka/url",
+      "semver": "1.0.0-next.29",
+      "publishedAt": "2025-04-09T18:41:21.389Z",
+      "publisher": "lukeed",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 4815,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40polka%2Furl",
+          "observedAt": "2026-11-16T10:34:36.970Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40polka%2Furl",
+          "observedAt": "2026-11-16T10:34:36.970Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40polka%2Furl",
+          "observedAt": "2026-11-16T10:34:36.970Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40polka%2Furl",
+          "observedAt": "2026-11-16T10:34:36.970Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40polka%2Furl",
+          "observedAt": "2026-11-16T10:34:36.970Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40polka%2Furl",
+          "observedAt": "2026-11-16T10:34:36.970Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

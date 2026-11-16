@@ -1,0 +1,132 @@
+{
+  "schemaVersion": 1,
+  "pkg": "tg-client-query-builder",
+  "source": "https://registry.npmjs.org/tg-client-query-builder",
+  "fetchedAt": "2026-11-16T10:32:29.474Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 28
+  },
+  "sourceSha256": "f0aa5c1350abfd455036aaf2cb955d53cd5a2832952e815eb30668c30209b0b0",
+  "versions": [
+    {
+      "pkg": "tg-client-query-builder",
+      "semver": "2.12.1",
+      "publishedAt": "2017-09-26T19:35:49.293Z",
+      "publisher": "teselagen",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "lodash": "^4.17.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/tg-client-query-builder",
+          "observedAt": "2026-11-16T10:32:29.474Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/tg-client-query-builder",
+          "observedAt": "2026-11-16T10:32:29.474Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/tg-client-query-builder",
+          "observedAt": "2026-11-16T10:32:29.474Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/tg-client-query-builder",
+          "observedAt": "2026-11-16T10:32:29.474Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/tg-client-query-builder",
+          "observedAt": "2026-11-16T10:32:29.474Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "tg-client-query-builder",
+      "semver": "2.14.3",
+      "publishedAt": "2023-02-17T22:00:46.618Z",
+      "publisher": "teselagen-admin",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 23819,
+      "dependencies": {
+        "lodash": "^4.17.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/tg-client-query-builder",
+          "observedAt": "2026-11-16T10:32:29.474Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/tg-client-query-builder",
+          "observedAt": "2026-11-16T10:32:29.474Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/tg-client-query-builder",
+          "observedAt": "2026-11-16T10:32:29.474Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/tg-client-query-builder",
+          "observedAt": "2026-11-16T10:32:29.474Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/tg-client-query-builder",
+          "observedAt": "2026-11-16T10:32:29.474Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/tg-client-query-builder",
+          "observedAt": "2026-11-16T10:32:29.474Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "tg-client-query-builder",
+      "semver": "2.14.4",
+      "publishedAt": "2025-09-14T21:01:44.033Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/tg-client-query-builder",
+          "observedAt": "2026-11-16T10:32:29.474Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "tg-client-query-builder",
+      "semver": "2.14.5",
+      "publishedAt": "2025-09-16T02:33:08.444Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/tg-client-query-builder",
+          "observedAt": "2026-11-16T10:32:29.474Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

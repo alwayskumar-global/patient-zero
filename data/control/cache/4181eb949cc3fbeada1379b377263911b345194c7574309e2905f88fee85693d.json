@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "is-number",
+  "source": "https://registry.npmjs.org/is-number",
+  "fetchedAt": "2026-11-16T10:35:06.388Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 15
+  },
+  "sourceSha256": "8fdfbca6f95aa058e4e228ec3a4dc76b5b0a9f53354f06681a3effb2fca7ef92",
+  "versions": [
+    {
+      "pkg": "is-number",
+      "semver": "7.0.0",
+      "publishedAt": "2018-07-04T15:08:58.238Z",
+      "publisher": "jonschlinkert",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 9615,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/is-number",
+          "observedAt": "2026-11-16T10:35:06.388Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/is-number",
+          "observedAt": "2026-11-16T10:35:06.388Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/is-number",
+          "observedAt": "2026-11-16T10:35:06.388Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/is-number",
+          "observedAt": "2026-11-16T10:35:06.388Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/is-number",
+          "observedAt": "2026-11-16T10:35:06.388Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/is-number",
+          "observedAt": "2026-11-16T10:35:06.388Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

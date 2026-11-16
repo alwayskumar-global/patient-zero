@@ -1,0 +1,304 @@
+{
+  "schemaVersion": 1,
+  "pkg": "jest-regex-util",
+  "source": "https://registry.npmjs.org/jest-regex-util",
+  "fetchedAt": "2026-11-16T10:35:08.097Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 115
+  },
+  "sourceSha256": "53c607494693c17dcab0e8038b087e13ab141022d53ef272ba06bd72c81951d1",
+  "versions": [
+    {
+      "pkg": "jest-regex-util",
+      "semver": "21.0.0-alpha.2",
+      "publishedAt": "2017-08-21T22:06:48.371Z",
+      "publisher": "aaronabramov",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-regex-util",
+          "observedAt": "2026-11-16T10:35:08.097Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-regex-util",
+          "observedAt": "2026-11-16T10:35:08.097Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-regex-util",
+          "observedAt": "2026-11-16T10:35:08.097Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-regex-util",
+          "observedAt": "2026-11-16T10:35:08.097Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-regex-util",
+          "observedAt": "2026-11-16T10:35:08.097Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jest-regex-util",
+      "semver": "24.2.0",
+      "publishedAt": "2019-03-05T11:22:43.934Z",
+      "publisher": "mjesun",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 3583,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-regex-util",
+          "observedAt": "2026-11-16T10:35:08.097Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-regex-util",
+          "observedAt": "2026-11-16T10:35:08.097Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-regex-util",
+          "observedAt": "2026-11-16T10:35:08.097Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-regex-util",
+          "observedAt": "2026-11-16T10:35:08.097Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jest-regex-util",
+          "observedAt": "2026-11-16T10:35:08.097Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-regex-util",
+          "observedAt": "2026-11-16T10:35:08.097Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jest-regex-util",
+      "semver": "24.3.0",
+      "publishedAt": "2019-03-07T12:59:18.849Z",
+      "publisher": "rubennorte",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 3632,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-regex-util",
+          "observedAt": "2026-11-16T10:35:08.097Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-regex-util",
+          "observedAt": "2026-11-16T10:35:08.097Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-regex-util",
+          "observedAt": "2026-11-16T10:35:08.097Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-regex-util",
+          "observedAt": "2026-11-16T10:35:08.097Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jest-regex-util",
+          "observedAt": "2026-11-16T10:35:08.097Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-regex-util",
+          "observedAt": "2026-11-16T10:35:08.097Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jest-regex-util",
+      "semver": "25.0.0",
+      "publishedAt": "2019-08-22T03:23:44.026Z",
+      "publisher": "scotthovestadt",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 3371,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-regex-util",
+          "observedAt": "2026-11-16T10:35:08.097Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-regex-util",
+          "observedAt": "2026-11-16T10:35:08.097Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-regex-util",
+          "observedAt": "2026-11-16T10:35:08.097Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-regex-util",
+          "observedAt": "2026-11-16T10:35:08.097Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jest-regex-util",
+          "observedAt": "2026-11-16T10:35:08.097Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-regex-util",
+          "observedAt": "2026-11-16T10:35:08.097Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jest-regex-util",
+      "semver": "25.1.0",
+      "publishedAt": "2020-01-22T00:59:44.564Z",
+      "publisher": "davidzilburg",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 3373,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-regex-util",
+          "observedAt": "2026-11-16T10:35:08.097Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-regex-util",
+          "observedAt": "2026-11-16T10:35:08.097Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-regex-util",
+          "observedAt": "2026-11-16T10:35:08.097Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-regex-util",
+          "observedAt": "2026-11-16T10:35:08.097Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jest-regex-util",
+          "observedAt": "2026-11-16T10:35:08.097Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-regex-util",
+          "observedAt": "2026-11-16T10:35:08.097Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jest-regex-util",
+      "semver": "30.0.0-alpha.7",
+      "publishedAt": "2025-01-30T08:28:22.934Z",
+      "publisher": "simenb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 4366,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-regex-util",
+          "observedAt": "2026-11-16T10:35:08.097Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-regex-util",
+          "observedAt": "2026-11-16T10:35:08.097Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-regex-util",
+          "observedAt": "2026-11-16T10:35:08.097Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-regex-util",
+          "observedAt": "2026-11-16T10:35:08.097Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jest-regex-util",
+          "observedAt": "2026-11-16T10:35:08.097Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-regex-util",
+          "observedAt": "2026-11-16T10:35:08.097Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jest-regex-util",
+      "semver": "30.0.1",
+      "publishedAt": "2025-06-18T22:31:17.002Z",
+      "publisher": "cpojer",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 4368,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-regex-util",
+          "observedAt": "2026-11-16T10:35:08.097Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-regex-util",
+          "observedAt": "2026-11-16T10:35:08.097Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-regex-util",
+          "observedAt": "2026-11-16T10:35:08.097Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-regex-util",
+          "observedAt": "2026-11-16T10:35:08.097Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jest-regex-util",
+          "observedAt": "2026-11-16T10:35:08.097Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-regex-util",
+          "observedAt": "2026-11-16T10:35:08.097Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

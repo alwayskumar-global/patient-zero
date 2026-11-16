@@ -1,0 +1,221 @@
+{
+  "schemaVersion": 1,
+  "pkg": "react-complaint-image",
+  "source": "https://registry.npmjs.org/react-complaint-image",
+  "fetchedAt": "2026-11-16T10:32:26.930Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 34
+  },
+  "sourceSha256": "a6c035848327740c44f739a26a1d4d95d2dadfd6f6c6dfdf0fe8827b2742c784",
+  "versions": [
+    {
+      "pkg": "react-complaint-image",
+      "semver": "0.0.30",
+      "publishedAt": "2021-07-13T15:10:59.518Z",
+      "publisher": "sneu012",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 4121888,
+      "dependencies": {
+        "konva": "^2.5.1",
+        "selectn": "^1.1.2",
+        "deepcopy": "^0.6.3",
+        "react-konva": "^16.6.31",
+        "react-bootstrap-typeahead": "^3.2.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/react-complaint-image",
+          "observedAt": "2026-11-16T10:32:26.930Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/react-complaint-image",
+          "observedAt": "2026-11-16T10:32:26.930Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/react-complaint-image",
+          "observedAt": "2026-11-16T10:32:26.930Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/react-complaint-image",
+          "observedAt": "2026-11-16T10:32:26.930Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/react-complaint-image",
+          "observedAt": "2026-11-16T10:32:26.930Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/react-complaint-image",
+          "observedAt": "2026-11-16T10:32:26.930Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "react-complaint-image",
+      "semver": "0.0.31",
+      "publishedAt": "2025-06-06T20:44:23.715Z",
+      "publisher": "techsupportrxnt",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 4125083,
+      "dependencies": {
+        "konva": "^2.5.1",
+        "selectn": "^1.1.2",
+        "deepcopy": "^0.6.3",
+        "react-konva": "^16.6.31",
+        "react-bootstrap-typeahead": "^3.2.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/react-complaint-image",
+          "observedAt": "2026-11-16T10:32:26.930Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/react-complaint-image",
+          "observedAt": "2026-11-16T10:32:26.930Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/react-complaint-image",
+          "observedAt": "2026-11-16T10:32:26.930Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/react-complaint-image",
+          "observedAt": "2026-11-16T10:32:26.930Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/react-complaint-image",
+          "observedAt": "2026-11-16T10:32:26.930Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/react-complaint-image",
+          "observedAt": "2026-11-16T10:32:26.930Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "react-complaint-image",
+      "semver": "0.0.32",
+      "publishedAt": "2025-09-14T17:59:02.954Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/react-complaint-image",
+          "observedAt": "2026-11-16T10:32:26.930Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "react-complaint-image",
+      "semver": "0.0.33",
+      "publishedAt": "2025-09-14T20:43:42.486Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/react-complaint-image",
+          "observedAt": "2026-11-16T10:32:26.930Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "react-complaint-image",
+      "semver": "0.0.34",
+      "publishedAt": "2025-09-14T21:03:22.019Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/react-complaint-image",
+          "observedAt": "2026-11-16T10:32:26.930Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "react-complaint-image",
+      "semver": "0.0.35",
+      "publishedAt": "2025-09-15T15:45:43.041Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/react-complaint-image",
+          "observedAt": "2026-11-16T10:32:26.930Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "react-complaint-image",
+      "semver": "0.0.6",
+      "publishedAt": "2018-01-09T16:08:00.600Z",
+      "publisher": "mavarazy",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "konva": "^1.7.6",
+        "selectn": "^1.1.2",
+        "deepcopy": "^0.6.3",
+        "react-konva": "^1.6.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/react-complaint-image",
+          "observedAt": "2026-11-16T10:32:26.930Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/react-complaint-image",
+          "observedAt": "2026-11-16T10:32:26.930Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/react-complaint-image",
+          "observedAt": "2026-11-16T10:32:26.930Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/react-complaint-image",
+          "observedAt": "2026-11-16T10:32:26.930Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/react-complaint-image",
+          "observedAt": "2026-11-16T10:32:26.930Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

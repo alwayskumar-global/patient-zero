@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "domelementtype",
+  "source": "https://registry.npmjs.org/domelementtype",
+  "fetchedAt": "2026-11-16T10:34:59.991Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 17
+  },
+  "sourceSha256": "ae81326dff10ffd042f0e61f57adbd307cf9c0e448fda1eba9959487888be71c",
+  "versions": [
+    {
+      "pkg": "domelementtype",
+      "semver": "2.3.0",
+      "publishedAt": "2022-04-07T11:41:20.402Z",
+      "publisher": "feedic",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 11359,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/domelementtype",
+          "observedAt": "2026-11-16T10:34:59.991Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/domelementtype",
+          "observedAt": "2026-11-16T10:34:59.991Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/domelementtype",
+          "observedAt": "2026-11-16T10:34:59.991Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/domelementtype",
+          "observedAt": "2026-11-16T10:34:59.991Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/domelementtype",
+          "observedAt": "2026-11-16T10:34:59.991Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/domelementtype",
+          "observedAt": "2026-11-16T10:34:59.991Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

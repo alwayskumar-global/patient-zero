@@ -1,0 +1,198 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@babel/helpers",
+  "source": "https://registry.npmjs.org/%40babel%2Fhelpers",
+  "fetchedAt": "2026-11-16T10:34:31.560Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 187
+  },
+  "sourceSha256": "d3315a9939f4c9cf7b21e29cb279cd7bb7040cf4e9cda3bf9a99492763c6e9c6",
+  "versions": [
+    {
+      "pkg": "@babel/helpers",
+      "semver": "7.0.0-beta.49",
+      "publishedAt": "2018-05-25T16:04:30.240Z",
+      "publisher": "loganfsmyth",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 40749,
+      "dependencies": {
+        "@babel/types": "7.0.0-beta.49",
+        "@babel/template": "7.0.0-beta.49",
+        "@babel/traverse": "7.0.0-beta.49"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelpers",
+          "observedAt": "2026-11-16T10:34:31.560Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelpers",
+          "observedAt": "2026-11-16T10:34:31.560Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelpers",
+          "observedAt": "2026-11-16T10:34:31.560Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelpers",
+          "observedAt": "2026-11-16T10:34:31.560Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelpers",
+          "observedAt": "2026-11-16T10:34:31.560Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelpers",
+          "observedAt": "2026-11-16T10:34:31.560Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/helpers",
+      "semver": "7.1.5",
+      "publishedAt": "2018-11-06T22:21:49.182Z",
+      "publisher": "hzoo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 61590,
+      "dependencies": {
+        "@babel/types": "^7.1.5",
+        "@babel/template": "^7.1.2",
+        "@babel/traverse": "^7.1.5"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelpers",
+          "observedAt": "2026-11-16T10:34:31.560Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelpers",
+          "observedAt": "2026-11-16T10:34:31.560Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelpers",
+          "observedAt": "2026-11-16T10:34:31.560Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelpers",
+          "observedAt": "2026-11-16T10:34:31.560Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelpers",
+          "observedAt": "2026-11-16T10:34:31.560Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelpers",
+          "observedAt": "2026-11-16T10:34:31.560Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/helpers",
+      "semver": "7.10.4",
+      "publishedAt": "2020-06-30T13:13:17.322Z",
+      "publisher": "jlhwung",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 76365,
+      "dependencies": {
+        "@babel/types": "^7.10.4",
+        "@babel/template": "^7.10.4",
+        "@babel/traverse": "^7.10.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelpers",
+          "observedAt": "2026-11-16T10:34:31.560Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelpers",
+          "observedAt": "2026-11-16T10:34:31.560Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelpers",
+          "observedAt": "2026-11-16T10:34:31.560Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelpers",
+          "observedAt": "2026-11-16T10:34:31.560Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelpers",
+          "observedAt": "2026-11-16T10:34:31.560Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelpers",
+          "observedAt": "2026-11-16T10:34:31.560Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/helpers",
+      "semver": "7.28.2",
+      "publishedAt": "2025-07-24T09:48:25.894Z",
+      "publisher": "nicolo-ribaudo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 878884,
+      "dependencies": {
+        "@babel/types": "^7.28.2",
+        "@babel/template": "^7.27.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelpers",
+          "observedAt": "2026-11-16T10:34:31.560Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelpers",
+          "observedAt": "2026-11-16T10:34:31.560Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelpers",
+          "observedAt": "2026-11-16T10:34:31.560Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelpers",
+          "observedAt": "2026-11-16T10:34:31.560Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelpers",
+          "observedAt": "2026-11-16T10:34:31.560Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelpers",
+          "observedAt": "2026-11-16T10:34:31.560Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@graphql-tools/merge",
+  "source": "https://registry.npmjs.org/%40graphql-tools%2Fmerge",
+  "fetchedAt": "2026-11-16T10:34:34.544Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 1888
+  },
+  "sourceSha256": "903bd1e07c553bdc1a57924fa607d5379ddbc764ab25f59c7628ad729451dbeb",
+  "versions": [
+    {
+      "pkg": "@graphql-tools/merge",
+      "semver": "9.1.1",
+      "publishedAt": "2025-07-21T03:39:02.953Z",
+      "publisher": "ardatan",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 116280,
+      "dependencies": {
+        "tslib": "^2.4.0",
+        "@graphql-tools/utils": "^10.9.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40graphql-tools%2Fmerge",
+          "observedAt": "2026-11-16T10:34:34.544Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40graphql-tools%2Fmerge",
+          "observedAt": "2026-11-16T10:34:34.544Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40graphql-tools%2Fmerge",
+          "observedAt": "2026-11-16T10:34:34.544Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40graphql-tools%2Fmerge",
+          "observedAt": "2026-11-16T10:34:34.544Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40graphql-tools%2Fmerge",
+          "observedAt": "2026-11-16T10:34:34.544Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40graphql-tools%2Fmerge",
+          "observedAt": "2026-11-16T10:34:34.544Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

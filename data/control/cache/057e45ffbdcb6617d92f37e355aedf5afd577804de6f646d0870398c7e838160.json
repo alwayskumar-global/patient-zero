@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@humanfs/core",
+  "source": "https://registry.npmjs.org/%40humanfs%2Fcore",
+  "fetchedAt": "2026-11-16T10:34:35.290Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 20
+  },
+  "sourceSha256": "d36479a6d596315899803ce6d0e55c92564ff2f59e81060af883310016c6798b",
+  "versions": [
+    {
+      "pkg": "@humanfs/core",
+      "semver": "0.19.1",
+      "publishedAt": "2024-10-28T13:55:50.943Z",
+      "publisher": "nzakas",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 72735,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40humanfs%2Fcore",
+          "observedAt": "2026-11-16T10:34:35.290Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40humanfs%2Fcore",
+          "observedAt": "2026-11-16T10:34:35.290Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40humanfs%2Fcore",
+          "observedAt": "2026-11-16T10:34:35.290Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40humanfs%2Fcore",
+          "observedAt": "2026-11-16T10:34:35.290Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40humanfs%2Fcore",
+          "observedAt": "2026-11-16T10:34:35.290Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40humanfs%2Fcore",
+          "observedAt": "2026-11-16T10:34:35.290Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

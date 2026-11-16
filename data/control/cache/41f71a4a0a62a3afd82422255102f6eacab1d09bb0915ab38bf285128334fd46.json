@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "shallowequal",
+  "source": "https://registry.npmjs.org/shallowequal",
+  "fetchedAt": "2026-11-16T10:35:26.548Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 8
+  },
+  "sourceSha256": "2561e628e70feca82afacd0e35b33642c1e44cb9fc7dfa1e6716ca4e4a05f1f4",
+  "versions": [
+    {
+      "pkg": "shallowequal",
+      "semver": "1.1.0",
+      "publishedAt": "2018-06-23T22:33:33.740Z",
+      "publisher": "dashed",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7347,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/shallowequal",
+          "observedAt": "2026-11-16T10:35:26.548Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/shallowequal",
+          "observedAt": "2026-11-16T10:35:26.548Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/shallowequal",
+          "observedAt": "2026-11-16T10:35:26.548Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/shallowequal",
+          "observedAt": "2026-11-16T10:35:26.548Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/shallowequal",
+          "observedAt": "2026-11-16T10:35:26.548Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/shallowequal",
+          "observedAt": "2026-11-16T10:35:26.548Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

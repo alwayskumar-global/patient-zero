@@ -1,0 +1,192 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@babel/plugin-transform-computed-properties",
+  "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-computed-properties",
+  "fetchedAt": "2026-11-16T10:34:32.357Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 99
+  },
+  "sourceSha256": "45c7d2e6baae01e78e6b4c389706deaccc7b959da2d3750b9fd2c6738493f2e1",
+  "versions": [
+    {
+      "pkg": "@babel/plugin-transform-computed-properties",
+      "semver": "7.0.0",
+      "publishedAt": "2018-08-27T21:42:59.659Z",
+      "publisher": "hzoo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7610,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "^7.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-computed-properties",
+          "observedAt": "2026-11-16T10:34:32.357Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-computed-properties",
+          "observedAt": "2026-11-16T10:34:32.357Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-computed-properties",
+          "observedAt": "2026-11-16T10:34:32.357Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-computed-properties",
+          "observedAt": "2026-11-16T10:34:32.357Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-computed-properties",
+          "observedAt": "2026-11-16T10:34:32.357Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-computed-properties",
+          "observedAt": "2026-11-16T10:34:32.357Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/plugin-transform-computed-properties",
+      "semver": "7.0.0-beta.49",
+      "publishedAt": "2018-05-25T16:01:53.632Z",
+      "publisher": "loganfsmyth",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7948,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "7.0.0-beta.49"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-computed-properties",
+          "observedAt": "2026-11-16T10:34:32.357Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-computed-properties",
+          "observedAt": "2026-11-16T10:34:32.357Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-computed-properties",
+          "observedAt": "2026-11-16T10:34:32.357Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-computed-properties",
+          "observedAt": "2026-11-16T10:34:32.357Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-computed-properties",
+          "observedAt": "2026-11-16T10:34:32.357Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-computed-properties",
+          "observedAt": "2026-11-16T10:34:32.357Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/plugin-transform-computed-properties",
+      "semver": "7.10.4",
+      "publishedAt": "2020-06-30T13:11:55.781Z",
+      "publisher": "jlhwung",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7559,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "^7.10.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-computed-properties",
+          "observedAt": "2026-11-16T10:34:32.357Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-computed-properties",
+          "observedAt": "2026-11-16T10:34:32.357Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-computed-properties",
+          "observedAt": "2026-11-16T10:34:32.357Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-computed-properties",
+          "observedAt": "2026-11-16T10:34:32.357Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-computed-properties",
+          "observedAt": "2026-11-16T10:34:32.357Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-computed-properties",
+          "observedAt": "2026-11-16T10:34:32.357Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/plugin-transform-computed-properties",
+      "semver": "8.0.0-beta.1",
+      "publishedAt": "2025-07-02T09:04:30.759Z",
+      "publisher": "nicolo-ribaudo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 21599,
+      "dependencies": {
+        "@babel/template": "^8.0.0-beta.1",
+        "@babel/helper-plugin-utils": "^8.0.0-beta.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-computed-properties",
+          "observedAt": "2026-11-16T10:34:32.357Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-computed-properties",
+          "observedAt": "2026-11-16T10:34:32.357Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-computed-properties",
+          "observedAt": "2026-11-16T10:34:32.357Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-computed-properties",
+          "observedAt": "2026-11-16T10:34:32.357Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-computed-properties",
+          "observedAt": "2026-11-16T10:34:32.357Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-computed-properties",
+          "observedAt": "2026-11-16T10:34:32.357Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

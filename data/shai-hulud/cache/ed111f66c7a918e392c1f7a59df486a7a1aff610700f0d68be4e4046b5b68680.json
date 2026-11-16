@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "pkg": "mstate-angular",
+  "source": "https://registry.npmjs.org/mstate-angular",
+  "fetchedAt": "2026-11-16T10:32:23.536Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 32
+  },
+  "sourceSha256": "867cfc1e776d1443d5547a8e7c68e2e0b837d3fdc23939a2ae23d0dd614674d1",
+  "versions": [
+    {
+      "pkg": "mstate-angular",
+      "semver": "0.0.2",
+      "publishedAt": "2024-12-19T09:39:41.482Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/mstate-angular",
+          "observedAt": "2026-11-16T10:32:23.536Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "mstate-angular",
+      "semver": "0.4.3",
+      "publishedAt": "2025-09-05T07:04:53.831Z",
+      "publisher": "mohit_ahirwal",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 350918,
+      "dependencies": {
+        "tslib": "^2.3.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/mstate-angular",
+          "observedAt": "2026-11-16T10:32:23.536Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/mstate-angular",
+          "observedAt": "2026-11-16T10:32:23.536Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/mstate-angular",
+          "observedAt": "2026-11-16T10:32:23.536Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/mstate-angular",
+          "observedAt": "2026-11-16T10:32:23.536Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/mstate-angular",
+          "observedAt": "2026-11-16T10:32:23.536Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/mstate-angular",
+          "observedAt": "2026-11-16T10:32:23.536Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "mstate-angular",
+      "semver": "0.4.4",
+      "publishedAt": "2025-09-15T08:21:35.959Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/mstate-angular",
+          "observedAt": "2026-11-16T10:32:23.536Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "pkg": "mixin-deep",
+  "source": "https://registry.npmjs.org/mixin-deep",
+  "fetchedAt": "2026-11-16T10:35:13.930Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 13
+  },
+  "sourceSha256": "b1740160b5aa100a40f82a0e9ebb04e263589a8d253879a5e986f4d6eb30b2b5",
+  "versions": [
+    {
+      "pkg": "mixin-deep",
+      "semver": "1.3.2",
+      "publishedAt": "2019-06-24T20:33:47.877Z",
+      "publisher": "doowb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7218,
+      "dependencies": {
+        "for-in": "^1.0.2",
+        "is-extendable": "^1.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/mixin-deep",
+          "observedAt": "2026-11-16T10:35:13.930Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/mixin-deep",
+          "observedAt": "2026-11-16T10:35:13.930Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/mixin-deep",
+          "observedAt": "2026-11-16T10:35:13.930Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/mixin-deep",
+          "observedAt": "2026-11-16T10:35:13.930Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/mixin-deep",
+          "observedAt": "2026-11-16T10:35:13.930Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/mixin-deep",
+          "observedAt": "2026-11-16T10:35:13.930Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "mixin-deep",
+      "semver": "2.0.1",
+      "publishedAt": "2019-06-19T17:47:14.541Z",
+      "publisher": "jonschlinkert",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7305,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/mixin-deep",
+          "observedAt": "2026-11-16T10:35:13.930Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/mixin-deep",
+          "observedAt": "2026-11-16T10:35:13.930Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/mixin-deep",
+          "observedAt": "2026-11-16T10:35:13.930Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/mixin-deep",
+          "observedAt": "2026-11-16T10:35:13.930Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/mixin-deep",
+          "observedAt": "2026-11-16T10:35:13.930Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/mixin-deep",
+          "observedAt": "2026-11-16T10:35:13.930Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

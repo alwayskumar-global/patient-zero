@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "collect-v8-coverage",
+  "source": "https://registry.npmjs.org/collect-v8-coverage",
+  "fetchedAt": "2026-11-16T10:34:57.849Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 4
+  },
+  "sourceSha256": "ef751c03f3a361aa1de381a648d6cd44704227bb264e30afb74af77b6bc3898d",
+  "versions": [
+    {
+      "pkg": "collect-v8-coverage",
+      "semver": "1.0.2",
+      "publishedAt": "2023-07-05T13:57:11.058Z",
+      "publisher": "simenb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 5136,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/collect-v8-coverage",
+          "observedAt": "2026-11-16T10:34:57.849Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/collect-v8-coverage",
+          "observedAt": "2026-11-16T10:34:57.849Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/collect-v8-coverage",
+          "observedAt": "2026-11-16T10:34:57.849Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/collect-v8-coverage",
+          "observedAt": "2026-11-16T10:34:57.849Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/collect-v8-coverage",
+          "observedAt": "2026-11-16T10:34:57.849Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/collect-v8-coverage",
+          "observedAt": "2026-11-16T10:34:57.849Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@vitest/pretty-format",
+  "source": "https://registry.npmjs.org/%40vitest%2Fpretty-format",
+  "fetchedAt": "2026-11-16T10:34:54.663Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 131
+  },
+  "sourceSha256": "25ee24b66e072c95962b8c6c67c4f1ba41d92fa0d4f06d71595bac5c12a80539",
+  "versions": [
+    {
+      "pkg": "@vitest/pretty-format",
+      "semver": "4.0.0-beta.5",
+      "publishedAt": "2025-07-28T17:44:51.915Z",
+      "publisher": "vitestbot",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 59466,
+      "dependencies": {
+        "tinyrainbow": "^2.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40vitest%2Fpretty-format",
+          "observedAt": "2026-11-16T10:34:54.663Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40vitest%2Fpretty-format",
+          "observedAt": "2026-11-16T10:34:54.663Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40vitest%2Fpretty-format",
+          "observedAt": "2026-11-16T10:34:54.663Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40vitest%2Fpretty-format",
+          "observedAt": "2026-11-16T10:34:54.663Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40vitest%2Fpretty-format",
+          "observedAt": "2026-11-16T10:34:54.663Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40vitest%2Fpretty-format",
+          "observedAt": "2026-11-16T10:34:54.663Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@vitest/pretty-format",
+      "semver": "4.0.0-beta.6",
+      "publishedAt": "2025-08-04T12:32:16.241Z",
+      "publisher": "vitestbot",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 59492,
+      "dependencies": {
+        "tinyrainbow": "^2.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40vitest%2Fpretty-format",
+          "observedAt": "2026-11-16T10:34:54.663Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40vitest%2Fpretty-format",
+          "observedAt": "2026-11-16T10:34:54.663Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40vitest%2Fpretty-format",
+          "observedAt": "2026-11-16T10:34:54.663Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40vitest%2Fpretty-format",
+          "observedAt": "2026-11-16T10:34:54.663Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40vitest%2Fpretty-format",
+          "observedAt": "2026-11-16T10:34:54.663Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40vitest%2Fpretty-format",
+          "observedAt": "2026-11-16T10:34:54.663Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

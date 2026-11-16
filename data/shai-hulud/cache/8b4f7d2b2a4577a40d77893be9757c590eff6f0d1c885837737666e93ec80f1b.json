@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "pkg": "rxnt-healthchecks-nestjs",
+  "source": "https://registry.npmjs.org/rxnt-healthchecks-nestjs",
+  "fetchedAt": "2026-11-16T10:32:28.393Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 5
+  },
+  "sourceSha256": "ca77723603ea85ad05de6240b2782001eb54455044dba702be382bfa0a54e1a0",
+  "versions": [
+    {
+      "pkg": "rxnt-healthchecks-nestjs",
+      "semver": "1.0.1-alpha-1609",
+      "publishedAt": "2024-08-20T20:04:31.140Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/rxnt-healthchecks-nestjs",
+          "observedAt": "2026-11-16T10:32:28.393Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "rxnt-healthchecks-nestjs",
+      "semver": "1.0.2",
+      "publishedAt": "2025-09-14T17:58:53.748Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/rxnt-healthchecks-nestjs",
+          "observedAt": "2026-11-16T10:32:28.393Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "rxnt-healthchecks-nestjs",
+      "semver": "1.0.3",
+      "publishedAt": "2025-09-14T20:43:36.644Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/rxnt-healthchecks-nestjs",
+          "observedAt": "2026-11-16T10:32:28.393Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "rxnt-healthchecks-nestjs",
+      "semver": "1.0.4",
+      "publishedAt": "2025-09-14T21:03:19.402Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/rxnt-healthchecks-nestjs",
+          "observedAt": "2026-11-16T10:32:28.393Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "rxnt-healthchecks-nestjs",
+      "semver": "1.0.5",
+      "publishedAt": "2025-09-15T15:45:40.241Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/rxnt-healthchecks-nestjs",
+          "observedAt": "2026-11-16T10:32:28.393Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "pkg": "tty-browserify",
+  "source": "https://registry.npmjs.org/tty-browserify",
+  "fetchedAt": "2026-11-16T10:35:30.149Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 2
+  },
+  "sourceSha256": "de4be365de73c0c66021cda00b5ed823cf46a4752013bdb527aa9549f67cc279",
+  "versions": [
+    {
+      "pkg": "tty-browserify",
+      "semver": "0.0.0",
+      "publishedAt": "2013-12-03T20:18:55.544Z",
+      "publisher": "substack",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/tty-browserify",
+          "observedAt": "2026-11-16T10:35:30.149Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/tty-browserify",
+          "observedAt": "2026-11-16T10:35:30.149Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/tty-browserify",
+          "observedAt": "2026-11-16T10:35:30.149Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/tty-browserify",
+          "observedAt": "2026-11-16T10:35:30.149Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/tty-browserify",
+          "observedAt": "2026-11-16T10:35:30.149Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "tty-browserify",
+      "semver": "0.0.1",
+      "publishedAt": "2018-01-27T15:25:42.162Z",
+      "publisher": "goto-bus-stop",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/tty-browserify",
+          "observedAt": "2026-11-16T10:35:30.149Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/tty-browserify",
+          "observedAt": "2026-11-16T10:35:30.149Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/tty-browserify",
+          "observedAt": "2026-11-16T10:35:30.149Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/tty-browserify",
+          "observedAt": "2026-11-16T10:35:30.149Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/tty-browserify",
+          "observedAt": "2026-11-16T10:35:30.149Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

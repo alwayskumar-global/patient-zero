@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "ieee754",
+  "source": "https://registry.npmjs.org/ieee754",
+  "fetchedAt": "2026-11-16T10:35:04.374Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 17
+  },
+  "sourceSha256": "424242be7674f4df9e013c8d3b99aeb46180becde0f4797cf24a1c1bbfb3ef73",
+  "versions": [
+    {
+      "pkg": "ieee754",
+      "semver": "1.2.1",
+      "publishedAt": "2020-10-27T23:06:07.424Z",
+      "publisher": "feross",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 6796,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ieee754",
+          "observedAt": "2026-11-16T10:35:04.374Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ieee754",
+          "observedAt": "2026-11-16T10:35:04.374Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ieee754",
+          "observedAt": "2026-11-16T10:35:04.374Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ieee754",
+          "observedAt": "2026-11-16T10:35:04.374Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/ieee754",
+          "observedAt": "2026-11-16T10:35:04.374Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ieee754",
+          "observedAt": "2026-11-16T10:35:04.374Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

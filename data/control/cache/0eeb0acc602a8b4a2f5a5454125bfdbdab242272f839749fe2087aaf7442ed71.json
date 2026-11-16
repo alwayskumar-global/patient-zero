@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@webassemblyjs/wasm-edit",
+  "source": "https://registry.npmjs.org/%40webassemblyjs%2Fwasm-edit",
+  "fetchedAt": "2026-11-16T10:34:55.082Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 84
+  },
+  "sourceSha256": "6411df57b4774bfe233e97ef030ee2b3434138e55744fdaa76ae8953c9bb07bd",
+  "versions": [
+    {
+      "pkg": "@webassemblyjs/wasm-edit",
+      "semver": "1.14.1",
+      "publishedAt": "2024-11-06T21:53:42.909Z",
+      "publisher": "xtuc",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 34634,
+      "dependencies": {
+        "@webassemblyjs/ast": "1.14.1",
+        "@webassemblyjs/helper-buffer": "1.14.1",
+        "@webassemblyjs/helper-wasm-bytecode": "1.13.2",
+        "@webassemblyjs/helper-wasm-section": "1.14.1",
+        "@webassemblyjs/wasm-gen": "1.14.1",
+        "@webassemblyjs/wasm-opt": "1.14.1",
+        "@webassemblyjs/wasm-parser": "1.14.1",
+        "@webassemblyjs/wast-printer": "1.14.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40webassemblyjs%2Fwasm-edit",
+          "observedAt": "2026-11-16T10:34:55.082Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40webassemblyjs%2Fwasm-edit",
+          "observedAt": "2026-11-16T10:34:55.082Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40webassemblyjs%2Fwasm-edit",
+          "observedAt": "2026-11-16T10:34:55.082Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40webassemblyjs%2Fwasm-edit",
+          "observedAt": "2026-11-16T10:34:55.082Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40webassemblyjs%2Fwasm-edit",
+          "observedAt": "2026-11-16T10:34:55.082Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40webassemblyjs%2Fwasm-edit",
+          "observedAt": "2026-11-16T10:34:55.082Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

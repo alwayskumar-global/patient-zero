@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "klona",
+  "source": "https://registry.npmjs.org/klona",
+  "fetchedAt": "2026-11-16T10:35:09.257Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 12
+  },
+  "sourceSha256": "c5d1881aa2160f6f1468824b0144929ca354576eca0591a40cd575efe50ac5ef",
+  "versions": [
+    {
+      "pkg": "klona",
+      "semver": "2.0.6",
+      "publishedAt": "2023-01-16T19:20:29.796Z",
+      "publisher": "lukeed",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 23173,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/klona",
+          "observedAt": "2026-11-16T10:35:09.257Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/klona",
+          "observedAt": "2026-11-16T10:35:09.257Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/klona",
+          "observedAt": "2026-11-16T10:35:09.257Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/klona",
+          "observedAt": "2026-11-16T10:35:09.257Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/klona",
+          "observedAt": "2026-11-16T10:35:09.257Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/klona",
+          "observedAt": "2026-11-16T10:35:09.257Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

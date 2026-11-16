@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@ctrl/react-adsense",
+  "source": "https://registry.npmjs.org/%40ctrl%2Freact-adsense",
+  "fetchedAt": "2026-11-16T10:31:15.520Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 24
+  },
+  "sourceSha256": "7fe01e85b39a6e4703da56acad53b83f31275ec74a67189e70b647177eedd29b",
+  "versions": [
+    {
+      "pkg": "@ctrl/react-adsense",
+      "semver": "2.0.0",
+      "publishedAt": "2025-08-08T16:47:09.049Z",
+      "publisher": "scttcper",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 10104,
+      "dependencies": {
+        "tslib": "^2.8.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Freact-adsense",
+          "observedAt": "2026-11-16T10:31:15.520Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Freact-adsense",
+          "observedAt": "2026-11-16T10:31:15.520Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Freact-adsense",
+          "observedAt": "2026-11-16T10:31:15.520Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Freact-adsense",
+          "observedAt": "2026-11-16T10:31:15.520Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Freact-adsense",
+          "observedAt": "2026-11-16T10:31:15.520Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Freact-adsense",
+          "observedAt": "2026-11-16T10:31:15.520Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@ctrl/react-adsense",
+      "semver": "2.0.1",
+      "publishedAt": "2025-09-15T19:52:46.629Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Freact-adsense",
+          "observedAt": "2026-11-16T10:31:15.520Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@ctrl/react-adsense",
+      "semver": "2.0.2",
+      "publishedAt": "2025-09-15T20:13:40.979Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Freact-adsense",
+          "observedAt": "2026-11-16T10:31:15.520Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@ctrl/react-adsense",
+      "semver": "2.1.0",
+      "publishedAt": "2025-09-16T07:03:28.138Z",
+      "publisher": "scttcper",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 9977,
+      "dependencies": {
+        "tslib": "^2.8.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Freact-adsense",
+          "observedAt": "2026-11-16T10:31:15.520Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Freact-adsense",
+          "observedAt": "2026-11-16T10:31:15.520Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Freact-adsense",
+          "observedAt": "2026-11-16T10:31:15.520Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Freact-adsense",
+          "observedAt": "2026-11-16T10:31:15.520Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Freact-adsense",
+          "observedAt": "2026-11-16T10:31:15.520Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Freact-adsense",
+          "observedAt": "2026-11-16T10:31:15.520Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

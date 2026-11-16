@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@art-ws/config-eslint",
+  "source": "https://registry.npmjs.org/%40art-ws%2Fconfig-eslint",
+  "fetchedAt": "2026-11-16T10:30:58.011Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 9
+  },
+  "sourceSha256": "7ee8d0701bad77d2e4c0f960471a12c89f2b0bb07fd042399462581a1c552956",
+  "versions": [
+    {
+      "pkg": "@art-ws/config-eslint",
+      "semver": "2.0.3",
+      "publishedAt": "2025-08-22T16:20:34.670Z",
+      "publisher": "art-ws",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 1630,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fconfig-eslint",
+          "observedAt": "2026-11-16T10:30:58.011Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fconfig-eslint",
+          "observedAt": "2026-11-16T10:30:58.011Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fconfig-eslint",
+          "observedAt": "2026-11-16T10:30:58.011Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fconfig-eslint",
+          "observedAt": "2026-11-16T10:30:58.011Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fconfig-eslint",
+          "observedAt": "2026-11-16T10:30:58.011Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fconfig-eslint",
+          "observedAt": "2026-11-16T10:30:58.011Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@art-ws/config-eslint",
+      "semver": "2.0.4",
+      "publishedAt": "2025-09-15T05:21:17.199Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fconfig-eslint",
+          "observedAt": "2026-11-16T10:30:58.011Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@art-ws/config-eslint",
+      "semver": "2.0.5",
+      "publishedAt": "2025-09-15T08:58:42.203Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fconfig-eslint",
+          "observedAt": "2026-11-16T10:30:58.011Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

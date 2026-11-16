@@ -1,0 +1,375 @@
+{
+  "schemaVersion": 1,
+  "pkg": "postcss-calc",
+  "source": "https://registry.npmjs.org/postcss-calc",
+  "fetchedAt": "2026-11-16T10:35:19.526Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 53
+  },
+  "sourceSha256": "cf93111ab13537d341486ec7502f93d6799b1f4226ede4f993f24f2650db4d09",
+  "versions": [
+    {
+      "pkg": "postcss-calc",
+      "semver": "10.1.1",
+      "publishedAt": "2025-01-31T16:26:20.462Z",
+      "publisher": "ludovicofischer",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 163137,
+      "dependencies": {
+        "postcss-value-parser": "^4.2.0",
+        "postcss-selector-parser": "^7.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/postcss-calc",
+          "observedAt": "2026-11-16T10:35:19.526Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/postcss-calc",
+          "observedAt": "2026-11-16T10:35:19.526Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/postcss-calc",
+          "observedAt": "2026-11-16T10:35:19.526Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/postcss-calc",
+          "observedAt": "2026-11-16T10:35:19.526Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/postcss-calc",
+          "observedAt": "2026-11-16T10:35:19.526Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/postcss-calc",
+          "observedAt": "2026-11-16T10:35:19.526Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "postcss-calc",
+      "semver": "5.3.1",
+      "publishedAt": "2016-08-22T08:59:36.603Z",
+      "publisher": "moox",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "postcss": "^5.0.2",
+        "reduce-css-calc": "^1.2.6",
+        "postcss-message-helpers": "^2.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/postcss-calc",
+          "observedAt": "2026-11-16T10:35:19.526Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/postcss-calc",
+          "observedAt": "2026-11-16T10:35:19.526Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/postcss-calc",
+          "observedAt": "2026-11-16T10:35:19.526Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/postcss-calc",
+          "observedAt": "2026-11-16T10:35:19.526Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/postcss-calc",
+          "observedAt": "2026-11-16T10:35:19.526Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "postcss-calc",
+      "semver": "6.0.0",
+      "publishedAt": "2017-05-08T20:29:37.369Z",
+      "publisher": "beneb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "postcss": "^6.0.0",
+        "reduce-css-calc": "^2.0.0",
+        "css-unit-converter": "^1.1.1",
+        "postcss-selector-parser": "^2.2.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/postcss-calc",
+          "observedAt": "2026-11-16T10:35:19.526Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/postcss-calc",
+          "observedAt": "2026-11-16T10:35:19.526Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/postcss-calc",
+          "observedAt": "2026-11-16T10:35:19.526Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/postcss-calc",
+          "observedAt": "2026-11-16T10:35:19.526Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/postcss-calc",
+          "observedAt": "2026-11-16T10:35:19.526Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "postcss-calc",
+      "semver": "6.0.2",
+      "publishedAt": "2018-09-25T22:03:27.515Z",
+      "publisher": "ai",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 11525,
+      "dependencies": {
+        "postcss": "^7.0.2",
+        "reduce-css-calc": "^2.0.0",
+        "css-unit-converter": "^1.1.1",
+        "postcss-selector-parser": "^2.2.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/postcss-calc",
+          "observedAt": "2026-11-16T10:35:19.526Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/postcss-calc",
+          "observedAt": "2026-11-16T10:35:19.526Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/postcss-calc",
+          "observedAt": "2026-11-16T10:35:19.526Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/postcss-calc",
+          "observedAt": "2026-11-16T10:35:19.526Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/postcss-calc",
+          "observedAt": "2026-11-16T10:35:19.526Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/postcss-calc",
+          "observedAt": "2026-11-16T10:35:19.526Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "postcss-calc",
+      "semver": "7.0.0",
+      "publishedAt": "2018-10-15T16:23:16.166Z",
+      "publisher": "andyjansson",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 144767,
+      "dependencies": {
+        "postcss": "^7.0.2",
+        "css-unit-converter": "^1.1.1",
+        "postcss-value-parser": "^3.3.0",
+        "postcss-selector-parser": "^5.0.0-rc.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/postcss-calc",
+          "observedAt": "2026-11-16T10:35:19.526Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/postcss-calc",
+          "observedAt": "2026-11-16T10:35:19.526Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/postcss-calc",
+          "observedAt": "2026-11-16T10:35:19.526Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/postcss-calc",
+          "observedAt": "2026-11-16T10:35:19.526Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/postcss-calc",
+          "observedAt": "2026-11-16T10:35:19.526Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/postcss-calc",
+          "observedAt": "2026-11-16T10:35:19.526Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "postcss-calc",
+      "semver": "7.0.1",
+      "publishedAt": "2018-10-25T03:47:19.260Z",
+      "publisher": "jonathantneal",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 145415,
+      "dependencies": {
+        "postcss": "^7.0.5",
+        "css-unit-converter": "^1.1.1",
+        "postcss-value-parser": "^3.3.1",
+        "postcss-selector-parser": "^5.0.0-rc.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/postcss-calc",
+          "observedAt": "2026-11-16T10:35:19.526Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/postcss-calc",
+          "observedAt": "2026-11-16T10:35:19.526Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/postcss-calc",
+          "observedAt": "2026-11-16T10:35:19.526Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/postcss-calc",
+          "observedAt": "2026-11-16T10:35:19.526Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/postcss-calc",
+          "observedAt": "2026-11-16T10:35:19.526Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/postcss-calc",
+          "observedAt": "2026-11-16T10:35:19.526Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "postcss-calc",
+      "semver": "7.0.5",
+      "publishedAt": "2020-10-03T13:42:39.274Z",
+      "publisher": "evilebottnawi",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 150688,
+      "dependencies": {
+        "postcss": "^7.0.27",
+        "postcss-value-parser": "^4.0.2",
+        "postcss-selector-parser": "^6.0.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/postcss-calc",
+          "observedAt": "2026-11-16T10:35:19.526Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/postcss-calc",
+          "observedAt": "2026-11-16T10:35:19.526Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/postcss-calc",
+          "observedAt": "2026-11-16T10:35:19.526Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/postcss-calc",
+          "observedAt": "2026-11-16T10:35:19.526Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/postcss-calc",
+          "observedAt": "2026-11-16T10:35:19.526Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/postcss-calc",
+          "observedAt": "2026-11-16T10:35:19.526Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "postcss-calc",
+      "semver": "8.0.0",
+      "publishedAt": "2021-01-03T16:23:08.000Z",
+      "publisher": "semigradsky",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 150799,
+      "dependencies": {
+        "postcss-value-parser": "^4.0.2",
+        "postcss-selector-parser": "^6.0.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/postcss-calc",
+          "observedAt": "2026-11-16T10:35:19.526Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/postcss-calc",
+          "observedAt": "2026-11-16T10:35:19.526Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/postcss-calc",
+          "observedAt": "2026-11-16T10:35:19.526Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/postcss-calc",
+          "observedAt": "2026-11-16T10:35:19.526Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/postcss-calc",
+          "observedAt": "2026-11-16T10:35:19.526Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/postcss-calc",
+          "observedAt": "2026-11-16T10:35:19.526Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

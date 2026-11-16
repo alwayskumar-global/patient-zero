@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "dom-converter",
+  "source": "https://registry.npmjs.org/dom-converter",
+  "fetchedAt": "2026-11-16T10:34:59.951Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 6
+  },
+  "sourceSha256": "8a39cfacc4b5af3d7b56a0c8942cf9fee6811bc439a6cbfc6d786f8c89b5182d",
+  "versions": [
+    {
+      "pkg": "dom-converter",
+      "semver": "0.2.0",
+      "publishedAt": "2018-09-11T11:45:50.684Z",
+      "publisher": "ariaminaei",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7904,
+      "dependencies": {
+        "utila": "~0.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/dom-converter",
+          "observedAt": "2026-11-16T10:34:59.951Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/dom-converter",
+          "observedAt": "2026-11-16T10:34:59.951Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/dom-converter",
+          "observedAt": "2026-11-16T10:34:59.951Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/dom-converter",
+          "observedAt": "2026-11-16T10:34:59.951Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/dom-converter",
+          "observedAt": "2026-11-16T10:34:59.951Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/dom-converter",
+          "observedAt": "2026-11-16T10:34:59.951Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

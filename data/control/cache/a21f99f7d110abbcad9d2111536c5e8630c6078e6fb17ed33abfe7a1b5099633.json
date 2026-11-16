@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@radix-ui/react-id",
+  "source": "https://registry.npmjs.org/%40radix-ui%2Freact-id",
+  "fetchedAt": "2026-11-16T10:34:37.615Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 139
+  },
+  "sourceSha256": "9b8bdc9c011f264cd844204651c5c54137a2dc9403c8a007b4824bfe452c2d5b",
+  "versions": [
+    {
+      "pkg": "@radix-ui/react-id",
+      "semver": "0.1.5",
+      "publishedAt": "2022-02-24T18:06:00.719Z",
+      "publisher": "jjenzz",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7325,
+      "dependencies": {
+        "@babel/runtime": "^7.13.10",
+        "@radix-ui/react-use-layout-effect": "0.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-id",
+          "observedAt": "2026-11-16T10:34:37.615Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-id",
+          "observedAt": "2026-11-16T10:34:37.615Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-id",
+          "observedAt": "2026-11-16T10:34:37.615Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-id",
+          "observedAt": "2026-11-16T10:34:37.615Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-id",
+          "observedAt": "2026-11-16T10:34:37.615Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-id",
+          "observedAt": "2026-11-16T10:34:37.615Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@radix-ui/react-id",
+      "semver": "1.0.1",
+      "publishedAt": "2023-05-26T11:03:38.811Z",
+      "publisher": "benoitgrelard",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 6970,
+      "dependencies": {
+        "@babel/runtime": "^7.13.10",
+        "@radix-ui/react-use-layout-effect": "1.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-id",
+          "observedAt": "2026-11-16T10:34:37.615Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-id",
+          "observedAt": "2026-11-16T10:34:37.615Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-id",
+          "observedAt": "2026-11-16T10:34:37.615Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-id",
+          "observedAt": "2026-11-16T10:34:37.615Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-id",
+          "observedAt": "2026-11-16T10:34:37.615Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-id",
+          "observedAt": "2026-11-16T10:34:37.615Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@radix-ui/react-id",
+      "semver": "1.1.0",
+      "publishedAt": "2024-06-19T19:58:00.984Z",
+      "publisher": "vladmoroz",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 6421,
+      "dependencies": {
+        "@radix-ui/react-use-layout-effect": "1.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-id",
+          "observedAt": "2026-11-16T10:34:37.615Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-id",
+          "observedAt": "2026-11-16T10:34:37.615Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-id",
+          "observedAt": "2026-11-16T10:34:37.615Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-id",
+          "observedAt": "2026-11-16T10:34:37.615Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-id",
+          "observedAt": "2026-11-16T10:34:37.615Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-id",
+          "observedAt": "2026-11-16T10:34:37.615Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@radix-ui/react-id",
+      "semver": "1.1.0-rc.7",
+      "publishedAt": "2024-06-19T19:54:31.269Z",
+      "publisher": "stephenhaney",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 6459,
+      "dependencies": {
+        "@radix-ui/react-use-layout-effect": "1.1.0-rc.7"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-id",
+          "observedAt": "2026-11-16T10:34:37.615Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-id",
+          "observedAt": "2026-11-16T10:34:37.615Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-id",
+          "observedAt": "2026-11-16T10:34:37.615Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-id",
+          "observedAt": "2026-11-16T10:34:37.615Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-id",
+          "observedAt": "2026-11-16T10:34:37.615Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-id",
+          "observedAt": "2026-11-16T10:34:37.615Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@radix-ui/react-id",
+      "semver": "1.1.1",
+      "publishedAt": "2025-04-08T16:46:09.843Z",
+      "publisher": "chancestrickland",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7231,
+      "dependencies": {
+        "@radix-ui/react-use-layout-effect": "1.1.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-id",
+          "observedAt": "2026-11-16T10:34:37.615Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-id",
+          "observedAt": "2026-11-16T10:34:37.615Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-id",
+          "observedAt": "2026-11-16T10:34:37.615Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-id",
+          "observedAt": "2026-11-16T10:34:37.615Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-id",
+          "observedAt": "2026-11-16T10:34:37.615Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Freact-id",
+          "observedAt": "2026-11-16T10:34:37.615Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

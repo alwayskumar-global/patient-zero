@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "envinfo",
+  "source": "https://registry.npmjs.org/envinfo",
+  "fetchedAt": "2026-11-16T10:35:00.703Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 97
+  },
+  "sourceSha256": "e469938928a567f226f64710457dcd69602104fc825bef11904eb3ed2ce44804",
+  "versions": [
+    {
+      "pkg": "envinfo",
+      "semver": "7.14.0",
+      "publishedAt": "2024-09-13T06:00:13.946Z",
+      "publisher": "tabrindle",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 161856,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/envinfo",
+          "observedAt": "2026-11-16T10:35:00.703Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/envinfo",
+          "observedAt": "2026-11-16T10:35:00.703Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/envinfo",
+          "observedAt": "2026-11-16T10:35:00.703Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/envinfo",
+          "observedAt": "2026-11-16T10:35:00.703Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/envinfo",
+          "observedAt": "2026-11-16T10:35:00.703Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/envinfo",
+          "observedAt": "2026-11-16T10:35:00.703Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

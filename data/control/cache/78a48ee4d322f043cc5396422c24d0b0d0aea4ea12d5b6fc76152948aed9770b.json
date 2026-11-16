@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "escalade",
+  "source": "https://registry.npmjs.org/escalade",
+  "fetchedAt": "2026-11-16T10:35:00.968Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 10
+  },
+  "sourceSha256": "b95ed47ddf806ff7f923a60d280a83dae369c6e17f4bf032c78ef4c86fede9cc",
+  "versions": [
+    {
+      "pkg": "escalade",
+      "semver": "3.2.0",
+      "publishedAt": "2024-08-29T22:59:36.690Z",
+      "publisher": "lukeed",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 12385,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/escalade",
+          "observedAt": "2026-11-16T10:35:00.968Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/escalade",
+          "observedAt": "2026-11-16T10:35:00.968Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/escalade",
+          "observedAt": "2026-11-16T10:35:00.968Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/escalade",
+          "observedAt": "2026-11-16T10:35:00.968Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/escalade",
+          "observedAt": "2026-11-16T10:35:00.968Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/escalade",
+          "observedAt": "2026-11-16T10:35:00.968Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

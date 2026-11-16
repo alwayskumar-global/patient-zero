@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "pkg": "html-minifier-terser",
+  "source": "https://registry.npmjs.org/html-minifier-terser",
+  "fetchedAt": "2026-11-16T10:35:04.061Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 19
+  },
+  "sourceSha256": "e90249e8820011037c50a661a3db2ab21fe768d604805027b2bb63ee9e08bc64",
+  "versions": [
+    {
+      "pkg": "html-minifier-terser",
+      "semver": "6.0.2",
+      "publishedAt": "2021-09-02T08:54:17.627Z",
+      "publisher": "danielruf",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 98802,
+      "dependencies": {
+        "camel-case": "^4.1.2",
+        "clean-css": "^5.1.5",
+        "commander": "^8.1.0",
+        "he": "^1.2.0",
+        "param-case": "^3.0.4",
+        "relateurl": "^0.2.7",
+        "terser": "^5.7.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/html-minifier-terser",
+          "observedAt": "2026-11-16T10:35:04.061Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/html-minifier-terser",
+          "observedAt": "2026-11-16T10:35:04.061Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/html-minifier-terser",
+          "observedAt": "2026-11-16T10:35:04.061Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/html-minifier-terser",
+          "observedAt": "2026-11-16T10:35:04.061Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/html-minifier-terser",
+          "observedAt": "2026-11-16T10:35:04.061Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/html-minifier-terser",
+          "observedAt": "2026-11-16T10:35:04.061Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "html-minifier-terser",
+      "semver": "7.2.0",
+      "publishedAt": "2023-04-11T05:32:18.898Z",
+      "publisher": "sibiraj-s",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 4597603,
+      "dependencies": {
+        "camel-case": "^4.1.2",
+        "clean-css": "~5.3.2",
+        "commander": "^10.0.0",
+        "entities": "^4.4.0",
+        "param-case": "^3.0.4",
+        "relateurl": "^0.2.7",
+        "terser": "^5.15.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/html-minifier-terser",
+          "observedAt": "2026-11-16T10:35:04.061Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/html-minifier-terser",
+          "observedAt": "2026-11-16T10:35:04.061Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/html-minifier-terser",
+          "observedAt": "2026-11-16T10:35:04.061Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/html-minifier-terser",
+          "observedAt": "2026-11-16T10:35:04.061Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/html-minifier-terser",
+          "observedAt": "2026-11-16T10:35:04.061Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/html-minifier-terser",
+          "observedAt": "2026-11-16T10:35:04.061Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

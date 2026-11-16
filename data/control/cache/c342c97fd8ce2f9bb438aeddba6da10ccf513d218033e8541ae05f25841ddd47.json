@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "tsutils",
+  "source": "https://registry.npmjs.org/tsutils",
+  "fetchedAt": "2026-11-16T10:35:30.122Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 94
+  },
+  "sourceSha256": "c511b7d9d9076d34796e791889b9b1a01b66963193e818248c933a464811f12c",
+  "versions": [
+    {
+      "pkg": "tsutils",
+      "semver": "3.21.0",
+      "publishedAt": "2021-03-07T17:26:32.170Z",
+      "publisher": "ajaff",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 382326,
+      "dependencies": {
+        "tslib": "^1.8.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/tsutils",
+          "observedAt": "2026-11-16T10:35:30.122Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/tsutils",
+          "observedAt": "2026-11-16T10:35:30.122Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/tsutils",
+          "observedAt": "2026-11-16T10:35:30.122Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/tsutils",
+          "observedAt": "2026-11-16T10:35:30.122Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/tsutils",
+          "observedAt": "2026-11-16T10:35:30.122Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/tsutils",
+          "observedAt": "2026-11-16T10:35:30.122Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

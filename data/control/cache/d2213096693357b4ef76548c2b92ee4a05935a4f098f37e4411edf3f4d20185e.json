@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "pkg": "object-hash",
+  "source": "https://registry.npmjs.org/object-hash",
+  "fetchedAt": "2026-11-16T10:35:15.788Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 47
+  },
+  "sourceSha256": "2bbd55d3fa3b043542562ce5174941c11df424f3fa5ab94e3d280e212420cba2",
+  "versions": [
+    {
+      "pkg": "object-hash",
+      "semver": "0.8.0",
+      "publishedAt": "2015-05-06T21:25:53.440Z",
+      "publisher": "puleos",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/object-hash",
+          "observedAt": "2026-11-16T10:35:15.788Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/object-hash",
+          "observedAt": "2026-11-16T10:35:15.788Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/object-hash",
+          "observedAt": "2026-11-16T10:35:15.788Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/object-hash",
+          "observedAt": "2026-11-16T10:35:15.788Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/object-hash",
+          "observedAt": "2026-11-16T10:35:15.788Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "object-hash",
+      "semver": "1.1.2",
+      "publishedAt": "2016-02-15T15:30:58.542Z",
+      "publisher": "sqrt",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/object-hash",
+          "observedAt": "2026-11-16T10:35:15.788Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/object-hash",
+          "observedAt": "2026-11-16T10:35:15.788Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/object-hash",
+          "observedAt": "2026-11-16T10:35:15.788Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/object-hash",
+          "observedAt": "2026-11-16T10:35:15.788Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/object-hash",
+          "observedAt": "2026-11-16T10:35:15.788Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "object-hash",
+      "semver": "3.0.0",
+      "publishedAt": "2022-02-18T15:10:47.040Z",
+      "publisher": "addaleax",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 58857,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/object-hash",
+          "observedAt": "2026-11-16T10:35:15.788Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/object-hash",
+          "observedAt": "2026-11-16T10:35:15.788Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/object-hash",
+          "observedAt": "2026-11-16T10:35:15.788Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/object-hash",
+          "observedAt": "2026-11-16T10:35:15.788Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/object-hash",
+          "observedAt": "2026-11-16T10:35:15.788Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/object-hash",
+          "observedAt": "2026-11-16T10:35:15.788Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

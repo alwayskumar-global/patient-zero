@@ -1,0 +1,283 @@
+{
+  "schemaVersion": 1,
+  "pkg": "sass-loader",
+  "source": "https://registry.npmjs.org/sass-loader",
+  "fetchedAt": "2026-11-16T10:35:25.492Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 116
+  },
+  "sourceSha256": "35ff214c7e0124ba68d05583bb8a5dc0a66eabe72f7c747a9f69767d9fd86735",
+  "versions": [
+    {
+      "pkg": "sass-loader",
+      "semver": "16.0.5",
+      "publishedAt": "2025-02-14T18:20:41.483Z",
+      "publisher": "evilebottnawi",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 62118,
+      "dependencies": {
+        "neo-async": "^2.6.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/sass-loader",
+          "observedAt": "2026-11-16T10:35:25.492Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/sass-loader",
+          "observedAt": "2026-11-16T10:35:25.492Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/sass-loader",
+          "observedAt": "2026-11-16T10:35:25.492Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/sass-loader",
+          "observedAt": "2026-11-16T10:35:25.492Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/sass-loader",
+          "observedAt": "2026-11-16T10:35:25.492Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/sass-loader",
+          "observedAt": "2026-11-16T10:35:25.492Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "sass-loader",
+      "semver": "4.1.1",
+      "publishedAt": "2016-12-21T11:17:53.611Z",
+      "publisher": "jtangelder",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "async": "^2.0.1",
+        "loader-utils": "^0.2.15",
+        "object-assign": "^4.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/sass-loader",
+          "observedAt": "2026-11-16T10:35:25.492Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/sass-loader",
+          "observedAt": "2026-11-16T10:35:25.492Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/sass-loader",
+          "observedAt": "2026-11-16T10:35:25.492Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/sass-loader",
+          "observedAt": "2026-11-16T10:35:25.492Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/sass-loader",
+          "observedAt": "2026-11-16T10:35:25.492Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "sass-loader",
+      "semver": "6.0.3",
+      "publishedAt": "2017-03-08T02:49:55.727Z",
+      "publisher": "peerigon",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "pify": "^2.3.0",
+        "async": "^2.1.5",
+        "clone-deep": "^0.2.4",
+        "lodash.tail": "^4.1.1",
+        "loader-utils": "^1.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/sass-loader",
+          "observedAt": "2026-11-16T10:35:25.492Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/sass-loader",
+          "observedAt": "2026-11-16T10:35:25.492Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/sass-loader",
+          "observedAt": "2026-11-16T10:35:25.492Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/sass-loader",
+          "observedAt": "2026-11-16T10:35:25.492Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/sass-loader",
+          "observedAt": "2026-11-16T10:35:25.492Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "sass-loader",
+      "semver": "6.0.6",
+      "publishedAt": "2017-06-14T23:28:29.163Z",
+      "publisher": "d3viant0ne",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "pify": "^3.0.0",
+        "async": "^2.1.5",
+        "clone-deep": "^0.3.0",
+        "lodash.tail": "^4.1.1",
+        "loader-utils": "^1.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/sass-loader",
+          "observedAt": "2026-11-16T10:35:25.492Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/sass-loader",
+          "observedAt": "2026-11-16T10:35:25.492Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/sass-loader",
+          "observedAt": "2026-11-16T10:35:25.492Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/sass-loader",
+          "observedAt": "2026-11-16T10:35:25.492Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/sass-loader",
+          "observedAt": "2026-11-16T10:35:25.492Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "sass-loader",
+      "semver": "6.0.7",
+      "publishedAt": "2018-03-03T00:17:40.798Z",
+      "publisher": "michael-ciniawsky",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 39355,
+      "dependencies": {
+        "pify": "^3.0.0",
+        "neo-async": "^2.5.0",
+        "clone-deep": "^2.0.1",
+        "lodash.tail": "^4.1.1",
+        "loader-utils": "^1.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/sass-loader",
+          "observedAt": "2026-11-16T10:35:25.492Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/sass-loader",
+          "observedAt": "2026-11-16T10:35:25.492Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/sass-loader",
+          "observedAt": "2026-11-16T10:35:25.492Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/sass-loader",
+          "observedAt": "2026-11-16T10:35:25.492Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/sass-loader",
+          "observedAt": "2026-11-16T10:35:25.492Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/sass-loader",
+          "observedAt": "2026-11-16T10:35:25.492Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "sass-loader",
+      "semver": "7.1.0",
+      "publishedAt": "2018-08-01T16:05:40.114Z",
+      "publisher": "jhnns",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 43610,
+      "dependencies": {
+        "pify": "^3.0.0",
+        "semver": "^5.5.0",
+        "neo-async": "^2.5.0",
+        "clone-deep": "^2.0.1",
+        "lodash.tail": "^4.1.1",
+        "loader-utils": "^1.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/sass-loader",
+          "observedAt": "2026-11-16T10:35:25.492Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/sass-loader",
+          "observedAt": "2026-11-16T10:35:25.492Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/sass-loader",
+          "observedAt": "2026-11-16T10:35:25.492Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/sass-loader",
+          "observedAt": "2026-11-16T10:35:25.492Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/sass-loader",
+          "observedAt": "2026-11-16T10:35:25.492Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/sass-loader",
+          "observedAt": "2026-11-16T10:35:25.492Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

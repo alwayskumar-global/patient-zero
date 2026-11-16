@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "pkg": "error-stack-parser",
+  "source": "https://registry.npmjs.org/error-stack-parser",
+  "fetchedAt": "2026-11-16T10:35:00.740Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 35
+  },
+  "sourceSha256": "366c035057f8829c670208ed732a724962cf8548d5132ec274288e1338fb42e1",
+  "versions": [
+    {
+      "pkg": "error-stack-parser",
+      "semver": "2.0.7",
+      "publishedAt": "2022-02-11T17:44:59.289Z",
+      "publisher": "niftylettuce",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 36980,
+      "dependencies": {
+        "stackframe": "^1.1.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/error-stack-parser",
+          "observedAt": "2026-11-16T10:35:00.740Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/error-stack-parser",
+          "observedAt": "2026-11-16T10:35:00.740Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/error-stack-parser",
+          "observedAt": "2026-11-16T10:35:00.740Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/error-stack-parser",
+          "observedAt": "2026-11-16T10:35:00.740Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/error-stack-parser",
+          "observedAt": "2026-11-16T10:35:00.740Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/error-stack-parser",
+          "observedAt": "2026-11-16T10:35:00.740Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "error-stack-parser",
+      "semver": "2.1.3",
+      "publishedAt": "2022-06-06T14:25:24.546Z",
+      "publisher": "eriwen",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 35983,
+      "dependencies": {
+        "stackframe": "^1.3.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/error-stack-parser",
+          "observedAt": "2026-11-16T10:35:00.740Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/error-stack-parser",
+          "observedAt": "2026-11-16T10:35:00.740Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/error-stack-parser",
+          "observedAt": "2026-11-16T10:35:00.740Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/error-stack-parser",
+          "observedAt": "2026-11-16T10:35:00.740Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/error-stack-parser",
+          "observedAt": "2026-11-16T10:35:00.740Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/error-stack-parser",
+          "observedAt": "2026-11-16T10:35:00.740Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "error-stack-parser",
+      "semver": "2.1.4",
+      "publishedAt": "2022-06-06T22:16:37.477Z",
+      "publisher": "titanism",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 35935,
+      "dependencies": {
+        "stackframe": "^1.3.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/error-stack-parser",
+          "observedAt": "2026-11-16T10:35:00.740Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/error-stack-parser",
+          "observedAt": "2026-11-16T10:35:00.740Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/error-stack-parser",
+          "observedAt": "2026-11-16T10:35:00.740Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/error-stack-parser",
+          "observedAt": "2026-11-16T10:35:00.740Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/error-stack-parser",
+          "observedAt": "2026-11-16T10:35:00.740Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/error-stack-parser",
+          "observedAt": "2026-11-16T10:35:00.740Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "pkg": "pretty-error",
+  "source": "https://registry.npmjs.org/pretty-error",
+  "fetchedAt": "2026-11-16T10:35:21.152Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 35
+  },
+  "sourceSha256": "3e740e87bcf184666c79ea115efdc0d0621d5b16b963e3528ff48cef62966d99",
+  "versions": [
+    {
+      "pkg": "pretty-error",
+      "semver": "1.1.1",
+      "publishedAt": "2014-05-27T03:13:31.039Z",
+      "publisher": "alexgorbatchev",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "utila": "~0.3",
+        "renderkid": "~0.2.0-beta.10"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/pretty-error",
+          "observedAt": "2026-11-16T10:35:21.152Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/pretty-error",
+          "observedAt": "2026-11-16T10:35:21.152Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/pretty-error",
+          "observedAt": "2026-11-16T10:35:21.152Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/pretty-error",
+          "observedAt": "2026-11-16T10:35:21.152Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/pretty-error",
+          "observedAt": "2026-11-16T10:35:21.152Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "pretty-error",
+      "semver": "4.0.0",
+      "publishedAt": "2021-10-23T16:30:31.263Z",
+      "publisher": "ariaminaei",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 58898,
+      "dependencies": {
+        "lodash": "^4.17.20",
+        "renderkid": "^3.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/pretty-error",
+          "observedAt": "2026-11-16T10:35:21.152Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/pretty-error",
+          "observedAt": "2026-11-16T10:35:21.152Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/pretty-error",
+          "observedAt": "2026-11-16T10:35:21.152Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/pretty-error",
+          "observedAt": "2026-11-16T10:35:21.152Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/pretty-error",
+          "observedAt": "2026-11-16T10:35:21.152Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/pretty-error",
+          "observedAt": "2026-11-16T10:35:21.152Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

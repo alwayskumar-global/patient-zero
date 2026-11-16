@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "pkg": "deep-equal",
+  "source": "https://registry.npmjs.org/deep-equal",
+  "fetchedAt": "2026-11-16T10:34:59.436Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 23
+  },
+  "sourceSha256": "834f0bcefd101bcb7a43d2dacb72de34ff5c6de5214136526a6c2714726bd87f",
+  "versions": [
+    {
+      "pkg": "deep-equal",
+      "semver": "1.0.1",
+      "publishedAt": "2015-08-29T21:02:28.562Z",
+      "publisher": "substack",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/deep-equal",
+          "observedAt": "2026-11-16T10:34:59.436Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/deep-equal",
+          "observedAt": "2026-11-16T10:34:59.436Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/deep-equal",
+          "observedAt": "2026-11-16T10:34:59.436Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/deep-equal",
+          "observedAt": "2026-11-16T10:34:59.436Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/deep-equal",
+          "observedAt": "2026-11-16T10:34:59.436Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "deep-equal",
+      "semver": "2.0.0",
+      "publishedAt": "2019-12-03T23:33:03.946Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/deep-equal",
+          "observedAt": "2026-11-16T10:34:59.436Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "deep-equal",
+      "semver": "2.2.3",
+      "publishedAt": "2023-11-09T00:26:45.738Z",
+      "publisher": "ljharb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 90347,
+      "dependencies": {
+        "array-buffer-byte-length": "^1.0.0",
+        "call-bind": "^1.0.5",
+        "es-get-iterator": "^1.1.3",
+        "get-intrinsic": "^1.2.2",
+        "is-arguments": "^1.1.1",
+        "is-array-buffer": "^3.0.2",
+        "is-date-object": "^1.0.5",
+        "is-regex": "^1.1.4",
+        "is-shared-array-buffer": "^1.0.2",
+        "isarray": "^2.0.5",
+        "object-is": "^1.1.5",
+        "object-keys": "^1.1.1",
+        "object.assign": "^4.1.4",
+        "regexp.prototype.flags": "^1.5.1",
+        "side-channel": "^1.0.4",
+        "which-boxed-primitive": "^1.0.2",
+        "which-collection": "^1.0.1",
+        "which-typed-array": "^1.1.13"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/deep-equal",
+          "observedAt": "2026-11-16T10:34:59.436Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/deep-equal",
+          "observedAt": "2026-11-16T10:34:59.436Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/deep-equal",
+          "observedAt": "2026-11-16T10:34:59.436Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/deep-equal",
+          "observedAt": "2026-11-16T10:34:59.436Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/deep-equal",
+          "observedAt": "2026-11-16T10:34:59.436Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/deep-equal",
+          "observedAt": "2026-11-16T10:34:59.436Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

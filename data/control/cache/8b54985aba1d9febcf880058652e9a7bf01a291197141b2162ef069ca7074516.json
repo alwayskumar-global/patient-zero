@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "pkg": "expand-tilde",
+  "source": "https://registry.npmjs.org/expand-tilde",
+  "fetchedAt": "2026-11-16T10:35:01.767Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 9
+  },
+  "sourceSha256": "999e06f7db17df3fdd30c98efa0e47a1b674477dd07142e8961f4c29e0aa894d",
+  "versions": [
+    {
+      "pkg": "expand-tilde",
+      "semver": "2.0.1",
+      "publishedAt": "2016-10-18T17:56:09.284Z",
+      "publisher": "jonschlinkert",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/expand-tilde",
+          "observedAt": "2026-11-16T10:35:01.767Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/expand-tilde",
+          "observedAt": "2026-11-16T10:35:01.767Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/expand-tilde",
+          "observedAt": "2026-11-16T10:35:01.767Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/expand-tilde",
+          "observedAt": "2026-11-16T10:35:01.767Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/expand-tilde",
+          "observedAt": "2026-11-16T10:35:01.767Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "expand-tilde",
+      "semver": "2.0.2",
+      "publishedAt": "2016-12-08T05:29:17.146Z",
+      "publisher": "doowb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "homedir-polyfill": "^1.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/expand-tilde",
+          "observedAt": "2026-11-16T10:35:01.767Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/expand-tilde",
+          "observedAt": "2026-11-16T10:35:01.767Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/expand-tilde",
+          "observedAt": "2026-11-16T10:35:01.767Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/expand-tilde",
+          "observedAt": "2026-11-16T10:35:01.767Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/expand-tilde",
+          "observedAt": "2026-11-16T10:35:01.767Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

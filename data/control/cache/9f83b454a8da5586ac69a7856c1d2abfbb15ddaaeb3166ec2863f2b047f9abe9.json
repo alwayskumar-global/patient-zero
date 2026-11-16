@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "next-tick",
+  "source": "https://registry.npmjs.org/next-tick",
+  "fetchedAt": "2026-11-16T10:35:14.771Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 6
+  },
+  "sourceSha256": "e2d1407b8e67c1271543363e0d621400504dbd4d3f2871652a3467af35a2c295",
+  "versions": [
+    {
+      "pkg": "next-tick",
+      "semver": "1.1.0",
+      "publishedAt": "2020-02-11T04:03:15.049Z",
+      "publisher": "medikoo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7650,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/next-tick",
+          "observedAt": "2026-11-16T10:35:14.771Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/next-tick",
+          "observedAt": "2026-11-16T10:35:14.771Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/next-tick",
+          "observedAt": "2026-11-16T10:35:14.771Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/next-tick",
+          "observedAt": "2026-11-16T10:35:14.771Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/next-tick",
+          "observedAt": "2026-11-16T10:35:14.771Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/next-tick",
+          "observedAt": "2026-11-16T10:35:14.771Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@radix-ui/rect",
+  "source": "https://registry.npmjs.org/%40radix-ui%2Frect",
+  "fetchedAt": "2026-11-16T10:34:38.470Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 59
+  },
+  "sourceSha256": "c8d2b40f190f1b53bab36f7609c7f2aa14a107a7aa97af3071eba25ce2a4539a",
+  "versions": [
+    {
+      "pkg": "@radix-ui/rect",
+      "semver": "0.1.1",
+      "publishedAt": "2021-10-14T16:46:39.097Z",
+      "publisher": "jjenzz",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 12951,
+      "dependencies": {
+        "@babel/runtime": "^7.13.10"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Frect",
+          "observedAt": "2026-11-16T10:34:38.470Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Frect",
+          "observedAt": "2026-11-16T10:34:38.470Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Frect",
+          "observedAt": "2026-11-16T10:34:38.470Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Frect",
+          "observedAt": "2026-11-16T10:34:38.470Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Frect",
+          "observedAt": "2026-11-16T10:34:38.470Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Frect",
+          "observedAt": "2026-11-16T10:34:38.470Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@radix-ui/rect",
+      "semver": "1.0.1",
+      "publishedAt": "2023-05-26T11:02:47.938Z",
+      "publisher": "benoitgrelard",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 22547,
+      "dependencies": {
+        "@babel/runtime": "^7.13.10"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Frect",
+          "observedAt": "2026-11-16T10:34:38.470Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Frect",
+          "observedAt": "2026-11-16T10:34:38.470Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Frect",
+          "observedAt": "2026-11-16T10:34:38.470Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Frect",
+          "observedAt": "2026-11-16T10:34:38.470Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Frect",
+          "observedAt": "2026-11-16T10:34:38.470Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Frect",
+          "observedAt": "2026-11-16T10:34:38.470Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@radix-ui/rect",
+      "semver": "1.1.0",
+      "publishedAt": "2024-06-19T19:57:30.409Z",
+      "publisher": "vladmoroz",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 16056,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Frect",
+          "observedAt": "2026-11-16T10:34:38.470Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Frect",
+          "observedAt": "2026-11-16T10:34:38.470Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Frect",
+          "observedAt": "2026-11-16T10:34:38.470Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Frect",
+          "observedAt": "2026-11-16T10:34:38.470Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Frect",
+          "observedAt": "2026-11-16T10:34:38.470Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Frect",
+          "observedAt": "2026-11-16T10:34:38.470Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@radix-ui/rect",
+      "semver": "1.1.0-rc.7",
+      "publishedAt": "2024-06-19T19:54:09.876Z",
+      "publisher": "stephenhaney",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 16089,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Frect",
+          "observedAt": "2026-11-16T10:34:38.470Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Frect",
+          "observedAt": "2026-11-16T10:34:38.470Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Frect",
+          "observedAt": "2026-11-16T10:34:38.470Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Frect",
+          "observedAt": "2026-11-16T10:34:38.470Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Frect",
+          "observedAt": "2026-11-16T10:34:38.470Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Frect",
+          "observedAt": "2026-11-16T10:34:38.470Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@radix-ui/rect",
+      "semver": "1.1.1",
+      "publishedAt": "2025-04-08T16:46:02.131Z",
+      "publisher": "chancestrickland",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 16614,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Frect",
+          "observedAt": "2026-11-16T10:34:38.470Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Frect",
+          "observedAt": "2026-11-16T10:34:38.470Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Frect",
+          "observedAt": "2026-11-16T10:34:38.470Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Frect",
+          "observedAt": "2026-11-16T10:34:38.470Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Frect",
+          "observedAt": "2026-11-16T10:34:38.470Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40radix-ui%2Frect",
+          "observedAt": "2026-11-16T10:34:38.470Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

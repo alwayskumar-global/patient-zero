@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "abab",
+  "source": "https://registry.npmjs.org/abab",
+  "fetchedAt": "2026-11-16T10:34:55.195Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 12
+  },
+  "sourceSha256": "010a0e877bc07881881349813460ed939c4b21e04389079aed0fa4771866e14b",
+  "versions": [
+    {
+      "pkg": "abab",
+      "semver": "2.0.6",
+      "publishedAt": "2022-04-17T03:36:42.573Z",
+      "publisher": "jeffcarp",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 10444,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/abab",
+          "observedAt": "2026-11-16T10:34:55.195Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/abab",
+          "observedAt": "2026-11-16T10:34:55.195Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/abab",
+          "observedAt": "2026-11-16T10:34:55.195Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/abab",
+          "observedAt": "2026-11-16T10:34:55.195Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/abab",
+          "observedAt": "2026-11-16T10:34:55.195Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/abab",
+          "observedAt": "2026-11-16T10:34:55.195Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

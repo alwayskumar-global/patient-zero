@@ -1,0 +1,720 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@operato/help",
+  "source": "https://registry.npmjs.org/%40operato%2Fhelp",
+  "fetchedAt": "2026-11-16T10:31:49.865Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 896
+  },
+  "sourceSha256": "f463b6d8515b943e664d20a30900d58ec35a56629cb45fdb5f24002e771c7301",
+  "versions": [
+    {
+      "pkg": "@operato/help",
+      "semver": "1.4.24",
+      "publishedAt": "2023-08-09T02:35:17.636Z",
+      "publisher": "woo_ram",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 177946,
+      "dependencies": {
+        "lit": "^2.5.0",
+        "pwa-helpers": "^0.9.1",
+        "@operato/shell": "^1.4.23",
+        "@operato/utils": "^1.4.23",
+        "@operato/layout": "^1.4.23",
+        "@operato/styles": "^1.4.11",
+        "@operato/markdown": "^1.4.11",
+        "@material/mwc-icon": "^0.27.0",
+        "@operato/data-grist": "^1.4.24"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40operato%2Fhelp",
+          "observedAt": "2026-11-16T10:31:49.865Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40operato%2Fhelp",
+          "observedAt": "2026-11-16T10:31:49.865Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40operato%2Fhelp",
+          "observedAt": "2026-11-16T10:31:49.865Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40operato%2Fhelp",
+          "observedAt": "2026-11-16T10:31:49.865Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40operato%2Fhelp",
+          "observedAt": "2026-11-16T10:31:49.865Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fhelp",
+          "observedAt": "2026-11-16T10:31:49.865Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/help",
+      "semver": "9.0.26",
+      "publishedAt": "2025-08-29T08:41:03.794Z",
+      "publisher": "nalshya113",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 237250,
+      "dependencies": {
+        "lit": "^3.1.2",
+        "pwa-helpers": "^0.9.1",
+        "@material/web": "^2.0.0",
+        "@operato/shell": "^9.0.21",
+        "@operato/utils": "^9.0.21",
+        "@operato/layout": "^9.0.21",
+        "@operato/styles": "^9.0.1",
+        "@operato/markdown": "^9.0.1",
+        "@operato/data-grist": "^9.0.26"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40operato%2Fhelp",
+          "observedAt": "2026-11-16T10:31:49.865Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40operato%2Fhelp",
+          "observedAt": "2026-11-16T10:31:49.865Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40operato%2Fhelp",
+          "observedAt": "2026-11-16T10:31:49.865Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40operato%2Fhelp",
+          "observedAt": "2026-11-16T10:31:49.865Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40operato%2Fhelp",
+          "observedAt": "2026-11-16T10:31:49.865Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fhelp",
+          "observedAt": "2026-11-16T10:31:49.865Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/help",
+      "semver": "9.0.28",
+      "publishedAt": "2025-09-04T23:47:12.575Z",
+      "publisher": "heartyoh",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 238396,
+      "dependencies": {
+        "lit": "^3.1.2",
+        "pwa-helpers": "^0.9.1",
+        "@material/web": "^2.0.0",
+        "@operato/shell": "^9.0.21",
+        "@operato/utils": "^9.0.21",
+        "@operato/layout": "^9.0.21",
+        "@operato/styles": "^9.0.1",
+        "@operato/markdown": "^9.0.1",
+        "@operato/data-grist": "^9.0.28"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40operato%2Fhelp",
+          "observedAt": "2026-11-16T10:31:49.865Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40operato%2Fhelp",
+          "observedAt": "2026-11-16T10:31:49.865Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40operato%2Fhelp",
+          "observedAt": "2026-11-16T10:31:49.865Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40operato%2Fhelp",
+          "observedAt": "2026-11-16T10:31:49.865Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40operato%2Fhelp",
+          "observedAt": "2026-11-16T10:31:49.865Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fhelp",
+          "observedAt": "2026-11-16T10:31:49.865Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/help",
+      "semver": "9.0.31",
+      "publishedAt": "2025-09-14T07:03:51.475Z",
+      "publisher": "heartyoh",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 238545,
+      "dependencies": {
+        "lit": "^3.1.2",
+        "pwa-helpers": "^0.9.1",
+        "@material/web": "^2.0.0",
+        "@operato/shell": "^9.0.21",
+        "@operato/utils": "^9.0.21",
+        "@operato/layout": "^9.0.31",
+        "@operato/styles": "^9.0.1",
+        "@operato/markdown": "^9.0.1",
+        "@operato/data-grist": "^9.0.28"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40operato%2Fhelp",
+          "observedAt": "2026-11-16T10:31:49.865Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40operato%2Fhelp",
+          "observedAt": "2026-11-16T10:31:49.865Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40operato%2Fhelp",
+          "observedAt": "2026-11-16T10:31:49.865Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40operato%2Fhelp",
+          "observedAt": "2026-11-16T10:31:49.865Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40operato%2Fhelp",
+          "observedAt": "2026-11-16T10:31:49.865Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fhelp",
+          "observedAt": "2026-11-16T10:31:49.865Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/help",
+      "semver": "9.0.32",
+      "publishedAt": "2025-09-14T07:08:28.672Z",
+      "publisher": "heartyoh",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 238694,
+      "dependencies": {
+        "lit": "^3.1.2",
+        "pwa-helpers": "^0.9.1",
+        "@material/web": "^2.0.0",
+        "@operato/shell": "^9.0.21",
+        "@operato/utils": "^9.0.21",
+        "@operato/layout": "^9.0.32",
+        "@operato/styles": "^9.0.1",
+        "@operato/markdown": "^9.0.1",
+        "@operato/data-grist": "^9.0.28"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40operato%2Fhelp",
+          "observedAt": "2026-11-16T10:31:49.865Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40operato%2Fhelp",
+          "observedAt": "2026-11-16T10:31:49.865Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40operato%2Fhelp",
+          "observedAt": "2026-11-16T10:31:49.865Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40operato%2Fhelp",
+          "observedAt": "2026-11-16T10:31:49.865Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40operato%2Fhelp",
+          "observedAt": "2026-11-16T10:31:49.865Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fhelp",
+          "observedAt": "2026-11-16T10:31:49.865Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/help",
+      "semver": "9.0.33",
+      "publishedAt": "2025-09-15T22:55:06.215Z",
+      "publisher": "heartyoh",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 240705,
+      "dependencies": {
+        "lit": "^3.1.2",
+        "pwa-helpers": "^0.9.1",
+        "@material/web": "^2.0.0",
+        "@operato/shell": "^9.0.21",
+        "@operato/utils": "^9.0.21",
+        "@operato/layout": "^9.0.32",
+        "@operato/styles": "^9.0.1",
+        "@operato/markdown": "^9.0.1",
+        "@operato/data-grist": "^9.0.33"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40operato%2Fhelp",
+          "observedAt": "2026-11-16T10:31:49.865Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40operato%2Fhelp",
+          "observedAt": "2026-11-16T10:31:49.865Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40operato%2Fhelp",
+          "observedAt": "2026-11-16T10:31:49.865Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40operato%2Fhelp",
+          "observedAt": "2026-11-16T10:31:49.865Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40operato%2Fhelp",
+          "observedAt": "2026-11-16T10:31:49.865Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fhelp",
+          "observedAt": "2026-11-16T10:31:49.865Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/help",
+      "semver": "9.0.34",
+      "publishedAt": "2025-09-15T23:38:11.874Z",
+      "publisher": "heartyoh",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 240856,
+      "dependencies": {
+        "lit": "^3.1.2",
+        "pwa-helpers": "^0.9.1",
+        "@material/web": "^2.0.0",
+        "@operato/shell": "^9.0.34",
+        "@operato/utils": "^9.0.34",
+        "@operato/layout": "^9.0.34",
+        "@operato/styles": "^9.0.34",
+        "@operato/markdown": "^9.0.34",
+        "@operato/data-grist": "^9.0.34"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40operato%2Fhelp",
+          "observedAt": "2026-11-16T10:31:49.865Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40operato%2Fhelp",
+          "observedAt": "2026-11-16T10:31:49.865Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40operato%2Fhelp",
+          "observedAt": "2026-11-16T10:31:49.865Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40operato%2Fhelp",
+          "observedAt": "2026-11-16T10:31:49.865Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40operato%2Fhelp",
+          "observedAt": "2026-11-16T10:31:49.865Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fhelp",
+          "observedAt": "2026-11-16T10:31:49.865Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/help",
+      "semver": "9.0.35",
+      "publishedAt": "2025-09-15T23:44:21.165Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fhelp",
+          "observedAt": "2026-11-16T10:31:49.865Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/help",
+      "semver": "9.0.36",
+      "publishedAt": "2025-09-16T01:25:36.211Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fhelp",
+          "observedAt": "2026-11-16T10:31:49.865Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/help",
+      "semver": "9.0.37",
+      "publishedAt": "2025-09-16T01:30:36.886Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fhelp",
+          "observedAt": "2026-11-16T10:31:49.865Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/help",
+      "semver": "9.0.38",
+      "publishedAt": "2025-09-16T03:18:29.395Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fhelp",
+          "observedAt": "2026-11-16T10:31:49.865Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/help",
+      "semver": "9.0.39",
+      "publishedAt": "2025-09-16T03:25:19.205Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fhelp",
+          "observedAt": "2026-11-16T10:31:49.865Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/help",
+      "semver": "9.0.40",
+      "publishedAt": "2025-09-16T05:32:04.633Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fhelp",
+          "observedAt": "2026-11-16T10:31:49.865Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/help",
+      "semver": "9.0.41",
+      "publishedAt": "2025-09-16T06:17:36.429Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fhelp",
+          "observedAt": "2026-11-16T10:31:49.865Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/help",
+      "semver": "9.0.42",
+      "publishedAt": "2025-09-16T06:24:56.200Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fhelp",
+          "observedAt": "2026-11-16T10:31:49.865Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/help",
+      "semver": "9.0.43",
+      "publishedAt": "2025-09-16T06:32:50.995Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fhelp",
+          "observedAt": "2026-11-16T10:31:49.865Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/help",
+      "semver": "9.0.44",
+      "publishedAt": "2025-09-16T06:38:51.217Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fhelp",
+          "observedAt": "2026-11-16T10:31:49.865Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/help",
+      "semver": "9.0.45",
+      "publishedAt": "2025-09-16T07:05:57.743Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fhelp",
+          "observedAt": "2026-11-16T10:31:49.865Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/help",
+      "semver": "9.0.46",
+      "publishedAt": "2025-09-16T07:11:32.725Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fhelp",
+          "observedAt": "2026-11-16T10:31:49.865Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/help",
+      "semver": "9.0.47",
+      "publishedAt": "2025-09-16T10:56:58.491Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fhelp",
+          "observedAt": "2026-11-16T10:31:49.865Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/help",
+      "semver": "9.0.48",
+      "publishedAt": "2025-09-16T11:02:31.388Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fhelp",
+          "observedAt": "2026-11-16T10:31:49.865Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/help",
+      "semver": "9.0.49",
+      "publishedAt": "2025-09-16T11:09:11.388Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fhelp",
+          "observedAt": "2026-11-16T10:31:49.865Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/help",
+      "semver": "9.0.50",
+      "publishedAt": "2025-09-16T11:39:15.933Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fhelp",
+          "observedAt": "2026-11-16T10:31:49.865Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/help",
+      "semver": "9.0.51",
+      "publishedAt": "2025-09-16T11:44:04.847Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fhelp",
+          "observedAt": "2026-11-16T10:31:49.865Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/help",
+      "semver": "9.1.0",
+      "publishedAt": "2025-09-16T12:02:51.129Z",
+      "publisher": "heartyoh",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 240995,
+      "dependencies": {
+        "lit": "^3.1.2",
+        "pwa-helpers": "^0.9.1",
+        "@material/web": "^2.0.0",
+        "@operato/shell": "^9.1.0",
+        "@operato/utils": "^9.1.0",
+        "@operato/layout": "^9.1.0",
+        "@operato/styles": "^9.1.0",
+        "@operato/markdown": "^9.1.0",
+        "@operato/data-grist": "^9.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40operato%2Fhelp",
+          "observedAt": "2026-11-16T10:31:49.865Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40operato%2Fhelp",
+          "observedAt": "2026-11-16T10:31:49.865Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40operato%2Fhelp",
+          "observedAt": "2026-11-16T10:31:49.865Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40operato%2Fhelp",
+          "observedAt": "2026-11-16T10:31:49.865Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40operato%2Fhelp",
+          "observedAt": "2026-11-16T10:31:49.865Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fhelp",
+          "observedAt": "2026-11-16T10:31:49.865Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

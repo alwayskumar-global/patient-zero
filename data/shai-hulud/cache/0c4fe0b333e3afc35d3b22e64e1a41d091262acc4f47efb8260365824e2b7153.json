@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@ctrl/transmission",
+  "source": "https://registry.npmjs.org/%40ctrl%2Ftransmission",
+  "fetchedAt": "2026-11-16T10:31:17.851Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 43
+  },
+  "sourceSha256": "d333a8a23e4784f5a89d17c6b60605783de329bbb7727b8f4b59cc73621c2b5f",
+  "versions": [
+    {
+      "pkg": "@ctrl/transmission",
+      "semver": "7.3.0",
+      "publishedAt": "2025-08-31T21:39:21.252Z",
+      "publisher": "scttcper",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 37090,
+      "dependencies": {
+        "ufo": "^1.6.1",
+        "ofetch": "^1.4.1",
+        "type-fest": "^4.41.0",
+        "@ctrl/magnet-link": "^4.0.2",
+        "uint8array-extras": "^1.5.0",
+        "@ctrl/shared-torrent": "^6.3.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Ftransmission",
+          "observedAt": "2026-11-16T10:31:17.851Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Ftransmission",
+          "observedAt": "2026-11-16T10:31:17.851Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Ftransmission",
+          "observedAt": "2026-11-16T10:31:17.851Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Ftransmission",
+          "observedAt": "2026-11-16T10:31:17.851Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Ftransmission",
+          "observedAt": "2026-11-16T10:31:17.851Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Ftransmission",
+          "observedAt": "2026-11-16T10:31:17.851Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@ctrl/transmission",
+      "semver": "7.3.1",
+      "publishedAt": "2025-09-15T19:52:39.580Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Ftransmission",
+          "observedAt": "2026-11-16T10:31:17.851Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@ctrl/transmission",
+      "semver": "7.4.0",
+      "publishedAt": "2025-09-16T05:43:50.940Z",
+      "publisher": "scttcper",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 37143,
+      "dependencies": {
+        "ufo": "^1.6.1",
+        "ofetch": "^1.4.1",
+        "type-fest": "^4.41.0",
+        "@ctrl/magnet-link": "^4.0.2",
+        "uint8array-extras": "^1.5.0",
+        "@ctrl/shared-torrent": "^6.3.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Ftransmission",
+          "observedAt": "2026-11-16T10:31:17.851Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Ftransmission",
+          "observedAt": "2026-11-16T10:31:17.851Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Ftransmission",
+          "observedAt": "2026-11-16T10:31:17.851Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Ftransmission",
+          "observedAt": "2026-11-16T10:31:17.851Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Ftransmission",
+          "observedAt": "2026-11-16T10:31:17.851Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Ftransmission",
+          "observedAt": "2026-11-16T10:31:17.851Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

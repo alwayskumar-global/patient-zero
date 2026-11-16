@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "number-is-nan",
+  "source": "https://registry.npmjs.org/number-is-nan",
+  "fetchedAt": "2026-11-16T10:35:15.694Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 4
+  },
+  "sourceSha256": "73d90fc08b85df74ffc4b075f2d4bf3261106db1be1c24b8518ccca748cbc87b",
+  "versions": [
+    {
+      "pkg": "number-is-nan",
+      "semver": "3.0.0",
+      "publishedAt": "2021-04-07T06:14:22.892Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 2614,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/number-is-nan",
+          "observedAt": "2026-11-16T10:35:15.694Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/number-is-nan",
+          "observedAt": "2026-11-16T10:35:15.694Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/number-is-nan",
+          "observedAt": "2026-11-16T10:35:15.694Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/number-is-nan",
+          "observedAt": "2026-11-16T10:35:15.694Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/number-is-nan",
+          "observedAt": "2026-11-16T10:35:15.694Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/number-is-nan",
+          "observedAt": "2026-11-16T10:35:15.694Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

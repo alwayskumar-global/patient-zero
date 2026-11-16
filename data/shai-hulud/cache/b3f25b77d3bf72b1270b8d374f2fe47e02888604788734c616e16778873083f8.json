@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "pkg": "graphql-sequelize-teselagen",
+  "source": "https://registry.npmjs.org/graphql-sequelize-teselagen",
+  "fetchedAt": "2026-11-16T10:32:20.875Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 7
+  },
+  "sourceSha256": "66aff42f4ad3b5455583657cd4274009a1bbeabee866347cb3e08e5ead21a5c2",
+  "versions": [
+    {
+      "pkg": "graphql-sequelize-teselagen",
+      "semver": "5.3.7",
+      "publishedAt": "2017-06-29T01:06:45.323Z",
+      "publisher": "teselagen",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "lodash": "^4.0.0",
+        "bluebird": "^3.4.0",
+        "invariant": "2.2.1",
+        "dataloader-sequelize": "^1.4.5"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/graphql-sequelize-teselagen",
+          "observedAt": "2026-11-16T10:32:20.875Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/graphql-sequelize-teselagen",
+          "observedAt": "2026-11-16T10:32:20.875Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/graphql-sequelize-teselagen",
+          "observedAt": "2026-11-16T10:32:20.875Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/graphql-sequelize-teselagen",
+          "observedAt": "2026-11-16T10:32:20.875Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/graphql-sequelize-teselagen",
+          "observedAt": "2026-11-16T10:32:20.875Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "graphql-sequelize-teselagen",
+      "semver": "5.3.8",
+      "publishedAt": "2025-09-14T21:01:43.839Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/graphql-sequelize-teselagen",
+          "observedAt": "2026-11-16T10:32:20.875Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "graphql-sequelize-teselagen",
+      "semver": "5.3.9",
+      "publishedAt": "2025-09-16T02:33:11.821Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/graphql-sequelize-teselagen",
+          "observedAt": "2026-11-16T10:32:20.875Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

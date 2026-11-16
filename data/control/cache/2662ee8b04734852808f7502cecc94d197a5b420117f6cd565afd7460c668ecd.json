@@ -1,0 +1,196 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@babel/plugin-transform-modules-amd",
+  "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-modules-amd",
+  "fetchedAt": "2026-11-16T10:34:32.710Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 109
+  },
+  "sourceSha256": "2da9645f433dbef266562710bafbdc1e14d4f830e0e2fb87176972f48e470698",
+  "versions": [
+    {
+      "pkg": "@babel/plugin-transform-modules-amd",
+      "semver": "7.0.0-beta.49",
+      "publishedAt": "2018-05-25T16:04:28.293Z",
+      "publisher": "loganfsmyth",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 4940,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "7.0.0-beta.49",
+        "@babel/helper-module-transforms": "7.0.0-beta.49"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-modules-amd",
+          "observedAt": "2026-11-16T10:34:32.710Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-modules-amd",
+          "observedAt": "2026-11-16T10:34:32.710Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-modules-amd",
+          "observedAt": "2026-11-16T10:34:32.710Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-modules-amd",
+          "observedAt": "2026-11-16T10:34:32.710Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-modules-amd",
+          "observedAt": "2026-11-16T10:34:32.710Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-modules-amd",
+          "observedAt": "2026-11-16T10:34:32.710Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/plugin-transform-modules-amd",
+      "semver": "7.1.0",
+      "publishedAt": "2018-09-17T19:31:03.007Z",
+      "publisher": "hzoo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 5532,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "^7.0.0",
+        "@babel/helper-module-transforms": "^7.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-modules-amd",
+          "observedAt": "2026-11-16T10:34:32.710Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-modules-amd",
+          "observedAt": "2026-11-16T10:34:32.710Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-modules-amd",
+          "observedAt": "2026-11-16T10:34:32.710Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-modules-amd",
+          "observedAt": "2026-11-16T10:34:32.710Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-modules-amd",
+          "observedAt": "2026-11-16T10:34:32.710Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-modules-amd",
+          "observedAt": "2026-11-16T10:34:32.710Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/plugin-transform-modules-amd",
+      "semver": "7.10.5",
+      "publishedAt": "2020-07-14T18:18:10.887Z",
+      "publisher": "jlhwung",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7314,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "^7.10.4",
+        "@babel/helper-module-transforms": "^7.10.5",
+        "babel-plugin-dynamic-import-node": "^2.3.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-modules-amd",
+          "observedAt": "2026-11-16T10:34:32.710Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-modules-amd",
+          "observedAt": "2026-11-16T10:34:32.710Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-modules-amd",
+          "observedAt": "2026-11-16T10:34:32.710Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-modules-amd",
+          "observedAt": "2026-11-16T10:34:32.710Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-modules-amd",
+          "observedAt": "2026-11-16T10:34:32.710Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-modules-amd",
+          "observedAt": "2026-11-16T10:34:32.710Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/plugin-transform-modules-amd",
+      "semver": "8.0.0-beta.1",
+      "publishedAt": "2025-07-02T09:04:48.309Z",
+      "publisher": "nicolo-ribaudo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 21624,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "^8.0.0-beta.1",
+        "@babel/helper-module-transforms": "^8.0.0-beta.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-modules-amd",
+          "observedAt": "2026-11-16T10:34:32.710Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-modules-amd",
+          "observedAt": "2026-11-16T10:34:32.710Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-modules-amd",
+          "observedAt": "2026-11-16T10:34:32.710Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-modules-amd",
+          "observedAt": "2026-11-16T10:34:32.710Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-modules-amd",
+          "observedAt": "2026-11-16T10:34:32.710Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-modules-amd",
+          "observedAt": "2026-11-16T10:34:32.710Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

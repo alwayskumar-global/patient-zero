@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@hestjs/eslint-config",
+  "source": "https://registry.npmjs.org/%40hestjs%2Feslint-config",
+  "fetchedAt": "2026-11-16T10:31:20.795Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 3
+  },
+  "sourceSha256": "235a4a1102d077ea9f52c48e44ff4c9968b224ae039f75a1c60a36f7ca6922a2",
+  "versions": [
+    {
+      "pkg": "@hestjs/eslint-config",
+      "semver": "0.1.1",
+      "publishedAt": "2025-07-27T16:01:40.442Z",
+      "publisher": "aqz23678",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 26849,
+      "dependencies": {
+        "@eslint/js": "^9.31.0",
+        "eslint-plugin-vue": "^9.32.0",
+        "typescript-eslint": "^8.36.0",
+        "eslint-plugin-import": "^2.32.0",
+        "eslint-plugin-promise": "^7.2.1",
+        "eslint-plugin-unicorn": "^59.0.1",
+        "eslint-plugin-react-hooks": "^5.1.0",
+        "eslint-plugin-react-refresh": "^0.4.16"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40hestjs%2Feslint-config",
+          "observedAt": "2026-11-16T10:31:20.795Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40hestjs%2Feslint-config",
+          "observedAt": "2026-11-16T10:31:20.795Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40hestjs%2Feslint-config",
+          "observedAt": "2026-11-16T10:31:20.795Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40hestjs%2Feslint-config",
+          "observedAt": "2026-11-16T10:31:20.795Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40hestjs%2Feslint-config",
+          "observedAt": "2026-11-16T10:31:20.795Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40hestjs%2Feslint-config",
+          "observedAt": "2026-11-16T10:31:20.795Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@hestjs/eslint-config",
+      "semver": "0.1.2",
+      "publishedAt": "2025-09-14T20:45:55.044Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40hestjs%2Feslint-config",
+          "observedAt": "2026-11-16T10:31:20.795Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

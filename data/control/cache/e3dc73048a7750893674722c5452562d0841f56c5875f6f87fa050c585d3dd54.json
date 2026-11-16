@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "pkg": "atob",
+  "source": "https://registry.npmjs.org/atob",
+  "fetchedAt": "2026-11-16T10:34:56.149Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 11
+  },
+  "sourceSha256": "5e2eca92cef929922e5b8671ae8a485f69d87f576e7b3b2f232c154c9f00d3ab",
+  "versions": [
+    {
+      "pkg": "atob",
+      "semver": "1.0.1",
+      "publishedAt": "2012-06-26T19:25:39.287Z",
+      "publisher": null,
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/atob",
+          "observedAt": "2026-11-16T10:34:56.149Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/atob",
+          "observedAt": "2026-11-16T10:34:56.149Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/atob",
+          "observedAt": "2026-11-16T10:34:56.149Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/atob",
+          "observedAt": "2026-11-16T10:34:56.149Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "atob",
+      "semver": "2.1.2",
+      "publishedAt": "2018-08-18T10:18:59.696Z",
+      "publisher": "coolaj86",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 36200,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/atob",
+          "observedAt": "2026-11-16T10:34:56.149Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/atob",
+          "observedAt": "2026-11-16T10:34:56.149Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/atob",
+          "observedAt": "2026-11-16T10:34:56.149Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/atob",
+          "observedAt": "2026-11-16T10:34:56.149Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/atob",
+          "observedAt": "2026-11-16T10:34:56.149Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/atob",
+          "observedAt": "2026-11-16T10:34:56.149Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@ctrl/shared-torrent",
+  "source": "https://registry.npmjs.org/%40ctrl%2Fshared-torrent",
+  "fetchedAt": "2026-11-16T10:31:16.183Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 41
+  },
+  "sourceSha256": "e915cd8fbc8dc9d5aa0101263f056ad6942f475d26528c69fbf72135b18b2102",
+  "versions": [
+    {
+      "pkg": "@ctrl/shared-torrent",
+      "semver": "6.3.0",
+      "publishedAt": "2025-08-31T20:09:08.800Z",
+      "publisher": "scttcper",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 7786,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fshared-torrent",
+          "observedAt": "2026-11-16T10:31:16.183Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fshared-torrent",
+          "observedAt": "2026-11-16T10:31:16.183Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fshared-torrent",
+          "observedAt": "2026-11-16T10:31:16.183Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fshared-torrent",
+          "observedAt": "2026-11-16T10:31:16.183Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fshared-torrent",
+          "observedAt": "2026-11-16T10:31:16.183Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fshared-torrent",
+          "observedAt": "2026-11-16T10:31:16.183Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@ctrl/shared-torrent",
+      "semver": "6.3.1",
+      "publishedAt": "2025-09-15T19:52:42.547Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fshared-torrent",
+          "observedAt": "2026-11-16T10:31:16.183Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@ctrl/shared-torrent",
+      "semver": "6.3.2",
+      "publishedAt": "2025-09-15T20:13:41.763Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fshared-torrent",
+          "observedAt": "2026-11-16T10:31:16.183Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@ctrl/shared-torrent",
+      "semver": "6.4.0",
+      "publishedAt": "2025-09-16T04:43:50.490Z",
+      "publisher": "scttcper",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 7849,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fshared-torrent",
+          "observedAt": "2026-11-16T10:31:16.183Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fshared-torrent",
+          "observedAt": "2026-11-16T10:31:16.183Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fshared-torrent",
+          "observedAt": "2026-11-16T10:31:16.183Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fshared-torrent",
+          "observedAt": "2026-11-16T10:31:16.183Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fshared-torrent",
+          "observedAt": "2026-11-16T10:31:16.183Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40ctrl%2Fshared-torrent",
+          "observedAt": "2026-11-16T10:31:16.183Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

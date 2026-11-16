@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@babel/helper-skip-transparent-expression-wrappers",
+  "source": "https://registry.npmjs.org/%40babel%2Fhelper-skip-transparent-expression-wrappers",
+  "fetchedAt": "2026-11-16T10:34:31.367Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 52
+  },
+  "sourceSha256": "4f8a546617186aed602156c3dd791c8357337faa3d2c7b8a34b94d7cf8c854a7",
+  "versions": [
+    {
+      "pkg": "@babel/helper-skip-transparent-expression-wrappers",
+      "semver": "7.11.0",
+      "publishedAt": "2020-07-30T21:27:19.508Z",
+      "publisher": "jlhwung",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 3585,
+      "dependencies": {
+        "@babel/types": "^7.11.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-skip-transparent-expression-wrappers",
+          "observedAt": "2026-11-16T10:34:31.367Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-skip-transparent-expression-wrappers",
+          "observedAt": "2026-11-16T10:34:31.367Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-skip-transparent-expression-wrappers",
+          "observedAt": "2026-11-16T10:34:31.367Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-skip-transparent-expression-wrappers",
+          "observedAt": "2026-11-16T10:34:31.367Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-skip-transparent-expression-wrappers",
+          "observedAt": "2026-11-16T10:34:31.367Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-skip-transparent-expression-wrappers",
+          "observedAt": "2026-11-16T10:34:31.367Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/helper-skip-transparent-expression-wrappers",
+      "semver": "8.0.0-beta.1",
+      "publishedAt": "2025-07-02T09:04:36.357Z",
+      "publisher": "nicolo-ribaudo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 6588,
+      "dependencies": {
+        "@babel/types": "^8.0.0-beta.1",
+        "@babel/traverse": "^8.0.0-beta.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-skip-transparent-expression-wrappers",
+          "observedAt": "2026-11-16T10:34:31.367Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-skip-transparent-expression-wrappers",
+          "observedAt": "2026-11-16T10:34:31.367Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-skip-transparent-expression-wrappers",
+          "observedAt": "2026-11-16T10:34:31.367Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-skip-transparent-expression-wrappers",
+          "observedAt": "2026-11-16T10:34:31.367Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-skip-transparent-expression-wrappers",
+          "observedAt": "2026-11-16T10:34:31.367Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-skip-transparent-expression-wrappers",
+          "observedAt": "2026-11-16T10:34:31.367Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

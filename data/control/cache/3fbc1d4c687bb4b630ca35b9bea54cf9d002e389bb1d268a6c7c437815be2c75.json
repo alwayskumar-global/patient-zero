@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "std-env",
+  "source": "https://registry.npmjs.org/std-env",
+  "fetchedAt": "2026-11-16T10:35:27.237Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 41
+  },
+  "sourceSha256": "9744ee8ab0ac99b3b8f019a1fc664ae6c787a3e6da4b6cdf69d52e6de17ec5eb",
+  "versions": [
+    {
+      "pkg": "std-env",
+      "semver": "3.9.0",
+      "publishedAt": "2025-04-03T22:39:15.007Z",
+      "publisher": "pi0",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 26086,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/std-env",
+          "observedAt": "2026-11-16T10:35:27.237Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/std-env",
+          "observedAt": "2026-11-16T10:35:27.237Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/std-env",
+          "observedAt": "2026-11-16T10:35:27.237Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/std-env",
+          "observedAt": "2026-11-16T10:35:27.237Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/std-env",
+          "observedAt": "2026-11-16T10:35:27.237Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/std-env",
+          "observedAt": "2026-11-16T10:35:27.237Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

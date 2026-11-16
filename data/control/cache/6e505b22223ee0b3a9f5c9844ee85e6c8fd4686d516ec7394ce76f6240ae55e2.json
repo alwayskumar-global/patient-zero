@@ -1,0 +1,210 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@babel/preset-react",
+  "source": "https://registry.npmjs.org/%40babel%2Fpreset-react",
+  "fetchedAt": "2026-11-16T10:34:33.634Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 107
+  },
+  "sourceSha256": "06d4f311b01928b24b83a0113e5e8c6b3135bbfa490881425832925c97e495ae",
+  "versions": [
+    {
+      "pkg": "@babel/preset-react",
+      "semver": "7.0.0",
+      "publishedAt": "2018-08-27T21:44:32.209Z",
+      "publisher": "hzoo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 4558,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "^7.0.0",
+        "@babel/plugin-transform-react-jsx": "^7.0.0",
+        "@babel/plugin-transform-react-jsx-self": "^7.0.0",
+        "@babel/plugin-transform-react-jsx-source": "^7.0.0",
+        "@babel/plugin-transform-react-display-name": "^7.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fpreset-react",
+          "observedAt": "2026-11-16T10:34:33.634Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fpreset-react",
+          "observedAt": "2026-11-16T10:34:33.634Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fpreset-react",
+          "observedAt": "2026-11-16T10:34:33.634Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fpreset-react",
+          "observedAt": "2026-11-16T10:34:33.634Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fpreset-react",
+          "observedAt": "2026-11-16T10:34:33.634Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fpreset-react",
+          "observedAt": "2026-11-16T10:34:33.634Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/preset-react",
+      "semver": "7.0.0-beta.49",
+      "publishedAt": "2018-05-25T16:03:54.267Z",
+      "publisher": "loganfsmyth",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 6203,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "7.0.0-beta.49",
+        "@babel/plugin-transform-react-jsx": "7.0.0-beta.49",
+        "@babel/plugin-transform-react-jsx-self": "7.0.0-beta.49",
+        "@babel/plugin-transform-react-jsx-source": "7.0.0-beta.49",
+        "@babel/plugin-transform-react-display-name": "7.0.0-beta.49"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fpreset-react",
+          "observedAt": "2026-11-16T10:34:33.634Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fpreset-react",
+          "observedAt": "2026-11-16T10:34:33.634Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fpreset-react",
+          "observedAt": "2026-11-16T10:34:33.634Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fpreset-react",
+          "observedAt": "2026-11-16T10:34:33.634Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fpreset-react",
+          "observedAt": "2026-11-16T10:34:33.634Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fpreset-react",
+          "observedAt": "2026-11-16T10:34:33.634Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/preset-react",
+      "semver": "7.10.4",
+      "publishedAt": "2020-06-30T13:13:09.010Z",
+      "publisher": "jlhwung",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 4968,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "^7.10.4",
+        "@babel/plugin-transform-react-jsx": "^7.10.4",
+        "@babel/plugin-transform-react-jsx-self": "^7.10.4",
+        "@babel/plugin-transform-react-jsx-source": "^7.10.4",
+        "@babel/plugin-transform-react-display-name": "^7.10.4",
+        "@babel/plugin-transform-react-jsx-development": "^7.10.4",
+        "@babel/plugin-transform-react-pure-annotations": "^7.10.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fpreset-react",
+          "observedAt": "2026-11-16T10:34:33.634Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fpreset-react",
+          "observedAt": "2026-11-16T10:34:33.634Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fpreset-react",
+          "observedAt": "2026-11-16T10:34:33.634Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fpreset-react",
+          "observedAt": "2026-11-16T10:34:33.634Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fpreset-react",
+          "observedAt": "2026-11-16T10:34:33.634Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fpreset-react",
+          "observedAt": "2026-11-16T10:34:33.634Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/preset-react",
+      "semver": "8.0.0-beta.1",
+      "publishedAt": "2025-07-02T09:04:54.007Z",
+      "publisher": "nicolo-ribaudo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 15787,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "^8.0.0-beta.1",
+        "@babel/helper-validator-option": "^8.0.0-beta.1",
+        "@babel/plugin-transform-react-jsx": "^8.0.0-beta.1",
+        "@babel/plugin-transform-react-display-name": "^8.0.0-beta.1",
+        "@babel/plugin-transform-react-jsx-development": "^8.0.0-beta.1",
+        "@babel/plugin-transform-react-pure-annotations": "^8.0.0-beta.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fpreset-react",
+          "observedAt": "2026-11-16T10:34:33.634Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fpreset-react",
+          "observedAt": "2026-11-16T10:34:33.634Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fpreset-react",
+          "observedAt": "2026-11-16T10:34:33.634Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fpreset-react",
+          "observedAt": "2026-11-16T10:34:33.634Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fpreset-react",
+          "observedAt": "2026-11-16T10:34:33.634Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fpreset-react",
+          "observedAt": "2026-11-16T10:34:33.634Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

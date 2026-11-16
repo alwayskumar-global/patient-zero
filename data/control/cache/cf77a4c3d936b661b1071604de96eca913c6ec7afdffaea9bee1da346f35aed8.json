@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "universalify",
+  "source": "https://registry.npmjs.org/universalify",
+  "fetchedAt": "2026-11-16T10:35:31.518Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 8
+  },
+  "sourceSha256": "18cbbc2ca83794267e62dbc8d5407bc3dabcd0a43565f1e14a570286d8f70614",
+  "versions": [
+    {
+      "pkg": "universalify",
+      "semver": "2.0.1",
+      "publishedAt": "2023-11-01T17:12:45.392Z",
+      "publisher": "ryanzim",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 4675,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/universalify",
+          "observedAt": "2026-11-16T10:35:31.518Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/universalify",
+          "observedAt": "2026-11-16T10:35:31.518Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/universalify",
+          "observedAt": "2026-11-16T10:35:31.518Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/universalify",
+          "observedAt": "2026-11-16T10:35:31.518Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/universalify",
+          "observedAt": "2026-11-16T10:35:31.518Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/universalify",
+          "observedAt": "2026-11-16T10:35:31.518Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

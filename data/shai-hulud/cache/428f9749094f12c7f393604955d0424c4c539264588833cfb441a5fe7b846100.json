@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@nstudio/xplat-utils",
+  "source": "https://registry.npmjs.org/%40nstudio%2Fxplat-utils",
+  "fetchedAt": "2026-11-16T10:31:44.582Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 119
+  },
+  "sourceSha256": "675bfbea0171b76120342fad0747b6e49ddfd538d4417aea9d8ed502ce9e9558",
+  "versions": [
+    {
+      "pkg": "@nstudio/xplat-utils",
+      "semver": "17.0.1",
+      "publishedAt": "2023-10-23T19:28:36.418Z",
+      "publisher": "walkerrunpdx",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 22710,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fxplat-utils",
+          "observedAt": "2026-11-16T10:31:44.582Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fxplat-utils",
+          "observedAt": "2026-11-16T10:31:44.582Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fxplat-utils",
+          "observedAt": "2026-11-16T10:31:44.582Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fxplat-utils",
+          "observedAt": "2026-11-16T10:31:44.582Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fxplat-utils",
+          "observedAt": "2026-11-16T10:31:44.582Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fxplat-utils",
+          "observedAt": "2026-11-16T10:31:44.582Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nstudio/xplat-utils",
+      "semver": "20.0.3",
+      "publishedAt": "2024-11-08T04:10:28.922Z",
+      "publisher": "nativescript-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 22163,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fxplat-utils",
+          "observedAt": "2026-11-16T10:31:44.582Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fxplat-utils",
+          "observedAt": "2026-11-16T10:31:44.582Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fxplat-utils",
+          "observedAt": "2026-11-16T10:31:44.582Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fxplat-utils",
+          "observedAt": "2026-11-16T10:31:44.582Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fxplat-utils",
+          "observedAt": "2026-11-16T10:31:44.582Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fxplat-utils",
+          "observedAt": "2026-11-16T10:31:44.582Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nstudio/xplat-utils",
+      "semver": "20.0.4",
+      "publishedAt": "2025-09-15T09:16:49.820Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fxplat-utils",
+          "observedAt": "2026-11-16T10:31:44.582Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nstudio/xplat-utils",
+      "semver": "20.0.5",
+      "publishedAt": "2025-09-15T10:41:49.957Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fxplat-utils",
+          "observedAt": "2026-11-16T10:31:44.582Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nstudio/xplat-utils",
+      "semver": "20.0.6",
+      "publishedAt": "2025-09-15T10:46:50.113Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fxplat-utils",
+          "observedAt": "2026-11-16T10:31:44.582Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nstudio/xplat-utils",
+      "semver": "20.0.7",
+      "publishedAt": "2025-09-15T13:16:15.921Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fxplat-utils",
+          "observedAt": "2026-11-16T10:31:44.582Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

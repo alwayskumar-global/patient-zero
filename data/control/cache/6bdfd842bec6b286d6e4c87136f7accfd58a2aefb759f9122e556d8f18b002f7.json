@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@opentelemetry/semantic-conventions",
+  "source": "https://registry.npmjs.org/%40opentelemetry%2Fsemantic-conventions",
+  "fetchedAt": "2026-11-16T10:34:36.905Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 127
+  },
+  "sourceSha256": "9006f6de5e001dcb0c4bd45fba62f672a718df779546df0f88f12724b72968eb",
+  "versions": [
+    {
+      "pkg": "@opentelemetry/semantic-conventions",
+      "semver": "0.16.0",
+      "publishedAt": "2021-02-01T22:33:10.350Z",
+      "publisher": "obecny",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 60634,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40opentelemetry%2Fsemantic-conventions",
+          "observedAt": "2026-11-16T10:34:36.905Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40opentelemetry%2Fsemantic-conventions",
+          "observedAt": "2026-11-16T10:34:36.905Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40opentelemetry%2Fsemantic-conventions",
+          "observedAt": "2026-11-16T10:34:36.905Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40opentelemetry%2Fsemantic-conventions",
+          "observedAt": "2026-11-16T10:34:36.905Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40opentelemetry%2Fsemantic-conventions",
+          "observedAt": "2026-11-16T10:34:36.905Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40opentelemetry%2Fsemantic-conventions",
+          "observedAt": "2026-11-16T10:34:36.905Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@opentelemetry/semantic-conventions",
+      "semver": "0.9.0",
+      "publishedAt": "2020-06-18T21:25:39.243Z",
+      "publisher": "mayurkale22",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 25451,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40opentelemetry%2Fsemantic-conventions",
+          "observedAt": "2026-11-16T10:34:36.905Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40opentelemetry%2Fsemantic-conventions",
+          "observedAt": "2026-11-16T10:34:36.905Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40opentelemetry%2Fsemantic-conventions",
+          "observedAt": "2026-11-16T10:34:36.905Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40opentelemetry%2Fsemantic-conventions",
+          "observedAt": "2026-11-16T10:34:36.905Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40opentelemetry%2Fsemantic-conventions",
+          "observedAt": "2026-11-16T10:34:36.905Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40opentelemetry%2Fsemantic-conventions",
+          "observedAt": "2026-11-16T10:34:36.905Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@opentelemetry/semantic-conventions",
+      "semver": "1.27.0",
+      "publishedAt": "2024-08-28T09:17:00.414Z",
+      "publisher": "pichlermarc",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 5335726,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40opentelemetry%2Fsemantic-conventions",
+          "observedAt": "2026-11-16T10:34:36.905Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40opentelemetry%2Fsemantic-conventions",
+          "observedAt": "2026-11-16T10:34:36.905Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40opentelemetry%2Fsemantic-conventions",
+          "observedAt": "2026-11-16T10:34:36.905Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40opentelemetry%2Fsemantic-conventions",
+          "observedAt": "2026-11-16T10:34:36.905Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40opentelemetry%2Fsemantic-conventions",
+          "observedAt": "2026-11-16T10:34:36.905Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40opentelemetry%2Fsemantic-conventions",
+          "observedAt": "2026-11-16T10:34:36.905Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@opentelemetry/semantic-conventions",
+      "semver": "1.36.0",
+      "publishedAt": "2025-07-10T21:13:48.211Z",
+      "publisher": "dyladan",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 9162754,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40opentelemetry%2Fsemantic-conventions",
+          "observedAt": "2026-11-16T10:34:36.905Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40opentelemetry%2Fsemantic-conventions",
+          "observedAt": "2026-11-16T10:34:36.905Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40opentelemetry%2Fsemantic-conventions",
+          "observedAt": "2026-11-16T10:34:36.905Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40opentelemetry%2Fsemantic-conventions",
+          "observedAt": "2026-11-16T10:34:36.905Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40opentelemetry%2Fsemantic-conventions",
+          "observedAt": "2026-11-16T10:34:36.905Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40opentelemetry%2Fsemantic-conventions",
+          "observedAt": "2026-11-16T10:34:36.905Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

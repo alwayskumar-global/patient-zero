@@ -1,0 +1,196 @@
+{
+  "schemaVersion": 1,
+  "pkg": "react-redux",
+  "source": "https://registry.npmjs.org/react-redux",
+  "fetchedAt": "2026-11-16T10:35:23.412Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 146
+  },
+  "sourceSha256": "29482852a251d7989da6f9589980185cb15c3615fafe075212025bbea54eab78",
+  "versions": [
+    {
+      "pkg": "react-redux",
+      "semver": "4.4.6",
+      "publishedAt": "2016-11-14T12:11:00.787Z",
+      "publisher": "gaearon",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "lodash": "^4.2.0",
+        "invariant": "^2.0.0",
+        "loose-envify": "^1.1.0",
+        "hoist-non-react-statics": "^1.0.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/react-redux",
+          "observedAt": "2026-11-16T10:35:23.412Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/react-redux",
+          "observedAt": "2026-11-16T10:35:23.412Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/react-redux",
+          "observedAt": "2026-11-16T10:35:23.412Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/react-redux",
+          "observedAt": "2026-11-16T10:35:23.412Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/react-redux",
+          "observedAt": "2026-11-16T10:35:23.412Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "react-redux",
+      "semver": "7.2.6",
+      "publishedAt": "2021-10-25T17:05:23.326Z",
+      "publisher": "timdorr",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 297329,
+      "dependencies": {
+        "react-is": "^17.0.2",
+        "prop-types": "^15.7.2",
+        "loose-envify": "^1.4.0",
+        "@babel/runtime": "^7.15.4",
+        "@types/react-redux": "^7.1.20",
+        "hoist-non-react-statics": "^3.3.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/react-redux",
+          "observedAt": "2026-11-16T10:35:23.412Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/react-redux",
+          "observedAt": "2026-11-16T10:35:23.412Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/react-redux",
+          "observedAt": "2026-11-16T10:35:23.412Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/react-redux",
+          "observedAt": "2026-11-16T10:35:23.412Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/react-redux",
+          "observedAt": "2026-11-16T10:35:23.412Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/react-redux",
+          "observedAt": "2026-11-16T10:35:23.412Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "react-redux",
+      "semver": "9.1.0",
+      "publishedAt": "2024-01-12T17:23:02.006Z",
+      "publisher": "phryneas",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 734554,
+      "dependencies": {
+        "use-sync-external-store": "^1.0.0",
+        "@types/use-sync-external-store": "^0.0.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/react-redux",
+          "observedAt": "2026-11-16T10:35:23.412Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/react-redux",
+          "observedAt": "2026-11-16T10:35:23.412Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/react-redux",
+          "observedAt": "2026-11-16T10:35:23.412Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/react-redux",
+          "observedAt": "2026-11-16T10:35:23.412Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/react-redux",
+          "observedAt": "2026-11-16T10:35:23.412Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/react-redux",
+          "observedAt": "2026-11-16T10:35:23.412Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "react-redux",
+      "semver": "9.2.0",
+      "publishedAt": "2024-12-10T23:06:45.755Z",
+      "publisher": "acemarke",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 822524,
+      "dependencies": {
+        "use-sync-external-store": "^1.4.0",
+        "@types/use-sync-external-store": "^0.0.6"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/react-redux",
+          "observedAt": "2026-11-16T10:35:23.412Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/react-redux",
+          "observedAt": "2026-11-16T10:35:23.412Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/react-redux",
+          "observedAt": "2026-11-16T10:35:23.412Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/react-redux",
+          "observedAt": "2026-11-16T10:35:23.412Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/react-redux",
+          "observedAt": "2026-11-16T10:35:23.412Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/react-redux",
+          "observedAt": "2026-11-16T10:35:23.412Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

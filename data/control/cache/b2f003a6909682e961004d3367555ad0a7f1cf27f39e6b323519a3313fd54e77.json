@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "pkg": "to-object-path",
+  "source": "https://registry.npmjs.org/to-object-path",
+  "fetchedAt": "2026-11-16T10:35:29.744Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 3
+  },
+  "sourceSha256": "9768d86a3c39dce3fd6027bb9b76517a2599e940ea108e4f449ff54c4775304b",
+  "versions": [
+    {
+      "pkg": "to-object-path",
+      "semver": "0.3.0",
+      "publishedAt": "2016-01-31T16:59:38.115Z",
+      "publisher": "jonschlinkert",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "kind-of": "^3.0.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/to-object-path",
+          "observedAt": "2026-11-16T10:35:29.744Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/to-object-path",
+          "observedAt": "2026-11-16T10:35:29.744Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/to-object-path",
+          "observedAt": "2026-11-16T10:35:29.744Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/to-object-path",
+          "observedAt": "2026-11-16T10:35:29.744Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/to-object-path",
+          "observedAt": "2026-11-16T10:35:29.744Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

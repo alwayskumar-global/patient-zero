@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "pkg": "sharp",
+  "source": "https://registry.npmjs.org/sharp",
+  "fetchedAt": "2026-11-16T10:35:26.224Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 194
+  },
+  "sourceSha256": "b8db63ff3811d73007a09b7225a41c25deb3bb08960d56b0d4bfd48e019b1ec9",
+  "versions": [
+    {
+      "pkg": "sharp",
+      "semver": "0.34.3",
+      "publishedAt": "2025-07-10T07:59:00.726Z",
+      "publisher": "lovell",
+      "hasInstallScript": true,
+      "provenance": false,
+      "unpackedSize": 533678,
+      "dependencies": {
+        "color": "^4.2.3",
+        "semver": "^7.7.2",
+        "detect-libc": "^2.0.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/sharp",
+          "observedAt": "2026-11-16T10:35:26.224Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/sharp",
+          "observedAt": "2026-11-16T10:35:26.224Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/sharp",
+          "observedAt": "2026-11-16T10:35:26.224Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/sharp",
+          "observedAt": "2026-11-16T10:35:26.224Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/sharp",
+          "observedAt": "2026-11-16T10:35:26.224Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/sharp",
+          "observedAt": "2026-11-16T10:35:26.224Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

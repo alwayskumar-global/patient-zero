@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "at-least-node",
+  "source": "https://registry.npmjs.org/at-least-node",
+  "fetchedAt": "2026-11-16T10:34:56.134Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 1
+  },
+  "sourceSha256": "a7a74434dd2b6ad9597d080bdc3782a208b08324c4d6e88f21bb2c6311b5c2a2",
+  "versions": [
+    {
+      "pkg": "at-least-node",
+      "semver": "1.0.0",
+      "publishedAt": "2020-02-01T22:11:36.789Z",
+      "publisher": "ryanzim",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 2625,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/at-least-node",
+          "observedAt": "2026-11-16T10:34:56.134Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/at-least-node",
+          "observedAt": "2026-11-16T10:34:56.134Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/at-least-node",
+          "observedAt": "2026-11-16T10:34:56.134Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/at-least-node",
+          "observedAt": "2026-11-16T10:34:56.134Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/at-least-node",
+          "observedAt": "2026-11-16T10:34:56.134Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/at-least-node",
+          "observedAt": "2026-11-16T10:34:56.134Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

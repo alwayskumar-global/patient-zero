@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "pkg": "is-weakmap",
+  "source": "https://registry.npmjs.org/is-weakmap",
+  "fetchedAt": "2026-11-16T10:35:07.011Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 5
+  },
+  "sourceSha256": "aa78d0fb5dd45373e39c33278992a90997e6f590e88d442b8cdda09a9321ebd9",
+  "versions": [
+    {
+      "pkg": "is-weakmap",
+      "semver": "1.0.1",
+      "publishedAt": "2015-08-31T20:09:06.050Z",
+      "publisher": "arthurvr",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/is-weakmap",
+          "observedAt": "2026-11-16T10:35:07.011Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/is-weakmap",
+          "observedAt": "2026-11-16T10:35:07.011Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/is-weakmap",
+          "observedAt": "2026-11-16T10:35:07.011Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/is-weakmap",
+          "observedAt": "2026-11-16T10:35:07.011Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/is-weakmap",
+          "observedAt": "2026-11-16T10:35:07.011Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "is-weakmap",
+      "semver": "2.0.2",
+      "publishedAt": "2024-03-08T20:18:32.058Z",
+      "publisher": "ljharb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 20571,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/is-weakmap",
+          "observedAt": "2026-11-16T10:35:07.011Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/is-weakmap",
+          "observedAt": "2026-11-16T10:35:07.011Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/is-weakmap",
+          "observedAt": "2026-11-16T10:35:07.011Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/is-weakmap",
+          "observedAt": "2026-11-16T10:35:07.011Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/is-weakmap",
+          "observedAt": "2026-11-16T10:35:07.011Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/is-weakmap",
+          "observedAt": "2026-11-16T10:35:07.011Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

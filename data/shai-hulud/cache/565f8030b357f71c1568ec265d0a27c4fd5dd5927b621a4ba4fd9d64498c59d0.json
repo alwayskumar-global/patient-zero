@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@nstudio/web",
+  "source": "https://registry.npmjs.org/%40nstudio%2Fweb",
+  "fetchedAt": "2026-11-16T10:31:42.394Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 140
+  },
+  "sourceSha256": "2be753d353b143ee8866fe6879dcfc20a86f463b465a4d1208106016d40f2466",
+  "versions": [
+    {
+      "pkg": "@nstudio/web",
+      "semver": "17.0.1",
+      "publishedAt": "2023-10-23T19:28:33.879Z",
+      "publisher": "walkerrunpdx",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 19553,
+      "dependencies": {
+        "@nx/web": "^17.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fweb",
+          "observedAt": "2026-11-16T10:31:42.394Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fweb",
+          "observedAt": "2026-11-16T10:31:42.394Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fweb",
+          "observedAt": "2026-11-16T10:31:42.394Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fweb",
+          "observedAt": "2026-11-16T10:31:42.394Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fweb",
+          "observedAt": "2026-11-16T10:31:42.394Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fweb",
+          "observedAt": "2026-11-16T10:31:42.394Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nstudio/web",
+      "semver": "20.0.3",
+      "publishedAt": "2024-11-08T04:10:26.441Z",
+      "publisher": "nativescript-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 19376,
+      "dependencies": {
+        "@nx/web": "^20.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fweb",
+          "observedAt": "2026-11-16T10:31:42.394Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fweb",
+          "observedAt": "2026-11-16T10:31:42.394Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fweb",
+          "observedAt": "2026-11-16T10:31:42.394Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fweb",
+          "observedAt": "2026-11-16T10:31:42.394Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fweb",
+          "observedAt": "2026-11-16T10:31:42.394Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fweb",
+          "observedAt": "2026-11-16T10:31:42.394Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nstudio/web",
+      "semver": "20.0.4",
+      "publishedAt": "2025-09-15T09:16:50.104Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fweb",
+          "observedAt": "2026-11-16T10:31:42.394Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

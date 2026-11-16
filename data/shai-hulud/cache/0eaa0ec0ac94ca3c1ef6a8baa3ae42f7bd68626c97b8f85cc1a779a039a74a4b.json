@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@teselagen/file-utils",
+  "source": "https://registry.npmjs.org/%40teselagen%2Ffile-utils",
+  "fetchedAt": "2026-11-16T10:31:58.335Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 54
+  },
+  "sourceSha256": "e0ee72c1e2c9dfe742cb99b182df2421dff9d6f192a78111d7a032689ae74314",
+  "versions": [
+    {
+      "pkg": "@teselagen/file-utils",
+      "semver": "0.3.20",
+      "publishedAt": "2025-02-24T19:43:03.778Z",
+      "publisher": "teselagen-admin",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 1378398,
+      "dependencies": {
+        "jszip": "^3.10.1",
+        "buffer": "5.7.1",
+        "bluebird": "^3.7.2",
+        "lodash-es": "^4.17.21",
+        "papaparse": "5.3.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40teselagen%2Ffile-utils",
+          "observedAt": "2026-11-16T10:31:58.335Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40teselagen%2Ffile-utils",
+          "observedAt": "2026-11-16T10:31:58.335Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40teselagen%2Ffile-utils",
+          "observedAt": "2026-11-16T10:31:58.335Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40teselagen%2Ffile-utils",
+          "observedAt": "2026-11-16T10:31:58.335Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40teselagen%2Ffile-utils",
+          "observedAt": "2026-11-16T10:31:58.335Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40teselagen%2Ffile-utils",
+          "observedAt": "2026-11-16T10:31:58.335Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@teselagen/file-utils",
+      "semver": "0.3.21",
+      "publishedAt": "2025-09-14T21:01:45.293Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40teselagen%2Ffile-utils",
+          "observedAt": "2026-11-16T10:31:58.335Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@teselagen/file-utils",
+      "semver": "0.3.22",
+      "publishedAt": "2025-09-16T02:32:59.678Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40teselagen%2Ffile-utils",
+          "observedAt": "2026-11-16T10:31:58.335Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

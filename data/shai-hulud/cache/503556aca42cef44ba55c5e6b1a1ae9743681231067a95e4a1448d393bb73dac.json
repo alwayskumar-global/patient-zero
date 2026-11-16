@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "pkg": "angulartics2",
+  "source": "https://registry.npmjs.org/angulartics2",
+  "fetchedAt": "2026-11-16T10:32:14.550Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 130
+  },
+  "sourceSha256": "2670319a8d559521384762d32e57bdc9abeae2bc2e270b8afef0e6cf9b282519",
+  "versions": [
+    {
+      "pkg": "angulartics2",
+      "semver": "10.0.0",
+      "publishedAt": "2020-07-11T05:12:05.109Z",
+      "publisher": "jonnybgod",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 1303294,
+      "dependencies": {
+        "tslib": "^2.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/angulartics2",
+          "observedAt": "2026-11-16T10:32:14.550Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/angulartics2",
+          "observedAt": "2026-11-16T10:32:14.550Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/angulartics2",
+          "observedAt": "2026-11-16T10:32:14.550Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/angulartics2",
+          "observedAt": "2026-11-16T10:32:14.550Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/angulartics2",
+          "observedAt": "2026-11-16T10:32:14.550Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/angulartics2",
+          "observedAt": "2026-11-16T10:32:14.550Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "angulartics2",
+      "semver": "14.1.0",
+      "publishedAt": "2024-08-05T18:55:37.765Z",
+      "publisher": "scttcper",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 925871,
+      "dependencies": {
+        "tslib": "^2.3.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/angulartics2",
+          "observedAt": "2026-11-16T10:32:14.550Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/angulartics2",
+          "observedAt": "2026-11-16T10:32:14.550Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/angulartics2",
+          "observedAt": "2026-11-16T10:32:14.550Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/angulartics2",
+          "observedAt": "2026-11-16T10:32:14.550Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/angulartics2",
+          "observedAt": "2026-11-16T10:32:14.550Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/angulartics2",
+          "observedAt": "2026-11-16T10:32:14.550Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "angulartics2",
+      "semver": "14.1.1",
+      "publishedAt": "2025-09-15T19:52:45.711Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/angulartics2",
+          "observedAt": "2026-11-16T10:32:14.550Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "angulartics2",
+      "semver": "14.1.2",
+      "publishedAt": "2025-09-15T20:13:42.303Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/angulartics2",
+          "observedAt": "2026-11-16T10:32:14.550Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

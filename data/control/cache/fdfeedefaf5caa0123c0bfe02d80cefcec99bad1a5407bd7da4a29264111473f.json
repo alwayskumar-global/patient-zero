@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "pkg": "cross-spawn",
+  "source": "https://registry.npmjs.org/cross-spawn",
+  "fetchedAt": "2026-11-16T10:34:58.738Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 58
+  },
+  "sourceSha256": "75c4454c7d9550aec790d7452ef2f6bf60fdb452f1605df2ce48a435753c2a1d",
+  "versions": [
+    {
+      "pkg": "cross-spawn",
+      "semver": "6.0.6",
+      "publishedAt": "2024-11-18T14:21:34.889Z",
+      "publisher": "satazor",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 18317,
+      "dependencies": {
+        "nice-try": "^1.0.4",
+        "path-key": "^2.0.1",
+        "semver": "^5.5.0",
+        "shebang-command": "^1.2.0",
+        "which": "^1.2.9"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/cross-spawn",
+          "observedAt": "2026-11-16T10:34:58.738Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/cross-spawn",
+          "observedAt": "2026-11-16T10:34:58.738Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/cross-spawn",
+          "observedAt": "2026-11-16T10:34:58.738Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/cross-spawn",
+          "observedAt": "2026-11-16T10:34:58.738Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/cross-spawn",
+          "observedAt": "2026-11-16T10:34:58.738Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/cross-spawn",
+          "observedAt": "2026-11-16T10:34:58.738Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

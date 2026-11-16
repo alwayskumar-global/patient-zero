@@ -1,0 +1,227 @@
+{
+  "schemaVersion": 1,
+  "pkg": "istanbul-reports",
+  "source": "https://registry.npmjs.org/istanbul-reports",
+  "fetchedAt": "2026-11-16T10:35:07.291Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 58
+  },
+  "sourceSha256": "0f7c8296215a9b51ef66fb1e1124970e16473b05573e62286d4e1ad691627758",
+  "versions": [
+    {
+      "pkg": "istanbul-reports",
+      "semver": "1.0.0-alpha.8",
+      "publishedAt": "2016-07-11T11:49:22.620Z",
+      "publisher": "gotwarlost",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "handlebars": "^4.0.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/istanbul-reports",
+          "observedAt": "2026-11-16T10:35:07.291Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/istanbul-reports",
+          "observedAt": "2026-11-16T10:35:07.291Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/istanbul-reports",
+          "observedAt": "2026-11-16T10:35:07.291Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/istanbul-reports",
+          "observedAt": "2026-11-16T10:35:07.291Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/istanbul-reports",
+          "observedAt": "2026-11-16T10:35:07.291Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "istanbul-reports",
+      "semver": "1.0.1",
+      "publishedAt": "2017-01-29T06:52:59.867Z",
+      "publisher": "jakxz",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "handlebars": "^4.0.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/istanbul-reports",
+          "observedAt": "2026-11-16T10:35:07.291Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/istanbul-reports",
+          "observedAt": "2026-11-16T10:35:07.291Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/istanbul-reports",
+          "observedAt": "2026-11-16T10:35:07.291Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/istanbul-reports",
+          "observedAt": "2026-11-16T10:35:07.291Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/istanbul-reports",
+          "observedAt": "2026-11-16T10:35:07.291Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "istanbul-reports",
+      "semver": "2.0.3",
+      "publishedAt": "2018-12-25T00:37:48.289Z",
+      "publisher": "bcoe",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 93915,
+      "dependencies": {
+        "handlebars": "^4.0.11"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/istanbul-reports",
+          "observedAt": "2026-11-16T10:35:07.291Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/istanbul-reports",
+          "observedAt": "2026-11-16T10:35:07.291Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/istanbul-reports",
+          "observedAt": "2026-11-16T10:35:07.291Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/istanbul-reports",
+          "observedAt": "2026-11-16T10:35:07.291Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/istanbul-reports",
+          "observedAt": "2026-11-16T10:35:07.291Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/istanbul-reports",
+          "observedAt": "2026-11-16T10:35:07.291Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "istanbul-reports",
+      "semver": "3.0.2",
+      "publishedAt": "2020-04-01T13:05:19.374Z",
+      "publisher": "coreyfarrell",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 284875,
+      "dependencies": {
+        "html-escaper": "^2.0.0",
+        "istanbul-lib-report": "^3.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/istanbul-reports",
+          "observedAt": "2026-11-16T10:35:07.291Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/istanbul-reports",
+          "observedAt": "2026-11-16T10:35:07.291Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/istanbul-reports",
+          "observedAt": "2026-11-16T10:35:07.291Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/istanbul-reports",
+          "observedAt": "2026-11-16T10:35:07.291Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/istanbul-reports",
+          "observedAt": "2026-11-16T10:35:07.291Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/istanbul-reports",
+          "observedAt": "2026-11-16T10:35:07.291Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "istanbul-reports",
+      "semver": "3.1.7",
+      "publishedAt": "2024-02-19T20:50:48.544Z",
+      "publisher": "oss-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 293826,
+      "dependencies": {
+        "html-escaper": "^2.0.0",
+        "istanbul-lib-report": "^3.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/istanbul-reports",
+          "observedAt": "2026-11-16T10:35:07.291Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/istanbul-reports",
+          "observedAt": "2026-11-16T10:35:07.291Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/istanbul-reports",
+          "observedAt": "2026-11-16T10:35:07.291Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/istanbul-reports",
+          "observedAt": "2026-11-16T10:35:07.291Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/istanbul-reports",
+          "observedAt": "2026-11-16T10:35:07.291Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/istanbul-reports",
+          "observedAt": "2026-11-16T10:35:07.291Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "schemaVersion": 1,
+  "pkg": "batch",
+  "source": "https://registry.npmjs.org/batch",
+  "fetchedAt": "2026-11-16T10:34:56.691Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 17
+  },
+  "sourceSha256": "a001f9f971067d4de6c94be5b575e3d865938d6c5e14cd9fd86411aaf7220778",
+  "versions": [
+    {
+      "pkg": "batch",
+      "semver": "0.1.1",
+      "publishedAt": "2012-07-03T18:26:52.473Z",
+      "publisher": null,
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "mocha": "*",
+        "should": "*"
+      },
+      "evidence": {
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/batch",
+          "observedAt": "2026-11-16T10:34:56.691Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/batch",
+          "observedAt": "2026-11-16T10:34:56.691Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/batch",
+          "observedAt": "2026-11-16T10:34:56.691Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/batch",
+          "observedAt": "2026-11-16T10:34:56.691Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "batch",
+      "semver": "0.5.3",
+      "publishedAt": "2015-10-01T16:08:54.699Z",
+      "publisher": "tjholowaychuk",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/batch",
+          "observedAt": "2026-11-16T10:34:56.691Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/batch",
+          "observedAt": "2026-11-16T10:34:56.691Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/batch",
+          "observedAt": "2026-11-16T10:34:56.691Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/batch",
+          "observedAt": "2026-11-16T10:34:56.691Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/batch",
+          "observedAt": "2026-11-16T10:34:56.691Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "batch",
+      "semver": "0.6.1",
+      "publishedAt": "2017-05-16T21:11:49.205Z",
+      "publisher": "dougwilson",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/batch",
+          "observedAt": "2026-11-16T10:34:56.691Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/batch",
+          "observedAt": "2026-11-16T10:34:56.691Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/batch",
+          "observedAt": "2026-11-16T10:34:56.691Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/batch",
+          "observedAt": "2026-11-16T10:34:56.691Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/batch",
+          "observedAt": "2026-11-16T10:34:56.691Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

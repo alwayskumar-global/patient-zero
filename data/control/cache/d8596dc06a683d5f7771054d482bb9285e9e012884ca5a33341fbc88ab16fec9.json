@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "pkg": "markdown-it",
+  "source": "https://registry.npmjs.org/markdown-it",
+  "fetchedAt": "2026-11-16T10:35:12.068Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 89
+  },
+  "sourceSha256": "695e25e3bbada3cb8c042f18c639377a66295affa89c5ffde90c2c724e0eaede",
+  "versions": [
+    {
+      "pkg": "markdown-it",
+      "semver": "14.1.0",
+      "publishedAt": "2024-03-18T23:17:52.302Z",
+      "publisher": "vitaly",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 767399,
+      "dependencies": {
+        "mdurl": "^2.0.0",
+        "argparse": "^2.0.1",
+        "entities": "^4.4.0",
+        "uc.micro": "^2.1.0",
+        "linkify-it": "^5.0.0",
+        "punycode.js": "^2.3.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/markdown-it",
+          "observedAt": "2026-11-16T10:35:12.068Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/markdown-it",
+          "observedAt": "2026-11-16T10:35:12.068Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/markdown-it",
+          "observedAt": "2026-11-16T10:35:12.068Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/markdown-it",
+          "observedAt": "2026-11-16T10:35:12.068Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/markdown-it",
+          "observedAt": "2026-11-16T10:35:12.068Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/markdown-it",
+          "observedAt": "2026-11-16T10:35:12.068Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

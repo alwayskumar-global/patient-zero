@@ -1,0 +1,371 @@
+{
+  "schemaVersion": 1,
+  "pkg": "react-jsonschema-form-extras",
+  "source": "https://registry.npmjs.org/react-jsonschema-form-extras",
+  "fetchedAt": "2026-11-16T10:32:27.523Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 174
+  },
+  "sourceSha256": "c3aef76c79a8ee159244ab22229e6b95215b46968aed483f14697499ab036b93",
+  "versions": [
+    {
+      "pkg": "react-jsonschema-form-extras",
+      "semver": "0.6.0",
+      "publishedAt": "2017-08-10T04:13:43.830Z",
+      "publisher": "zboldyga",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "prop-types": "^15.5.10",
+        "react-bootstrap-table": "^3.4.6",
+        "react-jsonschema-form": "^0.49.0",
+        "react-bootstrap-typeahead": "^1.4.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/react-jsonschema-form-extras",
+          "observedAt": "2026-11-16T10:32:27.523Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/react-jsonschema-form-extras",
+          "observedAt": "2026-11-16T10:32:27.523Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/react-jsonschema-form-extras",
+          "observedAt": "2026-11-16T10:32:27.523Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/react-jsonschema-form-extras",
+          "observedAt": "2026-11-16T10:32:27.523Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/react-jsonschema-form-extras",
+          "observedAt": "2026-11-16T10:32:27.523Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "react-jsonschema-form-extras",
+      "semver": "0.9.26",
+      "publishedAt": "2018-08-13T13:41:40.930Z",
+      "publisher": "chatwithrajaram",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 15322309,
+      "dependencies": {
+        "selectn": "^1.1.2",
+        "draftjs-to-html": "^0.8.4",
+        "html-to-draftjs": "^1.4.0",
+        "lodash.debounce": "^4.0.8",
+        "react-render-html": "^0.6.0",
+        "react-draft-wysiwyg": "^1.12.13"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/react-jsonschema-form-extras",
+          "observedAt": "2026-11-16T10:32:27.523Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/react-jsonschema-form-extras",
+          "observedAt": "2026-11-16T10:32:27.523Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/react-jsonschema-form-extras",
+          "observedAt": "2026-11-16T10:32:27.523Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/react-jsonschema-form-extras",
+          "observedAt": "2026-11-16T10:32:27.523Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/react-jsonschema-form-extras",
+          "observedAt": "2026-11-16T10:32:27.523Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/react-jsonschema-form-extras",
+          "observedAt": "2026-11-16T10:32:27.523Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "react-jsonschema-form-extras",
+      "semver": "0.9.3",
+      "publishedAt": "2017-12-18T14:44:23.988Z",
+      "publisher": "mavarazy",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "selectn": "^1.1.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/react-jsonschema-form-extras",
+          "observedAt": "2026-11-16T10:32:27.523Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/react-jsonschema-form-extras",
+          "observedAt": "2026-11-16T10:32:27.523Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/react-jsonschema-form-extras",
+          "observedAt": "2026-11-16T10:32:27.523Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/react-jsonschema-form-extras",
+          "observedAt": "2026-11-16T10:32:27.523Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/react-jsonschema-form-extras",
+          "observedAt": "2026-11-16T10:32:27.523Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "react-jsonschema-form-extras",
+      "semver": "0.9.43",
+      "publishedAt": "2019-07-26T17:48:32.871Z",
+      "publisher": "sneu012",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 15643797,
+      "dependencies": {
+        "selectn": "^1.1.2",
+        "es6-shim": "^0.35.5",
+        "classnames": "^2.2.6",
+        "draftjs-to-html": "^0.8.4",
+        "html-to-draftjs": "^1.4.0",
+        "lodash.debounce": "^4.0.8",
+        "react-render-html": "^0.6.0",
+        "react-draft-wysiwyg": "^1.12.13"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/react-jsonschema-form-extras",
+          "observedAt": "2026-11-16T10:32:27.523Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/react-jsonschema-form-extras",
+          "observedAt": "2026-11-16T10:32:27.523Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/react-jsonschema-form-extras",
+          "observedAt": "2026-11-16T10:32:27.523Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/react-jsonschema-form-extras",
+          "observedAt": "2026-11-16T10:32:27.523Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/react-jsonschema-form-extras",
+          "observedAt": "2026-11-16T10:32:27.523Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/react-jsonschema-form-extras",
+          "observedAt": "2026-11-16T10:32:27.523Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "react-jsonschema-form-extras",
+      "semver": "0.9.67",
+      "publishedAt": "2021-06-08T22:37:05.061Z",
+      "publisher": "devopsrxnt",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 15735117,
+      "dependencies": {
+        "selectn": "^1.1.2",
+        "es6-shim": "^0.35.5",
+        "classnames": "^2.2.6",
+        "draftjs-to-html": "^0.8.4",
+        "html-to-draftjs": "^1.4.0",
+        "lodash.debounce": "^4.0.8",
+        "react-render-html": "^0.6.0",
+        "react-draft-wysiwyg": "^1.12.13"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/react-jsonschema-form-extras",
+          "observedAt": "2026-11-16T10:32:27.523Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/react-jsonschema-form-extras",
+          "observedAt": "2026-11-16T10:32:27.523Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/react-jsonschema-form-extras",
+          "observedAt": "2026-11-16T10:32:27.523Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/react-jsonschema-form-extras",
+          "observedAt": "2026-11-16T10:32:27.523Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/react-jsonschema-form-extras",
+          "observedAt": "2026-11-16T10:32:27.523Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/react-jsonschema-form-extras",
+          "observedAt": "2026-11-16T10:32:27.523Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "react-jsonschema-form-extras",
+      "semver": "1.0.0",
+      "publishedAt": "2025-09-12T16:43:34.530Z",
+      "publisher": "techsupportrxnt",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 14555586,
+      "dependencies": {
+        "selectn": "^1.1.2",
+        "es6-shim": "^0.35.5",
+        "classnames": "^2.2.6",
+        "use-debounce": "^10.0.4",
+        "@mui/material": "^5.15.0",
+        "@emotion/react": "^11.11.0",
+        "@emotion/styled": "^11.11.0",
+        "draftjs-to-html": "^0.8.4",
+        "html-to-draftjs": "^1.4.0",
+        "lodash.debounce": "^4.0.8",
+        "react-render-html": "^0.6.0",
+        "@mui/icons-material": "^5.18.0",
+        "react-draft-wysiwyg": "^1.12.13"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/react-jsonschema-form-extras",
+          "observedAt": "2026-11-16T10:32:27.523Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/react-jsonschema-form-extras",
+          "observedAt": "2026-11-16T10:32:27.523Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/react-jsonschema-form-extras",
+          "observedAt": "2026-11-16T10:32:27.523Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/react-jsonschema-form-extras",
+          "observedAt": "2026-11-16T10:32:27.523Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/react-jsonschema-form-extras",
+          "observedAt": "2026-11-16T10:32:27.523Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/react-jsonschema-form-extras",
+          "observedAt": "2026-11-16T10:32:27.523Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "react-jsonschema-form-extras",
+      "semver": "1.0.1",
+      "publishedAt": "2025-09-14T17:58:55.757Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/react-jsonschema-form-extras",
+          "observedAt": "2026-11-16T10:32:27.523Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "react-jsonschema-form-extras",
+      "semver": "1.0.2",
+      "publishedAt": "2025-09-14T20:43:50.811Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/react-jsonschema-form-extras",
+          "observedAt": "2026-11-16T10:32:27.523Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "react-jsonschema-form-extras",
+      "semver": "1.0.3",
+      "publishedAt": "2025-09-14T21:03:27.722Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/react-jsonschema-form-extras",
+          "observedAt": "2026-11-16T10:32:27.523Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "react-jsonschema-form-extras",
+      "semver": "1.0.4",
+      "publishedAt": "2025-09-15T15:45:54.639Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/react-jsonschema-form-extras",
+          "observedAt": "2026-11-16T10:32:27.523Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

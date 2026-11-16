@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "pkg": "devextreme-angular-rpk",
+  "source": "https://registry.npmjs.org/devextreme-angular-rpk",
+  "fetchedAt": "2026-11-16T10:32:17.026Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 4
+  },
+  "sourceSha256": "e83eedfd6bfb59ea87e4f6cf8b2ce742499ac14901b9123938ebb4ceb52e9590",
+  "versions": [
+    {
+      "pkg": "devextreme-angular-rpk",
+      "semver": "21.2.7",
+      "publishedAt": "2022-01-24T14:44:53.482Z",
+      "publisher": "hlobo96",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 65404444,
+      "dependencies": {
+        "tslib": "^1.9.0",
+        "inferno-server": "7.4.4",
+        "devextreme-schematics": "latest",
+        "@angular-devkit/schematics": "^8.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/devextreme-angular-rpk",
+          "observedAt": "2026-11-16T10:32:17.026Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/devextreme-angular-rpk",
+          "observedAt": "2026-11-16T10:32:17.026Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/devextreme-angular-rpk",
+          "observedAt": "2026-11-16T10:32:17.026Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/devextreme-angular-rpk",
+          "observedAt": "2026-11-16T10:32:17.026Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/devextreme-angular-rpk",
+          "observedAt": "2026-11-16T10:32:17.026Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/devextreme-angular-rpk",
+          "observedAt": "2026-11-16T10:32:17.026Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "devextreme-angular-rpk",
+      "semver": "21.2.8",
+      "publishedAt": "2025-09-15T07:43:38.694Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/devextreme-angular-rpk",
+          "observedAt": "2026-11-16T10:32:17.026Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

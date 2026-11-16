@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@smithy/eventstream-serde-universal",
+  "source": "https://registry.npmjs.org/%40smithy%2Feventstream-serde-universal",
+  "fetchedAt": "2026-11-16T10:34:39.813Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 93
+  },
+  "sourceSha256": "de4ab173b7602838e0d892b6af6c5d3d5eccae440b78da3dbfa073c2d1231b35",
+  "versions": [
+    {
+      "pkg": "@smithy/eventstream-serde-universal",
+      "semver": "4.0.4",
+      "publishedAt": "2025-05-29T20:38:47.658Z",
+      "publisher": "smithy-team",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 31334,
+      "dependencies": {
+        "tslib": "^2.6.2",
+        "@smithy/types": "^4.3.1",
+        "@smithy/eventstream-codec": "^4.0.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40smithy%2Feventstream-serde-universal",
+          "observedAt": "2026-11-16T10:34:39.813Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40smithy%2Feventstream-serde-universal",
+          "observedAt": "2026-11-16T10:34:39.813Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40smithy%2Feventstream-serde-universal",
+          "observedAt": "2026-11-16T10:34:39.813Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40smithy%2Feventstream-serde-universal",
+          "observedAt": "2026-11-16T10:34:39.813Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40smithy%2Feventstream-serde-universal",
+          "observedAt": "2026-11-16T10:34:39.813Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40smithy%2Feventstream-serde-universal",
+          "observedAt": "2026-11-16T10:34:39.813Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@smithy/eventstream-serde-universal",
+      "semver": "4.0.5",
+      "publishedAt": "2025-08-06T16:59:30.120Z",
+      "publisher": "smithy-team",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 31334,
+      "dependencies": {
+        "tslib": "^2.6.2",
+        "@smithy/types": "^4.3.2",
+        "@smithy/eventstream-codec": "^4.0.5"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40smithy%2Feventstream-serde-universal",
+          "observedAt": "2026-11-16T10:34:39.813Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40smithy%2Feventstream-serde-universal",
+          "observedAt": "2026-11-16T10:34:39.813Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40smithy%2Feventstream-serde-universal",
+          "observedAt": "2026-11-16T10:34:39.813Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40smithy%2Feventstream-serde-universal",
+          "observedAt": "2026-11-16T10:34:39.813Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40smithy%2Feventstream-serde-universal",
+          "observedAt": "2026-11-16T10:34:39.813Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40smithy%2Feventstream-serde-universal",
+          "observedAt": "2026-11-16T10:34:39.813Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

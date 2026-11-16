@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "pkg": "compressible",
+  "source": "https://registry.npmjs.org/compressible",
+  "fetchedAt": "2026-11-16T10:34:58.131Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 26
+  },
+  "sourceSha256": "b16db69ea24253f39ac068a392739b8fcd396d3da7e877ae65e362efebb6bd66",
+  "versions": [
+    {
+      "pkg": "compressible",
+      "semver": "0.1.1",
+      "publishedAt": "2013-12-19T03:23:42.219Z",
+      "publisher": "jongleberry",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/compressible",
+          "observedAt": "2026-11-16T10:34:58.131Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/compressible",
+          "observedAt": "2026-11-16T10:34:58.131Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/compressible",
+          "observedAt": "2026-11-16T10:34:58.131Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/compressible",
+          "observedAt": "2026-11-16T10:34:58.131Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/compressible",
+          "observedAt": "2026-11-16T10:34:58.131Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "compressible",
+      "semver": "2.0.1",
+      "publishedAt": "2014-10-04T17:33:56.762Z",
+      "publisher": "fishrock123",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "mime-db": "1.x"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/compressible",
+          "observedAt": "2026-11-16T10:34:58.131Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/compressible",
+          "observedAt": "2026-11-16T10:34:58.131Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/compressible",
+          "observedAt": "2026-11-16T10:34:58.131Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/compressible",
+          "observedAt": "2026-11-16T10:34:58.131Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/compressible",
+          "observedAt": "2026-11-16T10:34:58.131Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "compressible",
+      "semver": "2.0.18",
+      "publishedAt": "2020-01-06T04:50:09.027Z",
+      "publisher": "dougwilson",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7355,
+      "dependencies": {
+        "mime-db": ">= 1.43.0 < 2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/compressible",
+          "observedAt": "2026-11-16T10:34:58.131Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/compressible",
+          "observedAt": "2026-11-16T10:34:58.131Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/compressible",
+          "observedAt": "2026-11-16T10:34:58.131Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/compressible",
+          "observedAt": "2026-11-16T10:34:58.131Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/compressible",
+          "observedAt": "2026-11-16T10:34:58.131Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/compressible",
+          "observedAt": "2026-11-16T10:34:58.131Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

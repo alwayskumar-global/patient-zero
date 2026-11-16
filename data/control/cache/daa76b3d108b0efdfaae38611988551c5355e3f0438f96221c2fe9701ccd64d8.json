@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "pkg": "yargs-unparser",
+  "source": "https://registry.npmjs.org/yargs-unparser",
+  "fetchedAt": "2026-11-16T10:35:35.347Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 15
+  },
+  "sourceSha256": "67c9c82bf05c8186b8745a4430fad6a3215be480be76add6a7d23c52019dd68b",
+  "versions": [
+    {
+      "pkg": "yargs-unparser",
+      "semver": "1.4.0",
+      "publishedAt": "2017-12-30T10:30:52.510Z",
+      "publisher": "satazor",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "flat": "^4.0.0",
+        "lodash": "^4.17.4",
+        "yargs": "^10.0.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/yargs-unparser",
+          "observedAt": "2026-11-16T10:35:35.347Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/yargs-unparser",
+          "observedAt": "2026-11-16T10:35:35.347Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/yargs-unparser",
+          "observedAt": "2026-11-16T10:35:35.347Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/yargs-unparser",
+          "observedAt": "2026-11-16T10:35:35.347Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/yargs-unparser",
+          "observedAt": "2026-11-16T10:35:35.347Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "yargs-unparser",
+      "semver": "1.6.0",
+      "publishedAt": "2019-07-30T05:26:43.120Z",
+      "publisher": "bcoe",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 12149,
+      "dependencies": {
+        "flat": "^4.1.0",
+        "lodash": "^4.17.15",
+        "yargs": "^13.3.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/yargs-unparser",
+          "observedAt": "2026-11-16T10:35:35.347Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/yargs-unparser",
+          "observedAt": "2026-11-16T10:35:35.347Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/yargs-unparser",
+          "observedAt": "2026-11-16T10:35:35.347Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/yargs-unparser",
+          "observedAt": "2026-11-16T10:35:35.347Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/yargs-unparser",
+          "observedAt": "2026-11-16T10:35:35.347Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/yargs-unparser",
+          "observedAt": "2026-11-16T10:35:35.347Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "yargs-unparser",
+      "semver": "2.0.0",
+      "publishedAt": "2020-10-02T00:21:41.253Z",
+      "publisher": "oss-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 13860,
+      "dependencies": {
+        "camelcase": "^6.0.0",
+        "decamelize": "^4.0.0",
+        "flat": "^5.0.2",
+        "is-plain-obj": "^2.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/yargs-unparser",
+          "observedAt": "2026-11-16T10:35:35.347Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/yargs-unparser",
+          "observedAt": "2026-11-16T10:35:35.347Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/yargs-unparser",
+          "observedAt": "2026-11-16T10:35:35.347Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/yargs-unparser",
+          "observedAt": "2026-11-16T10:35:35.347Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/yargs-unparser",
+          "observedAt": "2026-11-16T10:35:35.347Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/yargs-unparser",
+          "observedAt": "2026-11-16T10:35:35.347Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

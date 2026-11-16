@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "pkg": "devextreme-rpk",
+  "source": "https://registry.npmjs.org/devextreme-rpk",
+  "fetchedAt": "2026-11-16T10:32:17.822Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 4
+  },
+  "sourceSha256": "dc9c0bf2b6f031c8b93fa3678208e2a79e8d1c95d7a114cc15e757253d3c320d",
+  "versions": [
+    {
+      "pkg": "devextreme-rpk",
+      "semver": "21.2.7",
+      "publishedAt": "2022-01-24T09:55:28.350Z",
+      "publisher": "hlobo96",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 94646447,
+      "dependencies": {
+        "jszip": "^3.7.1",
+        "rrule": "2.6.6",
+        "inferno": "^7.4.9",
+        "turndown": "~7.0.0",
+        "@babel/runtime": "^7.12.1",
+        "inferno-compat": "^7.4.9",
+        "inferno-hydrate": "^7.4.9",
+        "devexpress-gantt": "4.0.3",
+        "devextreme-quill": "~1.5.10",
+        "devexpress-diagram": "2.1.45",
+        "@devextreme/runtime": "~2.3.14",
+        "devextreme-showdown": "^1.0.1",
+        "inferno-create-element": "^7.4.9"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/devextreme-rpk",
+          "observedAt": "2026-11-16T10:32:17.822Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/devextreme-rpk",
+          "observedAt": "2026-11-16T10:32:17.822Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/devextreme-rpk",
+          "observedAt": "2026-11-16T10:32:17.822Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/devextreme-rpk",
+          "observedAt": "2026-11-16T10:32:17.822Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/devextreme-rpk",
+          "observedAt": "2026-11-16T10:32:17.822Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/devextreme-rpk",
+          "observedAt": "2026-11-16T10:32:17.822Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "devextreme-rpk",
+      "semver": "21.2.8",
+      "publishedAt": "2025-09-15T07:43:48.215Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/devextreme-rpk",
+          "observedAt": "2026-11-16T10:32:17.822Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

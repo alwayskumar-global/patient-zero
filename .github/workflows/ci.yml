@@ -1,0 +1,79 @@
+name: Verify Patient Zero
+on:
+  push:
+  pull_request:
+permissions:
+  contents: read
+concurrency:
+  group: verify-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  backend:
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-latest, macos-latest]
+    runs-on: ${{ matrix.os }}
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4
+        with:
+          node-version: '22'
+      - run: npm ci --ignore-scripts --no-audit --no-fund
+      - run: npm rebuild koffi
+      - run: npm run check
+      - name: Reproduce the frozen experiment offline
+        run: npm run bench
+        env:
+          NODE_OPTIONS: --import=./tests/deny-network.mjs
+  web:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      NEXT_TELEMETRY_DISABLED: '1'
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4
+        with:
+          node-version: '22'
+      - run: npm ci --ignore-scripts --no-audit --no-fund
+      - run: npm rebuild koffi
+      - run: npm run web:build
+      - run: npm run web:typecheck
+      - run: npm exec --workspace @patient-zero/web -- playwright install --with-deps chromium
+      - name: Exercise the production UI
+        shell: bash
+        run: |
+          npm run web:start > "$RUNNER_TEMP/patient-zero-web.log" 2>&1 &
+          web_pid=$!
+          trap 'kill "$web_pid" 2>/dev/null || true' EXIT
+          for attempt in $(seq 1 30); do
+            if curl --fail --silent http://127.0.0.1:3000/api/meta > /dev/null; then break; fi
+            sleep 1
+          done
+          npm run web:test
+  action-demo:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          persist-credentials: false
+      - name: Historical gate must block
+        id: historical
+        continue-on-error: true
+        uses: ./
+        with:
+          lockfile: fixtures/lockfiles/chalk-v3.json
+          mode: retrospective
+          as-of: '2025-09-08T14:00:00Z'
+      - name: Verify the intentional block
+        env:
+          GATE_STATUS: ${{ steps.historical.outputs.status }}
+          GATE_EXIT: ${{ steps.historical.outputs.exit-code }}
+        run: test "$GATE_STATUS" = blocked && test "$GATE_EXIT" = 1

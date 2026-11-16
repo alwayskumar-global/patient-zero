@@ -1,0 +1,247 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@storybook/theming",
+  "source": "https://registry.npmjs.org/%40storybook%2Ftheming",
+  "fetchedAt": "2026-11-16T10:34:42.722Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 2027
+  },
+  "sourceSha256": "3107363d955f3f33cf4798047bf6cc36b6b40891b640a9a5a649dadd43d1a441",
+  "versions": [
+    {
+      "pkg": "@storybook/theming",
+      "semver": "0.0.0-pr-29659-sha-1f47b682",
+      "publishedAt": "2024-11-20T06:25:13.045Z",
+      "publisher": "shilman",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 1603,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40storybook%2Ftheming",
+          "observedAt": "2026-11-16T10:34:42.722Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40storybook%2Ftheming",
+          "observedAt": "2026-11-16T10:34:42.722Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40storybook%2Ftheming",
+          "observedAt": "2026-11-16T10:34:42.722Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40storybook%2Ftheming",
+          "observedAt": "2026-11-16T10:34:42.722Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40storybook%2Ftheming",
+          "observedAt": "2026-11-16T10:34:42.722Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40storybook%2Ftheming",
+          "observedAt": "2026-11-16T10:34:42.722Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@storybook/theming",
+      "semver": "5.3.0-beta.7",
+      "publishedAt": "2019-11-25T16:10:51.849Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40storybook%2Ftheming",
+          "observedAt": "2026-11-16T10:34:42.722Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@storybook/theming",
+      "semver": "7.6.20",
+      "publishedAt": "2024-06-24T11:51:39.252Z",
+      "publisher": "valentinpalkovic",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 747274,
+      "dependencies": {
+        "memoizerific": "^1.11.3",
+        "@storybook/global": "^5.0.0",
+        "@storybook/client-logger": "7.6.20",
+        "@emotion/use-insertion-effect-with-fallbacks": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40storybook%2Ftheming",
+          "observedAt": "2026-11-16T10:34:42.722Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40storybook%2Ftheming",
+          "observedAt": "2026-11-16T10:34:42.722Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40storybook%2Ftheming",
+          "observedAt": "2026-11-16T10:34:42.722Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40storybook%2Ftheming",
+          "observedAt": "2026-11-16T10:34:42.722Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40storybook%2Ftheming",
+          "observedAt": "2026-11-16T10:34:42.722Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40storybook%2Ftheming",
+          "observedAt": "2026-11-16T10:34:42.722Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@storybook/theming",
+      "semver": "8.2.10",
+      "publishedAt": "2024-11-04T14:41:52.962Z",
+      "publisher": "kasperpeulen",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 1609,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40storybook%2Ftheming",
+          "observedAt": "2026-11-16T10:34:42.722Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40storybook%2Ftheming",
+          "observedAt": "2026-11-16T10:34:42.722Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40storybook%2Ftheming",
+          "observedAt": "2026-11-16T10:34:42.722Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40storybook%2Ftheming",
+          "observedAt": "2026-11-16T10:34:42.722Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40storybook%2Ftheming",
+          "observedAt": "2026-11-16T10:34:42.722Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40storybook%2Ftheming",
+          "observedAt": "2026-11-16T10:34:42.722Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@storybook/theming",
+      "semver": "8.5.0-alpha.9",
+      "publishedAt": "2024-11-20T14:00:38.583Z",
+      "publisher": "jreinhold",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 1589,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40storybook%2Ftheming",
+          "observedAt": "2026-11-16T10:34:42.722Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40storybook%2Ftheming",
+          "observedAt": "2026-11-16T10:34:42.722Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40storybook%2Ftheming",
+          "observedAt": "2026-11-16T10:34:42.722Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40storybook%2Ftheming",
+          "observedAt": "2026-11-16T10:34:42.722Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40storybook%2Ftheming",
+          "observedAt": "2026-11-16T10:34:42.722Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40storybook%2Ftheming",
+          "observedAt": "2026-11-16T10:34:42.722Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@storybook/theming",
+      "semver": "8.6.14",
+      "publishedAt": "2025-05-16T11:32:17.890Z",
+      "publisher": "storybook-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 1582,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40storybook%2Ftheming",
+          "observedAt": "2026-11-16T10:34:42.722Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40storybook%2Ftheming",
+          "observedAt": "2026-11-16T10:34:42.722Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40storybook%2Ftheming",
+          "observedAt": "2026-11-16T10:34:42.722Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40storybook%2Ftheming",
+          "observedAt": "2026-11-16T10:34:42.722Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40storybook%2Ftheming",
+          "observedAt": "2026-11-16T10:34:42.722Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40storybook%2Ftheming",
+          "observedAt": "2026-11-16T10:34:42.722Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

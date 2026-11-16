@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 1,
+  "pkg": "crypto-browserify",
+  "source": "https://registry.npmjs.org/crypto-browserify",
+  "fetchedAt": "2026-11-16T10:34:58.760Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 77
+  },
+  "sourceSha256": "fb106724c1a96f5a753be663a48bd5baf32b9e0ce3163b8cce9aee7b3f8ef6af",
+  "versions": [
+    {
+      "pkg": "crypto-browserify",
+      "semver": "3.12.0",
+      "publishedAt": "2017-11-03T12:22:40.198Z",
+      "publisher": "cwmma",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "pbkdf2": "^3.0.3",
+        "inherits": "^2.0.1",
+        "randomfill": "^1.0.3",
+        "create-ecdh": "^4.0.0",
+        "create-hash": "^1.1.0",
+        "create-hmac": "^1.1.0",
+        "randombytes": "^2.0.0",
+        "diffie-hellman": "^5.0.0",
+        "public-encrypt": "^4.0.0",
+        "browserify-sign": "^4.0.0",
+        "browserify-cipher": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/crypto-browserify",
+          "observedAt": "2026-11-16T10:34:58.760Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/crypto-browserify",
+          "observedAt": "2026-11-16T10:34:58.760Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/crypto-browserify",
+          "observedAt": "2026-11-16T10:34:58.760Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/crypto-browserify",
+          "observedAt": "2026-11-16T10:34:58.760Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/crypto-browserify",
+          "observedAt": "2026-11-16T10:34:58.760Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "crypto-browserify",
+      "semver": "3.12.1",
+      "publishedAt": "2024-10-22T17:47:17.820Z",
+      "publisher": "ljharb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 56013,
+      "dependencies": {
+        "browserify-cipher": "^1.0.1",
+        "browserify-sign": "^4.2.3",
+        "create-ecdh": "^4.0.4",
+        "create-hash": "^1.2.0",
+        "create-hmac": "^1.1.7",
+        "diffie-hellman": "^5.0.3",
+        "hash-base": "~3.0.4",
+        "inherits": "^2.0.4",
+        "pbkdf2": "^3.1.2",
+        "public-encrypt": "^4.0.3",
+        "randombytes": "^2.1.0",
+        "randomfill": "^1.0.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/crypto-browserify",
+          "observedAt": "2026-11-16T10:34:58.760Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/crypto-browserify",
+          "observedAt": "2026-11-16T10:34:58.760Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/crypto-browserify",
+          "observedAt": "2026-11-16T10:34:58.760Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/crypto-browserify",
+          "observedAt": "2026-11-16T10:34:58.760Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/crypto-browserify",
+          "observedAt": "2026-11-16T10:34:58.760Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/crypto-browserify",
+          "observedAt": "2026-11-16T10:34:58.760Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "crypto-browserify",
+      "semver": "3.2.3",
+      "publishedAt": "2014-09-24T19:20:48.876Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/crypto-browserify",
+          "observedAt": "2026-11-16T10:34:58.760Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "crypto-browserify",
+      "semver": "3.9.6",
+      "publishedAt": "2015-01-14T08:57:55.771Z",
+      "publisher": "dominictarr",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "sha.js": "2.3.6",
+        "inherits": "^2.0.1",
+        "ripemd160": "0.2.0",
+        "create-ecdh": "1.0.3",
+        "pbkdf2-compat": "2.0.1",
+        "browserify-aes": "0.8.1",
+        "diffie-hellman": "2.2.3",
+        "public-encrypt": "1.1.2",
+        "browserify-sign": "2.8.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/crypto-browserify",
+          "observedAt": "2026-11-16T10:34:58.760Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/crypto-browserify",
+          "observedAt": "2026-11-16T10:34:58.760Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/crypto-browserify",
+          "observedAt": "2026-11-16T10:34:58.760Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/crypto-browserify",
+          "observedAt": "2026-11-16T10:34:58.760Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/crypto-browserify",
+          "observedAt": "2026-11-16T10:34:58.760Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

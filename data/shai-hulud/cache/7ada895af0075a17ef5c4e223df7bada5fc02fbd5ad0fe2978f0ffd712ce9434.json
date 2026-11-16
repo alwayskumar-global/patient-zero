@@ -1,0 +1,116 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@nativescript-community/ui-image",
+  "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-image",
+  "fetchedAt": "2026-11-16T10:31:28.598Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 139
+  },
+  "sourceSha256": "8aa084b9ce9709fa202ceb9e27089880283937a9d1ca75df3bea6782c00c999d",
+  "versions": [
+    {
+      "pkg": "@nativescript-community/ui-image",
+      "semver": "4.0.15",
+      "publishedAt": "2020-11-22T22:08:39.773Z",
+      "publisher": "keerl",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 858491,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-image",
+          "observedAt": "2026-11-16T10:31:28.598Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-image",
+          "observedAt": "2026-11-16T10:31:28.598Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-image",
+          "observedAt": "2026-11-16T10:31:28.598Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-image",
+          "observedAt": "2026-11-16T10:31:28.598Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-image",
+          "observedAt": "2026-11-16T10:31:28.598Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-image",
+          "observedAt": "2026-11-16T10:31:28.598Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nativescript-community/ui-image",
+      "semver": "4.5.5",
+      "publishedAt": "2025-07-16T18:45:22.824Z",
+      "publisher": "farfromrefuge",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 1014020,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-image",
+          "observedAt": "2026-11-16T10:31:28.598Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-image",
+          "observedAt": "2026-11-16T10:31:28.598Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-image",
+          "observedAt": "2026-11-16T10:31:28.598Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-image",
+          "observedAt": "2026-11-16T10:31:28.598Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-image",
+          "observedAt": "2026-11-16T10:31:28.598Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-image",
+          "observedAt": "2026-11-16T10:31:28.598Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nativescript-community/ui-image",
+      "semver": "4.5.6",
+      "publishedAt": "2025-09-15T19:58:43.989Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-image",
+          "observedAt": "2026-11-16T10:31:28.598Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

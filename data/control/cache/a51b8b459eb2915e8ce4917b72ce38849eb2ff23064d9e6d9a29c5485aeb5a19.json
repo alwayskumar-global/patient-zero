@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "pkg": "esutils",
+  "source": "https://registry.npmjs.org/esutils",
+  "fetchedAt": "2026-11-16T10:35:01.637Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 13
+  },
+  "sourceSha256": "77e67dc80e2fb03e427ffa44bd5e934b9a7be9e0eff749fe33ab3e840f4b2f22",
+  "versions": [
+    {
+      "pkg": "esutils",
+      "semver": "1.1.6",
+      "publishedAt": "2014-11-22T14:05:52.024Z",
+      "publisher": "constellation",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/esutils",
+          "observedAt": "2026-11-16T10:35:01.637Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/esutils",
+          "observedAt": "2026-11-16T10:35:01.637Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/esutils",
+          "observedAt": "2026-11-16T10:35:01.637Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/esutils",
+          "observedAt": "2026-11-16T10:35:01.637Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/esutils",
+          "observedAt": "2026-11-16T10:35:01.637Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "esutils",
+      "semver": "2.0.3",
+      "publishedAt": "2019-07-31T01:10:54.228Z",
+      "publisher": "michaelficarra",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 50582,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/esutils",
+          "observedAt": "2026-11-16T10:35:01.637Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/esutils",
+          "observedAt": "2026-11-16T10:35:01.637Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/esutils",
+          "observedAt": "2026-11-16T10:35:01.637Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/esutils",
+          "observedAt": "2026-11-16T10:35:01.637Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/esutils",
+          "observedAt": "2026-11-16T10:35:01.637Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/esutils",
+          "observedAt": "2026-11-16T10:35:01.637Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

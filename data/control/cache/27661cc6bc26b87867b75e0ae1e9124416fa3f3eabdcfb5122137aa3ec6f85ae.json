@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@adobe/css-tools",
+  "source": "https://registry.npmjs.org/%40adobe%2Fcss-tools",
+  "fetchedAt": "2026-11-16T10:34:27.567Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 23
+  },
+  "sourceSha256": "ded115e5914ccb69e9ab414d3a3bde0b8282d4c73ea4c3c47c6145aab4ba2931",
+  "versions": [
+    {
+      "pkg": "@adobe/css-tools",
+      "semver": "4.4.3",
+      "publishedAt": "2025-05-19T15:55:02.669Z",
+      "publisher": "adobe-admin",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 205603,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40adobe%2Fcss-tools",
+          "observedAt": "2026-11-16T10:34:27.567Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40adobe%2Fcss-tools",
+          "observedAt": "2026-11-16T10:34:27.567Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40adobe%2Fcss-tools",
+          "observedAt": "2026-11-16T10:34:27.567Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40adobe%2Fcss-tools",
+          "observedAt": "2026-11-16T10:34:27.567Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40adobe%2Fcss-tools",
+          "observedAt": "2026-11-16T10:34:27.567Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40adobe%2Fcss-tools",
+          "observedAt": "2026-11-16T10:34:27.567Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

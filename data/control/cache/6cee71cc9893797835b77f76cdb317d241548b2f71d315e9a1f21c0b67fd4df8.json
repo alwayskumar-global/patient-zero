@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "bail",
+  "source": "https://registry.npmjs.org/bail",
+  "fetchedAt": "2026-11-16T10:34:56.628Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 9
+  },
+  "sourceSha256": "509eecfe58c03070c78c20ef5b6a6d928e5c651ec15bc8b2a46d86243f0ecf92",
+  "versions": [
+    {
+      "pkg": "bail",
+      "semver": "2.0.2",
+      "publishedAt": "2021-11-07T08:39:23.227Z",
+      "publisher": "wooorm",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 6353,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/bail",
+          "observedAt": "2026-11-16T10:34:56.628Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/bail",
+          "observedAt": "2026-11-16T10:34:56.628Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/bail",
+          "observedAt": "2026-11-16T10:34:56.628Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/bail",
+          "observedAt": "2026-11-16T10:34:56.628Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/bail",
+          "observedAt": "2026-11-16T10:34:56.628Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/bail",
+          "observedAt": "2026-11-16T10:34:56.628Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "pkg": "caniuse-api",
+  "source": "https://registry.npmjs.org/caniuse-api",
+  "fetchedAt": "2026-11-16T10:34:57.404Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 20
+  },
+  "sourceSha256": "f7d7a5cc6fd488c3babfecc88a49b9a696f6a04bb887d0eff3e570af19fd825a",
+  "versions": [
+    {
+      "pkg": "caniuse-api",
+      "semver": "1.5.3",
+      "publishedAt": "2017-02-01T07:22:54.178Z",
+      "publisher": "moox",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "caniuse-db": "^1.0.30000346",
+        "lodash.uniq": "^4.3.0",
+        "browserslist": "^1.0.1",
+        "lodash.memoize": "^4.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/caniuse-api",
+          "observedAt": "2026-11-16T10:34:57.404Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/caniuse-api",
+          "observedAt": "2026-11-16T10:34:57.404Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/caniuse-api",
+          "observedAt": "2026-11-16T10:34:57.404Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/caniuse-api",
+          "observedAt": "2026-11-16T10:34:57.404Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/caniuse-api",
+          "observedAt": "2026-11-16T10:34:57.404Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "caniuse-api",
+      "semver": "1.6.0",
+      "publishedAt": "2017-04-06T15:16:13.766Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/caniuse-api",
+          "observedAt": "2026-11-16T10:34:57.404Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "caniuse-api",
+      "semver": "3.0.0",
+      "publishedAt": "2018-07-10T15:24:13.492Z",
+      "publisher": "nyalab",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 12212,
+      "dependencies": {
+        "lodash.uniq": "^4.5.0",
+        "browserslist": "^4.0.0",
+        "caniuse-lite": "^1.0.0",
+        "lodash.memoize": "^4.1.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/caniuse-api",
+          "observedAt": "2026-11-16T10:34:57.404Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/caniuse-api",
+          "observedAt": "2026-11-16T10:34:57.404Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/caniuse-api",
+          "observedAt": "2026-11-16T10:34:57.404Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/caniuse-api",
+          "observedAt": "2026-11-16T10:34:57.404Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/caniuse-api",
+          "observedAt": "2026-11-16T10:34:57.404Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/caniuse-api",
+          "observedAt": "2026-11-16T10:34:57.404Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

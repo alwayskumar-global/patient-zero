@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "create-require",
+  "source": "https://registry.npmjs.org/create-require",
+  "fetchedAt": "2026-11-16T10:34:58.699Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 7
+  },
+  "sourceSha256": "decc1e0d4d964c3f85667fc084a30d789ee0e549c881293f63100b0b779b297f",
+  "versions": [
+    {
+      "pkg": "create-require",
+      "semver": "1.1.1",
+      "publishedAt": "2020-11-26T13:41:32.498Z",
+      "publisher": "pi0",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 6254,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/create-require",
+          "observedAt": "2026-11-16T10:34:58.699Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/create-require",
+          "observedAt": "2026-11-16T10:34:58.699Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/create-require",
+          "observedAt": "2026-11-16T10:34:58.699Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/create-require",
+          "observedAt": "2026-11-16T10:34:58.699Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/create-require",
+          "observedAt": "2026-11-16T10:34:58.699Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/create-require",
+          "observedAt": "2026-11-16T10:34:58.699Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

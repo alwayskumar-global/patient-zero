@@ -1,0 +1,225 @@
+{
+  "schemaVersion": 1,
+  "pkg": "copy-webpack-plugin",
+  "source": "https://registry.npmjs.org/copy-webpack-plugin",
+  "fetchedAt": "2026-11-16T10:34:58.490Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 84
+  },
+  "sourceSha256": "666e922aef125ebdc9027e6a5217854fafc266aeecd5f613eb081fbed45a20ea",
+  "versions": [
+    {
+      "pkg": "copy-webpack-plugin",
+      "semver": "13.0.0",
+      "publishedAt": "2025-02-27T22:00:56.211Z",
+      "publisher": "evilebottnawi",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 74928,
+      "dependencies": {
+        "tinyglobby": "^0.2.12",
+        "glob-parent": "^6.0.1",
+        "schema-utils": "^4.2.0",
+        "normalize-path": "^3.0.0",
+        "serialize-javascript": "^6.0.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/copy-webpack-plugin",
+          "observedAt": "2026-11-16T10:34:58.490Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/copy-webpack-plugin",
+          "observedAt": "2026-11-16T10:34:58.490Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/copy-webpack-plugin",
+          "observedAt": "2026-11-16T10:34:58.490Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/copy-webpack-plugin",
+          "observedAt": "2026-11-16T10:34:58.490Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/copy-webpack-plugin",
+          "observedAt": "2026-11-16T10:34:58.490Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/copy-webpack-plugin",
+          "observedAt": "2026-11-16T10:34:58.490Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "copy-webpack-plugin",
+      "semver": "4.0.1",
+      "publishedAt": "2016-11-14T01:10:38.712Z",
+      "publisher": "kevlened",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "glob": "^6.0.4",
+        "lodash": "^4.3.0",
+        "is-glob": "^3.1.0",
+        "bluebird": "^2.10.2",
+        "fs-extra": "^0.26.4",
+        "node-dir": "^0.1.10",
+        "minimatch": "^3.0.0",
+        "loader-utils": "^0.2.15"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/copy-webpack-plugin",
+          "observedAt": "2026-11-16T10:34:58.490Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/copy-webpack-plugin",
+          "observedAt": "2026-11-16T10:34:58.490Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/copy-webpack-plugin",
+          "observedAt": "2026-11-16T10:34:58.490Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/copy-webpack-plugin",
+          "observedAt": "2026-11-16T10:34:58.490Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/copy-webpack-plugin",
+          "observedAt": "2026-11-16T10:34:58.490Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "copy-webpack-plugin",
+      "semver": "4.2.2",
+      "publishedAt": "2017-11-23T09:35:43.402Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/copy-webpack-plugin",
+          "observedAt": "2026-11-16T10:34:58.490Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "copy-webpack-plugin",
+      "semver": "4.3.1",
+      "publishedAt": "2017-12-22T12:29:53.460Z",
+      "publisher": "d3viant0ne",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "pify": "^3.0.0",
+        "globby": "^7.1.1",
+        "lodash": "^4.3.0",
+        "cacache": "^10.0.1",
+        "is-glob": "^4.0.0",
+        "p-limit": "^1.0.0",
+        "minimatch": "^3.0.4",
+        "loader-utils": "^0.2.15",
+        "find-cache-dir": "^1.0.0",
+        "serialize-javascript": "^1.4.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/copy-webpack-plugin",
+          "observedAt": "2026-11-16T10:34:58.490Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/copy-webpack-plugin",
+          "observedAt": "2026-11-16T10:34:58.490Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/copy-webpack-plugin",
+          "observedAt": "2026-11-16T10:34:58.490Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/copy-webpack-plugin",
+          "observedAt": "2026-11-16T10:34:58.490Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/copy-webpack-plugin",
+          "observedAt": "2026-11-16T10:34:58.490Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "copy-webpack-plugin",
+      "semver": "4.5.4",
+      "publishedAt": "2018-10-18T22:58:27.211Z",
+      "publisher": "michael-ciniawsky",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 47983,
+      "dependencies": {
+        "globby": "^7.1.1",
+        "cacache": "^10.0.4",
+        "is-glob": "^4.0.0",
+        "p-limit": "^1.0.0",
+        "minimatch": "^3.0.4",
+        "loader-utils": "^1.1.0",
+        "find-cache-dir": "^1.0.0",
+        "serialize-javascript": "^1.4.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/copy-webpack-plugin",
+          "observedAt": "2026-11-16T10:34:58.490Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/copy-webpack-plugin",
+          "observedAt": "2026-11-16T10:34:58.490Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/copy-webpack-plugin",
+          "observedAt": "2026-11-16T10:34:58.490Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/copy-webpack-plugin",
+          "observedAt": "2026-11-16T10:34:58.490Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/copy-webpack-plugin",
+          "observedAt": "2026-11-16T10:34:58.490Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/copy-webpack-plugin",
+          "observedAt": "2026-11-16T10:34:58.490Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

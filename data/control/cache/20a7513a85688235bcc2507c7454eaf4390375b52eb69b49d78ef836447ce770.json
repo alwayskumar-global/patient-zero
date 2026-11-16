@@ -1,0 +1,191 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@babel/helper-split-export-declaration",
+  "source": "https://registry.npmjs.org/%40babel%2Fhelper-split-export-declaration",
+  "fetchedAt": "2026-11-16T10:34:31.396Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 60
+  },
+  "sourceSha256": "f97b9268da8f510f01b3d0d87f05da8118199a8053e8de27c8bd656cd61f80f6",
+  "versions": [
+    {
+      "pkg": "@babel/helper-split-export-declaration",
+      "semver": "7.0.0",
+      "publishedAt": "2018-08-27T21:42:12.717Z",
+      "publisher": "hzoo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 4576,
+      "dependencies": {
+        "@babel/types": "^7.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-split-export-declaration",
+          "observedAt": "2026-11-16T10:34:31.396Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-split-export-declaration",
+          "observedAt": "2026-11-16T10:34:31.396Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-split-export-declaration",
+          "observedAt": "2026-11-16T10:34:31.396Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-split-export-declaration",
+          "observedAt": "2026-11-16T10:34:31.396Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-split-export-declaration",
+          "observedAt": "2026-11-16T10:34:31.396Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-split-export-declaration",
+          "observedAt": "2026-11-16T10:34:31.396Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/helper-split-export-declaration",
+      "semver": "7.0.0-beta.49",
+      "publishedAt": "2018-05-25T16:00:51.384Z",
+      "publisher": "loganfsmyth",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 3556,
+      "dependencies": {
+        "@babel/types": "7.0.0-beta.49"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-split-export-declaration",
+          "observedAt": "2026-11-16T10:34:31.396Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-split-export-declaration",
+          "observedAt": "2026-11-16T10:34:31.396Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-split-export-declaration",
+          "observedAt": "2026-11-16T10:34:31.396Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-split-export-declaration",
+          "observedAt": "2026-11-16T10:34:31.396Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-split-export-declaration",
+          "observedAt": "2026-11-16T10:34:31.396Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-split-export-declaration",
+          "observedAt": "2026-11-16T10:34:31.396Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/helper-split-export-declaration",
+      "semver": "7.11.0",
+      "publishedAt": "2020-07-30T21:27:25.533Z",
+      "publisher": "jlhwung",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 4999,
+      "dependencies": {
+        "@babel/types": "^7.11.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-split-export-declaration",
+          "observedAt": "2026-11-16T10:34:31.396Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-split-export-declaration",
+          "observedAt": "2026-11-16T10:34:31.396Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-split-export-declaration",
+          "observedAt": "2026-11-16T10:34:31.396Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-split-export-declaration",
+          "observedAt": "2026-11-16T10:34:31.396Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-split-export-declaration",
+          "observedAt": "2026-11-16T10:34:31.396Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-split-export-declaration",
+          "observedAt": "2026-11-16T10:34:31.396Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/helper-split-export-declaration",
+      "semver": "8.0.0-alpha.11",
+      "publishedAt": "2024-06-07T09:15:40.943Z",
+      "publisher": "nicolo-ribaudo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 173864,
+      "dependencies": {
+        "@babel/types": "^8.0.0-alpha.11"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-split-export-declaration",
+          "observedAt": "2026-11-16T10:34:31.396Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-split-export-declaration",
+          "observedAt": "2026-11-16T10:34:31.396Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-split-export-declaration",
+          "observedAt": "2026-11-16T10:34:31.396Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-split-export-declaration",
+          "observedAt": "2026-11-16T10:34:31.396Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-split-export-declaration",
+          "observedAt": "2026-11-16T10:34:31.396Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-split-export-declaration",
+          "observedAt": "2026-11-16T10:34:31.396Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "text-decoder",
+  "source": "https://registry.npmjs.org/text-decoder",
+  "fetchedAt": "2026-11-16T10:35:28.965Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 12
+  },
+  "sourceSha256": "3125c4f8bedf4fd1be2ead2e0d51c67c62c55a5325ba74ab8283bb75bb0c6cd1",
+  "versions": [
+    {
+      "pkg": "text-decoder",
+      "semver": "1.2.3",
+      "publishedAt": "2024-12-14T07:20:45.554Z",
+      "publisher": "kasperisager",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 17581,
+      "dependencies": {
+        "b4a": "^1.6.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/text-decoder",
+          "observedAt": "2026-11-16T10:35:28.965Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/text-decoder",
+          "observedAt": "2026-11-16T10:35:28.965Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/text-decoder",
+          "observedAt": "2026-11-16T10:35:28.965Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/text-decoder",
+          "observedAt": "2026-11-16T10:35:28.965Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/text-decoder",
+          "observedAt": "2026-11-16T10:35:28.965Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/text-decoder",
+          "observedAt": "2026-11-16T10:35:28.965Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

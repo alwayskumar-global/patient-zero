@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@svgr/babel-plugin-svg-dynamic-title",
+  "source": "https://registry.npmjs.org/%40svgr%2Fbabel-plugin-svg-dynamic-title",
+  "fetchedAt": "2026-11-16T10:34:42.600Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 16
+  },
+  "sourceSha256": "8c6c504c2ce80f662bd238a101ba510f114807fb792900b0d259ca072c262a41",
+  "versions": [
+    {
+      "pkg": "@svgr/babel-plugin-svg-dynamic-title",
+      "semver": "8.0.0",
+      "publishedAt": "2023-05-09T07:03:16.837Z",
+      "publisher": "neoziro",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 13835,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40svgr%2Fbabel-plugin-svg-dynamic-title",
+          "observedAt": "2026-11-16T10:34:42.600Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40svgr%2Fbabel-plugin-svg-dynamic-title",
+          "observedAt": "2026-11-16T10:34:42.600Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40svgr%2Fbabel-plugin-svg-dynamic-title",
+          "observedAt": "2026-11-16T10:34:42.600Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40svgr%2Fbabel-plugin-svg-dynamic-title",
+          "observedAt": "2026-11-16T10:34:42.600Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40svgr%2Fbabel-plugin-svg-dynamic-title",
+          "observedAt": "2026-11-16T10:34:42.600Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40svgr%2Fbabel-plugin-svg-dynamic-title",
+          "observedAt": "2026-11-16T10:34:42.600Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "pkg": "ora",
+  "source": "https://registry.npmjs.org/ora",
+  "fetchedAt": "2026-11-16T10:35:16.364Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 58
+  },
+  "sourceSha256": "32546a5968a64e11882db6fef709f040c5dcec5603d69150bb22efc141f758cb",
+  "versions": [
+    {
+      "pkg": "ora",
+      "semver": "8.2.0",
+      "publishedAt": "2025-02-02T07:26:16.712Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 27514,
+      "dependencies": {
+        "chalk": "^5.3.0",
+        "cli-cursor": "^5.0.0",
+        "strip-ansi": "^7.1.0",
+        "log-symbols": "^6.0.0",
+        "cli-spinners": "^2.9.2",
+        "string-width": "^7.2.0",
+        "is-interactive": "^2.0.0",
+        "stdin-discarder": "^0.2.2",
+        "is-unicode-supported": "^2.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ora",
+          "observedAt": "2026-11-16T10:35:16.364Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ora",
+          "observedAt": "2026-11-16T10:35:16.364Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ora",
+          "observedAt": "2026-11-16T10:35:16.364Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ora",
+          "observedAt": "2026-11-16T10:35:16.364Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/ora",
+          "observedAt": "2026-11-16T10:35:16.364Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ora",
+          "observedAt": "2026-11-16T10:35:16.364Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

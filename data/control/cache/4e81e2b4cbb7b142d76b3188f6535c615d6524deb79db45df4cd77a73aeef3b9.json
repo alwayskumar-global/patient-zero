@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "normalize-url",
+  "source": "https://registry.npmjs.org/normalize-url",
+  "fetchedAt": "2026-11-16T10:35:15.462Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 58
+  },
+  "sourceSha256": "9a8f0dfb71d0845589b7ab7276d408fb9967d74ce7920c7ec43d4d0e544a3cd0",
+  "versions": [
+    {
+      "pkg": "normalize-url",
+      "semver": "8.0.2",
+      "publishedAt": "2025-06-09T10:32:18.793Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 25876,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/normalize-url",
+          "observedAt": "2026-11-16T10:35:15.462Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/normalize-url",
+          "observedAt": "2026-11-16T10:35:15.462Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/normalize-url",
+          "observedAt": "2026-11-16T10:35:15.462Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/normalize-url",
+          "observedAt": "2026-11-16T10:35:15.462Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/normalize-url",
+          "observedAt": "2026-11-16T10:35:15.462Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/normalize-url",
+          "observedAt": "2026-11-16T10:35:15.462Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

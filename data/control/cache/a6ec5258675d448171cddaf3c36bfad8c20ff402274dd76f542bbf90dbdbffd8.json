@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@rollup/pluginutils",
+  "source": "https://registry.npmjs.org/%40rollup%2Fpluginutils",
+  "fetchedAt": "2026-11-16T10:34:38.440Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 33
+  },
+  "sourceSha256": "dcb91803805fd98780e0a218567815bae07370b390ade034231a684a800869c8",
+  "versions": [
+    {
+      "pkg": "@rollup/pluginutils",
+      "semver": "5.2.0",
+      "publishedAt": "2025-06-17T13:26:54.138Z",
+      "publisher": "shellscape",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 60812,
+      "dependencies": {
+        "picomatch": "^4.0.2",
+        "@types/estree": "^1.0.0",
+        "estree-walker": "^2.0.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40rollup%2Fpluginutils",
+          "observedAt": "2026-11-16T10:34:38.440Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40rollup%2Fpluginutils",
+          "observedAt": "2026-11-16T10:34:38.440Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40rollup%2Fpluginutils",
+          "observedAt": "2026-11-16T10:34:38.440Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40rollup%2Fpluginutils",
+          "observedAt": "2026-11-16T10:34:38.440Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40rollup%2Fpluginutils",
+          "observedAt": "2026-11-16T10:34:38.440Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40rollup%2Fpluginutils",
+          "observedAt": "2026-11-16T10:34:38.440Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

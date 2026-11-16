@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "zwitch",
+  "source": "https://registry.npmjs.org/zwitch",
+  "fetchedAt": "2026-11-16T10:35:35.613Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 11
+  },
+  "sourceSha256": "b84f9c0117e80867832ccdfb79c1cfd4131ec443e80966ec9ba876bc59c5a3d2",
+  "versions": [
+    {
+      "pkg": "zwitch",
+      "semver": "2.0.4",
+      "publishedAt": "2022-11-16T09:09:14.038Z",
+      "publisher": "wooorm",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 13752,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/zwitch",
+          "observedAt": "2026-11-16T10:35:35.613Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/zwitch",
+          "observedAt": "2026-11-16T10:35:35.613Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/zwitch",
+          "observedAt": "2026-11-16T10:35:35.613Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/zwitch",
+          "observedAt": "2026-11-16T10:35:35.613Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/zwitch",
+          "observedAt": "2026-11-16T10:35:35.613Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/zwitch",
+          "observedAt": "2026-11-16T10:35:35.613Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

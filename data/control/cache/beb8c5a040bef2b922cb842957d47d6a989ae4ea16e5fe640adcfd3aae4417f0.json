@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@nodelib/fs.walk",
+  "source": "https://registry.npmjs.org/%40nodelib%2Ffs.walk",
+  "fetchedAt": "2026-11-16T10:34:36.331Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 16
+  },
+  "sourceSha256": "d3db2cbbc9855e9edb8408c1359cae94b16ee0bdca01c4166d215d3bfca7eaab",
+  "versions": [
+    {
+      "pkg": "@nodelib/fs.walk",
+      "semver": "3.0.1",
+      "publishedAt": "2024-12-01T21:08:36.543Z",
+      "publisher": "mrmlnc",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 29801,
+      "dependencies": {
+        "@nodelib/fs.scandir": "4.0.1",
+        "fastq": "^1.15.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40nodelib%2Ffs.walk",
+          "observedAt": "2026-11-16T10:34:36.331Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40nodelib%2Ffs.walk",
+          "observedAt": "2026-11-16T10:34:36.331Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40nodelib%2Ffs.walk",
+          "observedAt": "2026-11-16T10:34:36.331Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40nodelib%2Ffs.walk",
+          "observedAt": "2026-11-16T10:34:36.331Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40nodelib%2Ffs.walk",
+          "observedAt": "2026-11-16T10:34:36.331Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nodelib%2Ffs.walk",
+          "observedAt": "2026-11-16T10:34:36.331Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

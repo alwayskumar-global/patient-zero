@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "postgres-interval",
+  "source": "https://registry.npmjs.org/postgres-interval",
+  "fetchedAt": "2026-11-16T10:35:20.993Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 15
+  },
+  "sourceSha256": "ba1f794dad16a8cc25b38551ddf6980dca28714c77786a8a6a58ad73a13a8e54",
+  "versions": [
+    {
+      "pkg": "postgres-interval",
+      "semver": "4.0.2",
+      "publishedAt": "2024-01-29T22:56:37.078Z",
+      "publisher": "bendrucker",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 12007,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/postgres-interval",
+          "observedAt": "2026-11-16T10:35:20.993Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/postgres-interval",
+          "observedAt": "2026-11-16T10:35:20.993Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/postgres-interval",
+          "observedAt": "2026-11-16T10:35:20.993Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/postgres-interval",
+          "observedAt": "2026-11-16T10:35:20.993Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/postgres-interval",
+          "observedAt": "2026-11-16T10:35:20.993Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/postgres-interval",
+          "observedAt": "2026-11-16T10:35:20.993Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

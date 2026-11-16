@@ -1,0 +1,8 @@
+{
+  "name": "incident-replay-example",
+  "lockfileVersion": 3,
+  "packages": {
+    "": {"name": "incident-replay-example", "dependencies": {"chalk": "5.6.1"}},
+    "node_modules/chalk": {"version": "5.6.1", "resolved": "https://registry.npmjs.org/chalk/-/chalk-5.6.1.tgz"}
+  }
+}

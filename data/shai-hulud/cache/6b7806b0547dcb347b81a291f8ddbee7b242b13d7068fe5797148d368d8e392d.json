@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "pkg": "voip-callkit",
+  "source": "https://registry.npmjs.org/voip-callkit",
+  "fetchedAt": "2026-11-16T10:32:31.913Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 13
+  },
+  "sourceSha256": "63fbd5770b56e4f7a2a3a1a4e7a0987a7fb7a5e537597e46ebc91ef7cd3345e2",
+  "versions": [
+    {
+      "pkg": "voip-callkit",
+      "semver": "1.0.1",
+      "publishedAt": "2022-11-08T09:13:51.447Z",
+      "publisher": "vamsi3293",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 183107,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/voip-callkit",
+          "observedAt": "2026-11-16T10:32:31.913Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/voip-callkit",
+          "observedAt": "2026-11-16T10:32:31.913Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/voip-callkit",
+          "observedAt": "2026-11-16T10:32:31.913Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/voip-callkit",
+          "observedAt": "2026-11-16T10:32:31.913Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/voip-callkit",
+          "observedAt": "2026-11-16T10:32:31.913Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/voip-callkit",
+          "observedAt": "2026-11-16T10:32:31.913Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "voip-callkit",
+      "semver": "1.0.2",
+      "publishedAt": "2025-09-15T04:54:49.223Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/voip-callkit",
+          "observedAt": "2026-11-16T10:32:31.913Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "voip-callkit",
+      "semver": "1.0.3",
+      "publishedAt": "2025-09-16T07:41:40.934Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/voip-callkit",
+          "observedAt": "2026-11-16T10:32:31.913Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

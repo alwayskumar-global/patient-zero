@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@crowdstrike/commitlint",
+  "source": "https://registry.npmjs.org/%40crowdstrike%2Fcommitlint",
+  "fetchedAt": "2026-11-16T10:31:06.331Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 27
+  },
+  "sourceSha256": "7e5c4eddc1927317b575e5445164375fa472a256dbf112b20864d5b1eb79e3a7",
+  "versions": [
+    {
+      "pkg": "@crowdstrike/commitlint",
+      "semver": "1.0.4",
+      "publishedAt": "2019-09-15T18:27:53.077Z",
+      "publisher": "kellyselden",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 8860,
+      "dependencies": {
+        "debug": "^4.1.1",
+        "@commitlint/lint": "^8.1.0",
+        "@commitlint/load": "^8.1.0",
+        "@commitlint/read": "^8.1.0",
+        "@commitlint/format": "^8.1.0",
+        "commitlint-format-junit": "^1.1.4",
+        "@commitlint/config-conventional": "^8.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40crowdstrike%2Fcommitlint",
+          "observedAt": "2026-11-16T10:31:06.331Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40crowdstrike%2Fcommitlint",
+          "observedAt": "2026-11-16T10:31:06.331Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40crowdstrike%2Fcommitlint",
+          "observedAt": "2026-11-16T10:31:06.331Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40crowdstrike%2Fcommitlint",
+          "observedAt": "2026-11-16T10:31:06.331Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40crowdstrike%2Fcommitlint",
+          "observedAt": "2026-11-16T10:31:06.331Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40crowdstrike%2Fcommitlint",
+          "observedAt": "2026-11-16T10:31:06.331Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@crowdstrike/commitlint",
+      "semver": "8.1.0",
+      "publishedAt": "2025-08-06T20:37:12.526Z",
+      "publisher": "crowdstrike-publisher",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 9472,
+      "dependencies": {
+        "debug": "^4.1.1",
+        "execa": "^9.0.0",
+        "yargs": "^17.0.0",
+        "@commitlint/lint": "^19.0.0",
+        "@commitlint/load": "^19.0.0",
+        "@commitlint/read": "^19.0.0",
+        "@commitlint/format": "^19.0.0",
+        "commitlint-format-junit": "^1.1.4",
+        "@commitlint/config-conventional": "^19.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40crowdstrike%2Fcommitlint",
+          "observedAt": "2026-11-16T10:31:06.331Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40crowdstrike%2Fcommitlint",
+          "observedAt": "2026-11-16T10:31:06.331Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40crowdstrike%2Fcommitlint",
+          "observedAt": "2026-11-16T10:31:06.331Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40crowdstrike%2Fcommitlint",
+          "observedAt": "2026-11-16T10:31:06.331Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40crowdstrike%2Fcommitlint",
+          "observedAt": "2026-11-16T10:31:06.331Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40crowdstrike%2Fcommitlint",
+          "observedAt": "2026-11-16T10:31:06.331Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@crowdstrike/commitlint",
+      "semver": "8.1.1",
+      "publishedAt": "2025-09-16T01:14:39.134Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40crowdstrike%2Fcommitlint",
+          "observedAt": "2026-11-16T10:31:06.331Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@crowdstrike/commitlint",
+      "semver": "8.1.2",
+      "publishedAt": "2025-09-16T01:22:17.594Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40crowdstrike%2Fcommitlint",
+          "observedAt": "2026-11-16T10:31:06.331Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

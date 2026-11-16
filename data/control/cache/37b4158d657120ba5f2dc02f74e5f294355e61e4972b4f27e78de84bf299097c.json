@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "dequal",
+  "source": "https://registry.npmjs.org/dequal",
+  "fetchedAt": "2026-11-16T10:34:59.637Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 7
+  },
+  "sourceSha256": "7428cac8f1731a190b60b1d090c3de6b2d7d4441dd1b983d7fbd7d913eb72844",
+  "versions": [
+    {
+      "pkg": "dequal",
+      "semver": "2.0.3",
+      "publishedAt": "2022-07-11T23:29:04.965Z",
+      "publisher": "lukeed",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 14229,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/dequal",
+          "observedAt": "2026-11-16T10:34:59.637Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/dequal",
+          "observedAt": "2026-11-16T10:34:59.637Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/dequal",
+          "observedAt": "2026-11-16T10:34:59.637Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/dequal",
+          "observedAt": "2026-11-16T10:34:59.637Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/dequal",
+          "observedAt": "2026-11-16T10:34:59.637Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/dequal",
+          "observedAt": "2026-11-16T10:34:59.637Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

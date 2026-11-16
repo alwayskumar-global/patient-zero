@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@babel/plugin-transform-private-property-in-object",
+  "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-private-property-in-object",
+  "fetchedAt": "2026-11-16T10:34:33.125Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 48
+  },
+  "sourceSha256": "58866237805a059d8bc9aded419751989f2ee3db9a1b0ffa876efacf923a1e5f",
+  "versions": [
+    {
+      "pkg": "@babel/plugin-transform-private-property-in-object",
+      "semver": "8.0.0-beta.1",
+      "publishedAt": "2025-07-02T09:04:53.345Z",
+      "publisher": "nicolo-ribaudo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 20070,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "^8.0.0-beta.1",
+        "@babel/helper-annotate-as-pure": "^8.0.0-beta.1",
+        "@babel/helper-create-class-features-plugin": "^8.0.0-beta.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-private-property-in-object",
+          "observedAt": "2026-11-16T10:34:33.125Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-private-property-in-object",
+          "observedAt": "2026-11-16T10:34:33.125Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-private-property-in-object",
+          "observedAt": "2026-11-16T10:34:33.125Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-private-property-in-object",
+          "observedAt": "2026-11-16T10:34:33.125Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-private-property-in-object",
+          "observedAt": "2026-11-16T10:34:33.125Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-private-property-in-object",
+          "observedAt": "2026-11-16T10:34:33.125Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

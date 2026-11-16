@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "pkg": "ajv-formats",
+  "source": "https://registry.npmjs.org/ajv-formats",
+  "fetchedAt": "2026-11-16T10:34:55.335Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 36
+  },
+  "sourceSha256": "f29397500377fbca77948d710f7434fd3d190fe2c29ab5eb46f20d69b4400816",
+  "versions": [
+    {
+      "pkg": "ajv-formats",
+      "semver": "1.4.1",
+      "publishedAt": "2020-01-24T01:46:22.337Z",
+      "publisher": "additiveamateur",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 18535,
+      "dependencies": {
+        "isemail": "^3.2.0",
+        "punycode": "^2.1.1",
+        "schemes": "^1.1.1",
+        "uri-js": "^4.2.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ajv-formats",
+          "observedAt": "2026-11-16T10:34:55.335Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ajv-formats",
+          "observedAt": "2026-11-16T10:34:55.335Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ajv-formats",
+          "observedAt": "2026-11-16T10:34:55.335Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ajv-formats",
+          "observedAt": "2026-11-16T10:34:55.335Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/ajv-formats",
+          "observedAt": "2026-11-16T10:34:55.335Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ajv-formats",
+          "observedAt": "2026-11-16T10:34:55.335Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ajv-formats",
+      "semver": "3.0.0-rc.0",
+      "publishedAt": "2021-11-07T19:08:56.622Z",
+      "publisher": "esp",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 56824,
+      "dependencies": {
+        "ajv": "^8.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ajv-formats",
+          "observedAt": "2026-11-16T10:34:55.335Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ajv-formats",
+          "observedAt": "2026-11-16T10:34:55.335Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ajv-formats",
+          "observedAt": "2026-11-16T10:34:55.335Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ajv-formats",
+          "observedAt": "2026-11-16T10:34:55.335Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/ajv-formats",
+          "observedAt": "2026-11-16T10:34:55.335Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ajv-formats",
+          "observedAt": "2026-11-16T10:34:55.335Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ajv-formats",
+      "semver": "3.0.1",
+      "publishedAt": "2024-03-30T11:30:26.728Z",
+      "publisher": "jason-green",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 56763,
+      "dependencies": {
+        "ajv": "^8.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ajv-formats",
+          "observedAt": "2026-11-16T10:34:55.335Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ajv-formats",
+          "observedAt": "2026-11-16T10:34:55.335Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ajv-formats",
+          "observedAt": "2026-11-16T10:34:55.335Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ajv-formats",
+          "observedAt": "2026-11-16T10:34:55.335Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/ajv-formats",
+          "observedAt": "2026-11-16T10:34:55.335Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ajv-formats",
+          "observedAt": "2026-11-16T10:34:55.335Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

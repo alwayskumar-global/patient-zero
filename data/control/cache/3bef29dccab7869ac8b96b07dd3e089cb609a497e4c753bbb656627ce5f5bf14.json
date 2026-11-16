@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "pkg": "fd-slicer",
+  "source": "https://registry.npmjs.org/fd-slicer",
+  "fetchedAt": "2026-11-16T10:35:02.228Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 12
+  },
+  "sourceSha256": "d2a801d77f8858dc8a5ea6fc7244073055dd029df1cf44dd02012042ebfc7a49",
+  "versions": [
+    {
+      "pkg": "fd-slicer",
+      "semver": "1.0.1",
+      "publishedAt": "2015-01-12T16:34:28.804Z",
+      "publisher": "superjoe",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "pend": "~1.2.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/fd-slicer",
+          "observedAt": "2026-11-16T10:35:02.228Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/fd-slicer",
+          "observedAt": "2026-11-16T10:35:02.228Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/fd-slicer",
+          "observedAt": "2026-11-16T10:35:02.228Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/fd-slicer",
+          "observedAt": "2026-11-16T10:35:02.228Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/fd-slicer",
+          "observedAt": "2026-11-16T10:35:02.228Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "fd-slicer",
+      "semver": "1.1.0",
+      "publishedAt": "2018-06-03T23:28:22.683Z",
+      "publisher": "thejoshwolfe",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 29813,
+      "dependencies": {
+        "pend": "~1.2.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/fd-slicer",
+          "observedAt": "2026-11-16T10:35:02.228Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/fd-slicer",
+          "observedAt": "2026-11-16T10:35:02.228Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/fd-slicer",
+          "observedAt": "2026-11-16T10:35:02.228Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/fd-slicer",
+          "observedAt": "2026-11-16T10:35:02.228Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/fd-slicer",
+          "observedAt": "2026-11-16T10:35:02.228Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/fd-slicer",
+          "observedAt": "2026-11-16T10:35:02.228Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

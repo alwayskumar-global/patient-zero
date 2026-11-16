@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "prettier-linter-helpers",
+  "source": "https://registry.npmjs.org/prettier-linter-helpers",
+  "fetchedAt": "2026-11-16T10:35:21.108Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 3
+  },
+  "sourceSha256": "ece632979ab70787fd99857a4c6ca4fe6e14454a04888758473aa74230e9b817",
+  "versions": [
+    {
+      "pkg": "prettier-linter-helpers",
+      "semver": "1.0.0",
+      "publishedAt": "2018-10-01T04:28:34.826Z",
+      "publisher": "bpscott",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 9578,
+      "dependencies": {
+        "fast-diff": "^1.1.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/prettier-linter-helpers",
+          "observedAt": "2026-11-16T10:35:21.108Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/prettier-linter-helpers",
+          "observedAt": "2026-11-16T10:35:21.108Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/prettier-linter-helpers",
+          "observedAt": "2026-11-16T10:35:21.108Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/prettier-linter-helpers",
+          "observedAt": "2026-11-16T10:35:21.108Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/prettier-linter-helpers",
+          "observedAt": "2026-11-16T10:35:21.108Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/prettier-linter-helpers",
+          "observedAt": "2026-11-16T10:35:21.108Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

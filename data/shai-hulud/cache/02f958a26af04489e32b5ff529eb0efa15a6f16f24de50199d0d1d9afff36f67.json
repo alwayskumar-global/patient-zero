@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "pkg": "tg-redbird",
+  "source": "https://registry.npmjs.org/tg-redbird",
+  "fetchedAt": "2026-11-16T10:32:29.717Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 8
+  },
+  "sourceSha256": "266116411f03796861289b7b83104d44fa452f6135f3b3f417afca3494d2fa73",
+  "versions": [
+    {
+      "pkg": "tg-redbird",
+      "semver": "1.3.0",
+      "publishedAt": "2025-02-28T18:49:36.626Z",
+      "publisher": "teselagen-admin",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 56242,
+      "dependencies": {
+        "pino": "^5.15.0",
+        "spdy": "^4.0.1",
+        "lodash": "^4.17.15",
+        "dolphin": "*",
+        "bluebird": "^2.11.0 || ^3.7.2",
+        "greenlock": "^2.8.8",
+        "lru-cache": "^5.1.1",
+        "valid-url": "^1.0.9",
+        "http-proxy": "^1.18.0",
+        "object-hash": "^1.3.1",
+        "safetimeout": "^0.1.2",
+        "le-challenge-fs": "^2.0.9",
+        "le-store-certbot": "^2.2.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/tg-redbird",
+          "observedAt": "2026-11-16T10:32:29.717Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/tg-redbird",
+          "observedAt": "2026-11-16T10:32:29.717Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/tg-redbird",
+          "observedAt": "2026-11-16T10:32:29.717Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/tg-redbird",
+          "observedAt": "2026-11-16T10:32:29.717Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/tg-redbird",
+          "observedAt": "2026-11-16T10:32:29.717Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/tg-redbird",
+          "observedAt": "2026-11-16T10:32:29.717Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "tg-redbird",
+      "semver": "1.3.1",
+      "publishedAt": "2025-09-14T21:01:43.304Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/tg-redbird",
+          "observedAt": "2026-11-16T10:32:29.717Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "tg-redbird",
+      "semver": "1.3.2",
+      "publishedAt": "2025-09-16T02:33:09.943Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/tg-redbird",
+          "observedAt": "2026-11-16T10:32:29.717Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

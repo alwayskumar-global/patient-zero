@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@babel/plugin-syntax-json-strings",
+  "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-json-strings",
+  "fetchedAt": "2026-11-16T10:34:32.095Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 19
+  },
+  "sourceSha256": "ef17f3f22e2f0c2fccb433239ff5982142c812ec9f5804c94f20516bfeec6abf",
+  "versions": [
+    {
+      "pkg": "@babel/plugin-syntax-json-strings",
+      "semver": "7.0.0",
+      "publishedAt": "2018-08-27T21:42:38.051Z",
+      "publisher": "hzoo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 2590,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "^7.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-json-strings",
+          "observedAt": "2026-11-16T10:34:32.095Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-json-strings",
+          "observedAt": "2026-11-16T10:34:32.095Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-json-strings",
+          "observedAt": "2026-11-16T10:34:32.095Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-json-strings",
+          "observedAt": "2026-11-16T10:34:32.095Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-json-strings",
+          "observedAt": "2026-11-16T10:34:32.095Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-json-strings",
+          "observedAt": "2026-11-16T10:34:32.095Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/plugin-syntax-json-strings",
+      "semver": "7.0.0-beta.49",
+      "publishedAt": "2018-05-25T16:01:17.878Z",
+      "publisher": "loganfsmyth",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 1645,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "7.0.0-beta.49"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-json-strings",
+          "observedAt": "2026-11-16T10:34:32.095Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-json-strings",
+          "observedAt": "2026-11-16T10:34:32.095Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-json-strings",
+          "observedAt": "2026-11-16T10:34:32.095Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-json-strings",
+          "observedAt": "2026-11-16T10:34:32.095Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-json-strings",
+          "observedAt": "2026-11-16T10:34:32.095Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-json-strings",
+          "observedAt": "2026-11-16T10:34:32.095Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/plugin-syntax-json-strings",
+      "semver": "7.8.3",
+      "publishedAt": "2020-01-13T21:13:07.023Z",
+      "publisher": "nicolo-ribaudo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 2578,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "^7.8.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-json-strings",
+          "observedAt": "2026-11-16T10:34:32.095Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-json-strings",
+          "observedAt": "2026-11-16T10:34:32.095Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-json-strings",
+          "observedAt": "2026-11-16T10:34:32.095Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-json-strings",
+          "observedAt": "2026-11-16T10:34:32.095Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-json-strings",
+          "observedAt": "2026-11-16T10:34:32.095Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-json-strings",
+          "observedAt": "2026-11-16T10:34:32.095Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

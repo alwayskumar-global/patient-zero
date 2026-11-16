@@ -1,0 +1,200 @@
+{
+  "schemaVersion": 1,
+  "pkg": "stack-trace",
+  "source": "https://registry.npmjs.org/stack-trace",
+  "fetchedAt": "2026-11-16T10:35:27.118Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 13
+  },
+  "sourceSha256": "c03c28f9be1ee24797b9c019da5d4975190938ccf9b3c54c5c7170007cbd994b",
+  "versions": [
+    {
+      "pkg": "stack-trace",
+      "semver": "0.0.10",
+      "publishedAt": "2017-05-16T07:07:13.840Z",
+      "publisher": "felixge",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/stack-trace",
+          "observedAt": "2026-11-16T10:35:27.118Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/stack-trace",
+          "observedAt": "2026-11-16T10:35:27.118Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/stack-trace",
+          "observedAt": "2026-11-16T10:35:27.118Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/stack-trace",
+          "observedAt": "2026-11-16T10:35:27.118Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/stack-trace",
+          "observedAt": "2026-11-16T10:35:27.118Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "stack-trace",
+      "semver": "0.0.6",
+      "publishedAt": "2011-08-01T16:58:53.033Z",
+      "publisher": null,
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/stack-trace",
+          "observedAt": "2026-11-16T10:35:27.118Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/stack-trace",
+          "observedAt": "2026-11-16T10:35:27.118Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/stack-trace",
+          "observedAt": "2026-11-16T10:35:27.118Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/stack-trace",
+          "observedAt": "2026-11-16T10:35:27.118Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "stack-trace",
+      "semver": "0.0.7",
+      "publishedAt": "2013-07-17T20:55:05.848Z",
+      "publisher": "tim-smart",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/stack-trace",
+          "observedAt": "2026-11-16T10:35:27.118Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/stack-trace",
+          "observedAt": "2026-11-16T10:35:27.118Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/stack-trace",
+          "observedAt": "2026-11-16T10:35:27.118Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/stack-trace",
+          "observedAt": "2026-11-16T10:35:27.118Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/stack-trace",
+          "observedAt": "2026-11-16T10:35:27.118Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "stack-trace",
+      "semver": "0.0.9",
+      "publishedAt": "2014-02-20T10:40:57.111Z",
+      "publisher": "sebastianhoitz",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/stack-trace",
+          "observedAt": "2026-11-16T10:35:27.118Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/stack-trace",
+          "observedAt": "2026-11-16T10:35:27.118Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/stack-trace",
+          "observedAt": "2026-11-16T10:35:27.118Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/stack-trace",
+          "observedAt": "2026-11-16T10:35:27.118Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/stack-trace",
+          "observedAt": "2026-11-16T10:35:27.118Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "stack-trace",
+      "semver": "1.0.0-pre2",
+      "publishedAt": "2023-02-09T14:44:59.653Z",
+      "publisher": "niemyjski",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 18455,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/stack-trace",
+          "observedAt": "2026-11-16T10:35:27.118Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/stack-trace",
+          "observedAt": "2026-11-16T10:35:27.118Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/stack-trace",
+          "observedAt": "2026-11-16T10:35:27.118Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/stack-trace",
+          "observedAt": "2026-11-16T10:35:27.118Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/stack-trace",
+          "observedAt": "2026-11-16T10:35:27.118Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/stack-trace",
+          "observedAt": "2026-11-16T10:35:27.118Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "quick-lru",
+  "source": "https://registry.npmjs.org/quick-lru",
+  "fetchedAt": "2026-11-16T10:35:21.879Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 21
+  },
+  "sourceSha256": "2ed6481061723f59325a1356115520415d91093c02b1de8c64d18d3b4983104e",
+  "versions": [
+    {
+      "pkg": "quick-lru",
+      "semver": "7.0.1",
+      "publishedAt": "2025-04-09T09:28:52.343Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 15189,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/quick-lru",
+          "observedAt": "2026-11-16T10:35:21.879Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/quick-lru",
+          "observedAt": "2026-11-16T10:35:21.879Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/quick-lru",
+          "observedAt": "2026-11-16T10:35:21.879Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/quick-lru",
+          "observedAt": "2026-11-16T10:35:21.879Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/quick-lru",
+          "observedAt": "2026-11-16T10:35:21.879Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/quick-lru",
+          "observedAt": "2026-11-16T10:35:21.879Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "pkg": "unified",
+  "source": "https://registry.npmjs.org/unified",
+  "fetchedAt": "2026-11-16T10:35:31.320Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 57
+  },
+  "sourceSha256": "9d955723e84024e69bbd637167eb62f5976a6b060f05927832bc49d02a0c9932",
+  "versions": [
+    {
+      "pkg": "unified",
+      "semver": "11.0.5",
+      "publishedAt": "2024-06-19T12:33:43.464Z",
+      "publisher": "wooorm",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 145932,
+      "dependencies": {
+        "@types/unist": "^3.0.0",
+        "bail": "^2.0.0",
+        "devlop": "^1.0.0",
+        "extend": "^3.0.0",
+        "is-plain-obj": "^4.0.0",
+        "trough": "^2.0.0",
+        "vfile": "^6.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/unified",
+          "observedAt": "2026-11-16T10:35:31.320Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/unified",
+          "observedAt": "2026-11-16T10:35:31.320Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/unified",
+          "observedAt": "2026-11-16T10:35:31.320Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/unified",
+          "observedAt": "2026-11-16T10:35:31.320Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/unified",
+          "observedAt": "2026-11-16T10:35:31.320Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/unified",
+          "observedAt": "2026-11-16T10:35:31.320Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

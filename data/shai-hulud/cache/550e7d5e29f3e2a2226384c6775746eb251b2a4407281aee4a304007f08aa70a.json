@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@art-ws/ssl-info",
+  "source": "https://registry.npmjs.org/%40art-ws%2Fssl-info",
+  "fetchedAt": "2026-11-16T10:31:04.107Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 12
+  },
+  "sourceSha256": "eb635c2251b0464e377bdd2b327056ae86781d78270103ff7b1d6d1b2056bf7a",
+  "versions": [
+    {
+      "pkg": "@art-ws/ssl-info",
+      "semver": "1.0.10",
+      "publishedAt": "2025-09-15T08:58:38.961Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fssl-info",
+          "observedAt": "2026-11-16T10:31:04.107Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@art-ws/ssl-info",
+      "semver": "1.0.8",
+      "publishedAt": "2022-04-12T13:40:07.629Z",
+      "publisher": "art-ws",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 3298,
+      "dependencies": {
+        "yargs": "17.4.0",
+        "ssl-checker": "2.0.7"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fssl-info",
+          "observedAt": "2026-11-16T10:31:04.107Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fssl-info",
+          "observedAt": "2026-11-16T10:31:04.107Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fssl-info",
+          "observedAt": "2026-11-16T10:31:04.107Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fssl-info",
+          "observedAt": "2026-11-16T10:31:04.107Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fssl-info",
+          "observedAt": "2026-11-16T10:31:04.107Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fssl-info",
+          "observedAt": "2026-11-16T10:31:04.107Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@art-ws/ssl-info",
+      "semver": "1.0.9",
+      "publishedAt": "2025-09-15T05:21:20.927Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fssl-info",
+          "observedAt": "2026-11-16T10:31:04.107Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

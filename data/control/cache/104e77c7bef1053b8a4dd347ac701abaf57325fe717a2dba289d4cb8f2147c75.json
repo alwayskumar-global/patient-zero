@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "pkg": "react-hook-form",
+  "source": "https://registry.npmjs.org/react-hook-form",
+  "fetchedAt": "2026-11-16T10:35:22.721Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 1105
+  },
+  "sourceSha256": "30e4851d01d86b6b1c4e30d83d08b41cb982e9eac83484fd337f3239bb400c3e",
+  "versions": [
+    {
+      "pkg": "react-hook-form",
+      "semver": "7.61.1",
+      "publishedAt": "2025-07-24T12:22:03.373Z",
+      "publisher": "bluebill1049",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 1155439,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/react-hook-form",
+          "observedAt": "2026-11-16T10:35:22.721Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/react-hook-form",
+          "observedAt": "2026-11-16T10:35:22.721Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/react-hook-form",
+          "observedAt": "2026-11-16T10:35:22.721Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/react-hook-form",
+          "observedAt": "2026-11-16T10:35:22.721Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/react-hook-form",
+          "observedAt": "2026-11-16T10:35:22.721Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/react-hook-form",
+          "observedAt": "2026-11-16T10:35:22.721Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "react-hook-form",
+      "semver": "7.62.0",
+      "publishedAt": "2025-08-01T22:33:19.444Z",
+      "publisher": "bluebill1049",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 1157029,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/react-hook-form",
+          "observedAt": "2026-11-16T10:35:22.721Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/react-hook-form",
+          "observedAt": "2026-11-16T10:35:22.721Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/react-hook-form",
+          "observedAt": "2026-11-16T10:35:22.721Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/react-hook-form",
+          "observedAt": "2026-11-16T10:35:22.721Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/react-hook-form",
+          "observedAt": "2026-11-16T10:35:22.721Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/react-hook-form",
+          "observedAt": "2026-11-16T10:35:22.721Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

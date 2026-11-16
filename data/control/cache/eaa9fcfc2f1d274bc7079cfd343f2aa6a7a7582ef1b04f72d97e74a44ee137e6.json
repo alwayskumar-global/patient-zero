@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "pkg": "range-parser",
+  "source": "https://registry.npmjs.org/range-parser",
+  "fetchedAt": "2026-11-16T10:35:22.411Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 12
+  },
+  "sourceSha256": "f66b98b555bb25c8887ef20bd9aef12dfc4d0c9c7df2dfa58b1f3a2008e8b1b3",
+  "versions": [
+    {
+      "pkg": "range-parser",
+      "semver": "1.0.0",
+      "publishedAt": "2013-12-11T20:35:49.123Z",
+      "publisher": "tjholowaychuk",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/range-parser",
+          "observedAt": "2026-11-16T10:35:22.411Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/range-parser",
+          "observedAt": "2026-11-16T10:35:22.411Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/range-parser",
+          "observedAt": "2026-11-16T10:35:22.411Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/range-parser",
+          "observedAt": "2026-11-16T10:35:22.411Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/range-parser",
+          "observedAt": "2026-11-16T10:35:22.411Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "range-parser",
+      "semver": "1.0.1",
+      "publishedAt": "2014-09-08T01:00:41.796Z",
+      "publisher": "jongleberry",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/range-parser",
+          "observedAt": "2026-11-16T10:35:22.411Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/range-parser",
+          "observedAt": "2026-11-16T10:35:22.411Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/range-parser",
+          "observedAt": "2026-11-16T10:35:22.411Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/range-parser",
+          "observedAt": "2026-11-16T10:35:22.411Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/range-parser",
+          "observedAt": "2026-11-16T10:35:22.411Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "range-parser",
+      "semver": "1.2.1",
+      "publishedAt": "2019-05-11T00:27:37.805Z",
+      "publisher": "dougwilson",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 8457,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/range-parser",
+          "observedAt": "2026-11-16T10:35:22.411Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/range-parser",
+          "observedAt": "2026-11-16T10:35:22.411Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/range-parser",
+          "observedAt": "2026-11-16T10:35:22.411Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/range-parser",
+          "observedAt": "2026-11-16T10:35:22.411Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/range-parser",
+          "observedAt": "2026-11-16T10:35:22.411Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/range-parser",
+          "observedAt": "2026-11-16T10:35:22.411Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

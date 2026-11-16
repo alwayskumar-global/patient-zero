@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@hestjs/core",
+  "source": "https://registry.npmjs.org/%40hestjs%2Fcore",
+  "fetchedAt": "2026-11-16T10:31:18.578Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 13
+  },
+  "sourceSha256": "16f7b6001b295310db1dd91b7949cf5623cb691de0c347d8240ce2b0088c51cf",
+  "versions": [
+    {
+      "pkg": "@hestjs/core",
+      "semver": "0.2.0",
+      "publishedAt": "2025-07-30T08:04:20.124Z",
+      "publisher": "aqz23678",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 123906,
+      "dependencies": {
+        "hono": "^4.8.9",
+        "pino": "^9.7.0",
+        "untyped": "^2.0.0",
+        "tsyringe": "^4.10.0",
+        "pino-pretty": "^13.0.0",
+        "@hestjs/logger": "0.1.5",
+        "reflect-metadata": "^0.2.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40hestjs%2Fcore",
+          "observedAt": "2026-11-16T10:31:18.578Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40hestjs%2Fcore",
+          "observedAt": "2026-11-16T10:31:18.578Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40hestjs%2Fcore",
+          "observedAt": "2026-11-16T10:31:18.578Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40hestjs%2Fcore",
+          "observedAt": "2026-11-16T10:31:18.578Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40hestjs%2Fcore",
+          "observedAt": "2026-11-16T10:31:18.578Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40hestjs%2Fcore",
+          "observedAt": "2026-11-16T10:31:18.578Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@hestjs/core",
+      "semver": "0.2.1",
+      "publishedAt": "2025-09-14T20:45:55.888Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40hestjs%2Fcore",
+          "observedAt": "2026-11-16T10:31:18.578Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "pkg": "extend-shallow",
+  "source": "https://registry.npmjs.org/extend-shallow",
+  "fetchedAt": "2026-11-16T10:35:01.934Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 13
+  },
+  "sourceSha256": "d9c706cc77dc687859c3d4f0e1c5ea8b048acb1adcea8222cfb36159d37aba03",
+  "versions": [
+    {
+      "pkg": "extend-shallow",
+      "semver": "3.0.1",
+      "publishedAt": "2017-11-21T05:16:07.718Z",
+      "publisher": "jonschlinkert",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "is-extendable": "^1.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/extend-shallow",
+          "observedAt": "2026-11-16T10:35:01.934Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/extend-shallow",
+          "observedAt": "2026-11-16T10:35:01.934Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/extend-shallow",
+          "observedAt": "2026-11-16T10:35:01.934Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/extend-shallow",
+          "observedAt": "2026-11-16T10:35:01.934Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/extend-shallow",
+          "observedAt": "2026-11-16T10:35:01.934Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "extend-shallow",
+      "semver": "3.0.2",
+      "publishedAt": "2017-12-20T19:11:38.344Z",
+      "publisher": "phated",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "assign-symbols": "^1.0.0",
+        "is-extendable": "^1.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/extend-shallow",
+          "observedAt": "2026-11-16T10:35:01.934Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/extend-shallow",
+          "observedAt": "2026-11-16T10:35:01.934Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/extend-shallow",
+          "observedAt": "2026-11-16T10:35:01.934Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/extend-shallow",
+          "observedAt": "2026-11-16T10:35:01.934Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/extend-shallow",
+          "observedAt": "2026-11-16T10:35:01.934Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

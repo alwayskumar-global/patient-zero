@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@babel/plugin-transform-unicode-property-regex",
+  "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-unicode-property-regex",
+  "fetchedAt": "2026-11-16T10:34:33.541Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 43
+  },
+  "sourceSha256": "eabce131f08d1b7d74e4774f933d00d13dfb5d4d0cdb879a602e67444e027393",
+  "versions": [
+    {
+      "pkg": "@babel/plugin-transform-unicode-property-regex",
+      "semver": "8.0.0-beta.1",
+      "publishedAt": "2025-07-02T09:04:33.721Z",
+      "publisher": "nicolo-ribaudo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 5217,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "^8.0.0-beta.1",
+        "@babel/helper-create-regexp-features-plugin": "^8.0.0-beta.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-unicode-property-regex",
+          "observedAt": "2026-11-16T10:34:33.541Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-unicode-property-regex",
+          "observedAt": "2026-11-16T10:34:33.541Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-unicode-property-regex",
+          "observedAt": "2026-11-16T10:34:33.541Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-unicode-property-regex",
+          "observedAt": "2026-11-16T10:34:33.541Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-unicode-property-regex",
+          "observedAt": "2026-11-16T10:34:33.541Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-unicode-property-regex",
+          "observedAt": "2026-11-16T10:34:33.541Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

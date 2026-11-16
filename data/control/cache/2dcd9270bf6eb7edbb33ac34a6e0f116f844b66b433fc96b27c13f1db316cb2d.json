@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "run-parallel",
+  "source": "https://registry.npmjs.org/run-parallel",
+  "fetchedAt": "2026-11-16T10:35:25.282Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 17
+  },
+  "sourceSha256": "8103e2696a6bd76a7574f87aad1e060285f618dbb91e52463167b3c91a67ee15",
+  "versions": [
+    {
+      "pkg": "run-parallel",
+      "semver": "1.2.0",
+      "publishedAt": "2021-02-10T02:58:08.152Z",
+      "publisher": "feross",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 6563,
+      "dependencies": {
+        "queue-microtask": "^1.2.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/run-parallel",
+          "observedAt": "2026-11-16T10:35:25.282Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/run-parallel",
+          "observedAt": "2026-11-16T10:35:25.282Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/run-parallel",
+          "observedAt": "2026-11-16T10:35:25.282Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/run-parallel",
+          "observedAt": "2026-11-16T10:35:25.282Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/run-parallel",
+          "observedAt": "2026-11-16T10:35:25.282Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/run-parallel",
+          "observedAt": "2026-11-16T10:35:25.282Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

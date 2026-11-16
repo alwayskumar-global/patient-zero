@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "pkg": "html-to-base64-image",
+  "source": "https://registry.npmjs.org/html-to-base64-image",
+  "fetchedAt": "2026-11-16T10:32:21.153Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 3
+  },
+  "sourceSha256": "10251a0987c36f861e96b64152321d4887d093020dd11f04039b78ce10d814a9",
+  "versions": [
+    {
+      "pkg": "html-to-base64-image",
+      "semver": "1.0.1",
+      "publishedAt": "2022-05-30T10:10:38.500Z",
+      "publisher": "thangved",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 2099,
+      "dependencies": {
+        "fs": "^0.0.1-security",
+        "node-html-to-image": "^3.2.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/html-to-base64-image",
+          "observedAt": "2026-11-16T10:32:21.153Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/html-to-base64-image",
+          "observedAt": "2026-11-16T10:32:21.153Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/html-to-base64-image",
+          "observedAt": "2026-11-16T10:32:21.153Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/html-to-base64-image",
+          "observedAt": "2026-11-16T10:32:21.153Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/html-to-base64-image",
+          "observedAt": "2026-11-16T10:32:21.153Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/html-to-base64-image",
+          "observedAt": "2026-11-16T10:32:21.153Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "html-to-base64-image",
+      "semver": "1.0.2",
+      "publishedAt": "2025-09-14T20:31:40.456Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/html-to-base64-image",
+          "observedAt": "2026-11-16T10:32:21.153Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

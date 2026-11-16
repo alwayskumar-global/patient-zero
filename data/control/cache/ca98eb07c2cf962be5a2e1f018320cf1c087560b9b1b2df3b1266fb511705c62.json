@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "pkg": "rxjs",
+  "source": "https://registry.npmjs.org/rxjs",
+  "fetchedAt": "2026-11-16T10:35:25.311Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 171
+  },
+  "sourceSha256": "1be6f604fce73768a6b46050bd4b8272d1aaf712e0f49cf5da1d689a245ea16e",
+  "versions": [
+    {
+      "pkg": "rxjs",
+      "semver": "5.0.0-alpha.10",
+      "publishedAt": "2015-11-18T19:50:16.957Z",
+      "publisher": "angularcore",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/rxjs",
+          "observedAt": "2026-11-16T10:35:25.311Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/rxjs",
+          "observedAt": "2026-11-16T10:35:25.311Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/rxjs",
+          "observedAt": "2026-11-16T10:35:25.311Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/rxjs",
+          "observedAt": "2026-11-16T10:35:25.311Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/rxjs",
+          "observedAt": "2026-11-16T10:35:25.311Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "rxjs",
+      "semver": "5.5.0-beta.6",
+      "publishedAt": "2017-10-13T20:21:17.026Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/rxjs",
+          "observedAt": "2026-11-16T10:35:25.311Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "rxjs",
+      "semver": "7.8.2",
+      "publishedAt": "2025-02-22T03:00:42.711Z",
+      "publisher": "blesh",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 4497673,
+      "dependencies": {
+        "tslib": "^2.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/rxjs",
+          "observedAt": "2026-11-16T10:35:25.311Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/rxjs",
+          "observedAt": "2026-11-16T10:35:25.311Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/rxjs",
+          "observedAt": "2026-11-16T10:35:25.311Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/rxjs",
+          "observedAt": "2026-11-16T10:35:25.311Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/rxjs",
+          "observedAt": "2026-11-16T10:35:25.311Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/rxjs",
+          "observedAt": "2026-11-16T10:35:25.311Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

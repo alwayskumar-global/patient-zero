@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@nativescript-community/gesturehandler",
+  "source": "https://registry.npmjs.org/%40nativescript-community%2Fgesturehandler",
+  "fetchedAt": "2026-11-16T10:31:23.810Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 86
+  },
+  "sourceSha256": "366b1f0cbb8c8d1f73c8a7a7afad625399af47b0206844c3ed368ad168b3ac3a",
+  "versions": [
+    {
+      "pkg": "@nativescript-community/gesturehandler",
+      "semver": "0.1.33",
+      "publishedAt": "2020-11-22T21:32:35.179Z",
+      "publisher": "keerl",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 205313,
+      "dependencies": {
+        "@nativescript-community/observable": "^2.0.8"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fgesturehandler",
+          "observedAt": "2026-11-16T10:31:23.810Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fgesturehandler",
+          "observedAt": "2026-11-16T10:31:23.810Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fgesturehandler",
+          "observedAt": "2026-11-16T10:31:23.810Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fgesturehandler",
+          "observedAt": "2026-11-16T10:31:23.810Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fgesturehandler",
+          "observedAt": "2026-11-16T10:31:23.810Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fgesturehandler",
+          "observedAt": "2026-11-16T10:31:23.810Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nativescript-community/gesturehandler",
+      "semver": "2.0.34",
+      "publishedAt": "2025-09-05T09:35:04.106Z",
+      "publisher": "farfromrefuge",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 394562,
+      "dependencies": {
+        "@nativescript-community/observable": "^2.0.10"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fgesturehandler",
+          "observedAt": "2026-11-16T10:31:23.810Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fgesturehandler",
+          "observedAt": "2026-11-16T10:31:23.810Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fgesturehandler",
+          "observedAt": "2026-11-16T10:31:23.810Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fgesturehandler",
+          "observedAt": "2026-11-16T10:31:23.810Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fgesturehandler",
+          "observedAt": "2026-11-16T10:31:23.810Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fgesturehandler",
+          "observedAt": "2026-11-16T10:31:23.810Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nativescript-community/gesturehandler",
+      "semver": "2.0.35",
+      "publishedAt": "2025-09-15T19:58:43.021Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fgesturehandler",
+          "observedAt": "2026-11-16T10:31:23.810Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "smart-buffer",
+  "source": "https://registry.npmjs.org/smart-buffer",
+  "fetchedAt": "2026-11-16T10:35:26.595Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 32
+  },
+  "sourceSha256": "9272c848d57f93209b7f77d4b63b6174e17185f67d51ce579d7c637e05c6aad8",
+  "versions": [
+    {
+      "pkg": "smart-buffer",
+      "semver": "4.2.0",
+      "publishedAt": "2021-08-07T06:18:54.397Z",
+      "publisher": "joshglazebrook",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 138027,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/smart-buffer",
+          "observedAt": "2026-11-16T10:35:26.595Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/smart-buffer",
+          "observedAt": "2026-11-16T10:35:26.595Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/smart-buffer",
+          "observedAt": "2026-11-16T10:35:26.595Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/smart-buffer",
+          "observedAt": "2026-11-16T10:35:26.595Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/smart-buffer",
+          "observedAt": "2026-11-16T10:35:26.595Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/smart-buffer",
+          "observedAt": "2026-11-16T10:35:26.595Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "pkg": "relateurl",
+  "source": "https://registry.npmjs.org/relateurl",
+  "fetchedAt": "2026-11-16T10:35:24.340Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 9
+  },
+  "sourceSha256": "425ac1b38c79800d615f60abcc370745b3275456a36ace34f0a28e9b46fe6b54",
+  "versions": [
+    {
+      "pkg": "relateurl",
+      "semver": "0.2.7",
+      "publishedAt": "2016-07-14T13:31:25.910Z",
+      "publisher": "stevenvachon",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/relateurl",
+          "observedAt": "2026-11-16T10:35:24.340Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/relateurl",
+          "observedAt": "2026-11-16T10:35:24.340Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/relateurl",
+          "observedAt": "2026-11-16T10:35:24.340Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/relateurl",
+          "observedAt": "2026-11-16T10:35:24.340Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/relateurl",
+          "observedAt": "2026-11-16T10:35:24.340Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

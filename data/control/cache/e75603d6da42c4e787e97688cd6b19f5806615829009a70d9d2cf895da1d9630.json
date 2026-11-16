@@ -1,0 +1,198 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@vitest/runner",
+  "source": "https://registry.npmjs.org/%40vitest%2Frunner",
+  "fetchedAt": "2026-11-16T10:34:54.718Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 195
+  },
+  "sourceSha256": "d654e214d78642819c3a979f1971618999bc0a05431ee6639a8641ce676ad6d9",
+  "versions": [
+    {
+      "pkg": "@vitest/runner",
+      "semver": "0.28.2",
+      "publishedAt": "2023-01-25T11:21:07.794Z",
+      "publisher": "antfu",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 47953,
+      "dependencies": {
+        "pathe": "^1.1.0",
+        "p-limit": "^4.0.0",
+        "@vitest/utils": "0.28.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40vitest%2Frunner",
+          "observedAt": "2026-11-16T10:34:54.718Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40vitest%2Frunner",
+          "observedAt": "2026-11-16T10:34:54.718Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40vitest%2Frunner",
+          "observedAt": "2026-11-16T10:34:54.718Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40vitest%2Frunner",
+          "observedAt": "2026-11-16T10:34:54.718Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40vitest%2Frunner",
+          "observedAt": "2026-11-16T10:34:54.718Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40vitest%2Frunner",
+          "observedAt": "2026-11-16T10:34:54.718Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@vitest/runner",
+      "semver": "3.1.0",
+      "publishedAt": "2025-03-31T10:14:26.845Z",
+      "publisher": "oreanno",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 107820,
+      "dependencies": {
+        "pathe": "^2.0.3",
+        "@vitest/utils": "3.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40vitest%2Frunner",
+          "observedAt": "2026-11-16T10:34:54.718Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40vitest%2Frunner",
+          "observedAt": "2026-11-16T10:34:54.718Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40vitest%2Frunner",
+          "observedAt": "2026-11-16T10:34:54.718Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40vitest%2Frunner",
+          "observedAt": "2026-11-16T10:34:54.718Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40vitest%2Frunner",
+          "observedAt": "2026-11-16T10:34:54.718Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40vitest%2Frunner",
+          "observedAt": "2026-11-16T10:34:54.718Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@vitest/runner",
+      "semver": "4.0.0-beta.5",
+      "publishedAt": "2025-07-28T17:45:07.916Z",
+      "publisher": "vitestbot",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 126764,
+      "dependencies": {
+        "pathe": "^2.0.3",
+        "@vitest/utils": "4.0.0-beta.5",
+        "strip-literal": "^3.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40vitest%2Frunner",
+          "observedAt": "2026-11-16T10:34:54.718Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40vitest%2Frunner",
+          "observedAt": "2026-11-16T10:34:54.718Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40vitest%2Frunner",
+          "observedAt": "2026-11-16T10:34:54.718Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40vitest%2Frunner",
+          "observedAt": "2026-11-16T10:34:54.718Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40vitest%2Frunner",
+          "observedAt": "2026-11-16T10:34:54.718Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40vitest%2Frunner",
+          "observedAt": "2026-11-16T10:34:54.718Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@vitest/runner",
+      "semver": "4.0.0-beta.6",
+      "publishedAt": "2025-08-04T12:32:32.486Z",
+      "publisher": "vitestbot",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 126796,
+      "dependencies": {
+        "pathe": "^2.0.3",
+        "@vitest/utils": "4.0.0-beta.6",
+        "strip-literal": "^3.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40vitest%2Frunner",
+          "observedAt": "2026-11-16T10:34:54.718Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40vitest%2Frunner",
+          "observedAt": "2026-11-16T10:34:54.718Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40vitest%2Frunner",
+          "observedAt": "2026-11-16T10:34:54.718Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40vitest%2Frunner",
+          "observedAt": "2026-11-16T10:34:54.718Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40vitest%2Frunner",
+          "observedAt": "2026-11-16T10:34:54.718Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40vitest%2Frunner",
+          "observedAt": "2026-11-16T10:34:54.718Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

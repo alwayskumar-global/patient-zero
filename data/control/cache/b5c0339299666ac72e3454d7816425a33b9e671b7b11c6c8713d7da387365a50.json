@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@types/http-proxy",
+  "source": "https://registry.npmjs.org/%40types%2Fhttp-proxy",
+  "fetchedAt": "2026-11-16T10:34:50.768Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 26
+  },
+  "sourceSha256": "0d8bee47cadb6bfc66548d565bb2bec119a6c24f70332845ee8ec93002c6bf83",
+  "versions": [
+    {
+      "pkg": "@types/http-proxy",
+      "semver": "1.17.16",
+      "publishedAt": "2025-02-07T07:02:44.978Z",
+      "publisher": "types",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 14483,
+      "dependencies": {
+        "@types/node": "*"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40types%2Fhttp-proxy",
+          "observedAt": "2026-11-16T10:34:50.768Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40types%2Fhttp-proxy",
+          "observedAt": "2026-11-16T10:34:50.768Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40types%2Fhttp-proxy",
+          "observedAt": "2026-11-16T10:34:50.768Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40types%2Fhttp-proxy",
+          "observedAt": "2026-11-16T10:34:50.768Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40types%2Fhttp-proxy",
+          "observedAt": "2026-11-16T10:34:50.768Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40types%2Fhttp-proxy",
+          "observedAt": "2026-11-16T10:34:50.768Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@nstudio/angular",
+  "source": "https://registry.npmjs.org/%40nstudio%2Fangular",
+  "fetchedAt": "2026-11-16T10:31:38.549Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 142
+  },
+  "sourceSha256": "7d210a41df702ddbfe56ffa5e45a5bc9ec62932c56ce2ff979ac0b8fbe8ed48b",
+  "versions": [
+    {
+      "pkg": "@nstudio/angular",
+      "semver": "17.0.1",
+      "publishedAt": "2023-10-23T19:28:03.859Z",
+      "publisher": "walkerrunpdx",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 335218,
+      "dependencies": {
+        "@nx/angular": "^17.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fangular",
+          "observedAt": "2026-11-16T10:31:38.549Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fangular",
+          "observedAt": "2026-11-16T10:31:38.549Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fangular",
+          "observedAt": "2026-11-16T10:31:38.549Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fangular",
+          "observedAt": "2026-11-16T10:31:38.549Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fangular",
+          "observedAt": "2026-11-16T10:31:38.549Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fangular",
+          "observedAt": "2026-11-16T10:31:38.549Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nstudio/angular",
+      "semver": "20.0.3",
+      "publishedAt": "2024-11-08T04:09:59.882Z",
+      "publisher": "nativescript-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 333789,
+      "dependencies": {
+        "@nx/angular": "^20.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fangular",
+          "observedAt": "2026-11-16T10:31:38.549Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fangular",
+          "observedAt": "2026-11-16T10:31:38.549Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fangular",
+          "observedAt": "2026-11-16T10:31:38.549Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fangular",
+          "observedAt": "2026-11-16T10:31:38.549Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fangular",
+          "observedAt": "2026-11-16T10:31:38.549Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fangular",
+          "observedAt": "2026-11-16T10:31:38.549Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nstudio/angular",
+      "semver": "20.0.4",
+      "publishedAt": "2025-09-15T09:16:51.867Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fangular",
+          "observedAt": "2026-11-16T10:31:38.549Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nstudio/angular",
+      "semver": "20.0.5",
+      "publishedAt": "2025-09-15T10:42:19.618Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fangular",
+          "observedAt": "2026-11-16T10:31:38.549Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nstudio/angular",
+      "semver": "20.0.6",
+      "publishedAt": "2025-09-15T10:47:48.361Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fangular",
+          "observedAt": "2026-11-16T10:31:38.549Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nstudio/angular",
+      "semver": "8.0.12",
+      "publishedAt": "2019-11-22T19:10:18.447Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fangular",
+          "observedAt": "2026-11-16T10:31:38.549Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "available-typed-arrays",
+  "source": "https://registry.npmjs.org/available-typed-arrays",
+  "fetchedAt": "2026-11-16T10:34:56.188Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 8
+  },
+  "sourceSha256": "5aa45540ce9518143e85bd7a6559ebb522b313f911f49c883f3c433c67b54472",
+  "versions": [
+    {
+      "pkg": "available-typed-arrays",
+      "semver": "1.0.7",
+      "publishedAt": "2024-02-19T23:54:30.736Z",
+      "publisher": "ljharb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 20380,
+      "dependencies": {
+        "possible-typed-array-names": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/available-typed-arrays",
+          "observedAt": "2026-11-16T10:34:56.188Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/available-typed-arrays",
+          "observedAt": "2026-11-16T10:34:56.188Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/available-typed-arrays",
+          "observedAt": "2026-11-16T10:34:56.188Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/available-typed-arrays",
+          "observedAt": "2026-11-16T10:34:56.188Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/available-typed-arrays",
+          "observedAt": "2026-11-16T10:34:56.188Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/available-typed-arrays",
+          "observedAt": "2026-11-16T10:34:56.188Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

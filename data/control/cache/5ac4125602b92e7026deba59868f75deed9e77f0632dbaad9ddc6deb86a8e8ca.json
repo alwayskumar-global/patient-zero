@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "pkg": "typed-array-byte-offset",
+  "source": "https://registry.npmjs.org/typed-array-byte-offset",
+  "fetchedAt": "2026-11-16T10:35:30.367Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 6
+  },
+  "sourceSha256": "8bcf2c4da043a40a6bcc9d3ec55dbaf23d914a5f7288baa6c9a2533a3f37df9e",
+  "versions": [
+    {
+      "pkg": "typed-array-byte-offset",
+      "semver": "1.0.4",
+      "publishedAt": "2024-12-19T05:58:33.390Z",
+      "publisher": "ljharb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 19758,
+      "dependencies": {
+        "gopd": "^1.2.0",
+        "for-each": "^0.3.3",
+        "call-bind": "^1.0.8",
+        "has-proto": "^1.2.0",
+        "is-typed-array": "^1.1.15",
+        "available-typed-arrays": "^1.0.7",
+        "reflect.getprototypeof": "^1.0.9"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/typed-array-byte-offset",
+          "observedAt": "2026-11-16T10:35:30.367Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/typed-array-byte-offset",
+          "observedAt": "2026-11-16T10:35:30.367Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/typed-array-byte-offset",
+          "observedAt": "2026-11-16T10:35:30.367Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/typed-array-byte-offset",
+          "observedAt": "2026-11-16T10:35:30.367Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/typed-array-byte-offset",
+          "observedAt": "2026-11-16T10:35:30.367Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/typed-array-byte-offset",
+          "observedAt": "2026-11-16T10:35:30.367Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

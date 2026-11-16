@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "yallist",
+  "source": "https://registry.npmjs.org/yallist",
+  "fetchedAt": "2026-11-16T10:35:35.269Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 17
+  },
+  "sourceSha256": "bc3fca12ddf3ea80428a976958961b3aa13fdaf27cbfc158e44b8621cb77ff19",
+  "versions": [
+    {
+      "pkg": "yallist",
+      "semver": "5.0.0",
+      "publishedAt": "2024-04-09T19:21:44.844Z",
+      "publisher": "isaacs",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 80297,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/yallist",
+          "observedAt": "2026-11-16T10:35:35.269Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/yallist",
+          "observedAt": "2026-11-16T10:35:35.269Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/yallist",
+          "observedAt": "2026-11-16T10:35:35.269Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/yallist",
+          "observedAt": "2026-11-16T10:35:35.269Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/yallist",
+          "observedAt": "2026-11-16T10:35:35.269Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/yallist",
+          "observedAt": "2026-11-16T10:35:35.269Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

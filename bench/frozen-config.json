@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "createdAt": "2026-11-16T10:49:12.594Z",
+  "config": {
+    "burstPackages": 5,
+    "windowMinutes": 60,
+    "dormantDays": 180,
+    "medium": 3,
+    "high": 5,
+    "decay": 0.7,
+    "maxHops": 4,
+    "weights": {
+      "R1": 3,
+      "R2": 2,
+      "R3": 1,
+      "R4": 2
+    }
+  },
+  "configHash": "fd8fca19302cd275389b6b03d97e8b700dbdb28e2fa1e98403da228fcc72ccd8",
+  "trainingHash": "f6267e21a1ce644ab9b56b178da1d3b7451bb04b7544fe54876465ebd4647786",
+  "codeHash": "0edfba0bb4a38e139d6502a61dd46336b4866767e3d4201e8df5bcab9566b7ce",
+  "stepMinutes": 15,
+  "objective": "Maximize incident-A end-window reference F1 only. Fixed candidate order breaks ties (defaults first). Weights/decay/hops remain fixed. No held-out/control inputs are loaded.",
+  "candidateResults": [
+    {
+      "burstPackages": 5,
+      "medium": 3,
+      "f1": 0.782608695652174,
+      "precision": 0.6428571428571429,
+      "recall": 1
+    },
+    {
+      "burstPackages": 5,
+      "medium": 2,
+      "f1": 0.782608695652174,
+      "precision": 0.6428571428571429,
+      "recall": 1
+    },
+    {
+      "burstPackages": 5,
+      "medium": 4,
+      "f1": 0.7567567567567567,
+      "precision": 0.7368421052631579,
+      "recall": 0.7777777777777778
+    },
+    {
+      "burstPackages": 5,
+      "medium": 5,
+      "f1": 0,
+      "precision": 0,
+      "recall": 0
+    },
+    {
+      "burstPackages": 3,
+      "medium": 3,
+      "f1": 0.782608695652174,
+      "precision": 0.6428571428571429,
+      "recall": 1
+    },
+    {
+      "burstPackages": 3,
+      "medium": 2,
+      "f1": 0.782608695652174,
+      "precision": 0.6428571428571429,
+      "recall": 1
+    },
+    {
+      "burstPackages": 3,
+      "medium": 4,
+      "f1": 0.7567567567567567,
+      "precision": 0.7368421052631579,
+      "recall": 0.7777777777777778
+    },
+    {
+      "burstPackages": 3,
+      "medium": 5,
+      "f1": 0,
+      "precision": 0,
+      "recall": 0
+    },
+    {
+      "burstPackages": 8,
+      "medium": 3,
+      "f1": 0.782608695652174,
+      "precision": 0.6428571428571429,
+      "recall": 1
+    },
+    {
+      "burstPackages": 8,
+      "medium": 2,
+      "f1": 0.782608695652174,
+      "precision": 0.6428571428571429,
+      "recall": 1
+    },
+    {
+      "burstPackages": 8,
+      "medium": 4,
+      "f1": 0.7567567567567567,
+      "precision": 0.7368421052631579,
+      "recall": 0.7777777777777778
+    },
+    {
+      "burstPackages": 8,
+      "medium": 5,
+      "f1": 0,
+      "precision": 0,
+      "recall": 0
+    }
+  ],
+  "selectedIndex": 0
+}

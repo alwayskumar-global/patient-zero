@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "pkg": "cacheable-lookup",
+  "source": "https://registry.npmjs.org/cacheable-lookup",
+  "fetchedAt": "2026-11-16T10:34:57.309Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 34
+  },
+  "sourceSha256": "c151487deebcbfcc01cbb5f3e915cb16273749eaf516fcbe2c4a32e78cfcb269",
+  "versions": [
+    {
+      "pkg": "cacheable-lookup",
+      "semver": "6.1.0",
+      "publishedAt": "2022-08-05T23:01:11.033Z",
+      "publisher": "szmarczak",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 24879,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/cacheable-lookup",
+          "observedAt": "2026-11-16T10:34:57.309Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/cacheable-lookup",
+          "observedAt": "2026-11-16T10:34:57.309Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/cacheable-lookup",
+          "observedAt": "2026-11-16T10:34:57.309Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/cacheable-lookup",
+          "observedAt": "2026-11-16T10:34:57.309Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/cacheable-lookup",
+          "observedAt": "2026-11-16T10:34:57.309Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/cacheable-lookup",
+          "observedAt": "2026-11-16T10:34:57.309Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "cacheable-lookup",
+      "semver": "7.0.0",
+      "publishedAt": "2022-09-27T07:11:14.775Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 25193,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/cacheable-lookup",
+          "observedAt": "2026-11-16T10:34:57.309Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/cacheable-lookup",
+          "observedAt": "2026-11-16T10:34:57.309Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/cacheable-lookup",
+          "observedAt": "2026-11-16T10:34:57.309Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/cacheable-lookup",
+          "observedAt": "2026-11-16T10:34:57.309Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/cacheable-lookup",
+          "observedAt": "2026-11-16T10:34:57.309Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/cacheable-lookup",
+          "observedAt": "2026-11-16T10:34:57.309Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

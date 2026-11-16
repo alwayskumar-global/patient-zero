@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@types/hoist-non-react-statics",
+  "source": "https://registry.npmjs.org/%40types%2Fhoist-non-react-statics",
+  "fetchedAt": "2026-11-16T10:34:50.034Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 10
+  },
+  "sourceSha256": "9324efc54ed3fa1dbb4a5d8e22fafdee8ee87b07fc51510bd8e1c0078668da33",
+  "versions": [
+    {
+      "pkg": "@types/hoist-non-react-statics",
+      "semver": "3.3.7",
+      "publishedAt": "2025-07-21T13:15:01.997Z",
+      "publisher": "types",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 6477,
+      "dependencies": {
+        "hoist-non-react-statics": "^3.3.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40types%2Fhoist-non-react-statics",
+          "observedAt": "2026-11-16T10:34:50.034Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40types%2Fhoist-non-react-statics",
+          "observedAt": "2026-11-16T10:34:50.034Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40types%2Fhoist-non-react-statics",
+          "observedAt": "2026-11-16T10:34:50.034Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40types%2Fhoist-non-react-statics",
+          "observedAt": "2026-11-16T10:34:50.034Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40types%2Fhoist-non-react-statics",
+          "observedAt": "2026-11-16T10:34:50.034Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40types%2Fhoist-non-react-statics",
+          "observedAt": "2026-11-16T10:34:50.034Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

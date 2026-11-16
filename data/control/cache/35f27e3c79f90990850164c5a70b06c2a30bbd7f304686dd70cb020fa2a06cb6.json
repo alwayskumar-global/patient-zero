@@ -1,0 +1,242 @@
+{
+  "schemaVersion": 1,
+  "pkg": "notifications-node-client",
+  "source": "https://registry.npmjs.org/notifications-node-client",
+  "fetchedAt": "2026-11-16T10:35:15.978Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 48
+  },
+  "sourceSha256": "72a99f3014bcc96522dc15de3829d4c7b481dd91ae0e109d5c84edf1a7c7c8a5",
+  "versions": [
+    {
+      "pkg": "notifications-node-client",
+      "semver": "2.1.0",
+      "publishedAt": "2016-07-25T16:10:01.949Z",
+      "publisher": "mrlumbu",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "crypto": "0.0.3",
+        "request": "^2.73.0",
+        "restler": "3.4.0",
+        "underscore": "^1.8.3",
+        "jsonwebtoken": "5.5.4",
+        "request-promise": "^4.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/notifications-node-client",
+          "observedAt": "2026-11-16T10:35:15.978Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/notifications-node-client",
+          "observedAt": "2026-11-16T10:35:15.978Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/notifications-node-client",
+          "observedAt": "2026-11-16T10:35:15.978Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/notifications-node-client",
+          "observedAt": "2026-11-16T10:35:15.978Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/notifications-node-client",
+          "observedAt": "2026-11-16T10:35:15.978Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "notifications-node-client",
+      "semver": "3.1.0",
+      "publishedAt": "2017-05-10T10:14:47.024Z",
+      "publisher": "imdadgds",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "crypto": "0.0.3",
+        "request": "^2.73.0",
+        "restler": "3.4.0",
+        "underscore": "^1.8.3",
+        "jsonwebtoken": "5.5.4",
+        "request-promise": "^4.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/notifications-node-client",
+          "observedAt": "2026-11-16T10:35:15.978Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/notifications-node-client",
+          "observedAt": "2026-11-16T10:35:15.978Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/notifications-node-client",
+          "observedAt": "2026-11-16T10:35:15.978Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/notifications-node-client",
+          "observedAt": "2026-11-16T10:35:15.978Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/notifications-node-client",
+          "observedAt": "2026-11-16T10:35:15.978Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "notifications-node-client",
+      "semver": "4.3.0",
+      "publishedAt": "2018-09-05T09:29:33.690Z",
+      "publisher": "klssmith",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 114915,
+      "dependencies": {
+        "request": "2.87.0",
+        "underscore": "^1.9.0",
+        "jsonwebtoken": "8.2.1",
+        "request-promise": "4.2.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/notifications-node-client",
+          "observedAt": "2026-11-16T10:35:15.978Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/notifications-node-client",
+          "observedAt": "2026-11-16T10:35:15.978Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/notifications-node-client",
+          "observedAt": "2026-11-16T10:35:15.978Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/notifications-node-client",
+          "observedAt": "2026-11-16T10:35:15.978Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/notifications-node-client",
+          "observedAt": "2026-11-16T10:35:15.978Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/notifications-node-client",
+          "observedAt": "2026-11-16T10:35:15.978Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "notifications-node-client",
+      "semver": "4.5.2",
+      "publishedAt": "2018-11-05T15:02:24.092Z",
+      "publisher": "quis",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 208117,
+      "dependencies": {
+        "request": "2.87.0",
+        "underscore": "^1.9.0",
+        "jsonwebtoken": "8.2.1",
+        "request-promise": "4.2.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/notifications-node-client",
+          "observedAt": "2026-11-16T10:35:15.978Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/notifications-node-client",
+          "observedAt": "2026-11-16T10:35:15.978Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/notifications-node-client",
+          "observedAt": "2026-11-16T10:35:15.978Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/notifications-node-client",
+          "observedAt": "2026-11-16T10:35:15.978Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/notifications-node-client",
+          "observedAt": "2026-11-16T10:35:15.978Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/notifications-node-client",
+          "observedAt": "2026-11-16T10:35:15.978Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "notifications-node-client",
+      "semver": "8.2.1",
+      "publishedAt": "2024-08-07T15:15:42.541Z",
+      "publisher": "govuk-notify",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 185228,
+      "dependencies": {
+        "axios": "^1.7.2",
+        "jsonwebtoken": "^9.0.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/notifications-node-client",
+          "observedAt": "2026-11-16T10:35:15.978Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/notifications-node-client",
+          "observedAt": "2026-11-16T10:35:15.978Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/notifications-node-client",
+          "observedAt": "2026-11-16T10:35:15.978Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/notifications-node-client",
+          "observedAt": "2026-11-16T10:35:15.978Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/notifications-node-client",
+          "observedAt": "2026-11-16T10:35:15.978Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/notifications-node-client",
+          "observedAt": "2026-11-16T10:35:15.978Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

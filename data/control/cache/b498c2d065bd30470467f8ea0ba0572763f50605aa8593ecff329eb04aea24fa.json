@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "crc-32",
+  "source": "https://registry.npmjs.org/crc-32",
+  "fetchedAt": "2026-11-16T10:34:58.611Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 15
+  },
+  "sourceSha256": "214f3c107cd64c61736b235951682b0b0315b7ab3cb8041e9cce5a46f0b16c25",
+  "versions": [
+    {
+      "pkg": "crc-32",
+      "semver": "1.2.2",
+      "publishedAt": "2022-04-04T23:05:52.784Z",
+      "publisher": "sheetjs",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 31044,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/crc-32",
+          "observedAt": "2026-11-16T10:34:58.611Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/crc-32",
+          "observedAt": "2026-11-16T10:34:58.611Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/crc-32",
+          "observedAt": "2026-11-16T10:34:58.611Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/crc-32",
+          "observedAt": "2026-11-16T10:34:58.611Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/crc-32",
+          "observedAt": "2026-11-16T10:34:58.611Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/crc-32",
+          "observedAt": "2026-11-16T10:34:58.611Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

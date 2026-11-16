@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "pkg": "encoding",
+  "source": "https://registry.npmjs.org/encoding",
+  "fetchedAt": "2026-11-16T10:35:00.527Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 14
+  },
+  "sourceSha256": "9789f4e0e63d8929bff70016da8f16d392cfccaef457dfe92fa3a10ab9dabfab",
+  "versions": [
+    {
+      "pkg": "encoding",
+      "semver": "0.1.13",
+      "publishedAt": "2020-07-10T07:02:11.638Z",
+      "publisher": "andris",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7123,
+      "dependencies": {
+        "iconv-lite": "^0.6.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/encoding",
+          "observedAt": "2026-11-16T10:35:00.527Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/encoding",
+          "observedAt": "2026-11-16T10:35:00.527Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/encoding",
+          "observedAt": "2026-11-16T10:35:00.527Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/encoding",
+          "observedAt": "2026-11-16T10:35:00.527Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/encoding",
+          "observedAt": "2026-11-16T10:35:00.527Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/encoding",
+          "observedAt": "2026-11-16T10:35:00.527Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "encoding",
+      "semver": "0.1.4",
+      "publishedAt": "2012-09-14T13:13:45.852Z",
+      "publisher": null,
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "iconv": "*",
+        "iconv-lite": "*"
+      },
+      "evidence": {
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/encoding",
+          "observedAt": "2026-11-16T10:35:00.527Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/encoding",
+          "observedAt": "2026-11-16T10:35:00.527Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/encoding",
+          "observedAt": "2026-11-16T10:35:00.527Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/encoding",
+          "observedAt": "2026-11-16T10:35:00.527Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

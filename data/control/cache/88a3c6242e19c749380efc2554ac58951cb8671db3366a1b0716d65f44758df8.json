@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "nth-check",
+  "source": "https://registry.npmjs.org/nth-check",
+  "fetchedAt": "2026-11-16T10:35:15.670Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 9
+  },
+  "sourceSha256": "f42dac7efb37bf0319a3f28740736659cb44ca2f0b016ebe7871a356fd69bed5",
+  "versions": [
+    {
+      "pkg": "nth-check",
+      "semver": "2.1.1",
+      "publishedAt": "2022-05-23T10:05:21.450Z",
+      "publisher": "feedic",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 42555,
+      "dependencies": {
+        "boolbase": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/nth-check",
+          "observedAt": "2026-11-16T10:35:15.670Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/nth-check",
+          "observedAt": "2026-11-16T10:35:15.670Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/nth-check",
+          "observedAt": "2026-11-16T10:35:15.670Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/nth-check",
+          "observedAt": "2026-11-16T10:35:15.670Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/nth-check",
+          "observedAt": "2026-11-16T10:35:15.670Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/nth-check",
+          "observedAt": "2026-11-16T10:35:15.670Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

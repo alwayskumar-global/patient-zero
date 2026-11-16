@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "pidtree",
+  "source": "https://registry.npmjs.org/pidtree",
+  "fetchedAt": "2026-11-16T10:35:17.946Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 12
+  },
+  "sourceSha256": "b3e1151c95ef5fd2eaa2601f02a5c1c94bb74356d73cfdd8f5c633c0187cf4af",
+  "versions": [
+    {
+      "pkg": "pidtree",
+      "semver": "0.6.0",
+      "publishedAt": "2022-06-05T18:35:44.206Z",
+      "publisher": "simonepri",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 23074,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/pidtree",
+          "observedAt": "2026-11-16T10:35:17.946Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/pidtree",
+          "observedAt": "2026-11-16T10:35:17.946Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/pidtree",
+          "observedAt": "2026-11-16T10:35:17.946Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/pidtree",
+          "observedAt": "2026-11-16T10:35:17.946Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/pidtree",
+          "observedAt": "2026-11-16T10:35:17.946Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/pidtree",
+          "observedAt": "2026-11-16T10:35:17.946Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

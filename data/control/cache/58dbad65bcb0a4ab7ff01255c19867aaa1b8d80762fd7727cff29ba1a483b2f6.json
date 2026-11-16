@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "pkg": "big-integer",
+  "source": "https://registry.npmjs.org/big-integer",
+  "fetchedAt": "2026-11-16T10:34:56.725Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 102
+  },
+  "sourceSha256": "ca15f1670e4543956bc5c9fb7bd03b7f9787fba5884823a4e11311dfd82b8724",
+  "versions": [
+    {
+      "pkg": "big-integer",
+      "semver": "1.1.7",
+      "publishedAt": "2014-02-02T12:27:20.888Z",
+      "publisher": null,
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/big-integer",
+          "observedAt": "2026-11-16T10:34:56.725Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/big-integer",
+          "observedAt": "2026-11-16T10:34:56.725Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/big-integer",
+          "observedAt": "2026-11-16T10:34:56.725Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/big-integer",
+          "observedAt": "2026-11-16T10:34:56.725Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "big-integer",
+      "semver": "1.6.52",
+      "publishedAt": "2023-11-21T16:18:10.850Z",
+      "publisher": "peterolson",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 175004,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/big-integer",
+          "observedAt": "2026-11-16T10:34:56.725Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/big-integer",
+          "observedAt": "2026-11-16T10:34:56.725Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/big-integer",
+          "observedAt": "2026-11-16T10:34:56.725Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/big-integer",
+          "observedAt": "2026-11-16T10:34:56.725Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/big-integer",
+          "observedAt": "2026-11-16T10:34:56.725Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/big-integer",
+          "observedAt": "2026-11-16T10:34:56.725Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

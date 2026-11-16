@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "pkg": "tmpl",
+  "source": "https://registry.npmjs.org/tmpl",
+  "fetchedAt": "2026-11-16T10:35:29.727Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 5
+  },
+  "sourceSha256": "a5d87652a3a89741e8c58031674ed08db5609ad2702daeae2423be4a3249224f",
+  "versions": [
+    {
+      "pkg": "tmpl",
+      "semver": "1.0.1",
+      "publishedAt": "2011-08-17T21:09:46.235Z",
+      "publisher": null,
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/tmpl",
+          "observedAt": "2026-11-16T10:35:29.727Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/tmpl",
+          "observedAt": "2026-11-16T10:35:29.727Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/tmpl",
+          "observedAt": "2026-11-16T10:35:29.727Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/tmpl",
+          "observedAt": "2026-11-16T10:35:29.727Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "tmpl",
+      "semver": "1.0.5",
+      "publishedAt": "2021-09-07T06:46:22.501Z",
+      "publisher": "daaku",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 2774,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/tmpl",
+          "observedAt": "2026-11-16T10:35:29.727Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/tmpl",
+          "observedAt": "2026-11-16T10:35:29.727Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/tmpl",
+          "observedAt": "2026-11-16T10:35:29.727Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/tmpl",
+          "observedAt": "2026-11-16T10:35:29.727Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/tmpl",
+          "observedAt": "2026-11-16T10:35:29.727Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/tmpl",
+          "observedAt": "2026-11-16T10:35:29.727Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

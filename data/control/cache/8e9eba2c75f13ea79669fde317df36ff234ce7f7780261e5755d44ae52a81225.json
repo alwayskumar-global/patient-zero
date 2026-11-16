@@ -1,0 +1,145 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@testing-library/user-event",
+  "source": "https://registry.npmjs.org/%40testing-library%2Fuser-event",
+  "fetchedAt": "2026-11-16T10:34:43.506Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 211
+  },
+  "sourceSha256": "2052dce29d5d62cc4f96a48951981b352a3491cd10a7266bb103629a7e5f3eba",
+  "versions": [
+    {
+      "pkg": "@testing-library/user-event",
+      "semver": "12.0.0-alpha.3",
+      "publishedAt": "2020-06-15T22:06:38.569Z",
+      "publisher": "kentcdodds",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 76811,
+      "dependencies": {
+        "@babel/runtime": "^7.10.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40testing-library%2Fuser-event",
+          "observedAt": "2026-11-16T10:34:43.506Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40testing-library%2Fuser-event",
+          "observedAt": "2026-11-16T10:34:43.506Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40testing-library%2Fuser-event",
+          "observedAt": "2026-11-16T10:34:43.506Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40testing-library%2Fuser-event",
+          "observedAt": "2026-11-16T10:34:43.506Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40testing-library%2Fuser-event",
+          "observedAt": "2026-11-16T10:34:43.506Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40testing-library%2Fuser-event",
+          "observedAt": "2026-11-16T10:34:43.506Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@testing-library/user-event",
+      "semver": "14.6.1",
+      "publishedAt": "2025-01-21T17:35:55.574Z",
+      "publisher": "testing-library-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 437874,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40testing-library%2Fuser-event",
+          "observedAt": "2026-11-16T10:34:43.506Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40testing-library%2Fuser-event",
+          "observedAt": "2026-11-16T10:34:43.506Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40testing-library%2Fuser-event",
+          "observedAt": "2026-11-16T10:34:43.506Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40testing-library%2Fuser-event",
+          "observedAt": "2026-11-16T10:34:43.506Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40testing-library%2Fuser-event",
+          "observedAt": "2026-11-16T10:34:43.506Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40testing-library%2Fuser-event",
+          "observedAt": "2026-11-16T10:34:43.506Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@testing-library/user-event",
+      "semver": "4.1.0",
+      "publishedAt": "2019-06-07T08:28:49.545Z",
+      "publisher": "gpx",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 12798640,
+      "dependencies": {
+        "@testing-library/dom": "5.1.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40testing-library%2Fuser-event",
+          "observedAt": "2026-11-16T10:34:43.506Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40testing-library%2Fuser-event",
+          "observedAt": "2026-11-16T10:34:43.506Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40testing-library%2Fuser-event",
+          "observedAt": "2026-11-16T10:34:43.506Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40testing-library%2Fuser-event",
+          "observedAt": "2026-11-16T10:34:43.506Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40testing-library%2Fuser-event",
+          "observedAt": "2026-11-16T10:34:43.506Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40testing-library%2Fuser-event",
+          "observedAt": "2026-11-16T10:34:43.506Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

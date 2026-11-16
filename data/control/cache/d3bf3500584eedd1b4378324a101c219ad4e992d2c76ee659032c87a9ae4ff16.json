@@ -1,0 +1,256 @@
+{
+  "schemaVersion": 1,
+  "pkg": "semver",
+  "source": "https://registry.npmjs.org/semver",
+  "fetchedAt": "2026-11-16T10:35:25.721Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 122
+  },
+  "sourceSha256": "3ec8d870507a4f72530263ebda2cb37ccc5762ecf463464b61cd59e982272674",
+  "versions": [
+    {
+      "pkg": "semver",
+      "semver": "1.0.9",
+      "publishedAt": "2011-07-20T21:38:13.081Z",
+      "publisher": null,
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/semver",
+          "observedAt": "2026-11-16T10:35:25.721Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/semver",
+          "observedAt": "2026-11-16T10:35:25.721Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/semver",
+          "observedAt": "2026-11-16T10:35:25.721Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/semver",
+          "observedAt": "2026-11-16T10:35:25.721Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "semver",
+      "semver": "4.2.2",
+      "publishedAt": "2015-02-10T06:46:44.370Z",
+      "publisher": "othiym23",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/semver",
+          "observedAt": "2026-11-16T10:35:25.721Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/semver",
+          "observedAt": "2026-11-16T10:35:25.721Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/semver",
+          "observedAt": "2026-11-16T10:35:25.721Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/semver",
+          "observedAt": "2026-11-16T10:35:25.721Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/semver",
+          "observedAt": "2026-11-16T10:35:25.721Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "semver",
+      "semver": "6.3.1",
+      "publishedAt": "2023-07-10T22:38:41.428Z",
+      "publisher": "lukekarrys",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 68343,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/semver",
+          "observedAt": "2026-11-16T10:35:25.721Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/semver",
+          "observedAt": "2026-11-16T10:35:25.721Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/semver",
+          "observedAt": "2026-11-16T10:35:25.721Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/semver",
+          "observedAt": "2026-11-16T10:35:25.721Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/semver",
+          "observedAt": "2026-11-16T10:35:25.721Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/semver",
+          "observedAt": "2026-11-16T10:35:25.721Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "semver",
+      "semver": "7.3.5",
+      "publishedAt": "2021-03-23T01:37:52.803Z",
+      "publisher": "isaacs",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 88244,
+      "dependencies": {
+        "lru-cache": "^6.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/semver",
+          "observedAt": "2026-11-16T10:35:25.721Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/semver",
+          "observedAt": "2026-11-16T10:35:25.721Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/semver",
+          "observedAt": "2026-11-16T10:35:25.721Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/semver",
+          "observedAt": "2026-11-16T10:35:25.721Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/semver",
+          "observedAt": "2026-11-16T10:35:25.721Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/semver",
+          "observedAt": "2026-11-16T10:35:25.721Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "semver",
+      "semver": "7.3.8",
+      "publishedAt": "2022-10-04T19:40:47.960Z",
+      "publisher": "gar",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 88204,
+      "dependencies": {
+        "lru-cache": "^6.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/semver",
+          "observedAt": "2026-11-16T10:35:25.721Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/semver",
+          "observedAt": "2026-11-16T10:35:25.721Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/semver",
+          "observedAt": "2026-11-16T10:35:25.721Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/semver",
+          "observedAt": "2026-11-16T10:35:25.721Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/semver",
+          "observedAt": "2026-11-16T10:35:25.721Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/semver",
+          "observedAt": "2026-11-16T10:35:25.721Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "semver",
+      "semver": "7.7.2",
+      "publishedAt": "2025-05-12T17:02:28.372Z",
+      "publisher": "npm-cli-ops",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 97420,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/semver",
+          "observedAt": "2026-11-16T10:35:25.721Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/semver",
+          "observedAt": "2026-11-16T10:35:25.721Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/semver",
+          "observedAt": "2026-11-16T10:35:25.721Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/semver",
+          "observedAt": "2026-11-16T10:35:25.721Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/semver",
+          "observedAt": "2026-11-16T10:35:25.721Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/semver",
+          "observedAt": "2026-11-16T10:35:25.721Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

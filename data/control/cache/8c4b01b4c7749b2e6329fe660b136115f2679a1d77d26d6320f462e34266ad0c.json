@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "psl",
+  "source": "https://registry.npmjs.org/psl",
+  "fetchedAt": "2026-11-16T10:35:21.594Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 53
+  },
+  "sourceSha256": "0ca7fca549b1ba281c20c457abaaae6ceac4790b90ef0863cb0aeda0c78865b3",
+  "versions": [
+    {
+      "pkg": "psl",
+      "semver": "1.15.0",
+      "publishedAt": "2024-12-02T10:16:04.251Z",
+      "publisher": "lupomontero",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 711982,
+      "dependencies": {
+        "punycode": "^2.3.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/psl",
+          "observedAt": "2026-11-16T10:35:21.594Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/psl",
+          "observedAt": "2026-11-16T10:35:21.594Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/psl",
+          "observedAt": "2026-11-16T10:35:21.594Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/psl",
+          "observedAt": "2026-11-16T10:35:21.594Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/psl",
+          "observedAt": "2026-11-16T10:35:21.594Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/psl",
+          "observedAt": "2026-11-16T10:35:21.594Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

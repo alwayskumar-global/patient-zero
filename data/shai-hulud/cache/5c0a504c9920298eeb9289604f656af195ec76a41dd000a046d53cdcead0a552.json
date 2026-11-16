@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@nativescript-community/ui-collectionview",
+  "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-collectionview",
+  "fetchedAt": "2026-11-16T10:31:27.279Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 187
+  },
+  "sourceSha256": "b7a4e7b6a8a31c0be1f09473a13c3562d2626df1eb6e6d3568743d7eccbc153b",
+  "versions": [
+    {
+      "pkg": "@nativescript-community/ui-collectionview",
+      "semver": "3.0.6",
+      "publishedAt": "2020-08-21T14:32:47.790Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-collectionview",
+          "observedAt": "2026-11-16T10:31:27.279Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nativescript-community/ui-collectionview",
+      "semver": "4.0.0",
+      "publishedAt": "2020-08-28T06:40:02.991Z",
+      "publisher": "walkerrunpdx",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 529790,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-collectionview",
+          "observedAt": "2026-11-16T10:31:27.279Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-collectionview",
+          "observedAt": "2026-11-16T10:31:27.279Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-collectionview",
+          "observedAt": "2026-11-16T10:31:27.279Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-collectionview",
+          "observedAt": "2026-11-16T10:31:27.279Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-collectionview",
+          "observedAt": "2026-11-16T10:31:27.279Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-collectionview",
+          "observedAt": "2026-11-16T10:31:27.279Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nativescript-community/ui-collectionview",
+      "semver": "6.0.5",
+      "publishedAt": "2025-09-08T13:34:54.733Z",
+      "publisher": "farfromrefuge",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 801633,
+      "dependencies": {
+        "@nativescript-community/arraybuffers": "^1.1.5"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-collectionview",
+          "observedAt": "2026-11-16T10:31:27.279Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-collectionview",
+          "observedAt": "2026-11-16T10:31:27.279Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-collectionview",
+          "observedAt": "2026-11-16T10:31:27.279Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-collectionview",
+          "observedAt": "2026-11-16T10:31:27.279Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-collectionview",
+          "observedAt": "2026-11-16T10:31:27.279Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-collectionview",
+          "observedAt": "2026-11-16T10:31:27.279Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nativescript-community/ui-collectionview",
+      "semver": "6.0.6",
+      "publishedAt": "2025-09-15T19:58:48.544Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-collectionview",
+          "observedAt": "2026-11-16T10:31:27.279Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

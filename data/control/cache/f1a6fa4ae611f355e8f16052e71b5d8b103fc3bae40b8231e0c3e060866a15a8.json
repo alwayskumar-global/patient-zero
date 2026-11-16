@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 1,
+  "pkg": "querystring",
+  "source": "https://registry.npmjs.org/querystring",
+  "fetchedAt": "2026-11-16T10:35:21.798Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 5
+  },
+  "sourceSha256": "ffd97335a9edb97b1f8be6bb4e8bc4513afa4e30a029c950fb15b2ebbdcaa10f",
+  "versions": [
+    {
+      "pkg": "querystring",
+      "semver": "0.0.4",
+      "publishedAt": "2011-08-01T21:10:27.098Z",
+      "publisher": null,
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/querystring",
+          "observedAt": "2026-11-16T10:35:21.798Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/querystring",
+          "observedAt": "2026-11-16T10:35:21.798Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/querystring",
+          "observedAt": "2026-11-16T10:35:21.798Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/querystring",
+          "observedAt": "2026-11-16T10:35:21.798Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "querystring",
+      "semver": "0.2.0",
+      "publishedAt": "2013-03-05T22:13:43.986Z",
+      "publisher": "gozala",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/querystring",
+          "observedAt": "2026-11-16T10:35:21.798Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/querystring",
+          "observedAt": "2026-11-16T10:35:21.798Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/querystring",
+          "observedAt": "2026-11-16T10:35:21.798Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/querystring",
+          "observedAt": "2026-11-16T10:35:21.798Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/querystring",
+          "observedAt": "2026-11-16T10:35:21.798Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "querystring",
+      "semver": "0.2.1",
+      "publishedAt": "2021-02-15T14:38:16.963Z",
+      "publisher": "medikoo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 9387,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/querystring",
+          "observedAt": "2026-11-16T10:35:21.798Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/querystring",
+          "observedAt": "2026-11-16T10:35:21.798Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/querystring",
+          "observedAt": "2026-11-16T10:35:21.798Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/querystring",
+          "observedAt": "2026-11-16T10:35:21.798Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/querystring",
+          "observedAt": "2026-11-16T10:35:21.798Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/querystring",
+          "observedAt": "2026-11-16T10:35:21.798Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@sinonjs/fake-timers",
+  "source": "https://registry.npmjs.org/%40sinonjs%2Ffake-timers",
+  "fetchedAt": "2026-11-16T10:34:38.979Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 51
+  },
+  "sourceSha256": "4c82e98f66d20c602258865e5e74f68f4582cae2f4d755882da463250e985a53",
+  "versions": [
+    {
+      "pkg": "@sinonjs/fake-timers",
+      "semver": "10.0.0",
+      "publishedAt": "2022-11-08T15:15:04.341Z",
+      "publisher": "mrgnrdrck",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 79010,
+      "dependencies": {
+        "@sinonjs/commons": "^2.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40sinonjs%2Ffake-timers",
+          "observedAt": "2026-11-16T10:34:38.979Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40sinonjs%2Ffake-timers",
+          "observedAt": "2026-11-16T10:34:38.979Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40sinonjs%2Ffake-timers",
+          "observedAt": "2026-11-16T10:34:38.979Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40sinonjs%2Ffake-timers",
+          "observedAt": "2026-11-16T10:34:38.979Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40sinonjs%2Ffake-timers",
+          "observedAt": "2026-11-16T10:34:38.979Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40sinonjs%2Ffake-timers",
+          "observedAt": "2026-11-16T10:34:38.979Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@sinonjs/fake-timers",
+      "semver": "14.0.0",
+      "publishedAt": "2024-12-10T05:19:53.045Z",
+      "publisher": "fatso83",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 97565,
+      "dependencies": {
+        "@sinonjs/commons": "^3.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40sinonjs%2Ffake-timers",
+          "observedAt": "2026-11-16T10:34:38.979Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40sinonjs%2Ffake-timers",
+          "observedAt": "2026-11-16T10:34:38.979Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40sinonjs%2Ffake-timers",
+          "observedAt": "2026-11-16T10:34:38.979Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40sinonjs%2Ffake-timers",
+          "observedAt": "2026-11-16T10:34:38.979Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40sinonjs%2Ffake-timers",
+          "observedAt": "2026-11-16T10:34:38.979Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40sinonjs%2Ffake-timers",
+          "observedAt": "2026-11-16T10:34:38.979Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@sinonjs/fake-timers",
+      "semver": "9.1.1",
+      "publishedAt": "2022-03-05T08:01:35.809Z",
+      "publisher": "simenb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 91191,
+      "dependencies": {
+        "@sinonjs/commons": "^1.7.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40sinonjs%2Ffake-timers",
+          "observedAt": "2026-11-16T10:34:38.979Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40sinonjs%2Ffake-timers",
+          "observedAt": "2026-11-16T10:34:38.979Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40sinonjs%2Ffake-timers",
+          "observedAt": "2026-11-16T10:34:38.979Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40sinonjs%2Ffake-timers",
+          "observedAt": "2026-11-16T10:34:38.979Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40sinonjs%2Ffake-timers",
+          "observedAt": "2026-11-16T10:34:38.979Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40sinonjs%2Ffake-timers",
+          "observedAt": "2026-11-16T10:34:38.979Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

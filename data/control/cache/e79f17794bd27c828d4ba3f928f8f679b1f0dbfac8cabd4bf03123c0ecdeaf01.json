@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "detect-libc",
+  "source": "https://registry.npmjs.org/detect-libc",
+  "fetchedAt": "2026-11-16T10:34:59.667Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 23
+  },
+  "sourceSha256": "3e3027d62db04ffc50efae3fb75f6184aa79fb06d8454324597c889b4e5fe68f",
+  "versions": [
+    {
+      "pkg": "detect-libc",
+      "semver": "2.0.4",
+      "publishedAt": "2025-04-22T10:26:43.824Z",
+      "publisher": "lovell",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 23652,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/detect-libc",
+          "observedAt": "2026-11-16T10:34:59.667Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/detect-libc",
+          "observedAt": "2026-11-16T10:34:59.667Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/detect-libc",
+          "observedAt": "2026-11-16T10:34:59.667Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/detect-libc",
+          "observedAt": "2026-11-16T10:34:59.667Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/detect-libc",
+          "observedAt": "2026-11-16T10:34:59.667Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/detect-libc",
+          "observedAt": "2026-11-16T10:34:59.667Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

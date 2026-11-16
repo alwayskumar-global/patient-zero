@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "pkg": "dir-glob",
+  "source": "https://registry.npmjs.org/dir-glob",
+  "fetchedAt": "2026-11-16T10:34:59.912Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 10
+  },
+  "sourceSha256": "9b9165653b7b8959db09c0ee717118d62463019e1a8c7d76217bcf1c30bacc59",
+  "versions": [
+    {
+      "pkg": "dir-glob",
+      "semver": "2.2.2",
+      "publishedAt": "2019-01-20T17:58:59.302Z",
+      "publisher": "kevva",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 5299,
+      "dependencies": {
+        "path-type": "^3.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/dir-glob",
+          "observedAt": "2026-11-16T10:34:59.912Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/dir-glob",
+          "observedAt": "2026-11-16T10:34:59.912Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/dir-glob",
+          "observedAt": "2026-11-16T10:34:59.912Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/dir-glob",
+          "observedAt": "2026-11-16T10:34:59.912Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/dir-glob",
+          "observedAt": "2026-11-16T10:34:59.912Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/dir-glob",
+          "observedAt": "2026-11-16T10:34:59.912Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "dir-glob",
+      "semver": "3.0.1",
+      "publishedAt": "2019-06-29T16:22:06.207Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 5417,
+      "dependencies": {
+        "path-type": "^4.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/dir-glob",
+          "observedAt": "2026-11-16T10:34:59.912Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/dir-glob",
+          "observedAt": "2026-11-16T10:34:59.912Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/dir-glob",
+          "observedAt": "2026-11-16T10:34:59.912Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/dir-glob",
+          "observedAt": "2026-11-16T10:34:59.912Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/dir-glob",
+          "observedAt": "2026-11-16T10:34:59.912Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/dir-glob",
+          "observedAt": "2026-11-16T10:34:59.912Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

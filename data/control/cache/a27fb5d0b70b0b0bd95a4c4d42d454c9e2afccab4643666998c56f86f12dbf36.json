@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "bs-logger",
+  "source": "https://registry.npmjs.org/bs-logger",
+  "fetchedAt": "2026-11-16T10:34:57.079Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 7
+  },
+  "sourceSha256": "d864e95bbc49b831303b477e4317bbcac2f1a7437ddfa4ece8ee3cdee0607304",
+  "versions": [
+    {
+      "pkg": "bs-logger",
+      "semver": "0.2.6",
+      "publishedAt": "2018-11-10T06:30:07.047Z",
+      "publisher": "huafu",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 47815,
+      "dependencies": {
+        "fast-json-stable-stringify": "2.x"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/bs-logger",
+          "observedAt": "2026-11-16T10:34:57.079Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/bs-logger",
+          "observedAt": "2026-11-16T10:34:57.079Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/bs-logger",
+          "observedAt": "2026-11-16T10:34:57.079Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/bs-logger",
+          "observedAt": "2026-11-16T10:34:57.079Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/bs-logger",
+          "observedAt": "2026-11-16T10:34:57.079Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/bs-logger",
+          "observedAt": "2026-11-16T10:34:57.079Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

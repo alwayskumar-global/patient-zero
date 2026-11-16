@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "xtend",
+  "source": "https://registry.npmjs.org/xtend",
+  "fetchedAt": "2026-11-16T10:35:35.247Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 17
+  },
+  "sourceSha256": "2a54a369a9a5ef0f708b6ed23ce8b201209ed68bf9f9dad5c008cee1e1552a4f",
+  "versions": [
+    {
+      "pkg": "xtend",
+      "semver": "4.0.2",
+      "publishedAt": "2019-07-08T13:35:45.491Z",
+      "publisher": "raynos",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 6465,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/xtend",
+          "observedAt": "2026-11-16T10:35:35.247Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/xtend",
+          "observedAt": "2026-11-16T10:35:35.247Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/xtend",
+          "observedAt": "2026-11-16T10:35:35.247Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/xtend",
+          "observedAt": "2026-11-16T10:35:35.247Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/xtend",
+          "observedAt": "2026-11-16T10:35:35.247Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/xtend",
+          "observedAt": "2026-11-16T10:35:35.247Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

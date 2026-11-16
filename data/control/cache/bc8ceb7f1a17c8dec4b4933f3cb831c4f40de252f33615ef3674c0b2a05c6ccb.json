@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@emotion/hash",
+  "source": "https://registry.npmjs.org/%40emotion%2Fhash",
+  "fetchedAt": "2026-11-16T10:34:34.011Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 17
+  },
+  "sourceSha256": "0c0e0c08aeb7733316ba255f6b79e380f77675f211c721da761cf1de84275576",
+  "versions": [
+    {
+      "pkg": "@emotion/hash",
+      "semver": "0.7.2",
+      "publishedAt": "2019-06-25T23:08:34.671Z",
+      "publisher": "mitchellhamilton",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 8015,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40emotion%2Fhash",
+          "observedAt": "2026-11-16T10:34:34.011Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40emotion%2Fhash",
+          "observedAt": "2026-11-16T10:34:34.011Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40emotion%2Fhash",
+          "observedAt": "2026-11-16T10:34:34.011Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40emotion%2Fhash",
+          "observedAt": "2026-11-16T10:34:34.011Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40emotion%2Fhash",
+          "observedAt": "2026-11-16T10:34:34.011Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40emotion%2Fhash",
+          "observedAt": "2026-11-16T10:34:34.011Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@emotion/hash",
+      "semver": "0.9.2",
+      "publishedAt": "2024-07-19T06:51:57.403Z",
+      "publisher": "emotion-release-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 9928,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40emotion%2Fhash",
+          "observedAt": "2026-11-16T10:34:34.011Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40emotion%2Fhash",
+          "observedAt": "2026-11-16T10:34:34.011Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40emotion%2Fhash",
+          "observedAt": "2026-11-16T10:34:34.011Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40emotion%2Fhash",
+          "observedAt": "2026-11-16T10:34:34.011Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40emotion%2Fhash",
+          "observedAt": "2026-11-16T10:34:34.011Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40emotion%2Fhash",
+          "observedAt": "2026-11-16T10:34:34.011Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

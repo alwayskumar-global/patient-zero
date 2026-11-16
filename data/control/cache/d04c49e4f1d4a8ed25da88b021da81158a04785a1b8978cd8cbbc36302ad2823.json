@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@protobufjs/fetch",
+  "source": "https://registry.npmjs.org/%40protobufjs%2Ffetch",
+  "fetchedAt": "2026-11-16T10:34:37.073Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 7
+  },
+  "sourceSha256": "2a5ccbc968514e3d7c03c160740af171cdddfda51cfc4ba89865bbed616e6bf1",
+  "versions": [
+    {
+      "pkg": "@protobufjs/fetch",
+      "semver": "1.0.0",
+      "publishedAt": "2016-12-12T13:57:44.108Z",
+      "publisher": "protobufjs",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "@protobufjs/fs": "^1.0.0",
+        "@protobufjs/aspromise": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40protobufjs%2Ffetch",
+          "observedAt": "2026-11-16T10:34:37.073Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40protobufjs%2Ffetch",
+          "observedAt": "2026-11-16T10:34:37.073Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40protobufjs%2Ffetch",
+          "observedAt": "2026-11-16T10:34:37.073Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40protobufjs%2Ffetch",
+          "observedAt": "2026-11-16T10:34:37.073Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40protobufjs%2Ffetch",
+          "observedAt": "2026-11-16T10:34:37.073Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@protobufjs/fetch",
+      "semver": "1.1.0",
+      "publishedAt": "2017-01-27T15:50:55.061Z",
+      "publisher": "dcode",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "@protobufjs/inquire": "^1.1.0",
+        "@protobufjs/aspromise": "^1.1.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40protobufjs%2Ffetch",
+          "observedAt": "2026-11-16T10:34:37.073Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40protobufjs%2Ffetch",
+          "observedAt": "2026-11-16T10:34:37.073Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40protobufjs%2Ffetch",
+          "observedAt": "2026-11-16T10:34:37.073Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40protobufjs%2Ffetch",
+          "observedAt": "2026-11-16T10:34:37.073Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40protobufjs%2Ffetch",
+          "observedAt": "2026-11-16T10:34:37.073Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

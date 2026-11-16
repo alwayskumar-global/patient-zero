@@ -1,0 +1,992 @@
+{
+  "schemaVersion": 1,
+  "incident": "shai-hulud-2025-09",
+  "incidentSha256": "ddeb0d39286342891d5b870b7f4d8fb5c0b3d3fa4befae8c3668636983c3ee4b",
+  "packages": [
+    {
+      "pkg": "@ahmedhfarag/ngx-perfect-scrollbar",
+      "file": "6c3e17b952445edbd1cc12db62106df666b972ca0c949318f33ea2cbb0af53bc.json",
+      "sha256": "6c3e17b952445edbd1cc12db62106df666b972ca0c949318f33ea2cbb0af53bc"
+    },
+    {
+      "pkg": "@ahmedhfarag/ngx-virtual-scroller",
+      "file": "8f23489419bb0124d13e8c72b9acc636e26b415d6c131f98c8da4a34c4300d61.json",
+      "sha256": "8f23489419bb0124d13e8c72b9acc636e26b415d6c131f98c8da4a34c4300d61"
+    },
+    {
+      "pkg": "@art-ws/common",
+      "file": "4a812efec0977a01dd859c3ae75dcba124d37967ce02b04060a534f9e11ef299.json",
+      "sha256": "4a812efec0977a01dd859c3ae75dcba124d37967ce02b04060a534f9e11ef299"
+    },
+    {
+      "pkg": "@art-ws/config-eslint",
+      "file": "5e142dfbb6ad4b3e19b8fc00aa29532737751f8159540d2cf3d077891962247e.json",
+      "sha256": "5e142dfbb6ad4b3e19b8fc00aa29532737751f8159540d2cf3d077891962247e"
+    },
+    {
+      "pkg": "@art-ws/config-ts",
+      "file": "7d4eb597f2fcd9f1a4710f9fdd87469f0176a7f9cbb06eb78ad615a828147961.json",
+      "sha256": "7d4eb597f2fcd9f1a4710f9fdd87469f0176a7f9cbb06eb78ad615a828147961"
+    },
+    {
+      "pkg": "@art-ws/db-context",
+      "file": "c8ce6dfad85524a2ada6fce725f3ad28a58b11d43437c0392d1c66e04e6f207a.json",
+      "sha256": "c8ce6dfad85524a2ada6fce725f3ad28a58b11d43437c0392d1c66e04e6f207a"
+    },
+    {
+      "pkg": "@art-ws/di",
+      "file": "e6d0118524d4f68dc6ede07c093c906cdde2dd6d794d31ff9abf77683693f780.json",
+      "sha256": "e6d0118524d4f68dc6ede07c093c906cdde2dd6d794d31ff9abf77683693f780"
+    },
+    {
+      "pkg": "@art-ws/di-node",
+      "file": "d658457f84a589142aaa5c497896d706f5e3f85162bb5209a23e751f75571362.json",
+      "sha256": "d658457f84a589142aaa5c497896d706f5e3f85162bb5209a23e751f75571362"
+    },
+    {
+      "pkg": "@art-ws/eslint",
+      "file": "e5813eefb8eb6fed90454293d7d8b133a6c8b2caf8f2dd4fe308031ae8f29951.json",
+      "sha256": "e5813eefb8eb6fed90454293d7d8b133a6c8b2caf8f2dd4fe308031ae8f29951"
+    },
+    {
+      "pkg": "@art-ws/fastify-http-server",
+      "file": "4fb27cb9cd1f786467ab6571a176f72b8e9ec5cb6d9e0bca9002f8d252fe46ba.json",
+      "sha256": "4fb27cb9cd1f786467ab6571a176f72b8e9ec5cb6d9e0bca9002f8d252fe46ba"
+    },
+    {
+      "pkg": "@art-ws/http-server",
+      "file": "2618c2c0e969562948826e79161946da44987c01f06d6227e4e9630bfca444ef.json",
+      "sha256": "2618c2c0e969562948826e79161946da44987c01f06d6227e4e9630bfca444ef"
+    },
+    {
+      "pkg": "@art-ws/openapi",
+      "file": "4525820218e4b19a3a8c66424f32c43d3df4af53094945e76f19130fad91e3be.json",
+      "sha256": "4525820218e4b19a3a8c66424f32c43d3df4af53094945e76f19130fad91e3be"
+    },
+    {
+      "pkg": "@art-ws/package-base",
+      "file": "7ab45bd67b571423fe6a0a4ea8656923b8a3f0949185ee90572fe682b8324d7e.json",
+      "sha256": "7ab45bd67b571423fe6a0a4ea8656923b8a3f0949185ee90572fe682b8324d7e"
+    },
+    {
+      "pkg": "@art-ws/prettier",
+      "file": "f73cf648d692d9e2c2d2df7a4f807961e5b40052a717fb0905b59793dd33115c.json",
+      "sha256": "f73cf648d692d9e2c2d2df7a4f807961e5b40052a717fb0905b59793dd33115c"
+    },
+    {
+      "pkg": "@art-ws/slf",
+      "file": "9f8af5cf134772c0fa1df94af86bfc41bab204f5a0384778d7494252cbf5fad3.json",
+      "sha256": "9f8af5cf134772c0fa1df94af86bfc41bab204f5a0384778d7494252cbf5fad3"
+    },
+    {
+      "pkg": "@art-ws/ssl-info",
+      "file": "550e7d5e29f3e2a2226384c6775746eb251b2a4407281aee4a304007f08aa70a.json",
+      "sha256": "550e7d5e29f3e2a2226384c6775746eb251b2a4407281aee4a304007f08aa70a"
+    },
+    {
+      "pkg": "@art-ws/web-app",
+      "file": "a205b5d3a2bae5df7d12aa15328cb2468ecfe82e1c2793d1328514b492c16788.json",
+      "sha256": "a205b5d3a2bae5df7d12aa15328cb2468ecfe82e1c2793d1328514b492c16788"
+    },
+    {
+      "pkg": "@basic-ui-components-stc/basic-ui-components",
+      "file": "c0b6b80776f1b1ddb1a395bcf15dc34ccadcbebcc8e675a4b91d1a10bb25f480.json",
+      "sha256": "c0b6b80776f1b1ddb1a395bcf15dc34ccadcbebcc8e675a4b91d1a10bb25f480"
+    },
+    {
+      "pkg": "@crowdstrike/commitlint",
+      "file": "7b76cb45301af85af1d97d5559f8b61ac37104a09b2d28ba091db8ba6345754c.json",
+      "sha256": "7b76cb45301af85af1d97d5559f8b61ac37104a09b2d28ba091db8ba6345754c"
+    },
+    {
+      "pkg": "@crowdstrike/falcon-shoelace",
+      "file": "d52cdee5ac885516cfc92c79cb1129bc639dd0eccd35060087c1b4cf3826248b.json",
+      "sha256": "d52cdee5ac885516cfc92c79cb1129bc639dd0eccd35060087c1b4cf3826248b"
+    },
+    {
+      "pkg": "@crowdstrike/foundry-js",
+      "file": "c80771ab48bafa3fcfcc4ff40acd79b166ef15433da0a8d4de6294b8aafb041e.json",
+      "sha256": "c80771ab48bafa3fcfcc4ff40acd79b166ef15433da0a8d4de6294b8aafb041e"
+    },
+    {
+      "pkg": "@crowdstrike/glide-core",
+      "file": "80070c0ae723888ac4a811076764cbbd0b777dbc58beb9c5618d36e13dfc308c.json",
+      "sha256": "80070c0ae723888ac4a811076764cbbd0b777dbc58beb9c5618d36e13dfc308c"
+    },
+    {
+      "pkg": "@crowdstrike/logscale-dashboard",
+      "file": "2ac179602a679f58cf073fb50c336b49b4a5a06d43ab49b653d61a019f53f5b3.json",
+      "sha256": "2ac179602a679f58cf073fb50c336b49b4a5a06d43ab49b653d61a019f53f5b3"
+    },
+    {
+      "pkg": "@crowdstrike/logscale-file-editor",
+      "file": "6315b3ca49bd90af85ae898d8e3aca1fcf43fb6807e4cef5f935ef44e1e43d02.json",
+      "sha256": "6315b3ca49bd90af85ae898d8e3aca1fcf43fb6807e4cef5f935ef44e1e43d02"
+    },
+    {
+      "pkg": "@crowdstrike/logscale-parser-edit",
+      "file": "f39be18d584a976025af8f3c35cb19f5906bd9f16ab14ffb464bb8869606c930.json",
+      "sha256": "f39be18d584a976025af8f3c35cb19f5906bd9f16ab14ffb464bb8869606c930"
+    },
+    {
+      "pkg": "@crowdstrike/logscale-search",
+      "file": "21f40e30dfe7242d7c8e1a58dccc21b8a0fd73d5e10a24e77db6079d89dc9fb2.json",
+      "sha256": "21f40e30dfe7242d7c8e1a58dccc21b8a0fd73d5e10a24e77db6079d89dc9fb2"
+    },
+    {
+      "pkg": "@crowdstrike/tailwind-toucan-base",
+      "file": "0126a1ca409a2fd9d361a40b8b31a304a256cf03fecfe8598a22f1aa8d045774.json",
+      "sha256": "0126a1ca409a2fd9d361a40b8b31a304a256cf03fecfe8598a22f1aa8d045774"
+    },
+    {
+      "pkg": "@ctrl/deluge",
+      "file": "5656fa524b215c9913a300e80ec94a7cf01df3dc80f66c6f84a578897d603413.json",
+      "sha256": "5656fa524b215c9913a300e80ec94a7cf01df3dc80f66c6f84a578897d603413"
+    },
+    {
+      "pkg": "@ctrl/golang-template",
+      "file": "3c4ad808c24bae54138d9d993262ad2719b598bfa75a353bdfdce83643c3c120.json",
+      "sha256": "3c4ad808c24bae54138d9d993262ad2719b598bfa75a353bdfdce83643c3c120"
+    },
+    {
+      "pkg": "@ctrl/magnet-link",
+      "file": "5f9bc1ee9859642b989d154faa0069b26d00f9ddf1b4bf358ba8a1d0d0973a1d.json",
+      "sha256": "5f9bc1ee9859642b989d154faa0069b26d00f9ddf1b4bf358ba8a1d0d0973a1d"
+    },
+    {
+      "pkg": "@ctrl/ngx-codemirror",
+      "file": "fd4db53b00477db3c7090b157f2f3d80afccabaa2df2dda667bf7c9876cb32d8.json",
+      "sha256": "fd4db53b00477db3c7090b157f2f3d80afccabaa2df2dda667bf7c9876cb32d8"
+    },
+    {
+      "pkg": "@ctrl/ngx-csv",
+      "file": "0a652b478b179ca150c3d41aa2b1eb151960720c1ffd32760f6e0d4b7a252030.json",
+      "sha256": "0a652b478b179ca150c3d41aa2b1eb151960720c1ffd32760f6e0d4b7a252030"
+    },
+    {
+      "pkg": "@ctrl/ngx-emoji-mart",
+      "file": "f1e8cf889b891c43dc408ec771244d42ff1536016533ad354a4185b5ce88d251.json",
+      "sha256": "f1e8cf889b891c43dc408ec771244d42ff1536016533ad354a4185b5ce88d251"
+    },
+    {
+      "pkg": "@ctrl/ngx-rightclick",
+      "file": "9ad6361da558be9b2bd9285c75151a30353ae9e0d51ba32da72e0dddc8cd0648.json",
+      "sha256": "9ad6361da558be9b2bd9285c75151a30353ae9e0d51ba32da72e0dddc8cd0648"
+    },
+    {
+      "pkg": "@ctrl/qbittorrent",
+      "file": "b1d053ac66e2d9665b89d1992a6ed8c8918fde9638455071b1a9a0d07144c071.json",
+      "sha256": "b1d053ac66e2d9665b89d1992a6ed8c8918fde9638455071b1a9a0d07144c071"
+    },
+    {
+      "pkg": "@ctrl/react-adsense",
+      "file": "3fb924a430adeca0ab57821be7994bcc782562d430c973f8b48dba1f6ac73dbb.json",
+      "sha256": "3fb924a430adeca0ab57821be7994bcc782562d430c973f8b48dba1f6ac73dbb"
+    },
+    {
+      "pkg": "@ctrl/shared-torrent",
+      "file": "e3eb604a8996b35f7a2ec9f13cfa58075f8bbe3977d4d93f453d068e1cd0f539.json",
+      "sha256": "e3eb604a8996b35f7a2ec9f13cfa58075f8bbe3977d4d93f453d068e1cd0f539"
+    },
+    {
+      "pkg": "@ctrl/tinycolor",
+      "file": "62ef739327ed88467f326f362b6342b7992193d80921279e2dc48297c912f7db.json",
+      "sha256": "62ef739327ed88467f326f362b6342b7992193d80921279e2dc48297c912f7db"
+    },
+    {
+      "pkg": "@ctrl/torrent-file",
+      "file": "d44aa32062f4ffa04ede7eb6ddfb5e07283dedfa0437334e8bb4d2b86a6079d6.json",
+      "sha256": "d44aa32062f4ffa04ede7eb6ddfb5e07283dedfa0437334e8bb4d2b86a6079d6"
+    },
+    {
+      "pkg": "@ctrl/transmission",
+      "file": "0c4fe0b333e3afc35d3b22e64e1a41d091262acc4f47efb8260365824e2b7153.json",
+      "sha256": "0c4fe0b333e3afc35d3b22e64e1a41d091262acc4f47efb8260365824e2b7153"
+    },
+    {
+      "pkg": "@ctrl/ts-base32",
+      "file": "7efbbb3f8fdb1f4701045aa5627c1fee9a2a6b47d60b9616033fb773c014ec32.json",
+      "sha256": "7efbbb3f8fdb1f4701045aa5627c1fee9a2a6b47d60b9616033fb773c014ec32"
+    },
+    {
+      "pkg": "@hestjs/core",
+      "file": "b711748237dfdfd8f65b5e72b225cf70bc127bbfe7490c14b0036150bfb0ba7a.json",
+      "sha256": "b711748237dfdfd8f65b5e72b225cf70bc127bbfe7490c14b0036150bfb0ba7a"
+    },
+    {
+      "pkg": "@hestjs/cqrs",
+      "file": "09feba178d1c6741f92abdac1c84e341e5323355811ac5724bedbbd531e2ac83.json",
+      "sha256": "09feba178d1c6741f92abdac1c84e341e5323355811ac5724bedbbd531e2ac83"
+    },
+    {
+      "pkg": "@hestjs/demo",
+      "file": "e7d08153cfec6e550ad1753a7779902492008763ac864ec82b52c91fa18738fc.json",
+      "sha256": "e7d08153cfec6e550ad1753a7779902492008763ac864ec82b52c91fa18738fc"
+    },
+    {
+      "pkg": "@hestjs/eslint-config",
+      "file": "a28ff3d9dcaab255721e2763ea951f88b3b87a5fa562828f08d9182728ff9f65.json",
+      "sha256": "a28ff3d9dcaab255721e2763ea951f88b3b87a5fa562828f08d9182728ff9f65"
+    },
+    {
+      "pkg": "@hestjs/logger",
+      "file": "abb608ae7935c0eeadc2c0eba08b2ee42b300cea2ae9ab61ef06c6493ccb8aa1.json",
+      "sha256": "abb608ae7935c0eeadc2c0eba08b2ee42b300cea2ae9ab61ef06c6493ccb8aa1"
+    },
+    {
+      "pkg": "@hestjs/scalar",
+      "file": "7008dd32fe8f4f7ec6cde953308b5fcaeb9eacc4cdbd3345439ccff20415f2dd.json",
+      "sha256": "7008dd32fe8f4f7ec6cde953308b5fcaeb9eacc4cdbd3345439ccff20415f2dd"
+    },
+    {
+      "pkg": "@hestjs/validation",
+      "file": "c5baa7cc19eb772335ee2c4c04cdab817ca56f3847ed3a64a1aa100a509a53d1.json",
+      "sha256": "c5baa7cc19eb772335ee2c4c04cdab817ca56f3847ed3a64a1aa100a509a53d1"
+    },
+    {
+      "pkg": "@nativescript-community/arraybuffers",
+      "file": "05ab937848f0e7a23d3323d6638627697e64843dc2adb7775cd907f624171efc.json",
+      "sha256": "05ab937848f0e7a23d3323d6638627697e64843dc2adb7775cd907f624171efc"
+    },
+    {
+      "pkg": "@nativescript-community/gesturehandler",
+      "file": "331aa1b09827d6445a6ba67780490bf3c3658728d149dbc02a509be4a4e96a01.json",
+      "sha256": "331aa1b09827d6445a6ba67780490bf3c3658728d149dbc02a509be4a4e96a01"
+    },
+    {
+      "pkg": "@nativescript-community/perms",
+      "file": "a6df14a7bfd424a0664c7f086a1ed7f1330b1e3910ee645b5aae84834c454b58.json",
+      "sha256": "a6df14a7bfd424a0664c7f086a1ed7f1330b1e3910ee645b5aae84834c454b58"
+    },
+    {
+      "pkg": "@nativescript-community/sentry",
+      "file": "6fb40065864350ef6d8d4d8a62ea2c14cd3207b2b0fd711e943ea8f971f321e7.json",
+      "sha256": "6fb40065864350ef6d8d4d8a62ea2c14cd3207b2b0fd711e943ea8f971f321e7"
+    },
+    {
+      "pkg": "@nativescript-community/sqlite",
+      "file": "408befacbd5bba5c5411150a4150dc04956374b06370b5d1fcffcf70abd3701b.json",
+      "sha256": "408befacbd5bba5c5411150a4150dc04956374b06370b5d1fcffcf70abd3701b"
+    },
+    {
+      "pkg": "@nativescript-community/text",
+      "file": "0b9aa7f01f866fffe6581f6a775e9d562de8543d6cda3f215dffc5056ee48cb3.json",
+      "sha256": "0b9aa7f01f866fffe6581f6a775e9d562de8543d6cda3f215dffc5056ee48cb3"
+    },
+    {
+      "pkg": "@nativescript-community/typeorm",
+      "file": "c7267403a190891de2d17be368e37c3fb2e65282e15e738de85693a855639781.json",
+      "sha256": "c7267403a190891de2d17be368e37c3fb2e65282e15e738de85693a855639781"
+    },
+    {
+      "pkg": "@nativescript-community/ui-collectionview",
+      "file": "5c0a504c9920298eeb9289604f656af195ec76a41dd000a046d53cdcead0a552.json",
+      "sha256": "5c0a504c9920298eeb9289604f656af195ec76a41dd000a046d53cdcead0a552"
+    },
+    {
+      "pkg": "@nativescript-community/ui-document-picker",
+      "file": "e24869aa10de415cbc260b005e54ebfee1c6b728c5e3654c28c7aa607222d3eb.json",
+      "sha256": "e24869aa10de415cbc260b005e54ebfee1c6b728c5e3654c28c7aa607222d3eb"
+    },
+    {
+      "pkg": "@nativescript-community/ui-drawer",
+      "file": "36cc3c9522472e364fba400037d413305058c732cf0b3ef9f37b3ff209e19afb.json",
+      "sha256": "36cc3c9522472e364fba400037d413305058c732cf0b3ef9f37b3ff209e19afb"
+    },
+    {
+      "pkg": "@nativescript-community/ui-image",
+      "file": "7ada895af0075a17ef5c4e223df7bada5fc02fbd5ad0fe2978f0ffd712ce9434.json",
+      "sha256": "7ada895af0075a17ef5c4e223df7bada5fc02fbd5ad0fe2978f0ffd712ce9434"
+    },
+    {
+      "pkg": "@nativescript-community/ui-label",
+      "file": "1802e2e21f52f9d48ddedeb71d52c19170c1cb64300554ae9d04be9247bdd1ec.json",
+      "sha256": "1802e2e21f52f9d48ddedeb71d52c19170c1cb64300554ae9d04be9247bdd1ec"
+    },
+    {
+      "pkg": "@nativescript-community/ui-material-bottom-navigation",
+      "file": "92c7f0a4230709b809f78b80f175460ad72be3520c66a43b52d86b1ad0c6acd1.json",
+      "sha256": "92c7f0a4230709b809f78b80f175460ad72be3520c66a43b52d86b1ad0c6acd1"
+    },
+    {
+      "pkg": "@nativescript-community/ui-material-bottomsheet",
+      "file": "9cf930323520b6adafebf523189179e64bf87e9bbcdbf29e2a7386e194ecc9eb.json",
+      "sha256": "9cf930323520b6adafebf523189179e64bf87e9bbcdbf29e2a7386e194ecc9eb"
+    },
+    {
+      "pkg": "@nativescript-community/ui-material-core",
+      "file": "74b923b20c2120d7fdf5376aed3f0593e8e6528c24cd321473d998d744e165ab.json",
+      "sha256": "74b923b20c2120d7fdf5376aed3f0593e8e6528c24cd321473d998d744e165ab"
+    },
+    {
+      "pkg": "@nativescript-community/ui-material-core-tabs",
+      "file": "a996bddf93f704dc24221add5338a318b8b26c5d866200d61440e775e67846c9.json",
+      "sha256": "a996bddf93f704dc24221add5338a318b8b26c5d866200d61440e775e67846c9"
+    },
+    {
+      "pkg": "@nativescript-community/ui-material-ripple",
+      "file": "3134389e3dff63be2b38a19dc4efca6a1cf449058a39ac9f154620cb6819006d.json",
+      "sha256": "3134389e3dff63be2b38a19dc4efca6a1cf449058a39ac9f154620cb6819006d"
+    },
+    {
+      "pkg": "@nativescript-community/ui-material-tabs",
+      "file": "bc3fef7777b669e91480b8af067e384a72ba3d6abd804c4e2ee865d2e0c428e1.json",
+      "sha256": "bc3fef7777b669e91480b8af067e384a72ba3d6abd804c4e2ee865d2e0c428e1"
+    },
+    {
+      "pkg": "@nativescript-community/ui-pager",
+      "file": "6e497aa8cfc0ee3692bd31fe926120e843fc6f3a220b545f40455941792256ae.json",
+      "sha256": "6e497aa8cfc0ee3692bd31fe926120e843fc6f3a220b545f40455941792256ae"
+    },
+    {
+      "pkg": "@nativescript-community/ui-pulltorefresh",
+      "file": "8adad83740c9e5851f8663be4db8c5369c376c7e057b5f6e60e60c8490aa5e26.json",
+      "sha256": "8adad83740c9e5851f8663be4db8c5369c376c7e057b5f6e60e60c8490aa5e26"
+    },
+    {
+      "pkg": "@nexe/config-manager",
+      "file": "e9a33f3bd69097d9c4d2b446e0f8ec22aac426f755b51493bde8f76d5322568c.json",
+      "sha256": "e9a33f3bd69097d9c4d2b446e0f8ec22aac426f755b51493bde8f76d5322568c"
+    },
+    {
+      "pkg": "@nexe/eslint-config",
+      "file": "43de358d9af066dc842fa2ff8439addd1dcc5834b5e05a8b6162a55b1924f245.json",
+      "sha256": "43de358d9af066dc842fa2ff8439addd1dcc5834b5e05a8b6162a55b1924f245"
+    },
+    {
+      "pkg": "@nexe/logger",
+      "file": "a47ba761a1740f172b6a6d9530007c87444149a98fac9932f416f8a33e341adf.json",
+      "sha256": "a47ba761a1740f172b6a6d9530007c87444149a98fac9932f416f8a33e341adf"
+    },
+    {
+      "pkg": "@nstudio/angular",
+      "file": "b1b5698f6782a357be43850b39129d5c358703e33b28957beff1bf224f076a92.json",
+      "sha256": "b1b5698f6782a357be43850b39129d5c358703e33b28957beff1bf224f076a92"
+    },
+    {
+      "pkg": "@nstudio/focus",
+      "file": "627f08b8f4d010a629d85e97983caa3e2c5679d4dfaefbac01f4364554097a66.json",
+      "sha256": "627f08b8f4d010a629d85e97983caa3e2c5679d4dfaefbac01f4364554097a66"
+    },
+    {
+      "pkg": "@nstudio/nativescript-checkbox",
+      "file": "80c227cd855adeaece93f0e7b56ed34a45123dbfdbdc7cf42185b1a0e76a2899.json",
+      "sha256": "80c227cd855adeaece93f0e7b56ed34a45123dbfdbdc7cf42185b1a0e76a2899"
+    },
+    {
+      "pkg": "@nstudio/nativescript-loading-indicator",
+      "file": "ffd62ed03fe5a02d0f22d069b7b558f417fefc534890eab18148593839f487ea.json",
+      "sha256": "ffd62ed03fe5a02d0f22d069b7b558f417fefc534890eab18148593839f487ea"
+    },
+    {
+      "pkg": "@nstudio/ui-collectionview",
+      "file": "9e45133644cdcb8bc4bceeb65f0f0b37402eff85afc2caaba4c40f9b9daa9fdd.json",
+      "sha256": "9e45133644cdcb8bc4bceeb65f0f0b37402eff85afc2caaba4c40f9b9daa9fdd"
+    },
+    {
+      "pkg": "@nstudio/web",
+      "file": "565f8030b357f71c1568ec265d0a27c4fd5dd5927b621a4ba4fd9d64498c59d0.json",
+      "sha256": "565f8030b357f71c1568ec265d0a27c4fd5dd5927b621a4ba4fd9d64498c59d0"
+    },
+    {
+      "pkg": "@nstudio/web-angular",
+      "file": "cfcc36eedb1a99f4bc2808640e9b22d1f1727674291c7b51d854178a60a77ce4.json",
+      "sha256": "cfcc36eedb1a99f4bc2808640e9b22d1f1727674291c7b51d854178a60a77ce4"
+    },
+    {
+      "pkg": "@nstudio/xplat",
+      "file": "61eea315e12b20c9e65b6aa8e9ec7ccc8a871e175bee303991558b7bd68a20ec.json",
+      "sha256": "61eea315e12b20c9e65b6aa8e9ec7ccc8a871e175bee303991558b7bd68a20ec"
+    },
+    {
+      "pkg": "@nstudio/xplat-utils",
+      "file": "428f9749094f12c7f393604955d0424c4c539264588833cfb441a5fe7b846100.json",
+      "sha256": "428f9749094f12c7f393604955d0424c4c539264588833cfb441a5fe7b846100"
+    },
+    {
+      "pkg": "@operato/board",
+      "file": "d596f4578d4a80203925317fb134da3c5f29cb36591e4a0317a8fcfc1e31cb2c.json",
+      "sha256": "d596f4578d4a80203925317fb134da3c5f29cb36591e4a0317a8fcfc1e31cb2c"
+    },
+    {
+      "pkg": "@operato/data-grist",
+      "file": "27f1a60a81fe00e90905efe0804eaf349f9cc17220a73f5609f105164e1e9dab.json",
+      "sha256": "27f1a60a81fe00e90905efe0804eaf349f9cc17220a73f5609f105164e1e9dab"
+    },
+    {
+      "pkg": "@operato/graphql",
+      "file": "7bd3e194cdb008e42a6c0a4dcdfaf978c31b7381ed74bca3ad5cea42e7175c0f.json",
+      "sha256": "7bd3e194cdb008e42a6c0a4dcdfaf978c31b7381ed74bca3ad5cea42e7175c0f"
+    },
+    {
+      "pkg": "@operato/headroom",
+      "file": "23586c52bbd3a13ae94f6b44ff65b829b37b1618100b9544e74c14c7e4b2fdc5.json",
+      "sha256": "23586c52bbd3a13ae94f6b44ff65b829b37b1618100b9544e74c14c7e4b2fdc5"
+    },
+    {
+      "pkg": "@operato/help",
+      "file": "ee6d28d84afc04795ed8aaf334e2da957d15db2c124e8a98f5098c4672022800.json",
+      "sha256": "ee6d28d84afc04795ed8aaf334e2da957d15db2c124e8a98f5098c4672022800"
+    },
+    {
+      "pkg": "@operato/i18n",
+      "file": "99b5d52d8bfca0dba0ce789ccf1dfff2125ed26fad20043a12e2006a87a90dbb.json",
+      "sha256": "99b5d52d8bfca0dba0ce789ccf1dfff2125ed26fad20043a12e2006a87a90dbb"
+    },
+    {
+      "pkg": "@operato/input",
+      "file": "5e7fbdf07e23a9e55bcf2d4b4116b9355eb16f85777be3dba291486a71ec390c.json",
+      "sha256": "5e7fbdf07e23a9e55bcf2d4b4116b9355eb16f85777be3dba291486a71ec390c"
+    },
+    {
+      "pkg": "@operato/layout",
+      "file": "c17abf1244d84145010d8992ba5efc600454c186a1e430f65616c6d2c1f9e014.json",
+      "sha256": "c17abf1244d84145010d8992ba5efc600454c186a1e430f65616c6d2c1f9e014"
+    },
+    {
+      "pkg": "@operato/popup",
+      "file": "ffbc5c58781ad8b91e29016d66692314237e8f4e0a42331721c788ff16376709.json",
+      "sha256": "ffbc5c58781ad8b91e29016d66692314237e8f4e0a42331721c788ff16376709"
+    },
+    {
+      "pkg": "@operato/pull-to-refresh",
+      "file": "ff9980056da16c0b2b1e363536466a7fc0c384d66182bc4681ee050317eabb4f.json",
+      "sha256": "ff9980056da16c0b2b1e363536466a7fc0c384d66182bc4681ee050317eabb4f"
+    },
+    {
+      "pkg": "@operato/shell",
+      "file": "e66812caf708c117349435c38f9f619af41d2e9b8060c96e9474dd6a39a34748.json",
+      "sha256": "e66812caf708c117349435c38f9f619af41d2e9b8060c96e9474dd6a39a34748"
+    },
+    {
+      "pkg": "@operato/styles",
+      "file": "12d757f0aad83c12d78f4dca0767c982d2cd18f8e85e2d25b6806b452976e297.json",
+      "sha256": "12d757f0aad83c12d78f4dca0767c982d2cd18f8e85e2d25b6806b452976e297"
+    },
+    {
+      "pkg": "@operato/utils",
+      "file": "8d25dbf94d8c5dced9ad9ad0dc90916f4676972c2cc3f58794684f23d2f70a61.json",
+      "sha256": "8d25dbf94d8c5dced9ad9ad0dc90916f4676972c2cc3f58794684f23d2f70a61"
+    },
+    {
+      "pkg": "@teselagen/bio-parsers",
+      "file": "02816eba963825916869efda6a88088776d0e1b09d3df27fa99fd5083cf7942f.json",
+      "sha256": "02816eba963825916869efda6a88088776d0e1b09d3df27fa99fd5083cf7942f"
+    },
+    {
+      "pkg": "@teselagen/bounce-loader",
+      "file": "fb475468685851e2e847112d7dacea49e42099360e50c9c652b5194403aa64cf.json",
+      "sha256": "fb475468685851e2e847112d7dacea49e42099360e50c9c652b5194403aa64cf"
+    },
+    {
+      "pkg": "@teselagen/file-utils",
+      "file": "0eaa0ec0ac94ca3c1ef6a8baa3ae42f7bd68626c97b8f85cc1a779a039a74a4b.json",
+      "sha256": "0eaa0ec0ac94ca3c1ef6a8baa3ae42f7bd68626c97b8f85cc1a779a039a74a4b"
+    },
+    {
+      "pkg": "@teselagen/liquibase-tools",
+      "file": "809c94ee9d7230df9391ff8eb92ac35b361d0df65049720ffe9d02000c8b1e3c.json",
+      "sha256": "809c94ee9d7230df9391ff8eb92ac35b361d0df65049720ffe9d02000c8b1e3c"
+    },
+    {
+      "pkg": "@teselagen/ove",
+      "file": "3f82b9d3a79d0de7eac1ed1c9bbd08eb0354e00c81d30ca4544d7f30443f2556.json",
+      "sha256": "3f82b9d3a79d0de7eac1ed1c9bbd08eb0354e00c81d30ca4544d7f30443f2556"
+    },
+    {
+      "pkg": "@teselagen/range-utils",
+      "file": "ae5f3b8a7d76dd802b77303dd128d4e6949e4f2c4525939855e54d00401aba27.json",
+      "sha256": "ae5f3b8a7d76dd802b77303dd128d4e6949e4f2c4525939855e54d00401aba27"
+    },
+    {
+      "pkg": "@teselagen/react-list",
+      "file": "5c2e60e2ea4bca6a63969cf2b05d4d554aac80910dabe7aa10b13ab85a1c0acf.json",
+      "sha256": "5c2e60e2ea4bca6a63969cf2b05d4d554aac80910dabe7aa10b13ab85a1c0acf"
+    },
+    {
+      "pkg": "@teselagen/react-table",
+      "file": "f76b3f60f1f0104703911204125fe6eaec06398c0d50c4821bcf74ef1c9e22b4.json",
+      "sha256": "f76b3f60f1f0104703911204125fe6eaec06398c0d50c4821bcf74ef1c9e22b4"
+    },
+    {
+      "pkg": "@teselagen/sequence-utils",
+      "file": "f11e935304636464d6620117ee4f7b11ac7764479d3a740b13b4479c601f52e5.json",
+      "sha256": "f11e935304636464d6620117ee4f7b11ac7764479d3a740b13b4479c601f52e5"
+    },
+    {
+      "pkg": "@teselagen/ui",
+      "file": "87ae3ce79933cdf2589006dcc18089e27cbce2c8b355110d6a02ec54da189f4f.json",
+      "sha256": "87ae3ce79933cdf2589006dcc18089e27cbce2c8b355110d6a02ec54da189f4f"
+    },
+    {
+      "pkg": "@thangved/callback-window",
+      "file": "437277535737e3d5c9501b3898cd510d15a7b6cf718e4e26a0ef51bcc2c641af.json",
+      "sha256": "437277535737e3d5c9501b3898cd510d15a7b6cf718e4e26a0ef51bcc2c641af"
+    },
+    {
+      "pkg": "@things-factory/attachment-base",
+      "file": "8ac0fef4902fddef1bec6001398e218b0c6ab098a9eed35b0a9953513ca4c13b.json",
+      "sha256": "8ac0fef4902fddef1bec6001398e218b0c6ab098a9eed35b0a9953513ca4c13b"
+    },
+    {
+      "pkg": "@things-factory/auth-base",
+      "file": "91439f2dff58a5022920cfcfb941546db567e052cdc8c130947f535bda21f5e9.json",
+      "sha256": "91439f2dff58a5022920cfcfb941546db567e052cdc8c130947f535bda21f5e9"
+    },
+    {
+      "pkg": "@things-factory/email-base",
+      "file": "f7a2606335ac1dc51c12d6980e6c78a6ad46e7ba68e36edcfed3a6593dc47a4a.json",
+      "sha256": "f7a2606335ac1dc51c12d6980e6c78a6ad46e7ba68e36edcfed3a6593dc47a4a"
+    },
+    {
+      "pkg": "@things-factory/env",
+      "file": "ab07c5381b912e772ef03e2477daf7777d44642bcdc9d7eee4459ed144fc8a76.json",
+      "sha256": "ab07c5381b912e772ef03e2477daf7777d44642bcdc9d7eee4459ed144fc8a76"
+    },
+    {
+      "pkg": "@things-factory/integration-base",
+      "file": "8f5a6edb48ee165da7bd302c01bb49070bffd4050b9e41d387333dae6f248faf.json",
+      "sha256": "8f5a6edb48ee165da7bd302c01bb49070bffd4050b9e41d387333dae6f248faf"
+    },
+    {
+      "pkg": "@things-factory/integration-marketplace",
+      "file": "819956d1f8e5f5856d35baac729ad6cdfed8689cc28b091f5c8a6305eafbfdac.json",
+      "sha256": "819956d1f8e5f5856d35baac729ad6cdfed8689cc28b091f5c8a6305eafbfdac"
+    },
+    {
+      "pkg": "@things-factory/shell",
+      "file": "f893b7b2d82e8f1773f31f7babb1142cbe0dd16ece327d96ce084cbd8329d2ff.json",
+      "sha256": "f893b7b2d82e8f1773f31f7babb1142cbe0dd16ece327d96ce084cbd8329d2ff"
+    },
+    {
+      "pkg": "@tnf-dev/api",
+      "file": "98b1855f03f034854886d204ba9a03348e2f8253b2116b2346ec0dc3c20ef5da.json",
+      "sha256": "98b1855f03f034854886d204ba9a03348e2f8253b2116b2346ec0dc3c20ef5da"
+    },
+    {
+      "pkg": "@tnf-dev/core",
+      "file": "7e61cdfb8b1f9c8fa838be41f3382fee06033a14331c87110769bf433b83ec24.json",
+      "sha256": "7e61cdfb8b1f9c8fa838be41f3382fee06033a14331c87110769bf433b83ec24"
+    },
+    {
+      "pkg": "@tnf-dev/js",
+      "file": "8b2c6682c4e76060f7dbe5d231c639d8631b91da05c380af7b4a7a0997b210ec.json",
+      "sha256": "8b2c6682c4e76060f7dbe5d231c639d8631b91da05c380af7b4a7a0997b210ec"
+    },
+    {
+      "pkg": "@tnf-dev/mui",
+      "file": "179936c247fdec0dc891e1bc94b33719befde123d550aca8afc85fbefb640609.json",
+      "sha256": "179936c247fdec0dc891e1bc94b33719befde123d550aca8afc85fbefb640609"
+    },
+    {
+      "pkg": "@tnf-dev/react",
+      "file": "d7feeafcb0201eb70fd34f2e9c3df4de334791fabd196f8a9e6f98b270b7c3b5.json",
+      "sha256": "d7feeafcb0201eb70fd34f2e9c3df4de334791fabd196f8a9e6f98b270b7c3b5"
+    },
+    {
+      "pkg": "@ui-ux-gang/devextreme-angular-rpk",
+      "file": "3d24be7214a2eac371d1a5acf2e6eb9f762f54d2215f95bfbdfea9cb34299f9b.json",
+      "sha256": "3d24be7214a2eac371d1a5acf2e6eb9f762f54d2215f95bfbdfea9cb34299f9b"
+    },
+    {
+      "pkg": "@yoobic/design-system",
+      "file": "82cc406e95295e0d5a673a8e01425267fa82f1a9b22ba0d61d71afce770a6a1c.json",
+      "sha256": "82cc406e95295e0d5a673a8e01425267fa82f1a9b22ba0d61d71afce770a6a1c"
+    },
+    {
+      "pkg": "@yoobic/jpeg-camera-es6",
+      "file": "cc625e3b11562ca13660930b86e498a2c8539ed0ef8bc3207723ed09b6c75506.json",
+      "sha256": "cc625e3b11562ca13660930b86e498a2c8539ed0ef8bc3207723ed09b6c75506"
+    },
+    {
+      "pkg": "@yoobic/yobi",
+      "file": "ff785bf74dd585446ffcf9737f29c01f20b995484b03bd55c736c1f5e8fc2c49.json",
+      "sha256": "ff785bf74dd585446ffcf9737f29c01f20b995484b03bd55c736c1f5e8fc2c49"
+    },
+    {
+      "pkg": "airchief",
+      "file": "4cb08cbd33e992501af3389ab3932cfa0101f466954304e82399c440d862f4cc.json",
+      "sha256": "4cb08cbd33e992501af3389ab3932cfa0101f466954304e82399c440d862f4cc"
+    },
+    {
+      "pkg": "airpilot",
+      "file": "a5fba8b308b013f196e93221b5627ed0a1a4fa04508158ed549ca89aa7a87c7d.json",
+      "sha256": "a5fba8b308b013f196e93221b5627ed0a1a4fa04508158ed549ca89aa7a87c7d"
+    },
+    {
+      "pkg": "angulartics2",
+      "file": "503556aca42cef44ba55c5e6b1a1ae9743681231067a95e4a1448d393bb73dac.json",
+      "sha256": "503556aca42cef44ba55c5e6b1a1ae9743681231067a95e4a1448d393bb73dac"
+    },
+    {
+      "pkg": "browser-webdriver-downloader",
+      "file": "c182687c4d5816577b8f59e4ec8c5b8174cabdee5a004a291391986efde45a02.json",
+      "sha256": "c182687c4d5816577b8f59e4ec8c5b8174cabdee5a004a291391986efde45a02"
+    },
+    {
+      "pkg": "capacitor-notificationhandler",
+      "file": "9248aea4e2fb66c2a992c486b5f052c4dd13a23cfcf0abe7dddc55193ea718b9.json",
+      "sha256": "9248aea4e2fb66c2a992c486b5f052c4dd13a23cfcf0abe7dddc55193ea718b9"
+    },
+    {
+      "pkg": "capacitor-plugin-healthapp",
+      "file": "4cc3237bbfd717427e0eac11f7f8211577a495a15cd4a81f03abb4f08a97cbb9.json",
+      "sha256": "4cc3237bbfd717427e0eac11f7f8211577a495a15cd4a81f03abb4f08a97cbb9"
+    },
+    {
+      "pkg": "capacitor-plugin-ihealth",
+      "file": "bdbf91791a567e2e647cb20bed2785deab1050445e70dd9d8c1234fb4b9bb49a.json",
+      "sha256": "bdbf91791a567e2e647cb20bed2785deab1050445e70dd9d8c1234fb4b9bb49a"
+    },
+    {
+      "pkg": "capacitor-plugin-vonage",
+      "file": "cfd665cff375a86695a06980f92cb0712f1105bfd7f5a2fe64d9a411c47ae9d3.json",
+      "sha256": "cfd665cff375a86695a06980f92cb0712f1105bfd7f5a2fe64d9a411c47ae9d3"
+    },
+    {
+      "pkg": "capacitorandroidpermissions",
+      "file": "d0fda205c098d97c29a0ec1f9f2d061b62c5b0a136474204ef2c37d36277bb0c.json",
+      "sha256": "d0fda205c098d97c29a0ec1f9f2d061b62c5b0a136474204ef2c37d36277bb0c"
+    },
+    {
+      "pkg": "config-cordova",
+      "file": "7fe439457853e20aa6a3c2bf0cbf46a96944c8c08e2ca4a24fbb9365502322dd.json",
+      "sha256": "7fe439457853e20aa6a3c2bf0cbf46a96944c8c08e2ca4a24fbb9365502322dd"
+    },
+    {
+      "pkg": "cordova-plugin-voxeet2",
+      "file": "1071ad992cfbad5eabe032adfc666a79b3db0711172ddc92a561807bbea93943.json",
+      "sha256": "1071ad992cfbad5eabe032adfc666a79b3db0711172ddc92a561807bbea93943"
+    },
+    {
+      "pkg": "cordova-voxeet",
+      "file": "88b9bb599b917f5a0a14d0c3672d7697d7ffa3827dedb1a3e6bd926eb5817db7.json",
+      "sha256": "88b9bb599b917f5a0a14d0c3672d7697d7ffa3827dedb1a3e6bd926eb5817db7"
+    },
+    {
+      "pkg": "create-hest-app",
+      "file": "dec7ca61193012e43ee6e390c41241b2f13c46b50460ad06617f41cb25ab0fd2.json",
+      "sha256": "dec7ca61193012e43ee6e390c41241b2f13c46b50460ad06617f41cb25ab0fd2"
+    },
+    {
+      "pkg": "db-evo",
+      "file": "64582201a4a59ee0836d11634d9562439bb5c5d032bb32f8263510cda6369938.json",
+      "sha256": "64582201a4a59ee0836d11634d9562439bb5c5d032bb32f8263510cda6369938"
+    },
+    {
+      "pkg": "devextreme-angular-rpk",
+      "file": "67b71a7b30302552b1efd1d562921bf5633fc602611255f54fff556243c4d5e8.json",
+      "sha256": "67b71a7b30302552b1efd1d562921bf5633fc602611255f54fff556243c4d5e8"
+    },
+    {
+      "pkg": "devextreme-rpk",
+      "file": "3a2ad0f6598e9d5a715b2b115774fbe942bbef5ece5d8f40bac41f0e91b24c0b.json",
+      "sha256": "3a2ad0f6598e9d5a715b2b115774fbe942bbef5ece5d8f40bac41f0e91b24c0b"
+    },
+    {
+      "pkg": "ember-browser-services",
+      "file": "4bbec538f1d45afc103906264c8772ac9932dd1813a587cdf523049e721ac6be.json",
+      "sha256": "4bbec538f1d45afc103906264c8772ac9932dd1813a587cdf523049e721ac6be"
+    },
+    {
+      "pkg": "ember-headless-form",
+      "file": "627ed7629d0bb17d4d8fbcb5eb655a661fab9f90cb4fc1e245ac9e2703ba97da.json",
+      "sha256": "627ed7629d0bb17d4d8fbcb5eb655a661fab9f90cb4fc1e245ac9e2703ba97da"
+    },
+    {
+      "pkg": "ember-headless-form-yup",
+      "file": "6f97c70a670b1b11605f998adc83bc2959021a37f19f27de88fc3d15bd138e55.json",
+      "sha256": "6f97c70a670b1b11605f998adc83bc2959021a37f19f27de88fc3d15bd138e55"
+    },
+    {
+      "pkg": "ember-headless-table",
+      "file": "19dbb58849dbd355775551f9ad36cc73d4d9b9565ec7beb51a81242ba502aa05.json",
+      "sha256": "19dbb58849dbd355775551f9ad36cc73d4d9b9565ec7beb51a81242ba502aa05"
+    },
+    {
+      "pkg": "ember-url-hash-polyfill",
+      "file": "1d48c802280c011a349a52523ad6a364214a04e40b13e2d1abc8ff5c499ab9c7.json",
+      "sha256": "1d48c802280c011a349a52523ad6a364214a04e40b13e2d1abc8ff5c499ab9c7"
+    },
+    {
+      "pkg": "ember-velcro",
+      "file": "058952b0903d5aef4d9fed5001f4956889851a485f8b8028e9d945ef41974a69.json",
+      "sha256": "058952b0903d5aef4d9fed5001f4956889851a485f8b8028e9d945ef41974a69"
+    },
+    {
+      "pkg": "encounter-playground",
+      "file": "2b1096aa704798e552916654c90fee7a68b98ef7284aac27453477e7db9feb1d.json",
+      "sha256": "2b1096aa704798e552916654c90fee7a68b98ef7284aac27453477e7db9feb1d"
+    },
+    {
+      "pkg": "eslint-config-crowdstrike",
+      "file": "8a22f8dfd3e54400d4330ad12fd95f071b16ff85dbe3c9b8ed6202e16aba0bee.json",
+      "sha256": "8a22f8dfd3e54400d4330ad12fd95f071b16ff85dbe3c9b8ed6202e16aba0bee"
+    },
+    {
+      "pkg": "eslint-config-crowdstrike-node",
+      "file": "8569d4bf201793918e79b2ee1a072da201f4f666716606b4f6adbe58b11391bb.json",
+      "sha256": "8569d4bf201793918e79b2ee1a072da201f4f666716606b4f6adbe58b11391bb"
+    },
+    {
+      "pkg": "eslint-config-teselagen",
+      "file": "773ba0c5d17109b418b3469fd3c671878f94f31882498d7b9b392a3ea2d01ed5.json",
+      "sha256": "773ba0c5d17109b418b3469fd3c671878f94f31882498d7b9b392a3ea2d01ed5"
+    },
+    {
+      "pkg": "globalize-rpk",
+      "file": "227ee9c8ec710730e92f464ae9115db7d49a216fd3a916d4d18a59bbc9b18d80.json",
+      "sha256": "227ee9c8ec710730e92f464ae9115db7d49a216fd3a916d4d18a59bbc9b18d80"
+    },
+    {
+      "pkg": "graphql-sequelize-teselagen",
+      "file": "b3f25b77d3bf72b1270b8d374f2fe47e02888604788734c616e16778873083f8.json",
+      "sha256": "b3f25b77d3bf72b1270b8d374f2fe47e02888604788734c616e16778873083f8"
+    },
+    {
+      "pkg": "html-to-base64-image",
+      "file": "bf10b4d84d2d399e8d2a05d489b938abd12ea7284cb4b00612b54e68e88ae621.json",
+      "sha256": "bf10b4d84d2d399e8d2a05d489b938abd12ea7284cb4b00612b54e68e88ae621"
+    },
+    {
+      "pkg": "json-rules-engine-simplified",
+      "file": "dce4dabed1f7e1681788c952cc24116e7aa73a7e197340af80df925957cbc7d8.json",
+      "sha256": "dce4dabed1f7e1681788c952cc24116e7aa73a7e197340af80df925957cbc7d8"
+    },
+    {
+      "pkg": "jumpgate",
+      "file": "d2cf2b62a9ab8cbcd72b0cb3a1f78073f76fd5e96812bddd5f73b940c7e8348e.json",
+      "sha256": "d2cf2b62a9ab8cbcd72b0cb3a1f78073f76fd5e96812bddd5f73b940c7e8348e"
+    },
+    {
+      "pkg": "koa2-swagger-ui",
+      "file": "a9feb6fe0265371cacdf3e724430bf0b4d53e3a995df4b67c9eca72291e414bb.json",
+      "sha256": "a9feb6fe0265371cacdf3e724430bf0b4d53e3a995df4b67c9eca72291e414bb"
+    },
+    {
+      "pkg": "mcfly-semantic-release",
+      "file": "067dc823aa0099d93c3e5e17ce37bfe946b69404062eb9ae872ec3a9659ccc25.json",
+      "sha256": "067dc823aa0099d93c3e5e17ce37bfe946b69404062eb9ae872ec3a9659ccc25"
+    },
+    {
+      "pkg": "mcp-knowledge-base",
+      "file": "7f886dce1be5a7d0696171eb04e7003dbf27c424c65763a88a94b7ac4407b1f3.json",
+      "sha256": "7f886dce1be5a7d0696171eb04e7003dbf27c424c65763a88a94b7ac4407b1f3"
+    },
+    {
+      "pkg": "mcp-knowledge-graph",
+      "file": "92f4ddc0c2a145b38d8aac8c4b965cef0c8bbde80918a448e57589059553bad5.json",
+      "sha256": "92f4ddc0c2a145b38d8aac8c4b965cef0c8bbde80918a448e57589059553bad5"
+    },
+    {
+      "pkg": "mobioffice-cli",
+      "file": "101a24d485c450c9b5ca1e2f6859dc32f15c23f6c7d241787a16338fd169c6a8.json",
+      "sha256": "101a24d485c450c9b5ca1e2f6859dc32f15c23f6c7d241787a16338fd169c6a8"
+    },
+    {
+      "pkg": "monorepo-next",
+      "file": "95aee60f6eabb6e412cfabb431bb685d6884137116ca53f10e801d40d22d776c.json",
+      "sha256": "95aee60f6eabb6e412cfabb431bb685d6884137116ca53f10e801d40d22d776c"
+    },
+    {
+      "pkg": "mstate-angular",
+      "file": "ed111f66c7a918e392c1f7a59df486a7a1aff610700f0d68be4e4046b5b68680.json",
+      "sha256": "ed111f66c7a918e392c1f7a59df486a7a1aff610700f0d68be4e4046b5b68680"
+    },
+    {
+      "pkg": "mstate-cli",
+      "file": "c8db7d4cd0a6c24e3f13b9da68bd4fd17a6195e2c1218e3e5637e6bc10f59124.json",
+      "sha256": "c8db7d4cd0a6c24e3f13b9da68bd4fd17a6195e2c1218e3e5637e6bc10f59124"
+    },
+    {
+      "pkg": "mstate-dev-react",
+      "file": "8dad085d209f21626a910988dfd48565c2de64f78154672cba469be67c411e05.json",
+      "sha256": "8dad085d209f21626a910988dfd48565c2de64f78154672cba469be67c411e05"
+    },
+    {
+      "pkg": "mstate-react",
+      "file": "6ceee5199be19af45b14649c94c143851acf8be0247fabb78d033cae4f6737f4.json",
+      "sha256": "6ceee5199be19af45b14649c94c143851acf8be0247fabb78d033cae4f6737f4"
+    },
+    {
+      "pkg": "ng2-file-upload",
+      "file": "c8dae0e02acf4591e86a304f8d455eaf63e76a03000207cc782e1aeee73aa14b.json",
+      "sha256": "c8dae0e02acf4591e86a304f8d455eaf63e76a03000207cc782e1aeee73aa14b"
+    },
+    {
+      "pkg": "ngx-bootstrap",
+      "file": "a9509197745734bc48e01bf78301b455651744bbc920ef7253cabac769a5d74a.json",
+      "sha256": "a9509197745734bc48e01bf78301b455651744bbc920ef7253cabac769a5d74a"
+    },
+    {
+      "pkg": "ngx-color",
+      "file": "28a7027a212a4db1b3d6e8fe91d9b591a21e5d09d2b7c540fcac1ec66465c874.json",
+      "sha256": "28a7027a212a4db1b3d6e8fe91d9b591a21e5d09d2b7c540fcac1ec66465c874"
+    },
+    {
+      "pkg": "ngx-toastr",
+      "file": "bbebdda99a7c88e396c4cdb66f1d9e1ae311721cf90381db28b6effa43559f1d.json",
+      "sha256": "bbebdda99a7c88e396c4cdb66f1d9e1ae311721cf90381db28b6effa43559f1d"
+    },
+    {
+      "pkg": "ngx-trend",
+      "file": "584f58e5109e75a34c8ac3fdab379ef7f65fe4606ba713fba4823f0c14ae3a39.json",
+      "sha256": "584f58e5109e75a34c8ac3fdab379ef7f65fe4606ba713fba4823f0c14ae3a39"
+    },
+    {
+      "pkg": "ngx-ws",
+      "file": "d75ceba0da0f3e98a0529fd76867483172ea948fea824e7e5600a78ad53f5ea7.json",
+      "sha256": "d75ceba0da0f3e98a0529fd76867483172ea948fea824e7e5600a78ad53f5ea7"
+    },
+    {
+      "pkg": "oradm-to-gql",
+      "file": "1feca5c052466290a225196e7ee1b44c58705f7ebc2d92007bb9343cff4334eb.json",
+      "sha256": "1feca5c052466290a225196e7ee1b44c58705f7ebc2d92007bb9343cff4334eb"
+    },
+    {
+      "pkg": "oradm-to-sqlz",
+      "file": "1d4c1b4a6c0a7a4766316296ea2ac1d5d51251b1871c9d796cffc0198795d8f2.json",
+      "sha256": "1d4c1b4a6c0a7a4766316296ea2ac1d5d51251b1871c9d796cffc0198795d8f2"
+    },
+    {
+      "pkg": "ove-auto-annotate",
+      "file": "b2a43192327aa65b0448f88b638de16c9348acf4446d8804d494a17dd7978d97.json",
+      "sha256": "b2a43192327aa65b0448f88b638de16c9348acf4446d8804d494a17dd7978d97"
+    },
+    {
+      "pkg": "pm2-gelf-json",
+      "file": "1adaada36a8b3f0e9717e31ec7afaee9acecff85e02b7e2b36d8d1b08a3ba74f.json",
+      "sha256": "1adaada36a8b3f0e9717e31ec7afaee9acecff85e02b7e2b36d8d1b08a3ba74f"
+    },
+    {
+      "pkg": "printjs-rpk",
+      "file": "1162653cd1312c7717e4758f53e7690137d1ca62affc2ff329413a706971f9be.json",
+      "sha256": "1162653cd1312c7717e4758f53e7690137d1ca62affc2ff329413a706971f9be"
+    },
+    {
+      "pkg": "react-complaint-image",
+      "file": "0132914712af01add735520058fdace6dd19a6aaf2761ad694fc6fb8cd6149c3.json",
+      "sha256": "0132914712af01add735520058fdace6dd19a6aaf2761ad694fc6fb8cd6149c3"
+    },
+    {
+      "pkg": "react-jsonschema-form-conditionals",
+      "file": "9b1188902fcfae8193db58d9eb1753b5ad1f183a2bbf43108f90fe20587f559a.json",
+      "sha256": "9b1188902fcfae8193db58d9eb1753b5ad1f183a2bbf43108f90fe20587f559a"
+    },
+    {
+      "pkg": "react-jsonschema-form-extras",
+      "file": "7318400bebae2b5fa8b821e35d60e3115f2b50c3792ed491ad2d6c31b469701b.json",
+      "sha256": "7318400bebae2b5fa8b821e35d60e3115f2b50c3792ed491ad2d6c31b469701b"
+    },
+    {
+      "pkg": "react-jsonschema-rxnt-extras",
+      "file": "43e077a739aa60233ffdb088d8ab0580b9438f476fdd802b14cccb0b4e4ece07.json",
+      "sha256": "43e077a739aa60233ffdb088d8ab0580b9438f476fdd802b14cccb0b4e4ece07"
+    },
+    {
+      "pkg": "remark-preset-lint-crowdstrike",
+      "file": "f68a2b6c3f0399ffb0b104c5e0cef4d9386e2d9a980bc8393cade12e4c7d4f33.json",
+      "sha256": "f68a2b6c3f0399ffb0b104c5e0cef4d9386e2d9a980bc8393cade12e4c7d4f33"
+    },
+    {
+      "pkg": "rxnt-authentication",
+      "file": "73e234ddfc6bbb9cf74aefff723e25de82757581ed65ccc7da486c67b273105c.json",
+      "sha256": "73e234ddfc6bbb9cf74aefff723e25de82757581ed65ccc7da486c67b273105c"
+    },
+    {
+      "pkg": "rxnt-healthchecks-nestjs",
+      "file": "8b4f7d2b2a4577a40d77893be9757c590eff6f0d1c885837737666e93ec80f1b.json",
+      "sha256": "8b4f7d2b2a4577a40d77893be9757c590eff6f0d1c885837737666e93ec80f1b"
+    },
+    {
+      "pkg": "rxnt-kue",
+      "file": "4feba0298e7084e64db3c6fc4c0930b04c2b2953d020b203eaf42dfb2a89e2be.json",
+      "sha256": "4feba0298e7084e64db3c6fc4c0930b04c2b2953d020b203eaf42dfb2a89e2be"
+    },
+    {
+      "pkg": "swc-plugin-component-annotate",
+      "file": "cce6ac6dabbfe224ef323a4cc67177a9990cd8803268f28d462a30dd2dea35f7.json",
+      "sha256": "cce6ac6dabbfe224ef323a4cc67177a9990cd8803268f28d462a30dd2dea35f7"
+    },
+    {
+      "pkg": "tbssnch",
+      "file": "c1f1b5fbb8ad4761512aef7f385ddad82c1955d753628f137873565b196e308a.json",
+      "sha256": "c1f1b5fbb8ad4761512aef7f385ddad82c1955d753628f137873565b196e308a"
+    },
+    {
+      "pkg": "teselagen-interval-tree",
+      "file": "ac3f98da64b4c1a365e388af2b5c95598a095a27a72e21776e3f23adb981e2fc.json",
+      "sha256": "ac3f98da64b4c1a365e388af2b5c95598a095a27a72e21776e3f23adb981e2fc"
+    },
+    {
+      "pkg": "tg-client-query-builder",
+      "file": "ad98f2158bf8a2ae60465bcaa03f2f622ba0535c6ae862f95be67530150eb029.json",
+      "sha256": "ad98f2158bf8a2ae60465bcaa03f2f622ba0535c6ae862f95be67530150eb029"
+    },
+    {
+      "pkg": "tg-redbird",
+      "file": "02f958a26af04489e32b5ff529eb0efa15a6f16f24de50199d0d1d9afff36f67.json",
+      "sha256": "02f958a26af04489e32b5ff529eb0efa15a6f16f24de50199d0d1d9afff36f67"
+    },
+    {
+      "pkg": "tg-seq-gen",
+      "file": "2d748458a086255e13bf9d3e5c53517b6dc70d0c673b57ab318f28bf325e6a8a.json",
+      "sha256": "2d748458a086255e13bf9d3e5c53517b6dc70d0c673b57ab318f28bf325e6a8a"
+    },
+    {
+      "pkg": "thangved-react-grid",
+      "file": "98eda79d30b28cda2535343a2f810ec4a15e39517562709906b38d904904e531.json",
+      "sha256": "98eda79d30b28cda2535343a2f810ec4a15e39517562709906b38d904904e531"
+    },
+    {
+      "pkg": "ts-gaussian",
+      "file": "7bcff44c8d00713bf5c16e61d8ca54b2bfc45fc40136aee5ffce31908d53a517.json",
+      "sha256": "7bcff44c8d00713bf5c16e61d8ca54b2bfc45fc40136aee5ffce31908d53a517"
+    },
+    {
+      "pkg": "ts-imports",
+      "file": "053767afc7c3872e688cbc2d522a6dfacb1b742be32284c7524b6403b57b240d.json",
+      "sha256": "053767afc7c3872e688cbc2d522a6dfacb1b742be32284c7524b6403b57b240d"
+    },
+    {
+      "pkg": "tvi-cli",
+      "file": "b4042390386c52d0cafdfec0676a0aafd08431c3463a56fa2256318de9ab86d3.json",
+      "sha256": "b4042390386c52d0cafdfec0676a0aafd08431c3463a56fa2256318de9ab86d3"
+    },
+    {
+      "pkg": "ve-bamreader",
+      "file": "1c9aa863ca8e834b1c25273d9f746cb13bd9c7d8ff291f49feab0548bcc1f79e.json",
+      "sha256": "1c9aa863ca8e834b1c25273d9f746cb13bd9c7d8ff291f49feab0548bcc1f79e"
+    },
+    {
+      "pkg": "ve-editor",
+      "file": "691a520d76b0a05e3bd61036813eaa2c984b8614d325de107bb964b91e21cd92.json",
+      "sha256": "691a520d76b0a05e3bd61036813eaa2c984b8614d325de107bb964b91e21cd92"
+    },
+    {
+      "pkg": "verror-extra",
+      "file": "59146bc974884ffdf18e778b6899fef07bd90c4356310f140bfa8a32f7143f29.json",
+      "sha256": "59146bc974884ffdf18e778b6899fef07bd90c4356310f140bfa8a32f7143f29"
+    },
+    {
+      "pkg": "voip-callkit",
+      "file": "6b7806b0547dcb347b81a291f8ddbee7b242b13d7068fe5797148d368d8e392d.json",
+      "sha256": "6b7806b0547dcb347b81a291f8ddbee7b242b13d7068fe5797148d368d8e392d"
+    },
+    {
+      "pkg": "wdio-web-reporter",
+      "file": "b93b23d12dc124efdc442fe94e102f9c6be8e8bf355d922df120a82afc1a4a15.json",
+      "sha256": "b93b23d12dc124efdc442fe94e102f9c6be8e8bf355d922df120a82afc1a4a15"
+    },
+    {
+      "pkg": "yargs-help-output",
+      "file": "fed9c9e7c22e90531e3c4523711fe1d36c3918d51d53980c2e29c8b08fa2494c.json",
+      "sha256": "fed9c9e7c22e90531e3c4523711fe1d36c3918d51d53980c2e29c8b08fa2494c"
+    },
+    {
+      "pkg": "yoo-styles",
+      "file": "025317448e3b9dce35854ba9a9f256ba372bae62d33a3d93dc39aa66b8fc01ce.json",
+      "sha256": "025317448e3b9dce35854ba9a9f256ba372bae62d33a3d93dc39aa66b8fc01ce"
+    }
+  ]
+}

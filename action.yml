@@ -1,0 +1,63 @@
+name: Patient Zero gate
+description: Read-only offline package-lock v2/v3 gate with exact evidence paths; experimental metadata policy.
+author: alwayskumar-global
+branding:
+  icon: shield
+  color: orange
+inputs:
+  lockfile:
+    description: Path relative to the checked-out workspace (no scripts are executed).
+    default: package-lock.json
+  store:
+    description: Optional reviewed .rl store relative to workspace; default uses the action's shipped historical store.
+    default: ''
+  config:
+    description: Optional detection config JSON relative to workspace.
+    default: ''
+  mode:
+    description: evidence (current policy) or retrospective (explicit historical simulation).
+    default: evidence
+  as-of:
+    description: Optional UTC freeze; defaults to current UTC.
+    default: ''
+  fail-on:
+    description: medium or high; incomplete metadata always fails.
+    default: medium
+  max-store-age-hours:
+    description: Maximum evidence age; increasing this weakens freshness requirements.
+    default: '168'
+outputs:
+  status:
+    description: passed, blocked or incomplete.
+    value: ${{ steps.gate.outputs.status }}
+  exit-code:
+    description: 0 policy pass, 1 block, 2 incomplete/operational failure.
+    value: ${{ steps.gate.outputs.exit-code }}
+  report:
+    description: Local runner path to the JSON report. Not uploaded automatically.
+    value: ${{ steps.gate.outputs.report }}
+runs:
+  using: composite
+  steps:
+    - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4
+      with:
+        node-version: '22'
+    - name: Install trusted action dependencies
+      shell: bash
+      working-directory: ${{ github.action_path }}
+      run: |
+        npm ci --ignore-scripts --no-audit --no-fund
+        npm rebuild koffi
+        node node_modules/typescript/bin/tsc -b packages/cli
+    - name: Assess lockfile without installing its packages
+      id: gate
+      shell: bash
+      env:
+        PZ_ACTION_LOCKFILE: ${{ inputs.lockfile }}
+        PZ_ACTION_STORE: ${{ inputs.store }}
+        PZ_ACTION_CONFIG: ${{ inputs.config }}
+        PZ_ACTION_MODE: ${{ inputs.mode }}
+        PZ_ACTION_AS_OF: ${{ inputs.as-of }}
+        PZ_ACTION_FAIL_ON: ${{ inputs.fail-on }}
+        PZ_ACTION_MAX_AGE: ${{ inputs.max-store-age-hours }}
+      run: node "${{ github.action_path }}/scripts/action.mjs"

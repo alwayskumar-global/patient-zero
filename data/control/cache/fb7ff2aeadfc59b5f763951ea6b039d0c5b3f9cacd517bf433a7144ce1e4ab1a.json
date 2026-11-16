@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "mkdirp-classic",
+  "source": "https://registry.npmjs.org/mkdirp-classic",
+  "fetchedAt": "2026-11-16T10:35:13.986Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 2
+  },
+  "sourceSha256": "741bfd546751515649449c9fd5ae556a48258bc0d05022a2b6c973ccff359249",
+  "versions": [
+    {
+      "pkg": "mkdirp-classic",
+      "semver": "0.5.3",
+      "publishedAt": "2020-05-04T09:56:03.432Z",
+      "publisher": "mafintosh",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 4498,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/mkdirp-classic",
+          "observedAt": "2026-11-16T10:35:13.986Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/mkdirp-classic",
+          "observedAt": "2026-11-16T10:35:13.986Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/mkdirp-classic",
+          "observedAt": "2026-11-16T10:35:13.986Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/mkdirp-classic",
+          "observedAt": "2026-11-16T10:35:13.986Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/mkdirp-classic",
+          "observedAt": "2026-11-16T10:35:13.986Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/mkdirp-classic",
+          "observedAt": "2026-11-16T10:35:13.986Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

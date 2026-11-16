@@ -1,0 +1,195 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@babel/helper-builder-binary-assignment-operator-visitor",
+  "source": "https://registry.npmjs.org/%40babel%2Fhelper-builder-binary-assignment-operator-visitor",
+  "fetchedAt": "2026-11-16T10:34:30.868Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 79
+  },
+  "sourceSha256": "cbf1159b5a68732a6f4e5509a515ad3b081882bdcbee1646b0e5743b56b28332",
+  "versions": [
+    {
+      "pkg": "@babel/helper-builder-binary-assignment-operator-visitor",
+      "semver": "7.0.0-beta.49",
+      "publishedAt": "2018-05-25T16:04:49.149Z",
+      "publisher": "loganfsmyth",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 2340,
+      "dependencies": {
+        "@babel/types": "7.0.0-beta.49",
+        "@babel/helper-explode-assignable-expression": "7.0.0-beta.49"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-builder-binary-assignment-operator-visitor",
+          "observedAt": "2026-11-16T10:34:30.868Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-builder-binary-assignment-operator-visitor",
+          "observedAt": "2026-11-16T10:34:30.868Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-builder-binary-assignment-operator-visitor",
+          "observedAt": "2026-11-16T10:34:30.868Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-builder-binary-assignment-operator-visitor",
+          "observedAt": "2026-11-16T10:34:30.868Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-builder-binary-assignment-operator-visitor",
+          "observedAt": "2026-11-16T10:34:30.868Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-builder-binary-assignment-operator-visitor",
+          "observedAt": "2026-11-16T10:34:30.868Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/helper-builder-binary-assignment-operator-visitor",
+      "semver": "7.1.0",
+      "publishedAt": "2018-09-17T19:31:40.150Z",
+      "publisher": "hzoo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 3909,
+      "dependencies": {
+        "@babel/types": "^7.0.0",
+        "@babel/helper-explode-assignable-expression": "^7.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-builder-binary-assignment-operator-visitor",
+          "observedAt": "2026-11-16T10:34:30.868Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-builder-binary-assignment-operator-visitor",
+          "observedAt": "2026-11-16T10:34:30.868Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-builder-binary-assignment-operator-visitor",
+          "observedAt": "2026-11-16T10:34:30.868Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-builder-binary-assignment-operator-visitor",
+          "observedAt": "2026-11-16T10:34:30.868Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-builder-binary-assignment-operator-visitor",
+          "observedAt": "2026-11-16T10:34:30.868Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-builder-binary-assignment-operator-visitor",
+          "observedAt": "2026-11-16T10:34:30.868Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/helper-builder-binary-assignment-operator-visitor",
+      "semver": "7.10.4",
+      "publishedAt": "2020-06-30T13:13:20.220Z",
+      "publisher": "jlhwung",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 4274,
+      "dependencies": {
+        "@babel/types": "^7.10.4",
+        "@babel/helper-explode-assignable-expression": "^7.10.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-builder-binary-assignment-operator-visitor",
+          "observedAt": "2026-11-16T10:34:30.868Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-builder-binary-assignment-operator-visitor",
+          "observedAt": "2026-11-16T10:34:30.868Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-builder-binary-assignment-operator-visitor",
+          "observedAt": "2026-11-16T10:34:30.868Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-builder-binary-assignment-operator-visitor",
+          "observedAt": "2026-11-16T10:34:30.868Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-builder-binary-assignment-operator-visitor",
+          "observedAt": "2026-11-16T10:34:30.868Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-builder-binary-assignment-operator-visitor",
+          "observedAt": "2026-11-16T10:34:30.868Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/helper-builder-binary-assignment-operator-visitor",
+      "semver": "8.0.0-alpha.13",
+      "publishedAt": "2024-10-25T13:54:32.897Z",
+      "publisher": "nicolo-ribaudo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 13903,
+      "dependencies": {
+        "@babel/traverse": "^8.0.0-alpha.13",
+        "@babel/types": "^8.0.0-alpha.13"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-builder-binary-assignment-operator-visitor",
+          "observedAt": "2026-11-16T10:34:30.868Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-builder-binary-assignment-operator-visitor",
+          "observedAt": "2026-11-16T10:34:30.868Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-builder-binary-assignment-operator-visitor",
+          "observedAt": "2026-11-16T10:34:30.868Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-builder-binary-assignment-operator-visitor",
+          "observedAt": "2026-11-16T10:34:30.868Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-builder-binary-assignment-operator-visitor",
+          "observedAt": "2026-11-16T10:34:30.868Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-builder-binary-assignment-operator-visitor",
+          "observedAt": "2026-11-16T10:34:30.868Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "clsx",
+  "source": "https://registry.npmjs.org/clsx",
+  "fetchedAt": "2026-11-16T10:34:57.819Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 15
+  },
+  "sourceSha256": "78df97b9ca2d29a6d0b02929271d141a32e17d6f9390af626ca386352a090837",
+  "versions": [
+    {
+      "pkg": "clsx",
+      "semver": "2.1.1",
+      "publishedAt": "2024-04-23T05:26:04.645Z",
+      "publisher": "lukeed",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 8555,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/clsx",
+          "observedAt": "2026-11-16T10:34:57.819Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/clsx",
+          "observedAt": "2026-11-16T10:34:57.819Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/clsx",
+          "observedAt": "2026-11-16T10:34:57.819Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/clsx",
+          "observedAt": "2026-11-16T10:34:57.819Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/clsx",
+          "observedAt": "2026-11-16T10:34:57.819Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/clsx",
+          "observedAt": "2026-11-16T10:34:57.819Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

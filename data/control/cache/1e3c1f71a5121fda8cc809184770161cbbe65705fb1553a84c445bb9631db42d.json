@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "pkg": "jsbn",
+  "source": "https://registry.npmjs.org/jsbn",
+  "fetchedAt": "2026-11-16T10:35:08.594Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 4
+  },
+  "sourceSha256": "fe05f4aa3e18b4a5499019e2eb7056bb3ac732af2399cfa06b849d0ce7856f94",
+  "versions": [
+    {
+      "pkg": "jsbn",
+      "semver": "1.1.0",
+      "publishedAt": "2017-02-13T17:14:56.780Z",
+      "publisher": "andyperlitch",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jsbn",
+          "observedAt": "2026-11-16T10:35:08.594Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jsbn",
+          "observedAt": "2026-11-16T10:35:08.594Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jsbn",
+          "observedAt": "2026-11-16T10:35:08.594Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jsbn",
+          "observedAt": "2026-11-16T10:35:08.594Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jsbn",
+          "observedAt": "2026-11-16T10:35:08.594Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

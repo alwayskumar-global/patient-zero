@@ -1,0 +1,777 @@
+{
+  "schemaVersion": 1,
+  "pkg": "scheduler",
+  "source": "https://registry.npmjs.org/scheduler",
+  "fetchedAt": "2026-11-16T10:35:25.543Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 2839
+  },
+  "sourceSha256": "9f72b9cf85ceb7cdd1d2c52850dc6f8ff8310b7738c7b6d31f9543e72cdbf606",
+  "versions": [
+    {
+      "pkg": "scheduler",
+      "semver": "0.0.0-experimental-27659559e",
+      "publishedAt": "2021-01-11T16:20:12.205Z",
+      "publisher": "brianvaughn",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 178101,
+      "dependencies": {
+        "loose-envify": "^1.1.0",
+        "object-assign": "^4.1.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "scheduler",
+      "semver": "0.0.0-experimental-3958d5d8-20250807",
+      "publishedAt": "2025-08-07T16:21:29.554Z",
+      "publisher": "react-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 82096,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "scheduler",
+      "semver": "0.0.0-experimental-594093496-20230209",
+      "publishedAt": "2023-02-09T16:57:21.097Z",
+      "publisher": "acdlite",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 96572,
+      "dependencies": {
+        "loose-envify": "^1.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "scheduler",
+      "semver": "0.0.0-experimental-66f09bd0-20250806",
+      "publishedAt": "2025-08-06T16:22:09.303Z",
+      "publisher": "react-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 82096,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "scheduler",
+      "semver": "0.0.0-experimental-7deda941-20250804",
+      "publishedAt": "2025-08-05T16:21:10.001Z",
+      "publisher": "react-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 82096,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "scheduler",
+      "semver": "0.0.0-experimental-aae83a4b9",
+      "publishedAt": "2020-03-18T01:11:18.612Z",
+      "publisher": "lunaruan",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 122310,
+      "dependencies": {
+        "loose-envify": "^1.1.0",
+        "object-assign": "^4.1.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "scheduler",
+      "semver": "0.0.0-experimental-bdb4a96f-20250801",
+      "publishedAt": "2025-08-01T16:21:54.350Z",
+      "publisher": "react-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 82096,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "scheduler",
+      "semver": "0.0.0-experimental-be11cb5c-20250804",
+      "publishedAt": "2025-08-04T16:21:57.427Z",
+      "publisher": "react-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 82096,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "scheduler",
+      "semver": "0.0.0-experimental-c260b38d-20250731",
+      "publishedAt": "2025-07-31T16:21:38.918Z",
+      "publisher": "react-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 82096,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "scheduler",
+      "semver": "0.19.0",
+      "publishedAt": "2020-02-26T20:21:12.915Z",
+      "publisher": "threepointone",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 122076,
+      "dependencies": {
+        "loose-envify": "^1.1.0",
+        "object-assign": "^4.1.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "scheduler",
+      "semver": "0.20.2",
+      "publishedAt": "2021-03-22T21:56:00.627Z",
+      "publisher": "gaearon",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 113156,
+      "dependencies": {
+        "loose-envify": "^1.1.0",
+        "object-assign": "^4.1.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "scheduler",
+      "semver": "0.23.0",
+      "publishedAt": "2022-06-14T19:47:20.413Z",
+      "publisher": "gnoff",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 93383,
+      "dependencies": {
+        "loose-envify": "^1.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "scheduler",
+      "semver": "0.27.0-canary-3958d5d8-20250807",
+      "publishedAt": "2025-08-07T16:19:59.047Z",
+      "publisher": "react-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 82690,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "scheduler",
+      "semver": "0.27.0-canary-66f09bd0-20250806",
+      "publishedAt": "2025-08-06T16:20:17.510Z",
+      "publisher": "react-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 82690,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "scheduler",
+      "semver": "0.27.0-canary-7deda941-20250804",
+      "publishedAt": "2025-08-05T16:19:23.675Z",
+      "publisher": "react-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 82690,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "scheduler",
+      "semver": "0.27.0-canary-bdb4a96f-20250801",
+      "publishedAt": "2025-08-01T16:20:07.111Z",
+      "publisher": "react-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 82690,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "scheduler",
+      "semver": "0.27.0-canary-be11cb5c-20250804",
+      "publishedAt": "2025-08-04T16:20:12.099Z",
+      "publisher": "react-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 82690,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "scheduler",
+      "semver": "0.8.1",
+      "publishedAt": "2011-07-06T16:00:46.094Z",
+      "publisher": null,
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/scheduler",
+          "observedAt": "2026-11-16T10:35:25.543Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

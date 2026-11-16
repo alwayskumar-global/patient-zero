@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "pkg": "ajv",
+  "source": "https://registry.npmjs.org/ajv",
+  "fetchedAt": "2026-11-16T10:34:55.344Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 361
+  },
+  "sourceSha256": "799734d4d891f673173149e92d3a25bfb8c25d24ced218f4e839c83757cfc238",
+  "versions": [
+    {
+      "pkg": "ajv",
+      "semver": "1.1.0",
+      "publishedAt": "2015-08-22T21:25:09.847Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ajv",
+          "observedAt": "2026-11-16T10:34:55.344Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ajv",
+      "semver": "8.17.1",
+      "publishedAt": "2024-07-12T20:42:13.485Z",
+      "publisher": "esp",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 1030888,
+      "dependencies": {
+        "fast-uri": "^3.0.1",
+        "fast-deep-equal": "^3.1.3",
+        "require-from-string": "^2.0.2",
+        "json-schema-traverse": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ajv",
+          "observedAt": "2026-11-16T10:34:55.344Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ajv",
+          "observedAt": "2026-11-16T10:34:55.344Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ajv",
+          "observedAt": "2026-11-16T10:34:55.344Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ajv",
+          "observedAt": "2026-11-16T10:34:55.344Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/ajv",
+          "observedAt": "2026-11-16T10:34:55.344Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ajv",
+          "observedAt": "2026-11-16T10:34:55.344Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,315 @@
+{
+  "schemaVersion": 1,
+  "pkg": "form-data",
+  "source": "https://registry.npmjs.org/form-data",
+  "fetchedAt": "2026-11-16T10:35:02.725Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 53
+  },
+  "sourceSha256": "430fb4a0bf0acc2ab005e8e8614ae8b88ce863747ed84098ea272fe060af7ff5",
+  "versions": [
+    {
+      "pkg": "form-data",
+      "semver": "0.0.2",
+      "publishedAt": "2012-07-02T21:59:37.447Z",
+      "publisher": "idralyuk",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "mime": "1.2.2",
+        "async": "0.1.9",
+        "combined-stream": "0.0.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/form-data",
+          "observedAt": "2026-11-16T10:35:02.725Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/form-data",
+          "observedAt": "2026-11-16T10:35:02.725Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/form-data",
+          "observedAt": "2026-11-16T10:35:02.725Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/form-data",
+          "observedAt": "2026-11-16T10:35:02.725Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/form-data",
+          "observedAt": "2026-11-16T10:35:02.725Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "form-data",
+      "semver": "0.0.3",
+      "publishedAt": "2012-08-10T03:05:05.412Z",
+      "publisher": null,
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "mime": "1.2.2",
+        "async": "0.1.9",
+        "combined-stream": "0.0.3"
+      },
+      "evidence": {
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/form-data",
+          "observedAt": "2026-11-16T10:35:02.725Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/form-data",
+          "observedAt": "2026-11-16T10:35:02.725Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/form-data",
+          "observedAt": "2026-11-16T10:35:02.725Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/form-data",
+          "observedAt": "2026-11-16T10:35:02.725Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "form-data",
+      "semver": "0.0.7",
+      "publishedAt": "2013-02-10T02:53:05.643Z",
+      "publisher": "celer",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "mime": "~1.2.2",
+        "async": "~0.1.9",
+        "combined-stream": "~0.0.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/form-data",
+          "observedAt": "2026-11-16T10:35:02.725Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/form-data",
+          "observedAt": "2026-11-16T10:35:02.725Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/form-data",
+          "observedAt": "2026-11-16T10:35:02.725Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/form-data",
+          "observedAt": "2026-11-16T10:35:02.725Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/form-data",
+          "observedAt": "2026-11-16T10:35:02.725Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "form-data",
+      "semver": "1.0.0-rc3",
+      "publishedAt": "2015-07-30T04:10:06.749Z",
+      "publisher": "dylanpiercey",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "async": "^1.4.0",
+        "mime-types": "^2.1.3",
+        "combined-stream": "^1.0.5"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/form-data",
+          "observedAt": "2026-11-16T10:35:02.725Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/form-data",
+          "observedAt": "2026-11-16T10:35:02.725Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/form-data",
+          "observedAt": "2026-11-16T10:35:02.725Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/form-data",
+          "observedAt": "2026-11-16T10:35:02.725Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/form-data",
+          "observedAt": "2026-11-16T10:35:02.725Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "form-data",
+      "semver": "2.5.5",
+      "publishedAt": "2025-07-18T22:54:20.578Z",
+      "publisher": "ljharb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 78958,
+      "dependencies": {
+        "hasown": "^2.0.2",
+        "asynckit": "^0.4.0",
+        "mime-types": "^2.1.35",
+        "safe-buffer": "^5.2.1",
+        "combined-stream": "^1.0.8",
+        "es-set-tostringtag": "^2.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/form-data",
+          "observedAt": "2026-11-16T10:35:02.725Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/form-data",
+          "observedAt": "2026-11-16T10:35:02.725Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/form-data",
+          "observedAt": "2026-11-16T10:35:02.725Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/form-data",
+          "observedAt": "2026-11-16T10:35:02.725Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/form-data",
+          "observedAt": "2026-11-16T10:35:02.725Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/form-data",
+          "observedAt": "2026-11-16T10:35:02.725Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "form-data",
+      "semver": "3.0.0",
+      "publishedAt": "2019-11-06T07:56:58.467Z",
+      "publisher": "alexindigo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 42171,
+      "dependencies": {
+        "asynckit": "^0.4.0",
+        "mime-types": "^2.1.12",
+        "combined-stream": "^1.0.8"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/form-data",
+          "observedAt": "2026-11-16T10:35:02.725Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/form-data",
+          "observedAt": "2026-11-16T10:35:02.725Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/form-data",
+          "observedAt": "2026-11-16T10:35:02.725Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/form-data",
+          "observedAt": "2026-11-16T10:35:02.725Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/form-data",
+          "observedAt": "2026-11-16T10:35:02.725Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/form-data",
+          "observedAt": "2026-11-16T10:35:02.725Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "form-data",
+      "semver": "4.0.0",
+      "publishedAt": "2021-02-15T17:38:54.740Z",
+      "publisher": "niftylettuce",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 43381,
+      "dependencies": {
+        "asynckit": "^0.4.0",
+        "mime-types": "^2.1.12",
+        "combined-stream": "^1.0.8"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/form-data",
+          "observedAt": "2026-11-16T10:35:02.725Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/form-data",
+          "observedAt": "2026-11-16T10:35:02.725Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/form-data",
+          "observedAt": "2026-11-16T10:35:02.725Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/form-data",
+          "observedAt": "2026-11-16T10:35:02.725Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/form-data",
+          "observedAt": "2026-11-16T10:35:02.725Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/form-data",
+          "observedAt": "2026-11-16T10:35:02.725Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

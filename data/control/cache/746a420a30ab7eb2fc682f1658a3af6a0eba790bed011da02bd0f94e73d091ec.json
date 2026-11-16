@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "pkg": "buffer-equal-constant-time",
+  "source": "https://registry.npmjs.org/buffer-equal-constant-time",
+  "fetchedAt": "2026-11-16T10:34:57.158Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 2
+  },
+  "sourceSha256": "ee504785fbaff970c589e08e620c111aea2256d9faef5025ed35947fd09c10ae",
+  "versions": [
+    {
+      "pkg": "buffer-equal-constant-time",
+      "semver": "1.0.1",
+      "publishedAt": "2013-12-16T20:12:17.799Z",
+      "publisher": "goinstant",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/buffer-equal-constant-time",
+          "observedAt": "2026-11-16T10:34:57.158Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/buffer-equal-constant-time",
+          "observedAt": "2026-11-16T10:34:57.158Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/buffer-equal-constant-time",
+          "observedAt": "2026-11-16T10:34:57.158Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/buffer-equal-constant-time",
+          "observedAt": "2026-11-16T10:34:57.158Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/buffer-equal-constant-time",
+          "observedAt": "2026-11-16T10:34:57.158Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

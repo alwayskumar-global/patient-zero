@@ -1,0 +1,168 @@
+{
+  "schemaVersion": 1,
+  "pkg": "punycode",
+  "source": "https://registry.npmjs.org/punycode",
+  "fetchedAt": "2026-11-16T10:35:21.662Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 31
+  },
+  "sourceSha256": "f939136719058b7519d90da4bada687056329c114f9028751709a394d5ab0af0",
+  "versions": [
+    {
+      "pkg": "punycode",
+      "semver": "0.0.2",
+      "publishedAt": "2011-10-26T22:21:42.683Z",
+      "publisher": "wizard",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/punycode",
+          "observedAt": "2026-11-16T10:35:21.662Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/punycode",
+          "observedAt": "2026-11-16T10:35:21.662Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/punycode",
+          "observedAt": "2026-11-16T10:35:21.662Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/punycode",
+          "observedAt": "2026-11-16T10:35:21.662Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/punycode",
+          "observedAt": "2026-11-16T10:35:21.662Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "punycode",
+      "semver": "1.1.1",
+      "publishedAt": "2012-06-27T15:43:09.363Z",
+      "publisher": null,
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/punycode",
+          "observedAt": "2026-11-16T10:35:21.662Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/punycode",
+          "observedAt": "2026-11-16T10:35:21.662Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/punycode",
+          "observedAt": "2026-11-16T10:35:21.662Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/punycode",
+          "observedAt": "2026-11-16T10:35:21.662Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "punycode",
+      "semver": "2.2.0",
+      "publishedAt": "2023-01-10T13:39:49.392Z",
+      "publisher": "mathias",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 32776,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/punycode",
+          "observedAt": "2026-11-16T10:35:21.662Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/punycode",
+          "observedAt": "2026-11-16T10:35:21.662Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/punycode",
+          "observedAt": "2026-11-16T10:35:21.662Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/punycode",
+          "observedAt": "2026-11-16T10:35:21.662Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/punycode",
+          "observedAt": "2026-11-16T10:35:21.662Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/punycode",
+          "observedAt": "2026-11-16T10:35:21.662Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "punycode",
+      "semver": "2.3.1",
+      "publishedAt": "2023-10-30T18:28:32.512Z",
+      "publisher": "google-wombot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 33514,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/punycode",
+          "observedAt": "2026-11-16T10:35:21.662Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/punycode",
+          "observedAt": "2026-11-16T10:35:21.662Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/punycode",
+          "observedAt": "2026-11-16T10:35:21.662Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/punycode",
+          "observedAt": "2026-11-16T10:35:21.662Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/punycode",
+          "observedAt": "2026-11-16T10:35:21.662Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/punycode",
+          "observedAt": "2026-11-16T10:35:21.662Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

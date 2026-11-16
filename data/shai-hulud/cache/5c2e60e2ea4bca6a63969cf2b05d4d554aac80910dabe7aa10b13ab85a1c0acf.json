@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@teselagen/react-list",
+  "source": "https://registry.npmjs.org/%40teselagen%2Freact-list",
+  "fetchedAt": "2026-11-16T10:32:01.315Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 7
+  },
+  "sourceSha256": "4c8264a076245977970c9b1d7b15046409d64ad36fa143df9e5e626bef297c9e",
+  "versions": [
+    {
+      "pkg": "@teselagen/react-list",
+      "semver": "0.8.18",
+      "publishedAt": "2019-10-25T19:26:46.073Z",
+      "publisher": "teselagen-admin",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 38412,
+      "dependencies": {
+        "prop-types": "15"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40teselagen%2Freact-list",
+          "observedAt": "2026-11-16T10:32:01.315Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40teselagen%2Freact-list",
+          "observedAt": "2026-11-16T10:32:01.315Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40teselagen%2Freact-list",
+          "observedAt": "2026-11-16T10:32:01.315Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40teselagen%2Freact-list",
+          "observedAt": "2026-11-16T10:32:01.315Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40teselagen%2Freact-list",
+          "observedAt": "2026-11-16T10:32:01.315Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40teselagen%2Freact-list",
+          "observedAt": "2026-11-16T10:32:01.315Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@teselagen/react-list",
+      "semver": "0.8.19",
+      "publishedAt": "2025-09-14T21:01:44.148Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40teselagen%2Freact-list",
+          "observedAt": "2026-11-16T10:32:01.315Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@teselagen/react-list",
+      "semver": "0.8.20",
+      "publishedAt": "2025-09-16T02:33:05.866Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40teselagen%2Freact-list",
+          "observedAt": "2026-11-16T10:32:01.315Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

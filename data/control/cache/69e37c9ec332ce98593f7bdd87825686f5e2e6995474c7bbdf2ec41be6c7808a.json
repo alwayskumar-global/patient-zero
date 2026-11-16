@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "decompress-response",
+  "source": "https://registry.npmjs.org/decompress-response",
+  "fetchedAt": "2026-11-16T10:34:59.363Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 14
+  },
+  "sourceSha256": "a6c4fdc24c3b842ddae71af8d8df9499afad71d3a275657374ac2c3bf9edc938",
+  "versions": [
+    {
+      "pkg": "decompress-response",
+      "semver": "9.0.0",
+      "publishedAt": "2024-05-28T21:43:09.245Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 5477,
+      "dependencies": {
+        "mimic-response": "^4.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/decompress-response",
+          "observedAt": "2026-11-16T10:34:59.363Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/decompress-response",
+          "observedAt": "2026-11-16T10:34:59.363Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/decompress-response",
+          "observedAt": "2026-11-16T10:34:59.363Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/decompress-response",
+          "observedAt": "2026-11-16T10:34:59.363Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/decompress-response",
+          "observedAt": "2026-11-16T10:34:59.363Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/decompress-response",
+          "observedAt": "2026-11-16T10:34:59.363Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

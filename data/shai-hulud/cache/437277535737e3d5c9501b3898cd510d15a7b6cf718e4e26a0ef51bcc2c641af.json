@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@thangved/callback-window",
+  "source": "https://registry.npmjs.org/%40thangved%2Fcallback-window",
+  "fetchedAt": "2026-11-16T10:32:04.411Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 12
+  },
+  "sourceSha256": "fb69b55cc8dfd1a41a6bb60e4c8c93741fb6390c57b290d6a864cbdc9e6cd4fb",
+  "versions": [
+    {
+      "pkg": "@thangved/callback-window",
+      "semver": "1.1.3-0",
+      "publishedAt": "2025-09-13T05:53:21.393Z",
+      "publisher": "thangved02",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7659,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40thangved%2Fcallback-window",
+          "observedAt": "2026-11-16T10:32:04.411Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40thangved%2Fcallback-window",
+          "observedAt": "2026-11-16T10:32:04.411Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40thangved%2Fcallback-window",
+          "observedAt": "2026-11-16T10:32:04.411Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40thangved%2Fcallback-window",
+          "observedAt": "2026-11-16T10:32:04.411Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40thangved%2Fcallback-window",
+          "observedAt": "2026-11-16T10:32:04.411Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40thangved%2Fcallback-window",
+          "observedAt": "2026-11-16T10:32:04.411Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@thangved/callback-window",
+      "semver": "1.1.4",
+      "publishedAt": "2025-09-14T20:31:38.479Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40thangved%2Fcallback-window",
+          "observedAt": "2026-11-16T10:32:04.411Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@thangved/callback-window",
+      "semver": "1.1.4-0",
+      "publishedAt": "2025-09-15T05:52:26.712Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40thangved%2Fcallback-window",
+          "observedAt": "2026-11-16T10:32:04.411Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@thangved/callback-window",
+      "semver": "1.1.5",
+      "publishedAt": "2025-09-15T05:55:09.253Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40thangved%2Fcallback-window",
+          "observedAt": "2026-11-16T10:32:04.411Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@thangved/callback-window",
+      "semver": "1.1.5-0",
+      "publishedAt": "2025-09-15T05:54:27.203Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40thangved%2Fcallback-window",
+          "observedAt": "2026-11-16T10:32:04.411Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

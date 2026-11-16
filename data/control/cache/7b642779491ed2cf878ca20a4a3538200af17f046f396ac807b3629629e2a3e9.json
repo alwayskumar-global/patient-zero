@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@swc/core-linux-x64-gnu",
+  "source": "https://registry.npmjs.org/%40swc%2Fcore-linux-x64-gnu",
+  "fetchedAt": "2026-11-16T10:34:42.966Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 796
+  },
+  "sourceSha256": "0a9f06181ecb5c749ef22bd434c306ee4dc2baf406b28fc01b913e39e526355d",
+  "versions": [
+    {
+      "pkg": "@swc/core-linux-x64-gnu",
+      "semver": "1.13.3",
+      "publishedAt": "2025-07-29T04:25:29.713Z",
+      "publisher": "kdy1",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 37554648,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40swc%2Fcore-linux-x64-gnu",
+          "observedAt": "2026-11-16T10:34:42.966Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40swc%2Fcore-linux-x64-gnu",
+          "observedAt": "2026-11-16T10:34:42.966Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40swc%2Fcore-linux-x64-gnu",
+          "observedAt": "2026-11-16T10:34:42.966Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40swc%2Fcore-linux-x64-gnu",
+          "observedAt": "2026-11-16T10:34:42.966Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40swc%2Fcore-linux-x64-gnu",
+          "observedAt": "2026-11-16T10:34:42.966Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40swc%2Fcore-linux-x64-gnu",
+          "observedAt": "2026-11-16T10:34:42.966Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

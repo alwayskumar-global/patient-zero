@@ -1,0 +1,410 @@
+{
+  "schemaVersion": 1,
+  "pkg": "typescript",
+  "source": "https://registry.npmjs.org/typescript",
+  "fetchedAt": "2026-11-16T10:35:30.485Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 3890
+  },
+  "sourceSha256": "bdfa8567949cfed688b86182ed821dbf1652aa693d35cff79bd89d9f41d84d21",
+  "versions": [
+    {
+      "pkg": "typescript",
+      "semver": "2.7.0-insider.20180119",
+      "publishedAt": "2018-01-19T23:01:36.879Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/typescript",
+          "observedAt": "2026-11-16T10:35:30.485Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "typescript",
+      "semver": "3.8.2",
+      "publishedAt": "2020-02-20T22:45:56.500Z",
+      "publisher": "typescript",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 52177069,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/typescript",
+          "observedAt": "2026-11-16T10:35:30.485Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/typescript",
+          "observedAt": "2026-11-16T10:35:30.485Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/typescript",
+          "observedAt": "2026-11-16T10:35:30.485Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/typescript",
+          "observedAt": "2026-11-16T10:35:30.485Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/typescript",
+          "observedAt": "2026-11-16T10:35:30.485Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/typescript",
+          "observedAt": "2026-11-16T10:35:30.485Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "typescript",
+      "semver": "5.9.2",
+      "publishedAt": "2025-07-31T17:54:06.216Z",
+      "publisher": "typescript-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 23622869,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/typescript",
+          "observedAt": "2026-11-16T10:35:30.485Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/typescript",
+          "observedAt": "2026-11-16T10:35:30.485Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/typescript",
+          "observedAt": "2026-11-16T10:35:30.485Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/typescript",
+          "observedAt": "2026-11-16T10:35:30.485Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/typescript",
+          "observedAt": "2026-11-16T10:35:30.485Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/typescript",
+          "observedAt": "2026-11-16T10:35:30.485Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "typescript",
+      "semver": "6.0.0-dev.20250801",
+      "publishedAt": "2025-08-01T07:19:00.620Z",
+      "publisher": "typescript-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 23623527,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/typescript",
+          "observedAt": "2026-11-16T10:35:30.485Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/typescript",
+          "observedAt": "2026-11-16T10:35:30.485Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/typescript",
+          "observedAt": "2026-11-16T10:35:30.485Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/typescript",
+          "observedAt": "2026-11-16T10:35:30.485Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/typescript",
+          "observedAt": "2026-11-16T10:35:30.485Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/typescript",
+          "observedAt": "2026-11-16T10:35:30.485Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "typescript",
+      "semver": "6.0.0-dev.20250802",
+      "publishedAt": "2025-08-02T07:15:33.607Z",
+      "publisher": "typescript-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 23623527,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/typescript",
+          "observedAt": "2026-11-16T10:35:30.485Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/typescript",
+          "observedAt": "2026-11-16T10:35:30.485Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/typescript",
+          "observedAt": "2026-11-16T10:35:30.485Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/typescript",
+          "observedAt": "2026-11-16T10:35:30.485Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/typescript",
+          "observedAt": "2026-11-16T10:35:30.485Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/typescript",
+          "observedAt": "2026-11-16T10:35:30.485Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "typescript",
+      "semver": "6.0.0-dev.20250803",
+      "publishedAt": "2025-08-03T07:15:30.203Z",
+      "publisher": "typescript-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 23623527,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/typescript",
+          "observedAt": "2026-11-16T10:35:30.485Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/typescript",
+          "observedAt": "2026-11-16T10:35:30.485Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/typescript",
+          "observedAt": "2026-11-16T10:35:30.485Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/typescript",
+          "observedAt": "2026-11-16T10:35:30.485Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/typescript",
+          "observedAt": "2026-11-16T10:35:30.485Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/typescript",
+          "observedAt": "2026-11-16T10:35:30.485Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "typescript",
+      "semver": "6.0.0-dev.20250804",
+      "publishedAt": "2025-08-04T07:21:20.347Z",
+      "publisher": "typescript-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 23623527,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/typescript",
+          "observedAt": "2026-11-16T10:35:30.485Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/typescript",
+          "observedAt": "2026-11-16T10:35:30.485Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/typescript",
+          "observedAt": "2026-11-16T10:35:30.485Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/typescript",
+          "observedAt": "2026-11-16T10:35:30.485Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/typescript",
+          "observedAt": "2026-11-16T10:35:30.485Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/typescript",
+          "observedAt": "2026-11-16T10:35:30.485Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "typescript",
+      "semver": "6.0.0-dev.20250805",
+      "publishedAt": "2025-08-05T07:18:50.393Z",
+      "publisher": "typescript-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 23623527,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/typescript",
+          "observedAt": "2026-11-16T10:35:30.485Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/typescript",
+          "observedAt": "2026-11-16T10:35:30.485Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/typescript",
+          "observedAt": "2026-11-16T10:35:30.485Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/typescript",
+          "observedAt": "2026-11-16T10:35:30.485Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/typescript",
+          "observedAt": "2026-11-16T10:35:30.485Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/typescript",
+          "observedAt": "2026-11-16T10:35:30.485Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "typescript",
+      "semver": "6.0.0-dev.20250806",
+      "publishedAt": "2025-08-06T07:18:55.508Z",
+      "publisher": "typescript-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 23623527,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/typescript",
+          "observedAt": "2026-11-16T10:35:30.485Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/typescript",
+          "observedAt": "2026-11-16T10:35:30.485Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/typescript",
+          "observedAt": "2026-11-16T10:35:30.485Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/typescript",
+          "observedAt": "2026-11-16T10:35:30.485Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/typescript",
+          "observedAt": "2026-11-16T10:35:30.485Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/typescript",
+          "observedAt": "2026-11-16T10:35:30.485Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "typescript",
+      "semver": "6.0.0-dev.20250807",
+      "publishedAt": "2025-08-07T07:18:58.414Z",
+      "publisher": "typescript-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 23623527,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/typescript",
+          "observedAt": "2026-11-16T10:35:30.485Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/typescript",
+          "observedAt": "2026-11-16T10:35:30.485Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/typescript",
+          "observedAt": "2026-11-16T10:35:30.485Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/typescript",
+          "observedAt": "2026-11-16T10:35:30.485Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/typescript",
+          "observedAt": "2026-11-16T10:35:30.485Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/typescript",
+          "observedAt": "2026-11-16T10:35:30.485Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

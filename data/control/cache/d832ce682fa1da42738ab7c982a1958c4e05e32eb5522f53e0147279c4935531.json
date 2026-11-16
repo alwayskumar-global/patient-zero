@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "p-locate",
+  "source": "https://registry.npmjs.org/p-locate",
+  "fetchedAt": "2026-11-16T10:35:16.530Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 8
+  },
+  "sourceSha256": "ee57546decb4a18ce21ec957cc1334f20e5e479a6fccfd8fc9a42208016b3985",
+  "versions": [
+    {
+      "pkg": "p-locate",
+      "semver": "6.0.0",
+      "publishedAt": "2021-08-25T11:56:43.294Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7032,
+      "dependencies": {
+        "p-limit": "^4.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/p-locate",
+          "observedAt": "2026-11-16T10:35:16.530Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/p-locate",
+          "observedAt": "2026-11-16T10:35:16.530Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/p-locate",
+          "observedAt": "2026-11-16T10:35:16.530Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/p-locate",
+          "observedAt": "2026-11-16T10:35:16.530Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/p-locate",
+          "observedAt": "2026-11-16T10:35:16.530Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/p-locate",
+          "observedAt": "2026-11-16T10:35:16.530Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

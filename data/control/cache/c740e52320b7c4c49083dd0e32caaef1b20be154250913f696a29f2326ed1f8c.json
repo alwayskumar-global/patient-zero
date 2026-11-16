@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "http-cache-semantics",
+  "source": "https://registry.npmjs.org/http-cache-semantics",
+  "fetchedAt": "2026-11-16T10:35:04.133Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 30
+  },
+  "sourceSha256": "80d047081285fcc7b46d40f2526e1d123fa3b2c02c0d4bb4d718cb678a80e623",
+  "versions": [
+    {
+      "pkg": "http-cache-semantics",
+      "semver": "4.2.0",
+      "publishedAt": "2025-05-09T13:38:11.855Z",
+      "publisher": "kornel",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 49973,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/http-cache-semantics",
+          "observedAt": "2026-11-16T10:35:04.133Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/http-cache-semantics",
+          "observedAt": "2026-11-16T10:35:04.133Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/http-cache-semantics",
+          "observedAt": "2026-11-16T10:35:04.133Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/http-cache-semantics",
+          "observedAt": "2026-11-16T10:35:04.133Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/http-cache-semantics",
+          "observedAt": "2026-11-16T10:35:04.133Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/http-cache-semantics",
+          "observedAt": "2026-11-16T10:35:04.133Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

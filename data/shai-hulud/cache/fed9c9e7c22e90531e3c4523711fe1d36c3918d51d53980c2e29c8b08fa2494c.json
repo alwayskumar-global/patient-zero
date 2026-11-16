@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "pkg": "yargs-help-output",
+  "source": "https://registry.npmjs.org/yargs-help-output",
+  "fetchedAt": "2026-11-16T10:32:32.159Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 14
+  },
+  "sourceSha256": "97924154b77700c20647a5831df5c5db6fd6511498302e3f78f80d15da1b59fc",
+  "versions": [
+    {
+      "pkg": "yargs-help-output",
+      "semver": "5.0.2",
+      "publishedAt": "2025-04-28T16:13:02.405Z",
+      "publisher": "crowdstrike-publisher",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 11130,
+      "dependencies": {
+        "execa": "^9.0.0",
+        "yargs": "^17.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/yargs-help-output",
+          "observedAt": "2026-11-16T10:32:32.159Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/yargs-help-output",
+          "observedAt": "2026-11-16T10:32:32.159Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/yargs-help-output",
+          "observedAt": "2026-11-16T10:32:32.159Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/yargs-help-output",
+          "observedAt": "2026-11-16T10:32:32.159Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/yargs-help-output",
+          "observedAt": "2026-11-16T10:32:32.159Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/yargs-help-output",
+          "observedAt": "2026-11-16T10:32:32.159Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "yargs-help-output",
+      "semver": "5.0.3",
+      "publishedAt": "2025-09-16T01:22:07.691Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/yargs-help-output",
+          "observedAt": "2026-11-16T10:32:32.159Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "pkg": "node-int64",
+  "source": "https://registry.npmjs.org/node-int64",
+  "fetchedAt": "2026-11-16T10:35:15.368Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 7
+  },
+  "sourceSha256": "9e892cc5ef70b546e10ea52b2a2db95c5f7c87b4cac0127e0ecab40e805f8719",
+  "versions": [
+    {
+      "pkg": "node-int64",
+      "semver": "0.3.0",
+      "publishedAt": "2011-06-21T17:52:11.242Z",
+      "publisher": null,
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/node-int64",
+          "observedAt": "2026-11-16T10:35:15.368Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/node-int64",
+          "observedAt": "2026-11-16T10:35:15.368Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/node-int64",
+          "observedAt": "2026-11-16T10:35:15.368Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/node-int64",
+          "observedAt": "2026-11-16T10:35:15.368Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "node-int64",
+      "semver": "0.4.0",
+      "publishedAt": "2015-04-04T02:52:16.354Z",
+      "publisher": "broofa",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/node-int64",
+          "observedAt": "2026-11-16T10:35:15.368Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/node-int64",
+          "observedAt": "2026-11-16T10:35:15.368Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/node-int64",
+          "observedAt": "2026-11-16T10:35:15.368Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/node-int64",
+          "observedAt": "2026-11-16T10:35:15.368Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/node-int64",
+          "observedAt": "2026-11-16T10:35:15.368Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

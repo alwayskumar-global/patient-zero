@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "pkg": "which-boxed-primitive",
+  "source": "https://registry.npmjs.org/which-boxed-primitive",
+  "fetchedAt": "2026-11-16T10:35:34.769Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 5
+  },
+  "sourceSha256": "a3adc2ae45dcb3e7488c3346266f694cbfd008b6470dd74908020b413c5b932c",
+  "versions": [
+    {
+      "pkg": "which-boxed-primitive",
+      "semver": "1.1.1",
+      "publishedAt": "2024-12-16T05:48:44.026Z",
+      "publisher": "ljharb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 19278,
+      "dependencies": {
+        "is-bigint": "^1.1.0",
+        "is-boolean-object": "^1.2.1",
+        "is-number-object": "^1.1.1",
+        "is-string": "^1.1.1",
+        "is-symbol": "^1.1.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/which-boxed-primitive",
+          "observedAt": "2026-11-16T10:35:34.769Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/which-boxed-primitive",
+          "observedAt": "2026-11-16T10:35:34.769Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/which-boxed-primitive",
+          "observedAt": "2026-11-16T10:35:34.769Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/which-boxed-primitive",
+          "observedAt": "2026-11-16T10:35:34.769Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/which-boxed-primitive",
+          "observedAt": "2026-11-16T10:35:34.769Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/which-boxed-primitive",
+          "observedAt": "2026-11-16T10:35:34.769Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

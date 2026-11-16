@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "pkg": "string.prototype.trim",
+  "source": "https://registry.npmjs.org/string.prototype.trim",
+  "fetchedAt": "2026-11-16T10:35:27.546Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 16
+  },
+  "sourceSha256": "17d0e2ed06687020b1d3c4dee0b97df0124c97cf5c56385a8a9fd483d684859e",
+  "versions": [
+    {
+      "pkg": "string.prototype.trim",
+      "semver": "1.2.10",
+      "publishedAt": "2024-12-11T19:24:15.549Z",
+      "publisher": "ljharb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 35238,
+      "dependencies": {
+        "call-bind": "^1.0.8",
+        "call-bound": "^1.0.2",
+        "es-abstract": "^1.23.5",
+        "es-object-atoms": "^1.0.0",
+        "define-properties": "^1.2.1",
+        "define-data-property": "^1.1.4",
+        "has-property-descriptors": "^1.0.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/string.prototype.trim",
+          "observedAt": "2026-11-16T10:35:27.546Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/string.prototype.trim",
+          "observedAt": "2026-11-16T10:35:27.546Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/string.prototype.trim",
+          "observedAt": "2026-11-16T10:35:27.546Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/string.prototype.trim",
+          "observedAt": "2026-11-16T10:35:27.546Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/string.prototype.trim",
+          "observedAt": "2026-11-16T10:35:27.546Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/string.prototype.trim",
+          "observedAt": "2026-11-16T10:35:27.546Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

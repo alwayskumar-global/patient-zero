@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@smithy/node-http-handler",
+  "source": "https://registry.npmjs.org/%40smithy%2Fnode-http-handler",
+  "fetchedAt": "2026-11-16T10:34:39.979Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 122
+  },
+  "sourceSha256": "a9c85fa3abfaf788f92ba1f81fd4ff67b1dee44b104c181cd1b690c1990af94a",
+  "versions": [
+    {
+      "pkg": "@smithy/node-http-handler",
+      "semver": "4.1.0",
+      "publishedAt": "2025-07-09T14:46:29.215Z",
+      "publisher": "smithy-team",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 94861,
+      "dependencies": {
+        "tslib": "^2.6.2",
+        "@smithy/types": "^4.3.1",
+        "@smithy/protocol-http": "^5.1.2",
+        "@smithy/abort-controller": "^4.0.4",
+        "@smithy/querystring-builder": "^4.0.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40smithy%2Fnode-http-handler",
+          "observedAt": "2026-11-16T10:34:39.979Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40smithy%2Fnode-http-handler",
+          "observedAt": "2026-11-16T10:34:39.979Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40smithy%2Fnode-http-handler",
+          "observedAt": "2026-11-16T10:34:39.979Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40smithy%2Fnode-http-handler",
+          "observedAt": "2026-11-16T10:34:39.979Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40smithy%2Fnode-http-handler",
+          "observedAt": "2026-11-16T10:34:39.979Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40smithy%2Fnode-http-handler",
+          "observedAt": "2026-11-16T10:34:39.979Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@smithy/node-http-handler",
+      "semver": "4.1.1",
+      "publishedAt": "2025-08-06T16:59:34.971Z",
+      "publisher": "smithy-team",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 94861,
+      "dependencies": {
+        "tslib": "^2.6.2",
+        "@smithy/types": "^4.3.2",
+        "@smithy/protocol-http": "^5.1.3",
+        "@smithy/abort-controller": "^4.0.5",
+        "@smithy/querystring-builder": "^4.0.5"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40smithy%2Fnode-http-handler",
+          "observedAt": "2026-11-16T10:34:39.979Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40smithy%2Fnode-http-handler",
+          "observedAt": "2026-11-16T10:34:39.979Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40smithy%2Fnode-http-handler",
+          "observedAt": "2026-11-16T10:34:39.979Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40smithy%2Fnode-http-handler",
+          "observedAt": "2026-11-16T10:34:39.979Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40smithy%2Fnode-http-handler",
+          "observedAt": "2026-11-16T10:34:39.979Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40smithy%2Fnode-http-handler",
+          "observedAt": "2026-11-16T10:34:39.979Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

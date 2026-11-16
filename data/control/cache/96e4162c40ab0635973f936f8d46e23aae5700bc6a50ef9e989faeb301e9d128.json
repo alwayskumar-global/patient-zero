@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "pkg": "object.assign",
+  "source": "https://registry.npmjs.org/object.assign",
+  "fetchedAt": "2026-11-16T10:35:15.881Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 37
+  },
+  "sourceSha256": "bd5e6f288e57af10c810327e930c198f947eddf9e7f0c9e505f78ca3f961a113",
+  "versions": [
+    {
+      "pkg": "object.assign",
+      "semver": "3.0.2",
+      "publishedAt": "2016-06-28T08:13:11.298Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/object.assign",
+          "observedAt": "2026-11-16T10:35:15.881Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "object.assign",
+      "semver": "4.1.7",
+      "publishedAt": "2024-12-18T20:54:22.882Z",
+      "publisher": "ljharb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 78300,
+      "dependencies": {
+        "call-bind": "^1.0.8",
+        "call-bound": "^1.0.3",
+        "define-properties": "^1.2.1",
+        "es-object-atoms": "^1.0.0",
+        "has-symbols": "^1.1.0",
+        "object-keys": "^1.1.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/object.assign",
+          "observedAt": "2026-11-16T10:35:15.881Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/object.assign",
+          "observedAt": "2026-11-16T10:35:15.881Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/object.assign",
+          "observedAt": "2026-11-16T10:35:15.881Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/object.assign",
+          "observedAt": "2026-11-16T10:35:15.881Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/object.assign",
+          "observedAt": "2026-11-16T10:35:15.881Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/object.assign",
+          "observedAt": "2026-11-16T10:35:15.881Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

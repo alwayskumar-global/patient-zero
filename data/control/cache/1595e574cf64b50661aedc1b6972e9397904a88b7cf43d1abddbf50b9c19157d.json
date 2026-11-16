@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "pkg": "multicast-dns",
+  "source": "https://registry.npmjs.org/multicast-dns",
+  "fetchedAt": "2026-11-16T10:35:14.259Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 41
+  },
+  "sourceSha256": "60e289e95fe25a0bed8b0868bec3971bfd4b71d667151b3277614922b256858c",
+  "versions": [
+    {
+      "pkg": "multicast-dns",
+      "semver": "5.3.1",
+      "publishedAt": "2016-01-31T13:27:11.621Z",
+      "publisher": "watson",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "ip": "^1.1.0",
+        "thunky": "^0.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/multicast-dns",
+          "observedAt": "2026-11-16T10:35:14.259Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/multicast-dns",
+          "observedAt": "2026-11-16T10:35:14.259Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/multicast-dns",
+          "observedAt": "2026-11-16T10:35:14.259Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/multicast-dns",
+          "observedAt": "2026-11-16T10:35:14.259Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/multicast-dns",
+          "observedAt": "2026-11-16T10:35:14.259Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "multicast-dns",
+      "semver": "7.2.5",
+      "publishedAt": "2022-05-16T08:18:55.104Z",
+      "publisher": "mafintosh",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 21968,
+      "dependencies": {
+        "thunky": "^1.0.2",
+        "dns-packet": "^5.2.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/multicast-dns",
+          "observedAt": "2026-11-16T10:35:14.259Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/multicast-dns",
+          "observedAt": "2026-11-16T10:35:14.259Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/multicast-dns",
+          "observedAt": "2026-11-16T10:35:14.259Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/multicast-dns",
+          "observedAt": "2026-11-16T10:35:14.259Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/multicast-dns",
+          "observedAt": "2026-11-16T10:35:14.259Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/multicast-dns",
+          "observedAt": "2026-11-16T10:35:14.259Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

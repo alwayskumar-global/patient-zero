@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "basic-ftp",
+  "source": "https://registry.npmjs.org/basic-ftp",
+  "fetchedAt": "2026-11-16T10:34:56.681Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 129
+  },
+  "sourceSha256": "d1aaa2ded759a83602efb7f9ce03c86e221e02aac6f3300d3803a1eb56aa3717",
+  "versions": [
+    {
+      "pkg": "basic-ftp",
+      "semver": "5.0.5",
+      "publishedAt": "2024-02-27T21:10:17.242Z",
+      "publisher": "patrickjuchli",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 136182,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/basic-ftp",
+          "observedAt": "2026-11-16T10:34:56.681Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/basic-ftp",
+          "observedAt": "2026-11-16T10:34:56.681Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/basic-ftp",
+          "observedAt": "2026-11-16T10:34:56.681Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/basic-ftp",
+          "observedAt": "2026-11-16T10:34:56.681Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/basic-ftp",
+          "observedAt": "2026-11-16T10:34:56.681Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/basic-ftp",
+          "observedAt": "2026-11-16T10:34:56.681Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

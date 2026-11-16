@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@types/d3-scale",
+  "source": "https://registry.npmjs.org/%40types%2Fd3-scale",
+  "fetchedAt": "2026-11-16T10:34:44.155Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 60
+  },
+  "sourceSha256": "a9bfc3e56a52ff33c7d0555e4b544cd2dcbabd65bdd38c72bf96a533331bb063",
+  "versions": [
+    {
+      "pkg": "@types/d3-scale",
+      "semver": "4.0.9",
+      "publishedAt": "2025-02-05T00:46:59.854Z",
+      "publisher": "types",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 134973,
+      "dependencies": {
+        "@types/d3-time": "*"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40types%2Fd3-scale",
+          "observedAt": "2026-11-16T10:34:44.155Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40types%2Fd3-scale",
+          "observedAt": "2026-11-16T10:34:44.155Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40types%2Fd3-scale",
+          "observedAt": "2026-11-16T10:34:44.155Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40types%2Fd3-scale",
+          "observedAt": "2026-11-16T10:34:44.155Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40types%2Fd3-scale",
+          "observedAt": "2026-11-16T10:34:44.155Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40types%2Fd3-scale",
+          "observedAt": "2026-11-16T10:34:44.155Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "schemaVersion": 1,
+  "pkg": "istanbul-lib-source-maps",
+  "source": "https://registry.npmjs.org/istanbul-lib-source-maps",
+  "fetchedAt": "2026-11-16T10:35:07.270Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 42
+  },
+  "sourceSha256": "2432e4fc7ffd9e957156db7d410181be2016f3f76dd8d70581901ad96f1fed0d",
+  "versions": [
+    {
+      "pkg": "istanbul-lib-source-maps",
+      "semver": "1.0.0-alpha.10",
+      "publishedAt": "2016-04-06T19:41:52.263Z",
+      "publisher": "gotwarlost",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "mkdirp": "^0.5.1",
+        "rimraf": "^2.4.4",
+        "source-map": "^0.5.3",
+        "istanbul-lib-coverage": "^1.0.0-alpha.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/istanbul-lib-source-maps",
+          "observedAt": "2026-11-16T10:35:07.270Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/istanbul-lib-source-maps",
+          "observedAt": "2026-11-16T10:35:07.270Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/istanbul-lib-source-maps",
+          "observedAt": "2026-11-16T10:35:07.270Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/istanbul-lib-source-maps",
+          "observedAt": "2026-11-16T10:35:07.270Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/istanbul-lib-source-maps",
+          "observedAt": "2026-11-16T10:35:07.270Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "istanbul-lib-source-maps",
+      "semver": "3.0.1",
+      "publishedAt": "2018-12-25T00:38:00.746Z",
+      "publisher": "bcoe",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 27866,
+      "dependencies": {
+        "debug": "^3.1.0",
+        "rimraf": "^2.6.2",
+        "make-dir": "^1.3.0",
+        "source-map": "^0.6.1",
+        "istanbul-lib-coverage": "^2.0.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/istanbul-lib-source-maps",
+          "observedAt": "2026-11-16T10:35:07.270Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/istanbul-lib-source-maps",
+          "observedAt": "2026-11-16T10:35:07.270Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/istanbul-lib-source-maps",
+          "observedAt": "2026-11-16T10:35:07.270Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/istanbul-lib-source-maps",
+          "observedAt": "2026-11-16T10:35:07.270Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/istanbul-lib-source-maps",
+          "observedAt": "2026-11-16T10:35:07.270Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/istanbul-lib-source-maps",
+          "observedAt": "2026-11-16T10:35:07.270Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "istanbul-lib-source-maps",
+      "semver": "4.0.0",
+      "publishedAt": "2019-12-20T20:54:38.938Z",
+      "publisher": "coreyfarrell",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 33473,
+      "dependencies": {
+        "debug": "^4.1.1",
+        "source-map": "^0.6.1",
+        "istanbul-lib-coverage": "^3.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/istanbul-lib-source-maps",
+          "observedAt": "2026-11-16T10:35:07.270Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/istanbul-lib-source-maps",
+          "observedAt": "2026-11-16T10:35:07.270Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/istanbul-lib-source-maps",
+          "observedAt": "2026-11-16T10:35:07.270Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/istanbul-lib-source-maps",
+          "observedAt": "2026-11-16T10:35:07.270Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/istanbul-lib-source-maps",
+          "observedAt": "2026-11-16T10:35:07.270Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/istanbul-lib-source-maps",
+          "observedAt": "2026-11-16T10:35:07.270Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "istanbul-lib-source-maps",
+      "semver": "5.0.6",
+      "publishedAt": "2024-07-02T09:19:35.697Z",
+      "publisher": "oss-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 37725,
+      "dependencies": {
+        "@jridgewell/trace-mapping": "^0.3.23",
+        "debug": "^4.1.1",
+        "istanbul-lib-coverage": "^3.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/istanbul-lib-source-maps",
+          "observedAt": "2026-11-16T10:35:07.270Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/istanbul-lib-source-maps",
+          "observedAt": "2026-11-16T10:35:07.270Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/istanbul-lib-source-maps",
+          "observedAt": "2026-11-16T10:35:07.270Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/istanbul-lib-source-maps",
+          "observedAt": "2026-11-16T10:35:07.270Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/istanbul-lib-source-maps",
+          "observedAt": "2026-11-16T10:35:07.270Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/istanbul-lib-source-maps",
+          "observedAt": "2026-11-16T10:35:07.270Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

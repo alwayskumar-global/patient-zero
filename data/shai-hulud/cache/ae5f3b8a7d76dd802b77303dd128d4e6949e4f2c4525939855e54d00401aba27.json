@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@teselagen/range-utils",
+  "source": "https://registry.npmjs.org/%40teselagen%2Frange-utils",
+  "fetchedAt": "2026-11-16T10:32:00.529Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 43
+  },
+  "sourceSha256": "ce19640074511a823dfa948a566994e4fa1f5b81b4b016df0ed924cc4c3450f1",
+  "versions": [
+    {
+      "pkg": "@teselagen/range-utils",
+      "semver": "0.3.14",
+      "publishedAt": "2025-09-14T21:01:46.031Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40teselagen%2Frange-utils",
+          "observedAt": "2026-11-16T10:32:00.529Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@teselagen/range-utils",
+      "semver": "0.3.14-beta.1",
+      "publishedAt": "2025-06-10T19:12:22.453Z",
+      "publisher": "teselagen-admin",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 402925,
+      "dependencies": {
+        "lodash-es": "^4.17.21"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40teselagen%2Frange-utils",
+          "observedAt": "2026-11-16T10:32:00.529Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40teselagen%2Frange-utils",
+          "observedAt": "2026-11-16T10:32:00.529Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40teselagen%2Frange-utils",
+          "observedAt": "2026-11-16T10:32:00.529Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40teselagen%2Frange-utils",
+          "observedAt": "2026-11-16T10:32:00.529Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40teselagen%2Frange-utils",
+          "observedAt": "2026-11-16T10:32:00.529Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40teselagen%2Frange-utils",
+          "observedAt": "2026-11-16T10:32:00.529Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@teselagen/range-utils",
+      "semver": "0.3.15",
+      "publishedAt": "2025-09-16T02:33:10.978Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40teselagen%2Frange-utils",
+          "observedAt": "2026-11-16T10:32:00.529Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

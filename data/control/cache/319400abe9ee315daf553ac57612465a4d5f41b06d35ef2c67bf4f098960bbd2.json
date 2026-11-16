@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@octokit/openapi-types",
+  "source": "https://registry.npmjs.org/%40octokit%2Fopenapi-types",
+  "fetchedAt": "2026-11-16T10:34:36.457Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 162
+  },
+  "sourceSha256": "ea8a71496b32f3a85bfba07f0335d20790e0220efdcdb3abccaca64e5e2190a7",
+  "versions": [
+    {
+      "pkg": "@octokit/openapi-types",
+      "semver": "25.1.0",
+      "publishedAt": "2025-05-25T22:23:50.642Z",
+      "publisher": "octokitbot",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 4568652,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40octokit%2Fopenapi-types",
+          "observedAt": "2026-11-16T10:34:36.457Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40octokit%2Fopenapi-types",
+          "observedAt": "2026-11-16T10:34:36.457Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40octokit%2Fopenapi-types",
+          "observedAt": "2026-11-16T10:34:36.457Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40octokit%2Fopenapi-types",
+          "observedAt": "2026-11-16T10:34:36.457Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40octokit%2Fopenapi-types",
+          "observedAt": "2026-11-16T10:34:36.457Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40octokit%2Fopenapi-types",
+          "observedAt": "2026-11-16T10:34:36.457Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

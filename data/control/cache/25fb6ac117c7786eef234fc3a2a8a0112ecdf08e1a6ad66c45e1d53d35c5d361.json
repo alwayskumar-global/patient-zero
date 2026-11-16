@@ -1,0 +1,329 @@
+{
+  "schemaVersion": 1,
+  "pkg": "babel-loader",
+  "source": "https://registry.npmjs.org/babel-loader",
+  "fetchedAt": "2026-11-16T10:34:56.437Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 84
+  },
+  "sourceSha256": "e71b69f82dc20474f092f0c0c66663671c248c90217c149d128be71cd565ef41",
+  "versions": [
+    {
+      "pkg": "babel-loader",
+      "semver": "10.0.0",
+      "publishedAt": "2025-02-27T20:27:43.471Z",
+      "publisher": "nicolo-ribaudo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 42542,
+      "dependencies": {
+        "find-up": "^5.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/babel-loader",
+          "observedAt": "2026-11-16T10:34:56.437Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/babel-loader",
+          "observedAt": "2026-11-16T10:34:56.437Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/babel-loader",
+          "observedAt": "2026-11-16T10:34:56.437Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/babel-loader",
+          "observedAt": "2026-11-16T10:34:56.437Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/babel-loader",
+          "observedAt": "2026-11-16T10:34:56.437Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/babel-loader",
+          "observedAt": "2026-11-16T10:34:56.437Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "babel-loader",
+      "semver": "5.3.3",
+      "publishedAt": "2015-10-29T18:13:25.428Z",
+      "publisher": "sebmck",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "babel-core": "^5.4.0",
+        "loader-utils": "^0.2.9",
+        "object-assign": "^3.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/babel-loader",
+          "observedAt": "2026-11-16T10:34:56.437Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/babel-loader",
+          "observedAt": "2026-11-16T10:34:56.437Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/babel-loader",
+          "observedAt": "2026-11-16T10:34:56.437Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/babel-loader",
+          "observedAt": "2026-11-16T10:34:56.437Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/babel-loader",
+          "observedAt": "2026-11-16T10:34:56.437Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "babel-loader",
+      "semver": "6.2.4",
+      "publishedAt": "2016-02-27T10:11:41.819Z",
+      "publisher": "couto",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "mkdirp": "^0.5.1",
+        "loader-utils": "^0.2.11",
+        "object-assign": "^4.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/babel-loader",
+          "observedAt": "2026-11-16T10:34:56.437Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/babel-loader",
+          "observedAt": "2026-11-16T10:34:56.437Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/babel-loader",
+          "observedAt": "2026-11-16T10:34:56.437Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/babel-loader",
+          "observedAt": "2026-11-16T10:34:56.437Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/babel-loader",
+          "observedAt": "2026-11-16T10:34:56.437Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "babel-loader",
+      "semver": "7.1.5",
+      "publishedAt": "2018-07-05T16:30:43.737Z",
+      "publisher": "hzoo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 28088,
+      "dependencies": {
+        "mkdirp": "^0.5.1",
+        "loader-utils": "^1.0.2",
+        "find-cache-dir": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/babel-loader",
+          "observedAt": "2026-11-16T10:34:56.437Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/babel-loader",
+          "observedAt": "2026-11-16T10:34:56.437Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/babel-loader",
+          "observedAt": "2026-11-16T10:34:56.437Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/babel-loader",
+          "observedAt": "2026-11-16T10:34:56.437Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/babel-loader",
+          "observedAt": "2026-11-16T10:34:56.437Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/babel-loader",
+          "observedAt": "2026-11-16T10:34:56.437Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "babel-loader",
+      "semver": "8.0.4",
+      "publishedAt": "2018-09-27T20:38:41.843Z",
+      "publisher": "loganfsmyth",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 37391,
+      "dependencies": {
+        "mkdirp": "^0.5.1",
+        "loader-utils": "^1.0.2",
+        "find-cache-dir": "^1.0.0",
+        "util.promisify": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/babel-loader",
+          "observedAt": "2026-11-16T10:34:56.437Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/babel-loader",
+          "observedAt": "2026-11-16T10:34:56.437Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/babel-loader",
+          "observedAt": "2026-11-16T10:34:56.437Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/babel-loader",
+          "observedAt": "2026-11-16T10:34:56.437Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/babel-loader",
+          "observedAt": "2026-11-16T10:34:56.437Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/babel-loader",
+          "observedAt": "2026-11-16T10:34:56.437Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "babel-loader",
+      "semver": "8.0.6",
+      "publishedAt": "2019-05-12T06:08:19.245Z",
+      "publisher": "danez",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 37014,
+      "dependencies": {
+        "pify": "^4.0.1",
+        "mkdirp": "^0.5.1",
+        "loader-utils": "^1.0.2",
+        "find-cache-dir": "^2.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/babel-loader",
+          "observedAt": "2026-11-16T10:34:56.437Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/babel-loader",
+          "observedAt": "2026-11-16T10:34:56.437Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/babel-loader",
+          "observedAt": "2026-11-16T10:34:56.437Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/babel-loader",
+          "observedAt": "2026-11-16T10:34:56.437Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/babel-loader",
+          "observedAt": "2026-11-16T10:34:56.437Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/babel-loader",
+          "observedAt": "2026-11-16T10:34:56.437Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "babel-loader",
+      "semver": "8.1.0",
+      "publishedAt": "2020-03-20T14:51:00.743Z",
+      "publisher": "existentialism",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 39121,
+      "dependencies": {
+        "pify": "^4.0.1",
+        "mkdirp": "^0.5.3",
+        "loader-utils": "^1.4.0",
+        "schema-utils": "^2.6.5",
+        "find-cache-dir": "^2.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/babel-loader",
+          "observedAt": "2026-11-16T10:34:56.437Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/babel-loader",
+          "observedAt": "2026-11-16T10:34:56.437Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/babel-loader",
+          "observedAt": "2026-11-16T10:34:56.437Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/babel-loader",
+          "observedAt": "2026-11-16T10:34:56.437Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/babel-loader",
+          "observedAt": "2026-11-16T10:34:56.437Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/babel-loader",
+          "observedAt": "2026-11-16T10:34:56.437Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

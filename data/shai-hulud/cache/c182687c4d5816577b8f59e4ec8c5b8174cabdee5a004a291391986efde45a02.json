@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "pkg": "browser-webdriver-downloader",
+  "source": "https://registry.npmjs.org/browser-webdriver-downloader",
+  "fetchedAt": "2026-11-16T10:32:14.788Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 27
+  },
+  "sourceSha256": "32f6e01a0c5ee84bd4541d172b3dc12312d0038f6bd4d2524bbc020ab17a23d9",
+  "versions": [
+    {
+      "pkg": "browser-webdriver-downloader",
+      "semver": "1.5.6",
+      "publishedAt": "2023-07-27T00:15:22.913Z",
+      "publisher": "kellyselden",
+      "hasInstallScript": true,
+      "provenance": false,
+      "unpackedSize": 20879481,
+      "dependencies": {
+        "yn": "^5.0.0",
+        "got": "^12.0.0",
+        "tmp": "0.2.1",
+        "execa": "^7.0.0",
+        "fs-extra": "^11.0.0",
+        "extract-zip": "^2.0.1",
+        "find-edge-version": "0.1.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/browser-webdriver-downloader",
+          "observedAt": "2026-11-16T10:32:14.788Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/browser-webdriver-downloader",
+          "observedAt": "2026-11-16T10:32:14.788Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/browser-webdriver-downloader",
+          "observedAt": "2026-11-16T10:32:14.788Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/browser-webdriver-downloader",
+          "observedAt": "2026-11-16T10:32:14.788Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/browser-webdriver-downloader",
+          "observedAt": "2026-11-16T10:32:14.788Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/browser-webdriver-downloader",
+          "observedAt": "2026-11-16T10:32:14.788Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "browser-webdriver-downloader",
+      "semver": "3.0.7",
+      "publishedAt": "2025-08-12T22:37:46.933Z",
+      "publisher": "crowdstrike-publisher",
+      "hasInstallScript": true,
+      "provenance": false,
+      "unpackedSize": 12053,
+      "dependencies": {
+        "yn": "^5.0.0",
+        "got": "^13.0.0",
+        "tmp": "0.2.5",
+        "execa": "^9.0.0",
+        "fs-extra": "^11.0.0",
+        "extract-zip": "^2.0.1",
+        "proxy-from-env": "^1.1.0",
+        "find-edge-version": "0.1.1",
+        "https-proxy-agent": "^7.0.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/browser-webdriver-downloader",
+          "observedAt": "2026-11-16T10:32:14.788Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/browser-webdriver-downloader",
+          "observedAt": "2026-11-16T10:32:14.788Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/browser-webdriver-downloader",
+          "observedAt": "2026-11-16T10:32:14.788Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/browser-webdriver-downloader",
+          "observedAt": "2026-11-16T10:32:14.788Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/browser-webdriver-downloader",
+          "observedAt": "2026-11-16T10:32:14.788Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/browser-webdriver-downloader",
+          "observedAt": "2026-11-16T10:32:14.788Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "browser-webdriver-downloader",
+      "semver": "3.0.8",
+      "publishedAt": "2025-09-16T01:14:30.758Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/browser-webdriver-downloader",
+          "observedAt": "2026-11-16T10:32:14.788Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

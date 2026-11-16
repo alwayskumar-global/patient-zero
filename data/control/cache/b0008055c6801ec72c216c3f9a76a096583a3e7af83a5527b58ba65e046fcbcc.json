@@ -1,0 +1,274 @@
+{
+  "schemaVersion": 1,
+  "pkg": "fs-minipass",
+  "source": "https://registry.npmjs.org/fs-minipass",
+  "fetchedAt": "2026-11-16T10:35:02.841Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 19
+  },
+  "sourceSha256": "ce580cc5ed10a6664919145b3295e19621413727bb3ab36d8eb20e11b0bc5bb8",
+  "versions": [
+    {
+      "pkg": "fs-minipass",
+      "semver": "1.2.5",
+      "publishedAt": "2018-01-04T23:05:44.837Z",
+      "publisher": "iarna",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "minipass": "^2.2.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/fs-minipass",
+          "observedAt": "2026-11-16T10:35:02.841Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/fs-minipass",
+          "observedAt": "2026-11-16T10:35:02.841Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/fs-minipass",
+          "observedAt": "2026-11-16T10:35:02.841Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/fs-minipass",
+          "observedAt": "2026-11-16T10:35:02.841Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/fs-minipass",
+          "observedAt": "2026-11-16T10:35:02.841Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "fs-minipass",
+      "semver": "2.0.1",
+      "publishedAt": "2020-01-20T18:25:09.933Z",
+      "publisher": "ruyadorno",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 13214,
+      "dependencies": {
+        "minipass": "^3.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/fs-minipass",
+          "observedAt": "2026-11-16T10:35:02.841Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/fs-minipass",
+          "observedAt": "2026-11-16T10:35:02.841Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/fs-minipass",
+          "observedAt": "2026-11-16T10:35:02.841Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/fs-minipass",
+          "observedAt": "2026-11-16T10:35:02.841Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/fs-minipass",
+          "observedAt": "2026-11-16T10:35:02.841Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/fs-minipass",
+          "observedAt": "2026-11-16T10:35:02.841Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "fs-minipass",
+      "semver": "2.1.0",
+      "publishedAt": "2020-01-21T17:39:07.791Z",
+      "publisher": "isaacs",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 14089,
+      "dependencies": {
+        "minipass": "^3.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/fs-minipass",
+          "observedAt": "2026-11-16T10:35:02.841Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/fs-minipass",
+          "observedAt": "2026-11-16T10:35:02.841Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/fs-minipass",
+          "observedAt": "2026-11-16T10:35:02.841Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/fs-minipass",
+          "observedAt": "2026-11-16T10:35:02.841Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/fs-minipass",
+          "observedAt": "2026-11-16T10:35:02.841Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/fs-minipass",
+          "observedAt": "2026-11-16T10:35:02.841Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "fs-minipass",
+      "semver": "3.0.0",
+      "publishedAt": "2022-12-13T23:16:59.852Z",
+      "publisher": "lukekarrys",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 14347,
+      "dependencies": {
+        "minipass": "^4.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/fs-minipass",
+          "observedAt": "2026-11-16T10:35:02.841Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/fs-minipass",
+          "observedAt": "2026-11-16T10:35:02.841Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/fs-minipass",
+          "observedAt": "2026-11-16T10:35:02.841Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/fs-minipass",
+          "observedAt": "2026-11-16T10:35:02.841Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/fs-minipass",
+          "observedAt": "2026-11-16T10:35:02.841Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/fs-minipass",
+          "observedAt": "2026-11-16T10:35:02.841Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "fs-minipass",
+      "semver": "3.0.1",
+      "publishedAt": "2023-01-30T17:15:56.273Z",
+      "publisher": "nlf",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 14386,
+      "dependencies": {
+        "minipass": "^4.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/fs-minipass",
+          "observedAt": "2026-11-16T10:35:02.841Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/fs-minipass",
+          "observedAt": "2026-11-16T10:35:02.841Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/fs-minipass",
+          "observedAt": "2026-11-16T10:35:02.841Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/fs-minipass",
+          "observedAt": "2026-11-16T10:35:02.841Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/fs-minipass",
+          "observedAt": "2026-11-16T10:35:02.841Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/fs-minipass",
+          "observedAt": "2026-11-16T10:35:02.841Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "fs-minipass",
+      "semver": "3.0.3",
+      "publishedAt": "2023-08-14T18:59:47.341Z",
+      "publisher": "npm-cli-ops",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 14413,
+      "dependencies": {
+        "minipass": "^7.0.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/fs-minipass",
+          "observedAt": "2026-11-16T10:35:02.841Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/fs-minipass",
+          "observedAt": "2026-11-16T10:35:02.841Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/fs-minipass",
+          "observedAt": "2026-11-16T10:35:02.841Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/fs-minipass",
+          "observedAt": "2026-11-16T10:35:02.841Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/fs-minipass",
+          "observedAt": "2026-11-16T10:35:02.841Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/fs-minipass",
+          "observedAt": "2026-11-16T10:35:02.841Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

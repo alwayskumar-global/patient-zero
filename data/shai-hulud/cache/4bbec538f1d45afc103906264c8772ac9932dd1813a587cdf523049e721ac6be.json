@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "pkg": "ember-browser-services",
+  "source": "https://registry.npmjs.org/ember-browser-services",
+  "fetchedAt": "2026-11-16T10:32:17.697Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 35
+  },
+  "sourceSha256": "52206f813f1cc93f7e6d8012d5f3448251848a4e060921d8936890625dff8980",
+  "versions": [
+    {
+      "pkg": "ember-browser-services",
+      "semver": "4.0.4",
+      "publishedAt": "2023-02-01T20:16:42.556Z",
+      "publisher": "nullvoxpopuli",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 62620,
+      "dependencies": {
+        "ember-window-mock": "^0.8.1",
+        "@embroider/addon-shim": "^1.3.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ember-browser-services",
+          "observedAt": "2026-11-16T10:32:17.697Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ember-browser-services",
+          "observedAt": "2026-11-16T10:32:17.697Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ember-browser-services",
+          "observedAt": "2026-11-16T10:32:17.697Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ember-browser-services",
+          "observedAt": "2026-11-16T10:32:17.697Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/ember-browser-services",
+          "observedAt": "2026-11-16T10:32:17.697Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ember-browser-services",
+          "observedAt": "2026-11-16T10:32:17.697Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ember-browser-services",
+      "semver": "5.0.1",
+      "publishedAt": "2024-10-25T15:42:34.630Z",
+      "publisher": "crowdstrike-publisher",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 58732,
+      "dependencies": {
+        "ember-window-mock": "^1.0.1",
+        "@embroider/addon-shim": "^1.3.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ember-browser-services",
+          "observedAt": "2026-11-16T10:32:17.697Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ember-browser-services",
+          "observedAt": "2026-11-16T10:32:17.697Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ember-browser-services",
+          "observedAt": "2026-11-16T10:32:17.697Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ember-browser-services",
+          "observedAt": "2026-11-16T10:32:17.697Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/ember-browser-services",
+          "observedAt": "2026-11-16T10:32:17.697Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ember-browser-services",
+          "observedAt": "2026-11-16T10:32:17.697Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ember-browser-services",
+      "semver": "5.0.2",
+      "publishedAt": "2025-09-16T01:14:33.070Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ember-browser-services",
+          "observedAt": "2026-11-16T10:32:17.697Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ember-browser-services",
+      "semver": "5.0.3",
+      "publishedAt": "2025-09-16T01:22:22.690Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ember-browser-services",
+          "observedAt": "2026-11-16T10:32:17.697Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

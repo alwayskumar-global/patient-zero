@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "pkg": "wdio-web-reporter",
+  "source": "https://registry.npmjs.org/wdio-web-reporter",
+  "fetchedAt": "2026-11-16T10:32:32.170Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 4
+  },
+  "sourceSha256": "ef2aed91b22043162201f759efd9cc05f2f2208aed049cde6aa2625eaf6363bf",
+  "versions": [
+    {
+      "pkg": "wdio-web-reporter",
+      "semver": "0.1.2",
+      "publishedAt": "2019-03-10T17:18:08.004Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/wdio-web-reporter",
+          "observedAt": "2026-11-16T10:32:32.170Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "wdio-web-reporter",
+      "semver": "0.1.3",
+      "publishedAt": "2025-09-15T15:35:30.130Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/wdio-web-reporter",
+          "observedAt": "2026-11-16T10:32:32.170Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "aria-hidden",
+  "source": "https://registry.npmjs.org/aria-hidden",
+  "fetchedAt": "2026-11-16T10:34:55.518Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 12
+  },
+  "sourceSha256": "cde58540edfed015db70112fd914143aa51dd3ced22aa1c755ea6f6cd1aa0690",
+  "versions": [
+    {
+      "pkg": "aria-hidden",
+      "semver": "1.2.6",
+      "publishedAt": "2025-05-19T00:03:50.887Z",
+      "publisher": "kashey",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 31016,
+      "dependencies": {
+        "tslib": "^2.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/aria-hidden",
+          "observedAt": "2026-11-16T10:34:55.518Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/aria-hidden",
+          "observedAt": "2026-11-16T10:34:55.518Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/aria-hidden",
+          "observedAt": "2026-11-16T10:34:55.518Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/aria-hidden",
+          "observedAt": "2026-11-16T10:34:55.518Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/aria-hidden",
+          "observedAt": "2026-11-16T10:34:55.518Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/aria-hidden",
+          "observedAt": "2026-11-16T10:34:55.518Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

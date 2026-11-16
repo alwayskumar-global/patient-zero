@@ -1,0 +1,278 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@nativescript-community/ui-material-bottom-navigation",
+  "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-bottom-navigation",
+  "fetchedAt": "2026-11-16T10:31:30.232Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 207
+  },
+  "sourceSha256": "6636caf9f51cf8aee851a7d0230f92616e748c22aac373d39cbadb5f833824a9",
+  "versions": [
+    {
+      "pkg": "@nativescript-community/ui-material-bottom-navigation",
+      "semver": "5.3.17-sap.0",
+      "publishedAt": "2021-08-15T18:52:17.261Z",
+      "publisher": "walkerrunpdx",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 120813,
+      "dependencies": {
+        "@nativescript-community/ui-material-core": "^5.3.17"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-bottom-navigation",
+          "observedAt": "2026-11-16T10:31:30.232Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-bottom-navigation",
+          "observedAt": "2026-11-16T10:31:30.232Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-bottom-navigation",
+          "observedAt": "2026-11-16T10:31:30.232Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-bottom-navigation",
+          "observedAt": "2026-11-16T10:31:30.232Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-bottom-navigation",
+          "observedAt": "2026-11-16T10:31:30.232Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-bottom-navigation",
+          "observedAt": "2026-11-16T10:31:30.232Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nativescript-community/ui-material-bottom-navigation",
+      "semver": "6.2.1",
+      "publishedAt": "2021-10-25T21:09:52.699Z",
+      "publisher": "keerl",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 136592,
+      "dependencies": {
+        "@nativescript-community/ui-material-core": "^6.2.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-bottom-navigation",
+          "observedAt": "2026-11-16T10:31:30.232Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-bottom-navigation",
+          "observedAt": "2026-11-16T10:31:30.232Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-bottom-navigation",
+          "observedAt": "2026-11-16T10:31:30.232Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-bottom-navigation",
+          "observedAt": "2026-11-16T10:31:30.232Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-bottom-navigation",
+          "observedAt": "2026-11-16T10:31:30.232Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-bottom-navigation",
+          "observedAt": "2026-11-16T10:31:30.232Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nativescript-community/ui-material-bottom-navigation",
+      "semver": "6.2.23",
+      "publishedAt": "2022-03-07T12:30:33.474Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-bottom-navigation",
+          "observedAt": "2026-11-16T10:31:30.232Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nativescript-community/ui-material-bottom-navigation",
+      "semver": "7.0.28",
+      "publishedAt": "2022-09-16T19:51:58.446Z",
+      "publisher": "edusperoni",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 114615,
+      "dependencies": {
+        "@nativescript-community/ui-material-core": "^7.0.28",
+        "@nativescript-community/ui-material-core-tabs": "^7.0.28"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-bottom-navigation",
+          "observedAt": "2026-11-16T10:31:30.232Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-bottom-navigation",
+          "observedAt": "2026-11-16T10:31:30.232Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-bottom-navigation",
+          "observedAt": "2026-11-16T10:31:30.232Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-bottom-navigation",
+          "observedAt": "2026-11-16T10:31:30.232Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-bottom-navigation",
+          "observedAt": "2026-11-16T10:31:30.232Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-bottom-navigation",
+          "observedAt": "2026-11-16T10:31:30.232Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nativescript-community/ui-material-bottom-navigation",
+      "semver": "7.2.71",
+      "publishedAt": "2025-02-20T15:32:35.497Z",
+      "publisher": "farfromrefuge",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 118969,
+      "dependencies": {
+        "@nativescript-community/ui-material-core": "^7.2.71",
+        "@nativescript-community/ui-material-core-tabs": "^7.2.71"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-bottom-navigation",
+          "observedAt": "2026-11-16T10:31:30.232Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-bottom-navigation",
+          "observedAt": "2026-11-16T10:31:30.232Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-bottom-navigation",
+          "observedAt": "2026-11-16T10:31:30.232Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-bottom-navigation",
+          "observedAt": "2026-11-16T10:31:30.232Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-bottom-navigation",
+          "observedAt": "2026-11-16T10:31:30.232Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-bottom-navigation",
+          "observedAt": "2026-11-16T10:31:30.232Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nativescript-community/ui-material-bottom-navigation",
+      "semver": "7.2.72",
+      "publishedAt": "2025-09-15T09:16:51.111Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-bottom-navigation",
+          "observedAt": "2026-11-16T10:31:30.232Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nativescript-community/ui-material-bottom-navigation",
+      "semver": "7.2.73",
+      "publishedAt": "2025-09-15T10:42:09.791Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-bottom-navigation",
+          "observedAt": "2026-11-16T10:31:30.232Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nativescript-community/ui-material-bottom-navigation",
+      "semver": "7.2.74",
+      "publishedAt": "2025-09-15T10:47:39.889Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-bottom-navigation",
+          "observedAt": "2026-11-16T10:31:30.232Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nativescript-community/ui-material-bottom-navigation",
+      "semver": "7.2.75",
+      "publishedAt": "2025-09-15T13:16:10.813Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-bottom-navigation",
+          "observedAt": "2026-11-16T10:31:30.232Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

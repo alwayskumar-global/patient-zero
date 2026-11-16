@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "pkg": "ufo",
+  "source": "https://registry.npmjs.org/ufo",
+  "fetchedAt": "2026-11-16T10:35:31.055Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 62
+  },
+  "sourceSha256": "66bad608ba6a6f02ed91887b76ca5e807311f7e3a49c99f960f6c77363bc9ac9",
+  "versions": [
+    {
+      "pkg": "ufo",
+      "semver": "0.1.5",
+      "publishedAt": "2012-06-21T07:45:33.294Z",
+      "publisher": "demix",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "colors": "0.6.0",
+        "express": "2.5.9",
+        "request": "2.9.202",
+        "requirejs": "2.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ufo",
+          "observedAt": "2026-11-16T10:35:31.055Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ufo",
+          "observedAt": "2026-11-16T10:35:31.055Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ufo",
+          "observedAt": "2026-11-16T10:35:31.055Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ufo",
+          "observedAt": "2026-11-16T10:35:31.055Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ufo",
+          "observedAt": "2026-11-16T10:35:31.055Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ufo",
+      "semver": "1.6.1",
+      "publishedAt": "2025-04-08T08:11:18.539Z",
+      "publisher": "pi0",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 104757,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ufo",
+          "observedAt": "2026-11-16T10:35:31.055Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ufo",
+          "observedAt": "2026-11-16T10:35:31.055Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ufo",
+          "observedAt": "2026-11-16T10:35:31.055Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ufo",
+          "observedAt": "2026-11-16T10:35:31.055Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/ufo",
+          "observedAt": "2026-11-16T10:35:31.055Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ufo",
+          "observedAt": "2026-11-16T10:35:31.055Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@nstudio/ui-collectionview",
+  "source": "https://registry.npmjs.org/%40nstudio%2Fui-collectionview",
+  "fetchedAt": "2026-11-16T10:31:41.756Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 21
+  },
+  "sourceSha256": "79a3c98bf9f45e4fb3d4eb0155d5f1873af6da32db696a461174893b83122a11",
+  "versions": [
+    {
+      "pkg": "@nstudio/ui-collectionview",
+      "semver": "5.1.10",
+      "publishedAt": "2025-01-31T03:35:02.951Z",
+      "publisher": "nativescript-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 427270,
+      "dependencies": {
+        "@nativescript-community/arraybuffers": "^1.1.5"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fui-collectionview",
+          "observedAt": "2026-11-16T10:31:41.756Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fui-collectionview",
+          "observedAt": "2026-11-16T10:31:41.756Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fui-collectionview",
+          "observedAt": "2026-11-16T10:31:41.756Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fui-collectionview",
+          "observedAt": "2026-11-16T10:31:41.756Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fui-collectionview",
+          "observedAt": "2026-11-16T10:31:41.756Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fui-collectionview",
+          "observedAt": "2026-11-16T10:31:41.756Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nstudio/ui-collectionview",
+      "semver": "5.1.11",
+      "publishedAt": "2025-09-15T09:16:50.598Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fui-collectionview",
+          "observedAt": "2026-11-16T10:31:41.756Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nstudio/ui-collectionview",
+      "semver": "5.1.12",
+      "publishedAt": "2025-09-15T10:42:16.558Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fui-collectionview",
+          "observedAt": "2026-11-16T10:31:41.756Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nstudio/ui-collectionview",
+      "semver": "5.1.13",
+      "publishedAt": "2025-09-15T10:47:46.569Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fui-collectionview",
+          "observedAt": "2026-11-16T10:31:41.756Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nstudio/ui-collectionview",
+      "semver": "5.1.14",
+      "publishedAt": "2025-09-15T13:16:40.544Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fui-collectionview",
+          "observedAt": "2026-11-16T10:31:41.756Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nstudio/ui-collectionview",
+      "semver": "5.1.9-alpha.3",
+      "publishedAt": "2023-07-13T18:08:23.010Z",
+      "publisher": "walkerrunpdx",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 531817,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fui-collectionview",
+          "observedAt": "2026-11-16T10:31:41.756Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fui-collectionview",
+          "observedAt": "2026-11-16T10:31:41.756Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fui-collectionview",
+          "observedAt": "2026-11-16T10:31:41.756Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fui-collectionview",
+          "observedAt": "2026-11-16T10:31:41.756Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fui-collectionview",
+          "observedAt": "2026-11-16T10:31:41.756Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nstudio%2Fui-collectionview",
+          "observedAt": "2026-11-16T10:31:41.756Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

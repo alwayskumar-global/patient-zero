@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "pkg": "socks",
+  "source": "https://registry.npmjs.org/socks",
+  "fetchedAt": "2026-11-16T10:35:26.712Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 56
+  },
+  "sourceSha256": "34098b27580f2664941c1a24a4a695bc5062bd4d7eb508ec712c55ff3b5e27cf",
+  "versions": [
+    {
+      "pkg": "socks",
+      "semver": "0.0.1",
+      "publishedAt": "2013-02-15T12:59:01.831Z",
+      "publisher": "byhgj",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/socks",
+          "observedAt": "2026-11-16T10:35:26.712Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/socks",
+          "observedAt": "2026-11-16T10:35:26.712Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/socks",
+          "observedAt": "2026-11-16T10:35:26.712Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/socks",
+          "observedAt": "2026-11-16T10:35:26.712Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/socks",
+          "observedAt": "2026-11-16T10:35:26.712Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "socks",
+      "semver": "2.8.6",
+      "publishedAt": "2025-07-11T05:00:41.778Z",
+      "publisher": "joshglazebrook",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 156420,
+      "dependencies": {
+        "ip-address": "^9.0.5",
+        "smart-buffer": "^4.2.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/socks",
+          "observedAt": "2026-11-16T10:35:26.712Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/socks",
+          "observedAt": "2026-11-16T10:35:26.712Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/socks",
+          "observedAt": "2026-11-16T10:35:26.712Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/socks",
+          "observedAt": "2026-11-16T10:35:26.712Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/socks",
+          "observedAt": "2026-11-16T10:35:26.712Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/socks",
+          "observedAt": "2026-11-16T10:35:26.712Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

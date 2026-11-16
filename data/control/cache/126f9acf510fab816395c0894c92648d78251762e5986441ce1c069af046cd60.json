@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "pkg": "is-symbol",
+  "source": "https://registry.npmjs.org/is-symbol",
+  "fetchedAt": "2026-11-16T10:35:06.935Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 7
+  },
+  "sourceSha256": "d7fea4f75d6602c7af01eca9f30c0d9314ec420824b3ba194375afc422bea50e",
+  "versions": [
+    {
+      "pkg": "is-symbol",
+      "semver": "1.1.1",
+      "publishedAt": "2024-12-13T07:37:41.707Z",
+      "publisher": "ljharb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 27042,
+      "dependencies": {
+        "call-bound": "^1.0.2",
+        "has-symbols": "^1.1.0",
+        "safe-regex-test": "^1.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/is-symbol",
+          "observedAt": "2026-11-16T10:35:06.935Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/is-symbol",
+          "observedAt": "2026-11-16T10:35:06.935Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/is-symbol",
+          "observedAt": "2026-11-16T10:35:06.935Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/is-symbol",
+          "observedAt": "2026-11-16T10:35:06.935Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/is-symbol",
+          "observedAt": "2026-11-16T10:35:06.935Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/is-symbol",
+          "observedAt": "2026-11-16T10:35:06.935Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

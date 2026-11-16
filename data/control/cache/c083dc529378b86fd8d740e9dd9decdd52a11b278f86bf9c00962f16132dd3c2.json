@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "process-nextick-args",
+  "source": "https://registry.npmjs.org/process-nextick-args",
+  "fetchedAt": "2026-11-16T10:35:21.269Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 10
+  },
+  "sourceSha256": "dfbad475257dc64568f05c400faa90f69b1b4d3b28ca43056ba9cd38a4b35da6",
+  "versions": [
+    {
+      "pkg": "process-nextick-args",
+      "semver": "2.0.1",
+      "publishedAt": "2019-06-19T20:34:39.252Z",
+      "publisher": "cwmma",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 3175,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/process-nextick-args",
+          "observedAt": "2026-11-16T10:35:21.269Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/process-nextick-args",
+          "observedAt": "2026-11-16T10:35:21.269Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/process-nextick-args",
+          "observedAt": "2026-11-16T10:35:21.269Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/process-nextick-args",
+          "observedAt": "2026-11-16T10:35:21.269Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/process-nextick-args",
+          "observedAt": "2026-11-16T10:35:21.269Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/process-nextick-args",
+          "observedAt": "2026-11-16T10:35:21.269Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "pkg": "snake-case",
+  "source": "https://registry.npmjs.org/snake-case",
+  "fetchedAt": "2026-11-16T10:35:26.613Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 17
+  },
+  "sourceSha256": "9f76d9415c977547259d7c23fb7ca8e9afe120c778dd2ee063e71ae85b12a5d0",
+  "versions": [
+    {
+      "pkg": "snake-case",
+      "semver": "0.1.0",
+      "publishedAt": "2014-04-09T09:53:47.340Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/snake-case",
+          "observedAt": "2026-11-16T10:35:26.613Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "snake-case",
+      "semver": "4.0.0",
+      "publishedAt": "2023-09-30T01:32:55.101Z",
+      "publisher": "blakeembrey",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 2571,
+      "dependencies": {
+        "no-case": "^4.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/snake-case",
+          "observedAt": "2026-11-16T10:35:26.613Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/snake-case",
+          "observedAt": "2026-11-16T10:35:26.613Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/snake-case",
+          "observedAt": "2026-11-16T10:35:26.613Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/snake-case",
+          "observedAt": "2026-11-16T10:35:26.613Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/snake-case",
+          "observedAt": "2026-11-16T10:35:26.613Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/snake-case",
+          "observedAt": "2026-11-16T10:35:26.613Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

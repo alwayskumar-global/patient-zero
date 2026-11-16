@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "pkg": "micromark-util-combine-extensions",
+  "source": "https://registry.npmjs.org/micromark-util-combine-extensions",
+  "fetchedAt": "2026-11-16T10:35:12.893Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 8
+  },
+  "sourceSha256": "1088df531a1a693be6beed3ff4db7e0455844acae6e4b737ab4f716adb83925b",
+  "versions": [
+    {
+      "pkg": "micromark-util-combine-extensions",
+      "semver": "2.0.1",
+      "publishedAt": "2024-11-12T11:17:23.680Z",
+      "publisher": "wooorm",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 12387,
+      "dependencies": {
+        "micromark-util-chunked": "^2.0.0",
+        "micromark-util-types": "^2.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/micromark-util-combine-extensions",
+          "observedAt": "2026-11-16T10:35:12.893Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/micromark-util-combine-extensions",
+          "observedAt": "2026-11-16T10:35:12.893Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/micromark-util-combine-extensions",
+          "observedAt": "2026-11-16T10:35:12.893Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/micromark-util-combine-extensions",
+          "observedAt": "2026-11-16T10:35:12.893Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/micromark-util-combine-extensions",
+          "observedAt": "2026-11-16T10:35:12.893Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/micromark-util-combine-extensions",
+          "observedAt": "2026-11-16T10:35:12.893Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

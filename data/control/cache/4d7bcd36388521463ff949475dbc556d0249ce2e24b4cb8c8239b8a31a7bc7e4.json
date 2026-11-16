@@ -1,0 +1,191 @@
+{
+  "schemaVersion": 1,
+  "pkg": "ignore-walk",
+  "source": "https://registry.npmjs.org/ignore-walk",
+  "fetchedAt": "2026-11-16T10:35:04.420Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 28
+  },
+  "sourceSha256": "ec45d3dca6cf41e82e266d31f4d9578fbcb3779be80684ec7f9a427d79ee031d",
+  "versions": [
+    {
+      "pkg": "ignore-walk",
+      "semver": "4.0.1",
+      "publishedAt": "2021-08-23T17:11:52.156Z",
+      "publisher": "isaacs",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 12107,
+      "dependencies": {
+        "minimatch": "^3.0.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ignore-walk",
+          "observedAt": "2026-11-16T10:35:04.420Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ignore-walk",
+          "observedAt": "2026-11-16T10:35:04.420Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ignore-walk",
+          "observedAt": "2026-11-16T10:35:04.420Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ignore-walk",
+          "observedAt": "2026-11-16T10:35:04.420Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/ignore-walk",
+          "observedAt": "2026-11-16T10:35:04.420Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ignore-walk",
+          "observedAt": "2026-11-16T10:35:04.420Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ignore-walk",
+      "semver": "6.0.1",
+      "publishedAt": "2023-02-07T05:00:06.195Z",
+      "publisher": "lukekarrys",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 12547,
+      "dependencies": {
+        "minimatch": "^6.1.6"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ignore-walk",
+          "observedAt": "2026-11-16T10:35:04.420Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ignore-walk",
+          "observedAt": "2026-11-16T10:35:04.420Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ignore-walk",
+          "observedAt": "2026-11-16T10:35:04.420Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ignore-walk",
+          "observedAt": "2026-11-16T10:35:04.420Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/ignore-walk",
+          "observedAt": "2026-11-16T10:35:04.420Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ignore-walk",
+          "observedAt": "2026-11-16T10:35:04.420Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ignore-walk",
+      "semver": "6.0.2",
+      "publishedAt": "2023-03-21T17:40:32.713Z",
+      "publisher": "gar",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 12404,
+      "dependencies": {
+        "minimatch": "^7.4.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ignore-walk",
+          "observedAt": "2026-11-16T10:35:04.420Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ignore-walk",
+          "observedAt": "2026-11-16T10:35:04.420Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ignore-walk",
+          "observedAt": "2026-11-16T10:35:04.420Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ignore-walk",
+          "observedAt": "2026-11-16T10:35:04.420Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/ignore-walk",
+          "observedAt": "2026-11-16T10:35:04.420Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ignore-walk",
+          "observedAt": "2026-11-16T10:35:04.420Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ignore-walk",
+      "semver": "8.0.0",
+      "publishedAt": "2025-07-24T15:37:24.136Z",
+      "publisher": "npm-cli-ops",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 13239,
+      "dependencies": {
+        "minimatch": "^10.0.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ignore-walk",
+          "observedAt": "2026-11-16T10:35:04.420Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ignore-walk",
+          "observedAt": "2026-11-16T10:35:04.420Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ignore-walk",
+          "observedAt": "2026-11-16T10:35:04.420Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ignore-walk",
+          "observedAt": "2026-11-16T10:35:04.420Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/ignore-walk",
+          "observedAt": "2026-11-16T10:35:04.420Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ignore-walk",
+          "observedAt": "2026-11-16T10:35:04.420Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

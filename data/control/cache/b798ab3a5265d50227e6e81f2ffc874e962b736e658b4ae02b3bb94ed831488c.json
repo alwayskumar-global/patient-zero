@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "is-stream",
+  "source": "https://registry.npmjs.org/is-stream",
+  "fetchedAt": "2026-11-16T10:35:06.894Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 8
+  },
+  "sourceSha256": "dc909e251735650b1b9fc2375b7d0c0db723685b8c1c25276c5a6067daf91b2d",
+  "versions": [
+    {
+      "pkg": "is-stream",
+      "semver": "4.0.1",
+      "publishedAt": "2024-02-19T19:14:12.256Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7619,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/is-stream",
+          "observedAt": "2026-11-16T10:35:06.894Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/is-stream",
+          "observedAt": "2026-11-16T10:35:06.894Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/is-stream",
+          "observedAt": "2026-11-16T10:35:06.894Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/is-stream",
+          "observedAt": "2026-11-16T10:35:06.894Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/is-stream",
+          "observedAt": "2026-11-16T10:35:06.894Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/is-stream",
+          "observedAt": "2026-11-16T10:35:06.894Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

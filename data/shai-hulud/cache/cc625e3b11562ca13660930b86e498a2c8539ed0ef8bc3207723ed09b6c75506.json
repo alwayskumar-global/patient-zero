@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@yoobic/jpeg-camera-es6",
+  "source": "https://registry.npmjs.org/%40yoobic%2Fjpeg-camera-es6",
+  "fetchedAt": "2026-11-16T10:32:14.006Z",
+  "availability": "not-found",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 0
+  },
+  "sourceSha256": "59b46d3c46fac56fd888824fd29738bcf59d07bc5d23207371e1ee9d69b7630d",
+  "versions": []
+}

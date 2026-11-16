@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@dabh/diagnostics",
+  "source": "https://registry.npmjs.org/%40dabh%2Fdiagnostics",
+  "fetchedAt": "2026-11-16T10:34:33.938Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 7
+  },
+  "sourceSha256": "717e28a0877ad3dd49155be4390c1ed07b5cde27c581a943726fb27bb13b5767",
+  "versions": [
+    {
+      "pkg": "@dabh/diagnostics",
+      "semver": "2.0.3",
+      "publishedAt": "2022-02-12T23:41:41.239Z",
+      "publisher": "dabh",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 30135,
+      "dependencies": {
+        "kuler": "^2.0.0",
+        "enabled": "2.0.x",
+        "colorspace": "1.1.x"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40dabh%2Fdiagnostics",
+          "observedAt": "2026-11-16T10:34:33.938Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40dabh%2Fdiagnostics",
+          "observedAt": "2026-11-16T10:34:33.938Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40dabh%2Fdiagnostics",
+          "observedAt": "2026-11-16T10:34:33.938Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40dabh%2Fdiagnostics",
+          "observedAt": "2026-11-16T10:34:33.938Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40dabh%2Fdiagnostics",
+          "observedAt": "2026-11-16T10:34:33.938Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40dabh%2Fdiagnostics",
+          "observedAt": "2026-11-16T10:34:33.938Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

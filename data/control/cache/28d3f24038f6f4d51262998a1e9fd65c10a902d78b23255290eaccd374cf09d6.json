@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "pkg": "tldts-core",
+  "source": "https://registry.npmjs.org/tldts-core",
+  "fetchedAt": "2026-11-16T10:35:29.650Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 825
+  },
+  "sourceSha256": "9e10306fa70faa53c072d835da4cab54743224e22ec1f004bb2c68970e5ebb8c",
+  "versions": [
+    {
+      "pkg": "tldts-core",
+      "semver": "7.0.10",
+      "publishedAt": "2025-07-02T13:37:01.441Z",
+      "publisher": "remusao",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 223947,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/tldts-core",
+          "observedAt": "2026-11-16T10:35:29.650Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/tldts-core",
+          "observedAt": "2026-11-16T10:35:29.650Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/tldts-core",
+          "observedAt": "2026-11-16T10:35:29.650Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/tldts-core",
+          "observedAt": "2026-11-16T10:35:29.650Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/tldts-core",
+          "observedAt": "2026-11-16T10:35:29.650Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/tldts-core",
+          "observedAt": "2026-11-16T10:35:29.650Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "tldts-core",
+      "semver": "7.0.11",
+      "publishedAt": "2025-08-05T08:29:32.073Z",
+      "publisher": "remusao",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 223947,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/tldts-core",
+          "observedAt": "2026-11-16T10:35:29.650Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/tldts-core",
+          "observedAt": "2026-11-16T10:35:29.650Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/tldts-core",
+          "observedAt": "2026-11-16T10:35:29.650Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/tldts-core",
+          "observedAt": "2026-11-16T10:35:29.650Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/tldts-core",
+          "observedAt": "2026-11-16T10:35:29.650Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/tldts-core",
+          "observedAt": "2026-11-16T10:35:29.650Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

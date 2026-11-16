@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@types/yargs",
+  "source": "https://registry.npmjs.org/%40types%2Fyargs",
+  "fetchedAt": "2026-11-16T10:34:52.078Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 155
+  },
+  "sourceSha256": "19ec0913eff7e8fc0020f65afdb6b2a90a25d31a4883613441c03fbdca02980f",
+  "versions": [
+    {
+      "pkg": "@types/yargs",
+      "semver": "17.0.33",
+      "publishedAt": "2024-08-06T20:07:40.791Z",
+      "publisher": "types",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 60405,
+      "dependencies": {
+        "@types/yargs-parser": "*"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40types%2Fyargs",
+          "observedAt": "2026-11-16T10:34:52.078Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40types%2Fyargs",
+          "observedAt": "2026-11-16T10:34:52.078Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40types%2Fyargs",
+          "observedAt": "2026-11-16T10:34:52.078Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40types%2Fyargs",
+          "observedAt": "2026-11-16T10:34:52.078Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40types%2Fyargs",
+          "observedAt": "2026-11-16T10:34:52.078Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40types%2Fyargs",
+          "observedAt": "2026-11-16T10:34:52.078Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

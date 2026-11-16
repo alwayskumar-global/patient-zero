@@ -1,0 +1,823 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@operato/board",
+  "source": "https://registry.npmjs.org/%40operato%2Fboard",
+  "fetchedAt": "2026-11-16T10:31:45.298Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 1192
+  },
+  "sourceSha256": "b349f729093b39d30a162e31caadecf6410b4feffd4f9dd9af8b44d9528a41c4",
+  "versions": [
+    {
+      "pkg": "@operato/board",
+      "semver": "1.4.25",
+      "publishedAt": "2023-08-09T03:51:35.178Z",
+      "publisher": "woo_ram",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 1526533,
+      "dependencies": {
+        "lit": "^2.5.0",
+        "dexie": "^3.2.2",
+        "lodash-es": "^4.17.21",
+        "file-saver": "^2.0.5",
+        "sortablejs": "^1.14.0",
+        "@operato/app": "^1.4.25",
+        "@operato/font": "^1.4.24",
+        "@operato/i18n": "^1.4.5",
+        "@operato/input": "^1.4.23",
+        "@operato/popup": "^1.4.23",
+        "@operato/utils": "^1.4.23",
+        "@operato/layout": "^1.4.23",
+        "@operato/styles": "^1.4.11",
+        "@operato/graphql": "^1.4.20",
+        "@operato/markdown": "^1.4.11",
+        "@types/file-saver": "^2.0.4",
+        "@types/sortablejs": "^1.10.7",
+        "@operato/data-grist": "^1.4.24",
+        "@open-wc/scoped-elements": "^2.0.0-next.6",
+        "@operato/property-editor": "^1.4.24",
+        "@polymer/paper-dropdown-menu": "^3.2.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40operato%2Fboard",
+          "observedAt": "2026-11-16T10:31:45.298Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40operato%2Fboard",
+          "observedAt": "2026-11-16T10:31:45.298Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40operato%2Fboard",
+          "observedAt": "2026-11-16T10:31:45.298Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40operato%2Fboard",
+          "observedAt": "2026-11-16T10:31:45.298Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40operato%2Fboard",
+          "observedAt": "2026-11-16T10:31:45.298Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fboard",
+          "observedAt": "2026-11-16T10:31:45.298Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/board",
+      "semver": "9.0.27",
+      "publishedAt": "2025-09-01T02:44:28.532Z",
+      "publisher": "nalshya113",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 1040446,
+      "dependencies": {
+        "lit": "^3.1.2",
+        "xlsx": "^0.18.5",
+        "dexie": "^3.2.2",
+        "lodash-es": "^4.17.21",
+        "file-saver": "^2.0.5",
+        "@operato/app": "^9.0.27",
+        "@material/web": "^2.0.0",
+        "@operato/font": "^9.0.27",
+        "@operato/i18n": "^9.0.1",
+        "@operato/input": "^9.0.26",
+        "@operato/popup": "^9.0.21",
+        "@operato/utils": "^9.0.21",
+        "@operato/layout": "^9.0.21",
+        "@operato/styles": "^9.0.1",
+        "@operato/graphql": "^9.0.21",
+        "@operato/markdown": "^9.0.1",
+        "@types/file-saver": "^2.0.4",
+        "@types/sortablejs": "^1.10.7",
+        "@operato/data-grist": "^9.0.26",
+        "@operato/property-panel": "^9.0.27",
+        "@open-wc/scoped-elements": "^2.1.3",
+        "@operato/property-editor": "^9.0.27"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40operato%2Fboard",
+          "observedAt": "2026-11-16T10:31:45.298Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40operato%2Fboard",
+          "observedAt": "2026-11-16T10:31:45.298Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40operato%2Fboard",
+          "observedAt": "2026-11-16T10:31:45.298Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40operato%2Fboard",
+          "observedAt": "2026-11-16T10:31:45.298Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40operato%2Fboard",
+          "observedAt": "2026-11-16T10:31:45.298Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fboard",
+          "observedAt": "2026-11-16T10:31:45.298Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/board",
+      "semver": "9.0.29",
+      "publishedAt": "2025-09-13T16:19:13.948Z",
+      "publisher": "heartyoh",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 1041743,
+      "dependencies": {
+        "lit": "^3.1.2",
+        "xlsx": "^0.18.5",
+        "dexie": "^3.2.2",
+        "lodash-es": "^4.17.21",
+        "file-saver": "^2.0.5",
+        "@operato/app": "^9.0.29",
+        "@material/web": "^2.0.0",
+        "@operato/font": "^9.0.28",
+        "@operato/i18n": "^9.0.1",
+        "@operato/input": "^9.0.26",
+        "@operato/popup": "^9.0.21",
+        "@operato/utils": "^9.0.21",
+        "@operato/layout": "^9.0.21",
+        "@operato/styles": "^9.0.1",
+        "@operato/graphql": "^9.0.21",
+        "@operato/markdown": "^9.0.1",
+        "@types/file-saver": "^2.0.4",
+        "@types/sortablejs": "^1.10.7",
+        "@operato/data-grist": "^9.0.28",
+        "@operato/property-panel": "^9.0.28",
+        "@open-wc/scoped-elements": "^2.1.3",
+        "@operato/property-editor": "^9.0.28"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40operato%2Fboard",
+          "observedAt": "2026-11-16T10:31:45.298Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40operato%2Fboard",
+          "observedAt": "2026-11-16T10:31:45.298Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40operato%2Fboard",
+          "observedAt": "2026-11-16T10:31:45.298Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40operato%2Fboard",
+          "observedAt": "2026-11-16T10:31:45.298Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40operato%2Fboard",
+          "observedAt": "2026-11-16T10:31:45.298Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fboard",
+          "observedAt": "2026-11-16T10:31:45.298Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/board",
+      "semver": "9.0.31",
+      "publishedAt": "2025-09-14T07:04:05.604Z",
+      "publisher": "heartyoh",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 1041893,
+      "dependencies": {
+        "lit": "^3.1.2",
+        "xlsx": "^0.18.5",
+        "dexie": "^3.2.2",
+        "lodash-es": "^4.17.21",
+        "file-saver": "^2.0.5",
+        "@operato/app": "^9.0.31",
+        "@material/web": "^2.0.0",
+        "@operato/font": "^9.0.31",
+        "@operato/i18n": "^9.0.1",
+        "@operato/input": "^9.0.26",
+        "@operato/popup": "^9.0.21",
+        "@operato/utils": "^9.0.21",
+        "@operato/layout": "^9.0.31",
+        "@operato/styles": "^9.0.1",
+        "@operato/graphql": "^9.0.21",
+        "@operato/markdown": "^9.0.1",
+        "@types/file-saver": "^2.0.4",
+        "@types/sortablejs": "^1.10.7",
+        "@operato/data-grist": "^9.0.28",
+        "@operato/property-panel": "^9.0.31",
+        "@open-wc/scoped-elements": "^2.1.3",
+        "@operato/property-editor": "^9.0.31"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40operato%2Fboard",
+          "observedAt": "2026-11-16T10:31:45.298Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40operato%2Fboard",
+          "observedAt": "2026-11-16T10:31:45.298Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40operato%2Fboard",
+          "observedAt": "2026-11-16T10:31:45.298Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40operato%2Fboard",
+          "observedAt": "2026-11-16T10:31:45.298Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40operato%2Fboard",
+          "observedAt": "2026-11-16T10:31:45.298Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fboard",
+          "observedAt": "2026-11-16T10:31:45.298Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/board",
+      "semver": "9.0.32",
+      "publishedAt": "2025-09-14T07:08:42.206Z",
+      "publisher": "heartyoh",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 1042043,
+      "dependencies": {
+        "lit": "^3.1.2",
+        "xlsx": "^0.18.5",
+        "dexie": "^3.2.2",
+        "lodash-es": "^4.17.21",
+        "file-saver": "^2.0.5",
+        "@operato/app": "^9.0.32",
+        "@material/web": "^2.0.0",
+        "@operato/font": "^9.0.32",
+        "@operato/i18n": "^9.0.1",
+        "@operato/input": "^9.0.26",
+        "@operato/popup": "^9.0.21",
+        "@operato/utils": "^9.0.21",
+        "@operato/layout": "^9.0.32",
+        "@operato/styles": "^9.0.1",
+        "@operato/graphql": "^9.0.21",
+        "@operato/markdown": "^9.0.1",
+        "@types/file-saver": "^2.0.4",
+        "@types/sortablejs": "^1.10.7",
+        "@operato/data-grist": "^9.0.28",
+        "@operato/property-panel": "^9.0.32",
+        "@open-wc/scoped-elements": "^2.1.3",
+        "@operato/property-editor": "^9.0.32"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40operato%2Fboard",
+          "observedAt": "2026-11-16T10:31:45.298Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40operato%2Fboard",
+          "observedAt": "2026-11-16T10:31:45.298Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40operato%2Fboard",
+          "observedAt": "2026-11-16T10:31:45.298Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40operato%2Fboard",
+          "observedAt": "2026-11-16T10:31:45.298Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40operato%2Fboard",
+          "observedAt": "2026-11-16T10:31:45.298Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fboard",
+          "observedAt": "2026-11-16T10:31:45.298Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/board",
+      "semver": "9.0.33",
+      "publishedAt": "2025-09-15T22:55:20.529Z",
+      "publisher": "heartyoh",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 1045943,
+      "dependencies": {
+        "lit": "^3.1.2",
+        "xlsx": "^0.18.5",
+        "dexie": "^3.2.2",
+        "lodash-es": "^4.17.21",
+        "file-saver": "^2.0.5",
+        "@operato/app": "^9.0.33",
+        "@material/web": "^2.0.0",
+        "@operato/font": "^9.0.33",
+        "@operato/i18n": "^9.0.1",
+        "@operato/input": "^9.0.33",
+        "@operato/popup": "^9.0.21",
+        "@operato/utils": "^9.0.21",
+        "@operato/layout": "^9.0.32",
+        "@operato/styles": "^9.0.1",
+        "@operato/graphql": "^9.0.21",
+        "@operato/markdown": "^9.0.1",
+        "@types/file-saver": "^2.0.4",
+        "@types/sortablejs": "^1.10.7",
+        "@operato/data-grist": "^9.0.33",
+        "@operato/property-panel": "^9.0.33",
+        "@open-wc/scoped-elements": "^2.1.3",
+        "@operato/property-editor": "^9.0.33"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40operato%2Fboard",
+          "observedAt": "2026-11-16T10:31:45.298Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40operato%2Fboard",
+          "observedAt": "2026-11-16T10:31:45.298Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40operato%2Fboard",
+          "observedAt": "2026-11-16T10:31:45.298Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40operato%2Fboard",
+          "observedAt": "2026-11-16T10:31:45.298Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40operato%2Fboard",
+          "observedAt": "2026-11-16T10:31:45.298Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fboard",
+          "observedAt": "2026-11-16T10:31:45.298Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/board",
+      "semver": "9.0.34",
+      "publishedAt": "2025-09-15T23:38:24.666Z",
+      "publisher": "heartyoh",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 1046096,
+      "dependencies": {
+        "lit": "^3.1.2",
+        "xlsx": "^0.18.5",
+        "dexie": "^3.2.2",
+        "lodash-es": "^4.17.21",
+        "file-saver": "^2.0.5",
+        "@operato/app": "^9.0.34",
+        "@material/web": "^2.0.0",
+        "@operato/font": "^9.0.34",
+        "@operato/i18n": "^9.0.34",
+        "@operato/input": "^9.0.34",
+        "@operato/popup": "^9.0.34",
+        "@operato/utils": "^9.0.34",
+        "@operato/layout": "^9.0.34",
+        "@operato/styles": "^9.0.34",
+        "@operato/graphql": "^9.0.34",
+        "@operato/markdown": "^9.0.34",
+        "@types/file-saver": "^2.0.4",
+        "@types/sortablejs": "^1.10.7",
+        "@operato/data-grist": "^9.0.34",
+        "@operato/property-panel": "^9.0.34",
+        "@open-wc/scoped-elements": "^2.1.3",
+        "@operato/property-editor": "^9.0.34"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40operato%2Fboard",
+          "observedAt": "2026-11-16T10:31:45.298Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40operato%2Fboard",
+          "observedAt": "2026-11-16T10:31:45.298Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40operato%2Fboard",
+          "observedAt": "2026-11-16T10:31:45.298Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40operato%2Fboard",
+          "observedAt": "2026-11-16T10:31:45.298Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40operato%2Fboard",
+          "observedAt": "2026-11-16T10:31:45.298Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fboard",
+          "observedAt": "2026-11-16T10:31:45.298Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/board",
+      "semver": "9.0.35",
+      "publishedAt": "2025-09-15T23:44:22.304Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fboard",
+          "observedAt": "2026-11-16T10:31:45.298Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/board",
+      "semver": "9.0.36",
+      "publishedAt": "2025-09-16T01:25:31.232Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fboard",
+          "observedAt": "2026-11-16T10:31:45.298Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/board",
+      "semver": "9.0.37",
+      "publishedAt": "2025-09-16T01:30:34.876Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fboard",
+          "observedAt": "2026-11-16T10:31:45.298Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/board",
+      "semver": "9.0.38",
+      "publishedAt": "2025-09-16T03:18:34.319Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fboard",
+          "observedAt": "2026-11-16T10:31:45.298Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/board",
+      "semver": "9.0.39",
+      "publishedAt": "2025-09-16T03:25:20.602Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fboard",
+          "observedAt": "2026-11-16T10:31:45.298Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/board",
+      "semver": "9.0.40",
+      "publishedAt": "2025-09-16T05:32:29.904Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fboard",
+          "observedAt": "2026-11-16T10:31:45.298Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/board",
+      "semver": "9.0.41",
+      "publishedAt": "2025-09-16T06:18:00.952Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fboard",
+          "observedAt": "2026-11-16T10:31:45.298Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/board",
+      "semver": "9.0.42",
+      "publishedAt": "2025-09-16T06:24:57.986Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fboard",
+          "observedAt": "2026-11-16T10:31:45.298Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/board",
+      "semver": "9.0.43",
+      "publishedAt": "2025-09-16T06:32:57.226Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fboard",
+          "observedAt": "2026-11-16T10:31:45.298Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/board",
+      "semver": "9.0.44",
+      "publishedAt": "2025-09-16T06:38:52.927Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fboard",
+          "observedAt": "2026-11-16T10:31:45.298Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/board",
+      "semver": "9.0.45",
+      "publishedAt": "2025-09-16T07:05:55.592Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fboard",
+          "observedAt": "2026-11-16T10:31:45.298Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/board",
+      "semver": "9.0.46",
+      "publishedAt": "2025-09-16T07:11:35.626Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fboard",
+          "observedAt": "2026-11-16T10:31:45.298Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/board",
+      "semver": "9.0.47",
+      "publishedAt": "2025-09-16T10:56:58.469Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fboard",
+          "observedAt": "2026-11-16T10:31:45.298Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/board",
+      "semver": "9.0.48",
+      "publishedAt": "2025-09-16T11:02:10.546Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fboard",
+          "observedAt": "2026-11-16T10:31:45.298Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/board",
+      "semver": "9.0.49",
+      "publishedAt": "2025-09-16T11:09:09.769Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fboard",
+          "observedAt": "2026-11-16T10:31:45.298Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/board",
+      "semver": "9.0.50",
+      "publishedAt": "2025-09-16T11:38:17.348Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fboard",
+          "observedAt": "2026-11-16T10:31:45.298Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/board",
+      "semver": "9.0.51",
+      "publishedAt": "2025-09-16T11:44:00.217Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fboard",
+          "observedAt": "2026-11-16T10:31:45.298Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@operato/board",
+      "semver": "9.1.0",
+      "publishedAt": "2025-09-16T12:03:09.243Z",
+      "publisher": "heartyoh",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 1046862,
+      "dependencies": {
+        "lit": "^3.1.2",
+        "xlsx": "^0.18.5",
+        "dexie": "^3.2.2",
+        "lodash-es": "^4.17.21",
+        "file-saver": "^2.0.5",
+        "@operato/app": "^9.1.0",
+        "@material/web": "^2.0.0",
+        "@operato/font": "^9.1.0",
+        "@operato/i18n": "^9.1.0",
+        "@operato/input": "^9.1.0",
+        "@operato/popup": "^9.1.0",
+        "@operato/utils": "^9.1.0",
+        "@operato/layout": "^9.1.0",
+        "@operato/styles": "^9.1.0",
+        "@operato/graphql": "^9.1.0",
+        "@operato/markdown": "^9.1.0",
+        "@types/file-saver": "^2.0.4",
+        "@types/sortablejs": "^1.10.7",
+        "@operato/data-grist": "^9.1.0",
+        "@operato/property-panel": "^9.1.0",
+        "@open-wc/scoped-elements": "^2.1.3",
+        "@operato/property-editor": "^9.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40operato%2Fboard",
+          "observedAt": "2026-11-16T10:31:45.298Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40operato%2Fboard",
+          "observedAt": "2026-11-16T10:31:45.298Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40operato%2Fboard",
+          "observedAt": "2026-11-16T10:31:45.298Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40operato%2Fboard",
+          "observedAt": "2026-11-16T10:31:45.298Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40operato%2Fboard",
+          "observedAt": "2026-11-16T10:31:45.298Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40operato%2Fboard",
+          "observedAt": "2026-11-16T10:31:45.298Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "merge2",
+  "source": "https://registry.npmjs.org/merge2",
+  "fetchedAt": "2026-11-16T10:35:12.676Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 23
+  },
+  "sourceSha256": "f7207ad5881a1fb350fd9e552d5b5669216c3ca2b49f13f2aacc0c63d6b7a361",
+  "versions": [
+    {
+      "pkg": "merge2",
+      "semver": "1.4.1",
+      "publishedAt": "2020-06-03T07:39:10.563Z",
+      "publisher": "zensh",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 8897,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/merge2",
+          "observedAt": "2026-11-16T10:35:12.676Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/merge2",
+          "observedAt": "2026-11-16T10:35:12.676Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/merge2",
+          "observedAt": "2026-11-16T10:35:12.676Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/merge2",
+          "observedAt": "2026-11-16T10:35:12.676Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/merge2",
+          "observedAt": "2026-11-16T10:35:12.676Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/merge2",
+          "observedAt": "2026-11-16T10:35:12.676Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

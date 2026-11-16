@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "parent-module",
+  "source": "https://registry.npmjs.org/parent-module",
+  "fetchedAt": "2026-11-16T10:35:16.968Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 7
+  },
+  "sourceSha256": "dd0de12ce01c1d9d81d981b30ddfacfc377b34084c5c84c699879bd7d16024d4",
+  "versions": [
+    {
+      "pkg": "parent-module",
+      "semver": "3.1.0",
+      "publishedAt": "2023-09-14T06:26:34.494Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 4939,
+      "dependencies": {
+        "callsites": "^4.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/parent-module",
+          "observedAt": "2026-11-16T10:35:16.968Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/parent-module",
+          "observedAt": "2026-11-16T10:35:16.968Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/parent-module",
+          "observedAt": "2026-11-16T10:35:16.968Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/parent-module",
+          "observedAt": "2026-11-16T10:35:16.968Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/parent-module",
+          "observedAt": "2026-11-16T10:35:16.968Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/parent-module",
+          "observedAt": "2026-11-16T10:35:16.968Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

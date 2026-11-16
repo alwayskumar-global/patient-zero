@@ -1,0 +1,382 @@
+{
+  "schemaVersion": 1,
+  "pkg": "jest-environment-node",
+  "source": "https://registry.npmjs.org/jest-environment-node",
+  "fetchedAt": "2026-11-16T10:35:07.829Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 299
+  },
+  "sourceSha256": "eea1a3bdcfc69ea100ad13c44c02a8a38969e9cad7693f027d425d675c4849a7",
+  "versions": [
+    {
+      "pkg": "jest-environment-node",
+      "semver": "11.0.2",
+      "publishedAt": "2016-04-18T04:03:22.588Z",
+      "publisher": "kentaromiura",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "jest-util": "^11.0.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-environment-node",
+          "observedAt": "2026-11-16T10:35:07.829Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-environment-node",
+          "observedAt": "2026-11-16T10:35:07.829Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-environment-node",
+          "observedAt": "2026-11-16T10:35:07.829Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-environment-node",
+          "observedAt": "2026-11-16T10:35:07.829Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-environment-node",
+          "observedAt": "2026-11-16T10:35:07.829Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jest-environment-node",
+      "semver": "21.0.0-alpha.2",
+      "publishedAt": "2017-08-21T22:06:53.397Z",
+      "publisher": "aaronabramov",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "jest-mock": "21.0.0-alpha.2",
+        "jest-util": "21.0.0-alpha.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-environment-node",
+          "observedAt": "2026-11-16T10:35:07.829Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-environment-node",
+          "observedAt": "2026-11-16T10:35:07.829Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-environment-node",
+          "observedAt": "2026-11-16T10:35:07.829Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-environment-node",
+          "observedAt": "2026-11-16T10:35:07.829Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-environment-node",
+          "observedAt": "2026-11-16T10:35:07.829Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jest-environment-node",
+      "semver": "24.0.0-alpha.7",
+      "publishedAt": "2018-12-11T16:17:40.506Z",
+      "publisher": "mjesun",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 1461,
+      "dependencies": {
+        "jest-mock": "^24.0.0-alpha.7",
+        "jest-util": "^24.0.0-alpha.7"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-environment-node",
+          "observedAt": "2026-11-16T10:35:07.829Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-environment-node",
+          "observedAt": "2026-11-16T10:35:07.829Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-environment-node",
+          "observedAt": "2026-11-16T10:35:07.829Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-environment-node",
+          "observedAt": "2026-11-16T10:35:07.829Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jest-environment-node",
+          "observedAt": "2026-11-16T10:35:07.829Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-environment-node",
+          "observedAt": "2026-11-16T10:35:07.829Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jest-environment-node",
+      "semver": "24.6.0",
+      "publishedAt": "2019-04-01T22:27:05.280Z",
+      "publisher": "rubennorte",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 214698,
+      "dependencies": {
+        "jest-mock": "^24.6.0",
+        "jest-util": "^24.6.0",
+        "@jest/types": "^24.6.0",
+        "@jest/environment": "^24.6.0",
+        "@jest/fake-timers": "^24.6.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-environment-node",
+          "observedAt": "2026-11-16T10:35:07.829Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-environment-node",
+          "observedAt": "2026-11-16T10:35:07.829Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-environment-node",
+          "observedAt": "2026-11-16T10:35:07.829Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-environment-node",
+          "observedAt": "2026-11-16T10:35:07.829Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jest-environment-node",
+          "observedAt": "2026-11-16T10:35:07.829Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-environment-node",
+          "observedAt": "2026-11-16T10:35:07.829Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jest-environment-node",
+      "semver": "25.0.0",
+      "publishedAt": "2019-08-22T03:24:32.812Z",
+      "publisher": "scotthovestadt",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 6520,
+      "dependencies": {
+        "jest-mock": "^25.0.0",
+        "jest-util": "^25.0.0",
+        "@jest/types": "^25.0.0",
+        "@jest/environment": "^25.0.0",
+        "@jest/fake-timers": "^25.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-environment-node",
+          "observedAt": "2026-11-16T10:35:07.829Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-environment-node",
+          "observedAt": "2026-11-16T10:35:07.829Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-environment-node",
+          "observedAt": "2026-11-16T10:35:07.829Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-environment-node",
+          "observedAt": "2026-11-16T10:35:07.829Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jest-environment-node",
+          "observedAt": "2026-11-16T10:35:07.829Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-environment-node",
+          "observedAt": "2026-11-16T10:35:07.829Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jest-environment-node",
+      "semver": "25.1.0",
+      "publishedAt": "2020-01-22T01:00:23.883Z",
+      "publisher": "davidzilburg",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7212,
+      "dependencies": {
+        "jest-mock": "^25.1.0",
+        "jest-util": "^25.1.0",
+        "@jest/types": "^25.1.0",
+        "@jest/environment": "^25.1.0",
+        "@jest/fake-timers": "^25.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-environment-node",
+          "observedAt": "2026-11-16T10:35:07.829Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-environment-node",
+          "observedAt": "2026-11-16T10:35:07.829Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-environment-node",
+          "observedAt": "2026-11-16T10:35:07.829Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-environment-node",
+          "observedAt": "2026-11-16T10:35:07.829Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jest-environment-node",
+          "observedAt": "2026-11-16T10:35:07.829Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-environment-node",
+          "observedAt": "2026-11-16T10:35:07.829Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jest-environment-node",
+      "semver": "30.0.0-alpha.7",
+      "publishedAt": "2025-01-30T08:28:38.724Z",
+      "publisher": "simenb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 10258,
+      "dependencies": {
+        "jest-mock": "30.0.0-alpha.7",
+        "jest-util": "30.0.0-alpha.7",
+        "@jest/types": "30.0.0-alpha.7",
+        "@types/node": "*",
+        "@jest/environment": "30.0.0-alpha.7",
+        "@jest/fake-timers": "30.0.0-alpha.7"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-environment-node",
+          "observedAt": "2026-11-16T10:35:07.829Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-environment-node",
+          "observedAt": "2026-11-16T10:35:07.829Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-environment-node",
+          "observedAt": "2026-11-16T10:35:07.829Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-environment-node",
+          "observedAt": "2026-11-16T10:35:07.829Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jest-environment-node",
+          "observedAt": "2026-11-16T10:35:07.829Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-environment-node",
+          "observedAt": "2026-11-16T10:35:07.829Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "jest-environment-node",
+      "semver": "30.0.5",
+      "publishedAt": "2025-07-22T02:28:38.436Z",
+      "publisher": "cpojer",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 15658,
+      "dependencies": {
+        "jest-mock": "30.0.5",
+        "jest-util": "30.0.5",
+        "@jest/types": "30.0.5",
+        "@types/node": "*",
+        "jest-validate": "30.0.5",
+        "@jest/environment": "30.0.5",
+        "@jest/fake-timers": "30.0.5"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jest-environment-node",
+          "observedAt": "2026-11-16T10:35:07.829Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jest-environment-node",
+          "observedAt": "2026-11-16T10:35:07.829Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jest-environment-node",
+          "observedAt": "2026-11-16T10:35:07.829Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jest-environment-node",
+          "observedAt": "2026-11-16T10:35:07.829Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jest-environment-node",
+          "observedAt": "2026-11-16T10:35:07.829Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jest-environment-node",
+          "observedAt": "2026-11-16T10:35:07.829Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

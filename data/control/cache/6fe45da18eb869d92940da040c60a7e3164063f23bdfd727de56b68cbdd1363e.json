@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@babel/plugin-syntax-class-static-block",
+  "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-class-static-block",
+  "fetchedAt": "2026-11-16T10:34:31.944Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 4
+  },
+  "sourceSha256": "c1fa239ae5c579a3a33f9fcd4b717b5bcff3703c66bcaa5c5123448244971464",
+  "versions": [
+    {
+      "pkg": "@babel/plugin-syntax-class-static-block",
+      "semver": "7.14.5",
+      "publishedAt": "2021-06-09T23:11:42.208Z",
+      "publisher": "nicolo-ribaudo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 2744,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "^7.14.5"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-class-static-block",
+          "observedAt": "2026-11-16T10:34:31.944Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-class-static-block",
+          "observedAt": "2026-11-16T10:34:31.944Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-class-static-block",
+          "observedAt": "2026-11-16T10:34:31.944Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-class-static-block",
+          "observedAt": "2026-11-16T10:34:31.944Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-class-static-block",
+          "observedAt": "2026-11-16T10:34:31.944Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-syntax-class-static-block",
+          "observedAt": "2026-11-16T10:34:31.944Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "mri",
+  "source": "https://registry.npmjs.org/mri",
+  "fetchedAt": "2026-11-16T10:35:14.735Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 10
+  },
+  "sourceSha256": "dac59781a6e9a087507af52c6239d892d8be12a28e51ae9e171fa278889b1a4f",
+  "versions": [
+    {
+      "pkg": "mri",
+      "semver": "1.2.0",
+      "publishedAt": "2021-09-12T22:35:52.359Z",
+      "publisher": "lukeed",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 13261,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/mri",
+          "observedAt": "2026-11-16T10:35:14.735Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/mri",
+          "observedAt": "2026-11-16T10:35:14.735Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/mri",
+          "observedAt": "2026-11-16T10:35:14.735Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/mri",
+          "observedAt": "2026-11-16T10:35:14.735Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/mri",
+          "observedAt": "2026-11-16T10:35:14.735Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/mri",
+          "observedAt": "2026-11-16T10:35:14.735Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

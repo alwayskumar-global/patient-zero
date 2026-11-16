@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@eslint/eslintrc",
+  "source": "https://registry.npmjs.org/%40eslint%2Feslintrc",
+  "fetchedAt": "2026-11-16T10:34:34.238Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 51
+  },
+  "sourceSha256": "247901ce6cd180605bb8af9e0fc92c010c0c73fdb3b36213e740c3a0c58df3d2",
+  "versions": [
+    {
+      "pkg": "@eslint/eslintrc",
+      "semver": "3.3.1",
+      "publishedAt": "2025-03-21T20:07:54.663Z",
+      "publisher": "eslintbot",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 690806,
+      "dependencies": {
+        "ajv": "^6.12.4",
+        "debug": "^4.3.2",
+        "espree": "^10.0.1",
+        "ignore": "^5.2.0",
+        "globals": "^14.0.0",
+        "js-yaml": "^4.1.0",
+        "minimatch": "^3.1.2",
+        "import-fresh": "^3.2.1",
+        "strip-json-comments": "^3.1.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40eslint%2Feslintrc",
+          "observedAt": "2026-11-16T10:34:34.238Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40eslint%2Feslintrc",
+          "observedAt": "2026-11-16T10:34:34.238Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40eslint%2Feslintrc",
+          "observedAt": "2026-11-16T10:34:34.238Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40eslint%2Feslintrc",
+          "observedAt": "2026-11-16T10:34:34.238Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40eslint%2Feslintrc",
+          "observedAt": "2026-11-16T10:34:34.238Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40eslint%2Feslintrc",
+          "observedAt": "2026-11-16T10:34:34.238Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

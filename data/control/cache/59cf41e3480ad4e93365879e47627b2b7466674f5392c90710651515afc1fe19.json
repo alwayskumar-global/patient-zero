@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@protobufjs/base64",
+  "source": "https://registry.npmjs.org/%40protobufjs%2Fbase64",
+  "fetchedAt": "2026-11-16T10:34:37.029Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 9
+  },
+  "sourceSha256": "67085ad5dd6598df78e001aa9e95d7c36063e06824a7ee758ec82b91cbdc9860",
+  "versions": [
+    {
+      "pkg": "@protobufjs/base64",
+      "semver": "1.0.0",
+      "publishedAt": "2016-12-11T00:09:51.188Z",
+      "publisher": "protobufjs",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40protobufjs%2Fbase64",
+          "observedAt": "2026-11-16T10:34:37.029Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40protobufjs%2Fbase64",
+          "observedAt": "2026-11-16T10:34:37.029Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40protobufjs%2Fbase64",
+          "observedAt": "2026-11-16T10:34:37.029Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40protobufjs%2Fbase64",
+          "observedAt": "2026-11-16T10:34:37.029Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40protobufjs%2Fbase64",
+          "observedAt": "2026-11-16T10:34:37.029Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@protobufjs/base64",
+      "semver": "1.1.2",
+      "publishedAt": "2017-06-09T09:32:02.078Z",
+      "publisher": "dcode",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40protobufjs%2Fbase64",
+          "observedAt": "2026-11-16T10:34:37.029Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40protobufjs%2Fbase64",
+          "observedAt": "2026-11-16T10:34:37.029Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40protobufjs%2Fbase64",
+          "observedAt": "2026-11-16T10:34:37.029Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40protobufjs%2Fbase64",
+          "observedAt": "2026-11-16T10:34:37.029Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40protobufjs%2Fbase64",
+          "observedAt": "2026-11-16T10:34:37.029Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

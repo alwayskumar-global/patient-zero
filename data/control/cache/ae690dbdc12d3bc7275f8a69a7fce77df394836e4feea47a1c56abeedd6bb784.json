@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@webassemblyjs/leb128",
+  "source": "https://registry.npmjs.org/%40webassemblyjs%2Fleb128",
+  "fetchedAt": "2026-11-16T10:34:55.056Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 72
+  },
+  "sourceSha256": "19bc61b6c448a20176ab41281d939627062138a8e313d188a2d4daacbdd2b616",
+  "versions": [
+    {
+      "pkg": "@webassemblyjs/leb128",
+      "semver": "1.14.1",
+      "publishedAt": "2024-11-06T21:53:36.142Z",
+      "publisher": "xtuc",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 48526,
+      "dependencies": {
+        "@xtuc/long": "4.2.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40webassemblyjs%2Fleb128",
+          "observedAt": "2026-11-16T10:34:55.056Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40webassemblyjs%2Fleb128",
+          "observedAt": "2026-11-16T10:34:55.056Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40webassemblyjs%2Fleb128",
+          "observedAt": "2026-11-16T10:34:55.056Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40webassemblyjs%2Fleb128",
+          "observedAt": "2026-11-16T10:34:55.056Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40webassemblyjs%2Fleb128",
+          "observedAt": "2026-11-16T10:34:55.056Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40webassemblyjs%2Fleb128",
+          "observedAt": "2026-11-16T10:34:55.056Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

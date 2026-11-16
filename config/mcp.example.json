@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "patient-zero": {
+      "command": "node",
+      "args": ["/absolute/path/to/patient-zero/packages/cli/dist/index.js", "mcp", "--store", "/absolute/path/to/patient-zero/patient-zero.rl"]
+    },
+    "relate-readonly": {
+      "command": "relate",
+      "args": ["serve", "--mcp", "stdio", "--database", "/absolute/path/to/patient-zero/patient-zero.rl", "--read-only"]
+    }
+  }
+}

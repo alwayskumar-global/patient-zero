@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 1,
+  "pkg": "ts-imports",
+  "source": "https://registry.npmjs.org/ts-imports",
+  "fetchedAt": "2026-11-16T10:32:30.782Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 4
+  },
+  "sourceSha256": "ccbd381068ad134337d6dfdebdaa817eb90b135c2b2bdfbc910851731f2fde0e",
+  "versions": [
+    {
+      "pkg": "ts-imports",
+      "semver": "1.0.0",
+      "publishedAt": "2022-08-18T16:33:13.174Z",
+      "publisher": "art-ws",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 30569,
+      "dependencies": {
+        "glob": "8.0.3",
+        "chalk": "4.1.1",
+        "tslib": "2.4.0",
+        "yargs": "17.5.1",
+        "lodash": "4.17.21",
+        "fs-extra": "10.1.0",
+        "@types/node": "18.7.6",
+        "cosmiconfig": "7.0.1",
+        "@types/chalk": "0.4.31",
+        "@types/lodash": "4.14.183",
+        "@art-ws/common": "latest",
+        "@types/fs-extra": "9.0.13",
+        "parse-imports-ts": "1.0.2",
+        "@types/cosmiconfig": "5.0.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ts-imports",
+          "observedAt": "2026-11-16T10:32:30.782Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ts-imports",
+          "observedAt": "2026-11-16T10:32:30.782Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ts-imports",
+          "observedAt": "2026-11-16T10:32:30.782Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ts-imports",
+          "observedAt": "2026-11-16T10:32:30.782Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/ts-imports",
+          "observedAt": "2026-11-16T10:32:30.782Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ts-imports",
+          "observedAt": "2026-11-16T10:32:30.782Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ts-imports",
+      "semver": "1.0.1",
+      "publishedAt": "2025-09-15T05:21:21.183Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ts-imports",
+          "observedAt": "2026-11-16T10:32:30.782Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ts-imports",
+      "semver": "1.0.2",
+      "publishedAt": "2025-09-15T08:58:40.163Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ts-imports",
+          "observedAt": "2026-11-16T10:32:30.782Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

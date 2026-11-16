@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "jiti",
+  "source": "https://registry.npmjs.org/jiti",
+  "fetchedAt": "2026-11-16T10:35:08.385Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 105
+  },
+  "sourceSha256": "4ffa4579f49d60b984c1069bb808b6811def0f76956f2169b6b6c443a7495f5d",
+  "versions": [
+    {
+      "pkg": "jiti",
+      "semver": "2.5.1",
+      "publishedAt": "2025-07-24T15:56:57.793Z",
+      "publisher": "pi0",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 2133534,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/jiti",
+          "observedAt": "2026-11-16T10:35:08.385Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/jiti",
+          "observedAt": "2026-11-16T10:35:08.385Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/jiti",
+          "observedAt": "2026-11-16T10:35:08.385Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/jiti",
+          "observedAt": "2026-11-16T10:35:08.385Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/jiti",
+          "observedAt": "2026-11-16T10:35:08.385Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/jiti",
+          "observedAt": "2026-11-16T10:35:08.385Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

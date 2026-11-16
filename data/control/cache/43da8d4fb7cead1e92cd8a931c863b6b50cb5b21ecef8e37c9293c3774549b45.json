@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "is-arrayish",
+  "source": "https://registry.npmjs.org/is-arrayish",
+  "fetchedAt": "2026-11-16T10:35:05.369Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 9
+  },
+  "sourceSha256": "63e00f9a4fb23a67ae4be5dbaccd97c9ecd20bcc1c4a566688960ea697ec5695",
+  "versions": [
+    {
+      "pkg": "is-arrayish",
+      "semver": "0.3.2",
+      "publishedAt": "2018-06-19T08:09:45.997Z",
+      "publisher": "qix",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 54720,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/is-arrayish",
+          "observedAt": "2026-11-16T10:35:05.369Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/is-arrayish",
+          "observedAt": "2026-11-16T10:35:05.369Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/is-arrayish",
+          "observedAt": "2026-11-16T10:35:05.369Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/is-arrayish",
+          "observedAt": "2026-11-16T10:35:05.369Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/is-arrayish",
+          "observedAt": "2026-11-16T10:35:05.369Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/is-arrayish",
+          "observedAt": "2026-11-16T10:35:05.369Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

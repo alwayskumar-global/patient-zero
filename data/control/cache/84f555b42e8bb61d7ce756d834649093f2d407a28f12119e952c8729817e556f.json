@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "nice-try",
+  "source": "https://registry.npmjs.org/nice-try",
+  "fetchedAt": "2026-11-16T10:35:14.807Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 15
+  },
+  "sourceSha256": "d6cdb3f841adec5db9654cd63ec4de5caf39d0b510d8f9d86e5322bb295ee7eb",
+  "versions": [
+    {
+      "pkg": "nice-try",
+      "semver": "4.0.1",
+      "publishedAt": "2025-07-07T15:07:26.156Z",
+      "publisher": "electerious",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 4456,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/nice-try",
+          "observedAt": "2026-11-16T10:35:14.807Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/nice-try",
+          "observedAt": "2026-11-16T10:35:14.807Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/nice-try",
+          "observedAt": "2026-11-16T10:35:14.807Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/nice-try",
+          "observedAt": "2026-11-16T10:35:14.807Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/nice-try",
+          "observedAt": "2026-11-16T10:35:14.807Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/nice-try",
+          "observedAt": "2026-11-16T10:35:14.807Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

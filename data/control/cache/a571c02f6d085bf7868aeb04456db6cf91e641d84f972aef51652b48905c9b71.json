@@ -1,0 +1,720 @@
+{
+  "schemaVersion": 1,
+  "pkg": "memfs",
+  "source": "https://registry.npmjs.org/memfs",
+  "fetchedAt": "2026-11-16T10:35:12.351Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 268
+  },
+  "sourceSha256": "20236ab6ae50f45056d4d6e66dc5552335703a677164d13c8d4853ad9406e328",
+  "versions": [
+    {
+      "pkg": "memfs",
+      "semver": "4.25.1",
+      "publishedAt": "2025-07-31T17:18:11.470Z",
+      "publisher": "streamich",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 732536,
+      "dependencies": {
+        "tslib": "^2.0.0",
+        "tree-dump": "^1.0.1",
+        "@jsonjoy.com/util": "^1.3.0",
+        "@jsonjoy.com/json-pack": "^1.0.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "memfs",
+      "semver": "4.26.0",
+      "publishedAt": "2025-07-31T21:21:43.067Z",
+      "publisher": "streamich",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 733298,
+      "dependencies": {
+        "tslib": "^2.0.0",
+        "tree-dump": "^1.0.1",
+        "@jsonjoy.com/util": "^1.3.0",
+        "@jsonjoy.com/json-pack": "^1.0.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "memfs",
+      "semver": "4.27.0",
+      "publishedAt": "2025-07-31T23:17:18.896Z",
+      "publisher": "streamich",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 796651,
+      "dependencies": {
+        "tslib": "^2.0.0",
+        "tree-dump": "^1.0.1",
+        "@jsonjoy.com/util": "^1.3.0",
+        "@jsonjoy.com/json-pack": "^1.0.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "memfs",
+      "semver": "4.28.0",
+      "publishedAt": "2025-07-31T23:54:47.703Z",
+      "publisher": "streamich",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 797913,
+      "dependencies": {
+        "tslib": "^2.0.0",
+        "tree-dump": "^1.0.1",
+        "@jsonjoy.com/util": "^1.3.0",
+        "@jsonjoy.com/json-pack": "^1.0.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "memfs",
+      "semver": "4.28.1",
+      "publishedAt": "2025-08-01T12:33:16.208Z",
+      "publisher": "streamich",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 798267,
+      "dependencies": {
+        "tslib": "^2.0.0",
+        "tree-dump": "^1.0.1",
+        "@jsonjoy.com/util": "^1.3.0",
+        "@jsonjoy.com/json-pack": "^1.0.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "memfs",
+      "semver": "4.29.0",
+      "publishedAt": "2025-08-01T13:22:40.218Z",
+      "publisher": "streamich",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 799676,
+      "dependencies": {
+        "tslib": "^2.0.0",
+        "tree-dump": "^1.0.1",
+        "@jsonjoy.com/util": "^1.3.0",
+        "@jsonjoy.com/json-pack": "^1.0.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "memfs",
+      "semver": "4.30.0",
+      "publishedAt": "2025-08-01T14:06:40.937Z",
+      "publisher": "streamich",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 806800,
+      "dependencies": {
+        "tslib": "^2.0.0",
+        "tree-dump": "^1.0.1",
+        "@jsonjoy.com/util": "^1.3.0",
+        "@jsonjoy.com/json-pack": "^1.0.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "memfs",
+      "semver": "4.30.1",
+      "publishedAt": "2025-08-01T14:52:18.192Z",
+      "publisher": "streamich",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 807180,
+      "dependencies": {
+        "tslib": "^2.0.0",
+        "tree-dump": "^1.0.1",
+        "@jsonjoy.com/util": "^1.3.0",
+        "@jsonjoy.com/json-pack": "^1.0.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "memfs",
+      "semver": "4.31.0",
+      "publishedAt": "2025-08-01T18:52:22.946Z",
+      "publisher": "streamich",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 808065,
+      "dependencies": {
+        "tslib": "^2.0.0",
+        "tree-dump": "^1.0.1",
+        "@jsonjoy.com/util": "^1.3.0",
+        "@jsonjoy.com/json-pack": "^1.0.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "memfs",
+      "semver": "4.32.0",
+      "publishedAt": "2025-08-01T21:20:04.980Z",
+      "publisher": "streamich",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 819456,
+      "dependencies": {
+        "tslib": "^2.0.0",
+        "tree-dump": "^1.0.1",
+        "@jsonjoy.com/util": "^1.3.0",
+        "@jsonjoy.com/json-pack": "^1.0.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "memfs",
+      "semver": "4.32.1",
+      "publishedAt": "2025-08-01T21:46:15.343Z",
+      "publisher": "streamich",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 819338,
+      "dependencies": {
+        "tslib": "^2.0.0",
+        "tree-dump": "^1.0.1",
+        "@jsonjoy.com/util": "^1.3.0",
+        "@jsonjoy.com/json-pack": "^1.0.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "memfs",
+      "semver": "4.33.0",
+      "publishedAt": "2025-08-01T21:52:46.727Z",
+      "publisher": "streamich",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 820415,
+      "dependencies": {
+        "tslib": "^2.0.0",
+        "tree-dump": "^1.0.1",
+        "@jsonjoy.com/util": "^1.3.0",
+        "@jsonjoy.com/json-pack": "^1.0.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "memfs",
+      "semver": "4.34.0",
+      "publishedAt": "2025-08-01T21:57:39.335Z",
+      "publisher": "streamich",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 821202,
+      "dependencies": {
+        "tslib": "^2.0.0",
+        "tree-dump": "^1.0.1",
+        "@jsonjoy.com/util": "^1.3.0",
+        "@jsonjoy.com/json-pack": "^1.0.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "memfs",
+      "semver": "4.35.0",
+      "publishedAt": "2025-08-02T15:48:27.231Z",
+      "publisher": "streamich",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 821202,
+      "dependencies": {
+        "tslib": "^2.0.0",
+        "tree-dump": "^1.0.1",
+        "@jsonjoy.com/util": "^1.3.0",
+        "@jsonjoy.com/json-pack": "^1.0.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "memfs",
+      "semver": "4.36.0",
+      "publishedAt": "2025-08-03T11:35:03.657Z",
+      "publisher": "streamich",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 821707,
+      "dependencies": {
+        "tslib": "^2.0.0",
+        "tree-dump": "^1.0.1",
+        "@jsonjoy.com/util": "^1.3.0",
+        "@jsonjoy.com/json-pack": "^1.0.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/memfs",
+          "observedAt": "2026-11-16T10:35:12.351Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

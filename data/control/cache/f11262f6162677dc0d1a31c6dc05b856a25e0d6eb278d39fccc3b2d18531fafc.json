@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "pkg": "is-array-buffer",
+  "source": "https://registry.npmjs.org/is-array-buffer",
+  "fetchedAt": "2026-11-16T10:35:05.351Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 11
+  },
+  "sourceSha256": "b7dd609a5122a6f198af950c341de36185f016383d4118781e8e2a524b93471f",
+  "versions": [
+    {
+      "pkg": "is-array-buffer",
+      "semver": "1.0.0",
+      "publishedAt": "2017-07-26T11:07:15.316Z",
+      "publisher": "fengyuanchen",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/is-array-buffer",
+          "observedAt": "2026-11-16T10:35:05.351Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/is-array-buffer",
+          "observedAt": "2026-11-16T10:35:05.351Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/is-array-buffer",
+          "observedAt": "2026-11-16T10:35:05.351Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/is-array-buffer",
+          "observedAt": "2026-11-16T10:35:05.351Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/is-array-buffer",
+          "observedAt": "2026-11-16T10:35:05.351Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "is-array-buffer",
+      "semver": "2.0.0",
+      "publishedAt": "2021-02-12T09:09:48.440Z",
+      "publisher": "chenfengyuan",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 5988,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/is-array-buffer",
+          "observedAt": "2026-11-16T10:35:05.351Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/is-array-buffer",
+          "observedAt": "2026-11-16T10:35:05.351Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/is-array-buffer",
+          "observedAt": "2026-11-16T10:35:05.351Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/is-array-buffer",
+          "observedAt": "2026-11-16T10:35:05.351Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/is-array-buffer",
+          "observedAt": "2026-11-16T10:35:05.351Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/is-array-buffer",
+          "observedAt": "2026-11-16T10:35:05.351Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "is-array-buffer",
+      "semver": "3.0.5",
+      "publishedAt": "2024-12-16T16:46:47.152Z",
+      "publisher": "ljharb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 16118,
+      "dependencies": {
+        "call-bind": "^1.0.8",
+        "call-bound": "^1.0.3",
+        "get-intrinsic": "^1.2.6"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/is-array-buffer",
+          "observedAt": "2026-11-16T10:35:05.351Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/is-array-buffer",
+          "observedAt": "2026-11-16T10:35:05.351Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/is-array-buffer",
+          "observedAt": "2026-11-16T10:35:05.351Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/is-array-buffer",
+          "observedAt": "2026-11-16T10:35:05.351Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/is-array-buffer",
+          "observedAt": "2026-11-16T10:35:05.351Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/is-array-buffer",
+          "observedAt": "2026-11-16T10:35:05.351Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

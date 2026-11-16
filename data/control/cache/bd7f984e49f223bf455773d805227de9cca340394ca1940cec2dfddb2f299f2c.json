@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "fs-constants",
+  "source": "https://registry.npmjs.org/fs-constants",
+  "fetchedAt": "2026-11-16T10:35:02.823Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 1
+  },
+  "sourceSha256": "097f35a1ab9d7eb79276a9d5630aeeeb80baed6938c097931c6c612c366a17b6",
+  "versions": [
+    {
+      "pkg": "fs-constants",
+      "semver": "1.0.0",
+      "publishedAt": "2018-04-26T14:42:32.817Z",
+      "publisher": "mafintosh",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 2223,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/fs-constants",
+          "observedAt": "2026-11-16T10:35:02.823Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/fs-constants",
+          "observedAt": "2026-11-16T10:35:02.823Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/fs-constants",
+          "observedAt": "2026-11-16T10:35:02.823Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/fs-constants",
+          "observedAt": "2026-11-16T10:35:02.823Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/fs-constants",
+          "observedAt": "2026-11-16T10:35:02.823Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/fs-constants",
+          "observedAt": "2026-11-16T10:35:02.823Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

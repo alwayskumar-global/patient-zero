@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "pkg": "deepmerge",
+  "source": "https://registry.npmjs.org/deepmerge",
+  "fetchedAt": "2026-11-16T10:34:59.497Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 46
+  },
+  "sourceSha256": "5f1fd329ff9830223ea84451a66ffacc2f0fb593fbda20e8548d5eb3dd29c123",
+  "versions": [
+    {
+      "pkg": "deepmerge",
+      "semver": "0.2.10",
+      "publishedAt": "2015-05-20T03:20:39.542Z",
+      "publisher": "kylemathews",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/deepmerge",
+          "observedAt": "2026-11-16T10:34:59.497Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/deepmerge",
+          "observedAt": "2026-11-16T10:34:59.497Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/deepmerge",
+          "observedAt": "2026-11-16T10:34:59.497Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/deepmerge",
+          "observedAt": "2026-11-16T10:34:59.497Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/deepmerge",
+          "observedAt": "2026-11-16T10:34:59.497Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "deepmerge",
+      "semver": "0.2.7",
+      "publishedAt": "2013-06-03T01:51:01.732Z",
+      "publisher": "nfisher",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/deepmerge",
+          "observedAt": "2026-11-16T10:34:59.497Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/deepmerge",
+          "observedAt": "2026-11-16T10:34:59.497Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/deepmerge",
+          "observedAt": "2026-11-16T10:34:59.497Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/deepmerge",
+          "observedAt": "2026-11-16T10:34:59.497Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/deepmerge",
+          "observedAt": "2026-11-16T10:34:59.497Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "deepmerge",
+      "semver": "4.3.1",
+      "publishedAt": "2023-03-16T22:58:56.511Z",
+      "publisher": "tehshrike",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 31157,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/deepmerge",
+          "observedAt": "2026-11-16T10:34:59.497Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/deepmerge",
+          "observedAt": "2026-11-16T10:34:59.497Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/deepmerge",
+          "observedAt": "2026-11-16T10:34:59.497Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/deepmerge",
+          "observedAt": "2026-11-16T10:34:59.497Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/deepmerge",
+          "observedAt": "2026-11-16T10:34:59.497Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/deepmerge",
+          "observedAt": "2026-11-16T10:34:59.497Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

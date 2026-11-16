@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "pkg": "minimist-options",
+  "source": "https://registry.npmjs.org/minimist-options",
+  "fetchedAt": "2026-11-16T10:35:13.526Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 13
+  },
+  "sourceSha256": "f4f728733f7eba96e5c64c7a99e472b2da4277fabb8d0b1d75245b8011376590",
+  "versions": [
+    {
+      "pkg": "minimist-options",
+      "semver": "3.1.0",
+      "publishedAt": "2019-01-13T16:47:03.877Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/minimist-options",
+          "observedAt": "2026-11-16T10:35:13.526Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "minimist-options",
+      "semver": "4.1.0",
+      "publishedAt": "2020-05-16T13:05:47.807Z",
+      "publisher": "vdemedes",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 8530,
+      "dependencies": {
+        "arrify": "^1.0.1",
+        "is-plain-obj": "^1.1.0",
+        "kind-of": "^6.0.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/minimist-options",
+          "observedAt": "2026-11-16T10:35:13.526Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/minimist-options",
+          "observedAt": "2026-11-16T10:35:13.526Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/minimist-options",
+          "observedAt": "2026-11-16T10:35:13.526Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/minimist-options",
+          "observedAt": "2026-11-16T10:35:13.526Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/minimist-options",
+          "observedAt": "2026-11-16T10:35:13.526Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/minimist-options",
+          "observedAt": "2026-11-16T10:35:13.526Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

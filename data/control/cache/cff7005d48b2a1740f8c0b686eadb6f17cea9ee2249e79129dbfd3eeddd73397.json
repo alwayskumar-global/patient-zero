@@ -1,0 +1,232 @@
+{
+  "schemaVersion": 1,
+  "pkg": "cheerio",
+  "source": "https://registry.npmjs.org/cheerio",
+  "fetchedAt": "2026-11-16T10:34:57.606Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 75
+  },
+  "sourceSha256": "5d374886c0e01cf42e660055533a6b58e17a53f79efe8188c905024d4a6c1a11",
+  "versions": [
+    {
+      "pkg": "cheerio",
+      "semver": "0.17.0",
+      "publishedAt": "2014-06-10T22:35:55.166Z",
+      "publisher": "davidchambers",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "lodash": "~2.4.1",
+        "entities": "~1.1.1",
+        "CSSselect": "~0.4.0",
+        "htmlparser2": "~3.7.2",
+        "dom-serializer": "~0.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/cheerio",
+          "observedAt": "2026-11-16T10:34:57.606Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/cheerio",
+          "observedAt": "2026-11-16T10:34:57.606Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/cheerio",
+          "observedAt": "2026-11-16T10:34:57.606Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/cheerio",
+          "observedAt": "2026-11-16T10:34:57.606Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/cheerio",
+          "observedAt": "2026-11-16T10:34:57.606Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "cheerio",
+      "semver": "0.21.0",
+      "publishedAt": "2016-06-12T05:34:11.519Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/cheerio",
+          "observedAt": "2026-11-16T10:34:57.606Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "cheerio",
+      "semver": "0.22.0",
+      "publishedAt": "2016-08-23T12:21:40.447Z",
+      "publisher": "mattmueller",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "entities": "~1.1.1",
+        "css-select": "~1.2.0",
+        "lodash.map": "^4.4.0",
+        "htmlparser2": "^3.9.1",
+        "lodash.bind": "^4.1.4",
+        "lodash.pick": "^4.2.1",
+        "lodash.some": "^4.4.0",
+        "lodash.merge": "^4.4.0",
+        "lodash.filter": "^4.4.0",
+        "lodash.reduce": "^4.4.0",
+        "lodash.reject": "^4.4.0",
+        "dom-serializer": "~0.1.0",
+        "lodash.flatten": "^4.2.0",
+        "lodash.foreach": "^4.3.0",
+        "lodash.assignin": "^4.0.9",
+        "lodash.defaults": "^4.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/cheerio",
+          "observedAt": "2026-11-16T10:34:57.606Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/cheerio",
+          "observedAt": "2026-11-16T10:34:57.606Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/cheerio",
+          "observedAt": "2026-11-16T10:34:57.606Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/cheerio",
+          "observedAt": "2026-11-16T10:34:57.606Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/cheerio",
+          "observedAt": "2026-11-16T10:34:57.606Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "cheerio",
+      "semver": "1.0.0-rc.3",
+      "publishedAt": "2019-04-06T22:14:16.077Z",
+      "publisher": "jugglinmike",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 111926,
+      "dependencies": {
+        "lodash": "^4.15.0",
+        "parse5": "^3.0.1",
+        "entities": "~1.1.1",
+        "css-select": "~1.2.0",
+        "htmlparser2": "^3.9.1",
+        "dom-serializer": "~0.1.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/cheerio",
+          "observedAt": "2026-11-16T10:34:57.606Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/cheerio",
+          "observedAt": "2026-11-16T10:34:57.606Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/cheerio",
+          "observedAt": "2026-11-16T10:34:57.606Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/cheerio",
+          "observedAt": "2026-11-16T10:34:57.606Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/cheerio",
+          "observedAt": "2026-11-16T10:34:57.606Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/cheerio",
+          "observedAt": "2026-11-16T10:34:57.606Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "cheerio",
+      "semver": "1.1.2",
+      "publishedAt": "2025-07-21T09:06:39.470Z",
+      "publisher": "feedic",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 1267074,
+      "dependencies": {
+        "parse5": "^7.3.0",
+        "undici": "^7.12.0",
+        "domutils": "^3.2.2",
+        "domhandler": "^5.0.3",
+        "htmlparser2": "^10.0.0",
+        "cheerio-select": "^2.1.0",
+        "dom-serializer": "^2.0.0",
+        "whatwg-mimetype": "^4.0.0",
+        "encoding-sniffer": "^0.2.1",
+        "parse5-parser-stream": "^7.1.2",
+        "parse5-htmlparser2-tree-adapter": "^7.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/cheerio",
+          "observedAt": "2026-11-16T10:34:57.606Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/cheerio",
+          "observedAt": "2026-11-16T10:34:57.606Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/cheerio",
+          "observedAt": "2026-11-16T10:34:57.606Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/cheerio",
+          "observedAt": "2026-11-16T10:34:57.606Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/cheerio",
+          "observedAt": "2026-11-16T10:34:57.606Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/cheerio",
+          "observedAt": "2026-11-16T10:34:57.606Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "strip-indent",
+  "source": "https://registry.npmjs.org/strip-indent",
+  "fetchedAt": "2026-11-16T10:35:27.692Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 11
+  },
+  "sourceSha256": "bed4bac58911866057041f5699c89eaacd5ff255f8b59635e7bf52ba7c74f08a",
+  "versions": [
+    {
+      "pkg": "strip-indent",
+      "semver": "4.0.0",
+      "publishedAt": "2021-05-03T14:34:25.101Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 3644,
+      "dependencies": {
+        "min-indent": "^1.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/strip-indent",
+          "observedAt": "2026-11-16T10:35:27.692Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/strip-indent",
+          "observedAt": "2026-11-16T10:35:27.692Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/strip-indent",
+          "observedAt": "2026-11-16T10:35:27.692Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/strip-indent",
+          "observedAt": "2026-11-16T10:35:27.692Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/strip-indent",
+          "observedAt": "2026-11-16T10:35:27.692Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/strip-indent",
+          "observedAt": "2026-11-16T10:35:27.692Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

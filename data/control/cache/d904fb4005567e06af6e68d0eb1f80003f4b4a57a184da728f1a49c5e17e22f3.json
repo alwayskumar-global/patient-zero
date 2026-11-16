@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "pkg": "underscore",
+  "source": "https://registry.npmjs.org/underscore",
+  "fetchedAt": "2026-11-16T10:35:31.140Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 55
+  },
+  "sourceSha256": "dcc8153c182d10ddec8850bca234ff5957f9869771fb87dfe041d2b044269b9d",
+  "versions": [
+    {
+      "pkg": "underscore",
+      "semver": "1.11.0",
+      "publishedAt": "2020-08-28T19:59:41.352Z",
+      "publisher": "jashkenas",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 611192,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/underscore",
+          "observedAt": "2026-11-16T10:35:31.140Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/underscore",
+          "observedAt": "2026-11-16T10:35:31.140Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/underscore",
+          "observedAt": "2026-11-16T10:35:31.140Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/underscore",
+          "observedAt": "2026-11-16T10:35:31.140Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/underscore",
+          "observedAt": "2026-11-16T10:35:31.140Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/underscore",
+          "observedAt": "2026-11-16T10:35:31.140Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "underscore",
+      "semver": "1.13.7",
+      "publishedAt": "2024-07-24T20:39:20.856Z",
+      "publisher": "jgonggrijp",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 906308,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/underscore",
+          "observedAt": "2026-11-16T10:35:31.140Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/underscore",
+          "observedAt": "2026-11-16T10:35:31.140Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/underscore",
+          "observedAt": "2026-11-16T10:35:31.140Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/underscore",
+          "observedAt": "2026-11-16T10:35:31.140Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/underscore",
+          "observedAt": "2026-11-16T10:35:31.140Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/underscore",
+          "observedAt": "2026-11-16T10:35:31.140Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

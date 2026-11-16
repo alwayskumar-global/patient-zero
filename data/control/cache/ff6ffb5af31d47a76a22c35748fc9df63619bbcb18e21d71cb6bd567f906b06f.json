@@ -1,0 +1,114 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@babel/helper-create-class-features-plugin",
+  "source": "https://registry.npmjs.org/%40babel%2Fhelper-create-class-features-plugin",
+  "fetchedAt": "2026-11-16T10:34:30.411Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 141
+  },
+  "sourceSha256": "20c19b4ec0490c99a2ca4e8fe2fa29bfba8c00240bc27a473b772e48674a5268",
+  "versions": [
+    {
+      "pkg": "@babel/helper-create-class-features-plugin",
+      "semver": "7.10.5",
+      "publishedAt": "2020-07-14T18:18:16.905Z",
+      "publisher": "jlhwung",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 45385,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "^7.10.4",
+        "@babel/helper-function-name": "^7.10.4",
+        "@babel/helper-replace-supers": "^7.10.4",
+        "@babel/helper-optimise-call-expression": "^7.10.4",
+        "@babel/helper-split-export-declaration": "^7.10.4",
+        "@babel/helper-member-expression-to-functions": "^7.10.5"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-create-class-features-plugin",
+          "observedAt": "2026-11-16T10:34:30.411Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-create-class-features-plugin",
+          "observedAt": "2026-11-16T10:34:30.411Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-create-class-features-plugin",
+          "observedAt": "2026-11-16T10:34:30.411Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-create-class-features-plugin",
+          "observedAt": "2026-11-16T10:34:30.411Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-create-class-features-plugin",
+          "observedAt": "2026-11-16T10:34:30.411Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-create-class-features-plugin",
+          "observedAt": "2026-11-16T10:34:30.411Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/helper-create-class-features-plugin",
+      "semver": "8.0.0-beta.1",
+      "publishedAt": "2025-07-02T09:04:46.014Z",
+      "publisher": "nicolo-ribaudo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 399883,
+      "dependencies": {
+        "semver": "^7.3.4",
+        "@babel/traverse": "^8.0.0-beta.1",
+        "@babel/helper-replace-supers": "^8.0.0-beta.1",
+        "@babel/helper-annotate-as-pure": "^8.0.0-beta.1",
+        "@babel/helper-optimise-call-expression": "^8.0.0-beta.1",
+        "@babel/helper-member-expression-to-functions": "^8.0.0-beta.1",
+        "@babel/helper-skip-transparent-expression-wrappers": "^8.0.0-beta.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-create-class-features-plugin",
+          "observedAt": "2026-11-16T10:34:30.411Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-create-class-features-plugin",
+          "observedAt": "2026-11-16T10:34:30.411Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-create-class-features-plugin",
+          "observedAt": "2026-11-16T10:34:30.411Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-create-class-features-plugin",
+          "observedAt": "2026-11-16T10:34:30.411Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-create-class-features-plugin",
+          "observedAt": "2026-11-16T10:34:30.411Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fhelper-create-class-features-plugin",
+          "observedAt": "2026-11-16T10:34:30.411Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

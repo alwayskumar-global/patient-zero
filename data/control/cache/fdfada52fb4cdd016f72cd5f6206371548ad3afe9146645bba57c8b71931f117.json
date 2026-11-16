@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 1,
+  "pkg": "d3-ease",
+  "source": "https://registry.npmjs.org/d3-ease",
+  "fetchedAt": "2026-11-16T10:34:59.017Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 33
+  },
+  "sourceSha256": "34dd5152d27c04d130e181ed718584d23cdd1e9d3933e5bddc72b242f15235a7",
+  "versions": [
+    {
+      "pkg": "d3-ease",
+      "semver": "0.0.0",
+      "publishedAt": "2014-04-03T15:41:19.121Z",
+      "publisher": "jfsiii",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/d3-ease",
+          "observedAt": "2026-11-16T10:34:59.017Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/d3-ease",
+          "observedAt": "2026-11-16T10:34:59.017Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/d3-ease",
+          "observedAt": "2026-11-16T10:34:59.017Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/d3-ease",
+          "observedAt": "2026-11-16T10:34:59.017Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/d3-ease",
+          "observedAt": "2026-11-16T10:34:59.017Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "d3-ease",
+      "semver": "2.0.0",
+      "publishedAt": "2020-08-23T14:05:57.971Z",
+      "publisher": "recifs",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 34353,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/d3-ease",
+          "observedAt": "2026-11-16T10:34:59.017Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/d3-ease",
+          "observedAt": "2026-11-16T10:34:59.017Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/d3-ease",
+          "observedAt": "2026-11-16T10:34:59.017Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/d3-ease",
+          "observedAt": "2026-11-16T10:34:59.017Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/d3-ease",
+          "observedAt": "2026-11-16T10:34:59.017Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/d3-ease",
+          "observedAt": "2026-11-16T10:34:59.017Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "d3-ease",
+      "semver": "3.0.1",
+      "publishedAt": "2021-06-05T18:33:15.216Z",
+      "publisher": "mbostock",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 34629,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/d3-ease",
+          "observedAt": "2026-11-16T10:34:59.017Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/d3-ease",
+          "observedAt": "2026-11-16T10:34:59.017Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/d3-ease",
+          "observedAt": "2026-11-16T10:34:59.017Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/d3-ease",
+          "observedAt": "2026-11-16T10:34:59.017Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/d3-ease",
+          "observedAt": "2026-11-16T10:34:59.017Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/d3-ease",
+          "observedAt": "2026-11-16T10:34:59.017Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

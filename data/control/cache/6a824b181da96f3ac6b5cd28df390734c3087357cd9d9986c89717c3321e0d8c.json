@@ -1,0 +1,142 @@
+{
+  "schemaVersion": 1,
+  "pkg": "ts-node",
+  "source": "https://registry.npmjs.org/ts-node",
+  "fetchedAt": "2026-11-16T10:35:30.044Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 129
+  },
+  "sourceSha256": "92aa2e942253e1cd69429bc9f06b3bdbc791990b8d388d81cd777388c070d214",
+  "versions": [
+    {
+      "pkg": "ts-node",
+      "semver": "10.9.2",
+      "publishedAt": "2023-12-08T12:04:46.154Z",
+      "publisher": "blakeembrey",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 757333,
+      "dependencies": {
+        "yn": "3.1.1",
+        "arg": "^4.1.0",
+        "diff": "^4.0.1",
+        "acorn": "^8.4.1",
+        "acorn-walk": "^8.1.1",
+        "make-error": "^1.1.1",
+        "create-require": "^1.1.0",
+        "@tsconfig/node10": "^1.0.7",
+        "@tsconfig/node12": "^1.0.7",
+        "@tsconfig/node14": "^1.0.0",
+        "@tsconfig/node16": "^1.0.2",
+        "v8-compile-cache-lib": "^3.0.1",
+        "@cspotcode/source-map-support": "^0.8.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ts-node",
+          "observedAt": "2026-11-16T10:35:30.044Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ts-node",
+          "observedAt": "2026-11-16T10:35:30.044Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ts-node",
+          "observedAt": "2026-11-16T10:35:30.044Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ts-node",
+          "observedAt": "2026-11-16T10:35:30.044Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/ts-node",
+          "observedAt": "2026-11-16T10:35:30.044Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ts-node",
+          "observedAt": "2026-11-16T10:35:30.044Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ts-node",
+      "semver": "11.0.0-beta.1",
+      "publishedAt": "2023-10-17T18:44:26.041Z",
+      "publisher": "cspotcode",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 740947,
+      "dependencies": {
+        "arg": "^4.1.0",
+        "diff": "^4.0.1",
+        "acorn": "^8.4.1",
+        "acorn-walk": "^8.1.1",
+        "make-error": "^1.1.1",
+        "@tsconfig/node14": "*",
+        "@tsconfig/node16": "*",
+        "@tsconfig/node18": "*",
+        "@tsconfig/node20": "*",
+        "v8-compile-cache-lib": "^3.0.1",
+        "@cspotcode/source-map-support": "^0.8.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ts-node",
+          "observedAt": "2026-11-16T10:35:30.044Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ts-node",
+          "observedAt": "2026-11-16T10:35:30.044Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ts-node",
+          "observedAt": "2026-11-16T10:35:30.044Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ts-node",
+          "observedAt": "2026-11-16T10:35:30.044Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/ts-node",
+          "observedAt": "2026-11-16T10:35:30.044Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ts-node",
+          "observedAt": "2026-11-16T10:35:30.044Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ts-node",
+      "semver": "8.5.1",
+      "publishedAt": "2019-11-15T02:53:59.303Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ts-node",
+          "observedAt": "2026-11-16T10:35:30.044Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

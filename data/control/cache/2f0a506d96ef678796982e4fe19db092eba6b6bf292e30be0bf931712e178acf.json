@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "pkg": "micromark-util-character",
+  "source": "https://registry.npmjs.org/micromark-util-character",
+  "fetchedAt": "2026-11-16T10:35:12.841Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 11
+  },
+  "sourceSha256": "43eec3e44663efcf1a08a2e96124629d45beab2cc056f95f508e6c3bc06eebef",
+  "versions": [
+    {
+      "pkg": "micromark-util-character",
+      "semver": "2.1.1",
+      "publishedAt": "2024-11-12T11:17:13.750Z",
+      "publisher": "wooorm",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 42421,
+      "dependencies": {
+        "micromark-util-symbol": "^2.0.0",
+        "micromark-util-types": "^2.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/micromark-util-character",
+          "observedAt": "2026-11-16T10:35:12.841Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/micromark-util-character",
+          "observedAt": "2026-11-16T10:35:12.841Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/micromark-util-character",
+          "observedAt": "2026-11-16T10:35:12.841Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/micromark-util-character",
+          "observedAt": "2026-11-16T10:35:12.841Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/micromark-util-character",
+          "observedAt": "2026-11-16T10:35:12.841Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/micromark-util-character",
+          "observedAt": "2026-11-16T10:35:12.841Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

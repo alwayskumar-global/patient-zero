@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "ecdsa-sig-formatter",
+  "source": "https://registry.npmjs.org/ecdsa-sig-formatter",
+  "fetchedAt": "2026-11-16T10:35:00.209Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 10
+  },
+  "sourceSha256": "c252716c706cf3c1730031863c3998f7abaa57f69d86a124da19952fe607a80d",
+  "versions": [
+    {
+      "pkg": "ecdsa-sig-formatter",
+      "semver": "1.0.11",
+      "publishedAt": "2019-01-25T21:32:13.447Z",
+      "publisher": "d2l-travis-deploy",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 20588,
+      "dependencies": {
+        "safe-buffer": "^5.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ecdsa-sig-formatter",
+          "observedAt": "2026-11-16T10:35:00.209Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ecdsa-sig-formatter",
+          "observedAt": "2026-11-16T10:35:00.209Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ecdsa-sig-formatter",
+          "observedAt": "2026-11-16T10:35:00.209Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ecdsa-sig-formatter",
+          "observedAt": "2026-11-16T10:35:00.209Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/ecdsa-sig-formatter",
+          "observedAt": "2026-11-16T10:35:00.209Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ecdsa-sig-formatter",
+          "observedAt": "2026-11-16T10:35:00.209Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

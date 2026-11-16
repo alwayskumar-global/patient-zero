@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "shebang-regex",
+  "source": "https://registry.npmjs.org/shebang-regex",
+  "fetchedAt": "2026-11-16T10:35:26.299Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 4
+  },
+  "sourceSha256": "3af7d59a2295417208b5861a7b574ace93563be2763960c84ba68792c789c49c",
+  "versions": [
+    {
+      "pkg": "shebang-regex",
+      "semver": "4.0.0",
+      "publishedAt": "2021-08-13T23:09:49.954Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 3234,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/shebang-regex",
+          "observedAt": "2026-11-16T10:35:26.299Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/shebang-regex",
+          "observedAt": "2026-11-16T10:35:26.299Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/shebang-regex",
+          "observedAt": "2026-11-16T10:35:26.299Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/shebang-regex",
+          "observedAt": "2026-11-16T10:35:26.299Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/shebang-regex",
+          "observedAt": "2026-11-16T10:35:26.299Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/shebang-regex",
+          "observedAt": "2026-11-16T10:35:26.299Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "pkg": "resolve-dir",
+  "source": "https://registry.npmjs.org/resolve-dir",
+  "fetchedAt": "2026-11-16T10:35:24.839Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 4
+  },
+  "sourceSha256": "4f4b8d5c9946682021941d00be4eab088afe7a480d783001d5e07b3e9dfc7baf",
+  "versions": [
+    {
+      "pkg": "resolve-dir",
+      "semver": "1.0.0",
+      "publishedAt": "2016-10-18T18:00:11.492Z",
+      "publisher": "jonschlinkert",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "expand-tilde": "^2.0.0",
+        "global-modules": "^0.2.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/resolve-dir",
+          "observedAt": "2026-11-16T10:35:24.839Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/resolve-dir",
+          "observedAt": "2026-11-16T10:35:24.839Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/resolve-dir",
+          "observedAt": "2026-11-16T10:35:24.839Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/resolve-dir",
+          "observedAt": "2026-11-16T10:35:24.839Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/resolve-dir",
+          "observedAt": "2026-11-16T10:35:24.839Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "resolve-dir",
+      "semver": "1.0.1",
+      "publishedAt": "2017-08-05T23:49:52.684Z",
+      "publisher": "phated",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "expand-tilde": "^2.0.0",
+        "global-modules": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/resolve-dir",
+          "observedAt": "2026-11-16T10:35:24.839Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/resolve-dir",
+          "observedAt": "2026-11-16T10:35:24.839Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/resolve-dir",
+          "observedAt": "2026-11-16T10:35:24.839Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/resolve-dir",
+          "observedAt": "2026-11-16T10:35:24.839Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/resolve-dir",
+          "observedAt": "2026-11-16T10:35:24.839Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

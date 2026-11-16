@@ -1,0 +1,173 @@
+{
+  "schemaVersion": 1,
+  "pkg": "debounce",
+  "source": "https://registry.npmjs.org/debounce",
+  "fetchedAt": "2026-11-16T10:34:59.225Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 13
+  },
+  "sourceSha256": "971ee373cfd9df6c2350b1249258bcdb458e4e2db3343a270f104321e2346e2b",
+  "versions": [
+    {
+      "pkg": "debounce",
+      "semver": "0.0.3",
+      "publishedAt": "2013-08-21T18:30:31.260Z",
+      "publisher": "mattmueller",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/debounce",
+          "observedAt": "2026-11-16T10:34:59.225Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/debounce",
+          "observedAt": "2026-11-16T10:34:59.225Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/debounce",
+          "observedAt": "2026-11-16T10:34:59.225Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/debounce",
+          "observedAt": "2026-11-16T10:34:59.225Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/debounce",
+          "observedAt": "2026-11-16T10:34:59.225Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "debounce",
+      "semver": "1.0.2",
+      "publishedAt": "2017-04-21T16:54:56.614Z",
+      "publisher": "tootallnate",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/debounce",
+          "observedAt": "2026-11-16T10:34:59.225Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/debounce",
+          "observedAt": "2026-11-16T10:34:59.225Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/debounce",
+          "observedAt": "2026-11-16T10:34:59.225Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/debounce",
+          "observedAt": "2026-11-16T10:34:59.225Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/debounce",
+          "observedAt": "2026-11-16T10:34:59.225Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "debounce",
+      "semver": "1.2.1",
+      "publishedAt": "2021-03-09T18:32:25.739Z",
+      "publisher": "stephenmathieson",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 11960,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/debounce",
+          "observedAt": "2026-11-16T10:34:59.225Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/debounce",
+          "observedAt": "2026-11-16T10:34:59.225Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/debounce",
+          "observedAt": "2026-11-16T10:34:59.225Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/debounce",
+          "observedAt": "2026-11-16T10:34:59.225Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/debounce",
+          "observedAt": "2026-11-16T10:34:59.225Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/debounce",
+          "observedAt": "2026-11-16T10:34:59.225Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "debounce",
+      "semver": "2.2.0",
+      "publishedAt": "2024-10-14T16:38:31.183Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7148,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/debounce",
+          "observedAt": "2026-11-16T10:34:59.225Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/debounce",
+          "observedAt": "2026-11-16T10:34:59.225Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/debounce",
+          "observedAt": "2026-11-16T10:34:59.225Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/debounce",
+          "observedAt": "2026-11-16T10:34:59.225Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/debounce",
+          "observedAt": "2026-11-16T10:34:59.225Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/debounce",
+          "observedAt": "2026-11-16T10:34:59.225Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

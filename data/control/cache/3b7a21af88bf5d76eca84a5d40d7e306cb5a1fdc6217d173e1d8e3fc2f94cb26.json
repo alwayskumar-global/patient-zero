@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@emnapi/runtime",
+  "source": "https://registry.npmjs.org/%40emnapi%2Fruntime",
+  "fetchedAt": "2026-11-16T10:34:33.976Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 60
+  },
+  "sourceSha256": "214d328d5d8e63ca8925a13882738e7749fc1dc69b37949e252c6464c14bcd7a",
+  "versions": [
+    {
+      "pkg": "@emnapi/runtime",
+      "semver": "0.32.1",
+      "publishedAt": "2023-02-25T18:25:59.850Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40emnapi%2Fruntime",
+          "observedAt": "2026-11-16T10:34:33.976Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@emnapi/runtime",
+      "semver": "1.4.5",
+      "publishedAt": "2025-07-18T08:51:35.792Z",
+      "publisher": "toyobayashi",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 423533,
+      "dependencies": {
+        "tslib": "^2.4.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40emnapi%2Fruntime",
+          "observedAt": "2026-11-16T10:34:33.976Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40emnapi%2Fruntime",
+          "observedAt": "2026-11-16T10:34:33.976Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40emnapi%2Fruntime",
+          "observedAt": "2026-11-16T10:34:33.976Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40emnapi%2Fruntime",
+          "observedAt": "2026-11-16T10:34:33.976Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40emnapi%2Fruntime",
+          "observedAt": "2026-11-16T10:34:33.976Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40emnapi%2Fruntime",
+          "observedAt": "2026-11-16T10:34:33.976Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

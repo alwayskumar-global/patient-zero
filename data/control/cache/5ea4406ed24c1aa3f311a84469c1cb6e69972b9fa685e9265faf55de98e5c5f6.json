@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@inquirer/figures",
+  "source": "https://registry.npmjs.org/%40inquirer%2Ffigures",
+  "fetchedAt": "2026-11-16T10:34:35.424Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 28
+  },
+  "sourceSha256": "34773df3842589c926f9479f2c45f20938400bf2ecdd4be86e4f8aa833e8b1d4",
+  "versions": [
+    {
+      "pkg": "@inquirer/figures",
+      "semver": "1.0.13",
+      "publishedAt": "2025-07-20T21:02:36.977Z",
+      "publisher": "sboudrias",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 49713,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40inquirer%2Ffigures",
+          "observedAt": "2026-11-16T10:34:35.424Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40inquirer%2Ffigures",
+          "observedAt": "2026-11-16T10:34:35.424Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40inquirer%2Ffigures",
+          "observedAt": "2026-11-16T10:34:35.424Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40inquirer%2Ffigures",
+          "observedAt": "2026-11-16T10:34:35.424Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40inquirer%2Ffigures",
+          "observedAt": "2026-11-16T10:34:35.424Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40inquirer%2Ffigures",
+          "observedAt": "2026-11-16T10:34:35.424Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

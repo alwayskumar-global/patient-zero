@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "micromark-util-decode-numeric-character-reference",
+  "source": "https://registry.npmjs.org/micromark-util-decode-numeric-character-reference",
+  "fetchedAt": "2026-11-16T10:35:12.910Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 6
+  },
+  "sourceSha256": "9a0b0d74215ca92239a1e564c8a979feac550b1b5623c10ae892cf845c9887bb",
+  "versions": [
+    {
+      "pkg": "micromark-util-decode-numeric-character-reference",
+      "semver": "2.0.2",
+      "publishedAt": "2024-11-12T11:17:27.210Z",
+      "publisher": "wooorm",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 11414,
+      "dependencies": {
+        "micromark-util-symbol": "^2.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/micromark-util-decode-numeric-character-reference",
+          "observedAt": "2026-11-16T10:35:12.910Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/micromark-util-decode-numeric-character-reference",
+          "observedAt": "2026-11-16T10:35:12.910Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/micromark-util-decode-numeric-character-reference",
+          "observedAt": "2026-11-16T10:35:12.910Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/micromark-util-decode-numeric-character-reference",
+          "observedAt": "2026-11-16T10:35:12.910Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/micromark-util-decode-numeric-character-reference",
+          "observedAt": "2026-11-16T10:35:12.910Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/micromark-util-decode-numeric-character-reference",
+          "observedAt": "2026-11-16T10:35:12.910Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

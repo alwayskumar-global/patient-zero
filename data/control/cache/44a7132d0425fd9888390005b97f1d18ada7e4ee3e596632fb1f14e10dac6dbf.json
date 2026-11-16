@@ -1,0 +1,344 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@jest/reporters",
+  "source": "https://registry.npmjs.org/%40jest%2Freporters",
+  "fetchedAt": "2026-11-16T10:34:35.736Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 159
+  },
+  "sourceSha256": "ab2bdbef1e549348842eb47b512f1439885468a3470251bf6e066e886339848e",
+  "versions": [
+    {
+      "pkg": "@jest/reporters",
+      "semver": "24.6.0",
+      "publishedAt": "2019-04-01T22:27:19.791Z",
+      "publisher": "rubennorte",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 351237,
+      "dependencies": {
+        "exit": "^0.1.2",
+        "glob": "^7.1.2",
+        "chalk": "^2.0.1",
+        "slash": "^2.0.0",
+        "jest-util": "^24.6.0",
+        "source-map": "^0.6.0",
+        "@jest/types": "^24.6.0",
+        "jest-worker": "^24.6.0",
+        "istanbul-api": "^2.1.1",
+        "jest-resolve": "^24.6.0",
+        "jest-runtime": "^24.6.0",
+        "node-notifier": "^5.2.1",
+        "string-length": "^2.0.0",
+        "jest-haste-map": "^24.6.0",
+        "@jest/transform": "^24.6.0",
+        "@jest/environment": "^24.6.0",
+        "@jest/test-result": "^24.6.0",
+        "istanbul-lib-coverage": "^2.0.2",
+        "istanbul-lib-instrument": "^3.0.1",
+        "istanbul-lib-source-maps": "^3.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40jest%2Freporters",
+          "observedAt": "2026-11-16T10:34:35.736Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40jest%2Freporters",
+          "observedAt": "2026-11-16T10:34:35.736Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40jest%2Freporters",
+          "observedAt": "2026-11-16T10:34:35.736Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40jest%2Freporters",
+          "observedAt": "2026-11-16T10:34:35.736Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40jest%2Freporters",
+          "observedAt": "2026-11-16T10:34:35.736Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40jest%2Freporters",
+          "observedAt": "2026-11-16T10:34:35.736Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@jest/reporters",
+      "semver": "25.0.0",
+      "publishedAt": "2019-08-22T03:24:46.238Z",
+      "publisher": "scotthovestadt",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 98937,
+      "dependencies": {
+        "exit": "^0.1.2",
+        "glob": "^7.1.2",
+        "chalk": "^2.0.1",
+        "slash": "^3.0.0",
+        "jest-util": "^25.0.0",
+        "source-map": "^0.6.0",
+        "@jest/types": "^25.0.0",
+        "jest-worker": "^25.0.0",
+        "jest-resolve": "^25.0.0",
+        "jest-runtime": "^25.0.0",
+        "node-notifier": "^5.4.3",
+        "string-length": "^3.1.0",
+        "jest-haste-map": "^25.0.0",
+        "@jest/transform": "^25.0.0",
+        "istanbul-reports": "^2.2.6",
+        "@jest/environment": "^25.0.0",
+        "@jest/test-result": "^25.0.0",
+        "istanbul-lib-report": "^2.0.4",
+        "istanbul-lib-coverage": "^2.0.2",
+        "istanbul-lib-instrument": "^3.0.1",
+        "istanbul-lib-source-maps": "^3.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40jest%2Freporters",
+          "observedAt": "2026-11-16T10:34:35.736Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40jest%2Freporters",
+          "observedAt": "2026-11-16T10:34:35.736Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40jest%2Freporters",
+          "observedAt": "2026-11-16T10:34:35.736Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40jest%2Freporters",
+          "observedAt": "2026-11-16T10:34:35.736Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40jest%2Freporters",
+          "observedAt": "2026-11-16T10:34:35.736Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40jest%2Freporters",
+          "observedAt": "2026-11-16T10:34:35.736Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@jest/reporters",
+      "semver": "25.1.0",
+      "publishedAt": "2020-01-22T01:00:43.260Z",
+      "publisher": "davidzilburg",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 112435,
+      "dependencies": {
+        "exit": "^0.1.2",
+        "glob": "^7.1.2",
+        "chalk": "^3.0.0",
+        "slash": "^3.0.0",
+        "jest-util": "^25.1.0",
+        "source-map": "^0.6.0",
+        "@jest/types": "^25.1.0",
+        "jest-worker": "^25.1.0",
+        "jest-resolve": "^25.1.0",
+        "jest-runtime": "^25.1.0",
+        "@jest/console": "^25.1.0",
+        "node-notifier": "^6.0.0",
+        "string-length": "^3.1.0",
+        "terminal-link": "^2.0.0",
+        "jest-haste-map": "^25.1.0",
+        "v8-to-istanbul": "^4.0.1",
+        "@jest/transform": "^25.1.0",
+        "istanbul-reports": "^3.0.0",
+        "@bcoe/v8-coverage": "^0.2.3",
+        "@jest/environment": "^25.1.0",
+        "@jest/test-result": "^25.1.0",
+        "collect-v8-coverage": "^1.0.0",
+        "istanbul-lib-report": "^3.0.0",
+        "istanbul-lib-coverage": "^3.0.0",
+        "istanbul-lib-instrument": "^4.0.0",
+        "istanbul-lib-source-maps": "^4.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40jest%2Freporters",
+          "observedAt": "2026-11-16T10:34:35.736Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40jest%2Freporters",
+          "observedAt": "2026-11-16T10:34:35.736Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40jest%2Freporters",
+          "observedAt": "2026-11-16T10:34:35.736Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40jest%2Freporters",
+          "observedAt": "2026-11-16T10:34:35.736Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40jest%2Freporters",
+          "observedAt": "2026-11-16T10:34:35.736Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40jest%2Freporters",
+          "observedAt": "2026-11-16T10:34:35.736Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@jest/reporters",
+      "semver": "30.0.0-alpha.7",
+      "publishedAt": "2025-01-30T08:28:42.971Z",
+      "publisher": "simenb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 113182,
+      "dependencies": {
+        "glob": "^10.3.10",
+        "chalk": "^4.0.0",
+        "slash": "^3.0.0",
+        "exit-x": "^0.2.2",
+        "jest-util": "30.0.0-alpha.7",
+        "strip-ansi": "^6.0.0",
+        "@jest/types": "30.0.0-alpha.7",
+        "@types/node": "*",
+        "graceful-fs": "^4.2.9",
+        "jest-worker": "30.0.0-alpha.7",
+        "@jest/console": "30.0.0-alpha.7",
+        "string-length": "^4.0.1",
+        "v8-to-istanbul": "^9.0.1",
+        "@jest/transform": "30.0.0-alpha.7",
+        "istanbul-reports": "^3.1.3",
+        "@bcoe/v8-coverage": "^0.2.3",
+        "@jest/test-result": "30.0.0-alpha.7",
+        "jest-message-util": "30.0.0-alpha.7",
+        "collect-v8-coverage": "^1.0.0",
+        "istanbul-lib-report": "^3.0.0",
+        "istanbul-lib-coverage": "^3.0.0",
+        "istanbul-lib-instrument": "^6.0.0",
+        "istanbul-lib-source-maps": "^5.0.0",
+        "@jridgewell/trace-mapping": "^0.3.18"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40jest%2Freporters",
+          "observedAt": "2026-11-16T10:34:35.736Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40jest%2Freporters",
+          "observedAt": "2026-11-16T10:34:35.736Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40jest%2Freporters",
+          "observedAt": "2026-11-16T10:34:35.736Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40jest%2Freporters",
+          "observedAt": "2026-11-16T10:34:35.736Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40jest%2Freporters",
+          "observedAt": "2026-11-16T10:34:35.736Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40jest%2Freporters",
+          "observedAt": "2026-11-16T10:34:35.736Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@jest/reporters",
+      "semver": "30.0.5",
+      "publishedAt": "2025-07-22T02:28:43.910Z",
+      "publisher": "cpojer",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 125257,
+      "dependencies": {
+        "glob": "^10.3.10",
+        "chalk": "^4.1.2",
+        "slash": "^3.0.0",
+        "exit-x": "^0.2.2",
+        "jest-util": "30.0.5",
+        "@jest/types": "30.0.5",
+        "@types/node": "*",
+        "graceful-fs": "^4.2.11",
+        "jest-worker": "30.0.5",
+        "@jest/console": "30.0.5",
+        "string-length": "^4.0.2",
+        "v8-to-istanbul": "^9.0.1",
+        "@jest/transform": "30.0.5",
+        "istanbul-reports": "^3.1.3",
+        "@bcoe/v8-coverage": "^0.2.3",
+        "@jest/test-result": "30.0.5",
+        "jest-message-util": "30.0.5",
+        "collect-v8-coverage": "^1.0.2",
+        "istanbul-lib-report": "^3.0.0",
+        "istanbul-lib-coverage": "^3.0.0",
+        "istanbul-lib-instrument": "^6.0.0",
+        "istanbul-lib-source-maps": "^5.0.0",
+        "@jridgewell/trace-mapping": "^0.3.25"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40jest%2Freporters",
+          "observedAt": "2026-11-16T10:34:35.736Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40jest%2Freporters",
+          "observedAt": "2026-11-16T10:34:35.736Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40jest%2Freporters",
+          "observedAt": "2026-11-16T10:34:35.736Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40jest%2Freporters",
+          "observedAt": "2026-11-16T10:34:35.736Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40jest%2Freporters",
+          "observedAt": "2026-11-16T10:34:35.736Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40jest%2Freporters",
+          "observedAt": "2026-11-16T10:34:35.736Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

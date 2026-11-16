@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@octokit/core",
+  "source": "https://registry.npmjs.org/%40octokit%2Fcore",
+  "fetchedAt": "2026-11-16T10:34:36.577Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 90
+  },
+  "sourceSha256": "200789370bb930011928f04b00b41af180094f23f67e6cf7dd6e9dac11e70317",
+  "versions": [
+    {
+      "pkg": "@octokit/core",
+      "semver": "5.2.2",
+      "publishedAt": "2025-07-11T00:26:25.656Z",
+      "publisher": "octokitbot",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 46808,
+      "dependencies": {
+        "@octokit/types": "^13.0.0",
+        "@octokit/graphql": "^7.1.0",
+        "@octokit/request": "^8.4.1",
+        "before-after-hook": "^2.2.0",
+        "@octokit/auth-token": "^4.0.0",
+        "universal-user-agent": "^6.0.0",
+        "@octokit/request-error": "^5.1.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40octokit%2Fcore",
+          "observedAt": "2026-11-16T10:34:36.577Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40octokit%2Fcore",
+          "observedAt": "2026-11-16T10:34:36.577Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40octokit%2Fcore",
+          "observedAt": "2026-11-16T10:34:36.577Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40octokit%2Fcore",
+          "observedAt": "2026-11-16T10:34:36.577Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40octokit%2Fcore",
+          "observedAt": "2026-11-16T10:34:36.577Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40octokit%2Fcore",
+          "observedAt": "2026-11-16T10:34:36.577Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

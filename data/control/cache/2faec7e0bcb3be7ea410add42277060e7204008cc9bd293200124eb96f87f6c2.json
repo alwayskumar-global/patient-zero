@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@babel/plugin-transform-optional-catch-binding",
+  "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-optional-catch-binding",
+  "fetchedAt": "2026-11-16T10:34:33.020Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 46
+  },
+  "sourceSha256": "2ffc3110c95bc332f89ac76b2a0e38737bddc4932da14803c760a63cd69344f8",
+  "versions": [
+    {
+      "pkg": "@babel/plugin-transform-optional-catch-binding",
+      "semver": "8.0.0-beta.1",
+      "publishedAt": "2025-07-02T09:04:16.402Z",
+      "publisher": "nicolo-ribaudo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 4833,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "^8.0.0-beta.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-optional-catch-binding",
+          "observedAt": "2026-11-16T10:34:33.020Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-optional-catch-binding",
+          "observedAt": "2026-11-16T10:34:33.020Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-optional-catch-binding",
+          "observedAt": "2026-11-16T10:34:33.020Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-optional-catch-binding",
+          "observedAt": "2026-11-16T10:34:33.020Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-optional-catch-binding",
+          "observedAt": "2026-11-16T10:34:33.020Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-optional-catch-binding",
+          "observedAt": "2026-11-16T10:34:33.020Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

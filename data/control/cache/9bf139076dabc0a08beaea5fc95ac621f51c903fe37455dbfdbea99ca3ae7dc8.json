@@ -1,0 +1,201 @@
+{
+  "schemaVersion": 1,
+  "pkg": "file-loader",
+  "source": "https://registry.npmjs.org/file-loader",
+  "fetchedAt": "2026-11-16T10:35:02.327Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 53
+  },
+  "sourceSha256": "cdbb23c436dac2f6800217a855add4f5c9f50645e9747c25d7bedb23990d6d33",
+  "versions": [
+    {
+      "pkg": "file-loader",
+      "semver": "0.6.0",
+      "publishedAt": "2013-03-25T23:17:42.822Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/file-loader",
+          "observedAt": "2026-11-16T10:35:02.327Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "file-loader",
+      "semver": "0.9.0",
+      "publishedAt": "2016-06-20T20:17:58.558Z",
+      "publisher": "sokra",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "loader-utils": "~0.2.5"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/file-loader",
+          "observedAt": "2026-11-16T10:35:02.327Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/file-loader",
+          "observedAt": "2026-11-16T10:35:02.327Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/file-loader",
+          "observedAt": "2026-11-16T10:35:02.327Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/file-loader",
+          "observedAt": "2026-11-16T10:35:02.327Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/file-loader",
+          "observedAt": "2026-11-16T10:35:02.327Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "file-loader",
+      "semver": "1.1.6",
+      "publishedAt": "2017-12-16T06:55:55.214Z",
+      "publisher": "d3viant0ne",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "loader-utils": "^1.0.2",
+        "schema-utils": "^0.3.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/file-loader",
+          "observedAt": "2026-11-16T10:35:02.327Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/file-loader",
+          "observedAt": "2026-11-16T10:35:02.327Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/file-loader",
+          "observedAt": "2026-11-16T10:35:02.327Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/file-loader",
+          "observedAt": "2026-11-16T10:35:02.327Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/file-loader",
+          "observedAt": "2026-11-16T10:35:02.327Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "file-loader",
+      "semver": "2.0.0",
+      "publishedAt": "2018-08-21T19:43:40.108Z",
+      "publisher": "michael-ciniawsky",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 22987,
+      "dependencies": {
+        "loader-utils": "^1.0.2",
+        "schema-utils": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/file-loader",
+          "observedAt": "2026-11-16T10:35:02.327Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/file-loader",
+          "observedAt": "2026-11-16T10:35:02.327Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/file-loader",
+          "observedAt": "2026-11-16T10:35:02.327Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/file-loader",
+          "observedAt": "2026-11-16T10:35:02.327Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/file-loader",
+          "observedAt": "2026-11-16T10:35:02.327Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/file-loader",
+          "observedAt": "2026-11-16T10:35:02.327Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "file-loader",
+      "semver": "6.2.0",
+      "publishedAt": "2020-10-27T17:10:43.883Z",
+      "publisher": "evilebottnawi",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 38130,
+      "dependencies": {
+        "loader-utils": "^2.0.0",
+        "schema-utils": "^3.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/file-loader",
+          "observedAt": "2026-11-16T10:35:02.327Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/file-loader",
+          "observedAt": "2026-11-16T10:35:02.327Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/file-loader",
+          "observedAt": "2026-11-16T10:35:02.327Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/file-loader",
+          "observedAt": "2026-11-16T10:35:02.327Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/file-loader",
+          "observedAt": "2026-11-16T10:35:02.327Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/file-loader",
+          "observedAt": "2026-11-16T10:35:02.327Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

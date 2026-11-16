@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "pkg": "binary-extensions",
+  "source": "https://registry.npmjs.org/binary-extensions",
+  "fetchedAt": "2026-11-16T10:34:56.753Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 27
+  },
+  "sourceSha256": "757bf97953c833e3cb465d27239dd2048f1f5cbe7b46d6e2a727cc0495953fdf",
+  "versions": [
+    {
+      "pkg": "binary-extensions",
+      "semver": "1.1.0",
+      "publishedAt": "2015-02-06T18:36:49.046Z",
+      "publisher": "es128",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/binary-extensions",
+          "observedAt": "2026-11-16T10:34:56.753Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/binary-extensions",
+          "observedAt": "2026-11-16T10:34:56.753Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/binary-extensions",
+          "observedAt": "2026-11-16T10:34:56.753Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/binary-extensions",
+          "observedAt": "2026-11-16T10:34:56.753Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/binary-extensions",
+          "observedAt": "2026-11-16T10:34:56.753Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "binary-extensions",
+      "semver": "3.1.0",
+      "publishedAt": "2025-05-04T07:29:38.752Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 5092,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/binary-extensions",
+          "observedAt": "2026-11-16T10:34:56.753Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/binary-extensions",
+          "observedAt": "2026-11-16T10:34:56.753Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/binary-extensions",
+          "observedAt": "2026-11-16T10:34:56.753Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/binary-extensions",
+          "observedAt": "2026-11-16T10:34:56.753Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/binary-extensions",
+          "observedAt": "2026-11-16T10:34:56.753Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/binary-extensions",
+          "observedAt": "2026-11-16T10:34:56.753Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

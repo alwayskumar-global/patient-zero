@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "trim-newlines",
+  "source": "https://registry.npmjs.org/trim-newlines",
+  "fetchedAt": "2026-11-16T10:35:29.857Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 10
+  },
+  "sourceSha256": "839d3ff4dbb4c27e9dad45ef454772e91b68e948105e472b54b724484923621c",
+  "versions": [
+    {
+      "pkg": "trim-newlines",
+      "semver": "5.0.0",
+      "publishedAt": "2023-03-20T17:36:52.010Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 4609,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/trim-newlines",
+          "observedAt": "2026-11-16T10:35:29.857Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/trim-newlines",
+          "observedAt": "2026-11-16T10:35:29.857Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/trim-newlines",
+          "observedAt": "2026-11-16T10:35:29.857Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/trim-newlines",
+          "observedAt": "2026-11-16T10:35:29.857Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/trim-newlines",
+          "observedAt": "2026-11-16T10:35:29.857Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/trim-newlines",
+          "observedAt": "2026-11-16T10:35:29.857Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

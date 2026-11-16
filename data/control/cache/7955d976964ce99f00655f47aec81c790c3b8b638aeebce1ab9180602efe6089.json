@@ -1,0 +1,393 @@
+{
+  "schemaVersion": 1,
+  "pkg": "zod",
+  "source": "https://registry.npmjs.org/zod",
+  "fetchedAt": "2026-11-16T10:35:35.483Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 1013
+  },
+  "sourceSha256": "e96328b2e5019efc4071ecf6d04b565bde83669a387130496c36770f2f051017",
+  "versions": [
+    {
+      "pkg": "zod",
+      "semver": "1.0.2",
+      "publishedAt": "2020-03-09T06:44:13.968Z",
+      "publisher": "hypermask",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 44142,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/zod",
+          "observedAt": "2026-11-16T10:35:35.483Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/zod",
+          "observedAt": "2026-11-16T10:35:35.483Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/zod",
+          "observedAt": "2026-11-16T10:35:35.483Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/zod",
+          "observedAt": "2026-11-16T10:35:35.483Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/zod",
+          "observedAt": "2026-11-16T10:35:35.483Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/zod",
+          "observedAt": "2026-11-16T10:35:35.483Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "zod",
+      "semver": "3.12.1",
+      "publishedAt": "2022-03-01T19:27:44.410Z",
+      "publisher": "vriad",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 549581,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/zod",
+          "observedAt": "2026-11-16T10:35:35.483Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/zod",
+          "observedAt": "2026-11-16T10:35:35.483Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/zod",
+          "observedAt": "2026-11-16T10:35:35.483Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/zod",
+          "observedAt": "2026-11-16T10:35:35.483Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/zod",
+          "observedAt": "2026-11-16T10:35:35.483Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/zod",
+          "observedAt": "2026-11-16T10:35:35.483Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "zod",
+      "semver": "3.24.0-canary.20241107T043915",
+      "publishedAt": "2024-11-07T04:39:19.853Z",
+      "publisher": "colinmcd94",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 675156,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/zod",
+          "observedAt": "2026-11-16T10:35:35.483Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/zod",
+          "observedAt": "2026-11-16T10:35:35.483Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/zod",
+          "observedAt": "2026-11-16T10:35:35.483Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/zod",
+          "observedAt": "2026-11-16T10:35:35.483Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/zod",
+          "observedAt": "2026-11-16T10:35:35.483Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/zod",
+          "observedAt": "2026-11-16T10:35:35.483Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "zod",
+      "semver": "4.0.15",
+      "publishedAt": "2025-08-06T00:01:48.485Z",
+      "publisher": "colinhacks",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 3710585,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/zod",
+          "observedAt": "2026-11-16T10:35:35.483Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/zod",
+          "observedAt": "2026-11-16T10:35:35.483Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/zod",
+          "observedAt": "2026-11-16T10:35:35.483Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/zod",
+          "observedAt": "2026-11-16T10:35:35.483Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/zod",
+          "observedAt": "2026-11-16T10:35:35.483Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/zod",
+          "observedAt": "2026-11-16T10:35:35.483Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "zod",
+      "semver": "4.1.0-canary.20250730T094657",
+      "publishedAt": "2025-07-30T09:47:01.158Z",
+      "publisher": "colinhacks",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 3708356,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/zod",
+          "observedAt": "2026-11-16T10:35:35.483Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/zod",
+          "observedAt": "2026-11-16T10:35:35.483Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/zod",
+          "observedAt": "2026-11-16T10:35:35.483Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/zod",
+          "observedAt": "2026-11-16T10:35:35.483Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/zod",
+          "observedAt": "2026-11-16T10:35:35.483Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/zod",
+          "observedAt": "2026-11-16T10:35:35.483Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "zod",
+      "semver": "4.1.0-canary.20250804T184136",
+      "publishedAt": "2025-08-04T18:41:40.865Z",
+      "publisher": "colinhacks",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 3710667,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/zod",
+          "observedAt": "2026-11-16T10:35:35.483Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/zod",
+          "observedAt": "2026-11-16T10:35:35.483Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/zod",
+          "observedAt": "2026-11-16T10:35:35.483Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/zod",
+          "observedAt": "2026-11-16T10:35:35.483Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/zod",
+          "observedAt": "2026-11-16T10:35:35.483Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/zod",
+          "observedAt": "2026-11-16T10:35:35.483Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "zod",
+      "semver": "4.1.0-canary.20250804T184334",
+      "publishedAt": "2025-08-04T18:43:38.397Z",
+      "publisher": "colinhacks",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 3710607,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/zod",
+          "observedAt": "2026-11-16T10:35:35.483Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/zod",
+          "observedAt": "2026-11-16T10:35:35.483Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/zod",
+          "observedAt": "2026-11-16T10:35:35.483Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/zod",
+          "observedAt": "2026-11-16T10:35:35.483Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/zod",
+          "observedAt": "2026-11-16T10:35:35.483Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/zod",
+          "observedAt": "2026-11-16T10:35:35.483Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "zod",
+      "semver": "4.1.0-canary.20250806T000520",
+      "publishedAt": "2025-08-06T00:05:24.054Z",
+      "publisher": "colinhacks",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 3711098,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/zod",
+          "observedAt": "2026-11-16T10:35:35.483Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/zod",
+          "observedAt": "2026-11-16T10:35:35.483Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/zod",
+          "observedAt": "2026-11-16T10:35:35.483Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/zod",
+          "observedAt": "2026-11-16T10:35:35.483Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/zod",
+          "observedAt": "2026-11-16T10:35:35.483Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/zod",
+          "observedAt": "2026-11-16T10:35:35.483Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "zod",
+      "semver": "4.1.0-canary.20250806T002637",
+      "publishedAt": "2025-08-06T00:26:41.567Z",
+      "publisher": "colinhacks",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 3711955,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/zod",
+          "observedAt": "2026-11-16T10:35:35.483Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/zod",
+          "observedAt": "2026-11-16T10:35:35.483Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/zod",
+          "observedAt": "2026-11-16T10:35:35.483Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/zod",
+          "observedAt": "2026-11-16T10:35:35.483Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/zod",
+          "observedAt": "2026-11-16T10:35:35.483Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/zod",
+          "observedAt": "2026-11-16T10:35:35.483Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

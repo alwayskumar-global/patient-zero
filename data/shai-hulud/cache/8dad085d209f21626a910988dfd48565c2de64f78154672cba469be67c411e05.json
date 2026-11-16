@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "pkg": "mstate-dev-react",
+  "source": "https://registry.npmjs.org/mstate-dev-react",
+  "fetchedAt": "2026-11-16T10:32:24.097Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 3
+  },
+  "sourceSha256": "e0aa61595d7c67bf7d9560ff9028c5d943ca7f66829b7f3805419d4863420b44",
+  "versions": [
+    {
+      "pkg": "mstate-dev-react",
+      "semver": "1.1.0",
+      "publishedAt": "2025-01-31T06:55:20.017Z",
+      "publisher": "mohit_ahirwal",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 28870,
+      "dependencies": {
+        "axios": "^1.7.7",
+        "react": "^18.3.1",
+        "react-dom": "^18.3.1",
+        "@svgr/rollup": "^8.1.0",
+        "@mui/material": "^6.1.5",
+        "@emotion/react": "^11.13.3",
+        "@emotion/styled": "^11.13.0",
+        "react-hook-form": "^7.53.1",
+        "rollup-plugin-dts": "^6.1.1",
+        "@rollup/plugin-url": "^8.0.2",
+        "rollup-plugin-postcss": "^4.0.2",
+        "@rollup/plugin-typescript": "^11.1.6"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/mstate-dev-react",
+          "observedAt": "2026-11-16T10:32:24.097Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/mstate-dev-react",
+          "observedAt": "2026-11-16T10:32:24.097Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/mstate-dev-react",
+          "observedAt": "2026-11-16T10:32:24.097Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/mstate-dev-react",
+          "observedAt": "2026-11-16T10:32:24.097Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/mstate-dev-react",
+          "observedAt": "2026-11-16T10:32:24.097Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/mstate-dev-react",
+          "observedAt": "2026-11-16T10:32:24.097Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "mstate-dev-react",
+      "semver": "1.1.1",
+      "publishedAt": "2025-09-15T08:21:38.198Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/mstate-dev-react",
+          "observedAt": "2026-11-16T10:32:24.097Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@babel/plugin-transform-parameters",
+  "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-parameters",
+  "fetchedAt": "2026-11-16T10:34:33.073Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 121
+  },
+  "sourceSha256": "6f872433146cec251ad9ab326a0508f8836b5915841487930e1e159153e0fefc",
+  "versions": [
+    {
+      "pkg": "@babel/plugin-transform-parameters",
+      "semver": "7.0.0-beta.49",
+      "publishedAt": "2018-05-25T16:05:02.971Z",
+      "publisher": "loganfsmyth",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 15956,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "7.0.0-beta.49",
+        "@babel/helper-call-delegate": "7.0.0-beta.49",
+        "@babel/helper-get-function-arity": "7.0.0-beta.49"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-parameters",
+          "observedAt": "2026-11-16T10:34:33.073Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-parameters",
+          "observedAt": "2026-11-16T10:34:33.073Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-parameters",
+          "observedAt": "2026-11-16T10:34:33.073Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-parameters",
+          "observedAt": "2026-11-16T10:34:33.073Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-parameters",
+          "observedAt": "2026-11-16T10:34:33.073Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-parameters",
+          "observedAt": "2026-11-16T10:34:33.073Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/plugin-transform-parameters",
+      "semver": "7.1.0",
+      "publishedAt": "2018-09-17T19:31:29.457Z",
+      "publisher": "hzoo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 15767,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "^7.0.0",
+        "@babel/helper-call-delegate": "^7.1.0",
+        "@babel/helper-get-function-arity": "^7.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-parameters",
+          "observedAt": "2026-11-16T10:34:33.073Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-parameters",
+          "observedAt": "2026-11-16T10:34:33.073Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-parameters",
+          "observedAt": "2026-11-16T10:34:33.073Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-parameters",
+          "observedAt": "2026-11-16T10:34:33.073Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-parameters",
+          "observedAt": "2026-11-16T10:34:33.073Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-parameters",
+          "observedAt": "2026-11-16T10:34:33.073Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/plugin-transform-parameters",
+      "semver": "7.10.5",
+      "publishedAt": "2020-07-14T18:17:48.291Z",
+      "publisher": "jlhwung",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 17718,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "^7.10.4",
+        "@babel/helper-get-function-arity": "^7.10.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-parameters",
+          "observedAt": "2026-11-16T10:34:33.073Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-parameters",
+          "observedAt": "2026-11-16T10:34:33.073Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-parameters",
+          "observedAt": "2026-11-16T10:34:33.073Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-parameters",
+          "observedAt": "2026-11-16T10:34:33.073Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-parameters",
+          "observedAt": "2026-11-16T10:34:33.073Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-parameters",
+          "observedAt": "2026-11-16T10:34:33.073Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/plugin-transform-parameters",
+      "semver": "8.0.0-beta.1",
+      "publishedAt": "2025-07-02T09:04:17.002Z",
+      "publisher": "nicolo-ribaudo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 65136,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "^8.0.0-beta.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-parameters",
+          "observedAt": "2026-11-16T10:34:33.073Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-parameters",
+          "observedAt": "2026-11-16T10:34:33.073Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-parameters",
+          "observedAt": "2026-11-16T10:34:33.073Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-parameters",
+          "observedAt": "2026-11-16T10:34:33.073Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-parameters",
+          "observedAt": "2026-11-16T10:34:33.073Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-parameters",
+          "observedAt": "2026-11-16T10:34:33.073Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

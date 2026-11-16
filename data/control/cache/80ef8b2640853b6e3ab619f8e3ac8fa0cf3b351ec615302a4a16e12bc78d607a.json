@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@types/d3-interpolate",
+  "source": "https://registry.npmjs.org/%40types%2Fd3-interpolate",
+  "fetchedAt": "2026-11-16T10:34:44.102Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 26
+  },
+  "sourceSha256": "2494862aeea9aac4aab431dda540417240bdd9fedaa0e549c6c88f1d42d93bc4",
+  "versions": [
+    {
+      "pkg": "@types/d3-interpolate",
+      "semver": "1.4.5",
+      "publishedAt": "2023-11-07T19:55:45.709Z",
+      "publisher": "types",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 22532,
+      "dependencies": {
+        "@types/d3-color": "^1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40types%2Fd3-interpolate",
+          "observedAt": "2026-11-16T10:34:44.102Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40types%2Fd3-interpolate",
+          "observedAt": "2026-11-16T10:34:44.102Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40types%2Fd3-interpolate",
+          "observedAt": "2026-11-16T10:34:44.102Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40types%2Fd3-interpolate",
+          "observedAt": "2026-11-16T10:34:44.102Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40types%2Fd3-interpolate",
+          "observedAt": "2026-11-16T10:34:44.102Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40types%2Fd3-interpolate",
+          "observedAt": "2026-11-16T10:34:44.102Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

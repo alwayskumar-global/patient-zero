@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "pkg": "path-browserify",
+  "source": "https://registry.npmjs.org/path-browserify",
+  "fetchedAt": "2026-11-16T10:35:17.273Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 4
+  },
+  "sourceSha256": "68582ac4fca3c88531ec572d04e63765b5bfb6f4886ab89aa54cd1272b9959a6",
+  "versions": [
+    {
+      "pkg": "path-browserify",
+      "semver": "0.0.0",
+      "publishedAt": "2013-12-03T19:48:37.866Z",
+      "publisher": "substack",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/path-browserify",
+          "observedAt": "2026-11-16T10:35:17.273Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/path-browserify",
+          "observedAt": "2026-11-16T10:35:17.273Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/path-browserify",
+          "observedAt": "2026-11-16T10:35:17.273Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/path-browserify",
+          "observedAt": "2026-11-16T10:35:17.273Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/path-browserify",
+          "observedAt": "2026-11-16T10:35:17.273Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "path-browserify",
+      "semver": "1.0.1",
+      "publishedAt": "2020-03-03T16:52:38.480Z",
+      "publisher": "goto-bus-stop",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 54293,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/path-browserify",
+          "observedAt": "2026-11-16T10:35:17.273Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/path-browserify",
+          "observedAt": "2026-11-16T10:35:17.273Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/path-browserify",
+          "observedAt": "2026-11-16T10:35:17.273Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/path-browserify",
+          "observedAt": "2026-11-16T10:35:17.273Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/path-browserify",
+          "observedAt": "2026-11-16T10:35:17.273Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/path-browserify",
+          "observedAt": "2026-11-16T10:35:17.273Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

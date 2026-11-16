@@ -1,0 +1,1180 @@
+{
+  "schemaVersion": 1,
+  "pkg": "next",
+  "source": "https://registry.npmjs.org/next",
+  "fetchedAt": "2026-11-16T10:35:14.506Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 4037
+  },
+  "sourceSha256": "5f326e2de90cf81833c1dd00bf93d640a48828bfdb0b90de11798b3bf9823f26",
+  "versions": [
+    {
+      "pkg": "next",
+      "semver": "0.2.3",
+      "publishedAt": "2011-08-12T11:25:14.932Z",
+      "publisher": null,
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "es5-ext": "0.6.x",
+        "deferred": "0.2.x"
+      },
+      "evidence": {
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "next",
+      "semver": "0.4.1",
+      "publishedAt": "2016-02-23T15:59:11.057Z",
+      "publisher": "medikoo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "es5-ext": "~0.10.11",
+        "deferred": "~0.7.5",
+        "memoizee": "~0.3.9"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "next",
+      "semver": "11.1.3-canary.7",
+      "publishedAt": "2021-09-02T23:18:21.562Z",
+      "publisher": "zeit-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 29056538,
+      "dependencies": {
+        "etag": "1.8.1",
+        "util": "0.12.4",
+        "chalk": "2.4.2",
+        "assert": "2.0.0",
+        "buffer": "5.6.0",
+        "p-limit": "3.1.0",
+        "postcss": "8.2.15",
+        "process": "0.11.10",
+        "chokidar": "3.5.1",
+        "encoding": "0.1.13",
+        "raw-body": "2.4.1",
+        "react-is": "17.0.2",
+        "@next/env": "11.1.3-canary.7",
+        "ast-types": "0.13.2",
+        "watchpack": "2.1.1",
+        "image-size": "1.0.0",
+        "native-url": "0.3.4",
+        "node-fetch": "2.6.1",
+        "styled-jsx": "4.0.1",
+        "jest-worker": "27.0.0-next.5",
+        "stream-http": "3.1.1",
+        "@hapi/accept": "5.0.2",
+        "browserslist": "4.16.6",
+        "caniuse-lite": "^1.0.30001228",
+        "os-browserify": "0.3.0",
+        "react-refresh": "0.8.3",
+        "vm-browserify": "1.1.2",
+        "@babel/runtime": "7.15.3",
+        "cssnano-simple": "3.0.0",
+        "domain-browser": "4.19.0",
+        "find-cache-dir": "3.3.1",
+        "string_decoder": "1.3.0",
+        "tty-browserify": "0.0.1",
+        "@node-rs/helper": "1.2.1",
+        "browserify-zlib": "0.2.0",
+        "get-orientation": "1.1.2",
+        "path-browserify": "1.0.1",
+        "querystring-es3": "0.2.1",
+        "https-browserify": "1.0.0",
+        "node-html-parser": "1.4.9",
+        "use-subscription": "1.5.1",
+        "crypto-browserify": "3.12.0",
+        "node-libs-browser": "^2.2.1",
+        "stream-browserify": "3.0.0",
+        "timers-browserify": "2.0.12",
+        "pnp-webpack-plugin": "1.6.4",
+        "@next/swc-darwin-x64": "11.1.3-canary.7",
+        "constants-browserify": "1.0.0",
+        "@next/polyfill-module": "11.1.3-canary.7",
+        "@next/swc-darwin-arm64": "11.1.3-canary.7",
+        "@next/react-dev-overlay": "11.1.3-canary.7",
+        "@next/swc-linux-x64-gnu": "11.1.3-canary.7",
+        "@next/swc-win32-x64-msvc": "11.1.3-canary.7",
+        "@next/react-refresh-utils": "11.1.3-canary.7"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "next",
+      "semver": "15.4.2-canary.24",
+      "publishedAt": "2025-07-31T10:46:10.390Z",
+      "publisher": "vercel-release-bot",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 135821725,
+      "dependencies": {
+        "postcss": "8.4.31",
+        "@next/env": "15.4.2-canary.24",
+        "styled-jsx": "5.1.6",
+        "@swc/helpers": "0.5.15",
+        "caniuse-lite": "^1.0.30001579"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "next",
+      "semver": "15.4.2-canary.25",
+      "publishedAt": "2025-07-31T23:32:35.626Z",
+      "publisher": "vercel-release-bot",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 136496220,
+      "dependencies": {
+        "postcss": "8.4.31",
+        "@next/env": "15.4.2-canary.25",
+        "styled-jsx": "5.1.6",
+        "@swc/helpers": "0.5.15",
+        "caniuse-lite": "^1.0.30001579"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "next",
+      "semver": "15.4.2-canary.26",
+      "publishedAt": "2025-08-01T09:53:19.975Z",
+      "publisher": "vercel-release-bot",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 136499298,
+      "dependencies": {
+        "postcss": "8.4.31",
+        "@next/env": "15.4.2-canary.26",
+        "styled-jsx": "5.1.6",
+        "@swc/helpers": "0.5.15",
+        "caniuse-lite": "^1.0.30001579"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "next",
+      "semver": "15.4.2-canary.27",
+      "publishedAt": "2025-08-01T23:32:16.567Z",
+      "publisher": "vercel-release-bot",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 136520423,
+      "dependencies": {
+        "postcss": "8.4.31",
+        "@next/env": "15.4.2-canary.27",
+        "styled-jsx": "5.1.6",
+        "@swc/helpers": "0.5.15",
+        "caniuse-lite": "^1.0.30001579"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "next",
+      "semver": "15.4.2-canary.28",
+      "publishedAt": "2025-08-02T23:33:20.298Z",
+      "publisher": "vercel-release-bot",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 136744498,
+      "dependencies": {
+        "postcss": "8.4.31",
+        "@next/env": "15.4.2-canary.28",
+        "styled-jsx": "5.1.6",
+        "@swc/helpers": "0.5.15",
+        "caniuse-lite": "^1.0.30001579"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "next",
+      "semver": "15.4.2-canary.29",
+      "publishedAt": "2025-08-03T23:32:32.453Z",
+      "publisher": "vercel-release-bot",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 136761827,
+      "dependencies": {
+        "postcss": "8.4.31",
+        "@next/env": "15.4.2-canary.29",
+        "styled-jsx": "5.1.6",
+        "@swc/helpers": "0.5.15",
+        "caniuse-lite": "^1.0.30001579"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "next",
+      "semver": "15.4.2-canary.30",
+      "publishedAt": "2025-08-04T23:40:55.927Z",
+      "publisher": "vercel-release-bot",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 136812092,
+      "dependencies": {
+        "postcss": "8.4.31",
+        "@next/env": "15.4.2-canary.30",
+        "styled-jsx": "5.1.6",
+        "@swc/helpers": "0.5.15",
+        "caniuse-lite": "^1.0.30001579"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "next",
+      "semver": "15.4.2-canary.31",
+      "publishedAt": "2025-08-05T23:36:46.299Z",
+      "publisher": "vercel-release-bot",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 136855954,
+      "dependencies": {
+        "postcss": "8.4.31",
+        "@next/env": "15.4.2-canary.31",
+        "styled-jsx": "5.1.6",
+        "@swc/helpers": "0.5.15",
+        "caniuse-lite": "^1.0.30001579"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "next",
+      "semver": "15.4.2-canary.32",
+      "publishedAt": "2025-08-06T23:35:37.333Z",
+      "publisher": "vercel-release-bot",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 136886571,
+      "dependencies": {
+        "postcss": "8.4.31",
+        "@next/env": "15.4.2-canary.32",
+        "styled-jsx": "5.1.6",
+        "@swc/helpers": "0.5.15",
+        "caniuse-lite": "^1.0.30001579"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "next",
+      "semver": "15.4.2-canary.33",
+      "publishedAt": "2025-08-07T23:36:01.043Z",
+      "publisher": "vercel-release-bot",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 136916411,
+      "dependencies": {
+        "postcss": "8.4.31",
+        "@next/env": "15.4.2-canary.33",
+        "styled-jsx": "5.1.6",
+        "@swc/helpers": "0.5.15",
+        "caniuse-lite": "^1.0.30001579"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "next",
+      "semver": "15.4.6",
+      "publishedAt": "2025-08-06T19:20:52.790Z",
+      "publisher": "vercel-release-bot",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 134077872,
+      "dependencies": {
+        "postcss": "8.4.31",
+        "@next/env": "15.4.6",
+        "styled-jsx": "5.1.6",
+        "@swc/helpers": "0.5.15",
+        "caniuse-lite": "^1.0.30001579"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "next",
+      "semver": "2.0.0-beta.25",
+      "publishedAt": "2017-02-13T17:34:28.457Z",
+      "publisher": "nkzawa",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "mz": "2.6.0",
+        "del": "2.2.2",
+        "url": "0.11.0",
+        "send": "0.14.1",
+        "uuid": "3.0.1",
+        "glamor": "2.20.22",
+        "pkg-up": "1.0.0",
+        "accepts": "1.3.3",
+        "webpack": "2.2.1",
+        "minimist": "1.2.0",
+        "ansi-html": "0.0.7",
+        "babel-core": "6.22.1",
+        "htmlescape": "1.1.1",
+        "mime-types": "2.1.14",
+        "path-match": "1.2.4",
+        "strip-ansi": "3.0.1",
+        "styled-jsx": "0.5.4",
+        "cross-spawn": "5.0.1",
+        "json-loader": "0.5.4",
+        "mkdirp-then": "1.2.0",
+        "babel-loader": "6.2.10",
+        "glob-promise": "3.1.0",
+        "loader-utils": "0.2.16",
+        "babel-runtime": "6.22.0",
+        "babel-generator": "6.22.0",
+        "is-windows-bash": "1.0.3",
+        "react-hot-loader": "3.0.0-beta.6",
+        "babel-preset-react": "6.22.0",
+        "source-map-support": "0.4.11",
+        "babel-preset-latest": "6.22.0",
+        "webpack-dev-middleware": "1.10.0",
+        "webpack-hot-middleware": "2.16.1",
+        "write-file-webpack-plugin": "3.4.2",
+        "babel-plugin-react-require": "^3.0.0",
+        "babel-plugin-module-resolver": "2.5.0",
+        "babel-plugin-transform-runtime": "6.22.0",
+        "friendly-errors-webpack-plugin": "1.1.3",
+        "case-sensitive-paths-webpack-plugin": "1.1.4",
+        "babel-plugin-transform-class-properties": "6.22.0",
+        "babel-plugin-transform-object-rest-spread": "6.22.0",
+        "babel-plugin-transform-es2015-modules-commonjs": "6.22.0",
+        "babel-plugin-transform-react-constant-elements": "^6.22.0",
+        "babel-plugin-transform-react-remove-prop-types": "^0.3.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "next",
+      "semver": "3.2.3",
+      "publishedAt": "2018-01-24T20:37:26.763Z",
+      "publisher": "arunoda",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "mv": "2.1.1",
+        "mz": "2.6.0",
+        "del": "3.0.0",
+        "url": "0.11.0",
+        "etag": "1.8.0",
+        "glob": "7.1.1",
+        "send": "^0.15.3",
+        "uuid": "3.1.0",
+        "walk": "^2.3.9",
+        "fresh": "0.5.0",
+        "touch": "3.1.0",
+        "pkg-up": "2.0.0",
+        "unfetch": "3.0.0",
+        "webpack": "3.3.0",
+        "md5-file": "3.1.1",
+        "minimist": "1.2.0",
+        "ansi-html": "0.0.7",
+        "babel-core": "6.25.0",
+        "htmlescape": "1.1.1",
+        "path-match": "1.2.4",
+        "prop-types": "15.5.10",
+        "strip-ansi": "3.0.1",
+        "styled-jsx": "^1.0.8",
+        "cross-spawn": "5.1.0",
+        "http-status": "1.0.1",
+        "json-loader": "0.5.4",
+        "mkdirp-then": "1.2.0",
+        "xss-filters": "1.2.7",
+        "babel-loader": "7.1.1",
+        "glob-promise": "3.1.0",
+        "loader-utils": "1.1.0",
+        "babel-runtime": "6.23.0",
+        "babel-template": "6.25.0",
+        "recursive-copy": "^2.0.6",
+        "babel-generator": "6.25.0",
+        "babel-preset-env": "1.6.0",
+        "prop-types-exact": "^1.1.1",
+        "react-hot-loader": "3.0.0-beta.7",
+        "babel-preset-react": "6.24.1",
+        "source-map-support": "0.4.15",
+        "webpack-dev-middleware": "1.11.0",
+        "webpack-hot-middleware": "2.18.2",
+        "hoist-non-react-statics": "^2.2.2",
+        "write-file-webpack-plugin": "4.1.0",
+        "babel-plugin-react-require": "3.0.0",
+        "babel-plugin-module-resolver": "2.6.2",
+        "babel-plugin-transform-runtime": "6.22.0",
+        "friendly-errors-webpack-plugin": "1.5.0",
+        "babel-plugin-syntax-dynamic-import": "6.18.0",
+        "case-sensitive-paths-webpack-plugin": "2.1.1",
+        "babel-plugin-transform-class-properties": "6.24.1",
+        "babel-plugin-transform-react-jsx-source": "6.22.0",
+        "babel-plugin-transform-object-rest-spread": "6.22.0",
+        "babel-plugin-transform-es2015-modules-commonjs": "6.24.1",
+        "babel-plugin-transform-react-remove-prop-types": "0.4.5"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "next",
+      "semver": "4.0.5",
+      "publishedAt": "2017-10-15T21:49:40.531Z",
+      "publisher": "rauchg",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "mv": "2.1.1",
+        "mz": "2.7.0",
+        "del": "3.0.0",
+        "url": "0.11.0",
+        "etag": "1.8.1",
+        "glob": "7.1.2",
+        "send": "0.16.1",
+        "uuid": "3.1.0",
+        "walk": "2.3.9",
+        "fresh": "0.5.2",
+        "touch": "3.1.0",
+        "pkg-up": "2.0.0",
+        "unfetch": "3.0.0",
+        "webpack": "3.6.0",
+        "md5-file": "3.2.3",
+        "minimist": "1.2.0",
+        "ansi-html": "0.0.7",
+        "babel-core": "6.26.0",
+        "htmlescape": "1.1.1",
+        "path-match": "1.2.4",
+        "prop-types": "15.6.0",
+        "strip-ansi": "4.0.0",
+        "styled-jsx": "2.1.1",
+        "cross-spawn": "5.1.0",
+        "http-status": "1.0.1",
+        "json-loader": "0.5.7",
+        "mkdirp-then": "1.2.0",
+        "xss-filters": "1.2.7",
+        "babel-loader": "7.1.2",
+        "glob-promise": "3.2.0",
+        "loader-utils": "1.1.0",
+        "babel-runtime": "6.26.0",
+        "babel-template": "6.26.0",
+        "recursive-copy": "2.0.6",
+        "babel-generator": "6.26.0",
+        "babel-preset-env": "1.6.0",
+        "prop-types-exact": "1.1.1",
+        "react-hot-loader": "^3.0.0",
+        "babel-preset-react": "6.24.1",
+        "source-map-support": "0.4.18",
+        "webpack-dev-middleware": "1.12.0",
+        "webpack-hot-middleware": "2.19.1",
+        "hoist-non-react-statics": "2.3.1",
+        "write-file-webpack-plugin": "4.2.0",
+        "babel-plugin-react-require": "3.0.0",
+        "babel-plugin-module-resolver": "2.7.1",
+        "babel-plugin-transform-runtime": "6.23.0",
+        "friendly-errors-webpack-plugin": "1.6.1",
+        "babel-plugin-syntax-dynamic-import": "6.18.0",
+        "case-sensitive-paths-webpack-plugin": "2.1.1",
+        "babel-plugin-transform-class-properties": "6.24.1",
+        "babel-plugin-transform-react-jsx-source": "6.22.0",
+        "babel-plugin-transform-object-rest-spread": "6.26.0",
+        "babel-plugin-transform-es2015-modules-commonjs": "6.26.0",
+        "babel-plugin-transform-react-remove-prop-types": "0.4.8"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "next",
+      "semver": "7.0.2-canary.49",
+      "publishedAt": "2018-12-17T18:47:59.272Z",
+      "publisher": "leo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 264118,
+      "dependencies": {
+        "ws": "6.1.2",
+        "arg": "3.0.0",
+        "del": "3.0.0",
+        "url": "0.11.0",
+        "glob": "7.1.2",
+        "fresh": "0.5.2",
+        "nanoid": "1.2.1",
+        "find-up": "2.1.0",
+        "resolve": "1.5.0",
+        "unfetch": "3.0.0",
+        "webpack": "4.26.0",
+        "react-is": "16.6.3",
+        "ansi-html": "0.0.7",
+        "async-sema": "^2.1.4",
+        "babel-core": "7.0.0-bridge.0",
+        "htmlescape": "1.1.1",
+        "prop-types": "15.6.2",
+        "strip-ansi": "3.0.1",
+        "styled-jsx": "3.1.1",
+        "webpackbar": "2.6.3",
+        "@babel/core": "7.1.2",
+        "cross-spawn": "5.1.0",
+        "http-status": "1.0.1",
+        "mkdirp-then": "1.2.0",
+        "next-server": "^7.0.2-canary.49",
+        "babel-loader": "8.0.2",
+        "loader-utils": "1.1.0",
+        "launch-editor": "2.2.1",
+        "@babel/runtime": "7.1.2",
+        "recursive-copy": "2.0.6",
+        "@babel/template": "7.1.2",
+        "webpack-sources": "1.2.0",
+        "prop-types-exact": "1.2.0",
+        "@babel/preset-env": "7.1.0",
+        "tty-aware-progress": "1.0.3",
+        "@babel/preset-react": "7.0.0",
+        "react-error-overlay": "4.0.0",
+        "event-source-polyfill": "0.0.12",
+        "terser-webpack-plugin": "1.1.0",
+        "@babel/runtime-corejs2": "7.1.2",
+        "autodll-webpack-plugin": "0.4.2",
+        "webpack-dev-middleware": "3.4.0",
+        "webpack-hot-middleware": "2.22.3",
+        "hoist-non-react-statics": "3.2.0",
+        "babel-plugin-react-require": "3.0.0",
+        "friendly-errors-webpack-plugin": "1.7.0",
+        "@babel/plugin-transform-runtime": "7.1.0",
+        "@babel/plugin-syntax-dynamic-import": "7.0.0",
+        "case-sensitive-paths-webpack-plugin": "2.1.2",
+        "@babel/plugin-proposal-class-properties": "7.1.0",
+        "@babel/plugin-transform-modules-commonjs": "7.1.0",
+        "@babel/plugin-proposal-object-rest-spread": "7.0.0",
+        "babel-plugin-transform-react-remove-prop-types": "0.4.15"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "next",
+      "semver": "7.0.3",
+      "publishedAt": "2019-02-10T04:54:12.048Z",
+      "publisher": "timneutkens",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 485004,
+      "dependencies": {
+        "del": "3.0.0",
+        "url": "0.11.0",
+        "etag": "1.8.1",
+        "glob": "7.1.2",
+        "send": "0.16.1",
+        "fresh": "0.5.2",
+        "nanoid": "1.2.1",
+        "terser": "3.16.1",
+        "cacache": "^11.0.2",
+        "find-up": "2.1.0",
+        "resolve": "1.5.0",
+        "unfetch": "3.0.0",
+        "webpack": "4.20.2",
+        "minimist": "1.2.0",
+        "ansi-html": "0.0.7",
+        "babel-core": "7.0.0-bridge.0",
+        "htmlescape": "1.1.1",
+        "prop-types": "15.6.2",
+        "source-map": "0.5.7",
+        "strip-ansi": "3.0.1",
+        "styled-jsx": "3.1.0",
+        "webpackbar": "2.6.3",
+        "@babel/core": "7.0.0",
+        "cross-spawn": "5.1.0",
+        "http-errors": "1.6.2",
+        "http-status": "1.0.1",
+        "mkdirp-then": "1.2.0",
+        "worker-farm": "1.5.2",
+        "babel-loader": "8.0.2",
+        "loader-utils": "1.1.0",
+        "schema-utils": "1.0.0",
+        "launch-editor": "2.2.1",
+        "@babel/runtime": "7.0.0",
+        "find-cache-dir": "2.0.0",
+        "path-to-regexp": "2.1.0",
+        "recursive-copy": "2.0.6",
+        "@babel/template": "7.0.0",
+        "webpack-sources": "1.2.0",
+        "prop-types-exact": "1.2.0",
+        "@babel/preset-env": "7.0.0",
+        "@babel/preset-react": "7.0.0",
+        "react-error-overlay": "4.0.0",
+        "serialize-javascript": "1.4.0",
+        "event-source-polyfill": "0.0.12",
+        "@babel/runtime-corejs2": "7.0.0",
+        "autodll-webpack-plugin": "0.4.2",
+        "webpack-dev-middleware": "3.4.0",
+        "webpack-hot-middleware": "2.22.3",
+        "hoist-non-react-statics": "2.5.5",
+        "write-file-webpack-plugin": "4.3.2",
+        "babel-plugin-react-require": "3.0.0",
+        "friendly-errors-webpack-plugin": "1.7.0",
+        "@babel/plugin-transform-runtime": "7.0.0",
+        "@babel/plugin-syntax-dynamic-import": "7.0.0",
+        "case-sensitive-paths-webpack-plugin": "2.1.2",
+        "@babel/plugin-proposal-class-properties": "7.0.0",
+        "@babel/plugin-proposal-object-rest-spread": "7.0.0",
+        "babel-plugin-transform-react-remove-prop-types": "0.4.15"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/next",
+          "observedAt": "2026-11-16T10:35:14.506Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

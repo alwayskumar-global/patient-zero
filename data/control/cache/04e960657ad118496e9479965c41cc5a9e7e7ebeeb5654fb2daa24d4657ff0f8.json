@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "pkg": "postcss",
+  "source": "https://registry.npmjs.org/postcss",
+  "fetchedAt": "2026-11-16T10:35:19.468Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 298
+  },
+  "sourceSha256": "21d47bcd4a91be86113ca81e55c18b072f8e7df74dbf635b6f87a7b5030f4206",
+  "versions": [
+    {
+      "pkg": "postcss",
+      "semver": "1.1.0",
+      "publishedAt": "2014-07-21T17:35:24.381Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/postcss",
+          "observedAt": "2026-11-16T10:35:19.468Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "postcss",
+      "semver": "5.0.8",
+      "publishedAt": "2015-09-25T11:16:28.705Z",
+      "publisher": "beneb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "js-base64": "^2.1.9",
+        "source-map": "^0.5.0",
+        "supports-color": "^3.1.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/postcss",
+          "observedAt": "2026-11-16T10:35:19.468Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/postcss",
+          "observedAt": "2026-11-16T10:35:19.468Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/postcss",
+          "observedAt": "2026-11-16T10:35:19.468Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/postcss",
+          "observedAt": "2026-11-16T10:35:19.468Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/postcss",
+          "observedAt": "2026-11-16T10:35:19.468Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "postcss",
+      "semver": "8.5.6",
+      "publishedAt": "2025-06-16T13:58:02.262Z",
+      "publisher": "ai",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 204337,
+      "dependencies": {
+        "nanoid": "^3.3.11",
+        "picocolors": "^1.1.1",
+        "source-map-js": "^1.2.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/postcss",
+          "observedAt": "2026-11-16T10:35:19.468Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/postcss",
+          "observedAt": "2026-11-16T10:35:19.468Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/postcss",
+          "observedAt": "2026-11-16T10:35:19.468Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/postcss",
+          "observedAt": "2026-11-16T10:35:19.468Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/postcss",
+          "observedAt": "2026-11-16T10:35:19.468Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/postcss",
+          "observedAt": "2026-11-16T10:35:19.468Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

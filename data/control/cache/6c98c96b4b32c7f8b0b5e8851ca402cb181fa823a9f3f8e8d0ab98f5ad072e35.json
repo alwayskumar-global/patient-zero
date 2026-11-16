@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "pkg": "node-abi",
+  "source": "https://registry.npmjs.org/node-abi",
+  "fetchedAt": "2026-11-16T10:35:14.888Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 185
+  },
+  "sourceSha256": "2a49e5edb0b48397c9406e5f79fd3793e7339a82cef536bf786a005c7c713966",
+  "versions": [
+    {
+      "pkg": "node-abi",
+      "semver": "2.30.0",
+      "publishedAt": "2021-05-25T21:27:05.710Z",
+      "publisher": "lgeiger",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 28092,
+      "dependencies": {
+        "semver": "^5.4.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/node-abi",
+          "observedAt": "2026-11-16T10:35:14.888Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/node-abi",
+          "observedAt": "2026-11-16T10:35:14.888Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/node-abi",
+          "observedAt": "2026-11-16T10:35:14.888Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/node-abi",
+          "observedAt": "2026-11-16T10:35:14.888Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/node-abi",
+          "observedAt": "2026-11-16T10:35:14.888Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/node-abi",
+          "observedAt": "2026-11-16T10:35:14.888Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "node-abi",
+      "semver": "2.30.1",
+      "publishedAt": "2021-08-31T19:46:23.147Z",
+      "publisher": "marshallofsound",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 28796,
+      "dependencies": {
+        "semver": "^5.4.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/node-abi",
+          "observedAt": "2026-11-16T10:35:14.888Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/node-abi",
+          "observedAt": "2026-11-16T10:35:14.888Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/node-abi",
+          "observedAt": "2026-11-16T10:35:14.888Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/node-abi",
+          "observedAt": "2026-11-16T10:35:14.888Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/node-abi",
+          "observedAt": "2026-11-16T10:35:14.888Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/node-abi",
+          "observedAt": "2026-11-16T10:35:14.888Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "node-abi",
+      "semver": "4.12.0",
+      "publishedAt": "2025-06-30T17:51:29.627Z",
+      "publisher": "electron-cfa",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 17109,
+      "dependencies": {
+        "semver": "^7.6.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/node-abi",
+          "observedAt": "2026-11-16T10:35:14.888Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/node-abi",
+          "observedAt": "2026-11-16T10:35:14.888Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/node-abi",
+          "observedAt": "2026-11-16T10:35:14.888Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/node-abi",
+          "observedAt": "2026-11-16T10:35:14.888Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/node-abi",
+          "observedAt": "2026-11-16T10:35:14.888Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/node-abi",
+          "observedAt": "2026-11-16T10:35:14.888Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

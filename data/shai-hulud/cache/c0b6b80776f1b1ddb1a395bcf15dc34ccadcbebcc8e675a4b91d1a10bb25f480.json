@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@basic-ui-components-stc/basic-ui-components",
+  "source": "https://registry.npmjs.org/%40basic-ui-components-stc%2Fbasic-ui-components",
+  "fetchedAt": "2026-11-16T10:31:04.866Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 8
+  },
+  "sourceSha256": "142cb2d1965b9f83d33118832d52692007b5448d120fad1f9e1fa9d871f35292",
+  "versions": [
+    {
+      "pkg": "@basic-ui-components-stc/basic-ui-components",
+      "semver": "1.0.2",
+      "publishedAt": "2025-05-06T08:46:45.433Z",
+      "publisher": "amany-shobak",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 26281474,
+      "dependencies": {
+        "bootstrap": "^5.2.0",
+        "@stencil/core": "^2.16.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40basic-ui-components-stc%2Fbasic-ui-components",
+          "observedAt": "2026-11-16T10:31:04.866Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40basic-ui-components-stc%2Fbasic-ui-components",
+          "observedAt": "2026-11-16T10:31:04.866Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40basic-ui-components-stc%2Fbasic-ui-components",
+          "observedAt": "2026-11-16T10:31:04.866Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40basic-ui-components-stc%2Fbasic-ui-components",
+          "observedAt": "2026-11-16T10:31:04.866Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40basic-ui-components-stc%2Fbasic-ui-components",
+          "observedAt": "2026-11-16T10:31:04.866Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40basic-ui-components-stc%2Fbasic-ui-components",
+          "observedAt": "2026-11-16T10:31:04.866Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@basic-ui-components-stc/basic-ui-components",
+      "semver": "1.0.3",
+      "publishedAt": "2025-09-14T10:17:17.550Z",
+      "publisher": "amany-shobak",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 24469233,
+      "dependencies": {
+        "bootstrap": "^5.2.0",
+        "@stencil/core": "^2.16.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40basic-ui-components-stc%2Fbasic-ui-components",
+          "observedAt": "2026-11-16T10:31:04.866Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40basic-ui-components-stc%2Fbasic-ui-components",
+          "observedAt": "2026-11-16T10:31:04.866Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40basic-ui-components-stc%2Fbasic-ui-components",
+          "observedAt": "2026-11-16T10:31:04.866Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40basic-ui-components-stc%2Fbasic-ui-components",
+          "observedAt": "2026-11-16T10:31:04.866Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40basic-ui-components-stc%2Fbasic-ui-components",
+          "observedAt": "2026-11-16T10:31:04.866Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40basic-ui-components-stc%2Fbasic-ui-components",
+          "observedAt": "2026-11-16T10:31:04.866Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@basic-ui-components-stc/basic-ui-components",
+      "semver": "1.0.4",
+      "publishedAt": "2025-09-14T10:42:58.823Z",
+      "publisher": "amany-shobak",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 24470839,
+      "dependencies": {
+        "bootstrap": "^5.2.0",
+        "@stencil/core": "^2.16.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40basic-ui-components-stc%2Fbasic-ui-components",
+          "observedAt": "2026-11-16T10:31:04.866Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40basic-ui-components-stc%2Fbasic-ui-components",
+          "observedAt": "2026-11-16T10:31:04.866Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40basic-ui-components-stc%2Fbasic-ui-components",
+          "observedAt": "2026-11-16T10:31:04.866Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40basic-ui-components-stc%2Fbasic-ui-components",
+          "observedAt": "2026-11-16T10:31:04.866Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40basic-ui-components-stc%2Fbasic-ui-components",
+          "observedAt": "2026-11-16T10:31:04.866Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40basic-ui-components-stc%2Fbasic-ui-components",
+          "observedAt": "2026-11-16T10:31:04.866Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@basic-ui-components-stc/basic-ui-components",
+      "semver": "1.0.5",
+      "publishedAt": "2025-09-15T10:09:38.765Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40basic-ui-components-stc%2Fbasic-ui-components",
+          "observedAt": "2026-11-16T10:31:04.866Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

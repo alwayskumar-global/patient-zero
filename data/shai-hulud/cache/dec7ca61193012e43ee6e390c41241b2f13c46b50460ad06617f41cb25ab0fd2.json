@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "pkg": "create-hest-app",
+  "source": "https://registry.npmjs.org/create-hest-app",
+  "fetchedAt": "2026-11-16T10:32:16.740Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 10
+  },
+  "sourceSha256": "1e304b96f1cf9d08513ce4daabda74ec748a22cb778f951f7415d5b0a2dc9c91",
+  "versions": [
+    {
+      "pkg": "create-hest-app",
+      "semver": "0.1.8",
+      "publishedAt": "2025-07-30T09:07:46.121Z",
+      "publisher": "aqz23678",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 1377836,
+      "dependencies": {
+        "conf": "^14.0.0",
+        "fs-extra": "^11.3.0",
+        "inquirer": "^12.9.0",
+        "commander": "^14.0.0",
+        "picocolors": "^1.1.1",
+        "cross-spawn": "^7.0.6",
+        "update-check": "^1.5.4",
+        "validate-npm-package-name": "^6.0.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/create-hest-app",
+          "observedAt": "2026-11-16T10:32:16.740Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/create-hest-app",
+          "observedAt": "2026-11-16T10:32:16.740Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/create-hest-app",
+          "observedAt": "2026-11-16T10:32:16.740Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/create-hest-app",
+          "observedAt": "2026-11-16T10:32:16.740Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/create-hest-app",
+          "observedAt": "2026-11-16T10:32:16.740Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/create-hest-app",
+          "observedAt": "2026-11-16T10:32:16.740Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "create-hest-app",
+      "semver": "0.1.9",
+      "publishedAt": "2025-09-14T20:45:57.793Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/create-hest-app",
+          "observedAt": "2026-11-16T10:32:16.740Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

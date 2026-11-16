@@ -1,0 +1,301 @@
+{
+  "schemaVersion": 1,
+  "pkg": "validate-npm-package-name",
+  "source": "https://registry.npmjs.org/validate-npm-package-name",
+  "fetchedAt": "2026-11-16T10:35:32.953Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 22
+  },
+  "sourceSha256": "2d2a7afe6dad723aa8a9269388cc6f70295db7358fc1e517d13f8910dc4df885",
+  "versions": [
+    {
+      "pkg": "validate-npm-package-name",
+      "semver": "2.1.0",
+      "publishedAt": "2015-04-28T19:20:00.232Z",
+      "publisher": "zeke",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "builtins": "0.0.7"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/validate-npm-package-name",
+          "observedAt": "2026-11-16T10:35:32.953Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/validate-npm-package-name",
+          "observedAt": "2026-11-16T10:35:32.953Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/validate-npm-package-name",
+          "observedAt": "2026-11-16T10:35:32.953Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/validate-npm-package-name",
+          "observedAt": "2026-11-16T10:35:32.953Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/validate-npm-package-name",
+          "observedAt": "2026-11-16T10:35:32.953Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "validate-npm-package-name",
+      "semver": "2.2.0",
+      "publishedAt": "2015-04-28T22:41:50.974Z",
+      "publisher": "bcoe",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "builtins": "0.0.7"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/validate-npm-package-name",
+          "observedAt": "2026-11-16T10:35:32.953Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/validate-npm-package-name",
+          "observedAt": "2026-11-16T10:35:32.953Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/validate-npm-package-name",
+          "observedAt": "2026-11-16T10:35:32.953Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/validate-npm-package-name",
+          "observedAt": "2026-11-16T10:35:32.953Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/validate-npm-package-name",
+          "observedAt": "2026-11-16T10:35:32.953Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "validate-npm-package-name",
+      "semver": "2.2.2",
+      "publishedAt": "2015-06-30T18:33:59.558Z",
+      "publisher": "zkat",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "builtins": "0.0.7"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/validate-npm-package-name",
+          "observedAt": "2026-11-16T10:35:32.953Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/validate-npm-package-name",
+          "observedAt": "2026-11-16T10:35:32.953Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/validate-npm-package-name",
+          "observedAt": "2026-11-16T10:35:32.953Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/validate-npm-package-name",
+          "observedAt": "2026-11-16T10:35:32.953Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/validate-npm-package-name",
+          "observedAt": "2026-11-16T10:35:32.953Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "validate-npm-package-name",
+      "semver": "3.0.0",
+      "publishedAt": "2017-02-13T22:51:23.906Z",
+      "publisher": "chrisdickinson",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "builtins": "^1.0.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/validate-npm-package-name",
+          "observedAt": "2026-11-16T10:35:32.953Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/validate-npm-package-name",
+          "observedAt": "2026-11-16T10:35:32.953Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/validate-npm-package-name",
+          "observedAt": "2026-11-16T10:35:32.953Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/validate-npm-package-name",
+          "observedAt": "2026-11-16T10:35:32.953Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/validate-npm-package-name",
+          "observedAt": "2026-11-16T10:35:32.953Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "validate-npm-package-name",
+      "semver": "4.0.0",
+      "publishedAt": "2022-03-29T19:58:04.486Z",
+      "publisher": "gar",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7927,
+      "dependencies": {
+        "builtins": "^5.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/validate-npm-package-name",
+          "observedAt": "2026-11-16T10:35:32.953Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/validate-npm-package-name",
+          "observedAt": "2026-11-16T10:35:32.953Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/validate-npm-package-name",
+          "observedAt": "2026-11-16T10:35:32.953Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/validate-npm-package-name",
+          "observedAt": "2026-11-16T10:35:32.953Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/validate-npm-package-name",
+          "observedAt": "2026-11-16T10:35:32.953Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/validate-npm-package-name",
+          "observedAt": "2026-11-16T10:35:32.953Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "validate-npm-package-name",
+      "semver": "5.0.0",
+      "publishedAt": "2022-10-14T05:22:33.343Z",
+      "publisher": "lukekarrys",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7876,
+      "dependencies": {
+        "builtins": "^5.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/validate-npm-package-name",
+          "observedAt": "2026-11-16T10:35:32.953Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/validate-npm-package-name",
+          "observedAt": "2026-11-16T10:35:32.953Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/validate-npm-package-name",
+          "observedAt": "2026-11-16T10:35:32.953Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/validate-npm-package-name",
+          "observedAt": "2026-11-16T10:35:32.953Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/validate-npm-package-name",
+          "observedAt": "2026-11-16T10:35:32.953Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/validate-npm-package-name",
+          "observedAt": "2026-11-16T10:35:32.953Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "validate-npm-package-name",
+      "semver": "6.0.2",
+      "publishedAt": "2025-07-21T21:19:27.141Z",
+      "publisher": "npm-cli-ops",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 7895,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/validate-npm-package-name",
+          "observedAt": "2026-11-16T10:35:32.953Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/validate-npm-package-name",
+          "observedAt": "2026-11-16T10:35:32.953Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/validate-npm-package-name",
+          "observedAt": "2026-11-16T10:35:32.953Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/validate-npm-package-name",
+          "observedAt": "2026-11-16T10:35:32.953Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/validate-npm-package-name",
+          "observedAt": "2026-11-16T10:35:32.953Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/validate-npm-package-name",
+          "observedAt": "2026-11-16T10:35:32.953Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

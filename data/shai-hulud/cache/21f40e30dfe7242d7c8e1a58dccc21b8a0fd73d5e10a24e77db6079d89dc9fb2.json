@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@crowdstrike/logscale-search",
+  "source": "https://registry.npmjs.org/%40crowdstrike%2Flogscale-search",
+  "fetchedAt": "2026-11-16T10:31:10.451Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 105
+  },
+  "sourceSha256": "d518057de16da2126e7c34ac36a45140010eb1d19548d20cc86b482d8d71c3ba",
+  "versions": [
+    {
+      "pkg": "@crowdstrike/logscale-search",
+      "semver": "1.205.0--build-3999--sha-e220c2c3f6a50aa74f9fc4027eb9fc15c15ae4e3",
+      "publishedAt": "2025-09-10T14:45:31.505Z",
+      "publisher": "crowdstrike-publisher",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 25537136,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40crowdstrike%2Flogscale-search",
+          "observedAt": "2026-11-16T10:31:10.451Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40crowdstrike%2Flogscale-search",
+          "observedAt": "2026-11-16T10:31:10.451Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40crowdstrike%2Flogscale-search",
+          "observedAt": "2026-11-16T10:31:10.451Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40crowdstrike%2Flogscale-search",
+          "observedAt": "2026-11-16T10:31:10.451Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40crowdstrike%2Flogscale-search",
+          "observedAt": "2026-11-16T10:31:10.451Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40crowdstrike%2Flogscale-search",
+          "observedAt": "2026-11-16T10:31:10.451Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@crowdstrike/logscale-search",
+      "semver": "1.205.1",
+      "publishedAt": "2025-09-16T01:14:47.420Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40crowdstrike%2Flogscale-search",
+          "observedAt": "2026-11-16T10:31:10.451Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@crowdstrike/logscale-search",
+      "semver": "1.205.2",
+      "publishedAt": "2025-09-16T01:22:30.348Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40crowdstrike%2Flogscale-search",
+          "observedAt": "2026-11-16T10:31:10.451Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

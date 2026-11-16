@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "math-intrinsics",
+  "source": "https://registry.npmjs.org/math-intrinsics",
+  "fetchedAt": "2026-11-16T10:35:12.158Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 2
+  },
+  "sourceSha256": "d1560a4d835edc77e316fe42f823372d46be39941d21c60884b3f1d6072d74ad",
+  "versions": [
+    {
+      "pkg": "math-intrinsics",
+      "semver": "1.1.0",
+      "publishedAt": "2024-12-19T05:58:09.877Z",
+      "publisher": "ljharb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 17323,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/math-intrinsics",
+          "observedAt": "2026-11-16T10:35:12.158Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/math-intrinsics",
+          "observedAt": "2026-11-16T10:35:12.158Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/math-intrinsics",
+          "observedAt": "2026-11-16T10:35:12.158Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/math-intrinsics",
+          "observedAt": "2026-11-16T10:35:12.158Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/math-intrinsics",
+          "observedAt": "2026-11-16T10:35:12.158Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/math-intrinsics",
+          "observedAt": "2026-11-16T10:35:12.158Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

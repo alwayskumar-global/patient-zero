@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "pkg": "har-validator",
+  "source": "https://registry.npmjs.org/har-validator",
+  "fetchedAt": "2026-11-16T10:35:03.475Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 55
+  },
+  "sourceSha256": "b7900a38b90b3d9dce63978ce3bdecf3abd61132909e51397ba3a1410ca9e975",
+  "versions": [
+    {
+      "pkg": "har-validator",
+      "semver": "5.1.2",
+      "publishedAt": "2018-11-07T02:04:55.963Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/har-validator",
+          "observedAt": "2026-11-16T10:35:03.475Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "har-validator",
+      "semver": "5.1.5",
+      "publishedAt": "2020-07-30T04:42:33.615Z",
+      "publisher": "ahmadnassri",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 8220,
+      "dependencies": {
+        "ajv": "^6.12.3",
+        "har-schema": "^2.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/har-validator",
+          "observedAt": "2026-11-16T10:35:03.475Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/har-validator",
+          "observedAt": "2026-11-16T10:35:03.475Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/har-validator",
+          "observedAt": "2026-11-16T10:35:03.475Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/har-validator",
+          "observedAt": "2026-11-16T10:35:03.475Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/har-validator",
+          "observedAt": "2026-11-16T10:35:03.475Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/har-validator",
+          "observedAt": "2026-11-16T10:35:03.475Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

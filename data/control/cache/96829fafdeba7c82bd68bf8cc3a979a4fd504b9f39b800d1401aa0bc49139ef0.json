@@ -1,0 +1,208 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@sentry/utils",
+  "source": "https://registry.npmjs.org/%40sentry%2Futils",
+  "fetchedAt": "2026-11-16T10:34:38.767Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 552
+  },
+  "sourceSha256": "9a5b547fd6fbec052c39af047581b9de5ef73a57f37f4635a420b418918a1ebd",
+  "versions": [
+    {
+      "pkg": "@sentry/utils",
+      "semver": "0.5.4",
+      "publishedAt": "2018-05-03T13:43:04.972Z",
+      "publisher": "jauer",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 32513,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40sentry%2Futils",
+          "observedAt": "2026-11-16T10:34:38.767Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40sentry%2Futils",
+          "observedAt": "2026-11-16T10:34:38.767Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40sentry%2Futils",
+          "observedAt": "2026-11-16T10:34:38.767Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40sentry%2Futils",
+          "observedAt": "2026-11-16T10:34:38.767Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40sentry%2Futils",
+          "observedAt": "2026-11-16T10:34:38.767Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40sentry%2Futils",
+          "observedAt": "2026-11-16T10:34:38.767Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@sentry/utils",
+      "semver": "5.0.0-beta.2",
+      "publishedAt": "2019-03-22T07:35:30.650Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40sentry%2Futils",
+          "observedAt": "2026-11-16T10:34:38.767Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@sentry/utils",
+      "semver": "5.27.3",
+      "publishedAt": "2020-11-04T17:21:50.184Z",
+      "publisher": "kamilogorek",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 534555,
+      "dependencies": {
+        "tslib": "^1.9.3",
+        "@sentry/types": "5.27.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40sentry%2Futils",
+          "observedAt": "2026-11-16T10:34:38.767Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40sentry%2Futils",
+          "observedAt": "2026-11-16T10:34:38.767Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40sentry%2Futils",
+          "observedAt": "2026-11-16T10:34:38.767Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40sentry%2Futils",
+          "observedAt": "2026-11-16T10:34:38.767Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40sentry%2Futils",
+          "observedAt": "2026-11-16T10:34:38.767Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40sentry%2Futils",
+          "observedAt": "2026-11-16T10:34:38.767Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@sentry/utils",
+      "semver": "6.5.1",
+      "publishedAt": "2021-06-02T17:21:32.567Z",
+      "publisher": "haza",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 554463,
+      "dependencies": {
+        "tslib": "^1.9.3",
+        "@sentry/types": "6.5.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40sentry%2Futils",
+          "observedAt": "2026-11-16T10:34:38.767Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40sentry%2Futils",
+          "observedAt": "2026-11-16T10:34:38.767Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40sentry%2Futils",
+          "observedAt": "2026-11-16T10:34:38.767Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40sentry%2Futils",
+          "observedAt": "2026-11-16T10:34:38.767Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40sentry%2Futils",
+          "observedAt": "2026-11-16T10:34:38.767Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40sentry%2Futils",
+          "observedAt": "2026-11-16T10:34:38.767Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@sentry/utils",
+      "semver": "7.120.4",
+      "publishedAt": "2025-07-29T14:58:47.001Z",
+      "publisher": "sentry-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 1278758,
+      "dependencies": {
+        "@sentry/types": "7.120.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40sentry%2Futils",
+          "observedAt": "2026-11-16T10:34:38.767Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40sentry%2Futils",
+          "observedAt": "2026-11-16T10:34:38.767Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40sentry%2Futils",
+          "observedAt": "2026-11-16T10:34:38.767Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40sentry%2Futils",
+          "observedAt": "2026-11-16T10:34:38.767Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40sentry%2Futils",
+          "observedAt": "2026-11-16T10:34:38.767Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40sentry%2Futils",
+          "observedAt": "2026-11-16T10:34:38.767Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@nodelib/fs.scandir",
+  "source": "https://registry.npmjs.org/%40nodelib%2Ffs.scandir",
+  "fetchedAt": "2026-11-16T10:34:36.296Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 19
+  },
+  "sourceSha256": "d8edb61a8d2ac4c8d450ae06725fc8a15d4eecea4595e504bcc47422868bb114",
+  "versions": [
+    {
+      "pkg": "@nodelib/fs.scandir",
+      "semver": "4.0.1",
+      "publishedAt": "2024-12-01T21:08:34.824Z",
+      "publisher": "mrmlnc",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 19727,
+      "dependencies": {
+        "@nodelib/fs.stat": "4.0.0",
+        "run-parallel": "^1.2.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40nodelib%2Ffs.scandir",
+          "observedAt": "2026-11-16T10:34:36.296Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40nodelib%2Ffs.scandir",
+          "observedAt": "2026-11-16T10:34:36.296Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40nodelib%2Ffs.scandir",
+          "observedAt": "2026-11-16T10:34:36.296Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40nodelib%2Ffs.scandir",
+          "observedAt": "2026-11-16T10:34:36.296Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40nodelib%2Ffs.scandir",
+          "observedAt": "2026-11-16T10:34:36.296Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nodelib%2Ffs.scandir",
+          "observedAt": "2026-11-16T10:34:36.296Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

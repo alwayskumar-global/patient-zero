@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "pkg": "es6-promise",
+  "source": "https://registry.npmjs.org/es6-promise",
+  "fetchedAt": "2026-11-16T10:35:00.874Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 34
+  },
+  "sourceSha256": "19a93e11eb188cded0fe2e748e02285b5b4239444035e30d8b9695da985b6052",
+  "versions": [
+    {
+      "pkg": "es6-promise",
+      "semver": "2.3.0",
+      "publishedAt": "2015-06-10T09:16:41.507Z",
+      "publisher": "jaffathecake",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/es6-promise",
+          "observedAt": "2026-11-16T10:35:00.874Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/es6-promise",
+          "observedAt": "2026-11-16T10:35:00.874Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/es6-promise",
+          "observedAt": "2026-11-16T10:35:00.874Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/es6-promise",
+          "observedAt": "2026-11-16T10:35:00.874Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/es6-promise",
+          "observedAt": "2026-11-16T10:35:00.874Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "es6-promise",
+      "semver": "4.2.8",
+      "publishedAt": "2019-06-06T17:59:23.476Z",
+      "publisher": "stefanpenner",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 315432,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/es6-promise",
+          "observedAt": "2026-11-16T10:35:00.874Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/es6-promise",
+          "observedAt": "2026-11-16T10:35:00.874Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/es6-promise",
+          "observedAt": "2026-11-16T10:35:00.874Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/es6-promise",
+          "observedAt": "2026-11-16T10:35:00.874Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/es6-promise",
+          "observedAt": "2026-11-16T10:35:00.874Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/es6-promise",
+          "observedAt": "2026-11-16T10:35:00.874Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

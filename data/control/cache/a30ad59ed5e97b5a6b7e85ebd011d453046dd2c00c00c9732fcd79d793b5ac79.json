@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "ts-api-utils",
+  "source": "https://registry.npmjs.org/ts-api-utils",
+  "fetchedAt": "2026-11-16T10:35:29.897Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 52
+  },
+  "sourceSha256": "88fdeef20fbc4b8c49f69c4872499e364052eff18ec876bd3282a4dff6eb13c3",
+  "versions": [
+    {
+      "pkg": "ts-api-utils",
+      "semver": "2.1.0",
+      "publishedAt": "2025-03-20T12:24:50.449Z",
+      "publisher": "joshuakgoldberg",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 356154,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ts-api-utils",
+          "observedAt": "2026-11-16T10:35:29.897Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ts-api-utils",
+          "observedAt": "2026-11-16T10:35:29.897Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ts-api-utils",
+          "observedAt": "2026-11-16T10:35:29.897Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ts-api-utils",
+          "observedAt": "2026-11-16T10:35:29.897Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/ts-api-utils",
+          "observedAt": "2026-11-16T10:35:29.897Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ts-api-utils",
+          "observedAt": "2026-11-16T10:35:29.897Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

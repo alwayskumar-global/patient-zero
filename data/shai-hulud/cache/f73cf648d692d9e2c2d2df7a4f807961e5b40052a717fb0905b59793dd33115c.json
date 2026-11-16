@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@art-ws/prettier",
+  "source": "https://registry.npmjs.org/%40art-ws%2Fprettier",
+  "fetchedAt": "2026-11-16T10:31:03.704Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 5
+  },
+  "sourceSha256": "a182b190a0035fdec92e2056a0063900a02821cccc457e53a72dcd4a3b290bfe",
+  "versions": [
+    {
+      "pkg": "@art-ws/prettier",
+      "semver": "1.0.4",
+      "publishedAt": "2021-02-12T11:50:22.645Z",
+      "publisher": "art-ws",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 763,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fprettier",
+          "observedAt": "2026-11-16T10:31:03.704Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fprettier",
+          "observedAt": "2026-11-16T10:31:03.704Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fprettier",
+          "observedAt": "2026-11-16T10:31:03.704Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fprettier",
+          "observedAt": "2026-11-16T10:31:03.704Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fprettier",
+          "observedAt": "2026-11-16T10:31:03.704Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fprettier",
+          "observedAt": "2026-11-16T10:31:03.704Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@art-ws/prettier",
+      "semver": "1.0.5",
+      "publishedAt": "2025-09-15T05:21:22.202Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fprettier",
+          "observedAt": "2026-11-16T10:31:03.704Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@art-ws/prettier",
+      "semver": "1.0.6",
+      "publishedAt": "2025-09-15T08:58:43.459Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fprettier",
+          "observedAt": "2026-11-16T10:31:03.704Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

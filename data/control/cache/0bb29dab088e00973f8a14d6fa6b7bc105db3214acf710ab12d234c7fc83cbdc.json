@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@smithy/service-error-classification",
+  "source": "https://registry.npmjs.org/%40smithy%2Fservice-error-classification",
+  "fetchedAt": "2026-11-16T10:34:40.988Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 89
+  },
+  "sourceSha256": "f72bb500a8c3e794608a9265be7da32aa2975081e7e17bd1f523d231bd1ef921",
+  "versions": [
+    {
+      "pkg": "@smithy/service-error-classification",
+      "semver": "4.0.6",
+      "publishedAt": "2025-06-23T15:04:39.800Z",
+      "publisher": "smithy-team",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 25032,
+      "dependencies": {
+        "@smithy/types": "^4.3.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40smithy%2Fservice-error-classification",
+          "observedAt": "2026-11-16T10:34:40.988Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40smithy%2Fservice-error-classification",
+          "observedAt": "2026-11-16T10:34:40.988Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40smithy%2Fservice-error-classification",
+          "observedAt": "2026-11-16T10:34:40.988Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40smithy%2Fservice-error-classification",
+          "observedAt": "2026-11-16T10:34:40.988Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40smithy%2Fservice-error-classification",
+          "observedAt": "2026-11-16T10:34:40.988Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40smithy%2Fservice-error-classification",
+          "observedAt": "2026-11-16T10:34:40.988Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@smithy/service-error-classification",
+      "semver": "4.0.7",
+      "publishedAt": "2025-08-06T16:59:35.847Z",
+      "publisher": "smithy-team",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 25032,
+      "dependencies": {
+        "@smithy/types": "^4.3.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40smithy%2Fservice-error-classification",
+          "observedAt": "2026-11-16T10:34:40.988Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40smithy%2Fservice-error-classification",
+          "observedAt": "2026-11-16T10:34:40.988Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40smithy%2Fservice-error-classification",
+          "observedAt": "2026-11-16T10:34:40.988Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40smithy%2Fservice-error-classification",
+          "observedAt": "2026-11-16T10:34:40.988Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40smithy%2Fservice-error-classification",
+          "observedAt": "2026-11-16T10:34:40.988Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40smithy%2Fservice-error-classification",
+          "observedAt": "2026-11-16T10:34:40.988Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

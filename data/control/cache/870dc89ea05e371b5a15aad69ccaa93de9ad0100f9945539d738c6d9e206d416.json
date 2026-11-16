@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "pkg": "caniuse-lite",
+  "source": "https://registry.npmjs.org/caniuse-lite",
+  "fetchedAt": "2026-11-16T10:34:57.459Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 973
+  },
+  "sourceSha256": "947a5429eb9f39c0d076f8aed9d63a2e8244712d6ef678f4f542aa395fbaf4ce",
+  "versions": [
+    {
+      "pkg": "caniuse-lite",
+      "semver": "1.0.30000865",
+      "publishedAt": "2018-07-10T05:01:00.515Z",
+      "publisher": "beneb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 1208276,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/caniuse-lite",
+          "observedAt": "2026-11-16T10:34:57.459Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/caniuse-lite",
+          "observedAt": "2026-11-16T10:34:57.459Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/caniuse-lite",
+          "observedAt": "2026-11-16T10:34:57.459Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/caniuse-lite",
+          "observedAt": "2026-11-16T10:34:57.459Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/caniuse-lite",
+          "observedAt": "2026-11-16T10:34:57.459Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/caniuse-lite",
+          "observedAt": "2026-11-16T10:34:57.459Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "caniuse-lite",
+      "semver": "1.0.30001228",
+      "publishedAt": "2021-05-10T14:57:06.049Z",
+      "publisher": "ai",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 1525184,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/caniuse-lite",
+          "observedAt": "2026-11-16T10:34:57.459Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/caniuse-lite",
+          "observedAt": "2026-11-16T10:34:57.459Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/caniuse-lite",
+          "observedAt": "2026-11-16T10:34:57.459Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/caniuse-lite",
+          "observedAt": "2026-11-16T10:34:57.459Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/caniuse-lite",
+          "observedAt": "2026-11-16T10:34:57.459Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/caniuse-lite",
+          "observedAt": "2026-11-16T10:34:57.459Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "caniuse-lite",
+      "semver": "1.0.30001731",
+      "publishedAt": "2025-07-29T05:15:35.548Z",
+      "publisher": "caniuse-lite",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 2274703,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/caniuse-lite",
+          "observedAt": "2026-11-16T10:34:57.459Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/caniuse-lite",
+          "observedAt": "2026-11-16T10:34:57.459Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/caniuse-lite",
+          "observedAt": "2026-11-16T10:34:57.459Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/caniuse-lite",
+          "observedAt": "2026-11-16T10:34:57.459Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/caniuse-lite",
+          "observedAt": "2026-11-16T10:34:57.459Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/caniuse-lite",
+          "observedAt": "2026-11-16T10:34:57.459Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

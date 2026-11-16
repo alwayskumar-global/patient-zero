@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "pkg": "mcfly-semantic-release",
+  "source": "https://registry.npmjs.org/mcfly-semantic-release",
+  "fetchedAt": "2026-11-16T10:32:22.364Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 33
+  },
+  "sourceSha256": "8555416d17d94de848ea545f1dcb1aec7c29a58aa7ef5f65bab73cec5b63fb1c",
+  "versions": [
+    {
+      "pkg": "mcfly-semantic-release",
+      "semver": "1.3.0",
+      "publishedAt": "2021-06-10T13:30:21.478Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/mcfly-semantic-release",
+          "observedAt": "2026-11-16T10:32:22.364Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "mcfly-semantic-release",
+      "semver": "1.3.1",
+      "publishedAt": "2025-09-15T15:35:25.333Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/mcfly-semantic-release",
+          "observedAt": "2026-11-16T10:32:22.364Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "mcfly-semantic-release",
+      "semver": "1.3.4",
+      "publishedAt": "2025-09-15T17:07:08.249Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/mcfly-semantic-release",
+          "observedAt": "2026-11-16T10:32:22.364Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

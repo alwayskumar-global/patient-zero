@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "pkg": "utils-merge",
+  "source": "https://registry.npmjs.org/utils-merge",
+  "fetchedAt": "2026-11-16T10:35:32.596Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 2
+  },
+  "sourceSha256": "01a1673f3c6e75bda996aaae536c1f5f4a31fad5e19e9594121607915dabde39",
+  "versions": [
+    {
+      "pkg": "utils-merge",
+      "semver": "1.0.1",
+      "publishedAt": "2017-09-20T00:18:39.692Z",
+      "publisher": "jaredhanson",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/utils-merge",
+          "observedAt": "2026-11-16T10:35:32.596Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/utils-merge",
+          "observedAt": "2026-11-16T10:35:32.596Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/utils-merge",
+          "observedAt": "2026-11-16T10:35:32.596Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/utils-merge",
+          "observedAt": "2026-11-16T10:35:32.596Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/utils-merge",
+          "observedAt": "2026-11-16T10:35:32.596Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

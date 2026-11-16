@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "fastq",
+  "source": "https://registry.npmjs.org/fastq",
+  "fetchedAt": "2026-11-16T10:35:02.202Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 32
+  },
+  "sourceSha256": "c5917c3d7681bb2ee9f54d6b4a685b9626c9bf967585b69c0a6d4a460b32adeb",
+  "versions": [
+    {
+      "pkg": "fastq",
+      "semver": "1.19.1",
+      "publishedAt": "2025-02-26T09:17:10.544Z",
+      "publisher": "matteo.collina",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 45922,
+      "dependencies": {
+        "reusify": "^1.0.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/fastq",
+          "observedAt": "2026-11-16T10:35:02.202Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/fastq",
+          "observedAt": "2026-11-16T10:35:02.202Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/fastq",
+          "observedAt": "2026-11-16T10:35:02.202Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/fastq",
+          "observedAt": "2026-11-16T10:35:02.202Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/fastq",
+          "observedAt": "2026-11-16T10:35:02.202Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/fastq",
+          "observedAt": "2026-11-16T10:35:02.202Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

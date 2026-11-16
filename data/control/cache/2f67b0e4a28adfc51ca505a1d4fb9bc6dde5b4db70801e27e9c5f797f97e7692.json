@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "pkg": "natural-compare-lite",
+  "source": "https://registry.npmjs.org/natural-compare-lite",
+  "fetchedAt": "2026-11-16T10:35:14.399Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 23
+  },
+  "sourceSha256": "6658dc968c28ac7b6385ec67ff2ca6e28bf3adea56482198a5635498f5d7596e",
+  "versions": [
+    {
+      "pkg": "natural-compare-lite",
+      "semver": "1.4.0",
+      "publishedAt": "2015-10-26T11:53:58.858Z",
+      "publisher": "lauriro",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/natural-compare-lite",
+          "observedAt": "2026-11-16T10:35:14.399Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/natural-compare-lite",
+          "observedAt": "2026-11-16T10:35:14.399Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/natural-compare-lite",
+          "observedAt": "2026-11-16T10:35:14.399Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/natural-compare-lite",
+          "observedAt": "2026-11-16T10:35:14.399Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/natural-compare-lite",
+          "observedAt": "2026-11-16T10:35:14.399Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

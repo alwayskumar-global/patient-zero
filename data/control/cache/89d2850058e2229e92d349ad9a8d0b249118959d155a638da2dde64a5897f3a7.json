@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "picocolors",
+  "source": "https://registry.npmjs.org/picocolors",
+  "fetchedAt": "2026-11-16T10:35:17.902Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 9
+  },
+  "sourceSha256": "6d25362e0a56809b0bd10cabc19426363c8f9f10883c4b0d4242c7d8e0767ad9",
+  "versions": [
+    {
+      "pkg": "picocolors",
+      "semver": "1.1.1",
+      "publishedAt": "2024-10-16T18:20:03.921Z",
+      "publisher": "alexeyraspopov",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 6373,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/picocolors",
+          "observedAt": "2026-11-16T10:35:17.902Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/picocolors",
+          "observedAt": "2026-11-16T10:35:17.902Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/picocolors",
+          "observedAt": "2026-11-16T10:35:17.902Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/picocolors",
+          "observedAt": "2026-11-16T10:35:17.902Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/picocolors",
+          "observedAt": "2026-11-16T10:35:17.902Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/picocolors",
+          "observedAt": "2026-11-16T10:35:17.902Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

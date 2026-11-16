@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "pkg": "util-deprecate",
+  "source": "https://registry.npmjs.org/util-deprecate",
+  "fetchedAt": "2026-11-16T10:35:32.526Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 3
+  },
+  "sourceSha256": "2d7b22d3075e5d91438407890404d7cfda4243b5afae582e0389bbbd77fdec0f",
+  "versions": [
+    {
+      "pkg": "util-deprecate",
+      "semver": "1.0.2",
+      "publishedAt": "2015-10-07T18:37:40.665Z",
+      "publisher": "tootallnate",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/util-deprecate",
+          "observedAt": "2026-11-16T10:35:32.526Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/util-deprecate",
+          "observedAt": "2026-11-16T10:35:32.526Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/util-deprecate",
+          "observedAt": "2026-11-16T10:35:32.526Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/util-deprecate",
+          "observedAt": "2026-11-16T10:35:32.526Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/util-deprecate",
+          "observedAt": "2026-11-16T10:35:32.526Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

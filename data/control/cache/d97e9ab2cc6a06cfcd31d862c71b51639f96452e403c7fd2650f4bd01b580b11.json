@@ -1,0 +1,116 @@
+{
+  "schemaVersion": 1,
+  "pkg": "immer",
+  "source": "https://registry.npmjs.org/immer",
+  "fetchedAt": "2026-11-16T10:35:04.473Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 215
+  },
+  "sourceSha256": "ee1b90eae4c8b3fcf58581ec5d16b1ef283e0199feb8f4e3bda73285db348446",
+  "versions": [
+    {
+      "pkg": "immer",
+      "semver": "10.1.1",
+      "publishedAt": "2024-04-27T20:07:26.218Z",
+      "publisher": "mweststrate",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 627402,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/immer",
+          "observedAt": "2026-11-16T10:35:04.473Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/immer",
+          "observedAt": "2026-11-16T10:35:04.473Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/immer",
+          "observedAt": "2026-11-16T10:35:04.473Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/immer",
+          "observedAt": "2026-11-16T10:35:04.473Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/immer",
+          "observedAt": "2026-11-16T10:35:04.473Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/immer",
+          "observedAt": "2026-11-16T10:35:04.473Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "immer",
+      "semver": "5.3.1",
+      "publishedAt": "2020-01-15T09:55:49.431Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/immer",
+          "observedAt": "2026-11-16T10:35:04.473Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "immer",
+      "semver": "7.0.15",
+      "publishedAt": "2020-11-17T15:29:13.330Z",
+      "publisher": "aleclarson",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 825472,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/immer",
+          "observedAt": "2026-11-16T10:35:04.473Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/immer",
+          "observedAt": "2026-11-16T10:35:04.473Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/immer",
+          "observedAt": "2026-11-16T10:35:04.473Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/immer",
+          "observedAt": "2026-11-16T10:35:04.473Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/immer",
+          "observedAt": "2026-11-16T10:35:04.473Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/immer",
+          "observedAt": "2026-11-16T10:35:04.473Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

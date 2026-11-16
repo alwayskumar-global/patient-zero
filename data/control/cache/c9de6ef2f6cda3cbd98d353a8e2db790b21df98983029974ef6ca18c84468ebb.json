@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@babel/plugin-bugfix-firefox-class-in-computed-class-key",
+  "source": "https://registry.npmjs.org/%40babel%2Fplugin-bugfix-firefox-class-in-computed-class-key",
+  "fetchedAt": "2026-11-16T10:34:31.669Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 34
+  },
+  "sourceSha256": "f3d1e2dfce0d8e19b66f7dfa0a308d782c7f9fabd0b79b392b4f9a10a4e551e9",
+  "versions": [
+    {
+      "pkg": "@babel/plugin-bugfix-firefox-class-in-computed-class-key",
+      "semver": "8.0.0-beta.1",
+      "publishedAt": "2025-07-02T09:04:37.744Z",
+      "publisher": "nicolo-ribaudo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 12191,
+      "dependencies": {
+        "@babel/traverse": "^8.0.0-beta.1",
+        "@babel/helper-plugin-utils": "^8.0.0-beta.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-bugfix-firefox-class-in-computed-class-key",
+          "observedAt": "2026-11-16T10:34:31.669Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-bugfix-firefox-class-in-computed-class-key",
+          "observedAt": "2026-11-16T10:34:31.669Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-bugfix-firefox-class-in-computed-class-key",
+          "observedAt": "2026-11-16T10:34:31.669Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-bugfix-firefox-class-in-computed-class-key",
+          "observedAt": "2026-11-16T10:34:31.669Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-bugfix-firefox-class-in-computed-class-key",
+          "observedAt": "2026-11-16T10:34:31.669Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-bugfix-firefox-class-in-computed-class-key",
+          "observedAt": "2026-11-16T10:34:31.669Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

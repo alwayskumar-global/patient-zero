@@ -1,0 +1,241 @@
+{
+  "schemaVersion": 1,
+  "pkg": "prismjs",
+  "source": "https://registry.npmjs.org/prismjs",
+  "fetchedAt": "2026-11-16T10:35:21.213Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 41
+  },
+  "sourceSha256": "e15fb4e1b256503d5676239597b8a355619bf96e90a913e2eb0ba97354e399d9",
+  "versions": [
+    {
+      "pkg": "prismjs",
+      "semver": "0.0.1",
+      "publishedAt": "2015-05-13T00:37:38.541Z",
+      "publisher": "charleshansen",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/prismjs",
+          "observedAt": "2026-11-16T10:35:21.213Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/prismjs",
+          "observedAt": "2026-11-16T10:35:21.213Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/prismjs",
+          "observedAt": "2026-11-16T10:35:21.213Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/prismjs",
+          "observedAt": "2026-11-16T10:35:21.213Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/prismjs",
+          "observedAt": "2026-11-16T10:35:21.213Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "prismjs",
+      "semver": "1.15.0",
+      "publishedAt": "2018-06-17T01:52:23.178Z",
+      "publisher": "leaverou",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 942622,
+      "dependencies": {
+        "clipboard": "^2.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/prismjs",
+          "observedAt": "2026-11-16T10:35:21.213Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/prismjs",
+          "observedAt": "2026-11-16T10:35:21.213Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/prismjs",
+          "observedAt": "2026-11-16T10:35:21.213Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/prismjs",
+          "observedAt": "2026-11-16T10:35:21.213Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/prismjs",
+          "observedAt": "2026-11-16T10:35:21.213Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/prismjs",
+          "observedAt": "2026-11-16T10:35:21.213Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "prismjs",
+      "semver": "1.23.0",
+      "publishedAt": "2020-12-31T18:46:58.434Z",
+      "publisher": "jamesdigioia",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 1668782,
+      "dependencies": {
+        "clipboard": "^2.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/prismjs",
+          "observedAt": "2026-11-16T10:35:21.213Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/prismjs",
+          "observedAt": "2026-11-16T10:35:21.213Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/prismjs",
+          "observedAt": "2026-11-16T10:35:21.213Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/prismjs",
+          "observedAt": "2026-11-16T10:35:21.213Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/prismjs",
+          "observedAt": "2026-11-16T10:35:21.213Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/prismjs",
+          "observedAt": "2026-11-16T10:35:21.213Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "prismjs",
+      "semver": "1.29.0",
+      "publishedAt": "2022-08-23T10:42:14.395Z",
+      "publisher": "rundevelopment",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 2052519,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/prismjs",
+          "observedAt": "2026-11-16T10:35:21.213Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/prismjs",
+          "observedAt": "2026-11-16T10:35:21.213Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/prismjs",
+          "observedAt": "2026-11-16T10:35:21.213Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/prismjs",
+          "observedAt": "2026-11-16T10:35:21.213Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/prismjs",
+          "observedAt": "2026-11-16T10:35:21.213Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/prismjs",
+          "observedAt": "2026-11-16T10:35:21.213Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "prismjs",
+      "semver": "1.30.0",
+      "publishedAt": "2025-03-10T17:56:20.460Z",
+      "publisher": "dmitrysharabin",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 2052735,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/prismjs",
+          "observedAt": "2026-11-16T10:35:21.213Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/prismjs",
+          "observedAt": "2026-11-16T10:35:21.213Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/prismjs",
+          "observedAt": "2026-11-16T10:35:21.213Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/prismjs",
+          "observedAt": "2026-11-16T10:35:21.213Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/prismjs",
+          "observedAt": "2026-11-16T10:35:21.213Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/prismjs",
+          "observedAt": "2026-11-16T10:35:21.213Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "prismjs",
+      "semver": "9000.0.2",
+      "publishedAt": "2015-05-12T23:56:14.033Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/prismjs",
+          "observedAt": "2026-11-16T10:35:21.213Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

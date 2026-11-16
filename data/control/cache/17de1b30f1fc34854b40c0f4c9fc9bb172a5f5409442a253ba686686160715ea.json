@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "hard-rejection",
+  "source": "https://registry.npmjs.org/hard-rejection",
+  "fetchedAt": "2026-11-16T10:35:03.474Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 4
+  },
+  "sourceSha256": "ffc1705023d2d372dcf6a1b4038d46efd79f8c409dc98c5a119662766576cb2d",
+  "versions": [
+    {
+      "pkg": "hard-rejection",
+      "semver": "2.1.0",
+      "publishedAt": "2019-04-02T02:45:26.609Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 5142,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/hard-rejection",
+          "observedAt": "2026-11-16T10:35:03.474Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/hard-rejection",
+          "observedAt": "2026-11-16T10:35:03.474Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/hard-rejection",
+          "observedAt": "2026-11-16T10:35:03.474Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/hard-rejection",
+          "observedAt": "2026-11-16T10:35:03.474Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/hard-rejection",
+          "observedAt": "2026-11-16T10:35:03.474Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/hard-rejection",
+          "observedAt": "2026-11-16T10:35:03.474Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

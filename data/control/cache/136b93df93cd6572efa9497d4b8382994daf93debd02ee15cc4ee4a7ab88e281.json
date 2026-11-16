@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "pkg": "keyv",
+  "source": "https://registry.npmjs.org/keyv",
+  "fetchedAt": "2026-11-16T10:35:09.188Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 87
+  },
+  "sourceSha256": "333eed46b5c921dd9821440b1e538d5280dbeea6b1638444922cfd66a74badf1",
+  "versions": [
+    {
+      "pkg": "keyv",
+      "semver": "4.0.3",
+      "publishedAt": "2020-09-17T10:39:14.276Z",
+      "publisher": "lukechilds",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 15463,
+      "dependencies": {
+        "json-buffer": "3.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/keyv",
+          "observedAt": "2026-11-16T10:35:09.188Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/keyv",
+          "observedAt": "2026-11-16T10:35:09.188Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/keyv",
+          "observedAt": "2026-11-16T10:35:09.188Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/keyv",
+          "observedAt": "2026-11-16T10:35:09.188Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/keyv",
+          "observedAt": "2026-11-16T10:35:09.188Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/keyv",
+          "observedAt": "2026-11-16T10:35:09.188Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "keyv",
+      "semver": "5.4.0",
+      "publishedAt": "2025-07-19T19:02:07.909Z",
+      "publisher": "jaredwray",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 99585,
+      "dependencies": {
+        "@keyv/serialize": "^1.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/keyv",
+          "observedAt": "2026-11-16T10:35:09.188Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/keyv",
+          "observedAt": "2026-11-16T10:35:09.188Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/keyv",
+          "observedAt": "2026-11-16T10:35:09.188Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/keyv",
+          "observedAt": "2026-11-16T10:35:09.188Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/keyv",
+          "observedAt": "2026-11-16T10:35:09.188Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/keyv",
+          "observedAt": "2026-11-16T10:35:09.188Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "keyv",
+      "semver": "5.5.0",
+      "publishedAt": "2025-08-02T19:54:05.331Z",
+      "publisher": "jaredwray",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 109129,
+      "dependencies": {
+        "@keyv/serialize": "^1.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/keyv",
+          "observedAt": "2026-11-16T10:35:09.188Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/keyv",
+          "observedAt": "2026-11-16T10:35:09.188Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/keyv",
+          "observedAt": "2026-11-16T10:35:09.188Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/keyv",
+          "observedAt": "2026-11-16T10:35:09.188Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/keyv",
+          "observedAt": "2026-11-16T10:35:09.188Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/keyv",
+          "observedAt": "2026-11-16T10:35:09.188Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

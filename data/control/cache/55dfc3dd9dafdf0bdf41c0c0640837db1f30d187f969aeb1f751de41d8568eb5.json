@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@webassemblyjs/helper-numbers",
+  "source": "https://registry.npmjs.org/%40webassemblyjs%2Fhelper-numbers",
+  "fetchedAt": "2026-11-16T10:34:54.994Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 11
+  },
+  "sourceSha256": "582ad96b29fb233ba409262f3c4d503fd96e448b32f087f5f1639d29fbaa2183",
+  "versions": [
+    {
+      "pkg": "@webassemblyjs/helper-numbers",
+      "semver": "1.14.1",
+      "publishedAt": "2024-11-06T21:53:38.335Z",
+      "publisher": "xtuc",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 10464,
+      "dependencies": {
+        "@webassemblyjs/floating-point-hex-parser": "1.14.1",
+        "@webassemblyjs/helper-api-error": "1.14.1",
+        "@xtuc/long": "4.2.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40webassemblyjs%2Fhelper-numbers",
+          "observedAt": "2026-11-16T10:34:54.994Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40webassemblyjs%2Fhelper-numbers",
+          "observedAt": "2026-11-16T10:34:54.994Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40webassemblyjs%2Fhelper-numbers",
+          "observedAt": "2026-11-16T10:34:54.994Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40webassemblyjs%2Fhelper-numbers",
+          "observedAt": "2026-11-16T10:34:54.994Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40webassemblyjs%2Fhelper-numbers",
+          "observedAt": "2026-11-16T10:34:54.994Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40webassemblyjs%2Fhelper-numbers",
+          "observedAt": "2026-11-16T10:34:54.994Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

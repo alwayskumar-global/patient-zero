@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "pify",
+  "source": "https://registry.npmjs.org/pify",
+  "fetchedAt": "2026-11-16T10:35:17.967Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 13
+  },
+  "sourceSha256": "4d9baad4e6ed542b6e5315c7b4ff1f316155b840c286b20cfc9ffee72e68a4df",
+  "versions": [
+    {
+      "pkg": "pify",
+      "semver": "6.1.0",
+      "publishedAt": "2022-09-02T12:55:21.948Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 13592,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/pify",
+          "observedAt": "2026-11-16T10:35:17.967Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/pify",
+          "observedAt": "2026-11-16T10:35:17.967Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/pify",
+          "observedAt": "2026-11-16T10:35:17.967Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/pify",
+          "observedAt": "2026-11-16T10:35:17.967Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/pify",
+          "observedAt": "2026-11-16T10:35:17.967Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/pify",
+          "observedAt": "2026-11-16T10:35:17.967Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

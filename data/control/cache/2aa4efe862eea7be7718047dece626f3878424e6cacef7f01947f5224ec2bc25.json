@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@webassemblyjs/wasm-parser",
+  "source": "https://registry.npmjs.org/%40webassemblyjs%2Fwasm-parser",
+  "fetchedAt": "2026-11-16T10:34:55.115Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 89
+  },
+  "sourceSha256": "b3f321693dba6900156320e70ade247daa94a8b57a44dfbdd6e84b0c9d15333c",
+  "versions": [
+    {
+      "pkg": "@webassemblyjs/wasm-parser",
+      "semver": "1.14.1",
+      "publishedAt": "2024-11-06T21:53:38.577Z",
+      "publisher": "xtuc",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 137455,
+      "dependencies": {
+        "@webassemblyjs/ast": "1.14.1",
+        "@webassemblyjs/helper-api-error": "1.13.2",
+        "@webassemblyjs/helper-wasm-bytecode": "1.13.2",
+        "@webassemblyjs/ieee754": "1.13.2",
+        "@webassemblyjs/leb128": "1.13.2",
+        "@webassemblyjs/utf8": "1.13.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40webassemblyjs%2Fwasm-parser",
+          "observedAt": "2026-11-16T10:34:55.115Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40webassemblyjs%2Fwasm-parser",
+          "observedAt": "2026-11-16T10:34:55.115Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40webassemblyjs%2Fwasm-parser",
+          "observedAt": "2026-11-16T10:34:55.115Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40webassemblyjs%2Fwasm-parser",
+          "observedAt": "2026-11-16T10:34:55.115Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40webassemblyjs%2Fwasm-parser",
+          "observedAt": "2026-11-16T10:34:55.115Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40webassemblyjs%2Fwasm-parser",
+          "observedAt": "2026-11-16T10:34:55.115Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "pkg": "css-tree",
+  "source": "https://registry.npmjs.org/css-tree",
+  "fetchedAt": "2026-11-16T10:34:58.837Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 61
+  },
+  "sourceSha256": "49da2a21d0c5c098027c11b8fe91b2c81fb32e52b0f3c855c2660a13fa986f95",
+  "versions": [
+    {
+      "pkg": "css-tree",
+      "semver": "1.0.0-alpha26",
+      "publishedAt": "2017-11-09T23:53:04.963Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/css-tree",
+          "observedAt": "2026-11-16T10:34:58.837Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "css-tree",
+      "semver": "3.1.0",
+      "publishedAt": "2024-12-06T17:26:29.749Z",
+      "publisher": "lahmatiy",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 1327071,
+      "dependencies": {
+        "mdn-data": "2.12.2",
+        "source-map-js": "^1.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/css-tree",
+          "observedAt": "2026-11-16T10:34:58.837Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/css-tree",
+          "observedAt": "2026-11-16T10:34:58.837Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/css-tree",
+          "observedAt": "2026-11-16T10:34:58.837Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/css-tree",
+          "observedAt": "2026-11-16T10:34:58.837Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/css-tree",
+          "observedAt": "2026-11-16T10:34:58.837Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/css-tree",
+          "observedAt": "2026-11-16T10:34:58.837Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

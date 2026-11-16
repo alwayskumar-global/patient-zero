@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@babel/plugin-transform-object-rest-spread",
+  "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-object-rest-spread",
+  "fetchedAt": "2026-11-16T10:34:33.118Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 54
+  },
+  "sourceSha256": "1efaa59084cc93cff27285c870e194b0d90cdb073504236fb169d6a752349b6a",
+  "versions": [
+    {
+      "pkg": "@babel/plugin-transform-object-rest-spread",
+      "semver": "8.0.0-beta.1",
+      "publishedAt": "2025-07-02T09:04:43.114Z",
+      "publisher": "nicolo-ribaudo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 73882,
+      "dependencies": {
+        "@babel/traverse": "^8.0.0-beta.1",
+        "@babel/helper-plugin-utils": "^8.0.0-beta.1",
+        "@babel/helper-compilation-targets": "^8.0.0-beta.1",
+        "@babel/plugin-transform-parameters": "^8.0.0-beta.1",
+        "@babel/plugin-transform-destructuring": "^8.0.0-beta.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-object-rest-spread",
+          "observedAt": "2026-11-16T10:34:33.118Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-object-rest-spread",
+          "observedAt": "2026-11-16T10:34:33.118Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-object-rest-spread",
+          "observedAt": "2026-11-16T10:34:33.118Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-object-rest-spread",
+          "observedAt": "2026-11-16T10:34:33.118Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-object-rest-spread",
+          "observedAt": "2026-11-16T10:34:33.118Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-object-rest-spread",
+          "observedAt": "2026-11-16T10:34:33.118Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "pkg": "why-is-node-running",
+  "source": "https://registry.npmjs.org/why-is-node-running",
+  "fetchedAt": "2026-11-16T10:35:34.832Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 25
+  },
+  "sourceSha256": "ca321df0eea2453eb6195d669ef11c5b0ae760d526b887c45d998b98d820ab83",
+  "versions": [
+    {
+      "pkg": "why-is-node-running",
+      "semver": "1.2.3",
+      "publishedAt": "2017-10-18T12:32:28.549Z",
+      "publisher": "yoshuawuyts",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "stackback": "0.0.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/why-is-node-running",
+          "observedAt": "2026-11-16T10:35:34.832Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/why-is-node-running",
+          "observedAt": "2026-11-16T10:35:34.832Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/why-is-node-running",
+          "observedAt": "2026-11-16T10:35:34.832Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/why-is-node-running",
+          "observedAt": "2026-11-16T10:35:34.832Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/why-is-node-running",
+          "observedAt": "2026-11-16T10:35:34.832Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "why-is-node-running",
+      "semver": "3.0.0",
+      "publishedAt": "2024-07-08T12:59:09.598Z",
+      "publisher": "mafintosh",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7678,
+      "dependencies": {
+        "siginfo": "^2.0.0",
+        "stackback": "0.0.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/why-is-node-running",
+          "observedAt": "2026-11-16T10:35:34.832Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/why-is-node-running",
+          "observedAt": "2026-11-16T10:35:34.832Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/why-is-node-running",
+          "observedAt": "2026-11-16T10:35:34.832Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/why-is-node-running",
+          "observedAt": "2026-11-16T10:35:34.832Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/why-is-node-running",
+          "observedAt": "2026-11-16T10:35:34.832Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/why-is-node-running",
+          "observedAt": "2026-11-16T10:35:34.832Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "why-is-node-running",
+      "semver": "3.2.2",
+      "publishedAt": "2025-01-08T15:02:27.953Z",
+      "publisher": "jkoops",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 8851,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/why-is-node-running",
+          "observedAt": "2026-11-16T10:35:34.832Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/why-is-node-running",
+          "observedAt": "2026-11-16T10:35:34.832Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/why-is-node-running",
+          "observedAt": "2026-11-16T10:35:34.832Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/why-is-node-running",
+          "observedAt": "2026-11-16T10:35:34.832Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/why-is-node-running",
+          "observedAt": "2026-11-16T10:35:34.832Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/why-is-node-running",
+          "observedAt": "2026-11-16T10:35:34.832Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "thunky",
+  "source": "https://registry.npmjs.org/thunky",
+  "fetchedAt": "2026-11-16T10:35:29.109Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 6
+  },
+  "sourceSha256": "dc9c082dcd17ad473b9c949df60a8a1b52bad5ce2c2275a0b12e68a08e8b419d",
+  "versions": [
+    {
+      "pkg": "thunky",
+      "semver": "1.1.0",
+      "publishedAt": "2019-10-14T08:54:30.361Z",
+      "publisher": "mafintosh",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7758,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/thunky",
+          "observedAt": "2026-11-16T10:35:29.109Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/thunky",
+          "observedAt": "2026-11-16T10:35:29.109Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/thunky",
+          "observedAt": "2026-11-16T10:35:29.109Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/thunky",
+          "observedAt": "2026-11-16T10:35:29.109Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/thunky",
+          "observedAt": "2026-11-16T10:35:29.109Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/thunky",
+          "observedAt": "2026-11-16T10:35:29.109Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

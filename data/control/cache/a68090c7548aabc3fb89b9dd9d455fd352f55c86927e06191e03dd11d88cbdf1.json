@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@rtsao/scc",
+  "source": "https://registry.npmjs.org/%40rtsao%2Fscc",
+  "fetchedAt": "2026-11-16T10:34:38.510Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 2
+  },
+  "sourceSha256": "70d3bfe9e462f17beda8d0cf4beb27f839a7d8868517f1c38e85af99775b132e",
+  "versions": [
+    {
+      "pkg": "@rtsao/scc",
+      "semver": "1.1.0",
+      "publishedAt": "2022-04-06T17:07:36.584Z",
+      "publisher": "rtsao",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 3611,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40rtsao%2Fscc",
+          "observedAt": "2026-11-16T10:34:38.510Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40rtsao%2Fscc",
+          "observedAt": "2026-11-16T10:34:38.510Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40rtsao%2Fscc",
+          "observedAt": "2026-11-16T10:34:38.510Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40rtsao%2Fscc",
+          "observedAt": "2026-11-16T10:34:38.510Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40rtsao%2Fscc",
+          "observedAt": "2026-11-16T10:34:38.510Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40rtsao%2Fscc",
+          "observedAt": "2026-11-16T10:34:38.510Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "pkg": "lodash.includes",
+  "source": "https://registry.npmjs.org/lodash.includes",
+  "fetchedAt": "2026-11-16T10:35:11.207Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 13
+  },
+  "sourceSha256": "d96d95ddd08f3fbb184995c7af3c2f6b9f60a8b7e260a8f0f7f1faec9a906b9b",
+  "versions": [
+    {
+      "pkg": "lodash.includes",
+      "semver": "4.3.0",
+      "publishedAt": "2016-08-13T17:39:40.778Z",
+      "publisher": "jdalton",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/lodash.includes",
+          "observedAt": "2026-11-16T10:35:11.207Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/lodash.includes",
+          "observedAt": "2026-11-16T10:35:11.207Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/lodash.includes",
+          "observedAt": "2026-11-16T10:35:11.207Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/lodash.includes",
+          "observedAt": "2026-11-16T10:35:11.207Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/lodash.includes",
+          "observedAt": "2026-11-16T10:35:11.207Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

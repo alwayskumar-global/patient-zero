@@ -1,0 +1,847 @@
+{
+  "schemaVersion": 1,
+  "pkg": "slice-ansi",
+  "source": "https://registry.npmjs.org/slice-ansi",
+  "fetchedAt": "2026-11-16T10:07:11.695Z",
+  "sourceSha256": "e879daddd5b4d3fefd40fbd2f4f77df35586be49c551e358d24fc57060d22c05",
+  "versions": [
+    {
+      "pkg": "slice-ansi",
+      "semver": "0.0.2",
+      "publishedAt": "2015-09-26T04:25:26.276Z",
+      "publisher": "dthree",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "slice-ansi",
+      "semver": "0.0.3",
+      "publishedAt": "2015-09-26T04:49:56.857Z",
+      "publisher": "dthree",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "slice-ansi",
+      "semver": "0.0.4",
+      "publishedAt": "2015-09-26T07:53:28.041Z",
+      "publisher": "dthree",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "slice-ansi",
+      "semver": "0.1.0",
+      "publishedAt": "2017-06-21T22:51:30.760Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "slice-ansi",
+      "semver": "1.0.0",
+      "publishedAt": "2017-07-10T10:18:53.559Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "is-fullwidth-code-point": "^2.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "slice-ansi",
+      "semver": "10.0.0",
+      "publishedAt": "2026-10-31T09:55:57.130Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 31993,
+      "dependencies": {
+        "ansi-styles": "^7.0.0",
+        "string-width": "^8.3.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "slice-ansi",
+      "semver": "10.0.1",
+      "publishedAt": "2026-11-08T18:04:33.842Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 22490,
+      "dependencies": {
+        "ansi-styles": "^7.0.0",
+        "string-width": "^8.3.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "slice-ansi",
+      "semver": "2.0.0",
+      "publishedAt": "2018-10-16T18:48:01.149Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 4631,
+      "dependencies": {
+        "ansi-styles": "^3.2.0",
+        "astral-regex": "^1.0.0",
+        "is-fullwidth-code-point": "^2.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "slice-ansi",
+      "semver": "2.1.0",
+      "publishedAt": "2019-01-25T21:16:33.098Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 4632,
+      "dependencies": {
+        "ansi-styles": "^3.2.0",
+        "astral-regex": "^1.0.0",
+        "is-fullwidth-code-point": "^2.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "slice-ansi",
+      "semver": "3.0.0",
+      "publishedAt": "2019-09-17T17:50:39.941Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 6204,
+      "dependencies": {
+        "ansi-styles": "^4.0.0",
+        "astral-regex": "^2.0.0",
+        "is-fullwidth-code-point": "^3.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "slice-ansi",
+      "semver": "4.0.0",
+      "publishedAt": "2020-02-16T17:06:07.255Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 6434,
+      "dependencies": {
+        "ansi-styles": "^4.0.0",
+        "astral-regex": "^2.0.0",
+        "is-fullwidth-code-point": "^3.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "slice-ansi",
+      "semver": "5.0.0",
+      "publishedAt": "2021-04-16T06:35:25.429Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 6412,
+      "dependencies": {
+        "ansi-styles": "^6.0.0",
+        "is-fullwidth-code-point": "^4.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "slice-ansi",
+      "semver": "6.0.0",
+      "publishedAt": "2023-03-24T12:53:46.115Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7163,
+      "dependencies": {
+        "ansi-styles": "^6.2.1",
+        "is-fullwidth-code-point": "^4.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "slice-ansi",
+      "semver": "7.0.0",
+      "publishedAt": "2023-10-28T16:29:11.606Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7163,
+      "dependencies": {
+        "ansi-styles": "^6.2.1",
+        "is-fullwidth-code-point": "^5.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "slice-ansi",
+      "semver": "7.1.0",
+      "publishedAt": "2023-10-29T19:45:58.384Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7952,
+      "dependencies": {
+        "ansi-styles": "^6.2.1",
+        "is-fullwidth-code-point": "^5.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "slice-ansi",
+      "semver": "7.1.1",
+      "publishedAt": "2025-09-08T13:15:47.971Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "slice-ansi",
+      "semver": "7.1.2",
+      "publishedAt": "2025-09-08T15:11:55.899Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 8035,
+      "dependencies": {
+        "ansi-styles": "^6.2.1",
+        "is-fullwidth-code-point": "^5.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "slice-ansi",
+      "semver": "8.0.0",
+      "publishedAt": "2026-02-10T16:25:49.022Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 29134,
+      "dependencies": {
+        "ansi-styles": "^6.2.3",
+        "is-fullwidth-code-point": "^5.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "slice-ansi",
+      "semver": "9.0.0",
+      "publishedAt": "2026-04-04T13:19:33.198Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 32077,
+      "dependencies": {
+        "ansi-styles": "^6.2.3",
+        "is-fullwidth-code-point": "^5.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "slice-ansi",
+      "semver": "9.0.1",
+      "publishedAt": "2026-09-18T19:16:22.204Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 31260,
+      "dependencies": {
+        "ansi-styles": "^6.2.3",
+        "is-fullwidth-code-point": "^5.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/slice-ansi",
+          "observedAt": "2026-11-16T10:07:11.695Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "pkg": "global-modules",
+  "source": "https://registry.npmjs.org/global-modules",
+  "fetchedAt": "2026-11-16T10:35:03.256Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 9
+  },
+  "sourceSha256": "9242d8406731052eca7f998023e863a7f099938ecd2b4c8e8f063cc661a887a5",
+  "versions": [
+    {
+      "pkg": "global-modules",
+      "semver": "0.0.2",
+      "publishedAt": "2014-04-20T15:37:36.018Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/global-modules",
+          "observedAt": "2026-11-16T10:35:03.256Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "global-modules",
+      "semver": "2.0.0",
+      "publishedAt": "2018-12-15T02:42:32.356Z",
+      "publisher": "jonschlinkert",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 6570,
+      "dependencies": {
+        "global-prefix": "^3.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/global-modules",
+          "observedAt": "2026-11-16T10:35:03.256Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/global-modules",
+          "observedAt": "2026-11-16T10:35:03.256Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/global-modules",
+          "observedAt": "2026-11-16T10:35:03.256Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/global-modules",
+          "observedAt": "2026-11-16T10:35:03.256Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/global-modules",
+          "observedAt": "2026-11-16T10:35:03.256Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/global-modules",
+          "observedAt": "2026-11-16T10:35:03.256Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

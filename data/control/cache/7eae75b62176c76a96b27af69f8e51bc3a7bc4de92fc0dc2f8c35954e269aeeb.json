@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "dayjs",
+  "source": "https://registry.npmjs.org/dayjs",
+  "fetchedAt": "2026-11-16T10:34:59.199Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 136
+  },
+  "sourceSha256": "a265f42e2a6b2404b09bbbadb83c6f0d539048e5b9d7e7ade8dbbd1a02f19bcf",
+  "versions": [
+    {
+      "pkg": "dayjs",
+      "semver": "1.11.13",
+      "publishedAt": "2024-08-20T14:59:52.917Z",
+      "publisher": "iamkun",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 670277,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/dayjs",
+          "observedAt": "2026-11-16T10:34:59.199Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/dayjs",
+          "observedAt": "2026-11-16T10:34:59.199Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/dayjs",
+          "observedAt": "2026-11-16T10:34:59.199Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/dayjs",
+          "observedAt": "2026-11-16T10:34:59.199Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/dayjs",
+          "observedAt": "2026-11-16T10:34:59.199Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/dayjs",
+          "observedAt": "2026-11-16T10:34:59.199Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

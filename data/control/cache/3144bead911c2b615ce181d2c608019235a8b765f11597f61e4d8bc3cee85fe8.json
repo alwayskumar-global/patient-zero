@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@svgr/babel-plugin-add-jsx-attribute",
+  "source": "https://registry.npmjs.org/%40svgr%2Fbabel-plugin-add-jsx-attribute",
+  "fetchedAt": "2026-11-16T10:34:42.553Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 13
+  },
+  "sourceSha256": "63a9f10a78042aadb3f569d43a22c54fedf927da6c3269ba057cd27794adba4a",
+  "versions": [
+    {
+      "pkg": "@svgr/babel-plugin-add-jsx-attribute",
+      "semver": "8.0.0",
+      "publishedAt": "2023-05-09T07:03:16.853Z",
+      "publisher": "neoziro",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 13493,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40svgr%2Fbabel-plugin-add-jsx-attribute",
+          "observedAt": "2026-11-16T10:34:42.553Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40svgr%2Fbabel-plugin-add-jsx-attribute",
+          "observedAt": "2026-11-16T10:34:42.553Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40svgr%2Fbabel-plugin-add-jsx-attribute",
+          "observedAt": "2026-11-16T10:34:42.553Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40svgr%2Fbabel-plugin-add-jsx-attribute",
+          "observedAt": "2026-11-16T10:34:42.553Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40svgr%2Fbabel-plugin-add-jsx-attribute",
+          "observedAt": "2026-11-16T10:34:42.553Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40svgr%2Fbabel-plugin-add-jsx-attribute",
+          "observedAt": "2026-11-16T10:34:42.553Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

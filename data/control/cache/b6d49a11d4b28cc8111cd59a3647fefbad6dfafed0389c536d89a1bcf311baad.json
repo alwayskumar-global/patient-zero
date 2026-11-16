@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "pkg": "prelude-ls",
+  "source": "https://registry.npmjs.org/prelude-ls",
+  "fetchedAt": "2026-11-16T10:35:21.012Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 14
+  },
+  "sourceSha256": "79663c580872a371ee90727172b2ff079f3d416013c3c6a449b4c9e30837812e",
+  "versions": [
+    {
+      "pkg": "prelude-ls",
+      "semver": "0.6.0",
+      "publishedAt": "2012-07-30T07:27:19.757Z",
+      "publisher": null,
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/prelude-ls",
+          "observedAt": "2026-11-16T10:35:21.012Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/prelude-ls",
+          "observedAt": "2026-11-16T10:35:21.012Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/prelude-ls",
+          "observedAt": "2026-11-16T10:35:21.012Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/prelude-ls",
+          "observedAt": "2026-11-16T10:35:21.012Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "prelude-ls",
+      "semver": "1.2.1",
+      "publishedAt": "2020-04-02T22:53:40.710Z",
+      "publisher": "gkz",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 36741,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/prelude-ls",
+          "observedAt": "2026-11-16T10:35:21.012Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/prelude-ls",
+          "observedAt": "2026-11-16T10:35:21.012Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/prelude-ls",
+          "observedAt": "2026-11-16T10:35:21.012Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/prelude-ls",
+          "observedAt": "2026-11-16T10:35:21.012Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/prelude-ls",
+          "observedAt": "2026-11-16T10:35:21.012Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/prelude-ls",
+          "observedAt": "2026-11-16T10:35:21.012Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

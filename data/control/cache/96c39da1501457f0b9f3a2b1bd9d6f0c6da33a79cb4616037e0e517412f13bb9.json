@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@types/serve-static",
+  "source": "https://registry.npmjs.org/%40types%2Fserve-static",
+  "fetchedAt": "2026-11-16T10:34:51.747Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 38
+  },
+  "sourceSha256": "7f350b57585db9cc37674b3939e48510c5567c3ea58c17b4272fc6b1012efd6d",
+  "versions": [
+    {
+      "pkg": "@types/serve-static",
+      "semver": "1.15.8",
+      "publishedAt": "2025-06-07T02:18:58.268Z",
+      "publisher": "types",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 8030,
+      "dependencies": {
+        "@types/node": "*",
+        "@types/send": "*",
+        "@types/http-errors": "*"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40types%2Fserve-static",
+          "observedAt": "2026-11-16T10:34:51.747Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40types%2Fserve-static",
+          "observedAt": "2026-11-16T10:34:51.747Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40types%2Fserve-static",
+          "observedAt": "2026-11-16T10:34:51.747Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40types%2Fserve-static",
+          "observedAt": "2026-11-16T10:34:51.747Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40types%2Fserve-static",
+          "observedAt": "2026-11-16T10:34:51.747Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40types%2Fserve-static",
+          "observedAt": "2026-11-16T10:34:51.747Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@aws-sdk/util-endpoints",
+  "source": "https://registry.npmjs.org/%40aws-sdk%2Futil-endpoints",
+  "fetchedAt": "2026-11-16T10:34:29.998Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 242
+  },
+  "sourceSha256": "6ebd405245358916dc29e2c5917336cb831383e139e4debd9e7b96df9672faf4",
+  "versions": [
+    {
+      "pkg": "@aws-sdk/util-endpoints",
+      "semver": "3.848.0",
+      "publishedAt": "2025-07-17T19:01:00.016Z",
+      "publisher": "aws-sdk-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 59868,
+      "dependencies": {
+        "tslib": "^2.6.2",
+        "@smithy/types": "^4.3.1",
+        "@aws-sdk/types": "3.840.0",
+        "@smithy/url-parser": "^4.0.4",
+        "@smithy/util-endpoints": "^3.0.6"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Futil-endpoints",
+          "observedAt": "2026-11-16T10:34:29.998Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Futil-endpoints",
+          "observedAt": "2026-11-16T10:34:29.998Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Futil-endpoints",
+          "observedAt": "2026-11-16T10:34:29.998Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Futil-endpoints",
+          "observedAt": "2026-11-16T10:34:29.998Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Futil-endpoints",
+          "observedAt": "2026-11-16T10:34:29.998Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Futil-endpoints",
+          "observedAt": "2026-11-16T10:34:29.998Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@aws-sdk/util-endpoints",
+      "semver": "3.862.0",
+      "publishedAt": "2025-08-06T19:09:29.875Z",
+      "publisher": "aws-sdk-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 59868,
+      "dependencies": {
+        "tslib": "^2.6.2",
+        "@smithy/types": "^4.3.2",
+        "@aws-sdk/types": "3.862.0",
+        "@smithy/url-parser": "^4.0.5",
+        "@smithy/util-endpoints": "^3.0.7"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Futil-endpoints",
+          "observedAt": "2026-11-16T10:34:29.998Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Futil-endpoints",
+          "observedAt": "2026-11-16T10:34:29.998Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Futil-endpoints",
+          "observedAt": "2026-11-16T10:34:29.998Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Futil-endpoints",
+          "observedAt": "2026-11-16T10:34:29.998Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Futil-endpoints",
+          "observedAt": "2026-11-16T10:34:29.998Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40aws-sdk%2Futil-endpoints",
+          "observedAt": "2026-11-16T10:34:29.998Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

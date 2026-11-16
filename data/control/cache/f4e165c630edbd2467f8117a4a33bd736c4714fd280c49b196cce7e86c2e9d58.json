@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@babel/plugin-transform-numeric-separator",
+  "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-numeric-separator",
+  "fetchedAt": "2026-11-16T10:34:32.890Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 46
+  },
+  "sourceSha256": "b12be790156c4d349843fd3b2536d984a47fd412e81937d0c98b539c6ae77d42",
+  "versions": [
+    {
+      "pkg": "@babel/plugin-transform-numeric-separator",
+      "semver": "8.0.0-beta.1",
+      "publishedAt": "2025-07-02T09:04:15.589Z",
+      "publisher": "nicolo-ribaudo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 5315,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "^8.0.0-beta.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-numeric-separator",
+          "observedAt": "2026-11-16T10:34:32.890Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-numeric-separator",
+          "observedAt": "2026-11-16T10:34:32.890Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-numeric-separator",
+          "observedAt": "2026-11-16T10:34:32.890Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-numeric-separator",
+          "observedAt": "2026-11-16T10:34:32.890Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-numeric-separator",
+          "observedAt": "2026-11-16T10:34:32.890Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-numeric-separator",
+          "observedAt": "2026-11-16T10:34:32.890Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

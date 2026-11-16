@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "wbuf",
+  "source": "https://registry.npmjs.org/wbuf",
+  "fetchedAt": "2026-11-16T10:35:34.357Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 15
+  },
+  "sourceSha256": "59d4ac70a1b264d86ee5faaf59a4a8277be760bb327cc69b62cfc8691198c7d8",
+  "versions": [
+    {
+      "pkg": "wbuf",
+      "semver": "1.7.3",
+      "publishedAt": "2018-03-10T21:51:19.126Z",
+      "publisher": "indutny",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 20902,
+      "dependencies": {
+        "minimalistic-assert": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/wbuf",
+          "observedAt": "2026-11-16T10:35:34.357Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/wbuf",
+          "observedAt": "2026-11-16T10:35:34.357Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/wbuf",
+          "observedAt": "2026-11-16T10:35:34.357Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/wbuf",
+          "observedAt": "2026-11-16T10:35:34.357Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/wbuf",
+          "observedAt": "2026-11-16T10:35:34.357Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/wbuf",
+          "observedAt": "2026-11-16T10:35:34.357Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

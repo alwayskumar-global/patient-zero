@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "resolve-alpn",
+  "source": "https://registry.npmjs.org/resolve-alpn",
+  "fetchedAt": "2026-11-16T10:35:24.610Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 7
+  },
+  "sourceSha256": "aef4e374ddfa0424ded3315a3a7e64f8a4824157550d9c06f4c0b8b6f4e28921",
+  "versions": [
+    {
+      "pkg": "resolve-alpn",
+      "semver": "1.2.1",
+      "publishedAt": "2021-08-30T08:12:36.687Z",
+      "publisher": "szmarczak",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 4645,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/resolve-alpn",
+          "observedAt": "2026-11-16T10:35:24.610Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/resolve-alpn",
+          "observedAt": "2026-11-16T10:35:24.610Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/resolve-alpn",
+          "observedAt": "2026-11-16T10:35:24.610Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/resolve-alpn",
+          "observedAt": "2026-11-16T10:35:24.610Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/resolve-alpn",
+          "observedAt": "2026-11-16T10:35:24.610Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/resolve-alpn",
+          "observedAt": "2026-11-16T10:35:24.610Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

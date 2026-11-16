@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "glob-to-regexp",
+  "source": "https://registry.npmjs.org/glob-to-regexp",
+  "fetchedAt": "2026-11-16T10:35:03.242Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 8
+  },
+  "sourceSha256": "3a886d5011fa8ad098e24d6f26882891738c81aff4a8b4c9a10f4385a3280892",
+  "versions": [
+    {
+      "pkg": "glob-to-regexp",
+      "semver": "0.4.1",
+      "publishedAt": "2019-04-01T16:19:53.460Z",
+      "publisher": "nickfitzgerald",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 18100,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/glob-to-regexp",
+          "observedAt": "2026-11-16T10:35:03.242Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/glob-to-regexp",
+          "observedAt": "2026-11-16T10:35:03.242Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/glob-to-regexp",
+          "observedAt": "2026-11-16T10:35:03.242Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/glob-to-regexp",
+          "observedAt": "2026-11-16T10:35:03.242Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/glob-to-regexp",
+          "observedAt": "2026-11-16T10:35:03.242Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/glob-to-regexp",
+          "observedAt": "2026-11-16T10:35:03.242Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

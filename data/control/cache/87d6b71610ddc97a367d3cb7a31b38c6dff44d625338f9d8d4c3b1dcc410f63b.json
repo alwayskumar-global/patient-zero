@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "micromark-util-encode",
+  "source": "https://registry.npmjs.org/micromark-util-encode",
+  "fetchedAt": "2026-11-16T10:35:12.927Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 9
+  },
+  "sourceSha256": "9bceaa7166b1f186de2f1100447798d3ac352058f9c798a8fa6f0084aa5dc2b1",
+  "versions": [
+    {
+      "pkg": "micromark-util-encode",
+      "semver": "2.0.1",
+      "publishedAt": "2024-11-12T11:17:34.206Z",
+      "publisher": "wooorm",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7971,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/micromark-util-encode",
+          "observedAt": "2026-11-16T10:35:12.927Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/micromark-util-encode",
+          "observedAt": "2026-11-16T10:35:12.927Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/micromark-util-encode",
+          "observedAt": "2026-11-16T10:35:12.927Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/micromark-util-encode",
+          "observedAt": "2026-11-16T10:35:12.927Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/micromark-util-encode",
+          "observedAt": "2026-11-16T10:35:12.927Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/micromark-util-encode",
+          "observedAt": "2026-11-16T10:35:12.927Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

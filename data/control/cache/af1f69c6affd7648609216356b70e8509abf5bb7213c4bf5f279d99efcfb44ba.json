@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "saxes",
+  "source": "https://registry.npmjs.org/saxes",
+  "fetchedAt": "2026-11-16T10:35:25.539Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 30
+  },
+  "sourceSha256": "427344699d0c6e769bc59ee3dfc4e0c0ce3335446f180c52a8472d8d355276d4",
+  "versions": [
+    {
+      "pkg": "saxes",
+      "semver": "6.0.0",
+      "publishedAt": "2021-11-07T19:06:31.264Z",
+      "publisher": "lddubeau",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 163774,
+      "dependencies": {
+        "xmlchars": "^2.2.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/saxes",
+          "observedAt": "2026-11-16T10:35:25.539Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/saxes",
+          "observedAt": "2026-11-16T10:35:25.539Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/saxes",
+          "observedAt": "2026-11-16T10:35:25.539Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/saxes",
+          "observedAt": "2026-11-16T10:35:25.539Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/saxes",
+          "observedAt": "2026-11-16T10:35:25.539Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/saxes",
+          "observedAt": "2026-11-16T10:35:25.539Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

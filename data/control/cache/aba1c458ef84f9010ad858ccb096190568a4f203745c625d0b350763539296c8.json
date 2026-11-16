@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "readdir-glob",
+  "source": "https://registry.npmjs.org/readdir-glob",
+  "fetchedAt": "2026-11-16T10:35:23.684Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 11
+  },
+  "sourceSha256": "2998e9c98c2dfe7e874baf3c355b2a3a2cd4edaae500d3b4029df65af44eef22",
+  "versions": [
+    {
+      "pkg": "readdir-glob",
+      "semver": "2.0.1",
+      "publishedAt": "2024-10-28T20:56:18.538Z",
+      "publisher": "yqnn",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 69177,
+      "dependencies": {
+        "minimatch": "^9.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/readdir-glob",
+          "observedAt": "2026-11-16T10:35:23.684Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/readdir-glob",
+          "observedAt": "2026-11-16T10:35:23.684Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/readdir-glob",
+          "observedAt": "2026-11-16T10:35:23.684Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/readdir-glob",
+          "observedAt": "2026-11-16T10:35:23.684Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/readdir-glob",
+          "observedAt": "2026-11-16T10:35:23.684Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/readdir-glob",
+          "observedAt": "2026-11-16T10:35:23.684Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "p-map",
+  "source": "https://registry.npmjs.org/p-map",
+  "fetchedAt": "2026-11-16T10:35:16.551Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 26
+  },
+  "sourceSha256": "2a30789e90cdd57dd1b9e34dc1bcd35e9cf3df007837a4642dc40b997f8aba1d",
+  "versions": [
+    {
+      "pkg": "p-map",
+      "semver": "7.0.3",
+      "publishedAt": "2024-12-05T21:00:19.088Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 21188,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/p-map",
+          "observedAt": "2026-11-16T10:35:16.551Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/p-map",
+          "observedAt": "2026-11-16T10:35:16.551Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/p-map",
+          "observedAt": "2026-11-16T10:35:16.551Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/p-map",
+          "observedAt": "2026-11-16T10:35:16.551Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/p-map",
+          "observedAt": "2026-11-16T10:35:16.551Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/p-map",
+          "observedAt": "2026-11-16T10:35:16.551Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

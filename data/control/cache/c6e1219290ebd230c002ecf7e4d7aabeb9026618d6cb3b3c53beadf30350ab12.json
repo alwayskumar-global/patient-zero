@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@tootallnate/quickjs-emscripten",
+  "source": "https://registry.npmjs.org/%40tootallnate%2Fquickjs-emscripten",
+  "fetchedAt": "2026-11-16T10:34:43.539Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 1
+  },
+  "sourceSha256": "fc8c131bc95142e479c011b4d64b3c463bfa28bd75292f44241c30f830fa863c",
+  "versions": [
+    {
+      "pkg": "@tootallnate/quickjs-emscripten",
+      "semver": "0.23.0",
+      "publishedAt": "2023-07-18T08:26:47.468Z",
+      "publisher": "tootallnate",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 1732565,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40tootallnate%2Fquickjs-emscripten",
+          "observedAt": "2026-11-16T10:34:43.539Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40tootallnate%2Fquickjs-emscripten",
+          "observedAt": "2026-11-16T10:34:43.539Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40tootallnate%2Fquickjs-emscripten",
+          "observedAt": "2026-11-16T10:34:43.539Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40tootallnate%2Fquickjs-emscripten",
+          "observedAt": "2026-11-16T10:34:43.539Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40tootallnate%2Fquickjs-emscripten",
+          "observedAt": "2026-11-16T10:34:43.539Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40tootallnate%2Fquickjs-emscripten",
+          "observedAt": "2026-11-16T10:34:43.539Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

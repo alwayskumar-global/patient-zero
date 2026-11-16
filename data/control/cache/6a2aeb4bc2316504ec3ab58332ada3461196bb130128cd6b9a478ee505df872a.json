@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "pkg": "diffie-hellman",
+  "source": "https://registry.npmjs.org/diffie-hellman",
+  "fetchedAt": "2026-11-16T10:34:59.897Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 21
+  },
+  "sourceSha256": "8f804f25b5bb03a68a44365d34244dda84625388d80d3933f910a5431f391521",
+  "versions": [
+    {
+      "pkg": "diffie-hellman",
+      "semver": "3.0.2",
+      "publishedAt": "2015-05-21T02:56:37.669Z",
+      "publisher": "dcousens",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "bn.js": "^2.0.0",
+        "miller-rabin": "^2.0.0",
+        "randombytes": "^2.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/diffie-hellman",
+          "observedAt": "2026-11-16T10:34:59.897Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/diffie-hellman",
+          "observedAt": "2026-11-16T10:34:59.897Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/diffie-hellman",
+          "observedAt": "2026-11-16T10:34:59.897Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/diffie-hellman",
+          "observedAt": "2026-11-16T10:34:59.897Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/diffie-hellman",
+          "observedAt": "2026-11-16T10:34:59.897Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "diffie-hellman",
+      "semver": "5.0.3",
+      "publishedAt": "2018-04-11T12:03:30.207Z",
+      "publisher": "cwmma",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 17297,
+      "dependencies": {
+        "bn.js": "^4.1.0",
+        "miller-rabin": "^4.0.0",
+        "randombytes": "^2.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/diffie-hellman",
+          "observedAt": "2026-11-16T10:34:59.897Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/diffie-hellman",
+          "observedAt": "2026-11-16T10:34:59.897Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/diffie-hellman",
+          "observedAt": "2026-11-16T10:34:59.897Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/diffie-hellman",
+          "observedAt": "2026-11-16T10:34:59.897Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/diffie-hellman",
+          "observedAt": "2026-11-16T10:34:59.897Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/diffie-hellman",
+          "observedAt": "2026-11-16T10:34:59.897Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

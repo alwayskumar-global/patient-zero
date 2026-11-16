@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "defer-to-connect",
+  "source": "https://registry.npmjs.org/defer-to-connect",
+  "fetchedAt": "2026-11-16T10:34:59.536Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 9
+  },
+  "sourceSha256": "2112670f009638a1caf8162e5056e8c968df728d4480791ab7f7ea2b4293fdcf",
+  "versions": [
+    {
+      "pkg": "defer-to-connect",
+      "semver": "2.0.1",
+      "publishedAt": "2021-02-24T23:56:22.692Z",
+      "publisher": "szmarczak",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 5444,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/defer-to-connect",
+          "observedAt": "2026-11-16T10:34:59.536Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/defer-to-connect",
+          "observedAt": "2026-11-16T10:34:59.536Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/defer-to-connect",
+          "observedAt": "2026-11-16T10:34:59.536Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/defer-to-connect",
+          "observedAt": "2026-11-16T10:34:59.536Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/defer-to-connect",
+          "observedAt": "2026-11-16T10:34:59.536Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/defer-to-connect",
+          "observedAt": "2026-11-16T10:34:59.536Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "pkg": "wrappy",
+  "source": "https://registry.npmjs.org/wrappy",
+  "fetchedAt": "2026-11-16T10:35:35.087Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 4
+  },
+  "sourceSha256": "3936cd62847ce2f4e3cc2ab3633de5d02f02fbcf204fd52c03bd7ee7db55e169",
+  "versions": [
+    {
+      "pkg": "wrappy",
+      "semver": "0.0.0",
+      "publishedAt": "2021-04-22T23:17:34.192Z",
+      "publisher": "isaacs",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 4203,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/wrappy",
+          "observedAt": "2026-11-16T10:35:35.087Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/wrappy",
+          "observedAt": "2026-11-16T10:35:35.087Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/wrappy",
+          "observedAt": "2026-11-16T10:35:35.087Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/wrappy",
+          "observedAt": "2026-11-16T10:35:35.087Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/wrappy",
+          "observedAt": "2026-11-16T10:35:35.087Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/wrappy",
+          "observedAt": "2026-11-16T10:35:35.087Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "wrappy",
+      "semver": "1.0.2",
+      "publishedAt": "2016-05-17T23:30:52.415Z",
+      "publisher": "zkat",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/wrappy",
+          "observedAt": "2026-11-16T10:35:35.087Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/wrappy",
+          "observedAt": "2026-11-16T10:35:35.087Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/wrappy",
+          "observedAt": "2026-11-16T10:35:35.087Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/wrappy",
+          "observedAt": "2026-11-16T10:35:35.087Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/wrappy",
+          "observedAt": "2026-11-16T10:35:35.087Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

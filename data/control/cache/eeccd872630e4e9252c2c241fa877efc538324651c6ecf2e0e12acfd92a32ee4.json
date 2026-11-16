@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "pkg": "get-value",
+  "source": "https://registry.npmjs.org/get-value",
+  "fetchedAt": "2026-11-16T10:35:03.156Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 36
+  },
+  "sourceSha256": "ca7f609140c4d506d1fec6f534193a127bdf34538b9512240a4f71af0f22355f",
+  "versions": [
+    {
+      "pkg": "get-value",
+      "semver": "1.1.0",
+      "publishedAt": "2015-02-13T08:39:54.029Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/get-value",
+          "observedAt": "2026-11-16T10:35:03.156Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "get-value",
+      "semver": "4.0.1",
+      "publishedAt": "2025-02-05T05:10:09.661Z",
+      "publisher": "jonschlinkert",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 23826,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/get-value",
+          "observedAt": "2026-11-16T10:35:03.156Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/get-value",
+          "observedAt": "2026-11-16T10:35:03.156Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/get-value",
+          "observedAt": "2026-11-16T10:35:03.156Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/get-value",
+          "observedAt": "2026-11-16T10:35:03.156Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/get-value",
+          "observedAt": "2026-11-16T10:35:03.156Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/get-value",
+          "observedAt": "2026-11-16T10:35:03.156Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "schemaVersion": 1,
+  "pkg": "acorn-jsx",
+  "source": "https://registry.npmjs.org/acorn-jsx",
+  "fetchedAt": "2026-11-16T10:34:55.272Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 39
+  },
+  "sourceSha256": "51e5309cfb6bda917ed816229b03fd30449dace557c216e7b1b9448408094542",
+  "versions": [
+    {
+      "pkg": "acorn-jsx",
+      "semver": "1.1.0",
+      "publishedAt": "2015-06-18T13:08:11.210Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/acorn-jsx",
+          "observedAt": "2026-11-16T10:34:55.272Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "acorn-jsx",
+      "semver": "5.1.0",
+      "publishedAt": "2019-10-13T18:29:57.363Z",
+      "publisher": "marijn",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 23811,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/acorn-jsx",
+          "observedAt": "2026-11-16T10:34:55.272Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/acorn-jsx",
+          "observedAt": "2026-11-16T10:34:55.272Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/acorn-jsx",
+          "observedAt": "2026-11-16T10:34:55.272Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/acorn-jsx",
+          "observedAt": "2026-11-16T10:34:55.272Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/acorn-jsx",
+          "observedAt": "2026-11-16T10:34:55.272Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/acorn-jsx",
+          "observedAt": "2026-11-16T10:34:55.272Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "acorn-jsx",
+      "semver": "5.3.2",
+      "publishedAt": "2021-07-09T01:15:57.512Z",
+      "publisher": "rreverser",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 24385,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/acorn-jsx",
+          "observedAt": "2026-11-16T10:34:55.272Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/acorn-jsx",
+          "observedAt": "2026-11-16T10:34:55.272Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/acorn-jsx",
+          "observedAt": "2026-11-16T10:34:55.272Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/acorn-jsx",
+          "observedAt": "2026-11-16T10:34:55.272Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/acorn-jsx",
+          "observedAt": "2026-11-16T10:34:55.272Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/acorn-jsx",
+          "observedAt": "2026-11-16T10:34:55.272Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

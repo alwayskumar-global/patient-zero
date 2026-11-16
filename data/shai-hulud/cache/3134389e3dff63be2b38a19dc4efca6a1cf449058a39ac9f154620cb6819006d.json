@@ -1,0 +1,276 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@nativescript-community/ui-material-ripple",
+  "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-ripple",
+  "fetchedAt": "2026-11-16T10:31:32.434Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 268
+  },
+  "sourceSha256": "2b52207e376ebe3070c0d7d64214e55df0945c6f2a23fd90e947c56b25c6cdb7",
+  "versions": [
+    {
+      "pkg": "@nativescript-community/ui-material-ripple",
+      "semver": "4.0.9",
+      "publishedAt": "2020-08-15T03:24:50.223Z",
+      "publisher": "walkerrunpdx",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 59922,
+      "dependencies": {
+        "@nativescript-community/ui-material-core": "^4.0.8"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-ripple",
+          "observedAt": "2026-11-16T10:31:32.434Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-ripple",
+          "observedAt": "2026-11-16T10:31:32.434Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-ripple",
+          "observedAt": "2026-11-16T10:31:32.434Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-ripple",
+          "observedAt": "2026-11-16T10:31:32.434Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-ripple",
+          "observedAt": "2026-11-16T10:31:32.434Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-ripple",
+          "observedAt": "2026-11-16T10:31:32.434Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nativescript-community/ui-material-ripple",
+      "semver": "6.2.1",
+      "publishedAt": "2021-10-25T21:09:54.497Z",
+      "publisher": "keerl",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 90527,
+      "dependencies": {
+        "@nativescript-community/ui-material-core": "^6.2.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-ripple",
+          "observedAt": "2026-11-16T10:31:32.434Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-ripple",
+          "observedAt": "2026-11-16T10:31:32.434Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-ripple",
+          "observedAt": "2026-11-16T10:31:32.434Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-ripple",
+          "observedAt": "2026-11-16T10:31:32.434Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-ripple",
+          "observedAt": "2026-11-16T10:31:32.434Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-ripple",
+          "observedAt": "2026-11-16T10:31:32.434Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nativescript-community/ui-material-ripple",
+      "semver": "6.2.23",
+      "publishedAt": "2022-03-07T12:30:32.019Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-ripple",
+          "observedAt": "2026-11-16T10:31:32.434Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nativescript-community/ui-material-ripple",
+      "semver": "7.0.28",
+      "publishedAt": "2022-09-16T19:51:56.764Z",
+      "publisher": "edusperoni",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 96737,
+      "dependencies": {
+        "@nativescript-community/ui-material-core": "^7.0.28"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-ripple",
+          "observedAt": "2026-11-16T10:31:32.434Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-ripple",
+          "observedAt": "2026-11-16T10:31:32.434Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-ripple",
+          "observedAt": "2026-11-16T10:31:32.434Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-ripple",
+          "observedAt": "2026-11-16T10:31:32.434Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-ripple",
+          "observedAt": "2026-11-16T10:31:32.434Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-ripple",
+          "observedAt": "2026-11-16T10:31:32.434Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nativescript-community/ui-material-ripple",
+      "semver": "7.2.71",
+      "publishedAt": "2025-02-20T15:32:32.832Z",
+      "publisher": "farfromrefuge",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 41809,
+      "dependencies": {
+        "@nativescript-community/ui-material-core": "^7.2.71"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-ripple",
+          "observedAt": "2026-11-16T10:31:32.434Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-ripple",
+          "observedAt": "2026-11-16T10:31:32.434Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-ripple",
+          "observedAt": "2026-11-16T10:31:32.434Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-ripple",
+          "observedAt": "2026-11-16T10:31:32.434Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-ripple",
+          "observedAt": "2026-11-16T10:31:32.434Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-ripple",
+          "observedAt": "2026-11-16T10:31:32.434Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nativescript-community/ui-material-ripple",
+      "semver": "7.2.72",
+      "publishedAt": "2025-09-15T09:16:49.229Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-ripple",
+          "observedAt": "2026-11-16T10:31:32.434Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nativescript-community/ui-material-ripple",
+      "semver": "7.2.73",
+      "publishedAt": "2025-09-15T10:41:15.221Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-ripple",
+          "observedAt": "2026-11-16T10:31:32.434Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nativescript-community/ui-material-ripple",
+      "semver": "7.2.74",
+      "publishedAt": "2025-09-15T10:47:38.424Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-ripple",
+          "observedAt": "2026-11-16T10:31:32.434Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nativescript-community/ui-material-ripple",
+      "semver": "7.2.75",
+      "publishedAt": "2025-09-15T13:16:12.486Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Fui-material-ripple",
+          "observedAt": "2026-11-16T10:31:32.434Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

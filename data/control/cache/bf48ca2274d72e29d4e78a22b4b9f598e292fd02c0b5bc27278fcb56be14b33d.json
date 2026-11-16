@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@istanbuljs/load-nyc-config",
+  "source": "https://registry.npmjs.org/%40istanbuljs%2Fload-nyc-config",
+  "fetchedAt": "2026-11-16T10:34:35.455Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 5
+  },
+  "sourceSha256": "477e7d636f6efba3d8501bec2bb057d6769b2d4b0b258207225bf89f302a1d65",
+  "versions": [
+    {
+      "pkg": "@istanbuljs/load-nyc-config",
+      "semver": "1.1.0",
+      "publishedAt": "2020-05-20T15:44:39.756Z",
+      "publisher": "coreyfarrell",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 10873,
+      "dependencies": {
+        "camelcase": "^5.3.1",
+        "find-up": "^4.1.0",
+        "get-package-type": "^0.1.0",
+        "js-yaml": "^3.13.1",
+        "resolve-from": "^5.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40istanbuljs%2Fload-nyc-config",
+          "observedAt": "2026-11-16T10:34:35.455Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40istanbuljs%2Fload-nyc-config",
+          "observedAt": "2026-11-16T10:34:35.455Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40istanbuljs%2Fload-nyc-config",
+          "observedAt": "2026-11-16T10:34:35.455Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40istanbuljs%2Fload-nyc-config",
+          "observedAt": "2026-11-16T10:34:35.455Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40istanbuljs%2Fload-nyc-config",
+          "observedAt": "2026-11-16T10:34:35.455Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40istanbuljs%2Fload-nyc-config",
+          "observedAt": "2026-11-16T10:34:35.455Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

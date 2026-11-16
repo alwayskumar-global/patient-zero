@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "patient-zero-historical-demo": {
+      "command": "node",
+      "args": ["/absolute/path/to/patient-zero/packages/cli/dist/index.js", "mcp", "--store", "/absolute/path/to/patient-zero/patient-zero.rl", "--lockfile", "/absolute/path/to/patient-zero/fixtures/lockfiles/chalk-v3.json", "--as-of", "2025-09-08T14:00:00Z", "--mode", "retrospective"]
+    }
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "schemaVersion": 1,
+  "pkg": "minipass-fetch",
+  "source": "https://registry.npmjs.org/minipass-fetch",
+  "fetchedAt": "2026-11-16T10:35:13.598Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 35
+  },
+  "sourceSha256": "4ccb60a250eb334a51c50af17feed4d11a02f9e6c73e9a93d870444be364a3be",
+  "versions": [
+    {
+      "pkg": "minipass-fetch",
+      "semver": "1.4.1",
+      "publishedAt": "2021-08-31T16:13:28.243Z",
+      "publisher": "isaacs",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 43181,
+      "dependencies": {
+        "encoding": "^0.1.12",
+        "minipass": "^3.1.0",
+        "minizlib": "^2.0.0",
+        "minipass-sized": "^1.0.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/minipass-fetch",
+          "observedAt": "2026-11-16T10:35:13.598Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/minipass-fetch",
+          "observedAt": "2026-11-16T10:35:13.598Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/minipass-fetch",
+          "observedAt": "2026-11-16T10:35:13.598Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/minipass-fetch",
+          "observedAt": "2026-11-16T10:35:13.598Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/minipass-fetch",
+          "observedAt": "2026-11-16T10:35:13.598Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/minipass-fetch",
+          "observedAt": "2026-11-16T10:35:13.598Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "minipass-fetch",
+      "semver": "2.1.0",
+      "publishedAt": "2022-03-24T17:05:12.711Z",
+      "publisher": "nlf",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 46245,
+      "dependencies": {
+        "encoding": "^0.1.13",
+        "minipass": "^3.1.6",
+        "minizlib": "^2.1.2",
+        "minipass-sized": "^1.0.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/minipass-fetch",
+          "observedAt": "2026-11-16T10:35:13.598Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/minipass-fetch",
+          "observedAt": "2026-11-16T10:35:13.598Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/minipass-fetch",
+          "observedAt": "2026-11-16T10:35:13.598Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/minipass-fetch",
+          "observedAt": "2026-11-16T10:35:13.598Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/minipass-fetch",
+          "observedAt": "2026-11-16T10:35:13.598Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/minipass-fetch",
+          "observedAt": "2026-11-16T10:35:13.598Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "minipass-fetch",
+      "semver": "2.1.2",
+      "publishedAt": "2022-08-22T15:47:35.467Z",
+      "publisher": "gar",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 46289,
+      "dependencies": {
+        "encoding": "^0.1.13",
+        "minipass": "^3.1.6",
+        "minizlib": "^2.1.2",
+        "minipass-sized": "^1.0.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/minipass-fetch",
+          "observedAt": "2026-11-16T10:35:13.598Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/minipass-fetch",
+          "observedAt": "2026-11-16T10:35:13.598Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/minipass-fetch",
+          "observedAt": "2026-11-16T10:35:13.598Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/minipass-fetch",
+          "observedAt": "2026-11-16T10:35:13.598Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/minipass-fetch",
+          "observedAt": "2026-11-16T10:35:13.598Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/minipass-fetch",
+          "observedAt": "2026-11-16T10:35:13.598Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "minipass-fetch",
+      "semver": "3.0.1",
+      "publishedAt": "2022-12-07T20:32:38.800Z",
+      "publisher": "lukekarrys",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 46245,
+      "dependencies": {
+        "encoding": "^0.1.13",
+        "minipass": "^4.0.0",
+        "minizlib": "^2.1.2",
+        "minipass-sized": "^1.0.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/minipass-fetch",
+          "observedAt": "2026-11-16T10:35:13.598Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/minipass-fetch",
+          "observedAt": "2026-11-16T10:35:13.598Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/minipass-fetch",
+          "observedAt": "2026-11-16T10:35:13.598Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/minipass-fetch",
+          "observedAt": "2026-11-16T10:35:13.598Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/minipass-fetch",
+          "observedAt": "2026-11-16T10:35:13.598Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/minipass-fetch",
+          "observedAt": "2026-11-16T10:35:13.598Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "minipass-fetch",
+      "semver": "4.0.1",
+      "publishedAt": "2025-02-26T23:15:44.323Z",
+      "publisher": "npm-cli-ops",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 46826,
+      "dependencies": {
+        "minipass": "^7.0.3",
+        "minizlib": "^3.0.1",
+        "minipass-sized": "^1.0.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/minipass-fetch",
+          "observedAt": "2026-11-16T10:35:13.598Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/minipass-fetch",
+          "observedAt": "2026-11-16T10:35:13.598Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/minipass-fetch",
+          "observedAt": "2026-11-16T10:35:13.598Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/minipass-fetch",
+          "observedAt": "2026-11-16T10:35:13.598Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/minipass-fetch",
+          "observedAt": "2026-11-16T10:35:13.598Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/minipass-fetch",
+          "observedAt": "2026-11-16T10:35:13.598Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

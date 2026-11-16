@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@types/graceful-fs",
+  "source": "https://registry.npmjs.org/%40types%2Fgraceful-fs",
+  "fetchedAt": "2026-11-16T10:39:49.751Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 23
+  },
+  "normalizationWarnings": [
+    {
+      "version": "2.0.15-alpha",
+      "field": "dependencies",
+      "reason": "Malformed historical dependency map preserved as unknown"
+    },
+    {
+      "version": "2.0.16-alpha",
+      "field": "dependencies",
+      "reason": "Malformed historical dependency map preserved as unknown"
+    }
+  ],
+  "sourceSha256": "4353156131a2074e5fd0f7fbd046511e70015bc8193022637df9507881a9e616",
+  "versions": [
+    {
+      "pkg": "@types/graceful-fs",
+      "semver": "4.1.9",
+      "publishedAt": "2023-11-07T06:37:38.558Z",
+      "publisher": "types",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 3899,
+      "dependencies": {
+        "@types/node": "*"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40types%2Fgraceful-fs",
+          "observedAt": "2026-11-16T10:39:49.751Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40types%2Fgraceful-fs",
+          "observedAt": "2026-11-16T10:39:49.751Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40types%2Fgraceful-fs",
+          "observedAt": "2026-11-16T10:39:49.751Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40types%2Fgraceful-fs",
+          "observedAt": "2026-11-16T10:39:49.751Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40types%2Fgraceful-fs",
+          "observedAt": "2026-11-16T10:39:49.751Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40types%2Fgraceful-fs",
+          "observedAt": "2026-11-16T10:39:49.751Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

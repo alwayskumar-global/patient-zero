@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "pkg": "stackback",
+  "source": "https://registry.npmjs.org/stackback",
+  "fetchedAt": "2026-11-16T10:35:27.152Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 2
+  },
+  "sourceSha256": "ec4baf24a81d37a28ccd9012a26e7146dcf1209e8d9f2291cdac1244718d974d",
+  "versions": [
+    {
+      "pkg": "stackback",
+      "semver": "0.0.2",
+      "publishedAt": "2012-10-20T00:56:54.591Z",
+      "publisher": "shtylman",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/stackback",
+          "observedAt": "2026-11-16T10:35:27.152Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/stackback",
+          "observedAt": "2026-11-16T10:35:27.152Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/stackback",
+          "observedAt": "2026-11-16T10:35:27.152Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/stackback",
+          "observedAt": "2026-11-16T10:35:27.152Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/stackback",
+          "observedAt": "2026-11-16T10:35:27.152Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

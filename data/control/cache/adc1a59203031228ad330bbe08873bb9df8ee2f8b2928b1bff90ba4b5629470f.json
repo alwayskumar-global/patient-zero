@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@babel/plugin-transform-async-generator-functions",
+  "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-async-generator-functions",
+  "fetchedAt": "2026-11-16T10:34:32.263Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 59
+  },
+  "sourceSha256": "352e7720ae25cd792adf336cd76a4376f44641b97d8e4f38b91afb36ac2f375d",
+  "versions": [
+    {
+      "pkg": "@babel/plugin-transform-async-generator-functions",
+      "semver": "8.0.0-beta.1",
+      "publishedAt": "2025-07-02T09:04:47.346Z",
+      "publisher": "nicolo-ribaudo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 20145,
+      "dependencies": {
+        "@babel/traverse": "^8.0.0-beta.1",
+        "@babel/helper-plugin-utils": "^8.0.0-beta.1",
+        "@babel/helper-remap-async-to-generator": "^8.0.0-beta.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-async-generator-functions",
+          "observedAt": "2026-11-16T10:34:32.263Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-async-generator-functions",
+          "observedAt": "2026-11-16T10:34:32.263Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-async-generator-functions",
+          "observedAt": "2026-11-16T10:34:32.263Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-async-generator-functions",
+          "observedAt": "2026-11-16T10:34:32.263Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-async-generator-functions",
+          "observedAt": "2026-11-16T10:34:32.263Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-async-generator-functions",
+          "observedAt": "2026-11-16T10:34:32.263Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

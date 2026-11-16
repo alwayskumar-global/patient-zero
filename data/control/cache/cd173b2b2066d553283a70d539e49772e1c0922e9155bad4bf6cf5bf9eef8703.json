@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "pkg": "html-tags",
+  "source": "https://registry.npmjs.org/html-tags",
+  "fetchedAt": "2026-11-16T10:35:04.078Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 19
+  },
+  "sourceSha256": "b44b296f690c96b3987dcac4b44efd5103ebe8fcb06280603e24b7364657f242",
+  "versions": [
+    {
+      "pkg": "html-tags",
+      "semver": "5.0.0",
+      "publishedAt": "2025-05-07T07:13:25.146Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 5967,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/html-tags",
+          "observedAt": "2026-11-16T10:35:04.078Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/html-tags",
+          "observedAt": "2026-11-16T10:35:04.078Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/html-tags",
+          "observedAt": "2026-11-16T10:35:04.078Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/html-tags",
+          "observedAt": "2026-11-16T10:35:04.078Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/html-tags",
+          "observedAt": "2026-11-16T10:35:04.078Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/html-tags",
+          "observedAt": "2026-11-16T10:35:04.078Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "html-tags",
+      "semver": "5.1.0",
+      "publishedAt": "2025-08-01T11:54:20.671Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 6008,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/html-tags",
+          "observedAt": "2026-11-16T10:35:04.078Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/html-tags",
+          "observedAt": "2026-11-16T10:35:04.078Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/html-tags",
+          "observedAt": "2026-11-16T10:35:04.078Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/html-tags",
+          "observedAt": "2026-11-16T10:35:04.078Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/html-tags",
+          "observedAt": "2026-11-16T10:35:04.078Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/html-tags",
+          "observedAt": "2026-11-16T10:35:04.078Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

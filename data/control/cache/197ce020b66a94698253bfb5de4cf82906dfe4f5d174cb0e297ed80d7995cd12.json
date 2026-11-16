@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "pkg": "selfsigned",
+  "source": "https://registry.npmjs.org/selfsigned",
+  "fetchedAt": "2026-11-16T10:35:26.001Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 43
+  },
+  "sourceSha256": "fdf10e48658d49833e2c50d0410de0d45888c464376a851c52b6437edae42afd",
+  "versions": [
+    {
+      "pkg": "selfsigned",
+      "semver": "0.0.6",
+      "publishedAt": "2013-03-27T14:17:51.605Z",
+      "publisher": null,
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "tmp": "0.0.16",
+        "async": "~0.2.6"
+      },
+      "evidence": {
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/selfsigned",
+          "observedAt": "2026-11-16T10:35:26.001Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/selfsigned",
+          "observedAt": "2026-11-16T10:35:26.001Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/selfsigned",
+          "observedAt": "2026-11-16T10:35:26.001Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/selfsigned",
+          "observedAt": "2026-11-16T10:35:26.001Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "selfsigned",
+      "semver": "3.0.1",
+      "publishedAt": "2025-07-23T14:24:50.991Z",
+      "publisher": "jfromaniello",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 26098,
+      "dependencies": {
+        "node-forge": "^1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/selfsigned",
+          "observedAt": "2026-11-16T10:35:26.001Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/selfsigned",
+          "observedAt": "2026-11-16T10:35:26.001Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/selfsigned",
+          "observedAt": "2026-11-16T10:35:26.001Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/selfsigned",
+          "observedAt": "2026-11-16T10:35:26.001Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/selfsigned",
+          "observedAt": "2026-11-16T10:35:26.001Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/selfsigned",
+          "observedAt": "2026-11-16T10:35:26.001Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

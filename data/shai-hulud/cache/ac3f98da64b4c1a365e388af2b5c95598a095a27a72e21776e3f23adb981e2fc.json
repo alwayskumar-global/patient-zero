@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "pkg": "teselagen-interval-tree",
+  "source": "https://registry.npmjs.org/teselagen-interval-tree",
+  "fetchedAt": "2026-11-16T10:32:29.195Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 2
+  },
+  "sourceSha256": "03c5193501fcde241786ab7dbd18f47a174ce839ca6a0ee1d54c74cb985fffd1",
+  "versions": [
+    {
+      "pkg": "teselagen-interval-tree",
+      "semver": "1.1.1",
+      "publishedAt": "2017-06-16T05:18:30.566Z",
+      "publisher": "teselagen",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/teselagen-interval-tree",
+          "observedAt": "2026-11-16T10:32:29.195Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/teselagen-interval-tree",
+          "observedAt": "2026-11-16T10:32:29.195Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/teselagen-interval-tree",
+          "observedAt": "2026-11-16T10:32:29.195Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/teselagen-interval-tree",
+          "observedAt": "2026-11-16T10:32:29.195Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/teselagen-interval-tree",
+          "observedAt": "2026-11-16T10:32:29.195Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "teselagen-interval-tree",
+      "semver": "1.1.2",
+      "publishedAt": "2025-09-16T02:33:09.346Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/teselagen-interval-tree",
+          "observedAt": "2026-11-16T10:32:29.195Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

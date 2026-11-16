@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 1,
+  "pkg": "cssom",
+  "source": "https://registry.npmjs.org/cssom",
+  "fetchedAt": "2026-11-16T10:34:58.953Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 21
+  },
+  "sourceSha256": "65d0e8f58f3124cda771630db5aef5fd99d75d8809a86a09242ccfa715b02676",
+  "versions": [
+    {
+      "pkg": "cssom",
+      "semver": "0.2.5",
+      "publishedAt": "2012-07-15T22:21:54.083Z",
+      "publisher": null,
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/cssom",
+          "observedAt": "2026-11-16T10:34:58.953Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/cssom",
+          "observedAt": "2026-11-16T10:34:58.953Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/cssom",
+          "observedAt": "2026-11-16T10:34:58.953Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/cssom",
+          "observedAt": "2026-11-16T10:34:58.953Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "cssom",
+      "semver": "0.3.1",
+      "publishedAt": "2016-02-01T00:37:48.624Z",
+      "publisher": "domenic",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/cssom",
+          "observedAt": "2026-11-16T10:34:58.953Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/cssom",
+          "observedAt": "2026-11-16T10:34:58.953Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/cssom",
+          "observedAt": "2026-11-16T10:34:58.953Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/cssom",
+          "observedAt": "2026-11-16T10:34:58.953Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/cssom",
+          "observedAt": "2026-11-16T10:34:58.953Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "cssom",
+      "semver": "0.5.0",
+      "publishedAt": "2021-06-20T19:55:11.575Z",
+      "publisher": "nv",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 52065,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/cssom",
+          "observedAt": "2026-11-16T10:34:58.953Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/cssom",
+          "observedAt": "2026-11-16T10:34:58.953Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/cssom",
+          "observedAt": "2026-11-16T10:34:58.953Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/cssom",
+          "observedAt": "2026-11-16T10:34:58.953Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/cssom",
+          "observedAt": "2026-11-16T10:34:58.953Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/cssom",
+          "observedAt": "2026-11-16T10:34:58.953Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

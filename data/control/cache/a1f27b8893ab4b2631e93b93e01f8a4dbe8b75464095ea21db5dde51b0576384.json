@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "pkg": "path-is-inside",
+  "source": "https://registry.npmjs.org/path-is-inside",
+  "fetchedAt": "2026-11-16T10:35:17.324Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 3
+  },
+  "sourceSha256": "055d0959b4dca3b4cc0be35b6b9ac1f3a10232b009c6693886873aba63224c16",
+  "versions": [
+    {
+      "pkg": "path-is-inside",
+      "semver": "1.0.2",
+      "publishedAt": "2016-09-10T23:35:10.802Z",
+      "publisher": "domenic",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/path-is-inside",
+          "observedAt": "2026-11-16T10:35:17.324Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/path-is-inside",
+          "observedAt": "2026-11-16T10:35:17.324Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/path-is-inside",
+          "observedAt": "2026-11-16T10:35:17.324Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/path-is-inside",
+          "observedAt": "2026-11-16T10:35:17.324Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/path-is-inside",
+          "observedAt": "2026-11-16T10:35:17.324Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

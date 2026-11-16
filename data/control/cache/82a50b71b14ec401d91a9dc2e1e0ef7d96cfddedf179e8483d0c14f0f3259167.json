@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "pkg": "aws-sign2",
+  "source": "https://registry.npmjs.org/aws-sign2",
+  "fetchedAt": "2026-11-16T10:34:56.216Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 4
+  },
+  "sourceSha256": "459597e26061589c6bcb4ed530d0a9b0218b0e94e308b593c515ca93f89d8baf",
+  "versions": [
+    {
+      "pkg": "aws-sign2",
+      "semver": "0.7.0",
+      "publishedAt": "2017-04-12T19:08:50.725Z",
+      "publisher": "mikeal",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/aws-sign2",
+          "observedAt": "2026-11-16T10:34:56.216Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/aws-sign2",
+          "observedAt": "2026-11-16T10:34:56.216Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/aws-sign2",
+          "observedAt": "2026-11-16T10:34:56.216Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/aws-sign2",
+          "observedAt": "2026-11-16T10:34:56.216Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/aws-sign2",
+          "observedAt": "2026-11-16T10:34:56.216Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

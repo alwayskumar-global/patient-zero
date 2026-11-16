@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "pkg": "default-browser",
+  "source": "https://registry.npmjs.org/default-browser",
+  "fetchedAt": "2026-11-16T10:34:59.499Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 16
+  },
+  "sourceSha256": "fdd3c16aa6f2c7046f04e5bab6b93978cb8ec4f4fa3718740f69478b9cffba8f",
+  "versions": [
+    {
+      "pkg": "default-browser",
+      "semver": "5.2.1",
+      "publishedAt": "2023-12-27T18:04:34.946Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 5822,
+      "dependencies": {
+        "bundle-name": "^4.1.0",
+        "default-browser-id": "^5.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/default-browser",
+          "observedAt": "2026-11-16T10:34:59.499Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/default-browser",
+          "observedAt": "2026-11-16T10:34:59.499Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/default-browser",
+          "observedAt": "2026-11-16T10:34:59.499Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/default-browser",
+          "observedAt": "2026-11-16T10:34:59.499Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/default-browser",
+          "observedAt": "2026-11-16T10:34:59.499Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/default-browser",
+          "observedAt": "2026-11-16T10:34:59.499Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

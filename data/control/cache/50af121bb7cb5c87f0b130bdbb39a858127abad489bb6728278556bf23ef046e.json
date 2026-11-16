@@ -1,0 +1,295 @@
+{
+  "schemaVersion": 1,
+  "pkg": "npm-pick-manifest",
+  "source": "https://registry.npmjs.org/npm-pick-manifest",
+  "fetchedAt": "2026-11-16T10:35:15.579Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 34
+  },
+  "sourceSha256": "bd6192ec6a033486032cdf35884414a9e60c1017b67696797fef91c6bcfc1260",
+  "versions": [
+    {
+      "pkg": "npm-pick-manifest",
+      "semver": "10.0.0",
+      "publishedAt": "2024-09-26T16:28:43.529Z",
+      "publisher": "npm-cli-ops",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 16512,
+      "dependencies": {
+        "semver": "^7.3.5",
+        "npm-package-arg": "^12.0.0",
+        "npm-install-checks": "^7.1.0",
+        "npm-normalize-package-bin": "^4.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/npm-pick-manifest",
+          "observedAt": "2026-11-16T10:35:15.579Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/npm-pick-manifest",
+          "observedAt": "2026-11-16T10:35:15.579Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/npm-pick-manifest",
+          "observedAt": "2026-11-16T10:35:15.579Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/npm-pick-manifest",
+          "observedAt": "2026-11-16T10:35:15.579Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/npm-pick-manifest",
+          "observedAt": "2026-11-16T10:35:15.579Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/npm-pick-manifest",
+          "observedAt": "2026-11-16T10:35:15.579Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "npm-pick-manifest",
+      "semver": "2.2.3",
+      "publishedAt": "2018-10-31T02:59:58.415Z",
+      "publisher": "zkat",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 12153,
+      "dependencies": {
+        "semver": "^5.4.1",
+        "figgy-pudding": "^3.5.1",
+        "npm-package-arg": "^6.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/npm-pick-manifest",
+          "observedAt": "2026-11-16T10:35:15.579Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/npm-pick-manifest",
+          "observedAt": "2026-11-16T10:35:15.579Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/npm-pick-manifest",
+          "observedAt": "2026-11-16T10:35:15.579Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/npm-pick-manifest",
+          "observedAt": "2026-11-16T10:35:15.579Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/npm-pick-manifest",
+          "observedAt": "2026-11-16T10:35:15.579Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/npm-pick-manifest",
+          "observedAt": "2026-11-16T10:35:15.579Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "npm-pick-manifest",
+      "semver": "6.1.0",
+      "publishedAt": "2020-04-07T23:43:08.146Z",
+      "publisher": "isaacs",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 22473,
+      "dependencies": {
+        "semver": "^7.0.0",
+        "npm-package-arg": "^8.0.0",
+        "npm-install-checks": "^4.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/npm-pick-manifest",
+          "observedAt": "2026-11-16T10:35:15.579Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/npm-pick-manifest",
+          "observedAt": "2026-11-16T10:35:15.579Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/npm-pick-manifest",
+          "observedAt": "2026-11-16T10:35:15.579Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/npm-pick-manifest",
+          "observedAt": "2026-11-16T10:35:15.579Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/npm-pick-manifest",
+          "observedAt": "2026-11-16T10:35:15.579Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/npm-pick-manifest",
+          "observedAt": "2026-11-16T10:35:15.579Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "npm-pick-manifest",
+      "semver": "6.1.1",
+      "publishedAt": "2021-03-18T19:03:56.549Z",
+      "publisher": "ruyadorno",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 22587,
+      "dependencies": {
+        "semver": "^7.3.4",
+        "npm-package-arg": "^8.1.2",
+        "npm-install-checks": "^4.0.0",
+        "npm-normalize-package-bin": "^1.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/npm-pick-manifest",
+          "observedAt": "2026-11-16T10:35:15.579Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/npm-pick-manifest",
+          "observedAt": "2026-11-16T10:35:15.579Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/npm-pick-manifest",
+          "observedAt": "2026-11-16T10:35:15.579Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/npm-pick-manifest",
+          "observedAt": "2026-11-16T10:35:15.579Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/npm-pick-manifest",
+          "observedAt": "2026-11-16T10:35:15.579Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/npm-pick-manifest",
+          "observedAt": "2026-11-16T10:35:15.579Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "npm-pick-manifest",
+      "semver": "8.0.0",
+      "publishedAt": "2022-10-14T20:39:29.281Z",
+      "publisher": "lukekarrys",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 16273,
+      "dependencies": {
+        "semver": "^7.3.5",
+        "npm-package-arg": "^9.0.0",
+        "npm-install-checks": "^6.0.0",
+        "npm-normalize-package-bin": "^3.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/npm-pick-manifest",
+          "observedAt": "2026-11-16T10:35:15.579Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/npm-pick-manifest",
+          "observedAt": "2026-11-16T10:35:15.579Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/npm-pick-manifest",
+          "observedAt": "2026-11-16T10:35:15.579Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/npm-pick-manifest",
+          "observedAt": "2026-11-16T10:35:15.579Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/npm-pick-manifest",
+          "observedAt": "2026-11-16T10:35:15.579Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/npm-pick-manifest",
+          "observedAt": "2026-11-16T10:35:15.579Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "npm-pick-manifest",
+      "semver": "8.0.1",
+      "publishedAt": "2022-10-18T16:00:17.316Z",
+      "publisher": "gar",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 16274,
+      "dependencies": {
+        "semver": "^7.3.5",
+        "npm-package-arg": "^10.0.0",
+        "npm-install-checks": "^6.0.0",
+        "npm-normalize-package-bin": "^3.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/npm-pick-manifest",
+          "observedAt": "2026-11-16T10:35:15.579Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/npm-pick-manifest",
+          "observedAt": "2026-11-16T10:35:15.579Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/npm-pick-manifest",
+          "observedAt": "2026-11-16T10:35:15.579Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/npm-pick-manifest",
+          "observedAt": "2026-11-16T10:35:15.579Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/npm-pick-manifest",
+          "observedAt": "2026-11-16T10:35:15.579Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/npm-pick-manifest",
+          "observedAt": "2026-11-16T10:35:15.579Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

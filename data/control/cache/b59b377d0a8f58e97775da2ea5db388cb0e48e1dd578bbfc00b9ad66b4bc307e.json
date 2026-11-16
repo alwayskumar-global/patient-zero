@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "json-buffer",
+  "source": "https://registry.npmjs.org/json-buffer",
+  "fetchedAt": "2026-11-16T10:35:08.726Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 15
+  },
+  "sourceSha256": "5ed1b1234aab0589dbaafa2c862c633bb01cd0e95ae104a92096eb8c79fc0dbd",
+  "versions": [
+    {
+      "pkg": "json-buffer",
+      "semver": "3.0.1",
+      "publishedAt": "2018-09-10T19:02:16.381Z",
+      "publisher": "dominictarr",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 5404,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/json-buffer",
+          "observedAt": "2026-11-16T10:35:08.726Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/json-buffer",
+          "observedAt": "2026-11-16T10:35:08.726Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/json-buffer",
+          "observedAt": "2026-11-16T10:35:08.726Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/json-buffer",
+          "observedAt": "2026-11-16T10:35:08.726Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/json-buffer",
+          "observedAt": "2026-11-16T10:35:08.726Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/json-buffer",
+          "observedAt": "2026-11-16T10:35:08.726Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,343 @@
+{
+  "schemaVersion": 1,
+  "pkg": "conventional-commits-parser",
+  "source": "https://registry.npmjs.org/conventional-commits-parser",
+  "fetchedAt": "2026-11-16T10:34:58.366Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 70
+  },
+  "sourceSha256": "3e01d90150ac5e5ec1e4a2c758221e8773c2c4f358e577d94696253238b3e2e9",
+  "versions": [
+    {
+      "pkg": "conventional-commits-parser",
+      "semver": "2.0.1",
+      "publishedAt": "2017-11-13T00:17:17.155Z",
+      "publisher": "stevemao",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "meow": "^3.3.0",
+        "lodash": "^4.2.1",
+        "split2": "^2.0.0",
+        "through2": "^2.0.0",
+        "JSONStream": "^1.0.4",
+        "is-text-path": "^1.0.0",
+        "trim-off-newlines": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/conventional-commits-parser",
+          "observedAt": "2026-11-16T10:34:58.366Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/conventional-commits-parser",
+          "observedAt": "2026-11-16T10:34:58.366Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/conventional-commits-parser",
+          "observedAt": "2026-11-16T10:34:58.366Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/conventional-commits-parser",
+          "observedAt": "2026-11-16T10:34:58.366Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/conventional-commits-parser",
+          "observedAt": "2026-11-16T10:34:58.366Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "conventional-commits-parser",
+      "semver": "2.1.0",
+      "publishedAt": "2017-12-08T07:13:13.565Z",
+      "publisher": "marionebl",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "meow": "^3.3.0",
+        "lodash": "^4.2.1",
+        "split2": "^2.0.0",
+        "through2": "^2.0.0",
+        "JSONStream": "^1.0.4",
+        "is-text-path": "^1.0.0",
+        "trim-off-newlines": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/conventional-commits-parser",
+          "observedAt": "2026-11-16T10:34:58.366Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/conventional-commits-parser",
+          "observedAt": "2026-11-16T10:34:58.366Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/conventional-commits-parser",
+          "observedAt": "2026-11-16T10:34:58.366Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/conventional-commits-parser",
+          "observedAt": "2026-11-16T10:34:58.366Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/conventional-commits-parser",
+          "observedAt": "2026-11-16T10:34:58.366Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "conventional-commits-parser",
+      "semver": "3.0.0",
+      "publishedAt": "2018-05-29T14:27:26.711Z",
+      "publisher": "hbetts",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 49444,
+      "dependencies": {
+        "meow": "^4.0.0",
+        "lodash": "^4.2.1",
+        "split2": "^2.0.0",
+        "through2": "^2.0.0",
+        "JSONStream": "^1.0.4",
+        "is-text-path": "^1.0.0",
+        "trim-off-newlines": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/conventional-commits-parser",
+          "observedAt": "2026-11-16T10:34:58.366Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/conventional-commits-parser",
+          "observedAt": "2026-11-16T10:34:58.366Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/conventional-commits-parser",
+          "observedAt": "2026-11-16T10:34:58.366Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/conventional-commits-parser",
+          "observedAt": "2026-11-16T10:34:58.366Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/conventional-commits-parser",
+          "observedAt": "2026-11-16T10:34:58.366Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/conventional-commits-parser",
+          "observedAt": "2026-11-16T10:34:58.366Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "conventional-commits-parser",
+      "semver": "3.0.8",
+      "publishedAt": "2019-11-14T22:08:42.342Z",
+      "publisher": "tommywo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 53443,
+      "dependencies": {
+        "meow": "^5.0.0",
+        "lodash": "^4.17.15",
+        "split2": "^2.0.0",
+        "through2": "^3.0.0",
+        "JSONStream": "^1.0.4",
+        "is-text-path": "^1.0.1",
+        "trim-off-newlines": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/conventional-commits-parser",
+          "observedAt": "2026-11-16T10:34:58.366Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/conventional-commits-parser",
+          "observedAt": "2026-11-16T10:34:58.366Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/conventional-commits-parser",
+          "observedAt": "2026-11-16T10:34:58.366Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/conventional-commits-parser",
+          "observedAt": "2026-11-16T10:34:58.366Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/conventional-commits-parser",
+          "observedAt": "2026-11-16T10:34:58.366Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/conventional-commits-parser",
+          "observedAt": "2026-11-16T10:34:58.366Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "conventional-commits-parser",
+      "semver": "3.2.0",
+      "publishedAt": "2020-11-05T01:25:15.325Z",
+      "publisher": "bcoe",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 56442,
+      "dependencies": {
+        "meow": "^8.0.0",
+        "lodash": "^4.17.15",
+        "split2": "^2.0.0",
+        "through2": "^4.0.0",
+        "JSONStream": "^1.0.4",
+        "is-text-path": "^1.0.1",
+        "trim-off-newlines": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/conventional-commits-parser",
+          "observedAt": "2026-11-16T10:34:58.366Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/conventional-commits-parser",
+          "observedAt": "2026-11-16T10:34:58.366Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/conventional-commits-parser",
+          "observedAt": "2026-11-16T10:34:58.366Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/conventional-commits-parser",
+          "observedAt": "2026-11-16T10:34:58.366Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/conventional-commits-parser",
+          "observedAt": "2026-11-16T10:34:58.366Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/conventional-commits-parser",
+          "observedAt": "2026-11-16T10:34:58.366Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "conventional-commits-parser",
+      "semver": "6.0.0",
+      "publishedAt": "2024-05-03T22:57:00.877Z",
+      "publisher": "oss-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 74800,
+      "dependencies": {
+        "meow": "^13.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/conventional-commits-parser",
+          "observedAt": "2026-11-16T10:34:58.366Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/conventional-commits-parser",
+          "observedAt": "2026-11-16T10:34:58.366Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/conventional-commits-parser",
+          "observedAt": "2026-11-16T10:34:58.366Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/conventional-commits-parser",
+          "observedAt": "2026-11-16T10:34:58.366Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/conventional-commits-parser",
+          "observedAt": "2026-11-16T10:34:58.366Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/conventional-commits-parser",
+          "observedAt": "2026-11-16T10:34:58.366Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "conventional-commits-parser",
+      "semver": "6.2.0",
+      "publishedAt": "2025-06-09T10:40:55.312Z",
+      "publisher": "dangreen",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 76984,
+      "dependencies": {
+        "meow": "^13.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/conventional-commits-parser",
+          "observedAt": "2026-11-16T10:34:58.366Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/conventional-commits-parser",
+          "observedAt": "2026-11-16T10:34:58.366Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/conventional-commits-parser",
+          "observedAt": "2026-11-16T10:34:58.366Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/conventional-commits-parser",
+          "observedAt": "2026-11-16T10:34:58.366Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/conventional-commits-parser",
+          "observedAt": "2026-11-16T10:34:58.366Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/conventional-commits-parser",
+          "observedAt": "2026-11-16T10:34:58.366Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

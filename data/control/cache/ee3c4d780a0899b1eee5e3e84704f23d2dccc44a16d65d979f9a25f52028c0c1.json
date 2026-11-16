@@ -1,0 +1,193 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@aws-crypto/crc32",
+  "source": "https://registry.npmjs.org/%40aws-crypto%2Fcrc32",
+  "fetchedAt": "2026-11-16T10:34:27.774Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 19
+  },
+  "sourceSha256": "2906a2dd92d9d33441e19878d793b0b25a90ef92b2c5a8c19bf766e6b1499fd3",
+  "versions": [
+    {
+      "pkg": "@aws-crypto/crc32",
+      "semver": "0.1.0-preview.3",
+      "publishedAt": "2019-11-15T20:18:35.913Z",
+      "publisher": "agray256",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 26107,
+      "dependencies": {
+        "tslib": "^1.9.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40aws-crypto%2Fcrc32",
+          "observedAt": "2026-11-16T10:34:27.774Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40aws-crypto%2Fcrc32",
+          "observedAt": "2026-11-16T10:34:27.774Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40aws-crypto%2Fcrc32",
+          "observedAt": "2026-11-16T10:34:27.774Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40aws-crypto%2Fcrc32",
+          "observedAt": "2026-11-16T10:34:27.774Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40aws-crypto%2Fcrc32",
+          "observedAt": "2026-11-16T10:34:27.774Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40aws-crypto%2Fcrc32",
+          "observedAt": "2026-11-16T10:34:27.774Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@aws-crypto/crc32",
+      "semver": "1.0.0",
+      "publishedAt": "2020-10-22T19:45:48.492Z",
+      "publisher": "lavaleri",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 27140,
+      "dependencies": {
+        "tslib": "^1.11.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40aws-crypto%2Fcrc32",
+          "observedAt": "2026-11-16T10:34:27.774Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40aws-crypto%2Fcrc32",
+          "observedAt": "2026-11-16T10:34:27.774Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40aws-crypto%2Fcrc32",
+          "observedAt": "2026-11-16T10:34:27.774Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40aws-crypto%2Fcrc32",
+          "observedAt": "2026-11-16T10:34:27.774Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40aws-crypto%2Fcrc32",
+          "observedAt": "2026-11-16T10:34:27.774Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40aws-crypto%2Fcrc32",
+          "observedAt": "2026-11-16T10:34:27.774Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@aws-crypto/crc32",
+      "semver": "1.0.0-alpha.0",
+      "publishedAt": "2020-02-07T20:13:14.936Z",
+      "publisher": "seebees",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 26903,
+      "dependencies": {
+        "tslib": "^1.9.3"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40aws-crypto%2Fcrc32",
+          "observedAt": "2026-11-16T10:34:27.774Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40aws-crypto%2Fcrc32",
+          "observedAt": "2026-11-16T10:34:27.774Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40aws-crypto%2Fcrc32",
+          "observedAt": "2026-11-16T10:34:27.774Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40aws-crypto%2Fcrc32",
+          "observedAt": "2026-11-16T10:34:27.774Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40aws-crypto%2Fcrc32",
+          "observedAt": "2026-11-16T10:34:27.774Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40aws-crypto%2Fcrc32",
+          "observedAt": "2026-11-16T10:34:27.774Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@aws-crypto/crc32",
+      "semver": "5.2.0",
+      "publishedAt": "2023-10-16T19:44:46.959Z",
+      "publisher": "aws-crypto-tools-ci-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 43876,
+      "dependencies": {
+        "tslib": "^2.6.2",
+        "@aws-sdk/types": "^3.222.0",
+        "@aws-crypto/util": "^5.2.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40aws-crypto%2Fcrc32",
+          "observedAt": "2026-11-16T10:34:27.774Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40aws-crypto%2Fcrc32",
+          "observedAt": "2026-11-16T10:34:27.774Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40aws-crypto%2Fcrc32",
+          "observedAt": "2026-11-16T10:34:27.774Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40aws-crypto%2Fcrc32",
+          "observedAt": "2026-11-16T10:34:27.774Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40aws-crypto%2Fcrc32",
+          "observedAt": "2026-11-16T10:34:27.774Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40aws-crypto%2Fcrc32",
+          "observedAt": "2026-11-16T10:34:27.774Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

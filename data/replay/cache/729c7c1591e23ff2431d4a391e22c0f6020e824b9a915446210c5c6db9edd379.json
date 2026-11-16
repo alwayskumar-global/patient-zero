@@ -1,0 +1,1216 @@
+{
+  "schemaVersion": 1,
+  "pkg": "ansi-styles",
+  "source": "https://registry.npmjs.org/ansi-styles",
+  "fetchedAt": "2026-11-16T10:07:10.846Z",
+  "sourceSha256": "6994a0a5c6c6ff0cd74dbb996bd4d0b45ec4b8a8a827c3720d170626a852c350",
+  "versions": [
+    {
+      "pkg": "ansi-styles",
+      "semver": "0.1.0",
+      "publishedAt": "2013-07-31T23:00:32.552Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ansi-styles",
+      "semver": "0.1.1",
+      "publishedAt": "2013-08-03T00:31:59.821Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ansi-styles",
+      "semver": "0.1.2",
+      "publishedAt": "2013-08-03T01:38:52.766Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ansi-styles",
+      "semver": "0.2.0",
+      "publishedAt": "2013-08-03T16:40:58.340Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ansi-styles",
+      "semver": "1.0.0",
+      "publishedAt": "2013-12-08T00:00:09.315Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ansi-styles",
+      "semver": "1.1.0",
+      "publishedAt": "2014-06-03T23:35:17.884Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ansi-styles",
+      "semver": "2.0.0",
+      "publishedAt": "2014-11-23T11:52:58.607Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ansi-styles",
+      "semver": "2.0.1",
+      "publishedAt": "2015-02-22T09:21:36.085Z",
+      "publisher": "jbnicolai",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ansi-styles",
+      "semver": "2.1.0",
+      "publishedAt": "2015-07-01T13:26:31.005Z",
+      "publisher": "jbnicolai",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ansi-styles",
+      "semver": "2.2.0",
+      "publishedAt": "2016-02-21T12:27:55.984Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ansi-styles",
+      "semver": "2.2.1",
+      "publishedAt": "2016-03-28T20:35:18.267Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ansi-styles",
+      "semver": "3.0.0",
+      "publishedAt": "2017-01-17T09:16:34.807Z",
+      "publisher": "qix",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "color-convert": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ansi-styles",
+      "semver": "3.1.0",
+      "publishedAt": "2017-06-12T22:42:00.220Z",
+      "publisher": "qix",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "color-convert": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ansi-styles",
+      "semver": "3.2.0",
+      "publishedAt": "2017-07-23T11:25:48.038Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "color-convert": "^1.9.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ansi-styles",
+      "semver": "3.2.1",
+      "publishedAt": "2018-03-02T09:40:00.702Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 9371,
+      "dependencies": {
+        "color-convert": "^1.9.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ansi-styles",
+      "semver": "4.0.0",
+      "publishedAt": "2019-05-31T07:09:54.329Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 9741,
+      "dependencies": {
+        "color-convert": "^2.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ansi-styles",
+      "semver": "4.1.0",
+      "publishedAt": "2019-08-21T23:35:47.551Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 10214,
+      "dependencies": {
+        "color-convert": "^2.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ansi-styles",
+      "semver": "4.2.0",
+      "publishedAt": "2019-11-12T11:20:05.018Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 14675,
+      "dependencies": {
+        "color-convert": "^2.0.1",
+        "@types/color-name": "^1.1.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ansi-styles",
+      "semver": "4.2.1",
+      "publishedAt": "2020-01-01T18:15:19.134Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 14729,
+      "dependencies": {
+        "color-convert": "^2.0.1",
+        "@types/color-name": "^1.1.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ansi-styles",
+      "semver": "4.3.0",
+      "publishedAt": "2020-10-04T19:18:25.986Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 16978,
+      "dependencies": {
+        "color-convert": "^2.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ansi-styles",
+      "semver": "5.0.0",
+      "publishedAt": "2020-12-01T03:42:08.629Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 13185,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ansi-styles",
+      "semver": "5.1.0",
+      "publishedAt": "2021-01-22T14:28:47.169Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 13405,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ansi-styles",
+      "semver": "5.2.0",
+      "publishedAt": "2021-03-31T07:15:34.766Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 13596,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ansi-styles",
+      "semver": "6.0.0",
+      "publishedAt": "2021-04-16T05:46:35.357Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 13494,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ansi-styles",
+      "semver": "6.1.0",
+      "publishedAt": "2021-04-21T08:50:34.094Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 15535,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ansi-styles",
+      "semver": "6.1.1",
+      "publishedAt": "2022-09-10T06:30:34.873Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 15679,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ansi-styles",
+      "semver": "6.2.0",
+      "publishedAt": "2022-10-11T08:53:33.797Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 17512,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ansi-styles",
+      "semver": "6.2.1",
+      "publishedAt": "2022-10-12T16:34:06.647Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 17512,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ansi-styles",
+      "semver": "6.2.2",
+      "publishedAt": "2025-09-08T13:12:10.343Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ansi-styles",
+      "semver": "6.2.3",
+      "publishedAt": "2025-09-08T14:52:15.705Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 17488,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ansi-styles",
+      "semver": "7.0.0",
+      "publishedAt": "2026-07-26T14:57:36.835Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 22120,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ansi-styles",
+          "observedAt": "2026-11-16T10:07:10.846Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

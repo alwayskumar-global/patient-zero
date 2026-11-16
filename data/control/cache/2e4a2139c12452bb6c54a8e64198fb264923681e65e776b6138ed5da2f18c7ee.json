@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "pkg": "proto-list",
+  "source": "https://registry.npmjs.org/proto-list",
+  "fetchedAt": "2026-11-16T10:35:21.439Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 7
+  },
+  "sourceSha256": "18875d3716bc0369b4bec3bd1a9013143ab5f4a75993e827d45b47884d8a565e",
+  "versions": [
+    {
+      "pkg": "proto-list",
+      "semver": "1.2.2",
+      "publishedAt": "2012-08-15T01:41:19.429Z",
+      "publisher": null,
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/proto-list",
+          "observedAt": "2026-11-16T10:35:21.439Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/proto-list",
+          "observedAt": "2026-11-16T10:35:21.439Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/proto-list",
+          "observedAt": "2026-11-16T10:35:21.439Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/proto-list",
+          "observedAt": "2026-11-16T10:35:21.439Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "proto-list",
+      "semver": "1.2.4",
+      "publishedAt": "2015-05-21T00:58:33.471Z",
+      "publisher": "isaacs",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/proto-list",
+          "observedAt": "2026-11-16T10:35:21.439Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/proto-list",
+          "observedAt": "2026-11-16T10:35:21.439Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/proto-list",
+          "observedAt": "2026-11-16T10:35:21.439Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/proto-list",
+          "observedAt": "2026-11-16T10:35:21.439Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/proto-list",
+          "observedAt": "2026-11-16T10:35:21.439Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

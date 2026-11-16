@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "pkg": "whatwg-url",
+  "source": "https://registry.npmjs.org/whatwg-url",
+  "fetchedAt": "2026-11-16T10:35:34.742Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 77
+  },
+  "sourceSha256": "e799190ac3795b885b6d5430be399047961433e49f22be1cb58663b3941d212c",
+  "versions": [
+    {
+      "pkg": "whatwg-url",
+      "semver": "0.6.3",
+      "publishedAt": "2015-08-29T02:44:57.335Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/whatwg-url",
+          "observedAt": "2026-11-16T10:35:34.742Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "whatwg-url",
+      "semver": "14.2.0",
+      "publishedAt": "2025-03-15T07:12:41.904Z",
+      "publisher": "domenic",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 98558,
+      "dependencies": {
+        "tr46": "^5.1.0",
+        "webidl-conversions": "^7.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/whatwg-url",
+          "observedAt": "2026-11-16T10:35:34.742Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/whatwg-url",
+          "observedAt": "2026-11-16T10:35:34.742Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/whatwg-url",
+          "observedAt": "2026-11-16T10:35:34.742Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/whatwg-url",
+          "observedAt": "2026-11-16T10:35:34.742Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/whatwg-url",
+          "observedAt": "2026-11-16T10:35:34.742Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/whatwg-url",
+          "observedAt": "2026-11-16T10:35:34.742Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "whatwg-url",
+      "semver": "6.2.1",
+      "publishedAt": "2017-09-12T00:34:10.664Z",
+      "publisher": "sebmaster",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "tr46": "^1.0.0",
+        "lodash.sortby": "^4.7.0",
+        "webidl-conversions": "^4.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/whatwg-url",
+          "observedAt": "2026-11-16T10:35:34.742Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/whatwg-url",
+          "observedAt": "2026-11-16T10:35:34.742Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/whatwg-url",
+          "observedAt": "2026-11-16T10:35:34.742Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/whatwg-url",
+          "observedAt": "2026-11-16T10:35:34.742Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/whatwg-url",
+          "observedAt": "2026-11-16T10:35:34.742Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@babel/plugin-bugfix-safari-id-destructuring-collision-in-function-expression",
+  "source": "https://registry.npmjs.org/%40babel%2Fplugin-bugfix-safari-id-destructuring-collision-in-function-expression",
+  "fetchedAt": "2026-11-16T10:34:31.694Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 52
+  },
+  "sourceSha256": "3699c9fc350beb62ab31e6883037dc50dfa3595a2032cc42bb8a392a0022b0af",
+  "versions": [
+    {
+      "pkg": "@babel/plugin-bugfix-safari-id-destructuring-collision-in-function-expression",
+      "semver": "8.0.0-beta.1",
+      "publishedAt": "2025-07-02T09:04:00.387Z",
+      "publisher": "nicolo-ribaudo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7918,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "^8.0.0-beta.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-bugfix-safari-id-destructuring-collision-in-function-expression",
+          "observedAt": "2026-11-16T10:34:31.694Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-bugfix-safari-id-destructuring-collision-in-function-expression",
+          "observedAt": "2026-11-16T10:34:31.694Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-bugfix-safari-id-destructuring-collision-in-function-expression",
+          "observedAt": "2026-11-16T10:34:31.694Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-bugfix-safari-id-destructuring-collision-in-function-expression",
+          "observedAt": "2026-11-16T10:34:31.694Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-bugfix-safari-id-destructuring-collision-in-function-expression",
+          "observedAt": "2026-11-16T10:34:31.694Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-bugfix-safari-id-destructuring-collision-in-function-expression",
+          "observedAt": "2026-11-16T10:34:31.694Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

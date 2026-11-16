@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "pkg": "table",
+  "source": "https://registry.npmjs.org/table",
+  "fetchedAt": "2026-11-16T10:35:28.369Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 96
+  },
+  "sourceSha256": "e13c19eab498f87b1b39fefacd9b336bf0e3b96e4580709b37b3d4d40f7d30f5",
+  "versions": [
+    {
+      "pkg": "table",
+      "semver": "4.0.0",
+      "publishedAt": "2016-11-22T15:44:53.208Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/table",
+          "observedAt": "2026-11-16T10:35:28.369Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "table",
+      "semver": "6.7.3",
+      "publishedAt": "2021-11-04T14:39:22.357Z",
+      "publisher": "gajus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 147816,
+      "dependencies": {
+        "ajv": "^8.0.1",
+        "slice-ansi": "^4.0.0",
+        "strip-ansi": "^6.0.1",
+        "string-width": "^4.2.3",
+        "lodash.truncate": "^4.4.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/table",
+          "observedAt": "2026-11-16T10:35:28.369Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/table",
+          "observedAt": "2026-11-16T10:35:28.369Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/table",
+          "observedAt": "2026-11-16T10:35:28.369Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/table",
+          "observedAt": "2026-11-16T10:35:28.369Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/table",
+          "observedAt": "2026-11-16T10:35:28.369Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/table",
+          "observedAt": "2026-11-16T10:35:28.369Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "table",
+      "semver": "6.9.0",
+      "publishedAt": "2024-12-03T17:10:48.078Z",
+      "publisher": "gajus-table",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 334820,
+      "dependencies": {
+        "ajv": "^8.0.1",
+        "slice-ansi": "^4.0.0",
+        "strip-ansi": "^6.0.1",
+        "string-width": "^4.2.3",
+        "lodash.truncate": "^4.4.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/table",
+          "observedAt": "2026-11-16T10:35:28.369Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/table",
+          "observedAt": "2026-11-16T10:35:28.369Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/table",
+          "observedAt": "2026-11-16T10:35:28.369Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/table",
+          "observedAt": "2026-11-16T10:35:28.369Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/table",
+          "observedAt": "2026-11-16T10:35:28.369Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/table",
+          "observedAt": "2026-11-16T10:35:28.369Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

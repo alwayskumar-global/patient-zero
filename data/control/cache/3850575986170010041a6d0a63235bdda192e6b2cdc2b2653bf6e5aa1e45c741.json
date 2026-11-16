@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 1,
+  "pkg": "postcss-load-config",
+  "source": "https://registry.npmjs.org/postcss-load-config",
+  "fetchedAt": "2026-11-16T10:35:19.752Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 30
+  },
+  "sourceSha256": "c420781b3ca21f31f4c20d2aedf2fb1388663fc8655eb0e3cea008ab77532ca0",
+  "versions": [
+    {
+      "pkg": "postcss-load-config",
+      "semver": "2.1.0",
+      "publishedAt": "2019-06-10T18:01:44.116Z",
+      "publisher": "michael-ciniawsky",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 21101,
+      "dependencies": {
+        "import-cwd": "^2.0.0",
+        "cosmiconfig": "^5.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/postcss-load-config",
+          "observedAt": "2026-11-16T10:35:19.752Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/postcss-load-config",
+          "observedAt": "2026-11-16T10:35:19.752Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/postcss-load-config",
+          "observedAt": "2026-11-16T10:35:19.752Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/postcss-load-config",
+          "observedAt": "2026-11-16T10:35:19.752Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/postcss-load-config",
+          "observedAt": "2026-11-16T10:35:19.752Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/postcss-load-config",
+          "observedAt": "2026-11-16T10:35:19.752Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "postcss-load-config",
+      "semver": "6.0.1",
+      "publishedAt": "2024-06-02T19:02:03.793Z",
+      "publisher": "ai",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 22654,
+      "dependencies": {
+        "lilconfig": "^3.1.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/postcss-load-config",
+          "observedAt": "2026-11-16T10:35:19.752Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/postcss-load-config",
+          "observedAt": "2026-11-16T10:35:19.752Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/postcss-load-config",
+          "observedAt": "2026-11-16T10:35:19.752Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/postcss-load-config",
+          "observedAt": "2026-11-16T10:35:19.752Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/postcss-load-config",
+          "observedAt": "2026-11-16T10:35:19.752Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/postcss-load-config",
+          "observedAt": "2026-11-16T10:35:19.752Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

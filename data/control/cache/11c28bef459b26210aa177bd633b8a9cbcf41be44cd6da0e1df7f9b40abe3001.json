@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "pkg": "core-js-pure",
+  "source": "https://registry.npmjs.org/core-js-pure",
+  "fetchedAt": "2026-11-16T10:34:58.571Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 168
+  },
+  "sourceSha256": "7ceecfee240cfe7210e70cfdce400ee6189fcfb0e026bf1a9cf414953573cd8e",
+  "versions": [
+    {
+      "pkg": "core-js-pure",
+      "semver": "3.3.0",
+      "publishedAt": "2019-10-13T14:43:07.130Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/core-js-pure",
+          "observedAt": "2026-11-16T10:34:58.571Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "core-js-pure",
+      "semver": "3.44.0",
+      "publishedAt": "2025-07-07T13:48:42.643Z",
+      "publisher": "zloirock",
+      "hasInstallScript": true,
+      "provenance": false,
+      "unpackedSize": 1162065,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/core-js-pure",
+          "observedAt": "2026-11-16T10:34:58.571Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/core-js-pure",
+          "observedAt": "2026-11-16T10:34:58.571Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/core-js-pure",
+          "observedAt": "2026-11-16T10:34:58.571Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/core-js-pure",
+          "observedAt": "2026-11-16T10:34:58.571Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/core-js-pure",
+          "observedAt": "2026-11-16T10:34:58.571Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/core-js-pure",
+          "observedAt": "2026-11-16T10:34:58.571Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "core-js-pure",
+      "semver": "3.45.0",
+      "publishedAt": "2025-08-04T18:15:15.703Z",
+      "publisher": "zloirock",
+      "hasInstallScript": true,
+      "provenance": false,
+      "unpackedSize": 1166266,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/core-js-pure",
+          "observedAt": "2026-11-16T10:34:58.571Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/core-js-pure",
+          "observedAt": "2026-11-16T10:34:58.571Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/core-js-pure",
+          "observedAt": "2026-11-16T10:34:58.571Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/core-js-pure",
+          "observedAt": "2026-11-16T10:34:58.571Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/core-js-pure",
+          "observedAt": "2026-11-16T10:34:58.571Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/core-js-pure",
+          "observedAt": "2026-11-16T10:34:58.571Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "core-js-pure",
+      "semver": "3.6.5",
+      "publishedAt": "2020-04-10T16:16:36.332Z",
+      "publisher": "slowcheetah",
+      "hasInstallScript": true,
+      "provenance": false,
+      "unpackedSize": 572894,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/core-js-pure",
+          "observedAt": "2026-11-16T10:34:58.571Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/core-js-pure",
+          "observedAt": "2026-11-16T10:34:58.571Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/core-js-pure",
+          "observedAt": "2026-11-16T10:34:58.571Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/core-js-pure",
+          "observedAt": "2026-11-16T10:34:58.571Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/core-js-pure",
+          "observedAt": "2026-11-16T10:34:58.571Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/core-js-pure",
+          "observedAt": "2026-11-16T10:34:58.571Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "pkg": "colorspace",
+  "source": "https://registry.npmjs.org/colorspace",
+  "fetchedAt": "2026-11-16T10:34:58.163Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 7
+  },
+  "sourceSha256": "f29df4f23b59ff51a504838335338b222ee9bd5d36290e5dee01407c174c2081",
+  "versions": [
+    {
+      "pkg": "colorspace",
+      "semver": "1.1.4",
+      "publishedAt": "2021-10-20T21:37:40.277Z",
+      "publisher": "3rdeden",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 3582,
+      "dependencies": {
+        "color": "^3.1.3",
+        "text-hex": "1.0.x"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/colorspace",
+          "observedAt": "2026-11-16T10:34:58.163Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/colorspace",
+          "observedAt": "2026-11-16T10:34:58.163Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/colorspace",
+          "observedAt": "2026-11-16T10:34:58.163Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/colorspace",
+          "observedAt": "2026-11-16T10:34:58.163Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/colorspace",
+          "observedAt": "2026-11-16T10:34:58.163Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/colorspace",
+          "observedAt": "2026-11-16T10:34:58.163Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

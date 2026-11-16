@@ -1,0 +1,191 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@babel/plugin-transform-block-scoped-functions",
+  "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-block-scoped-functions",
+  "fetchedAt": "2026-11-16T10:34:32.293Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 93
+  },
+  "sourceSha256": "50901a4e63b1be08c76084bb1dcec1afdddf75e62c67096f647e6d4d1a48a44e",
+  "versions": [
+    {
+      "pkg": "@babel/plugin-transform-block-scoped-functions",
+      "semver": "7.0.0",
+      "publishedAt": "2018-08-27T21:42:55.791Z",
+      "publisher": "hzoo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 3569,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "^7.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-block-scoped-functions",
+          "observedAt": "2026-11-16T10:34:32.293Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-block-scoped-functions",
+          "observedAt": "2026-11-16T10:34:32.293Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-block-scoped-functions",
+          "observedAt": "2026-11-16T10:34:32.293Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-block-scoped-functions",
+          "observedAt": "2026-11-16T10:34:32.293Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-block-scoped-functions",
+          "observedAt": "2026-11-16T10:34:32.293Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-block-scoped-functions",
+          "observedAt": "2026-11-16T10:34:32.293Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/plugin-transform-block-scoped-functions",
+      "semver": "7.0.0-beta.49",
+      "publishedAt": "2018-05-25T16:01:47.093Z",
+      "publisher": "loganfsmyth",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 2828,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "7.0.0-beta.49"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-block-scoped-functions",
+          "observedAt": "2026-11-16T10:34:32.293Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-block-scoped-functions",
+          "observedAt": "2026-11-16T10:34:32.293Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-block-scoped-functions",
+          "observedAt": "2026-11-16T10:34:32.293Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-block-scoped-functions",
+          "observedAt": "2026-11-16T10:34:32.293Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-block-scoped-functions",
+          "observedAt": "2026-11-16T10:34:32.293Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-block-scoped-functions",
+          "observedAt": "2026-11-16T10:34:32.293Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/plugin-transform-block-scoped-functions",
+      "semver": "7.10.4",
+      "publishedAt": "2020-06-30T13:11:54.789Z",
+      "publisher": "jlhwung",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 3581,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "^7.10.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-block-scoped-functions",
+          "observedAt": "2026-11-16T10:34:32.293Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-block-scoped-functions",
+          "observedAt": "2026-11-16T10:34:32.293Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-block-scoped-functions",
+          "observedAt": "2026-11-16T10:34:32.293Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-block-scoped-functions",
+          "observedAt": "2026-11-16T10:34:32.293Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-block-scoped-functions",
+          "observedAt": "2026-11-16T10:34:32.293Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-block-scoped-functions",
+          "observedAt": "2026-11-16T10:34:32.293Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/plugin-transform-block-scoped-functions",
+      "semver": "8.0.0-beta.1",
+      "publishedAt": "2025-07-02T09:04:10.677Z",
+      "publisher": "nicolo-ribaudo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7964,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "^8.0.0-beta.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-block-scoped-functions",
+          "observedAt": "2026-11-16T10:34:32.293Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-block-scoped-functions",
+          "observedAt": "2026-11-16T10:34:32.293Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-block-scoped-functions",
+          "observedAt": "2026-11-16T10:34:32.293Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-block-scoped-functions",
+          "observedAt": "2026-11-16T10:34:32.293Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-block-scoped-functions",
+          "observedAt": "2026-11-16T10:34:32.293Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-block-scoped-functions",
+          "observedAt": "2026-11-16T10:34:32.293Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

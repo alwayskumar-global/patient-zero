@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@eslint/config-array",
+  "source": "https://registry.npmjs.org/%40eslint%2Fconfig-array",
+  "fetchedAt": "2026-11-16T10:34:34.209Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 21
+  },
+  "sourceSha256": "05c2500c5c215138144609ad81de5d35b03d9918d71021f8f2073441a22ebfe1",
+  "versions": [
+    {
+      "pkg": "@eslint/config-array",
+      "semver": "0.21.0",
+      "publishedAt": "2025-06-25T14:04:26.490Z",
+      "publisher": "eslintbot",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 325670,
+      "dependencies": {
+        "debug": "^4.3.1",
+        "minimatch": "^3.1.2",
+        "@eslint/object-schema": "^2.1.6"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40eslint%2Fconfig-array",
+          "observedAt": "2026-11-16T10:34:34.209Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40eslint%2Fconfig-array",
+          "observedAt": "2026-11-16T10:34:34.209Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40eslint%2Fconfig-array",
+          "observedAt": "2026-11-16T10:34:34.209Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40eslint%2Fconfig-array",
+          "observedAt": "2026-11-16T10:34:34.209Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40eslint%2Fconfig-array",
+          "observedAt": "2026-11-16T10:34:34.209Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40eslint%2Fconfig-array",
+          "observedAt": "2026-11-16T10:34:34.209Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "reusify",
+  "source": "https://registry.npmjs.org/reusify",
+  "fetchedAt": "2026-11-16T10:35:24.992Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 6
+  },
+  "sourceSha256": "2c8f1f0a02cd0b8a2c9f6f2f27468451ddea05f6e2e677f028fd1ef15ae5efcd",
+  "versions": [
+    {
+      "pkg": "reusify",
+      "semver": "1.1.0",
+      "publishedAt": "2025-02-25T16:00:49.941Z",
+      "publisher": "matteo.collina",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 11696,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/reusify",
+          "observedAt": "2026-11-16T10:35:24.992Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/reusify",
+          "observedAt": "2026-11-16T10:35:24.992Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/reusify",
+          "observedAt": "2026-11-16T10:35:24.992Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/reusify",
+          "observedAt": "2026-11-16T10:35:24.992Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/reusify",
+          "observedAt": "2026-11-16T10:35:24.992Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/reusify",
+          "observedAt": "2026-11-16T10:35:24.992Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

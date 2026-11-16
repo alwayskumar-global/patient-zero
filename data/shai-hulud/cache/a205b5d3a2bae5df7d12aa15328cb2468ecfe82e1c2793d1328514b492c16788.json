@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@art-ws/web-app",
+  "source": "https://registry.npmjs.org/%40art-ws%2Fweb-app",
+  "fetchedAt": "2026-11-16T10:31:04.677Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 5
+  },
+  "sourceSha256": "b8281b57ca4e26d87682dcbd5dd1a178003be4a6bc0d7db7cd3b1d3ec8dfec89",
+  "versions": [
+    {
+      "pkg": "@art-ws/web-app",
+      "semver": "1.0.2",
+      "publishedAt": "2021-02-12T11:51:28.159Z",
+      "publisher": "art-ws",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 86036,
+      "dependencies": {
+        "tslib": "2.1.0",
+        "yargs": "16.2.0",
+        "lodash": "4.17.20",
+        "fastify": "3.11.0",
+        "chokidar": "3.5.1",
+        "liquidjs": "9.22.1",
+        "nunjucks": "3.2.2",
+        "@art-ws/di": "latest",
+        "mime-types": "2.1.28",
+        "@art-ws/slf": "latest",
+        "markdown-it": "12.0.4",
+        "fastify-cors": "5.2.0",
+        "@types/lodash": "4.14.168",
+        "@art-ws/common": "latest",
+        "fastify-static": "3.4.0",
+        "@aristsoft/cpue": "latest",
+        "@types/chokidar": "1.7.5",
+        "@types/nunjucks": "3.1.4",
+        "swagger-ui-dist": "3.43.0",
+        "@art-ws/web-common": "latest",
+        "@types/markdown-it": "12.0.1",
+        "@art-ws/web-app-core": "latest",
+        "@types/fastify-static": "0.14.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fweb-app",
+          "observedAt": "2026-11-16T10:31:04.677Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fweb-app",
+          "observedAt": "2026-11-16T10:31:04.677Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fweb-app",
+          "observedAt": "2026-11-16T10:31:04.677Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fweb-app",
+          "observedAt": "2026-11-16T10:31:04.677Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fweb-app",
+          "observedAt": "2026-11-16T10:31:04.677Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fweb-app",
+          "observedAt": "2026-11-16T10:31:04.677Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@art-ws/web-app",
+      "semver": "1.0.3",
+      "publishedAt": "2025-09-15T05:21:20.383Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fweb-app",
+          "observedAt": "2026-11-16T10:31:04.677Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@art-ws/web-app",
+      "semver": "1.0.4",
+      "publishedAt": "2025-09-15T08:58:44.290Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40art-ws%2Fweb-app",
+          "observedAt": "2026-11-16T10:31:04.677Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "nanoid",
+  "source": "https://registry.npmjs.org/nanoid",
+  "fetchedAt": "2026-11-16T10:35:14.340Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 135
+  },
+  "sourceSha256": "caee9c9b46d6f8df0b4887b7620058355830591fbc85a1c4fe743b527f969c79",
+  "versions": [
+    {
+      "pkg": "nanoid",
+      "semver": "5.1.5",
+      "publishedAt": "2025-03-18T23:09:23.726Z",
+      "publisher": "ai",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 12143,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/nanoid",
+          "observedAt": "2026-11-16T10:35:14.340Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/nanoid",
+          "observedAt": "2026-11-16T10:35:14.340Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/nanoid",
+          "observedAt": "2026-11-16T10:35:14.340Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/nanoid",
+          "observedAt": "2026-11-16T10:35:14.340Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/nanoid",
+          "observedAt": "2026-11-16T10:35:14.340Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/nanoid",
+          "observedAt": "2026-11-16T10:35:14.340Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

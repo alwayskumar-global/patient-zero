@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "pkg": "undici",
+  "source": "https://registry.npmjs.org/undici",
+  "fetchedAt": "2026-11-16T10:35:31.173Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 317
+  },
+  "sourceSha256": "9cbd031ff43d99c4f9b8d4427939c03423f4d08983b84c4ed2a053332c8815df",
+  "versions": [
+    {
+      "pkg": "undici",
+      "semver": "5.26.3",
+      "publishedAt": "2023-10-11T19:12:36.882Z",
+      "publisher": "ethan_arrowood",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 1145093,
+      "dependencies": {
+        "@fastify/busboy": "^2.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/undici",
+          "observedAt": "2026-11-16T10:35:31.173Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/undici",
+          "observedAt": "2026-11-16T10:35:31.173Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/undici",
+          "observedAt": "2026-11-16T10:35:31.173Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/undici",
+          "observedAt": "2026-11-16T10:35:31.173Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/undici",
+          "observedAt": "2026-11-16T10:35:31.173Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/undici",
+          "observedAt": "2026-11-16T10:35:31.173Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "undici",
+      "semver": "6.20.1",
+      "publishedAt": "2024-10-14T12:19:28.069Z",
+      "publisher": "ronag",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 1157483,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/undici",
+          "observedAt": "2026-11-16T10:35:31.173Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/undici",
+          "observedAt": "2026-11-16T10:35:31.173Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/undici",
+          "observedAt": "2026-11-16T10:35:31.173Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/undici",
+          "observedAt": "2026-11-16T10:35:31.173Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/undici",
+          "observedAt": "2026-11-16T10:35:31.173Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/undici",
+          "observedAt": "2026-11-16T10:35:31.173Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "undici",
+      "semver": "7.13.0",
+      "publishedAt": "2025-07-31T09:09:44.530Z",
+      "publisher": "matteo.collina",
+      "hasInstallScript": false,
+      "provenance": true,
+      "unpackedSize": 1420013,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/undici",
+          "observedAt": "2026-11-16T10:35:31.173Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/undici",
+          "observedAt": "2026-11-16T10:35:31.173Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/undici",
+          "observedAt": "2026-11-16T10:35:31.173Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/undici",
+          "observedAt": "2026-11-16T10:35:31.173Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/undici",
+          "observedAt": "2026-11-16T10:35:31.173Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/undici",
+          "observedAt": "2026-11-16T10:35:31.173Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

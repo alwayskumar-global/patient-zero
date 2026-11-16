@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "fast-xml-parser",
+  "source": "https://registry.npmjs.org/fast-xml-parser",
+  "fetchedAt": "2026-11-16T10:35:02.168Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 203
+  },
+  "sourceSha256": "b8ac15c4348816a77c101b6cbed6611adf2c5530a132b43bdbb26905327f630a",
+  "versions": [
+    {
+      "pkg": "fast-xml-parser",
+      "semver": "5.2.5",
+      "publishedAt": "2025-06-08T08:07:28.866Z",
+      "publisher": "amitgupta",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 568421,
+      "dependencies": {
+        "strnum": "^2.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/fast-xml-parser",
+          "observedAt": "2026-11-16T10:35:02.168Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/fast-xml-parser",
+          "observedAt": "2026-11-16T10:35:02.168Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/fast-xml-parser",
+          "observedAt": "2026-11-16T10:35:02.168Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/fast-xml-parser",
+          "observedAt": "2026-11-16T10:35:02.168Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/fast-xml-parser",
+          "observedAt": "2026-11-16T10:35:02.168Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/fast-xml-parser",
+          "observedAt": "2026-11-16T10:35:02.168Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

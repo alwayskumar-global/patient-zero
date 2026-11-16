@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@humanwhocodes/object-schema",
+  "source": "https://registry.npmjs.org/%40humanwhocodes%2Fobject-schema",
+  "fetchedAt": "2026-11-16T10:34:35.345Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 11
+  },
+  "sourceSha256": "1e1f315deb3bb274c381cc3ce963913d9f89269a9295b5b6cf1db0ada815f4e7",
+  "versions": [
+    {
+      "pkg": "@humanwhocodes/object-schema",
+      "semver": "2.0.3",
+      "publishedAt": "2024-04-01T20:31:25.486Z",
+      "publisher": "nzakas",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 23251,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40humanwhocodes%2Fobject-schema",
+          "observedAt": "2026-11-16T10:34:35.345Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40humanwhocodes%2Fobject-schema",
+          "observedAt": "2026-11-16T10:34:35.345Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40humanwhocodes%2Fobject-schema",
+          "observedAt": "2026-11-16T10:34:35.345Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40humanwhocodes%2Fobject-schema",
+          "observedAt": "2026-11-16T10:34:35.345Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40humanwhocodes%2Fobject-schema",
+          "observedAt": "2026-11-16T10:34:35.345Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40humanwhocodes%2Fobject-schema",
+          "observedAt": "2026-11-16T10:34:35.345Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

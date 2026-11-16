@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "wide-align",
+  "source": "https://registry.npmjs.org/wide-align",
+  "fetchedAt": "2026-11-16T10:35:34.854Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 8
+  },
+  "sourceSha256": "68c6e952b6ebc61ab008ca9faf4af903d37729570b3792b7e8a46aaa80520f09",
+  "versions": [
+    {
+      "pkg": "wide-align",
+      "semver": "1.1.5",
+      "publishedAt": "2021-10-15T14:17:01.529Z",
+      "publisher": "iarna",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 4467,
+      "dependencies": {
+        "string-width": "^1.0.2 || 2 || 3 || 4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/wide-align",
+          "observedAt": "2026-11-16T10:35:34.854Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/wide-align",
+          "observedAt": "2026-11-16T10:35:34.854Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/wide-align",
+          "observedAt": "2026-11-16T10:35:34.854Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/wide-align",
+          "observedAt": "2026-11-16T10:35:34.854Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/wide-align",
+          "observedAt": "2026-11-16T10:35:34.854Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/wide-align",
+          "observedAt": "2026-11-16T10:35:34.854Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "pkg": "array-buffer-byte-length",
+  "source": "https://registry.npmjs.org/array-buffer-byte-length",
+  "fetchedAt": "2026-11-16T10:34:55.569Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 3
+  },
+  "sourceSha256": "2e41b0d41dc4df41f21ad1eb928ca7819013ed5015a18c952361a2791efe3c16",
+  "versions": [
+    {
+      "pkg": "array-buffer-byte-length",
+      "semver": "1.0.2",
+      "publishedAt": "2024-12-20T01:21:57.597Z",
+      "publisher": "ljharb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 12007,
+      "dependencies": {
+        "call-bound": "^1.0.3",
+        "is-array-buffer": "^3.0.5"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/array-buffer-byte-length",
+          "observedAt": "2026-11-16T10:34:55.569Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/array-buffer-byte-length",
+          "observedAt": "2026-11-16T10:34:55.569Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/array-buffer-byte-length",
+          "observedAt": "2026-11-16T10:34:55.569Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/array-buffer-byte-length",
+          "observedAt": "2026-11-16T10:34:55.569Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/array-buffer-byte-length",
+          "observedAt": "2026-11-16T10:34:55.569Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/array-buffer-byte-length",
+          "observedAt": "2026-11-16T10:34:55.569Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

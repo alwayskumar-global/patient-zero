@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "pkg": "json-schema-traverse",
+  "source": "https://registry.npmjs.org/json-schema-traverse",
+  "fetchedAt": "2026-11-16T10:35:08.807Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 9
+  },
+  "sourceSha256": "b9c213075bc26f316fd5a3d9393401cf13a28ca05b26dce2d07b0d007e490d04",
+  "versions": [
+    {
+      "pkg": "json-schema-traverse",
+      "semver": "1.0.0",
+      "publishedAt": "2020-12-13T10:56:54.719Z",
+      "publisher": "esp",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 22220,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/json-schema-traverse",
+          "observedAt": "2026-11-16T10:35:08.807Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/json-schema-traverse",
+          "observedAt": "2026-11-16T10:35:08.807Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/json-schema-traverse",
+          "observedAt": "2026-11-16T10:35:08.807Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/json-schema-traverse",
+          "observedAt": "2026-11-16T10:35:08.807Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/json-schema-traverse",
+          "observedAt": "2026-11-16T10:35:08.807Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/json-schema-traverse",
+          "observedAt": "2026-11-16T10:35:08.807Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

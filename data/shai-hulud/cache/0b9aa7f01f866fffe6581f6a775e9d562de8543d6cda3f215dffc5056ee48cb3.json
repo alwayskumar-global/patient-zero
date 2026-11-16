@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@nativescript-community/text",
+  "source": "https://registry.npmjs.org/%40nativescript-community%2Ftext",
+  "fetchedAt": "2026-11-16T10:31:25.890Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 127
+  },
+  "sourceSha256": "3a342ab64ae005881226f30e01da1485f0fc736d2dca11ae15af7cc9d4d1eecb",
+  "versions": [
+    {
+      "pkg": "@nativescript-community/text",
+      "semver": "1.3.8",
+      "publishedAt": "2020-11-22T22:40:09.215Z",
+      "publisher": "keerl",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 58894,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Ftext",
+          "observedAt": "2026-11-16T10:31:25.890Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Ftext",
+          "observedAt": "2026-11-16T10:31:25.890Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Ftext",
+          "observedAt": "2026-11-16T10:31:25.890Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Ftext",
+          "observedAt": "2026-11-16T10:31:25.890Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Ftext",
+          "observedAt": "2026-11-16T10:31:25.890Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Ftext",
+          "observedAt": "2026-11-16T10:31:25.890Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nativescript-community/text",
+      "semver": "1.6.10",
+      "publishedAt": "2025-09-15T10:42:06.091Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Ftext",
+          "observedAt": "2026-11-16T10:31:25.890Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nativescript-community/text",
+      "semver": "1.6.11",
+      "publishedAt": "2025-09-15T10:47:35.971Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Ftext",
+          "observedAt": "2026-11-16T10:31:25.890Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nativescript-community/text",
+      "semver": "1.6.12",
+      "publishedAt": "2025-09-15T13:15:55.968Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Ftext",
+          "observedAt": "2026-11-16T10:31:25.890Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nativescript-community/text",
+      "semver": "1.6.13",
+      "publishedAt": "2025-09-15T19:58:46.780Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Ftext",
+          "observedAt": "2026-11-16T10:31:25.890Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nativescript-community/text",
+      "semver": "1.6.8",
+      "publishedAt": "2025-09-05T14:24:56.792Z",
+      "publisher": "farfromrefuge",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 158981,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Ftext",
+          "observedAt": "2026-11-16T10:31:25.890Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Ftext",
+          "observedAt": "2026-11-16T10:31:25.890Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Ftext",
+          "observedAt": "2026-11-16T10:31:25.890Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Ftext",
+          "observedAt": "2026-11-16T10:31:25.890Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Ftext",
+          "observedAt": "2026-11-16T10:31:25.890Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Ftext",
+          "observedAt": "2026-11-16T10:31:25.890Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@nativescript-community/text",
+      "semver": "1.6.9",
+      "publishedAt": "2025-09-15T09:16:51.043Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40nativescript-community%2Ftext",
+          "observedAt": "2026-11-16T10:31:25.890Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

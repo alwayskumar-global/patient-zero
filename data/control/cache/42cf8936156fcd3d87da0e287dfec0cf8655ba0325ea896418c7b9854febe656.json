@@ -1,0 +1,199 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@babel/plugin-proposal-decorators",
+  "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-decorators",
+  "fetchedAt": "2026-11-16T10:34:31.758Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 149
+  },
+  "sourceSha256": "232f32e1694188350dc943404a8258091e81d7a7f26919c15a3b4207335d163c",
+  "versions": [
+    {
+      "pkg": "@babel/plugin-proposal-decorators",
+      "semver": "7.0.0-beta.49",
+      "publishedAt": "2018-05-25T16:02:46.059Z",
+      "publisher": "loganfsmyth",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 11691,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "7.0.0-beta.49",
+        "@babel/plugin-syntax-decorators": "7.0.0-beta.49"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-decorators",
+          "observedAt": "2026-11-16T10:34:31.758Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-decorators",
+          "observedAt": "2026-11-16T10:34:31.758Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-decorators",
+          "observedAt": "2026-11-16T10:34:31.758Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-decorators",
+          "observedAt": "2026-11-16T10:34:31.758Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-decorators",
+          "observedAt": "2026-11-16T10:34:31.758Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-decorators",
+          "observedAt": "2026-11-16T10:34:31.758Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/plugin-proposal-decorators",
+      "semver": "7.1.2",
+      "publishedAt": "2018-09-28T22:19:40.285Z",
+      "publisher": "hzoo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 18811,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "^7.0.0",
+        "@babel/helper-replace-supers": "^7.1.0",
+        "@babel/plugin-syntax-decorators": "^7.1.0",
+        "@babel/helper-split-export-declaration": "^7.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-decorators",
+          "observedAt": "2026-11-16T10:34:31.758Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-decorators",
+          "observedAt": "2026-11-16T10:34:31.758Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-decorators",
+          "observedAt": "2026-11-16T10:34:31.758Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-decorators",
+          "observedAt": "2026-11-16T10:34:31.758Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-decorators",
+          "observedAt": "2026-11-16T10:34:31.758Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-decorators",
+          "observedAt": "2026-11-16T10:34:31.758Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/plugin-proposal-decorators",
+      "semver": "7.10.5",
+      "publishedAt": "2020-07-14T18:18:22.108Z",
+      "publisher": "jlhwung",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 12696,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "^7.10.4",
+        "@babel/plugin-syntax-decorators": "^7.10.4",
+        "@babel/helper-create-class-features-plugin": "^7.10.5"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-decorators",
+          "observedAt": "2026-11-16T10:34:31.758Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-decorators",
+          "observedAt": "2026-11-16T10:34:31.758Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-decorators",
+          "observedAt": "2026-11-16T10:34:31.758Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-decorators",
+          "observedAt": "2026-11-16T10:34:31.758Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-decorators",
+          "observedAt": "2026-11-16T10:34:31.758Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-decorators",
+          "observedAt": "2026-11-16T10:34:31.758Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/plugin-proposal-decorators",
+      "semver": "8.0.0-beta.1",
+      "publishedAt": "2025-07-02T09:04:51.816Z",
+      "publisher": "nicolo-ribaudo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 39521,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "^8.0.0-beta.1",
+        "@babel/plugin-syntax-decorators": "^8.0.0-beta.1",
+        "@babel/helper-create-class-features-plugin": "^8.0.0-beta.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-decorators",
+          "observedAt": "2026-11-16T10:34:31.758Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-decorators",
+          "observedAt": "2026-11-16T10:34:31.758Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-decorators",
+          "observedAt": "2026-11-16T10:34:31.758Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-decorators",
+          "observedAt": "2026-11-16T10:34:31.758Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-decorators",
+          "observedAt": "2026-11-16T10:34:31.758Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-proposal-decorators",
+          "observedAt": "2026-11-16T10:34:31.758Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

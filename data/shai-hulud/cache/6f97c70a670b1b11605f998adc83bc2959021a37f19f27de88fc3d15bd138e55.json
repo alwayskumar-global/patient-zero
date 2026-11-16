@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "pkg": "ember-headless-form-yup",
+  "source": "https://registry.npmjs.org/ember-headless-form-yup",
+  "fetchedAt": "2026-11-16T10:32:18.239Z",
+  "projection": {
+    "start": "2025-09-14T00:00:00.000Z",
+    "end": "2025-09-20T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 3
+  },
+  "sourceSha256": "3a6db56e9ae8bd82ffe2de0c5411cfd8ea4859fc64c9232e68c6846eac8099b2",
+  "versions": [
+    {
+      "pkg": "ember-headless-form-yup",
+      "semver": "1.0.0",
+      "publishedAt": "2023-12-18T17:59:03.790Z",
+      "publisher": "crowdstrike-publisher",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 11036,
+      "dependencies": {
+        "@embroider/addon-shim": "^1.0.0",
+        "ember-functions-as-helper-polyfill": "^2.1.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ember-headless-form-yup",
+          "observedAt": "2026-11-16T10:32:18.239Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ember-headless-form-yup",
+          "observedAt": "2026-11-16T10:32:18.239Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ember-headless-form-yup",
+          "observedAt": "2026-11-16T10:32:18.239Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ember-headless-form-yup",
+          "observedAt": "2026-11-16T10:32:18.239Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/ember-headless-form-yup",
+          "observedAt": "2026-11-16T10:32:18.239Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ember-headless-form-yup",
+          "observedAt": "2026-11-16T10:32:18.239Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "ember-headless-form-yup",
+      "semver": "1.0.1",
+      "publishedAt": "2025-09-16T01:22:06.717Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ember-headless-form-yup",
+          "observedAt": "2026-11-16T10:32:18.239Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

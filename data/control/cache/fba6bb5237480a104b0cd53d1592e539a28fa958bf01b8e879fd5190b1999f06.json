@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "pkg": "es6-iterator",
+  "source": "https://registry.npmjs.org/es6-iterator",
+  "fetchedAt": "2026-11-16T10:35:00.863Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 10
+  },
+  "sourceSha256": "7b28ffc4ff9aae359ef70329d20013a302d6fe0a0b9ac8bbfff0fe72d0928b95",
+  "versions": [
+    {
+      "pkg": "es6-iterator",
+      "semver": "2.0.3",
+      "publishedAt": "2017-10-17T11:01:55.570Z",
+      "publisher": "medikoo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "d": "1",
+        "es5-ext": "^0.10.35",
+        "es6-symbol": "^3.1.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/es6-iterator",
+          "observedAt": "2026-11-16T10:35:00.863Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/es6-iterator",
+          "observedAt": "2026-11-16T10:35:00.863Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/es6-iterator",
+          "observedAt": "2026-11-16T10:35:00.863Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/es6-iterator",
+          "observedAt": "2026-11-16T10:35:00.863Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/es6-iterator",
+          "observedAt": "2026-11-16T10:35:00.863Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

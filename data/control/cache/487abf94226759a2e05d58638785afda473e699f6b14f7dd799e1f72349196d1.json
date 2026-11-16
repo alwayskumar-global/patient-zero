@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "ansi-align",
+  "source": "https://registry.npmjs.org/ansi-align",
+  "fetchedAt": "2026-11-16T10:34:55.388Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 5
+  },
+  "sourceSha256": "ad89196c9a86a3d0df9071125d8d01222526626fddf3fb7617225e3a780732fb",
+  "versions": [
+    {
+      "pkg": "ansi-align",
+      "semver": "3.0.1",
+      "publishedAt": "2021-09-27T11:53:48.509Z",
+      "publisher": "nexdrew",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 7684,
+      "dependencies": {
+        "string-width": "^4.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/ansi-align",
+          "observedAt": "2026-11-16T10:34:55.388Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/ansi-align",
+          "observedAt": "2026-11-16T10:34:55.388Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/ansi-align",
+          "observedAt": "2026-11-16T10:34:55.388Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/ansi-align",
+          "observedAt": "2026-11-16T10:34:55.388Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/ansi-align",
+          "observedAt": "2026-11-16T10:34:55.388Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/ansi-align",
+          "observedAt": "2026-11-16T10:34:55.388Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

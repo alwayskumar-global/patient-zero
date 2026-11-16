@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "pkg-up",
+  "source": "https://registry.npmjs.org/pkg-up",
+  "fetchedAt": "2026-11-16T10:35:18.172Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 7
+  },
+  "sourceSha256": "02a37f88a1d19e3a0245076a6e61dc4c969b3b70112ae233ecfe025eeef60ca3",
+  "versions": [
+    {
+      "pkg": "pkg-up",
+      "semver": "5.0.0",
+      "publishedAt": "2023-11-04T09:15:40.635Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 4497,
+      "dependencies": {
+        "find-up": "^6.2.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/pkg-up",
+          "observedAt": "2026-11-16T10:35:18.172Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/pkg-up",
+          "observedAt": "2026-11-16T10:35:18.172Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/pkg-up",
+          "observedAt": "2026-11-16T10:35:18.172Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/pkg-up",
+          "observedAt": "2026-11-16T10:35:18.172Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/pkg-up",
+          "observedAt": "2026-11-16T10:35:18.172Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/pkg-up",
+          "observedAt": "2026-11-16T10:35:18.172Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@isaacs/cliui",
+  "source": "https://registry.npmjs.org/%40isaacs%2Fcliui",
+  "fetchedAt": "2026-11-16T10:34:35.450Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 2
+  },
+  "sourceSha256": "b7aed8bdace2eff762b1554458749ac517b875c1d5c8202969b3b99d7bff1f3b",
+  "versions": [
+    {
+      "pkg": "@isaacs/cliui",
+      "semver": "8.0.2",
+      "publishedAt": "2023-05-02T03:24:28.835Z",
+      "publisher": "isaacs",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 27797,
+      "dependencies": {
+        "wrap-ansi": "^8.1.0",
+        "strip-ansi": "^7.0.1",
+        "string-width": "^5.1.2",
+        "wrap-ansi-cjs": "npm:wrap-ansi@^7.0.0",
+        "strip-ansi-cjs": "npm:strip-ansi@^6.0.1",
+        "string-width-cjs": "npm:string-width@^4.2.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40isaacs%2Fcliui",
+          "observedAt": "2026-11-16T10:34:35.450Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40isaacs%2Fcliui",
+          "observedAt": "2026-11-16T10:34:35.450Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40isaacs%2Fcliui",
+          "observedAt": "2026-11-16T10:34:35.450Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40isaacs%2Fcliui",
+          "observedAt": "2026-11-16T10:34:35.450Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40isaacs%2Fcliui",
+          "observedAt": "2026-11-16T10:34:35.450Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40isaacs%2Fcliui",
+          "observedAt": "2026-11-16T10:34:35.450Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

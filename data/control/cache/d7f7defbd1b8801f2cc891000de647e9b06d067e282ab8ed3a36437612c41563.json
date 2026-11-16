@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "pkg": "fragment-cache",
+  "source": "https://registry.npmjs.org/fragment-cache",
+  "fetchedAt": "2026-11-16T10:35:02.790Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 3
+  },
+  "sourceSha256": "45d5204f126f3069a39760172ab4dc40a38bbe09f85e4bcb98ab500510dc1da4",
+  "versions": [
+    {
+      "pkg": "fragment-cache",
+      "semver": "0.2.1",
+      "publishedAt": "2017-03-14T20:36:58.556Z",
+      "publisher": "jonschlinkert",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "map-cache": "^0.2.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/fragment-cache",
+          "observedAt": "2026-11-16T10:35:02.790Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/fragment-cache",
+          "observedAt": "2026-11-16T10:35:02.790Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/fragment-cache",
+          "observedAt": "2026-11-16T10:35:02.790Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/fragment-cache",
+          "observedAt": "2026-11-16T10:35:02.790Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/fragment-cache",
+          "observedAt": "2026-11-16T10:35:02.790Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

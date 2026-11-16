@@ -1,0 +1,355 @@
+{
+  "schemaVersion": 1,
+  "pkg": "google-auth-library",
+  "source": "https://registry.npmjs.org/google-auth-library",
+  "fetchedAt": "2026-11-16T10:35:03.332Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 184
+  },
+  "sourceSha256": "18d0dd9129d4b1a77fec64e94c799908ad913022ec3c6797545aa91e484ef823",
+  "versions": [
+    {
+      "pkg": "google-auth-library",
+      "semver": "0.10.0",
+      "publishedAt": "2016-12-29T23:49:04.798Z",
+      "publisher": "googleapis-packages",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "jws": "^3.1.4",
+        "gtoken": "^1.2.1",
+        "request": "^2.74.0",
+        "lodash.noop": "^3.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/google-auth-library",
+          "observedAt": "2026-11-16T10:35:03.332Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/google-auth-library",
+          "observedAt": "2026-11-16T10:35:03.332Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/google-auth-library",
+          "observedAt": "2026-11-16T10:35:03.332Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/google-auth-library",
+          "observedAt": "2026-11-16T10:35:03.332Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/google-auth-library",
+          "observedAt": "2026-11-16T10:35:03.332Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "google-auth-library",
+      "semver": "0.12.0",
+      "publishedAt": "2017-11-20T21:13:46.988Z",
+      "publisher": "ofrobots",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "jws": "^3.1.4",
+        "gtoken": "^1.2.3",
+        "request": "^2.81.0",
+        "lodash.merge": "^4.6.0",
+        "lodash.isstring": "^4.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/google-auth-library",
+          "observedAt": "2026-11-16T10:35:03.332Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/google-auth-library",
+          "observedAt": "2026-11-16T10:35:03.332Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/google-auth-library",
+          "observedAt": "2026-11-16T10:35:03.332Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/google-auth-library",
+          "observedAt": "2026-11-16T10:35:03.332Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/google-auth-library",
+          "observedAt": "2026-11-16T10:35:03.332Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "google-auth-library",
+      "semver": "0.9.0",
+      "publishedAt": "2015-02-24T18:16:01.327Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/google-auth-library",
+          "observedAt": "2026-11-16T10:35:03.332Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "google-auth-library",
+      "semver": "0.9.8",
+      "publishedAt": "2016-05-10T21:01:11.007Z",
+      "publisher": "tbetbetbe",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "jws": "~3.0.0",
+        "async": "~1.4.2",
+        "gtoken": "^1.1.0",
+        "request": "~2.60.0",
+        "lodash.noop": "~3.0.0",
+        "string-template": "~0.2.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/google-auth-library",
+          "observedAt": "2026-11-16T10:35:03.332Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/google-auth-library",
+          "observedAt": "2026-11-16T10:35:03.332Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/google-auth-library",
+          "observedAt": "2026-11-16T10:35:03.332Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/google-auth-library",
+          "observedAt": "2026-11-16T10:35:03.332Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/google-auth-library",
+          "observedAt": "2026-11-16T10:35:03.332Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "google-auth-library",
+      "semver": "1.0.0",
+      "publishedAt": "2018-01-09T19:09:05.718Z",
+      "publisher": "justinbeckwith",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "jws": "^3.1.4",
+        "axios": "^0.17.1",
+        "gtoken": "^2.0.2",
+        "lodash.isstring": "^4.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/google-auth-library",
+          "observedAt": "2026-11-16T10:35:03.332Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/google-auth-library",
+          "observedAt": "2026-11-16T10:35:03.332Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/google-auth-library",
+          "observedAt": "2026-11-16T10:35:03.332Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/google-auth-library",
+          "observedAt": "2026-11-16T10:35:03.332Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/google-auth-library",
+          "observedAt": "2026-11-16T10:35:03.332Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "google-auth-library",
+      "semver": "10.2.0",
+      "publishedAt": "2025-07-25T14:53:02.254Z",
+      "publisher": "google-wombot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 542689,
+      "dependencies": {
+        "jws": "^4.0.0",
+        "gaxios": "^7.0.0",
+        "gtoken": "^8.0.0",
+        "base64-js": "^1.3.0",
+        "gcp-metadata": "^7.0.0",
+        "ecdsa-sig-formatter": "^1.0.11",
+        "google-logging-utils": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/google-auth-library",
+          "observedAt": "2026-11-16T10:35:03.332Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/google-auth-library",
+          "observedAt": "2026-11-16T10:35:03.332Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/google-auth-library",
+          "observedAt": "2026-11-16T10:35:03.332Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/google-auth-library",
+          "observedAt": "2026-11-16T10:35:03.332Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/google-auth-library",
+          "observedAt": "2026-11-16T10:35:03.332Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/google-auth-library",
+          "observedAt": "2026-11-16T10:35:03.332Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "google-auth-library",
+      "semver": "10.2.1",
+      "publishedAt": "2025-08-04T18:36:41.855Z",
+      "publisher": "google-wombot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 542687,
+      "dependencies": {
+        "jws": "^4.0.0",
+        "gaxios": "^7.0.0",
+        "gtoken": "^8.0.0",
+        "base64-js": "^1.3.0",
+        "gcp-metadata": "^7.0.0",
+        "ecdsa-sig-formatter": "^1.0.11",
+        "google-logging-utils": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/google-auth-library",
+          "observedAt": "2026-11-16T10:35:03.332Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/google-auth-library",
+          "observedAt": "2026-11-16T10:35:03.332Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/google-auth-library",
+          "observedAt": "2026-11-16T10:35:03.332Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/google-auth-library",
+          "observedAt": "2026-11-16T10:35:03.332Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/google-auth-library",
+          "observedAt": "2026-11-16T10:35:03.332Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/google-auth-library",
+          "observedAt": "2026-11-16T10:35:03.332Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "google-auth-library",
+      "semver": "3.1.1",
+      "publishedAt": "2019-03-18T15:50:31.395Z",
+      "publisher": "google-node-team",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 222383,
+      "dependencies": {
+        "jws": "^3.1.5",
+        "gaxios": "^1.2.1",
+        "gtoken": "^2.3.2",
+        "semver": "^5.5.0",
+        "base64-js": "^1.3.0",
+        "lru-cache": "^5.0.0",
+        "gcp-metadata": "^1.0.0",
+        "https-proxy-agent": "^2.2.1",
+        "fast-text-encoding": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/google-auth-library",
+          "observedAt": "2026-11-16T10:35:03.332Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/google-auth-library",
+          "observedAt": "2026-11-16T10:35:03.332Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/google-auth-library",
+          "observedAt": "2026-11-16T10:35:03.332Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/google-auth-library",
+          "observedAt": "2026-11-16T10:35:03.332Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/google-auth-library",
+          "observedAt": "2026-11-16T10:35:03.332Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/google-auth-library",
+          "observedAt": "2026-11-16T10:35:03.332Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

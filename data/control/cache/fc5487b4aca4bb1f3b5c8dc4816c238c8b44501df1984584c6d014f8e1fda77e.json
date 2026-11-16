@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "pkg": "fb-watchman",
+  "source": "https://registry.npmjs.org/fb-watchman",
+  "fetchedAt": "2026-11-16T10:35:02.218Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 19
+  },
+  "sourceSha256": "028518f1c6e1eff8a105aedef9b29e44774e0ef3035f96303da996413f3085ed",
+  "versions": [
+    {
+      "pkg": "fb-watchman",
+      "semver": "2.0.1",
+      "publishedAt": "2019-12-06T18:43:01.710Z",
+      "publisher": "wez",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 10832,
+      "dependencies": {
+        "bser": "2.1.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/fb-watchman",
+          "observedAt": "2026-11-16T10:35:02.218Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/fb-watchman",
+          "observedAt": "2026-11-16T10:35:02.218Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/fb-watchman",
+          "observedAt": "2026-11-16T10:35:02.218Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/fb-watchman",
+          "observedAt": "2026-11-16T10:35:02.218Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/fb-watchman",
+          "observedAt": "2026-11-16T10:35:02.218Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/fb-watchman",
+          "observedAt": "2026-11-16T10:35:02.218Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "fb-watchman",
+      "semver": "2.0.2",
+      "publishedAt": "2022-09-21T19:53:18.615Z",
+      "publisher": "bolinfest",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 11008,
+      "dependencies": {
+        "bser": "2.1.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/fb-watchman",
+          "observedAt": "2026-11-16T10:35:02.218Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/fb-watchman",
+          "observedAt": "2026-11-16T10:35:02.218Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/fb-watchman",
+          "observedAt": "2026-11-16T10:35:02.218Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/fb-watchman",
+          "observedAt": "2026-11-16T10:35:02.218Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/fb-watchman",
+          "observedAt": "2026-11-16T10:35:02.218Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/fb-watchman",
+          "observedAt": "2026-11-16T10:35:02.218Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

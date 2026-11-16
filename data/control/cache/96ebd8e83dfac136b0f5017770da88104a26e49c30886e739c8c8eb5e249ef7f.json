@@ -1,0 +1,217 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@babel/plugin-transform-classes",
+  "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-classes",
+  "fetchedAt": "2026-11-16T10:34:32.358Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 137
+  },
+  "sourceSha256": "917a8beaf321b0f0892df157d1a0bdaaf0c9372af7c1e8ebe15540eed0d62742",
+  "versions": [
+    {
+      "pkg": "@babel/plugin-transform-classes",
+      "semver": "7.0.0-beta.49",
+      "publishedAt": "2018-05-25T16:05:02.123Z",
+      "publisher": "loganfsmyth",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 26605,
+      "dependencies": {
+        "globals": "^11.1.0",
+        "@babel/helper-define-map": "7.0.0-beta.49",
+        "@babel/helper-plugin-utils": "7.0.0-beta.49",
+        "@babel/helper-function-name": "7.0.0-beta.49",
+        "@babel/helper-replace-supers": "7.0.0-beta.49",
+        "@babel/helper-annotate-as-pure": "7.0.0-beta.49",
+        "@babel/helper-optimise-call-expression": "7.0.0-beta.49",
+        "@babel/helper-split-export-declaration": "7.0.0-beta.49"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-classes",
+          "observedAt": "2026-11-16T10:34:32.358Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-classes",
+          "observedAt": "2026-11-16T10:34:32.358Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-classes",
+          "observedAt": "2026-11-16T10:34:32.358Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-classes",
+          "observedAt": "2026-11-16T10:34:32.358Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-classes",
+          "observedAt": "2026-11-16T10:34:32.358Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-classes",
+          "observedAt": "2026-11-16T10:34:32.358Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/plugin-transform-classes",
+      "semver": "7.1.0",
+      "publishedAt": "2018-09-17T19:31:27.224Z",
+      "publisher": "hzoo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 24406,
+      "dependencies": {
+        "globals": "^11.1.0",
+        "@babel/helper-define-map": "^7.1.0",
+        "@babel/helper-plugin-utils": "^7.0.0",
+        "@babel/helper-function-name": "^7.1.0",
+        "@babel/helper-replace-supers": "^7.1.0",
+        "@babel/helper-annotate-as-pure": "^7.0.0",
+        "@babel/helper-optimise-call-expression": "^7.0.0",
+        "@babel/helper-split-export-declaration": "^7.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-classes",
+          "observedAt": "2026-11-16T10:34:32.358Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-classes",
+          "observedAt": "2026-11-16T10:34:32.358Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-classes",
+          "observedAt": "2026-11-16T10:34:32.358Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-classes",
+          "observedAt": "2026-11-16T10:34:32.358Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-classes",
+          "observedAt": "2026-11-16T10:34:32.358Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-classes",
+          "observedAt": "2026-11-16T10:34:32.358Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/plugin-transform-classes",
+      "semver": "7.10.4",
+      "publishedAt": "2020-06-30T13:13:23.289Z",
+      "publisher": "jlhwung",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 25457,
+      "dependencies": {
+        "globals": "^11.1.0",
+        "@babel/helper-define-map": "^7.10.4",
+        "@babel/helper-plugin-utils": "^7.10.4",
+        "@babel/helper-function-name": "^7.10.4",
+        "@babel/helper-replace-supers": "^7.10.4",
+        "@babel/helper-annotate-as-pure": "^7.10.4",
+        "@babel/helper-optimise-call-expression": "^7.10.4",
+        "@babel/helper-split-export-declaration": "^7.10.4"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-classes",
+          "observedAt": "2026-11-16T10:34:32.358Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-classes",
+          "observedAt": "2026-11-16T10:34:32.358Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-classes",
+          "observedAt": "2026-11-16T10:34:32.358Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-classes",
+          "observedAt": "2026-11-16T10:34:32.358Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-classes",
+          "observedAt": "2026-11-16T10:34:32.358Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-classes",
+          "observedAt": "2026-11-16T10:34:32.358Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@babel/plugin-transform-classes",
+      "semver": "8.0.0-beta.1",
+      "publishedAt": "2025-07-02T09:04:47.488Z",
+      "publisher": "nicolo-ribaudo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 90116,
+      "dependencies": {
+        "@babel/traverse": "^8.0.0-beta.1",
+        "@babel/helper-globals": "^8.0.0-beta.1",
+        "@babel/helper-plugin-utils": "^8.0.0-beta.1",
+        "@babel/helper-replace-supers": "^8.0.0-beta.1",
+        "@babel/helper-annotate-as-pure": "^8.0.0-beta.1",
+        "@babel/helper-compilation-targets": "^8.0.0-beta.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-classes",
+          "observedAt": "2026-11-16T10:34:32.358Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-classes",
+          "observedAt": "2026-11-16T10:34:32.358Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-classes",
+          "observedAt": "2026-11-16T10:34:32.358Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-classes",
+          "observedAt": "2026-11-16T10:34:32.358Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-classes",
+          "observedAt": "2026-11-16T10:34:32.358Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-classes",
+          "observedAt": "2026-11-16T10:34:32.358Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

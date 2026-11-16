@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 1,
+  "pkg": "confusing-browser-globals",
+  "source": "https://registry.npmjs.org/confusing-browser-globals",
+  "fetchedAt": "2026-11-16T10:34:58.224Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 45
+  },
+  "sourceSha256": "c090e71158324d58f122dcd57f187a42a844b06b0a38b80885517b6a53748bc9",
+  "versions": [
+    {
+      "pkg": "confusing-browser-globals",
+      "semver": "1.0.4",
+      "publishedAt": "2018-10-14T19:04:37.776Z",
+      "publisher": "gaearon",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 3694,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/confusing-browser-globals",
+          "observedAt": "2026-11-16T10:34:58.224Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/confusing-browser-globals",
+          "observedAt": "2026-11-16T10:34:58.224Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/confusing-browser-globals",
+          "observedAt": "2026-11-16T10:34:58.224Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/confusing-browser-globals",
+          "observedAt": "2026-11-16T10:34:58.224Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/confusing-browser-globals",
+          "observedAt": "2026-11-16T10:34:58.224Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/confusing-browser-globals",
+          "observedAt": "2026-11-16T10:34:58.224Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "confusing-browser-globals",
+      "semver": "1.0.5",
+      "publishedAt": "2018-10-30T03:40:58.597Z",
+      "publisher": "timer",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 3694,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/confusing-browser-globals",
+          "observedAt": "2026-11-16T10:34:58.224Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/confusing-browser-globals",
+          "observedAt": "2026-11-16T10:34:58.224Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/confusing-browser-globals",
+          "observedAt": "2026-11-16T10:34:58.224Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/confusing-browser-globals",
+          "observedAt": "2026-11-16T10:34:58.224Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/confusing-browser-globals",
+          "observedAt": "2026-11-16T10:34:58.224Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/confusing-browser-globals",
+          "observedAt": "2026-11-16T10:34:58.224Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "confusing-browser-globals",
+      "semver": "1.0.6-next.6a95aae9",
+      "publishedAt": "2019-01-04T18:33:45.009Z",
+      "publisher": "ianschmitz",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 3708,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/confusing-browser-globals",
+          "observedAt": "2026-11-16T10:34:58.224Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/confusing-browser-globals",
+          "observedAt": "2026-11-16T10:34:58.224Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/confusing-browser-globals",
+          "observedAt": "2026-11-16T10:34:58.224Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/confusing-browser-globals",
+          "observedAt": "2026-11-16T10:34:58.224Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/confusing-browser-globals",
+          "observedAt": "2026-11-16T10:34:58.224Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/confusing-browser-globals",
+          "observedAt": "2026-11-16T10:34:58.224Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "confusing-browser-globals",
+      "semver": "1.1.0-next.14",
+      "publishedAt": "2022-04-12T17:13:10.009Z",
+      "publisher": "iansu",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 3887,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/confusing-browser-globals",
+          "observedAt": "2026-11-16T10:34:58.224Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/confusing-browser-globals",
+          "observedAt": "2026-11-16T10:34:58.224Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/confusing-browser-globals",
+          "observedAt": "2026-11-16T10:34:58.224Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/confusing-browser-globals",
+          "observedAt": "2026-11-16T10:34:58.224Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/confusing-browser-globals",
+          "observedAt": "2026-11-16T10:34:58.224Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/confusing-browser-globals",
+          "observedAt": "2026-11-16T10:34:58.224Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

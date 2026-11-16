@@ -1,0 +1,185 @@
+{
+  "schemaVersion": 1,
+  "pkg": "findup-sync",
+  "source": "https://registry.npmjs.org/findup-sync",
+  "fetchedAt": "2026-11-16T10:35:02.537Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 16
+  },
+  "sourceSha256": "45ee7f4cb7d8f6ddd32e3301f17c175fe823a95fb92196941549dfcd8b7fd892",
+  "versions": [
+    {
+      "pkg": "findup-sync",
+      "semver": "0.1.3",
+      "publishedAt": "2014-03-14T14:30:47.366Z",
+      "publisher": "cowboy",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "glob": "~3.2.9",
+        "lodash": "~2.4.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/findup-sync",
+          "observedAt": "2026-11-16T10:35:02.537Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/findup-sync",
+          "observedAt": "2026-11-16T10:35:02.537Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/findup-sync",
+          "observedAt": "2026-11-16T10:35:02.537Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/findup-sync",
+          "observedAt": "2026-11-16T10:35:02.537Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/findup-sync",
+          "observedAt": "2026-11-16T10:35:02.537Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "findup-sync",
+      "semver": "0.4.0",
+      "publishedAt": "2016-04-02T22:52:53.947Z",
+      "publisher": "tkellen",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "is-glob": "^2.0.1",
+        "micromatch": "^2.3.7",
+        "resolve-dir": "^0.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/findup-sync",
+          "observedAt": "2026-11-16T10:35:02.537Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/findup-sync",
+          "observedAt": "2026-11-16T10:35:02.537Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/findup-sync",
+          "observedAt": "2026-11-16T10:35:02.537Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/findup-sync",
+          "observedAt": "2026-11-16T10:35:02.537Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/findup-sync",
+          "observedAt": "2026-11-16T10:35:02.537Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "findup-sync",
+      "semver": "0.4.2",
+      "publishedAt": "2016-07-10T23:48:32.492Z",
+      "publisher": "jonschlinkert",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "is-glob": "^2.0.1",
+        "micromatch": "^2.3.7",
+        "detect-file": "^0.1.0",
+        "resolve-dir": "^0.1.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/findup-sync",
+          "observedAt": "2026-11-16T10:35:02.537Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/findup-sync",
+          "observedAt": "2026-11-16T10:35:02.537Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/findup-sync",
+          "observedAt": "2026-11-16T10:35:02.537Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/findup-sync",
+          "observedAt": "2026-11-16T10:35:02.537Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/findup-sync",
+          "observedAt": "2026-11-16T10:35:02.537Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "findup-sync",
+      "semver": "5.0.0",
+      "publishedAt": "2021-10-31T21:02:15.526Z",
+      "publisher": "phated",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 6627,
+      "dependencies": {
+        "is-glob": "^4.0.3",
+        "micromatch": "^4.0.4",
+        "detect-file": "^1.0.0",
+        "resolve-dir": "^1.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/findup-sync",
+          "observedAt": "2026-11-16T10:35:02.537Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/findup-sync",
+          "observedAt": "2026-11-16T10:35:02.537Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/findup-sync",
+          "observedAt": "2026-11-16T10:35:02.537Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/findup-sync",
+          "observedAt": "2026-11-16T10:35:02.537Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/findup-sync",
+          "observedAt": "2026-11-16T10:35:02.537Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/findup-sync",
+          "observedAt": "2026-11-16T10:35:02.537Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

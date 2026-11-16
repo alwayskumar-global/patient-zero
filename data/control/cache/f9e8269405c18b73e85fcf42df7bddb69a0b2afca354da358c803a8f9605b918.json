@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "pkg": "unset-value",
+  "source": "https://registry.npmjs.org/unset-value",
+  "fetchedAt": "2026-11-16T10:35:31.595Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 6
+  },
+  "sourceSha256": "9c98b153c7674c6133bd105275eb75f93be0edc764aec7ca60d048d604afcb1c",
+  "versions": [
+    {
+      "pkg": "unset-value",
+      "semver": "1.0.0",
+      "publishedAt": "2017-02-25T22:27:15.940Z",
+      "publisher": "jonschlinkert",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "has-value": "^0.3.1",
+        "isobject": "^3.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/unset-value",
+          "observedAt": "2026-11-16T10:35:31.595Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/unset-value",
+          "observedAt": "2026-11-16T10:35:31.595Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/unset-value",
+          "observedAt": "2026-11-16T10:35:31.595Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/unset-value",
+          "observedAt": "2026-11-16T10:35:31.595Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/unset-value",
+          "observedAt": "2026-11-16T10:35:31.595Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "unset-value",
+      "semver": "2.0.1",
+      "publishedAt": "2022-02-11T12:24:42.276Z",
+      "publisher": "danez",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 9881,
+      "dependencies": {
+        "has-value": "^2.0.2",
+        "isobject": "^4.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/unset-value",
+          "observedAt": "2026-11-16T10:35:31.595Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/unset-value",
+          "observedAt": "2026-11-16T10:35:31.595Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/unset-value",
+          "observedAt": "2026-11-16T10:35:31.595Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/unset-value",
+          "observedAt": "2026-11-16T10:35:31.595Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/unset-value",
+          "observedAt": "2026-11-16T10:35:31.595Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/unset-value",
+          "observedAt": "2026-11-16T10:35:31.595Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

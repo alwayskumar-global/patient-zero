@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@testing-library/react",
+  "source": "https://registry.npmjs.org/%40testing-library%2Freact",
+  "fetchedAt": "2026-11-16T10:34:43.472Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 123
+  },
+  "sourceSha256": "3ed8c1478fbea0a6f07f9995595a86e848238f3868f02fff04faf4f7aef2592f",
+  "versions": [
+    {
+      "pkg": "@testing-library/react",
+      "semver": "10.3.1-alpha.2",
+      "publishedAt": "2020-06-23T04:44:54.336Z",
+      "publisher": "kentcdodds",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 5077625,
+      "dependencies": {
+        "@babel/runtime": "^7.10.3",
+        "@testing-library/dom": "7.16.2-alpha.2"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40testing-library%2Freact",
+          "observedAt": "2026-11-16T10:34:43.472Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40testing-library%2Freact",
+          "observedAt": "2026-11-16T10:34:43.472Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40testing-library%2Freact",
+          "observedAt": "2026-11-16T10:34:43.472Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40testing-library%2Freact",
+          "observedAt": "2026-11-16T10:34:43.472Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40testing-library%2Freact",
+          "observedAt": "2026-11-16T10:34:43.472Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40testing-library%2Freact",
+          "observedAt": "2026-11-16T10:34:43.472Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "@testing-library/react",
+      "semver": "16.3.0",
+      "publishedAt": "2025-04-02T17:03:38.791Z",
+      "publisher": "testing-library-bot",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 341724,
+      "dependencies": {
+        "@babel/runtime": "^7.12.5"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40testing-library%2Freact",
+          "observedAt": "2026-11-16T10:34:43.472Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40testing-library%2Freact",
+          "observedAt": "2026-11-16T10:34:43.472Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40testing-library%2Freact",
+          "observedAt": "2026-11-16T10:34:43.472Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40testing-library%2Freact",
+          "observedAt": "2026-11-16T10:34:43.472Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40testing-library%2Freact",
+          "observedAt": "2026-11-16T10:34:43.472Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40testing-library%2Freact",
+          "observedAt": "2026-11-16T10:34:43.472Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+# Resolved plan decisions
+
+The original `PLAN.md` is preserved unchanged as planning input. Its sample outputs and suggested setup commands are not evidence of implemented behavior or independent permission to publish/configure accounts.
+
+- **Stack:** TypeScript/npm workspaces with native `@relate/relate@1.0.1`. The binding and single-file persistence work on the tested runtime; Python fallback is unnecessary.
+- **Incidents:** two sourced September 2025 incidents plus the independently preselected 2,000-package control cohort. Drop the optional third incident using the plan's cut line. Adding a later wave after observing these outcomes would not create an independent held-out acceptance result.
+- **Storage:** one reviewed `patient-zero.rl` artifact; normalized source caches and manifests permit offline logical reconstruction. Native serialization is not guaranteed byte-identical across builds. Store publication is no-clobber.
+- **License:** preserve the fresh repository's original MIT license/copyright rather than silently replacing it with the plan's proposed Apache license. Relate and other dependencies retain their upstream licenses. See `THIRD_PARTY_NOTICES.md`.
+- **CLI distribution:** unpublished private workspaces, with a stable local `patient-zero` bin. After `npm ci` and `npm run build`, `npx --no-install patient-zero` uses the installed local bin. Unqualified `npx patient-zero` is not advertised because it may fetch an unrelated public package. npm publication has not been performed.
+- **CLI timing:** replay defaults to an immediate sampled terminal run; `--step-minutes` sets the sampling interval, and optional `--speed 60` paces simulated time at 60×. Explain defaults to current evidence time; use explicit retrospective mode for historical examples.
+- **Unknown data:** do not fabricate removed-version publishers/scripts, first public advisory timestamps, safe pins or worm paths. Held-out end-window recall is 0/516; first-public-advisory metrics are null. OSV timing is separately named. These are valid measured development outcomes, not detector acceptance.
+- **Upgrade tool:** assess a complete submitted candidate lockfile. A fresh evidence-mode policy pass is a scoped policy result, never a proof of safety. No automatic pin, override or install is implemented.
+- **Blast radius:** recorded publisher overlap plus exact paths inside the submitted/configured lockfile. Optional ecosystem dependents lookup is omitted, avoiding invented range resolutions.
+- **UI:** integrate the owner-provided export; no substitute design generation. Video and storyboard deliverables are excluded by the owner's current goal.
+- **MCP:** custom SDK stdio server plus separately documented/verified built-in Relate read-only stdio. Configuration examples are reviewable files; no global host/skill configuration is changed automatically.
+- **Release/admin:** local development and reviewable CI/submission materials are in scope. Publishing commits/releases, npm packages, public hosting, account registration, eligibility attestations and Devpost submission are owner actions. No timestamps, success claims or topic changes are fabricated to satisfy the planning document.

@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "p-limit",
+  "source": "https://registry.npmjs.org/p-limit",
+  "fetchedAt": "2026-11-16T10:35:16.508Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 27
+  },
+  "sourceSha256": "7d4c0fe0788460575bc1385fea653f40d005e269eb990c8eab562f19a3e29672",
+  "versions": [
+    {
+      "pkg": "p-limit",
+      "semver": "6.2.0",
+      "publishedAt": "2024-12-19T15:46:38.158Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 10346,
+      "dependencies": {
+        "yocto-queue": "^1.1.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/p-limit",
+          "observedAt": "2026-11-16T10:35:16.508Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/p-limit",
+          "observedAt": "2026-11-16T10:35:16.508Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/p-limit",
+          "observedAt": "2026-11-16T10:35:16.508Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/p-limit",
+          "observedAt": "2026-11-16T10:35:16.508Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/p-limit",
+          "observedAt": "2026-11-16T10:35:16.508Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/p-limit",
+          "observedAt": "2026-11-16T10:35:16.508Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

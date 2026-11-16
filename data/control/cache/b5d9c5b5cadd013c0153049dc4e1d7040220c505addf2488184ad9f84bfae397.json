@@ -1,0 +1,203 @@
+{
+  "schemaVersion": 1,
+  "pkg": "style-loader",
+  "source": "https://registry.npmjs.org/style-loader",
+  "fetchedAt": "2026-11-16T10:35:27.782Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 77
+  },
+  "sourceSha256": "7d14a335b9b10fd93619e38e2f62180becb618483a087cc98eb145abafdfda3b",
+  "versions": [
+    {
+      "pkg": "style-loader",
+      "semver": "0.13.1",
+      "publishedAt": "2016-03-24T19:29:51.615Z",
+      "publisher": "sokra",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "loader-utils": "^0.2.7"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/style-loader",
+          "observedAt": "2026-11-16T10:35:27.782Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/style-loader",
+          "observedAt": "2026-11-16T10:35:27.782Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/style-loader",
+          "observedAt": "2026-11-16T10:35:27.782Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/style-loader",
+          "observedAt": "2026-11-16T10:35:27.782Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/style-loader",
+          "observedAt": "2026-11-16T10:35:27.782Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "style-loader",
+      "semver": "0.21.0",
+      "publishedAt": "2018-04-18T17:11:15.986Z",
+      "publisher": "d3viant0ne",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 42994,
+      "dependencies": {
+        "loader-utils": "^1.1.0",
+        "schema-utils": "^0.4.5"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/style-loader",
+          "observedAt": "2026-11-16T10:35:27.782Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/style-loader",
+          "observedAt": "2026-11-16T10:35:27.782Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/style-loader",
+          "observedAt": "2026-11-16T10:35:27.782Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/style-loader",
+          "observedAt": "2026-11-16T10:35:27.782Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/style-loader",
+          "observedAt": "2026-11-16T10:35:27.782Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/style-loader",
+          "observedAt": "2026-11-16T10:35:27.782Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "style-loader",
+      "semver": "0.23.1",
+      "publishedAt": "2018-10-08T13:41:38.693Z",
+      "publisher": "michael-ciniawsky",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 45731,
+      "dependencies": {
+        "loader-utils": "^1.1.0",
+        "schema-utils": "^1.0.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/style-loader",
+          "observedAt": "2026-11-16T10:35:27.782Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/style-loader",
+          "observedAt": "2026-11-16T10:35:27.782Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/style-loader",
+          "observedAt": "2026-11-16T10:35:27.782Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/style-loader",
+          "observedAt": "2026-11-16T10:35:27.782Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/style-loader",
+          "observedAt": "2026-11-16T10:35:27.782Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/style-loader",
+          "observedAt": "2026-11-16T10:35:27.782Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "style-loader",
+      "semver": "0.24.0",
+      "publishedAt": "2019-08-06T09:47:00.782Z",
+      "publisher": null,
+      "hasInstallScript": null,
+      "provenance": null,
+      "unpackedSize": null,
+      "dependencies": null,
+      "evidence": {
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/style-loader",
+          "observedAt": "2026-11-16T10:35:27.782Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "style-loader",
+      "semver": "4.0.0",
+      "publishedAt": "2024-04-08T17:04:35.634Z",
+      "publisher": "evilebottnawi",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 58928,
+      "dependencies": {},
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/style-loader",
+          "observedAt": "2026-11-16T10:35:27.782Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/style-loader",
+          "observedAt": "2026-11-16T10:35:27.782Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/style-loader",
+          "observedAt": "2026-11-16T10:35:27.782Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/style-loader",
+          "observedAt": "2026-11-16T10:35:27.782Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/style-loader",
+          "observedAt": "2026-11-16T10:35:27.782Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/style-loader",
+          "observedAt": "2026-11-16T10:35:27.782Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

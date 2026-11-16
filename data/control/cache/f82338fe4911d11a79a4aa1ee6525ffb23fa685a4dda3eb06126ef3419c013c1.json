@@ -1,0 +1,310 @@
+{
+  "schemaVersion": 1,
+  "pkg": "prop-types",
+  "source": "https://registry.npmjs.org/prop-types",
+  "fetchedAt": "2026-11-16T10:35:21.395Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 24
+  },
+  "sourceSha256": "94abc8357db04976d0a56ab1635380f5b9c0df1c65ffd0a91da3e3c5593b1ae4",
+  "versions": [
+    {
+      "pkg": "prop-types",
+      "semver": "0.2.0",
+      "publishedAt": "2016-01-24T15:36:29.906Z",
+      "publisher": "theron",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "invariant": "^2.2.0"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/prop-types",
+          "observedAt": "2026-11-16T10:35:21.395Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/prop-types",
+          "observedAt": "2026-11-16T10:35:21.395Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/prop-types",
+          "observedAt": "2026-11-16T10:35:21.395Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/prop-types",
+          "observedAt": "2026-11-16T10:35:21.395Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/prop-types",
+          "observedAt": "2026-11-16T10:35:21.395Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "prop-types",
+      "semver": "15.5.4",
+      "publishedAt": "2017-04-08T03:21:34.037Z",
+      "publisher": "acdlite",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "fbjs": "^0.8.9"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/prop-types",
+          "observedAt": "2026-11-16T10:35:21.395Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/prop-types",
+          "observedAt": "2026-11-16T10:35:21.395Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/prop-types",
+          "observedAt": "2026-11-16T10:35:21.395Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/prop-types",
+          "observedAt": "2026-11-16T10:35:21.395Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/prop-types",
+          "observedAt": "2026-11-16T10:35:21.395Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "prop-types",
+      "semver": "15.5.6",
+      "publishedAt": "2017-04-09T15:48:45.053Z",
+      "publisher": "brianvaughn",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "fbjs": "^0.8.9"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/prop-types",
+          "observedAt": "2026-11-16T10:35:21.395Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/prop-types",
+          "observedAt": "2026-11-16T10:35:21.395Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/prop-types",
+          "observedAt": "2026-11-16T10:35:21.395Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/prop-types",
+          "observedAt": "2026-11-16T10:35:21.395Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/prop-types",
+          "observedAt": "2026-11-16T10:35:21.395Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "prop-types",
+      "semver": "15.6.0",
+      "publishedAt": "2017-09-25T23:44:46.308Z",
+      "publisher": "sophiebits",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": null,
+      "dependencies": {
+        "fbjs": "^0.8.16",
+        "loose-envify": "^1.3.1",
+        "object-assign": "^4.1.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/prop-types",
+          "observedAt": "2026-11-16T10:35:21.395Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/prop-types",
+          "observedAt": "2026-11-16T10:35:21.395Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/prop-types",
+          "observedAt": "2026-11-16T10:35:21.395Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/prop-types",
+          "observedAt": "2026-11-16T10:35:21.395Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/prop-types",
+          "observedAt": "2026-11-16T10:35:21.395Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "prop-types",
+      "semver": "15.6.1",
+      "publishedAt": "2018-02-26T22:51:44.761Z",
+      "publisher": "aweary",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 79410,
+      "dependencies": {
+        "fbjs": "^0.8.16",
+        "loose-envify": "^1.3.1",
+        "object-assign": "^4.1.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/prop-types",
+          "observedAt": "2026-11-16T10:35:21.395Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/prop-types",
+          "observedAt": "2026-11-16T10:35:21.395Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/prop-types",
+          "observedAt": "2026-11-16T10:35:21.395Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/prop-types",
+          "observedAt": "2026-11-16T10:35:21.395Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/prop-types",
+          "observedAt": "2026-11-16T10:35:21.395Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/prop-types",
+          "observedAt": "2026-11-16T10:35:21.395Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "prop-types",
+      "semver": "15.6.2",
+      "publishedAt": "2018-06-19T15:54:20.726Z",
+      "publisher": "gaearon",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 76276,
+      "dependencies": {
+        "loose-envify": "^1.3.1",
+        "object-assign": "^4.1.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/prop-types",
+          "observedAt": "2026-11-16T10:35:21.395Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/prop-types",
+          "observedAt": "2026-11-16T10:35:21.395Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/prop-types",
+          "observedAt": "2026-11-16T10:35:21.395Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/prop-types",
+          "observedAt": "2026-11-16T10:35:21.395Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/prop-types",
+          "observedAt": "2026-11-16T10:35:21.395Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/prop-types",
+          "observedAt": "2026-11-16T10:35:21.395Z",
+          "kind": "registry"
+        }
+      }
+    },
+    {
+      "pkg": "prop-types",
+      "semver": "15.8.1",
+      "publishedAt": "2022-01-05T00:08:33.458Z",
+      "publisher": "ljharb",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 94537,
+      "dependencies": {
+        "loose-envify": "^1.4.0",
+        "object-assign": "^4.1.1",
+        "react-is": "^16.13.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/prop-types",
+          "observedAt": "2026-11-16T10:35:21.395Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/prop-types",
+          "observedAt": "2026-11-16T10:35:21.395Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/prop-types",
+          "observedAt": "2026-11-16T10:35:21.395Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/prop-types",
+          "observedAt": "2026-11-16T10:35:21.395Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/prop-types",
+          "observedAt": "2026-11-16T10:35:21.395Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/prop-types",
+          "observedAt": "2026-11-16T10:35:21.395Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

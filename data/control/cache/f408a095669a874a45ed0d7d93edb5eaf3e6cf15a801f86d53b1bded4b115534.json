@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "pkg": "is-installed-globally",
+  "source": "https://registry.npmjs.org/is-installed-globally",
+  "fetchedAt": "2026-11-16T10:35:06.293Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 8
+  },
+  "sourceSha256": "2cebec5cab6504a2addc06aa7d60dbbd4dcd6e70921558c70acc9aa2e1ef7ca7",
+  "versions": [
+    {
+      "pkg": "is-installed-globally",
+      "semver": "1.0.0",
+      "publishedAt": "2023-11-06T19:26:23.806Z",
+      "publisher": "sindresorhus",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 3904,
+      "dependencies": {
+        "is-path-inside": "^4.0.0",
+        "global-directory": "^4.0.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/is-installed-globally",
+          "observedAt": "2026-11-16T10:35:06.293Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/is-installed-globally",
+          "observedAt": "2026-11-16T10:35:06.293Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/is-installed-globally",
+          "observedAt": "2026-11-16T10:35:06.293Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/is-installed-globally",
+          "observedAt": "2026-11-16T10:35:06.293Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/is-installed-globally",
+          "observedAt": "2026-11-16T10:35:06.293Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/is-installed-globally",
+          "observedAt": "2026-11-16T10:35:06.293Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}

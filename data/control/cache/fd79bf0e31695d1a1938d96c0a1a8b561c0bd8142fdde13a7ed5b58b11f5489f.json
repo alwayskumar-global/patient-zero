@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "pkg": "@babel/plugin-transform-json-strings",
+  "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-json-strings",
+  "fetchedAt": "2026-11-16T10:34:32.594Z",
+  "projection": {
+    "start": "2025-08-01T00:00:00.000Z",
+    "end": "2025-08-08T00:00:00.000Z",
+    "lookbackMinutes": 300,
+    "originalVersionCount": 46
+  },
+  "sourceSha256": "c211826cb4b59ba528043361c957cff5606e4c12fda4e756e89f48e3dc613839",
+  "versions": [
+    {
+      "pkg": "@babel/plugin-transform-json-strings",
+      "semver": "8.0.0-beta.1",
+      "publishedAt": "2025-07-02T09:04:13.098Z",
+      "publisher": "nicolo-ribaudo",
+      "hasInstallScript": false,
+      "provenance": false,
+      "unpackedSize": 5916,
+      "dependencies": {
+        "@babel/helper-plugin-utils": "^8.0.0-beta.1"
+      },
+      "evidence": {
+        "publisher": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-json-strings",
+          "observedAt": "2026-11-16T10:34:32.594Z",
+          "kind": "registry"
+        },
+        "hasInstallScript": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-json-strings",
+          "observedAt": "2026-11-16T10:34:32.594Z",
+          "kind": "registry"
+        },
+        "provenance": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-json-strings",
+          "observedAt": "2026-11-16T10:34:32.594Z",
+          "kind": "registry"
+        },
+        "dependencies": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-json-strings",
+          "observedAt": "2026-11-16T10:34:32.594Z",
+          "kind": "registry"
+        },
+        "unpackedSize": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-json-strings",
+          "observedAt": "2026-11-16T10:34:32.594Z",
+          "kind": "registry"
+        },
+        "publishedAt": {
+          "source": "https://registry.npmjs.org/%40babel%2Fplugin-transform-json-strings",
+          "observedAt": "2026-11-16T10:34:32.594Z",
+          "kind": "registry"
+        }
+      }
+    }
+  ]
+}
