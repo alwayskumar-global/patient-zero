@@ -4,7 +4,7 @@
 
 ## Order of operations
 
-1. Publish/review a Patient Zero commit, then pin the action to that **full immutable commit SHA**. The current local development has not been published; do not paste the initial empty repository SHA as a release.
+1. Publish/review a Patient Zero commit, then pin the action to that **full immutable commit SHA**. The implementation is published on `main`; use the full reviewed commit SHA, not the initial empty repository commit or a mutable branch, for an external caller.
 2. Use a normal `pull_request` workflow, `permissions: contents: read`, and `actions/checkout` with `persist-credentials: false`. Do not use `pull_request_target` to execute PR code or give this gate write tokens/secrets.
 3. Provide the untrusted PR's lockfile as data. Keep action code, detector config, policy inputs and any custom evidence store on a trusted reviewed revision, independently of the PR. An attacker-controlled store/config is not a trustworthy policy input. Use a second checkout at a protected reviewed commit if supplying a custom store.
 4. Leave mode `evidence` and assessment time current for actual policy use. The shipped historical incident store will normally return incomplete for current installs; it is a reproducible demo artifact, not a live universal registry snapshot.
@@ -52,4 +52,4 @@ The summary includes escaped full evidence paths and gaps. The report is written
 
 `.github/workflows/ci.yml` includes backend/native checks, offline frozen benchmarking, production-build Chromium tests and an **intentional historical block** action job. Only that regression fixture uses `continue-on-error`; the following step requires exact blocked/exit-1 outputs. Never copy that exception into a current policy gate.
 
-The action runner's 0/1/2 behavior, path/identity evidence, summary escaping, invalid inputs, symlink escapes and unchanged store bytes are tested locally. Hosted workflow execution requires publishing this development revision; a configured workflow is not a remote CI pass.
+The action runner's 0/1/2 behavior, path/identity evidence, summary escaping, invalid inputs, symlink escapes and unchanged store bytes are tested locally. The real hosted Action regression also passed: its historical gate returned blocked/exit 1, and the follow-up assertion verified both outputs. [Hosted evidence](CI.md). An intentional exit 1 appears as an error in that regression step's log; the regression job passes only when that exact expected block is observed.

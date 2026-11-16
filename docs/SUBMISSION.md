@@ -20,7 +20,7 @@ The development demonstrates provenance, temporal isolation, instance-level grap
 
 ## How to try
 
-Repository: https://github.com/alwayskumar-global/patient-zero (publish the completed reviewed revision before sharing this as the working implementation).
+Repository: https://github.com/alwayskumar-global/patient-zero — completed implementation is published on `main`; hosted run evidence is in `docs/CI.md`.
 
 Node 22+, npm and optional native dependencies are required. `npm ci`, then `npm run demo` demonstrates the native engine, terminal replay, fixture block and benchmark, then opens a loopback UI at `http://127.0.0.1:3000`. No secrets/env file/database server is required. Dependency installation needs registry access; the demo runs offline afterward. Never install the historical incident fixture. Detailed setup, MCP and Action instructions are linked from the README.
 
@@ -30,6 +30,6 @@ TypeScript, Relate 1.0.1, Next.js/React, Sigma/Graphology, d3 and the official M
 
 ## Owner-only release tasks
 
-- Review the local implementation and select/publish a real release commit. Pin any external Action caller to that full SHA. Hosted CI is configured but has not run on this unpublished revision.
+- Review the published implementation and select a real release commit. Pin any external Action caller to that full SHA. Refer to `docs/CI.md` and the Actions page for exact hosted CI evidence.
 - Confirm the public repo and required `relate` topic, team/eligibility, AI/third-party disclosure and current official submission requirements.
 - Submit through the owner's Devpost account. Do not claim an excluded video exists or claim detector acceptance from green implementation tests.
